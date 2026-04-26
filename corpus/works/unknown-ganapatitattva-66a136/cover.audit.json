@@ -1,0 +1,102 @@
+{
+  "work_slug": "unknown-ganapatitattva-66a136",
+  "series_id": "kawi-tattva",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T16:59:05.610Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "series_id": "kawi-tattva",
+      "series_anchor": {
+        "label": "Old Javanese / Kawi tattva corpus (San Hyan series, Vrhaspatitattva, Gaṇapatitattva, Slokantara, Vratisasana, Kunjarakarna, Kalpabuddha)",
+        "palette": "tropical earth ochre, deep palm-leaf brown, weathered teak, jasmine cream, faint lapis trace",
+        "mood": "Old Javanese palm-leaf manuscript tradition. Tropical pre-dawn humidity. Frangipani at the threshold. The text inscribed with an iron stylus.",
+        "watercolor_treatment": "Earth ochre and palm-brown washed wet-on-wet to simulate the patina of palm-leaf age. Tropical greenery suggested only as a faint background tone, never literally rendered. Lapis used as a single bright accent on the subject only if the work demands it."
+      },
+      "work_metadata": {
+        "title": "Gaṇapatitattva",
+        "author": "Unknown",
+        "era": "Unknown",
+        "language": "Kawi",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "//0// May there be no obstacles. // Oṃ, homage to the perfected. //0// Oṃ //\n\nGaṇapati questioned Śiva, the giver of success to Gaṅgā and Umā,\nthe son who is teacher to the host of gods, for the glory of the light of power and valor. // (1)\n\n1. This is the teaching of Lord Śiva to The Divine Gaṇa.\nYour humble son pays obeisance to you, my Lord. Pray, reveal to your son the truth, that I may know the emergence of the five divine Selves. From whence is their emergence? This is what you must reveal to your servant.\n\n2. Īśvara spoke:\nMy son, Gaṇapati, listen now to my teachings to you. The Word is",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "Gaṇapatitattva opens with a son questioning a father-teacher about the emergence of divine Selves — the transmission of esoteric truth through sacred speech. A single iron stylus resting on a strip of palm leaf evokes the act of inscription, the preservation of oral teaching in written form, and the Kawi manuscript tradition without depicting any figure or icon.",
+        "subject": "A single iron stylus resting diagonally across a narrow strip of palm leaf",
+        "palette": "tropical earth ochre, palm-leaf brown (sepia), faint lapis trace",
+        "composition": "The stylus and palm-leaf strip occupy the lower-left third of the composition, anchored by the weight of the sepia wash, with the upper-right two-thirds left as warm jasmine-cream negative space where the paper grain breathes openly.",
+        "watercolor_treatment": "Wet-on-wet earth ochre and sepia washed across the palm strip to simulate aged patina, pigment pooling darker along the leaf's fibrous edges and diluting almost to nothing toward the center. The iron stylus rendered with a single dry-brush pass of concentrated sepia, paper grain visible through the stroke. One thin lapis accent glazed wet-on-wet at the stylus tip only, bleeding softly into the ochre. Pencil under-drawing faintly legible beneath the leaf's surface.",
+        "prompt": "A single iron stylus rests diagonally across a narrow strip of palm leaf, placed in the lower-left third of warm cream cotton paper, the upper-right field left entirely open. Earth ochre and sepia wash the palm strip wet-on-wet, pigment pooling in deep brown along the fibrous leaf edges and diluting toward the center until almost nothing remains. The stylus is rendered in one dry-brush pass of concentrated sepia, cold-press paper grain breaking the stroke visibly. A single faint lapis accent bleeds softly at the stylus tip into the surrounding ochre. Pencil under-drawing ghosts beneath the leaf surface, soft and unresolved. No hard outlines anywhere — only pooled pigment, breathing paper, and deliberate quiet."
+      },
+      "usage": {
+        "prompt": 1929,
+        "completion": 477,
+        "total": 2406
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "The prompt is mostly controlled, but it violates the one-subject constraint by making both the stylus and palm-leaf strip visually active objects.",
+        "issues": [
+          {
+            "severity": "high",
+            "category": "vague_subject",
+            "problematic_phrase": "\"A single iron stylus rests diagonally across a narrow strip of palm leaf\"",
+            "suggestion": "\"A single iron stylus is the only focal object, resting on a barely indicated narrow palm-leaf strip treated as a muted support rather than a second subject\""
+          }
+        ],
+        "overall_score": 6,
+        "recommendation": "revise"
+      },
+      "usage": {
+        "prompt": 2089,
+        "completion": 647,
+        "total": 2736
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic's single high-severity issue is valid: the original prompt treats both the stylus and the palm-leaf strip as co-equal focal subjects, which violates the one-subject constraint. The fix is to subordinate the palm-leaf strip to a muted support role while keeping the stylus as the sole focal object. The suggestion is precise and surgical — I can apply it without rewriting the whole prompt. All other elements of the original are strong and should be preserved.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "The palm-leaf strip was functioning as a second active subject; demoting it to a muted support clarifies the stylus as the sole focal object and honors the one-subject constraint."
+          }
+        ],
+        "final_prompt": "A single iron stylus is the only focal object, resting diagonally on a barely indicated narrow palm-leaf strip treated as a muted support rather than a second subject, placed in the lower-left third of warm cream cotton paper, the upper-right field left entirely open. Earth ochre and sepia wash the palm strip wet-on-wet, pigment pooling in deep brown along the fibrous leaf edges and diluting toward the center until almost nothing remains. The stylus is rendered in one dry-brush pass of concentrated sepia, cold-press paper grain breaking the stroke visibly. A single faint lapis accent bleeds softly at the stylus tip into the surrounding ochre. Pencil under-drawing ghosts beneath the leaf surface, soft and unresolved. No hard outlines anywhere — only pooled pigment, breathing paper, and deliberate quiet.",
+        "changes_summary": "The palm-leaf strip has been explicitly subordinated to a muted support role, ensuring the iron stylus reads as the sole focal subject. All other compositional, tonal, and textural details remain unchanged."
+      },
+      "usage": {
+        "prompt": 1317,
+        "completion": 406,
+        "total": 1723
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-ganapatitattva-66a136/cover.webp",
+      "bytes": 925610,
+      "generated_at": "2026-04-26T16:59:05.610Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single iron stylus is the only focal object, resting diagonally on a barely indicated narrow palm-leaf strip treated as a muted support rather than a second subject, placed in the lower-left third of warm cream cotton paper, the upper-right field left entirely open. Earth ochre and sepia wash the palm strip wet-on-wet, pigment pooling in deep brown along the fibrous leaf edges and diluting toward the center until almost nothing remains. The stylus is rendered in one dry-brush pass of concentrated sepia, cold-press paper grain breaking the stroke visibly. A single faint lapis accent bleeds softly at the stylus tip into the surrounding ochre. Pencil under-drawing ghosts beneath the leaf surface, soft and unresolved. No hard outlines anywhere — only pooled pigment, breathing paper, and deliberate quiet.",
+  "cache_key": "4b91091bcf9b7711"
+}

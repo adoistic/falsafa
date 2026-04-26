@@ -1,0 +1,149 @@
+@import "@fontsource/crimson-pro/400.css";
+@import "@fontsource/crimson-pro/600.css";
+@import "@fontsource/crimson-pro/400-italic.css";
+@import "@fontsource/source-serif-4/600.css";
+@import "@fontsource/source-serif-4/700.css";
+@import "@fontsource/inter/400.css";
+@import "@fontsource/inter/500.css";
+@import "@fontsource/inter/600.css";
+
+@import "./tokens.css";
+
+/* ── Reset + base ────────────────────────────────────────────────────── */
+
+*, *::before, *::after {
+  box-sizing: border-box;
+}
+
+html {
+  -webkit-text-size-adjust: 100%;
+  text-size-adjust: 100%;
+  scroll-behavior: smooth;
+}
+
+body {
+  margin: 0;
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  font-size: var(--reader-fs);
+  line-height: var(--reader-lh);
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  text-rendering: optimizeLegibility;
+  font-feature-settings: "kern" 1, "liga" 1, "calt" 1;
+}
+
+img, svg, video, canvas, picture {
+  display: block;
+  max-width: 100%;
+  height: auto;
+}
+
+a {
+  color: var(--accent);
+  text-decoration: none;
+  transition: color 0.15s ease;
+}
+
+a:hover {
+  color: var(--accent-soft);
+}
+
+a:visited {
+  /* Preserve visited-state distinction per WCAG */
+  opacity: 0.85;
+}
+
+a:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* Skip link for keyboard users */
+.skip-link {
+  position: absolute;
+  top: -100px;
+  left: var(--s-4);
+  background: var(--ink);
+  color: var(--paper);
+  padding: var(--s-2) var(--s-4);
+  font-family: var(--font-sans);
+  font-size: var(--fs-chrome);
+  z-index: 100;
+  text-decoration: none;
+}
+
+.skip-link:focus {
+  top: var(--s-2);
+}
+
+/* ── Site chrome (header, footer, nav) ───────────────────────────────── */
+
+.site-header {
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  padding: var(--s-6) var(--s-8);
+  border-bottom: 1px solid var(--rule);
+  font-family: var(--font-sans);
+  font-size: var(--fs-chrome);
+  position: sticky;
+  top: 0;
+  background: var(--paper);
+  z-index: 10;
+}
+
+.site-header .brand {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: 24px;
+  color: var(--ink);
+}
+
+.site-header nav {
+  display: flex;
+  gap: var(--s-6);
+}
+
+.site-header nav a {
+  color: var(--ink-muted);
+  font-weight: 500;
+}
+
+.site-header nav a:hover {
+  color: var(--ink);
+}
+
+.site-footer {
+  margin-top: var(--s-24);
+  padding: var(--s-12) var(--s-8);
+  border-top: 1px solid var(--rule);
+  font-family: var(--font-sans);
+  font-size: var(--fs-chrome);
+  color: var(--ink-muted);
+  text-align: center;
+}
+
+.site-footer .credits {
+  margin-top: var(--s-3);
+  font-size: 12px;
+}
+
+/* ── Container ───────────────────────────────────────────────────────── */
+
+.container {
+  max-width: 1240px;
+  margin: 0 auto;
+  padding: 0 var(--s-8);
+}
+
+@media (max-width: 639px) {
+  .container {
+    padding: 0 var(--s-6);
+  }
+  .site-header {
+    padding: var(--s-4) var(--s-6);
+  }
+}

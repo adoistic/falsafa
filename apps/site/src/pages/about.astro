@@ -1,0 +1,163 @@
+---
+import Base from "../layouts/Base.astro";
+---
+
+<Base
+  title="About"
+  description="What Falsafa is, who built it, and how the corpus was produced."
+>
+  <article class="about">
+    <header>
+      <p class="kicker">About</p>
+      <h1>Falsafa</h1>
+      <p class="lede">
+        A reading platform for translated philosophical and classical works,
+        plus an open-source MCP engine that lets any LLM query the corpus as a
+        knowledge resource.
+      </p>
+    </header>
+
+    <section>
+      <h2>What's in the catalog</h2>
+      <p>
+        38 works, 627 logical chapters, 1,673 language variants. The corpus
+        spans Anglo-Saxon Christian poetry (Cynewulf), Urdu ghazal masters
+        (Ghalib, Iqbal, Zauq), French Enlightenment political theory (Comte,
+        Dunoyer), German philosophical writing (Fichte), Sanskrit smṛti
+        traditions, and Old Javanese / Kawi tattva texts. Most works ship with
+        2-3 variants — original-language source, Latin-script
+        transliteration, and English translation.
+      </p>
+    </section>
+
+    <section>
+      <h2>Thothica</h2>
+      <p>
+        The translations and transliterations were produced by
+        <a href="https://thothica.com">Thothica</a>, an AI translation company.
+        Thothica's pipeline draws on frontier large language models — Anthropic's
+        Claude, OpenAI's GPT, Google's Gemini, and open-weights models via
+        OpenRouter. Without those models, the catalog at this scale would not
+        exist.
+      </p>
+      <p>
+        Every chapter page surfaces the credit verb that matches what was done
+        — translated, transliterated, or curated.
+      </p>
+    </section>
+
+    <section>
+      <h2>The MCP engine</h2>
+      <p>
+        Falsafa ships an open-source MCP server (<code>@falsafa/mcp</code>) that
+        exposes the corpus as eight librarian tools — list works, list
+        chapters, read a chapter, get a passage, search the corpus, find
+        related, compare works, and read metadata. Plug it into Claude Desktop,
+        Cursor, Codex, or any MCP-aware client, and your chosen LLM can
+        navigate the catalog directly.
+      </p>
+      <p>
+        The MCP is a librarian, not a second LLM. Tools return text and
+        structure; the host LLM does the reasoning. No API keys, no inference
+        cost, no model lock-in. Inspired by Karpathy's
+        <a href="https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f">
+          vector-DB-less RAG gist
+        </a>.
+      </p>
+    </section>
+
+    <section>
+      <h2>The covers</h2>
+      <p>
+        Every cover is a watercolor painting produced by an agentic pipeline
+        (Claude Sonnet 4.6 drafts → GPT-5.5 critiques → Claude Sonnet 4.6
+        decides → gpt-5.4-image-2 renders). Cross-vendor critique catches
+        AI-slop, hedging, and palette drift before the prompt reaches the
+        image model. Every stage's I/O is persisted to a per-work
+        <code>cover.audit.json</code> for full reproducibility.
+      </p>
+      <p>
+        Series with multiple works (Cynewulf trilogy, Iqbal's three Bang-E-Dara
+        parts, Comte's volumes, the Sanskrit smṛti corpus, the Kawi tattva
+        corpus) share a palette + mood anchor so siblings read as related;
+        works in different series look genuinely different.
+      </p>
+    </section>
+
+    <section>
+      <h2>License + source</h2>
+      <p>
+        MIT licensed. Source on
+        <a href="https://github.com/adoistic/falsafa">GitHub</a>. Built by
+        <a href="https://meetadnan.com">Adnan</a>.
+      </p>
+    </section>
+  </article>
+</Base>
+
+<style>
+  .about {
+    max-width: 60ch;
+    margin: 0 auto;
+    padding: var(--s-12) var(--s-6) var(--s-24);
+    font-family: var(--font-body);
+    font-size: var(--fs-body);
+    line-height: var(--lh-body);
+  }
+
+  .about header {
+    margin-bottom: var(--s-12);
+  }
+
+  .kicker {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin: 0 0 var(--s-2);
+  }
+
+  h1 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h1);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin: 0 0 var(--s-3);
+  }
+
+  .lede {
+    font-family: var(--font-display);
+    font-style: italic;
+    color: var(--ink-muted);
+    font-size: var(--fs-h3);
+    line-height: 1.4;
+    margin: 0;
+  }
+
+  section {
+    margin-bottom: var(--s-12);
+  }
+
+  h2 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h2);
+    font-weight: 600;
+    margin: 0 0 var(--s-4);
+    letter-spacing: -0.01em;
+  }
+
+  code {
+    font-family: var(--font-mono);
+    font-size: 0.9em;
+    background: rgba(0, 0, 0, 0.05);
+    padding: 2px 6px;
+    border-radius: 3px;
+  }
+
+  [data-theme="dark"] code,
+  [data-theme="sepia"] code {
+    background: rgba(255, 255, 255, 0.08);
+  }
+</style>

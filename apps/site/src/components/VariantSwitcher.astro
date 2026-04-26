@@ -1,0 +1,33 @@
+---
+import type { ChapterMeta, ContentType } from "../lib/corpus";
+
+interface Props {
+  meta: ChapterMeta;
+  workSlug: string;
+  current: ContentType;
+}
+
+const { meta, workSlug, current } = Astro.props;
+
+function variantLabel(t: ContentType): string {
+  if (t === "translation") return "English";
+  if (t === "transliteration") return "Transliterated";
+  if (t === "original") return "Original";
+  return t;
+}
+---
+
+{
+  meta.variants.length > 1 && (
+    <nav class="variant-switcher" aria-label="Choose language variant">
+      {meta.variants.map((v) => {
+        const href = `/works/${workSlug}/${meta.chapter_slug}/${v.content_type}/`;
+        return (
+          <a href={href} aria-current={v.content_type === current ? "true" : undefined}>
+            {variantLabel(v.content_type)}
+          </a>
+        );
+      })}
+    </nav>
+  )
+}

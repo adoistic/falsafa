@@ -1,0 +1,113 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "series_id": "comte-legislation",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T17:00:04.884Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "series_id": "comte-legislation",
+      "series_anchor": {
+        "label": "Charles Comte — Traité de Législation (Volumes I-IV)",
+        "palette": "lead grey, ivory, ink black, oxidized brass, considered neutrals",
+        "mood": "18th-century European salon at lamplight. Restrained, rational. The philosopher's writing desk after the household has gone to bed.",
+        "watercolor_treatment": "Cool dry washes with controlled pigment. Allow paper grain to dominate in the negative space. A single warm note (oxidized brass or candle warmth) introduced sparingly to break the cool palette."
+      },
+      "work_metadata": {
+        "title": "Traité de Législation: VOL III",
+        "author": "Charles Comte",
+        "era": "Enlightenment",
+        "language": "French",
+        "genre": "Political & Social Theory",
+        "description": ""
+      },
+      "content_excerpt": "## CHAP. 28: > Of the relations observed between the means of existence and the social state of the peoples of the Mongol species, of the Orient and of the center of Asia. — Parallel between the morals of the peoples of this species who live under a cold climate, and the morals of those who live under a temperate climate or under a hot climate.Asia encompasses nations of the three principal divisions that have been made of the human race: it encompasses peoples of the Mongol species, peoples of the Caucasian species, and peoples of the Malay species. The peoples of these three species have som",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The chapter examines how climate and geography shape the social and moral character of peoples across Asia — a fundamentally cartographic and naturalist inquiry. A single worn compass or surveying instrument evokes the Enlightenment project of mapping human civilization against physical conditions, without illustrating any specific people or scene.",
+        "subject": "A brass surveying compass, face-up, slightly tilted on a flat surface",
+        "palette": "Payne's grey, ivory (warm white of the paper), oxidized brass",
+        "composition": "Compass placed in the lower-left third of the composition, its needle arm drifting slightly off-center, occupying roughly one-third of the picture plane. The upper-right two-thirds dissolves into bare cream paper with only the faintest grey wash suggesting open distance.",
+        "watercolor_treatment": "Cool Payne's grey wet-on-wet wash laid broadly across the upper field, pooling faintly at the compass rim and diluting to near-nothing toward the top edge, paper grain fully exposed in the negative space. The brass body of the compass receives a single dry-brush stroke of oxidized brass pigment — warm and restrained — applied with a near-dry brush so the cold-press texture scuffs through. Pencil under-drawing faintly visible at the compass bezel. No second wash except one deepening layer inside the compass housing to give it weight.",
+        "prompt": "A single brass surveying compass rests face-up in the lower-left third of warm cream cotton paper, its needle arm tilted slightly off true. The brass body is rendered with one dry-brush stroke of oxidized brass pigment, the bristle drag exposing cold-press paper grain beneath. A cool Payne's grey wet-on-wet wash spreads across the upper field, pooling faintly at the instrument's rim before diluting to almost nothing at the top edge, leaving more than half the composition as breathing room. A second deepening wash of Payne's grey settles inside the compass housing to anchor its weight. Pencil under-drawing ghosts faintly at the bezel. No hard outlines — all edges bleed softly into the ivory ground. Restrained, rational, lamplight-era stillness."
+      },
+      "usage": {
+        "prompt": 1795,
+        "completion": 487,
+        "total": 2282
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "The prompt is structurally aligned, but it contains avoidable weak qualifiers that leave visible choices under-specified for the image model.",
+        "issues": [
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "tilted slightly off true",
+            "suggestion": "tilted five degrees off true"
+          },
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "diluting to almost nothing at the top edge",
+            "suggestion": "diluting to a near-blank film at the top edge"
+          }
+        ],
+        "overall_score": 7,
+        "recommendation": "revise"
+      },
+      "usage": {
+        "prompt": 2022,
+        "completion": 1121,
+        "total": 3143
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "Both issues are medium severity and the critic's suggestions are valid improvements. Issue 0 replaces a vague qualifier 'slightly off true' with a precise angular measurement 'five degrees off true' — this is a clear improvement that removes ambiguity without conflicting with the series anchor. Issue 1 replaces 'almost nothing' with 'a near-blank film' — this is more precise and evocative language that better describes the watercolor effect without introducing new ideas. Neither suggestion conflicts with the series anchor or over-corrects. Both should be accepted.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "Replacing 'slightly off true' with 'five degrees off true' gives the image model a concrete, unambiguous instruction rather than a vague qualifier."
+          },
+          {
+            "issue_index": 1,
+            "decision": "accept",
+            "reason": "'A near-blank film' is more precise and painterly than 'almost nothing,' better conveying the watercolor dilution effect without adding new concepts."
+          }
+        ],
+        "final_prompt": "A single brass surveying compass rests face-up in the lower-left third of warm cream cotton paper, its needle arm tilted five degrees off true. The brass body is rendered with one dry-brush stroke of oxidized brass pigment, the bristle drag exposing cold-press paper grain beneath. A cool Payne's grey wet-on-wet wash spreads across the upper field, pooling faintly at the instrument's rim before diluting to a near-blank film at the top edge, leaving more than half the composition as breathing room. A second deepening wash of Payne's grey settles inside the compass housing to anchor its weight. Pencil under-drawing ghosts faintly at the bezel. No hard outlines — all edges bleed softly into the ivory ground. Restrained, rational, lamplight-era stillness.",
+        "changes_summary": "Two weak qualifiers were sharpened: 'slightly off true' became 'five degrees off true' for angular precision, and 'almost nothing' became 'a near-blank film' for more evocative watercolor specificity."
+      },
+      "usage": {
+        "prompt": 1296,
+        "completion": 475,
+        "total": 1771
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/charles-comte-traite-de-legislation-vol-iii-ca589a/cover.webp",
+      "bytes": 1119514,
+      "generated_at": "2026-04-26T17:00:04.884Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single brass surveying compass rests face-up in the lower-left third of warm cream cotton paper, its needle arm tilted five degrees off true. The brass body is rendered with one dry-brush stroke of oxidized brass pigment, the bristle drag exposing cold-press paper grain beneath. A cool Payne's grey wet-on-wet wash spreads across the upper field, pooling faintly at the instrument's rim before diluting to a near-blank film at the top edge, leaving more than half the composition as breathing room. A second deepening wash of Payne's grey settles inside the compass housing to anchor its weight. Pencil under-drawing ghosts faintly at the bezel. No hard outlines — all edges bleed softly into the ivory ground. Restrained, rational, lamplight-era stillness.",
+  "cache_key": "67657fff4148a600"
+}

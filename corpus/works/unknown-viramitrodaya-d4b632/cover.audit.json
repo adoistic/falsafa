@@ -1,0 +1,102 @@
+{
+  "work_slug": "unknown-viramitrodaya-d4b632",
+  "series_id": "sanskrit-smrti",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T17:05:15.208Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "series_id": "sanskrit-smrti",
+      "series_anchor": {
+        "label": "Sanskrit smṛti corpus (Manu, Yājñavalkya, Nārada, Bṛhaspati, Aṅgirasa, Parāśara, Viṣṇu, Yama, Kātyāyana, Vīramitrodaya)",
+        "palette": "sandalwood, sacred saffron, deep ochre, weathered bronze, palm-leaf cream",
+        "mood": "Ancient Indian dharma tradition committed to palm leaf. Pre-dawn temple light. The verse-numbered shloka, copied for centuries.",
+        "watercolor_treatment": "Sandalwood wash as the dominant pigment, allowed to bleed into the paper. Saffron introduced sparingly. A touch of dried-leaf brown for the manuscript edge. Pigment kept thin and allowed to expose the cream paper warmly."
+      },
+      "work_metadata": {
+        "title": "Vīramitrodaya",
+        "author": "Unknown",
+        "era": "Ancient",
+        "language": "Sanskrit",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "{MV-S_1}\n\nSalutations to the glorious Gaṇeśa.\n\nHere begins the *Samayaprakāśa* of the *Vīramitrodaya*.\n\nMay that unprecedented body of the Man-Lion (Nṛhari) protect us—whose terrifying frown is made dreadful by the fierce movement of His brow, which dances with the bristling and spreading of His mane in a fit of rage; whose dreadful gaze roams about; before whom the mountain-like serpent bows down completely; from the fearsome expanse of whose tearing apart of His enemy's naked body, the edge of the great cauldron of the golden cosmic egg shatters. // 1 //\n\nMay that Nṛsiṃha, whose great and fu",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The Vīramitrodaya opens with a salutation to Nṛsiṃha, the Man-Lion deity, but a portrait of that deity is forbidden. Instead, a single lion's claw—cast in worn bronze or bone, the kind found on a ritual implement—evokes the fierce, tearing, protective energy of Nṛsiṃha without depicting the figure. It anchors the dharmaśāstra mood: ancient, pre-dawn, manuscript-warm.",
+        "subject": "a single curved lion's claw resting on a palm-leaf surface, seen from above at a slight angle",
+        "palette": "raw sienna dominant, yellow ochre supporting, a whisper of burnt umber accent",
+        "composition": "The claw sits in the lower-left third of the composition, its tip pointing inward toward the center. The upper two-thirds and right half of the painting are open cream paper with only the faintest sandalwood wash bleeding upward, leaving more than half the surface as breathing negative space.",
+        "watercolor_treatment": "A wet-on-wet sandalwood wash laid first across the whole sheet, pooling slightly darker at the lower-left corner and diluting to near-nothing at the upper-right edge, letting the cold-press grain show warmly through. The claw form built with a second wash of raw sienna, edges left to bleed softly outward without any hard outline. A third, minimal pass of burnt umber deepens the inner curve and the shadow beneath the tip. Dry-brush scuffs of yellow ochre along the claw's ridge suggest worn surface texture. Pencil under-drawing faintly visible beneath the thinnest washes.",
+        "prompt": "On warm cream cotton paper, a single curved lion's claw rests on a palm-leaf surface in the lower-left third of the composition, its tip angling gently inward. A wet-on-wet sandalwood wash opens the painting, pooling to a soft amber density at the lower corner and bleeding upward until it nearly vanishes, leaving the upper and right portions as open, breathing cream. The claw is rendered in two passes of raw sienna—edges allowed to bleed without any hard outline—with a third deepening wash of burnt umber settling into the inner curve and the shadow beneath the tip. Dry-brush strokes of yellow ochre scuff along the ridge, exposing cold-press paper grain. Pencil under-drawing remains faintly legible beneath the thinnest areas. No text, no figures, no decorative borders. Ancient, restrained, pre-dawn still."
+      },
+      "usage": {
+        "prompt": 1908,
+        "completion": 573,
+        "total": 2481
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "The prompt is structurally clean, but the central claw can read as a zoological trophy rather than a dharma-linked ritual object, weakening cultural alignment.",
+        "issues": [
+          {
+            "severity": "medium",
+            "category": "subject_misalignment",
+            "problematic_phrase": "a single curved lion's claw rests on a palm-leaf surface",
+            "suggestion": "a single curved weathered-bronze lion-claw ritual fitting rests on a palm-leaf surface"
+          }
+        ],
+        "overall_score": 8,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2134,
+        "completion": 1584,
+        "total": 3718
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic's single issue is medium severity and addresses a real cultural alignment problem: a bare lion's claw reads as a zoological specimen or trophy rather than a dharmic ritual object. Replacing it with a 'weathered-bronze lion-claw ritual fitting' anchors the object within the temple/ritual context of the series anchor and uses 'weathered bronze' which is explicitly in the series palette. This is a clean, surgical substitution that improves cultural coherence without bloating the prompt. Accept.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "Specifying 'weathered-bronze lion-claw ritual fitting' ties the object to the series palette and dharma-ritual context, preventing a zoological/trophy misread."
+          }
+        ],
+        "final_prompt": "On warm cream cotton paper, a single curved weathered-bronze lion-claw ritual fitting rests on a palm-leaf surface in the lower-left third of the composition, its tip angling gently inward. A wet-on-wet sandalwood wash opens the painting, pooling to a soft amber density at the lower corner and bleeding upward until it nearly vanishes, leaving the upper and right portions as open, breathing cream. The claw fitting is rendered in two passes of raw sienna—edges allowed to bleed without any hard outline—with a third deepening wash of burnt umber settling into the inner curve and the shadow beneath the tip. Dry-brush strokes of yellow ochre scuff along the ridge, exposing cold-press paper grain. Pencil under-drawing remains faintly legible beneath the thinnest areas. No text, no figures, no decorative borders. Ancient, restrained, pre-dawn still.",
+        "changes_summary": "The bare 'lion's claw' was replaced with 'weathered-bronze lion-claw ritual fitting' to anchor the object within the series' dharma-ritual context and explicitly invoke the weathered bronze from the series palette. No other changes were made."
+      },
+      "usage": {
+        "prompt": 1312,
+        "completion": 442,
+        "total": 1754
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-viramitrodaya-d4b632/cover.webp",
+      "bytes": 1061856,
+      "generated_at": "2026-04-26T17:05:15.208Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "On warm cream cotton paper, a single curved weathered-bronze lion-claw ritual fitting rests on a palm-leaf surface in the lower-left third of the composition, its tip angling gently inward. A wet-on-wet sandalwood wash opens the painting, pooling to a soft amber density at the lower corner and bleeding upward until it nearly vanishes, leaving the upper and right portions as open, breathing cream. The claw fitting is rendered in two passes of raw sienna—edges allowed to bleed without any hard outline—with a third deepening wash of burnt umber settling into the inner curve and the shadow beneath the tip. Dry-brush strokes of yellow ochre scuff along the ridge, exposing cold-press paper grain. Pencil under-drawing remains faintly legible beneath the thinnest areas. No text, no figures, no decorative borders. Ancient, restrained, pre-dawn still.",
+  "cache_key": "a3442560d3430026"
+}

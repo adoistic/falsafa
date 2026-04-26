@@ -1,0 +1,102 @@
+{
+  "work_slug": "unknown-vratisasana-d0fe75",
+  "series_id": "kawi-tattva",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T17:05:17.392Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "series_id": "kawi-tattva",
+      "series_anchor": {
+        "label": "Old Javanese / Kawi tattva corpus (San Hyan series, Vrhaspatitattva, Gaṇapatitattva, Slokantara, Vratisasana, Kunjarakarna, Kalpabuddha)",
+        "palette": "tropical earth ochre, deep palm-leaf brown, weathered teak, jasmine cream, faint lapis trace",
+        "mood": "Old Javanese palm-leaf manuscript tradition. Tropical pre-dawn humidity. Frangipani at the threshold. The text inscribed with an iron stylus.",
+        "watercolor_treatment": "Earth ochre and palm-brown washed wet-on-wet to simulate the patina of palm-leaf age. Tropical greenery suggested only as a faint background tone, never literally rendered. Lapis used as a single bright accent on the subject only if the work demands it."
+      },
+      "work_metadata": {
+        "title": "Vratisasana",
+        "author": "Unknown",
+        "era": "Unknown",
+        "language": "Kawi",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "Vratiśāsana\n\n[VS_00s] ||0|| May there be no hindrance ||0||\n\n[VS_00s] || oṁ namaḥ śivāya ||\n\n[VS_01s-ab] *Having bowed to the god Bhāskara, the bestower of worldly enjoyment and liberation,*\n\n[VS_01s-cd] *for the benefit of all the worlds, I shall proclaim the ordinance for ascetics. ||1||*\n\n[VS_01j] Lord Śivāditya is the one I worship. He is the manifest god, who bestows worldly enjoyment and liberation. Worldly enjoyment means worldly prosperity; liberation means the highest good. What is my purpose in worshipping him? \"I shall proclaim the ordinance for ascetics.\" I shall teach the ordinanc",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The Vratisasana is an ordinance for ascetics — a text of discipline, renunciation, and spiritual instruction. A single iron stylus lying on a worn palm-leaf surface evokes the act of inscribing sacred ordinance, the transmission of ascetic rule, and the Kawi manuscript tradition without illustrating any scene or figure.",
+        "subject": "A single iron stylus resting diagonally on a worn palm-leaf manuscript surface",
+        "palette": "Yellow ochre, palm-leaf brown (raw umber), faint lapis trace",
+        "composition": "The stylus placed in the lower-left third of the composition, angled slightly off-horizontal, with its tip pointing toward the lower corner and its shaft fading into the warm cream ground. More than two-thirds of the painting is open ochre-cream negative space suggesting the surface of an aged leaf.",
+        "watercolor_treatment": "Wet-on-wet ochre and raw umber washed broadly across the lower portion to simulate palm-leaf patina, pooling darker at the stylus shadow and diluting upward to near-nothing at the top edge. Paper grain visible throughout the pale areas. The stylus itself built with two careful dry-brush passes of raw umber to suggest worn iron, with a single thin lapis accent along one edge catching ambient light. Pencil under-drawing faintly legible beneath the wash.",
+        "prompt": "A single iron stylus rests diagonally across the lower-left third of the composition on warm cream cotton paper, its shaft rendered in two dry-brush passes of raw umber, iron-dark and slightly worn, with one thin lapis trace along its upper edge. A broad wet-on-wet wash of yellow ochre and palm-leaf brown spreads from beneath the stylus, pooling deepest at the shadow line and diluting upward until it dissolves entirely into the cream ground. Cold-press paper grain shows through the pale upper expanse. A faint pencil under-drawing is barely legible where the wash is thinnest. More than two-thirds of the surface is open, breathing negative space. No text, no border, no figure — only the instrument of inscription, the patina of aged leaf, and deliberate restraint."
+      },
+      "usage": {
+        "prompt": 1924,
+        "completion": 487,
+        "total": 2411
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "Only material weakness is a weak qualifier that leaves the stylus wear under-specified. Otherwise no gate-failing slop, namedropping, watercolor-labeling, or anchor drift is present.",
+        "issues": [
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "slightly worn",
+            "suggestion": "worn at the grip and tip"
+          }
+        ],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2096,
+        "completion": 1133,
+        "total": 3229
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The single medium-severity issue is a valid and specific improvement: replacing 'slightly worn' with 'worn at the grip and tip' gives the image generator precise spatial information about where the wear appears on the stylus, which is more actionable and visually grounded. No anchor drift, no new ideas introduced. Accept.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "'Worn at the grip and tip' specifies the location of wear precisely, giving the renderer clear spatial guidance rather than a vague qualifier."
+          }
+        ],
+        "final_prompt": "A single iron stylus rests diagonally across the lower-left third of the composition on warm cream cotton paper, its shaft rendered in two dry-brush passes of raw umber, iron-dark and worn at the grip and tip, with one thin lapis trace along its upper edge. A broad wet-on-wet wash of yellow ochre and palm-leaf brown spreads from beneath the stylus, pooling deepest at the shadow line and diluting upward until it dissolves entirely into the cream ground. Cold-press paper grain shows through the pale upper expanse. A faint pencil under-drawing is barely legible where the wash is thinnest. More than two-thirds of the surface is open, breathing negative space. No text, no border, no figure — only the instrument of inscription, the patina of aged leaf, and deliberate restraint.",
+        "changes_summary": "Replaced 'slightly worn' with 'worn at the grip and tip' to give precise spatial detail about the stylus wear. No other changes were made."
+      },
+      "usage": {
+        "prompt": 1293,
+        "completion": 353,
+        "total": 1646
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-vratisasana-d0fe75/cover.webp",
+      "bytes": 1012614,
+      "generated_at": "2026-04-26T17:05:17.392Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single iron stylus rests diagonally across the lower-left third of the composition on warm cream cotton paper, its shaft rendered in two dry-brush passes of raw umber, iron-dark and worn at the grip and tip, with one thin lapis trace along its upper edge. A broad wet-on-wet wash of yellow ochre and palm-leaf brown spreads from beneath the stylus, pooling deepest at the shadow line and diluting upward until it dissolves entirely into the cream ground. Cold-press paper grain shows through the pale upper expanse. A faint pencil under-drawing is barely legible where the wash is thinnest. More than two-thirds of the surface is open, breathing negative space. No text, no border, no figure — only the instrument of inscription, the patina of aged leaf, and deliberate restraint.",
+  "cache_key": "5bf92c2a256d0332"
+}

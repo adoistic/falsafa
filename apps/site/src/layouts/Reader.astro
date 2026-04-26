@@ -1,0 +1,42 @@
+---
+/**
+ * Reader layout — wraps the chapter renderer. Mounts reader.css, reading-progress
+ * indicator, view transitions for smooth chapter-to-chapter navigation.
+ */
+import Base from "./Base.astro";
+import "../styles/reader.css";
+
+interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+  layout: "prose" | "verse" | "manuscript";
+}
+
+const { title, description, ogImage, layout } = Astro.props;
+---
+
+<Base title={title} description={description} ogImage={ogImage}>
+  <div class="reading-progress" id="reading-progress" aria-hidden="true"></div>
+
+  <article class="reader" data-layout={layout}>
+    <slot />
+  </article>
+
+  <script is:inline>
+    // Reading-progress indicator
+    (function () {
+      const el = document.getElementById("reading-progress");
+      if (!el) return;
+      function update() {
+        const h = document.documentElement;
+        const max = h.scrollHeight - h.clientHeight;
+        const pct = max > 0 ? (h.scrollTop / max) * 100 : 0;
+        el.style.setProperty("--progress", pct.toFixed(2) + "%");
+      }
+      window.addEventListener("scroll", update, { passive: true });
+      window.addEventListener("resize", update);
+      update();
+    })();
+  </script>
+</Base>

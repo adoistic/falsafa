@@ -1,0 +1,89 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "series_id": "comte-legislation",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T16:58:32.404Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "series_id": "comte-legislation",
+      "series_anchor": {
+        "label": "Charles Comte — Traité de Législation (Volumes I-IV)",
+        "palette": "lead grey, ivory, ink black, oxidized brass, considered neutrals",
+        "mood": "18th-century European salon at lamplight. Restrained, rational. The philosopher's writing desk after the household has gone to bed.",
+        "watercolor_treatment": "Cool dry washes with controlled pigment. Allow paper grain to dominate in the negative space. A single warm note (oxidized brass or candle warmth) introduced sparingly to break the cool palette."
+      },
+      "work_metadata": {
+        "title": "Traité de Législation: VOL II",
+        "author": "Charles Comte",
+        "era": "Enlightenment",
+        "language": "French",
+        "genre": "Political & Social Theory",
+        "description": ""
+      },
+      "content_excerpt": "## CHAP. 1: > Of what constitutes the perfection and degradation of the diverse parts of man. — Of the consequences that result from this perfection and this degradation. — Of the influence of governments on the development of human faculties.\n\nThe object of this work being to expound what are the principal causes of the prosperity and decadence of nations, it is suitable, before making this exposition, to determine the meaning one attaches to these words of decadence and prosperity. As long as we confine ourselves to the enunciation of these general expressions, we will encounter few contradi",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "Volume II opens with the question of human faculties — their perfection and degradation — as the measure of national prosperity or decadence. A single balance or measuring instrument evokes rational assessment without illustration. An antique folded brass caliper, slightly open, resting at rest on the page, captures the Enlightenment impulse to measure human potential with precision and cool reason.",
+        "subject": "A single antique brass caliper, hinged open at a shallow angle, resting on its side",
+        "palette": "lead grey, oxidized brass, ivory",
+        "composition": "The caliper sits in the lower-left third of the painting, angled slightly off-horizontal, one arm extending toward the center. The upper-right two-thirds of the composition is bare warm cream paper, breathing and empty. Visual weight anchors the lower edge; the negative space above suggests the open, unresolved question of the text.",
+        "watercolor_treatment": "Cool lead grey wet-on-wet wash laid first across the caliper's body, pooling darker at the hinge joint and diluting to near-nothing at the arm tips. A second dry-brush pass with the same grey scuffs across the mid-section to suggest worn metal and paper grain beneath. A single restrained glaze of oxidized brass — warm yellow ochre cut with raw umber — applied wet-on-wet over the hinge pivot only, bleeding softly into the grey. Pencil under-drawing visible at the arm edges, unfinished and deliberate. No hard outlines anywhere; all edges bleed into the cream paper.",
+        "prompt": "A single antique brass caliper, hinged open at a shallow angle, rests in the lower-left third of warm cream cold-press cotton paper. A cool lead grey wet-on-wet wash covers the instrument's body, pooling deepest at the hinge and thinning to almost nothing at the arm tips; visible paper grain shows through the dilute edges. A second dry-brush scuff of the same grey drags across the mid-section, leaving broken texture. One restrained glaze of oxidized brass — yellow ochre cut with raw umber — bleeds softly into the hinge pivot alone, introducing a single warm note against the cool palette. Pencil under-drawing ghosts at the arm edges. The upper-right two-thirds of the composition is untouched cream paper, open and deliberate. No hard outlines. No lettering. Restrained, rational, lamplight-quiet."
+      },
+      "usage": {
+        "prompt": 1790,
+        "completion": 543,
+        "total": 2333
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "no significant issues",
+        "issues": [],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2051,
+        "completion": 217,
+        "total": 2268
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic found no issues and recommends shipping the prompt as-is with a score of 9/10. There are no suggestions to accept or reject. The original prompt honors the series anchor fully — correct palette, mood, watercolor treatment, and composition. I will emit the original prompt unchanged as the final prompt.",
+        "decisions": [],
+        "final_prompt": "A single antique brass caliper, hinged open at a shallow angle, rests in the lower-left third of warm cream cold-press cotton paper. A cool lead grey wet-on-wet wash covers the instrument's body, pooling deepest at the hinge and thinning to almost nothing at the arm tips; visible paper grain shows through the dilute edges. A second dry-brush scuff of the same grey drags across the mid-section, leaving broken texture. One restrained glaze of oxidized brass — yellow ochre cut with raw umber — bleeds softly into the hinge pivot alone, introducing a single warm note against the cool palette. Pencil under-drawing ghosts at the arm edges. The upper-right two-thirds of the composition is untouched cream paper, open and deliberate. No hard outlines. No lettering. Restrained, rational, lamplight-quiet.",
+        "changes_summary": "No changes were made. The critic recommended shipping the prompt as-is with no issues identified, and the original fully honors the series anchor."
+      },
+      "usage": {
+        "prompt": 1217,
+        "completion": 311,
+        "total": 1528
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/charles-comte-traite-de-legislation-vol-ii-20331d/cover.webp",
+      "bytes": 833206,
+      "generated_at": "2026-04-26T16:58:32.403Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single antique brass caliper, hinged open at a shallow angle, rests in the lower-left third of warm cream cold-press cotton paper. A cool lead grey wet-on-wet wash covers the instrument's body, pooling deepest at the hinge and thinning to almost nothing at the arm tips; visible paper grain shows through the dilute edges. A second dry-brush scuff of the same grey drags across the mid-section, leaving broken texture. One restrained glaze of oxidized brass — yellow ochre cut with raw umber — bleeds softly into the hinge pivot alone, introducing a single warm note against the cool palette. Pencil under-drawing ghosts at the arm edges. The upper-right two-thirds of the composition is untouched cream paper, open and deliberate. No hard outlines. No lettering. Restrained, rational, lamplight-quiet.",
+  "cache_key": "5442269681d107a4"
+}

@@ -1,0 +1,119 @@
+/**
+ * Falsafa design tokens — derived from DESIGN.md.
+ * Light theme is default; dark + sepia toggle via [data-theme] on <html>.
+ */
+
+:root {
+  /* ── Color tokens ──────────────────────────────────────────────────── */
+  --paper: #faf6ee;       /* warm off-white background */
+  --ink: #1a1614;         /* warm dark text */
+  --ink-muted: #5a5550;   /* secondary text, byline, smallcaps */
+  --accent: #8a3a2e;      /* terracotta — links, drop cap, accents */
+  --accent-soft: #c8907a; /* hover, soft highlights */
+  --rule: #e8e0d2;        /* dividers, borders */
+  --highlight: #f5e6c8;   /* notebook highlight bg */
+  --error: #a02828;
+  --success: #2a6a3a;
+
+  /* ── Typography ────────────────────────────────────────────────────── */
+  --font-display: "Source Serif 4", "Tiempos Headline", Georgia, serif;
+  --font-body: "Crimson Pro", "Source Serif 4", Georgia, serif;
+  --font-sans: "Inter", "IBM Plex Sans", -apple-system, BlinkMacSystemFont, system-ui, sans-serif;
+  --font-mono: ui-monospace, "JetBrains Mono", "IBM Plex Mono", monospace;
+  --font-nastaliq: "Noto Nastaliq Urdu", serif;
+  --font-devanagari: "Noto Serif Devanagari", serif;
+
+  /* Font sizes (desktop default) */
+  --fs-h1: 56px;
+  --fs-h2: 36px;
+  --fs-h3: 24px;
+  --fs-body: 19px;
+  --fs-byline: 12px;
+  --fs-mono: 13px;
+  --fs-marginalia: 14px;
+  --fs-chrome: 14px;
+  --fs-drop: 96px;
+
+  --lh-display: 1.4;
+  --lh-body: 1.7;
+  --lh-chrome: 1.5;
+
+  /* ── Spacing scale (4/8 modular) ───────────────────────────────────── */
+  --s-1: 4px;
+  --s-2: 8px;
+  --s-3: 12px;
+  --s-4: 16px;
+  --s-6: 24px;
+  --s-8: 32px;
+  --s-12: 48px;
+  --s-16: 64px;
+  --s-24: 96px;
+  --s-32: 128px;
+
+  /* Reading column widths */
+  --col-main: 720px;
+  --col-margin: 280px;
+
+  /* ── Reader prefs (size + density toggles can override these) ──────── */
+  --reader-fs: var(--fs-body);
+  --reader-lh: var(--lh-body);
+}
+
+/* Mobile sizes */
+@media (max-width: 639px) {
+  :root {
+    --fs-h1: 40px;
+    --fs-h2: 28px;
+    --fs-h3: 22px;
+    --fs-body: 17px;
+    --fs-drop: 64px;
+  }
+}
+
+/* ── Theme: dark ─────────────────────────────────────────────────────── */
+[data-theme="dark"] {
+  --paper: #1a1614;
+  --ink: #f0e8d8;
+  --ink-muted: #a89e8c;
+  --accent: #d68a72;
+  --accent-soft: #8a3a2e;
+  --rule: #2e2823;
+  --highlight: #5a4828;
+}
+
+/* ── Theme: sepia ────────────────────────────────────────────────────── */
+[data-theme="sepia"] {
+  --paper: #f0e2c4;
+  --ink: #3a2818;
+  --ink-muted: #6a584a;
+  --accent: #6a3a20;
+  --accent-soft: #a06a4a;
+  --rule: #d8c8a8;
+  --highlight: #e8d6a8;
+}
+
+/* ── Reader density (cozy / comfortable / spacious) ──────────────────── */
+[data-density="cozy"] {
+  --reader-lh: 1.5;
+}
+[data-density="spacious"] {
+  --reader-lh: 1.9;
+}
+
+/* ── Reader size (S / M / L) ─────────────────────────────────────────── */
+[data-size="s"] {
+  --reader-fs: 16px;
+}
+[data-size="l"] {
+  --reader-fs: 22px;
+}
+
+/* ── Reduced motion ──────────────────────────────────────────────────── */
+@media (prefers-reduced-motion: reduce) {
+  *, *::before, *::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}

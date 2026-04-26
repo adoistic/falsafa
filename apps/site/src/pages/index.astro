@@ -1,0 +1,218 @@
+---
+import Base from "../layouts/Base.astro";
+import { manifest, readWorkIndex } from "../lib/corpus";
+
+const m = manifest();
+// Featured: pick the first work that has a cover, prioritize the trilogy
+const featuredCandidates = ["cynewulf-andreas-07b573", ...m.works.map((w) => w.slug)];
+let featured: { work: typeof m.works[0]; cover: string | null } | null = null;
+for (const slug of featuredCandidates) {
+  const w = m.works.find((w) => w.slug === slug);
+  if (!w) continue;
+  const idx = readWorkIndex(w.slug);
+  if (idx?.cover_url) {
+    featured = { work: w, cover: idx.cover_url };
+    break;
+  }
+}
+if (!featured) featured = { work: m.works[0]!, cover: null };
+
+// Era nodes for the timeline
+const eraOrder = ["Ancient", "Antiquity", "Medieval", "Enlightenment", "19th Century", "20th Century", "Unknown"];
+const eraEntries = eraOrder
+  .filter((e) => m.eras[e.toLowerCase().replace(/[^a-z0-9]+/g, "-")])
+  .map((label) => {
+    const slug = label.toLowerCase().replace(/[^a-z0-9]+/g, "-");
+    return { label, slug, count: m.eras[slug]?.works.length ?? 0 };
+  });
+---
+
+<Base
+  title="Falsafa"
+  description="A premium reading platform for translated philosophical and classical texts. 38 works, 627 logical chapters, 2-3 language variants each. Free, public, open source."
+>
+  <div class="container">
+    <section class="featured">
+      {featured.cover && (
+        <a href={`/works/${featured.work.slug}/`} class="featured-cover">
+          <img src={featured.cover} alt={`Cover for ${featured.work.title}`} />
+        </a>
+      )}
+      <div class="featured-text">
+        <p class="kicker">Featured reading</p>
+        <h1 class="featured-title">{featured.work.title}</h1>
+        <p class="featured-author">{featured.work.author}</p>
+        <p class="featured-desc">{featured.work.description}</p>
+        <a href={`/works/${featured.work.slug}/`} class="cta">Begin reading →</a>
+      </div>
+    </section>
+
+    <section class="catalog-overview">
+      <h2>The catalog</h2>
+      <p class="lede">
+        {m.counts.works} works across {m.counts.eras} eras, {m.counts.languages} languages,
+        {m.counts.authors} authors. Translations and transliterations by Thothica.
+      </p>
+      <div class="era-strip">
+        {eraEntries.map((e) => (
+          <a href={`/works/?era=${e.slug}`} class="era-node">
+            <span class="era-label">{e.label}</span>
+            <span class="era-count">{e.count} {e.count === 1 ? "work" : "works"}</span>
+          </a>
+        ))}
+      </div>
+      <p class="all-works-link">
+        <a href="/works/">Browse all {m.counts.works} works →</a>
+      </p>
+    </section>
+  </div>
+</Base>
+
+<style>
+  .container {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: var(--s-12) var(--s-8) var(--s-24);
+  }
+
+  .featured {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--s-12);
+    margin-bottom: var(--s-24);
+    align-items: center;
+  }
+
+  @media (min-width: 768px) {
+    .featured {
+      grid-template-columns: minmax(0, 3fr) minmax(0, 2fr);
+      gap: var(--s-16);
+    }
+  }
+
+  .featured-cover {
+    display: block;
+    aspect-ratio: 3 / 2;
+    overflow: hidden;
+    border: 1px solid var(--rule);
+    transition: transform 0.3s ease;
+  }
+
+  .featured-cover:hover {
+    transform: scale(1.01);
+  }
+
+  .featured-cover img {
+    width: 100%;
+    height: 100%;
+    object-fit: cover;
+  }
+
+  .featured-text {
+    font-family: var(--font-body);
+  }
+
+  .kicker {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin: 0 0 var(--s-3);
+  }
+
+  .featured-title {
+    font-family: var(--font-display);
+    font-size: var(--fs-h1);
+    font-weight: 700;
+    line-height: var(--lh-display);
+    letter-spacing: -0.02em;
+    margin: 0 0 var(--s-2);
+  }
+
+  .featured-author {
+    font-family: var(--font-display);
+    font-style: italic;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-6);
+    font-size: var(--fs-h3);
+  }
+
+  .featured-desc {
+    margin: 0 0 var(--s-6);
+    font-size: var(--fs-body);
+    line-height: var(--lh-body);
+  }
+
+  .cta {
+    display: inline-block;
+    font-family: var(--font-sans);
+    font-weight: 500;
+    color: var(--accent);
+    border-bottom: 1px solid currentColor;
+    padding-bottom: 2px;
+  }
+
+  .catalog-overview {
+    margin-top: var(--s-24);
+    padding-top: var(--s-12);
+    border-top: 1px solid var(--rule);
+  }
+
+  .catalog-overview h2 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h2);
+    font-weight: 600;
+    margin: 0 0 var(--s-3);
+  }
+
+  .lede {
+    font-family: var(--font-display);
+    font-style: italic;
+    color: var(--ink-muted);
+    font-size: var(--fs-h3);
+    line-height: 1.4;
+    max-width: 60ch;
+    margin: 0 0 var(--s-12);
+  }
+
+  .era-strip {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+    gap: var(--s-3);
+    margin-bottom: var(--s-8);
+  }
+
+  .era-node {
+    display: flex;
+    flex-direction: column;
+    padding: var(--s-4) var(--s-6);
+    border: 1px solid var(--rule);
+    color: var(--ink);
+    transition: border-color 0.2s ease, background 0.2s ease;
+  }
+
+  .era-node:hover {
+    border-color: var(--accent);
+    background: rgba(138, 58, 46, 0.04);
+  }
+
+  .era-label {
+    font-family: var(--font-display);
+    font-size: var(--fs-h3);
+    font-weight: 600;
+    margin-bottom: var(--s-1);
+  }
+
+  .era-count {
+    font-family: var(--font-sans);
+    font-size: 13px;
+    color: var(--ink-muted);
+  }
+
+  .all-works-link {
+    margin: 0;
+    font-family: var(--font-sans);
+  }
+</style>

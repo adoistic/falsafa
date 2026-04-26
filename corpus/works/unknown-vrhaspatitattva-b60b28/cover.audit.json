@@ -1,0 +1,113 @@
+{
+  "work_slug": "unknown-vrhaspatitattva-b60b28",
+  "series_id": "kawi-tattva",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T17:07:33.797Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "series_id": "kawi-tattva",
+      "series_anchor": {
+        "label": "Old Javanese / Kawi tattva corpus (San Hyan series, Vrhaspatitattva, Gaṇapatitattva, Slokantara, Vratisasana, Kunjarakarna, Kalpabuddha)",
+        "palette": "tropical earth ochre, deep palm-leaf brown, weathered teak, jasmine cream, faint lapis trace",
+        "mood": "Old Javanese palm-leaf manuscript tradition. Tropical pre-dawn humidity. Frangipani at the threshold. The text inscribed with an iron stylus.",
+        "watercolor_treatment": "Earth ochre and palm-brown washed wet-on-wet to simulate the patina of palm-leaf age. Tropical greenery suggested only as a faint background tone, never literally rendered. Lapis used as a single bright accent on the subject only if the work demands it."
+      },
+      "work_metadata": {
+        "title": "Vrhaspatitattva",
+        "author": "Unknown",
+        "era": "Unknown",
+        "language": "Kawi",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "May there be no obstacles.\n\n> On the beautiful peak of Mount Kailāśa, Maheśvara was seated,\n> and to Vṛhaspati he spoke of the unsurpassed truth of Śiva. || 1\n\nLord Īśvara was on the summit of Mount Kailāśa, engaged in teaching the sacred knowledge to the entire host of gods. He had just bestowed the scripture of His worship, which concerns His own being as the ultimate cause. At that time, there was a sage in heaven named the venerable Vṛhaspati. He approached to offer worship to the Lord with the five-fold offerings. After his worship was complete, he made his obeisance. After his obeisance,",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The Vrhaspatitattva opens with divine teaching on the summit of Kailāsa — the transmission of sacred knowledge from Śiva to Vṛhaspati. Rather than depicting the mountain or the figures, a single iron stylus resting on aged palm-leaf evokes the act of inscription, the preservation of unsurpassed truth, and the weight of transmitted knowledge — exactly the spirit of a Kawi tattva text.",
+        "subject": "A single iron stylus resting diagonally across a strip of aged palm-leaf manuscript",
+        "palette": "tropical earth ochre, deep palm-leaf brown, faint lapis trace",
+        "composition": "The stylus and leaf strip are placed in the lower-left third of the composition, angled gently upward toward the right edge, leaving the upper two-thirds as open cream paper breathing room. The visual weight settles at the lower left, drawing the eye inward before releasing it into emptiness.",
+        "watercolor_treatment": "Earth ochre and palm-brown laid wet-on-wet across the leaf strip, pigment pooling darker along the scored edges and thinning toward the center to simulate age-patina. Paper grain shows clearly in the pale areas. The iron stylus is rendered with a single dry-brush stroke of sepia, slightly scuffed where the brush ran thin, giving the metal a dull, worn texture. One faint lapis accent traces a single incised line on the palm-leaf surface. Pencil under-drawing is barely visible beneath the ochre wash.",
+        "prompt": "A single iron stylus rests diagonally across a narrow strip of aged palm-leaf, placed in the lower-left third of warm cream cotton paper, the upper two-thirds left as open, breathing negative space. Earth ochre and deep palm-brown are washed wet-on-wet across the leaf, pigment pooling darkest at the scored edges and diluting toward the center to evoke centuries of patina. The stylus is rendered with one dry-brush stroke of sepia, slightly scuffed where the brush ran out of water, giving the iron a dull, worn surface. A single faint lapis accent traces one incised line along the leaf. Pencil under-drawing ghosts beneath the ochre wash in places. Paper grain shows through wherever the pigment thins. No text, no figures, no borders — only the instrument of inscription and the surface that received it."
+      },
+      "usage": {
+        "prompt": 1900,
+        "completion": 532,
+        "total": 2432
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "The main risk is subject-count ambiguity: the prompt names a stylus, palm-leaf strip, and cotton paper as separate objects despite the one-subject directive. There is also one hedging term that weakens the dry-brush instruction.",
+        "issues": [
+          {
+            "severity": "high",
+            "category": "vague_subject",
+            "problematic_phrase": "\"A single iron stylus rests diagonally across a narrow strip of aged palm-leaf, placed in the lower-left third of warm cream cotton paper\"",
+            "suggestion": "\"One compact subject: an iron stylus resting diagonally on its narrow aged palm-leaf support, held together as a single still-life mass in the lower-left third of jasmine-cream paper\""
+          },
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "\"slightly scuffed\"",
+            "suggestion": "\"scuffed\""
+          }
+        ],
+        "overall_score": 6,
+        "recommendation": "revise"
+      },
+      "usage": {
+        "prompt": 2126,
+        "completion": 1234,
+        "total": 3360
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "Issue 0 is high severity and valid: the original prompt does read as three separate objects (stylus, palm-leaf strip, cotton paper), which risks the AI rendering them as distinct still-life elements rather than one unified subject mass. The critic's reframe — treating stylus-on-leaf as a single compact still-life mass against the paper — is a genuine improvement that also aligns with the series anchor's palm-leaf manuscript tradition. Accept. Issue 1 is medium severity and correct: 'slightly scuffed' is hedging language that weakens the dry-brush instruction; removing 'slightly' tightens the directive. Accept.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "Reframing the stylus and palm-leaf as one unified still-life mass removes subject-count ambiguity and prevents the AI from treating them as three separate compositional elements."
+          },
+          {
+            "issue_index": 1,
+            "decision": "accept",
+            "reason": "Removing 'slightly' eliminates hedging and gives the dry-brush instruction a cleaner, more decisive directive."
+          }
+        ],
+        "final_prompt": "An iron stylus resting diagonally on its narrow aged palm-leaf support, held together as a single still-life mass in the lower-left third of jasmine-cream paper, the upper two-thirds left as open, breathing negative space. Earth ochre and deep palm-brown are washed wet-on-wet across the leaf, pigment pooling darkest at the scored edges and diluting toward the center to evoke centuries of patina. The stylus is rendered with one dry-brush stroke of sepia, scuffed where the brush ran out of water, giving the iron a dull, worn surface. A single faint lapis accent traces one incised line along the leaf. Pencil under-drawing ghosts beneath the ochre wash in places. Paper grain shows through wherever the pigment thins. No text, no figures, no borders — only the instrument of inscription and the surface that received it.",
+        "changes_summary": "The stylus and palm-leaf are now framed as a single unified still-life mass rather than three separate objects, and 'slightly scuffed' is tightened to 'scuffed' to remove hedging from the dry-brush instruction."
+      },
+      "usage": {
+        "prompt": 1422,
+        "completion": 505,
+        "total": 1927
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-vrhaspatitattva-b60b28/cover.webp",
+      "bytes": 889136,
+      "generated_at": "2026-04-26T17:07:33.797Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "An iron stylus resting diagonally on its narrow aged palm-leaf support, held together as a single still-life mass in the lower-left third of jasmine-cream paper, the upper two-thirds left as open, breathing negative space. Earth ochre and deep palm-brown are washed wet-on-wet across the leaf, pigment pooling darkest at the scored edges and diluting toward the center to evoke centuries of patina. The stylus is rendered with one dry-brush stroke of sepia, scuffed where the brush ran out of water, giving the iron a dull, worn surface. A single faint lapis accent traces one incised line along the leaf. Pencil under-drawing ghosts beneath the ochre wash in places. Paper grain shows through wherever the pigment thins. No text, no figures, no borders — only the instrument of inscription and the surface that received it.",
+  "cache_key": "f84fcb3a5a4b4fd4"
+}

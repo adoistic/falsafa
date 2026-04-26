@@ -1,0 +1,272 @@
+/**
+ * Chapter-reader styles. Polymorphic on layout: prose / verse / manuscript.
+ * Editorial typography target: NYRB / LRB / Aeon hierarchy.
+ */
+
+.reader {
+  display: grid;
+  grid-template-columns: 1fr;
+  max-width: var(--col-main);
+  margin: 0 auto;
+  padding: var(--s-12) var(--s-6) var(--s-24);
+  font-family: var(--font-body);
+  font-size: var(--reader-fs);
+  line-height: var(--reader-lh);
+  color: var(--ink);
+}
+
+@media (min-width: 1024px) {
+  .reader {
+    grid-template-columns: var(--col-main) var(--col-margin);
+    column-gap: var(--s-12);
+    max-width: calc(var(--col-main) + var(--col-margin) + var(--s-12));
+    padding: var(--s-16) var(--s-8) var(--s-24);
+  }
+}
+
+/* ── Header block (work title, chapter title, byline) ────────────────── */
+
+.reader-header {
+  margin-bottom: var(--s-12);
+  font-family: var(--font-display);
+}
+
+.reader-header .work-title {
+  font-size: var(--fs-h3);
+  font-weight: 500;
+  color: var(--ink-muted);
+  margin: 0 0 var(--s-2);
+  letter-spacing: -0.01em;
+}
+
+.reader-header .work-title a {
+  color: inherit;
+}
+
+.reader-header .work-title a:hover {
+  color: var(--ink);
+}
+
+.reader-header h1 {
+  font-size: var(--fs-h1);
+  font-weight: 700;
+  line-height: var(--lh-display);
+  margin: 0;
+  letter-spacing: -0.02em;
+}
+
+.reader-header .byline {
+  margin-top: var(--s-6);
+  font-family: var(--font-sans);
+  font-size: var(--fs-byline);
+  font-weight: 500;
+  color: var(--ink-muted);
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+}
+
+.reader-header .byline a {
+  color: var(--accent);
+}
+
+/* ── Cover image ─────────────────────────────────────────────────────── */
+
+.reader-cover {
+  margin: 0 calc(var(--s-6) * -1) var(--s-12);
+  aspect-ratio: 3 / 2;
+  overflow: hidden;
+  border: 1px solid var(--rule);
+}
+
+.reader-cover img {
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+@media (min-width: 1024px) {
+  .reader-cover {
+    margin-left: 0;
+    margin-right: 0;
+    grid-column: 1 / -1;
+  }
+}
+
+/* ── Body ────────────────────────────────────────────────────────────── */
+
+.reader-body {
+  font-feature-settings: "onum" 1, "liga" 1, "calt" 1;
+}
+
+.reader-body p {
+  margin: 0 0 var(--s-6);
+  text-align: left;
+  hyphens: auto;
+}
+
+.reader-body p:first-of-type {
+  text-indent: 0;
+}
+
+/* ── Layout: prose ───────────────────────────────────────────────────── */
+
+.reader[data-layout="prose"] .reader-body p:first-of-type::first-letter {
+  font-family: var(--font-display);
+  font-weight: 700;
+  font-size: var(--fs-drop);
+  line-height: 0.85;
+  float: left;
+  margin: 0.05em 0.08em -0.04em 0;
+  color: var(--accent);
+  font-feature-settings: "lnum" 1;
+}
+
+/* ── Layout: verse ───────────────────────────────────────────────────── */
+
+.reader[data-layout="verse"] .reader-body {
+  font-style: italic;
+  font-size: calc(var(--reader-fs) * 1.05);
+  line-height: 1.5;
+}
+
+.reader[data-layout="verse"] .reader-body p {
+  margin-bottom: var(--s-8);
+  white-space: pre-line;
+  text-align: left;
+}
+
+/* ── Layout: manuscript ──────────────────────────────────────────────── */
+
+.reader[data-layout="manuscript"] .reader-body {
+  display: grid;
+  grid-template-columns: 1fr;
+  gap: var(--s-8);
+}
+
+@media (min-width: 1024px) {
+  .reader[data-layout="manuscript"] .reader-body {
+    grid-template-columns: 1fr 1fr;
+    gap: var(--s-12);
+  }
+}
+
+.reader[data-layout="manuscript"] .manuscript-image {
+  border: 1px solid var(--rule);
+  background: var(--paper);
+}
+
+/* ── Marginalia (desktop) / footnote cards (mobile) ──────────────────── */
+
+.marginalia {
+  font-family: var(--font-sans);
+  font-size: var(--fs-marginalia);
+  color: var(--ink-muted);
+  line-height: 1.5;
+}
+
+.marginalia .note {
+  margin-bottom: var(--s-6);
+  padding-left: var(--s-4);
+  border-left: 1px solid var(--rule);
+}
+
+@media (max-width: 1023px) {
+  .marginalia {
+    margin-top: var(--s-12);
+    padding: var(--s-6);
+    background: rgba(0, 0, 0, 0.025);
+    border-radius: 4px;
+  }
+}
+
+/* ── Footer (chapter nav: prev / next / TOC) ─────────────────────────── */
+
+.reader-footer {
+  grid-column: 1 / -1;
+  margin-top: var(--s-16);
+  padding-top: var(--s-6);
+  border-top: 1px solid var(--rule);
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: var(--s-6);
+  font-family: var(--font-sans);
+  font-size: var(--fs-chrome);
+}
+
+.reader-footer .nav-link {
+  color: var(--ink-muted);
+}
+
+.reader-footer .nav-link strong {
+  display: block;
+  color: var(--ink);
+  margin-top: var(--s-1);
+  font-weight: 500;
+}
+
+/* ── Variant switcher ────────────────────────────────────────────────── */
+
+.variant-switcher {
+  display: inline-flex;
+  gap: var(--s-1);
+  padding: var(--s-1);
+  background: var(--rule);
+  border-radius: 999px;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  margin-bottom: var(--s-6);
+}
+
+.variant-switcher a {
+  padding: var(--s-1) var(--s-3);
+  color: var(--ink-muted);
+  border-radius: 999px;
+  font-weight: 500;
+}
+
+.variant-switcher a[aria-current="true"] {
+  background: var(--paper);
+  color: var(--ink);
+}
+
+/* ── Reading progress ────────────────────────────────────────────────── */
+
+.reading-progress {
+  position: fixed;
+  top: 0;
+  left: 0;
+  right: 0;
+  height: 2px;
+  background: transparent;
+  z-index: 50;
+  pointer-events: none;
+}
+
+.reading-progress::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: var(--progress, 0%);
+  background: var(--accent);
+  transition: width 0.1s linear;
+}
+
+/* ── Source citation footer ──────────────────────────────────────────── */
+
+.source-citation {
+  margin-top: var(--s-8);
+  padding-top: var(--s-4);
+  border-top: 1px dashed var(--rule);
+  font-family: var(--font-mono);
+  font-size: var(--fs-mono);
+  color: var(--ink-muted);
+}
+
+.source-citation a {
+  color: var(--ink-muted);
+  text-decoration: underline;
+  text-decoration-style: dotted;
+}

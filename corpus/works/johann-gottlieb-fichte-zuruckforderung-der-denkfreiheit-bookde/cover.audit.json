@@ -1,0 +1,102 @@
+{
+  "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+  "series_id": "solo-johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T17:10:41.425Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "series_id": "solo-johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "series_anchor": {
+        "label": "Default palette for solo works without an explicit anchor",
+        "palette": "raw umber, sepia, parchment cream, single restrained accent appropriate to the work",
+        "mood": "Quiet, unfussy, intent. The atmosphere of a single book on a single table.",
+        "watercolor_treatment": "One dominant warm wash, one supporting tone, sparing accent. Generous paper exposure."
+      },
+      "work_metadata": {
+        "title": "Zurückforderung der Denkfreiheit von den Fürsten Europens",
+        "author": "Johann Gottlieb Fichte",
+        "era": "Enlightenment",
+        "language": "German",
+        "genre": "Political & Social Theory",
+        "description": "Early political pamphlet on freedom of thought by Johann Gottlieb Fichte"
+      },
+      "content_excerpt": "# JOHANN GOTTLIEB FICHTE\n## Reclaiming Freedom of Thought from the Princes of Europe, Who Have Hitherto Suppressed It.\n### A Speech (1793, 1845)\n\n## Preface\n\nThere are learned gentlemen who believe they convey no small opinion of their own thoroughness by summarily dismissing everything written with some vivacity as mere declamation. Should these present pages happen to reach the hands of one of these thorough gentlemen, I confess to them in advance that these pages were by no means intended to exhaust such a rich subject. Rather, they were meant only to lay some pertinent ideas, with a degree",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "Fichte's pamphlet is a demand that the mind be freed from imposed constraint — thought pressing against suppression. A single iron key, old and heavy, lying slightly off-center evokes the act of unlocking what has been locked away, without illustrating any scene or person.",
+        "subject": "A single old iron key resting on its side",
+        "palette": "raw umber, sepia, parchment cream",
+        "composition": "The key sits in the lower-left third of the composition, angled slightly as if just set down, occupying perhaps a quarter of the picture plane. The remaining upper-right expanse is open warm cream paper, breathing and unresolved.",
+        "watercolor_treatment": "A dominant raw umber wet-on-wet wash pools darkly along the key's shaft and bit, diluting to near-nothing at the bow. Sepia applied dry-brush along the teeth catches the cold-press grain, leaving white flecks of bare paper. A second deepening wash of sepia settles only in the shadow beneath the key. Pencil under-drawing is faintly visible at the bow's curve. Edges bleed softly into the cream ground with no hard outline.",
+        "prompt": "A single old iron key resting on its side, placed in the lower-left third of warm cream cotton paper, angled slightly as if quietly set down. A dominant raw umber wet-on-wet wash pools darkly along the shaft and bit, then dilutes toward the bow until it is barely a stain. Sepia applied with a near-dry brush catches the cold-press paper grain along the teeth, leaving flecks of bare cream showing through. A second deepening wash of sepia settles only in the shallow shadow beneath the key. Pencil under-drawing is faintly legible at the bow's curve, soft and unfinished. All edges bleed into the parchment ground — no hard outlines, no cast highlights. The upper-right expanse is open, unhurried, breathing room."
+      },
+      "usage": {
+        "prompt": 1802,
+        "completion": 442,
+        "total": 2244
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "Only material issue is weak hedging in the key angle; otherwise no gate-triggering drift or cliché pattern appears.",
+        "issues": [
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "angled slightly as if quietly set down",
+            "suggestion": "angled about ten degrees clockwise as if quietly set down"
+          }
+        ],
+        "overall_score": 8,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 1992,
+        "completion": 435,
+        "total": 2427
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic's single issue is medium severity and addresses genuinely weak hedging — 'angled slightly' is vague and imprecise. Replacing it with 'angled about ten degrees clockwise' gives the compositor a concrete, actionable instruction without bloating the prompt or conflicting with the series anchor. Accept.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "'Angled about ten degrees clockwise' replaces vague hedging with a precise, actionable spatial instruction that still preserves the quiet, set-down quality."
+          }
+        ],
+        "final_prompt": "A single old iron key resting on its side, placed in the lower-left third of warm cream cotton paper, angled about ten degrees clockwise as if quietly set down. A dominant raw umber wet-on-wet wash pools darkly along the shaft and bit, then dilutes toward the bow until it is barely a stain. Sepia applied with a near-dry brush catches the cold-press paper grain along the teeth, leaving flecks of bare cream showing through. A second deepening wash of sepia settles only in the shallow shadow beneath the key. Pencil under-drawing is faintly legible at the bow's curve, soft and unfinished. All edges bleed into the parchment ground — no hard outlines, no cast highlights. The upper-right expanse is open, unhurried, breathing room.",
+        "changes_summary": "Replaced 'angled slightly' with 'angled about ten degrees clockwise' to give a precise, actionable spatial instruction. No other changes were made."
+      },
+      "usage": {
+        "prompt": 1220,
+        "completion": 356,
+        "total": 1576
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/cover.webp",
+      "bytes": 585242,
+      "generated_at": "2026-04-26T17:10:41.425Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single old iron key resting on its side, placed in the lower-left third of warm cream cotton paper, angled about ten degrees clockwise as if quietly set down. A dominant raw umber wet-on-wet wash pools darkly along the shaft and bit, then dilutes toward the bow until it is barely a stain. Sepia applied with a near-dry brush catches the cold-press paper grain along the teeth, leaving flecks of bare cream showing through. A second deepening wash of sepia settles only in the shallow shadow beneath the key. Pencil under-drawing is faintly legible at the bow's curve, soft and unfinished. All edges bleed into the parchment ground — no hard outlines, no cast highlights. The upper-right expanse is open, unhurried, breathing room.",
+  "cache_key": "c397b8981d1bbd3c"
+}

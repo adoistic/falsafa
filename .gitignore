@@ -39,6 +39,9 @@ corpus/.audit/
 corpus/**/assets/*.tmp.png
 corpus/**/.cache/
 
+# Astro site derived output
+apps/site/public/covers/      # copied from corpus/works/*/cover.webp at build time
+
 # OpenRouter / Replicate API keys (must never be in repo)
 .openrouter
 .replicate

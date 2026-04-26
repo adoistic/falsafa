@@ -1,0 +1,89 @@
+{
+  "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+  "series_id": "sanskrit-smrti",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T17:08:04.380Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "series_id": "sanskrit-smrti",
+      "series_anchor": {
+        "label": "Sanskrit smṛti corpus (Manu, Yājñavalkya, Nārada, Bṛhaspati, Aṅgirasa, Parāśara, Viṣṇu, Yama, Kātyāyana, Vīramitrodaya)",
+        "palette": "sandalwood, sacred saffron, deep ochre, weathered bronze, palm-leaf cream",
+        "mood": "Ancient Indian dharma tradition committed to palm leaf. Pre-dawn temple light. The verse-numbered shloka, copied for centuries.",
+        "watercolor_treatment": "Sandalwood wash as the dominant pigment, allowed to bleed into the paper. Saffron introduced sparingly. A touch of dried-leaf brown for the manuscript edge. Pigment kept thin and allowed to expose the cream paper warmly."
+      },
+      "work_metadata": {
+        "title": "Yājñavalkya Smṛti",
+        "author": "Unknown",
+        "era": "Ancient",
+        "language": "Sanskrit",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "Chapter on Conduct\n\n1. Introduction (upodghātaprakaraṇam)\n\nHaving honored Yājñavalkya, the lord of yogis, the sages spoke:\nDeclare to us in their entirety the `*dharma*`[1] of the `*varṇa*`s,[2] the life-stages, and the others. // Yj_1.1 //\n\nResiding in Mithilā, that king of yogis, having meditated for a moment, said to the sages:\nIn the land where the black antelope is found, there you should learn the `*dharma*`s. // Yj_1.2 //\n\nThe Purāṇas, Nyāya, Mīmāṃsā, Dharmaśāstra, and the Aṅgas, together with the Vedas,\nare the fourteen sources of knowledge and of `*dharma*`. // Yj_1.3 //\n\nManu, Atri,",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 599
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The Yājñavalkya Smṛti opens with sages asking for dharma to be declared, and the sage meditating before speaking — a tradition of ancient knowledge transmitted through contemplative stillness. A single black antelope horn, mentioned in verse 1.2 as the marker of dharmic land, evokes the text's authority, antiquity, and the dharmic territory without depicting any figure or scene.",
+        "subject": "A single black antelope horn, curved and weathered, resting at an angle",
+        "palette": "Raw umber, yellow ochre, burnt sienna",
+        "composition": "The horn placed in the lower-left third of the composition, angled slightly upward toward the right, occupying less than a third of the total surface; the upper-right two-thirds left as warm cream paper breathing room, with only the faintest sandalwood wash ghosting across it",
+        "watercolor_treatment": "A dominant sandalwood wash laid wet-on-wet across the entire surface, pooling slightly darker at the lower edge and bleeding to near-nothing at the top, exposing the warm cream cold-press grain throughout; the horn built up with two deepening washes of raw umber and burnt sienna, dry-brushed lightly along its ridges to show paper texture; a restrained touch of yellow ochre at the tip where the form catches imagined pre-dawn light; all edges soft and bleeding, no hard outlines, pencil under-drawing faintly visible beneath the thinnest passages",
+        "prompt": "A single curved black antelope horn rests in the lower-left third of warm cream cold-press cotton paper, angled gently upward toward open space. A sandalwood wash spreads wet-on-wet across the entire surface, pooling to a soft raw-umber depth near the base and bleeding to almost nothing at the upper right, leaving more than half the painting as breathing cream paper. The horn is rendered in two deepening washes of raw umber and burnt sienna, dry-brushed lightly along its ridges so the paper grain shows through as fine pale lines. A restrained touch of yellow ochre settles at the tip. All edges bleed softly into the ground; no hard outlines exist. Pencil under-drawing ghosts faintly beneath the thinnest passages. The mood is pre-dawn stillness, ancient and unhurried."
+      },
+      "usage": {
+        "prompt": 1965,
+        "completion": 522,
+        "total": 2487
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "no significant issues",
+        "issues": [],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2116,
+        "completion": 737,
+        "total": 2853
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic recommends shipping as-is with no issues raised. The original prompt is strong, honors the series anchor, and stays within all negative directives. No changes are needed beyond confirming the final prompt is clean and complete.",
+        "decisions": [],
+        "final_prompt": "A single curved black antelope horn rests in the lower-left third of warm cream cold-press cotton paper, angled gently upward toward open space. A sandalwood wash spreads wet-on-wet across the entire surface, pooling to a soft raw-umber depth near the base and bleeding to almost nothing at the upper right, leaving more than half the painting as breathing cream paper. The horn is rendered in two deepening washes of raw umber and burnt sienna, dry-brushed lightly along its ridges so the paper grain shows through as fine pale lines. A restrained touch of yellow ochre settles at the tip. All edges bleed softly into the ground; no hard outlines exist. Pencil under-drawing ghosts faintly beneath the thinnest passages. The mood is pre-dawn stillness, ancient and unhurried.",
+        "changes_summary": "No changes were made; the critic recommended shipping the prompt as-is with no issues identified."
+      },
+      "usage": {
+        "prompt": 1223,
+        "completion": 275,
+        "total": 1498
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-yajnavalkya-smrti-cb88d6/cover.webp",
+      "bytes": 1048776,
+      "generated_at": "2026-04-26T17:08:04.380Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single curved black antelope horn rests in the lower-left third of warm cream cold-press cotton paper, angled gently upward toward open space. A sandalwood wash spreads wet-on-wet across the entire surface, pooling to a soft raw-umber depth near the base and bleeding to almost nothing at the upper right, leaving more than half the painting as breathing cream paper. The horn is rendered in two deepening washes of raw umber and burnt sienna, dry-brushed lightly along its ridges so the paper grain shows through as fine pale lines. A restrained touch of yellow ochre settles at the tip. All edges bleed softly into the ground; no hard outlines exist. Pencil under-drawing ghosts faintly beneath the thinnest passages. The mood is pre-dawn stillness, ancient and unhurried.",
+  "cache_key": "b66bdb82b60b20fe"
+}

@@ -1,8 +1,8 @@
 {
   "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
-  "series_id": "solo-charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "series_id": "comte-legislation",
   "style_guide_version": "0.4.0",
-  "generated_at": "2026-04-26T16:04:58.118Z",
+  "generated_at": "2026-04-26T17:18:54.248Z",
   "pipeline_models": {
     "stage_2_draft": "anthropic/claude-sonnet-4.6",
     "stage_3_critique": "openai/gpt-5.5",
@@ -13,12 +13,12 @@
   "stages": {
     "1_context": {
       "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
-      "series_id": "solo-charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "series_id": "comte-legislation",
       "series_anchor": {
-        "label": "Default palette for solo works without an explicit anchor",
-        "palette": "raw umber, sepia, parchment cream, single restrained accent appropriate to the work",
-        "mood": "Quiet, unfussy, intent. The atmosphere of a single book on a single table.",
-        "watercolor_treatment": "One dominant warm wash, one supporting tone, sparing accent. Generous paper exposure."
+        "label": "Charles Comte — Traité de Législation (Volumes I-IV)",
+        "palette": "lead grey, ivory, ink black, oxidized brass, considered neutrals",
+        "mood": "18th-century European salon at lamplight. Restrained, rational. The philosopher's writing desk after the household has gone to bed.",
+        "watercolor_treatment": "Cool dry washes with controlled pigment. Allow paper grain to dominate in the negative space. A single warm note (oxidized brass or candle warmth) introduced sparingly to break the cool palette."
       },
       "work_metadata": {
         "title": "Traité de Législation: VOL I",
@@ -36,67 +36,67 @@
     },
     "2_draft": {
       "output": {
-        "reasoning": "Comte's treatise investigates the conditions that cause societies to prosper, decline, or stagnate — a project of careful observation and systematic inquiry. A single brass balance scale, slightly tilted and unadorned, evokes the weighing of causes and conditions without illustrating any specific law or institution. It carries the Enlightenment's empirical spirit: measured, rational, quietly serious.",
-        "subject": "A single brass balance scale, one pan slightly lower than the other, resting on a bare surface",
-        "palette": "raw umber, sepia, yellow ochre",
-        "composition": "The scale is placed left of center, occupying roughly the lower third of the composition, with the right side and upper two-thirds left as open warm cream paper. The slight tilt of the pans creates asymmetric visual tension that anchors the eye without centering the subject.",
-        "watercolor_treatment": "A wet-on-wet wash of raw umber lays the dominant tone, pooling darker where the scale's arm and hanging chains cast implied shadow, diluting to near-nothing at the edges. Yellow ochre is introduced wet into the brass surfaces while the umber is still damp, bleeding softly into it. Sepia is applied in a second dry-brush pass along the underside of the beam and the heavier pan, leaving visible paper grain in the lighter areas. Pencil under-drawing is faintly legible at the chain links.",
-        "prompt": "A single brass balance scale rests left of center on warm cream cold-press cotton paper, one pan hanging fractionally lower than the other. A wet-on-wet wash of raw umber establishes the dominant tone, pooling darkest beneath the central beam and along the hanging chains, then diluting to almost nothing toward the edges of the composition. Yellow ochre bleeds into the brass surfaces while the umber is still damp, the two pigments merging softly without a hard boundary. A second pass of sepia, applied with a nearly dry brush, scuffs along the underside of the beam and the heavier pan, leaving cold-press paper grain fully visible in the thinner passages. Faint pencil under-drawing is barely legible at the chain links. The upper right two-thirds of the painting is open, unpainted paper — deliberate, breathing, restrained."
+        "reasoning": "Comte's opening declares his method: empirical investigation of causes behind social prosperity or decline, not system-building. A single beam scale in oxidized brass evokes the rational weighing of causes — restrained, Enlightenment, legislative — without depicting a courtroom or human figure. It anchors the series mood of lamplight rationalism at a writing desk.",
+        "subject": "A single oxidized brass balance scale, one pan slightly lower than the other",
+        "palette": "Payne's grey, oxidized brass (yellow ochre warmed with raw umber), ivory",
+        "composition": "Scale placed left of center, tilted subtly on its axis, occupying roughly a third of the canvas height. The right two-thirds and upper half breathe as open cream paper. The heavier pan drops toward the lower-left, giving the composition quiet tension without symmetry.",
+        "watercolor_treatment": "Cool Payne's grey wet-on-wet wash builds the shadowed underside of the scale arms and base, pooling darker at the fulcrum and diluting almost to nothing at the edges. Paper grain dominates the negative space where pigment is near-absent. The brass pans receive a single thin wash of yellow ochre deepened with raw umber, applied dry-brush so the cold-press texture scuffs through. One or two deepening grey washes at the pivot point only. Pencil under-drawing faintly visible along the chain lines.",
+        "prompt": "A single oxidized brass balance scale rests left of center on warm cream cold-press paper, one pan hanging fractionally lower than the other, the asymmetry quiet and deliberate. The scale occupies roughly a third of the composition's height; the remaining canvas breathes as near-bare paper, grain visible where pigment thins to nothing. Payne's grey builds the shadow beneath the arms and base in a wet-on-wet wash that pools darkest at the fulcrum and bleeds outward until almost absent. The pans receive one dry-brush pass of yellow ochre warmed with raw umber, the cold-press texture scuffing through the pigment. Two deepening grey washes concentrate weight only at the pivot. Pencil under-drawing shows faintly along the hanging chains. No hard edges, no outlines — forms bleed softly into the ivory ground."
       },
       "usage": {
-        "prompt": 1751,
-        "completion": 504,
-        "total": 2255
+        "prompt": 1791,
+        "completion": 509,
+        "total": 2300
       }
     },
     "3_critique": {
       "output": {
-        "reasoning": "Only material issue is a weak-language hedge in the dilution description; gate logic still permits shipping with one medium issue.",
+        "reasoning": "Dominant issue is palette drift: the paper color is pushed warmer than the series anchor’s ivory/cool-neutral ground, risking a warmer cover than the lamplit but restrained neutral system allows.",
         "issues": [
           {
-            "severity": "medium",
-            "category": "weak_language",
-            "problematic_phrase": "\"then diluting to almost nothing toward the edges of the composition.\"",
-            "suggestion": "\"then diluting to a transparent edge at the margins of the composition.\""
+            "severity": "high",
+            "category": "palette_drift",
+            "problematic_phrase": "\"warm cream cold-press paper\"",
+            "suggestion": "\"ivory cold-press paper\""
           }
         ],
-        "overall_score": 8,
-        "recommendation": "ship"
+        "overall_score": 6,
+        "recommendation": "revise"
       },
       "usage": {
-        "prompt": 2023,
-        "completion": 465,
-        "total": 2488
+        "prompt": 2050,
+        "completion": 1140,
+        "total": 3190
       }
     },
     "4_decide": {
       "output": {
-        "reasoning": "The critic identifies one medium-severity issue: the phrase 'then diluting to almost nothing toward the edges of the composition' is weak and vague. The suggested replacement 'then diluting to a transparent edge at the margins of the composition' is more precise and declarative without bloating the prompt or conflicting with the series anchor. This is a clean, surgical improvement worth accepting.",
+        "reasoning": "The single issue flagged is high severity and clearly valid: 'warm cream' drifts the paper ground warmer than the series anchor specifies (ivory, cool neutrals). Replacing it with 'ivory' is a precise, surgical fix that brings the prompt back into alignment without changing anything else. No over-correction detected.",
         "decisions": [
           {
             "issue_index": 0,
             "decision": "accept",
-            "reason": "The replacement is more precise and declarative, removing hedging language while preserving the intended visual effect of generous paper exposure."
+            "reason": "'Warm cream' introduces palette drift away from the series anchor's ivory/cool-neutral ground; replacing with 'ivory' restores fidelity to the established system."
           }
         ],
-        "final_prompt": "A single brass balance scale rests left of center on warm cream cold-press cotton paper, one pan hanging fractionally lower than the other. A wet-on-wet wash of raw umber establishes the dominant tone, pooling darkest beneath the central beam and along the hanging chains, then diluting to a transparent edge at the margins of the composition. Yellow ochre bleeds into the brass surfaces while the umber is still damp, the two pigments merging softly without a hard boundary. A second pass of sepia, applied with a nearly dry brush, scuffs along the underside of the beam and the heavier pan, leaving cold-press paper grain fully visible in the thinner passages. Faint pencil under-drawing is barely legible at the chain links. The upper right two-thirds of the painting is open, unpainted paper — deliberate, breathing, restrained.",
-        "changes_summary": "One phrase was revised: 'diluting to almost nothing toward the edges' was replaced with 'diluting to a transparent edge at the margins' to remove hedging and sharpen the description of the wash's fade."
+        "final_prompt": "A single oxidized brass balance scale rests left of center on ivory cold-press paper, one pan hanging fractionally lower than the other, the asymmetry quiet and deliberate. The scale occupies roughly a third of the composition's height; the remaining canvas breathes as near-bare paper, grain visible where pigment thins to nothing. Payne's grey builds the shadow beneath the arms and base in a wet-on-wet wash that pools darkest at the fulcrum and bleeds outward until almost absent. The pans receive one dry-brush pass of yellow ochre warmed with raw umber, the cold-press texture scuffing through the pigment. Two deepening grey washes concentrate weight only at the pivot. Pencil under-drawing shows faintly along the hanging chains. No hard edges, no outlines — forms bleed softly into the ivory ground.",
+        "changes_summary": "'Warm cream cold-press paper' was replaced with 'ivory cold-press paper' to eliminate palette drift and align the paper ground with the series anchor's cool-neutral ivory system. No other changes were made."
       },
       "usage": {
-        "prompt": 1240,
-        "completion": 377,
-        "total": 1617
+        "prompt": 1278,
+        "completion": 379,
+        "total": 1657
       }
     },
     "5_image": {
       "cover_path": "/Users/siraj/falsafa/corpus/works/charles-comte-traite-de-legislation-vol-i-7e62a2/cover.webp",
-      "bytes": 782548,
-      "generated_at": "2026-04-26T16:04:58.118Z",
+      "bytes": 770840,
+      "generated_at": "2026-04-26T17:18:54.248Z",
       "model": "openai/gpt-5.4-image-2",
       "aspect_ratio": "3:2",
       "image_size": "2K"
     }
   },
-  "final_prompt": "A single brass balance scale rests left of center on warm cream cold-press cotton paper, one pan hanging fractionally lower than the other. A wet-on-wet wash of raw umber establishes the dominant tone, pooling darkest beneath the central beam and along the hanging chains, then diluting to a transparent edge at the margins of the composition. Yellow ochre bleeds into the brass surfaces while the umber is still damp, the two pigments merging softly without a hard boundary. A second pass of sepia, applied with a nearly dry brush, scuffs along the underside of the beam and the heavier pan, leaving cold-press paper grain fully visible in the thinner passages. Faint pencil under-drawing is barely legible at the chain links. The upper right two-thirds of the painting is open, unpainted paper — deliberate, breathing, restrained.",
-  "cache_key": "0b42a9172f0780f0"
+  "final_prompt": "A single oxidized brass balance scale rests left of center on ivory cold-press paper, one pan hanging fractionally lower than the other, the asymmetry quiet and deliberate. The scale occupies roughly a third of the composition's height; the remaining canvas breathes as near-bare paper, grain visible where pigment thins to nothing. Payne's grey builds the shadow beneath the arms and base in a wet-on-wet wash that pools darkest at the fulcrum and bleeds outward until almost absent. The pans receive one dry-brush pass of yellow ochre warmed with raw umber, the cold-press texture scuffing through the pigment. Two deepening grey washes concentrate weight only at the pivot. Pencil under-drawing shows faintly along the hanging chains. No hard edges, no outlines — forms bleed softly into the ivory ground.",
+  "cache_key": "d8f1c34caa0d2baa"
 }

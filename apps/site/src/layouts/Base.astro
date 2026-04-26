@@ -1,0 +1,74 @@
+---
+/**
+ * Falsafa root layout. Mounts global styles, reader-prefs persistence
+ * (size / density / theme), and the editorial site chrome.
+ */
+import "../styles/global.css";
+
+interface Props {
+  title: string;
+  description?: string;
+  ogImage?: string;
+}
+
+const { title, description, ogImage } = Astro.props;
+const siteName = "Falsafa";
+const fullTitle = title === siteName ? title : `${title} · ${siteName}`;
+---
+
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="generator" content={Astro.generator} />
+
+    <title>{fullTitle}</title>
+    {description && <meta name="description" content={description} />}
+    <meta property="og:title" content={fullTitle} />
+    {description && <meta property="og:description" content={description} />}
+    {ogImage && <meta property="og:image" content={ogImage} />}
+
+    <link rel="icon" type="image/svg+xml" href="/favicon.svg" />
+
+    <script is:inline>
+      // Apply reader prefs from localStorage before paint to avoid FOUC.
+      try {
+        const prefs = JSON.parse(localStorage.getItem("falsafa-prefs") || "{}");
+        if (prefs.theme) document.documentElement.dataset.theme = prefs.theme;
+        if (prefs.size) document.documentElement.dataset.size = prefs.size;
+        if (prefs.density) document.documentElement.dataset.density = prefs.density;
+      } catch (e) {
+        /* localStorage unavailable, fall through to defaults */
+      }
+    </script>
+  </head>
+
+  <body>
+    <a href="#main" class="skip-link">Skip to content</a>
+
+    <header class="site-header">
+      <a href="/" class="brand">Falsafa</a>
+      <nav>
+        <a href="/works/">Works</a>
+        <a href="/about/">About</a>
+      </nav>
+    </header>
+
+    <main id="main">
+      <slot />
+    </main>
+
+    <footer class="site-footer">
+      <div>
+        Translations and transliterations by
+        <a href="https://thothica.com">Thothica</a>.
+      </div>
+      <div class="credits">
+        Free, public, open-source. Built by
+        <a href="https://meetadnan.com">Adnan</a>. Source on
+        <a href="https://github.com/adoistic/falsafa">GitHub</a>.
+      </div>
+    </footer>
+  </body>
+</html>

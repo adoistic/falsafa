@@ -1,0 +1,102 @@
+---
+import type { GetStaticPaths } from "astro";
+import Reader from "../../../../layouts/Reader.astro";
+import VariantSwitcher from "../../../../components/VariantSwitcher.astro";
+import ChapterBody from "../../../../components/ChapterBody.astro";
+import {
+  works,
+  listChapters,
+  readChapterVariant,
+  readWorkIndex,
+  type ContentType,
+} from "../../../../lib/corpus";
+
+export const getStaticPaths = (() => {
+  const paths: { params: { slug: string; chapter: string; variant: string }; props: any }[] = [];
+  for (const w of works()) {
+    const chapters = listChapters(w.slug);
+    for (const c of chapters) {
+      for (const v of c.variants) {
+        paths.push({
+          params: { slug: w.slug, chapter: c.chapter_slug, variant: v.content_type },
+          props: { workSlug: w.slug, chapterSlug: c.chapter_slug, variantType: v.content_type },
+        });
+      }
+    }
+  }
+  return paths;
+}) satisfies GetStaticPaths;
+
+const { workSlug, chapterSlug, variantType } = Astro.props;
+
+const variant = readChapterVariant(workSlug, chapterSlug, variantType as ContentType);
+if (!variant) {
+  return new Response("Chapter not found", { status: 404 });
+}
+const work = works().find((w) => w.slug === workSlug)!;
+const idx = readWorkIndex(workSlug);
+const chapters = listChapters(workSlug);
+const chapterIndex = chapters.findIndex((c) => c.chapter_slug === chapterSlug);
+const prev = chapterIndex > 0 ? chapters[chapterIndex - 1] : null;
+const next = chapterIndex < chapters.length - 1 ? chapters[chapterIndex + 1] : null;
+
+function bylineFor(v: typeof variant) {
+  if (v.frontmatter.translator) return { verb: "Translated by", who: "Thothica" };
+  if (v.frontmatter.transliterator) return { verb: "Transliterated by", who: "Thothica" };
+  if (v.frontmatter.curator) return { verb: "Curated by", who: "Thothica" };
+  return null;
+}
+const byline = bylineFor(variant);
+---
+
+<Reader
+  title={`${variant.meta.chapter_title} · ${work.title}`}
+  description={`${work.title} by ${work.author} — chapter ${variant.meta.chapter_number}, ${variantType}`}
+  ogImage={idx?.cover_url ?? undefined}
+  layout={variant.meta.layout}
+>
+  {idx?.cover_url && (
+    <div class="reader-cover">
+      <img src={idx.cover_url} alt={`Cover for ${work.title}`} />
+    </div>
+  )}
+
+  <header class="reader-header">
+    <p class="work-title">
+      <a href={`/works/${work.slug}/`}>{work.title}</a>
+    </p>
+    <h1>{variant.meta.chapter_title}</h1>
+    {byline && (
+      <p class="byline">
+        {byline.verb}{" "}
+        <a href="https://thothica.com" rel="noopener">
+          {byline.who}
+        </a>
+      </p>
+    )}
+    <VariantSwitcher meta={variant.meta} workSlug={work.slug} current={variantType as ContentType} />
+  </header>
+
+  <ChapterBody body={variant.body} frontmatter={variant.frontmatter} />
+
+  <footer class="reader-footer">
+    {prev ? (
+      <a class="nav-link" href={`/works/${work.slug}/${prev.chapter_slug}/${variant.variant.content_type}/`}>
+        ← Previous
+        <strong>{prev.chapter_title}</strong>
+      </a>
+    ) : <span />}
+
+    <a class="nav-link" href={`/works/${work.slug}/`} style="text-align: center">
+      Contents
+      <strong>{work.title}</strong>
+    </a>
+
+    {next ? (
+      <a class="nav-link" href={`/works/${work.slug}/${next.chapter_slug}/${variant.variant.content_type}/`} style="text-align: right">
+        Next →
+        <strong>{next.chapter_title}</strong>
+      </a>
+    ) : <span />}
+  </footer>
+</Reader>

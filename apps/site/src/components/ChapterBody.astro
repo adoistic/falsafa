@@ -1,0 +1,42 @@
+---
+/**
+ * Renders the chapter body. Polymorphic on layout — handled in CSS via the
+ * .reader[data-layout="..."] selector. Only this component sees the raw body
+ * markdown; we render paragraphs to <p> elements without a Markdown library
+ * (most of our content is plain paragraphs without inline formatting).
+ *
+ * If a chapter ever needs richer markdown (lists, blockquotes, headings),
+ * swap this for a real renderer (e.g., remark + rehype) — the existing
+ * fontmatter parser already strips frontmatter so the body is clean.
+ */
+import type { ChapterFrontmatter } from "../lib/corpus";
+
+interface Props {
+  body: string;
+  frontmatter: ChapterFrontmatter;
+}
+
+const { body, frontmatter } = Astro.props;
+
+// Split into paragraphs by blank lines. Preserve hard line breaks within
+// a paragraph so verse line structure survives.
+const paragraphs = body
+  .split(/\n\s*\n/)
+  .map((p) => p.trim())
+  .filter(Boolean);
+---
+
+<div class="reader-body">
+  {paragraphs.map((p) => <p>{p}</p>)}
+</div>
+
+{
+  frontmatter.source_url && (
+    <div class="source-citation">
+      Source:
+      <a href={frontmatter.source_url} rel="noopener noreferrer" target="_blank">
+        {frontmatter.source_url}
+      </a>
+    </div>
+  )
+}
