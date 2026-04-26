@@ -75,9 +75,16 @@ released as a public good. Translations and transliterations are produced by
 
 - The corpus draws on public-domain originals from sources including
   [sacred-texts.com](https://sacred-texts.com).
-- Thothica's translations and curation make this corpus accessible.
+- Thothica's translation and curation pipeline is built on frontier large
+  language models (Anthropic's Claude, OpenAI's GPT, Google's Gemini, and
+  open-weights models via OpenRouter). The translations and transliterations
+  shipped in this corpus are the output of that pipeline. Without those
+  models, Thothica could not have produced this catalog at this scale.
 - Karpathy's [vector-DB-less RAG gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
   is the philosophical anchor for the MCP design.
+- This site and the MCP server are built with [Claude Code](https://claude.com/claude-code)
+  and the [gstack](https://github.com/garrytan/gstack) toolkit, which made it
+  possible to ship a full plan + design + implementation in a single weekend.
 
 ## Contributing
 
