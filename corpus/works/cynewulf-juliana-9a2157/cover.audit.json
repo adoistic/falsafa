@@ -1,0 +1,89 @@
+{
+  "work_slug": "cynewulf-juliana-9a2157",
+  "series_id": "cynewulf-trilogy",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:49:09.808Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "series_id": "cynewulf-trilogy",
+      "series_anchor": {
+        "label": "Cynewulf trilogy (Andreas, Elene, Juliana)",
+        "palette": "weathered stone-grey, payne's grey shadow, raw umber, faded gold ochre, parchment cream",
+        "mood": "Anglo-Saxon Christian devotion. Cold northern light. Sea-spray and stone. The interior of a candle-lit scriptorium at dusk.",
+        "watercolor_treatment": "Wet-on-wet pooling for the stone weight; dry-brush over the pooled wash to suggest weathered surface texture; gold-ochre touched in sparingly with a small brush, kept slightly lifted from full saturation."
+      },
+      "work_metadata": {
+        "title": "Juliana",
+        "author": "Cynewulf",
+        "era": "Medieval",
+        "language": "old_english",
+        "genre": "Literature",
+        "description": "An Old English hagiographic poem telling the story of Saint Juliana of Nicomedia, her resistance to marriage with a pagan, and her martyrdom. A classic example of Anglo-Saxon Christian devotional poetry."
+      },
+      "content_excerpt": "Hark! We have heard it, a history for heroes,\nof days long departed, when a dark power reigned.\nMerciless Maximian, a man who held mastery\nover the wide world, a wicked emperor\nwho raised up terror, a relentless persecution,\nand hunted God's people. He harried the righteous,\nspilling their sacred blood, servants of glory.\nHe tore down God's temples, and turned them to ruin,\nand kindled his pyres for the Christian believers,\nwho held to the holy truth. He hewed them down,\nfelled the faithful in front of his idols.\n\nThere was a reeve then, a rich and powerful man,\nwho ruled in the city of Nicome",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "Juliana's poem centers on a young woman's unyielding faith against violent persecution — her spiritual resistance is the core. A single iron manacle or chain link, partially open and resting on stone, evokes both captivity and the refusal to be bound, without depicting any figure or narrative scene. It carries the weight of martyrdom, cold northern stone, and devotional endurance that defines the Cynewulf trilogy mood.",
+        "subject": "a single iron manacle, partially open, resting on a rough stone surface",
+        "palette": "payne's grey, raw umber, faded gold ochre",
+        "composition": "The manacle sits in the lower-left quadrant, its open hinge facing upper right, casting a soft shadow toward the center. Upper two-thirds of the composition is bare parchment cream — open, cold, breathing. The object's visual weight anchors the painting without centering it.",
+        "watercolor_treatment": "Heavy wet-on-wet pooling in payne's grey builds the iron's density, darkest pigment settling at the inner curve and hinge joint, diluting outward to near-nothing at the edges. Dry-brush scuffs dragged across the dried wash suggest pitted, weathered iron surface. Raw umber laid wet beneath the stone ground, grain of cold-press paper showing through the thin wash. A small touch of faded gold ochre, barely lifted to half-saturation, catches one edge of the manacle where cold light grazes it. Pencil under-drawing faintly visible beneath the stone wash.",
+        "prompt": "A single iron manacle, partially open, rests in the lower-left quadrant of warm cream cotton paper. Payne's grey pools heaviest at the hinge joint and inner curve, diluting outward until almost nothing remains at the edges — wet-on-wet, unhurried, the pigment finding its own depth. Dry-brush scuffs dragged across the dried wash roughen the iron's surface, suggesting age and cold. Raw umber, laid wet beneath, forms the suggestion of rough stone underneath the object, paper grain showing through the thin wash. A restrained touch of faded gold ochre grazes one edge of the iron in cold northern light. The upper two-thirds of the composition is open parchment — silent, deliberate, breathing. Pencil under-drawing barely legible beneath the stone wash. No figures, no scene, only weight and restraint."
+      },
+      "usage": {
+        "prompt": 1881,
+        "completion": 536,
+        "total": 2417
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "no significant issues",
+        "issues": [],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2066,
+        "completion": 497,
+        "total": 2563
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic has no issues and recommends shipping as-is. The original prompt is strong, honors the series anchor, and contains no violations of the negative directives. No changes are required beyond confirming the final prompt is clean and within word count.",
+        "decisions": [],
+        "final_prompt": "A single iron manacle, partially open, rests in the lower-left quadrant of warm cream cotton paper. Payne's grey pools heaviest at the hinge joint and inner curve, diluting outward until almost nothing remains at the edges — wet-on-wet, unhurried, the pigment finding its own depth. Dry-brush scuffs dragged across the dried wash roughen the iron's surface, suggesting age and cold. Raw umber, laid wet beneath, forms the suggestion of rough stone underneath the object, paper grain showing through the thin wash. A restrained touch of faded gold ochre grazes one edge of the iron in cold northern light. The upper two-thirds of the composition is open parchment — silent, deliberate, breathing. Pencil under-drawing barely legible beneath the stone wash. No figures, no scene, only weight and restraint.",
+        "changes_summary": "No changes were made; the critic recommended shipping the prompt as-is with a score of 9/10 and identified no issues."
+      },
+      "usage": {
+        "prompt": 1230,
+        "completion": 291,
+        "total": 1521
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/cynewulf-juliana-9a2157/cover.webp",
+      "bytes": 1166660,
+      "generated_at": "2026-04-26T15:49:09.808Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single iron manacle, partially open, rests in the lower-left quadrant of warm cream cotton paper. Payne's grey pools heaviest at the hinge joint and inner curve, diluting outward until almost nothing remains at the edges — wet-on-wet, unhurried, the pigment finding its own depth. Dry-brush scuffs dragged across the dried wash roughen the iron's surface, suggesting age and cold. Raw umber, laid wet beneath, forms the suggestion of rough stone underneath the object, paper grain showing through the thin wash. A restrained touch of faded gold ochre grazes one edge of the iron in cold northern light. The upper two-thirds of the composition is open parchment — silent, deliberate, breathing. Pencil under-drawing barely legible beneath the stone wash. No figures, no scene, only weight and restraint.",
+  "cache_key": "2910e2a51c5e0c77"
+}

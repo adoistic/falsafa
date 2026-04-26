@@ -1,0 +1,113 @@
+{
+  "work_slug": "unknown-parasara-smrti-2259be",
+  "series_id": "sanskrit-smrti",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T16:02:03.459Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "series_id": "sanskrit-smrti",
+      "series_anchor": {
+        "label": "Sanskrit smṛti corpus (Manu, Yājñavalkya, Nārada, Bṛhaspati, Aṅgirasa, Parāśara, Viṣṇu, Yama, Kātyāyana, Vīramitrodaya)",
+        "palette": "sandalwood, sacred saffron, deep ochre, weathered bronze, palm-leaf cream",
+        "mood": "Ancient Indian dharma tradition committed to palm leaf. Pre-dawn temple light. The verse-numbered shloka, copied for centuries.",
+        "watercolor_treatment": "Sandalwood wash as the dominant pigment, allowed to bleed into the paper. Saffron introduced sparingly. A touch of dried-leaf brown for the manuscript edge. Pigment kept thin and allowed to expose the cream paper warmly."
+      },
+      "work_metadata": {
+        "title": "Parāśara Smṛti",
+        "author": "Unknown",
+        "era": "Ancient",
+        "language": "Sanskrit",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "[Vol. I, Part 1:]\n\nThe Section on Conduct (*ācārakāṇḍam*)\n\nThe Conduct of the Four Social Classes (*cāturvarṇyācāram*)\n\nOnce, in the past, sages approached Vyāsa, who was seated in focused meditation in a forest of Devadāru trees on the summit of the Himalaya mountain, and they asked him: (I,1, p. 37) // Par_1.1 //\n\nO son of Satyavatī, please tell us in full the *dharma* (righteous duty and cosmic law) that is beneficial for mankind in the present Kali *yuga* (cosmic age), as well as the rules of purity and conduct. // Par_1.2 //\n\nHearing these words of the sages, the great-spirited Vyāsa, who",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The Parāśara Smṛti opens with sages questioning Vyāsa on dharma in the Kali Yuga — a text of cosmic law transmitted through oral lineage and eventually pressed onto palm leaf. A single palm-leaf manuscript strip, slightly curled and worn at its edges, evokes the smṛti tradition: ancient, copied, venerated, fragile. It carries the weight of dharmic transmission without depicting any figure or scene.",
+        "subject": "A single palm-leaf manuscript strip, slightly curled at one end, resting on a warm cream surface",
+        "palette": "Yellow ochre, raw umber, burnt sienna",
+        "composition": "The palm leaf placed in the lower-left third of the composition, angled gently so its curled tip drifts toward the center. The upper-right two-thirds of the painting is open, breathing cream paper with only the faintest sandalwood wash ghosting across it. Visual weight anchors at the left, releasing rightward into emptiness.",
+        "watercolor_treatment": "Dominant sandalwood wash laid wet-on-wet across the leaf body, pooling darker raw umber along the lower edge and the curl where pigment collects in the shadow. Burnt sienna introduced sparingly at the curled tip as a single deepening wash. Pigment diluted to near-nothing at the upper field, letting cold-press paper grain show warmly through. Dry-brush scuffs along the leaf's long edge suggest fibrous texture. No hard outlines — all edges bleed softly into the cream ground.",
+        "prompt": "A single palm-leaf manuscript strip rests in the lower-left third of warm cream cotton paper, angled gently so its curled right tip drifts toward the center of the composition. A wet-on-wet sandalwood wash covers the leaf body, pooling into deeper raw umber along the lower shadow edge and the curl where pigment gathers. Burnt sienna is introduced sparingly at the curled tip in a single deepening wash. The upper two-thirds of the painting is open negative space — a ghost of sandalwood wash diluted to near-nothing, exposing the cold-press paper grain warmly beneath. Dry-brush scuffs run along the leaf's long edge, suggesting dried fiber and age. All edges bleed softly, no hard outlines, pencil under-drawing faintly legible beneath the thinnest washes."
+      },
+      "usage": {
+        "prompt": 1924,
+        "completion": 538,
+        "total": 2462
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "The prompt is structurally clean, but it drifts from the series palette by substituting general earth pigments for the anchor’s saffron/deep ochre/weathered bronze scheme.",
+        "issues": [
+          {
+            "severity": "high",
+            "category": "palette_drift",
+            "problematic_phrase": "\"pooling into deeper raw umber along the lower shadow edge and the curl where pigment gathers\"",
+            "suggestion": "\"pooling into deeper ochre with a weathered-bronze brown along the lower shadow edge and the curl where pigment gathers\""
+          },
+          {
+            "severity": "high",
+            "category": "palette_drift",
+            "problematic_phrase": "\"Burnt sienna is introduced sparingly at the curled tip in a single deepening wash.\"",
+            "suggestion": "\"Sacred saffron is introduced sparingly at the curled tip in a single thin deepening wash.\""
+          }
+        ],
+        "overall_score": 4,
+        "recommendation": "regenerate"
+      },
+      "usage": {
+        "prompt": 2112,
+        "completion": 711,
+        "total": 2823
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "Both issues are high severity palette drift corrections that bring the prompt back in line with the series anchor. Issue 0 replaces generic 'raw umber' with 'deeper ochre with a weathered-bronze brown' — this aligns with the anchor's deep ochre and weathered bronze palette. Issue 1 replaces 'burnt sienna' with 'sacred saffron' — this directly honors the anchor's instruction to introduce saffron sparingly. Both are clear improvements and should be accepted. No new ideas are introduced; the structural integrity of the original prompt is preserved.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "Replacing raw umber with deep ochre and weathered-bronze brown directly restores the series anchor palette that the original prompt drifted from."
+          },
+          {
+            "issue_index": 1,
+            "decision": "accept",
+            "reason": "Replacing burnt sienna with sacred saffron honors the anchor's explicit instruction to introduce saffron sparingly as a defining series color."
+          }
+        ],
+        "final_prompt": "A single palm-leaf manuscript strip rests in the lower-left third of warm cream cotton paper, angled gently so its curled right tip drifts toward the center of the composition. A wet-on-wet sandalwood wash covers the leaf body, pooling into deeper ochre with a weathered-bronze brown along the lower shadow edge and the curl where pigment gathers. Sacred saffron is introduced sparingly at the curled tip in a single thin deepening wash. The upper two-thirds of the painting is open negative space — a ghost of sandalwood wash diluted to near-nothing, exposing the cold-press paper grain warmly beneath. Dry-brush scuffs run along the leaf's long edge, suggesting dried fiber and age. All edges bleed softly, no hard outlines, pencil under-drawing faintly legible beneath the thinnest washes.",
+        "changes_summary": "Raw umber shadow was replaced with deep ochre and weathered-bronze brown to restore the series palette, and burnt sienna at the curled tip was replaced with sacred saffron to honor the anchor's instruction to introduce saffron sparingly."
+      },
+      "usage": {
+        "prompt": 1390,
+        "completion": 481,
+        "total": 1871
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-parasara-smrti-2259be/cover.webp",
+      "bytes": 902144,
+      "generated_at": "2026-04-26T16:02:03.459Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single palm-leaf manuscript strip rests in the lower-left third of warm cream cotton paper, angled gently so its curled right tip drifts toward the center of the composition. A wet-on-wet sandalwood wash covers the leaf body, pooling into deeper ochre with a weathered-bronze brown along the lower shadow edge and the curl where pigment gathers. Sacred saffron is introduced sparingly at the curled tip in a single thin deepening wash. The upper two-thirds of the painting is open negative space — a ghost of sandalwood wash diluted to near-nothing, exposing the cold-press paper grain warmly beneath. Dry-brush scuffs run along the leaf's long edge, suggesting dried fiber and age. All edges bleed softly, no hard outlines, pencil under-drawing faintly legible beneath the thinnest washes.",
+  "cache_key": "ff1ad8b7e8d5b43d"
+}

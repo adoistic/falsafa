@@ -1,0 +1,89 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "series_id": "iqbal-bang-e-dara",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:42:30.271Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "series_id": "iqbal-bang-e-dara",
+      "series_anchor": {
+        "label": "Iqbal — Bang-E-Dara (Parts 1, 2, 3)",
+        "palette": "indigo, deep saffron, jasmine ivory, twilight rose, raw sienna",
+        "mood": "Ghazal-flavored melancholy. A Mughal courtyard at twilight. Late lamplight on cooling stone. The caravan that has paused to listen.",
+        "watercolor_treatment": "Wet-into-wet for the twilight sky tones, allowed to bleed and pool naturally. Saffron and rose introduced only where the subject demands; indigo permitted to dry to a chalky paper-grain texture at the edges."
+      },
+      "work_metadata": {
+        "title": "Bang-E-Dara Part 2",
+        "author": "Allama Iqbal",
+        "era": "20th Century",
+        "language": "Urdu",
+        "genre": "Literature",
+        "description": "The second part of Bang-e-Dara (The Call of the Marching Bell), continuing Allama Iqbal's exploration of Islamic philosophy, self-realization, and the spiritual destiny of Muslims in the modern world."
+      },
+      "content_excerpt": "Chamak teri ayaan bijli mein, aatish mein, sharare mein\n\nChamak\nTeri ayaan bijli mein, aatish mein, sharare mein\nJhalak\nTeri huvaida chaand mein, suraj mein, taare mein\nBulandi\nAasmanon mein, zameenon mein teri pasti\nRawani\nBehr mein, uftaadgi teri kinare mein\nShariat\nKyun garebaan-geer ho zauq-e-takallum ki\nChhupa\nJaata hoon apne dil ka matlab ista'aare mein\nJo\nHai bedaar insaan mein woh gehri neend sota hai\nShajar\nMein, phool mein, haiwaan mein, patthar mein, sitare mein\nMujhe\nPhoonka hai soz-e-qatra-e-ashk-e-mohabbat ne\nGhazab\nKi aag thi paani ke chhote se sharare mein\nNahin\nJins-e-sawab-e-",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The excerpt opens with 'Chamak teri ayaan bijli mein, aatish mein, sharare mein' — radiance visible in lightning, fire, and sparks — a meditation on divine light hidden inside ordinary matter. A single oil lamp with a small trembling flame evokes this hidden fire, the soz (burning), and the ghazal-flavored melancholy of the series without illustrating any specific scene.",
+        "subject": "A small clay oil lamp with a low, wavering flame",
+        "palette": "Indigo, deep saffron, raw sienna",
+        "composition": "The lamp sits in the lower-left quadrant, slightly off-axis, its base resting on an implied surface suggested by a single dilute sienna wash. Upper right and most of the canvas breathes as open ivory paper, the emptiness weighted against the lamp's small mass.",
+        "watercolor_treatment": "Wet-into-wet indigo wash floats across the upper two-thirds, pooling darker at the top edge and bleeding to near-nothing before reaching the lamp. Saffron introduced wet-into-wet around the flame, allowed to bloom outward and soften without a hard halo. Raw sienna in two dry-brush passes defines the clay body, paper grain showing through the thin pigment. Lamp edges bleed softly into the surrounding indigo, no hard outline anywhere.",
+        "prompt": "A small clay oil lamp rests in the lower-left quadrant of warm cream cotton paper, its base suggested by a single dilute raw sienna wash that dissolves before reaching the paper's edge. A low flame sits at the lamp's mouth, rendered in deep saffron wet-into-wet, blooming outward in a soft corona that fades to nothing against the surrounding field. Indigo pools across the upper two-thirds of the composition, darkest at the top and bleeding downward until the pigment vanishes entirely, leaving visible cold-press paper grain in the pale expanse. The clay body is built from two dry-brush passes of raw sienna, the bristle marks and paper texture showing through. No hard outlines anywhere; every edge bleeds softly into the surrounding wash. More than half the painting is open ivory paper, breathing and deliberate."
+      },
+      "usage": {
+        "prompt": 2022,
+        "completion": 492,
+        "total": 2514
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "no significant issues",
+        "issues": [],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2075,
+        "completion": 845,
+        "total": 2920
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic found no issues and recommends shipping as-is. There are zero issues to adjudicate. The original prompt is clean, honors the series anchor fully, and respects all negative directives. The final prompt is the original, unchanged.",
+        "decisions": [],
+        "final_prompt": "A small clay oil lamp rests in the lower-left quadrant of warm cream cotton paper, its base suggested by a single dilute raw sienna wash that dissolves before reaching the paper's edge. A low flame sits at the lamp's mouth, rendered in deep saffron wet-into-wet, blooming outward in a soft corona that fades to nothing against the surrounding field. Indigo pools across the upper two-thirds of the composition, darkest at the top and bleeding downward until the pigment vanishes entirely, leaving visible cold-press paper grain in the pale expanse. The clay body is built from two dry-brush passes of raw sienna, the bristle marks and paper texture showing through. No hard outlines anywhere; every edge bleeds softly into the surrounding wash. More than half the painting is open ivory paper, breathing and deliberate.",
+        "changes_summary": "No changes were made. The critic scored the prompt 9/10 with a ship recommendation and raised zero issues, so the original prompt is retained verbatim."
+      },
+      "usage": {
+        "prompt": 1225,
+        "completion": 290,
+        "total": 1515
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/cover.webp",
+      "bytes": 899374,
+      "generated_at": "2026-04-26T15:42:30.271Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A small clay oil lamp rests in the lower-left quadrant of warm cream cotton paper, its base suggested by a single dilute raw sienna wash that dissolves before reaching the paper's edge. A low flame sits at the lamp's mouth, rendered in deep saffron wet-into-wet, blooming outward in a soft corona that fades to nothing against the surrounding field. Indigo pools across the upper two-thirds of the composition, darkest at the top and bleeding downward until the pigment vanishes entirely, leaving visible cold-press paper grain in the pale expanse. The clay body is built from two dry-brush passes of raw sienna, the bristle marks and paper texture showing through. No hard outlines anywhere; every edge bleeds softly into the surrounding wash. More than half the painting is open ivory paper, breathing and deliberate.",
+  "cache_key": "0840e99ce54c1323"
+}

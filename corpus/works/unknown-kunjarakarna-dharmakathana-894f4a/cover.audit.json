@@ -1,0 +1,102 @@
+{
+  "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+  "series_id": "kawi-tattva",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:51:33.124Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "series_id": "kawi-tattva",
+      "series_anchor": {
+        "label": "Old Javanese / Kawi tattva corpus (San Hyan series, Vrhaspatitattva, Gaṇapatitattva, Slokantara, Vratisasana, Kunjarakarna, Kalpabuddha)",
+        "palette": "tropical earth ochre, deep palm-leaf brown, weathered teak, jasmine cream, faint lapis trace",
+        "mood": "Old Javanese palm-leaf manuscript tradition. Tropical pre-dawn humidity. Frangipani at the threshold. The text inscribed with an iron stylus.",
+        "watercolor_treatment": "Earth ochre and palm-brown washed wet-on-wet to simulate the patina of palm-leaf age. Tropical greenery suggested only as a faint background tone, never literally rendered. Lapis used as a single bright accent on the subject only if the work demands it."
+      },
+      "work_metadata": {
+        "title": "Kunjarakarna Dharmakathana",
+        "author": "Unknown",
+        "era": "Unknown",
+        "language": "Kawi",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "Kuñjarakarṇa Dharmakathana\n\navighnam astu.\n\nCanto 1. (Jagaddhita: - - - | ~ ~ - | ~ - ~ | ~ ~ - | ~ ~ ~ | ~ ~ ~ | - ~ - | ~ =)\n\n1. The steadfast one, seeking battle on the field of austerities and vows, warring against the six heroic enemies within,\nHis battle-array is the quality of truth in meditation; his chariot, the practice of compassion and more.\nThe sacred hand-gestures are his banner, the lion's roar his chanted spell, the supreme bow his inconceivable contemplation;\nThe highest arrow is enlightenment-wisdom, annihilating the foe, bearing the fruit of *dharma*-*śūnyatā*.\n\n2. Such a on",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "Kunjarakarna Dharmakathana opens with the image of inner warfare — the six enemies within, conquered through austerity, meditation, and dharma-wisdom. A single ritual arrow, the 'highest arrow' of enlightenment-wisdom, evokes this perfectly: a concrete object that carries both the battle metaphor and the spiritual trajectory of the text without depicting any figure or scene.",
+        "subject": "A single ceremonial arrow resting at an angle, its fletching fraying at the edges",
+        "palette": "tropical earth ochre, palm-leaf brown, faint lapis trace",
+        "composition": "The arrow placed diagonally from lower-left toward upper-right, occupying roughly one third of the composition, with the shaft fading into the ochre wash before reaching the right edge; the upper two-thirds of the painting is open cream paper with only the faintest humidity-stained wash",
+        "watercolor_treatment": "Wet-on-wet earth ochre laid first as a broad ground wash, pooling darker along the arrow shaft and bleeding outward until it dissolves into bare cream cotton paper; palm-leaf brown built in a second wash only along the shaft's shadow side, dry-brushed lightly so cold-press grain shows through; a single thin stroke of diluted lapis on the arrowhead tip as the sole accent; pencil under-drawing faintly visible beneath the fletching",
+        "prompt": "A single ceremonial arrow rests diagonally across warm cream cotton paper, its shaft rendered in wet-on-wet tropical earth ochre that pools deepest along the center line and bleeds outward until the pigment dissolves into bare paper. A second wash of palm-leaf brown, applied dry-brush so the cold-press grain shows through, deepens the shadow side of the shaft. The fraying fletching is suggested with loose, water-starved strokes. At the iron tip, one thin diluted trace of lapis provides the sole accent. The upper half of the painting is almost entirely open cream paper, carrying only the faintest humidity-stained ochre breath. A pencil under-drawing is barely legible beneath the fletching, soft and unresolved. No borders, no text, no figures."
+      },
+      "usage": {
+        "prompt": 1930,
+        "completion": 484,
+        "total": 2414
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "Only material issue is a single weak hedge in the negative-space instruction; no gate-failing cliché, namedropping, or watercolor-label problem is present.",
+        "issues": [
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "almost entirely open cream paper",
+            "suggestion": "open cream paper"
+          }
+        ],
+        "overall_score": 8,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2111,
+        "completion": 981,
+        "total": 3092
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The single issue flagged is medium severity: the phrase 'almost entirely open cream paper' contains a weak hedge ('almost entirely') that dilutes the negative-space instruction. Removing the hedge to 'open cream paper' tightens the directive without losing any meaning. The critic is correct and not over-correcting. All other elements of the original prompt honor the series anchor and should remain unchanged.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "Removing 'almost entirely' eliminates a weak hedge and makes the negative-space instruction cleaner and more authoritative."
+          }
+        ],
+        "final_prompt": "A single ceremonial arrow rests diagonally across warm cream cotton paper, its shaft rendered in wet-on-wet tropical earth ochre that pools deepest along the center line and bleeds outward until the pigment dissolves into bare paper. A second wash of palm-leaf brown, applied dry-brush so the cold-press grain shows through, deepens the shadow side of the shaft. The fraying fletching is suggested with loose, water-starved strokes. At the iron tip, one thin diluted trace of lapis provides the sole accent. The upper half of the painting is open cream paper, carrying only the faintest humidity-stained ochre breath. A pencil under-drawing is barely legible beneath the fletching, soft and unresolved. No borders, no text, no figures.",
+        "changes_summary": "Removed the weak hedge 'almost entirely' from the negative-space instruction so the upper half reads as definitively open cream paper. No other changes were made."
+      },
+      "usage": {
+        "prompt": 1282,
+        "completion": 353,
+        "total": 1635
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-kunjarakarna-dharmakathana-894f4a/cover.webp",
+      "bytes": 716330,
+      "generated_at": "2026-04-26T15:51:33.124Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single ceremonial arrow rests diagonally across warm cream cotton paper, its shaft rendered in wet-on-wet tropical earth ochre that pools deepest along the center line and bleeds outward until the pigment dissolves into bare paper. A second wash of palm-leaf brown, applied dry-brush so the cold-press grain shows through, deepens the shadow side of the shaft. The fraying fletching is suggested with loose, water-starved strokes. At the iron tip, one thin diluted trace of lapis provides the sole accent. The upper half of the painting is open cream paper, carrying only the faintest humidity-stained ochre breath. A pencil under-drawing is barely legible beneath the fletching, soft and unresolved. No borders, no text, no figures.",
+  "cache_key": "9a403fb9f46cb92c"
+}

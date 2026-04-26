@@ -1,0 +1,89 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "series_id": "iqbal-bang-e-dara",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:42:19.018Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "series_id": "iqbal-bang-e-dara",
+      "series_anchor": {
+        "label": "Iqbal — Bang-E-Dara (Parts 1, 2, 3)",
+        "palette": "indigo, deep saffron, jasmine ivory, twilight rose, raw sienna",
+        "mood": "Ghazal-flavored melancholy. A Mughal courtyard at twilight. Late lamplight on cooling stone. The caravan that has paused to listen.",
+        "watercolor_treatment": "Wet-into-wet for the twilight sky tones, allowed to bleed and pool naturally. Saffron and rose introduced only where the subject demands; indigo permitted to dry to a chalky paper-grain texture at the edges."
+      },
+      "work_metadata": {
+        "title": "Bang-E-Dara Part 1",
+        "author": "Allama Iqbal",
+        "era": "20th Century",
+        "language": "Urdu",
+        "genre": "Literature",
+        "description": "The first part of Bang-e-Dara (The Call of the Marching Bell), Allama Iqbal's groundbreaking collection of Urdu poetry. This section introduces his powerful vision of Islamic renaissance and individual empowerment through faith."
+      },
+      "content_excerpt": "What wondrous piety, for all to see,\nHe holds the entire world in enmity.\n\nFor no one yet has understood of man:\nFrom where he comes, or where his journey goes.\n\nThe very source that gives the night its dark,\nIs where the star receives its shining spark.\n\nAnd as for our own tale of heartfelt pain,\nWe tell it to our confidant alone.\n\nSo subtle are the preacher's sly designs,\nHe trembles at the sound of the call to prayer.",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 424
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The excerpt opens with questions of origin and destiny — where man comes from, where he goes — and the central image of a star receiving its spark from the same source that darkens the night. A single oil lamp evokes that paradox: the flame that illuminates while surrounded by darkness, the solitary light of the caravan paused at dusk, perfectly aligned with the series mood of late lamplight on cooling stone.",
+        "subject": "A single clay oil lamp, flame barely alive, resting on an unseen surface",
+        "palette": "Indigo, deep saffron, raw sienna",
+        "composition": "Lamp placed low and left of center, occupying roughly one-third of the vertical space, with vast warm-ivory negative space rising above and to the right — the emptiness feels like an unanswered question, the weight of the lamp anchoring the lower left corner",
+        "watercolor_treatment": "Wet-into-wet indigo wash blooming outward from behind the lamp, pooling darkest at the upper left and diluting to bare cream paper grain toward the right edge. The clay body of the lamp built in two passes of raw sienna — first a pale dilute wash left to dry with visible cold-press texture, then a second concentrated layer at the base and shadow side. The flame rendered as a single careful touch of deep saffron, edges bleeding softly into the surrounding indigo without a hard boundary. Dry-brush scuffs of raw sienna along the lamp's rim where the brush ran nearly dry. Pencil under-drawing faintly legible at the spout.",
+        "prompt": "A single small clay oil lamp rests low and to the left on a bare warm-ivory cotton-paper ground, its flame a soft bleed of deep saffron dissolving at the edges into surrounding shadow. Behind and above the lamp, a wet-into-wet wash of indigo pools thickest in the upper left corner and thins gradually rightward until only the cold-press paper grain carries the faintest blue-grey memory of pigment. The lamp's body is painted in two passes of raw sienna — a pale dilute first layer revealing the paper's texture, then a second concentrated wash at the base and shadow side adding quiet weight. Dry-brush scuffs mark the rim where the brush ran almost out of water. A pencil under-drawing is barely legible at the spout. More than half the painting is breathing room: pale, unanswered, still."
+      },
+      "usage": {
+        "prompt": 1859,
+        "completion": 536,
+        "total": 2395
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "no significant issues",
+        "issues": [],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2083,
+        "completion": 551,
+        "total": 2634
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic found no issues and recommends shipping as-is with a 9/10 score. There are zero issues to accept or reject. The final prompt should be the original prompt unchanged, as it already honors the series anchor and violates none of the negative directives.",
+        "decisions": [],
+        "final_prompt": "A single small clay oil lamp rests low and to the left on a bare warm-ivory cotton-paper ground, its flame a soft bleed of deep saffron dissolving at the edges into surrounding shadow. Behind and above the lamp, a wet-into-wet wash of indigo pools thickest in the upper left corner and thins gradually rightward until only the cold-press paper grain carries the faintest blue-grey memory of pigment. The lamp's body is painted in two passes of raw sienna — a pale dilute first layer revealing the paper's texture, then a second concentrated wash at the base and shadow side adding quiet weight. Dry-brush scuffs mark the rim where the brush ran almost out of water. A pencil under-drawing is barely legible at the spout. More than half the painting is breathing room: pale, unanswered, still.",
+        "changes_summary": "No changes were made. The critic recommended shipping the prompt as-is with no issues identified, so the original prompt is preserved verbatim."
+      },
+      "usage": {
+        "prompt": 1230,
+        "completion": 296,
+        "total": 1526
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/cover.webp",
+      "bytes": 972056,
+      "generated_at": "2026-04-26T15:42:19.017Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single small clay oil lamp rests low and to the left on a bare warm-ivory cotton-paper ground, its flame a soft bleed of deep saffron dissolving at the edges into surrounding shadow. Behind and above the lamp, a wet-into-wet wash of indigo pools thickest in the upper left corner and thins gradually rightward until only the cold-press paper grain carries the faintest blue-grey memory of pigment. The lamp's body is painted in two passes of raw sienna — a pale dilute first layer revealing the paper's texture, then a second concentrated wash at the base and shadow side adding quiet weight. Dry-brush scuffs mark the rim where the brush ran almost out of water. A pencil under-drawing is barely legible at the spout. More than half the painting is breathing room: pale, unanswered, still.",
+  "cache_key": "9bdb71408b9c47a9"
+}

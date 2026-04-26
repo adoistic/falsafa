@@ -1,0 +1,102 @@
+{
+  "work_slug": "unknown-san-hyan-mahajnana-11c531",
+  "series_id": "kawi-tattva",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T16:01:25.676Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "series_id": "kawi-tattva",
+      "series_anchor": {
+        "label": "Old Javanese / Kawi tattva corpus (San Hyan series, Vrhaspatitattva, Gaṇapatitattva, Slokantara, Vratisasana, Kunjarakarna, Kalpabuddha)",
+        "palette": "tropical earth ochre, deep palm-leaf brown, weathered teak, jasmine cream, faint lapis trace",
+        "mood": "Old Javanese palm-leaf manuscript tradition. Tropical pre-dawn humidity. Frangipani at the threshold. The text inscribed with an iron stylus.",
+        "watercolor_treatment": "Earth ochre and palm-brown washed wet-on-wet to simulate the patina of palm-leaf age. Tropical greenery suggested only as a faint background tone, never literally rendered. Lapis used as a single bright accent on the subject only if the work demands it."
+      },
+      "work_metadata": {
+        "title": "San Hyan Mahajnana",
+        "author": "Unknown",
+        "era": "Unknown",
+        "language": "Kawi",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "The Sacred Supreme Wisdom\n\n*May there be no obstacles.*\n\nWhen the revered Kumāra was studying with the Lord Guru, he asked about The Sacred Supreme Wisdom. He made obeisance to the Lord, his words were: *oṃ namah śiwāya*. After he had made obeisance, he spoke, his words were:\n\n*Indeed, He pervades all states of being, in this body of the embodied. With body and mind, that which is auspicious has been declared by me for Him. // 1*\n\nBy your command, Lord. May this obeisance of your son be forgiven, and also the truth of the Holy One who pervades the entire world, filling the universe, and the bo",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The San Hyan Mahajnana is a text of supreme sacred wisdom transmitted through a student-teacher dialogue, invoking the divine that pervades all being. A single iron stylus — the instrument of inscription on palm-leaf — evokes the act of transmitting sacred knowledge without depicting any figure or narrative, and anchors the work in the Old Javanese manuscript tradition.",
+        "subject": "A single iron stylus resting diagonally on a fragment of aged palm leaf",
+        "palette": "tropical earth ochre, deep palm-leaf brown, faint lapis trace",
+        "composition": "The stylus and leaf fragment occupy the lower-left third of the composition, angled slightly upward toward the center, leaving the upper-right expanse as open cream paper breathing room. Visual weight settles at the lower edge; the negative space above feels like silence before speech.",
+        "watercolor_treatment": "Wet-on-wet ochre and palm-brown washes pool along the leaf fragment's spine and thin to almost nothing at the torn edges, letting cold-press paper grain show through. The iron stylus receives a second deepening wash of sepia to give it weight. A single dilute lapis trace runs along one edge of the stylus only, faint and barely saturated. Dry-brush scuffs suggest the fibrous texture of the leaf surface. Pencil under-drawing is faintly visible beneath the thinnest ochre passages.",
+        "prompt": "A single iron stylus rests diagonally across a fragment of aged palm leaf, placed in the lower-left third of warm cream cotton paper, the upper-right expanse left open and breathing. Wet-on-wet washes of tropical earth ochre and deep palm-leaf brown pool along the leaf's central spine and dilute toward torn, fibrous edges until the pigment nearly vanishes into the paper grain. The stylus receives a second deepening wash of sepia, giving it quiet mass. One faint lapis trace runs along a single edge of the iron tip — barely saturated, restrained. Dry-brush scuffs across the leaf surface suggest age and fiber. Pencil under-drawing ghosts through the thinnest ochre passages. No hard outlines anywhere; all edges bleed softly into cream."
+      },
+      "usage": {
+        "prompt": 1899,
+        "completion": 493,
+        "total": 2392
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "The prompt is largely aligned, but it risks violating the one-subject constraint by giving the stylus and palm-leaf fragment nearly equal object status.",
+        "issues": [
+          {
+            "severity": "high",
+            "category": "vague_subject",
+            "problematic_phrase": "\"A single iron stylus rests diagonally across a fragment of aged palm leaf\"",
+            "suggestion": "\"A single iron stylus rests diagonally on a barely indicated aged palm-leaf surface\""
+          }
+        ],
+        "overall_score": 6,
+        "recommendation": "revise"
+      },
+      "usage": {
+        "prompt": 2099,
+        "completion": 634,
+        "total": 2733
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic's single high-severity issue is valid: giving the palm-leaf fragment equal object status to the stylus risks splitting the subject. The suggested fix — 'barely indicated aged palm-leaf surface' — subordinates the leaf to background/surface status, making the stylus the clear single subject. This aligns with the series anchor's wet-on-wet treatment of the leaf as texture/patina rather than a co-equal object. Accept this change and apply it surgically.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "Demoting the palm-leaf fragment to a 'barely indicated surface' correctly establishes the iron stylus as the single subject, preventing the composition from splitting focus between two objects."
+          }
+        ],
+        "final_prompt": "A single iron stylus rests diagonally on a barely indicated aged palm-leaf surface, placed in the lower-left third of warm cream cotton paper, the upper-right expanse left open and breathing. Wet-on-wet washes of tropical earth ochre and deep palm-leaf brown pool along the surface's central spine and dilute toward torn, fibrous edges until the pigment nearly vanishes into the paper grain. The stylus receives a second deepening wash of sepia, giving it quiet mass. One faint lapis trace runs along a single edge of the iron tip — barely saturated, restrained. Dry-brush scuffs across the leaf surface suggest age and fiber. Pencil under-drawing ghosts through the thinnest ochre passages. No hard outlines anywhere; all edges bleed softly into cream.",
+        "changes_summary": "The palm-leaf fragment has been reframed as a 'barely indicated aged palm-leaf surface' to subordinate it to the stylus as the clear single subject. All other language remains unchanged."
+      },
+      "usage": {
+        "prompt": 1313,
+        "completion": 398,
+        "total": 1711
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-san-hyan-mahajnana-11c531/cover.webp",
+      "bytes": 835712,
+      "generated_at": "2026-04-26T16:01:25.676Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single iron stylus rests diagonally on a barely indicated aged palm-leaf surface, placed in the lower-left third of warm cream cotton paper, the upper-right expanse left open and breathing. Wet-on-wet washes of tropical earth ochre and deep palm-leaf brown pool along the surface's central spine and dilute toward torn, fibrous edges until the pigment nearly vanishes into the paper grain. The stylus receives a second deepening wash of sepia, giving it quiet mass. One faint lapis trace runs along a single edge of the iron tip — barely saturated, restrained. Dry-brush scuffs across the leaf surface suggest age and fiber. Pencil under-drawing ghosts through the thinnest ochre passages. No hard outlines anywhere; all edges bleed softly into cream.",
+  "cache_key": "0d6285fcf180aff5"
+}

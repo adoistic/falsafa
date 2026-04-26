@@ -1,0 +1,113 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+  "series_id": "dunoyer-economie",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:57:03.653Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "series_id": "dunoyer-economie",
+      "series_anchor": {
+        "label": "Charles Dunoyer — Nouveau traité d'économie (Volumes I-II)",
+        "palette": "warm umber, lead grey, oxidized copper, ivory, restrained ochre",
+        "mood": "Pre-industrial European economic thought. A merchant's table after the day's accounts are closed. Warm ledger-paper, cool metal weights.",
+        "watercolor_treatment": "Warm umber wash anchoring the subject; cool grey shadow on the supporting side; copper/brass touched in dry to suggest oxidation rather than polish."
+      },
+      "work_metadata": {
+        "title": "Nouveau traité d'économie: VOL II",
+        "author": "Charles Dunoyer",
+        "era": "Unknown",
+        "language": "French",
+        "genre": "Political & Social Theory",
+        "description": ""
+      },
+      "content_excerpt": "## CHAP. 13: III. Of the diverse orders of labors and functions that the industrial society embraces.\n\n§ 1. I have sought, in the first volume of this work, what were the conditions of liberty, considered in a general manner and outside of any special mode of activity. It has been seen that it depended on: 1st, race, 2nd, external circumstances, 3rd, culture; that is to say, that men succeeded all the more in enlarging the sphere of their activity and in putting themselves in a position to act with facility and with power, as nature had endowed them with more perfect organs, as they had been p",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "Volume II of Dunoyer's taxonomy of industrial labor and social liberty calls for an object that evokes classification, order, and measured human capacity—a set of graduated brass weights on a merchant's surface captures the spirit of categorizing labor and function without depicting any figure or narrative scene.",
+        "subject": "A set of three graduated brass weights, smallest to largest, arranged in a loose asymmetric line",
+        "palette": "raw umber, payne's grey, yellow ochre",
+        "composition": "The three weights sit in the lower-left third of the composition, the largest anchoring the left edge, the smallest trailing toward center, leaving the upper-right two-thirds as open cream paper with only the faintest ghost of a wash. The arrangement tilts slightly, implying use rather than display.",
+        "watercolor_treatment": "A warm raw umber wet-on-wet wash pools beneath each weight and dilutes outward until it vanishes into bare paper grain. Payne's grey is laid in a second pass on the shadow sides, bleeding softly at the boundary. Yellow ochre is touched in dry-brush across the upper faces of the weights to suggest oxidized brass rather than polished metal—scuffed strokes where the brush ran nearly dry. Cold-press grain shows clearly in the pale negative space. No hard outlines anywhere.",
+        "prompt": "On warm cream cotton paper, three graduated brass weights sit in the lower-left third of the composition, arranged in a loose asymmetric cluster—largest to smallest, trailing gently rightward and upward before the eye releases into open paper. A raw umber wet-on-wet wash pools dark beneath each form and dilutes outward until it dissolves into bare cold-press grain. Payne's grey is laid in a second soft pass on the shadow sides, edges bleeding without containment. Yellow ochre is scuffed across the upper faces in dry-brush strokes, suggesting oxidized metal rather than polish. The upper-right expanse is almost untouched cream paper, breathing and quiet. Pencil under-drawing is faintly legible beneath the lightest passages. No text, no borders, no hard outlines."
+      },
+      "usage": {
+        "prompt": 1799,
+        "completion": 466,
+        "total": 2265
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "Dominant issue is subject count: the draft specifies multiple separate objects despite the one-subject constraint. It also uses weak hedging around the untouched paper area.",
+        "issues": [
+          {
+            "severity": "high",
+            "category": "vague_subject",
+            "problematic_phrase": "\"three graduated brass weights\"",
+            "suggestion": "\"one brass trade weight\""
+          },
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "\"almost untouched cream paper\"",
+            "suggestion": "\"left as untouched cream paper\""
+          }
+        ],
+        "overall_score": 6,
+        "recommendation": "revise"
+      },
+      "usage": {
+        "prompt": 2007,
+        "completion": 643,
+        "total": 2650
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "Issue 0 is high severity and valid: 'three graduated brass weights' violates the one-subject constraint from the series anchor. Replacing with 'one brass trade weight' is correct. Issue 1 is medium severity and a genuine improvement: 'almost untouched' is weak hedging and 'left as untouched' is more declarative and confident. Both suggestions should be accepted.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "Multiple objects violate the one-subject constraint; replacing with a single brass trade weight corrects this."
+          },
+          {
+            "issue_index": 1,
+            "decision": "accept",
+            "reason": "'Almost untouched' is weak hedging; 'left as untouched' is more declarative and confident."
+          }
+        ],
+        "final_prompt": "On warm cream cotton paper, one brass trade weight sits in the lower-left third of the composition, anchoring the composition with quiet mass. A raw umber wet-on-wet wash pools dark beneath the form and dilutes outward until it dissolves into bare cold-press grain. Payne's grey is laid in a second soft pass on the shadow side, edges bleeding without containment. Yellow ochre is scuffed across the upper face in dry-brush strokes, suggesting oxidized metal rather than polish. The upper-right expanse is left as untouched cream paper, breathing and quiet. Pencil under-drawing is faintly legible beneath the lightest passages. No text, no borders, no hard outlines.",
+        "changes_summary": "'Three graduated brass weights' was reduced to a single brass trade weight to honor the one-subject constraint, and 'almost untouched' was replaced with 'left as untouched' to remove weak hedging."
+      },
+      "usage": {
+        "prompt": 1287,
+        "completion": 388,
+        "total": 1675
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/cover.webp",
+      "bytes": 998744,
+      "generated_at": "2026-04-26T15:57:03.653Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "On warm cream cotton paper, one brass trade weight sits in the lower-left third of the composition, anchoring the composition with quiet mass. A raw umber wet-on-wet wash pools dark beneath the form and dilutes outward until it dissolves into bare cold-press grain. Payne's grey is laid in a second soft pass on the shadow side, edges bleeding without containment. Yellow ochre is scuffed across the upper face in dry-brush strokes, suggesting oxidized metal rather than polish. The upper-right expanse is left as untouched cream paper, breathing and quiet. Pencil under-drawing is faintly legible beneath the lightest passages. No text, no borders, no hard outlines.",
+  "cache_key": "dc6058adfaa2faef"
+}

@@ -1,0 +1,102 @@
+{
+  "work_slug": "unknown-nyaya-tilakam-pandulipi-bookny",
+  "series_id": "sanskrit-smrti",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:57:54.979Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-nyaya-tilakam-pandulipi-bookny",
+      "series_id": "sanskrit-smrti",
+      "series_anchor": {
+        "label": "Sanskrit smṛti corpus (Manu, Yājñavalkya, Nārada, Bṛhaspati, Aṅgirasa, Parāśara, Viṣṇu, Yama, Kātyāyana, Vīramitrodaya)",
+        "palette": "sandalwood, sacred saffron, deep ochre, weathered bronze, palm-leaf cream",
+        "mood": "Ancient Indian dharma tradition committed to palm leaf. Pre-dawn temple light. The verse-numbered shloka, copied for centuries.",
+        "watercolor_treatment": "Sandalwood wash as the dominant pigment, allowed to bleed into the paper. Saffron introduced sparingly. A touch of dried-leaf brown for the manuscript edge. Pigment kept thin and allowed to expose the cream paper warmly."
+      },
+      "work_metadata": {
+        "title": "Nyaya Tilakam Pandulipi",
+        "author": "Unknown",
+        "era": "Medieval",
+        "language": "Sanskrit",
+        "genre": "Academic Studies",
+        "description": "Sanskrit manuscript on Nyaya philosophy and logic"
+      },
+      "content_excerpt": "Shri Raghunath Temple MSS. Library,\nJAMMU\n\n| No. | 1566 |\n| Title | Nyaya Tilaka [Crown of Logic] |\n| Author | Viharacharya |\n| Extent | 8 | Age x |\n| Subject | Nyayashastra [Science of Logic] |",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 194
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The Nyaya Tilakam is a Sanskrit treatise on logic — nyaya means 'rule' or 'method of reasoning,' and the tilaka is a mark of distinction, a crown. A single brass or bronze measuring plumb or balance weight — ancient, worn, used to test and prove — evokes the rigorous logical method without illustrating any scene. It sits within the sandalwood-saffron family of the smṛti series.",
+        "subject": "A single worn bronze plumb weight on a frayed cord, resting at rest",
+        "palette": "Raw umber, yellow ochre, burnt sienna",
+        "composition": "The plumb weight placed in the lower-left third of the composition, the cord trailing upward and dissolving into unpainted cream paper before reaching the top edge; the upper-right two-thirds entirely open warm ground",
+        "watercolor_treatment": "A sandalwood-toned raw umber wet-on-wet wash pooling darkest at the base of the weight and bleeding outward to near-nothing at the paper grain; a single glaze of yellow ochre over the bronze body while still damp, letting both pigments drift and separate; burnt sienna dry-brushed in one or two scuffed strokes along the cord to suggest fiber texture; pencil under-drawing faintly visible at the cord's upper edge; paper grain exposed warmly throughout the negative space",
+        "prompt": "A single worn bronze plumb weight, small and ancient, rests in the lower-left third of warm cream cotton paper, its surface rendered in a wet-on-wet wash of raw umber that pools darkest at its base and bleeds outward until the pigment nearly vanishes into bare paper grain. A glaze of yellow ochre, laid while the umber is still damp, drifts across the body of the weight, the two pigments separating softly at their edges. A frayed cord rises from the weight and dissolves upward into unpainted paper before reaching the top edge, its fiber suggested by two or three dry-brush scuffs of burnt sienna. Pencil under-drawing remains faintly legible along the cord. The upper-right expanse is entirely open, breathing, warm cream — more than half the painting untouched. No hard outlines anywhere."
+      },
+      "usage": {
+        "prompt": 1816,
+        "completion": 501,
+        "total": 2317
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "The main issue is palette drift: the draft makes raw umber the dominant wash and shifts the support to cotton paper instead of the anchor’s sandalwood / saffron / ochre / bronze / palm-leaf cream system.",
+        "issues": [
+          {
+            "severity": "high",
+            "category": "palette_drift",
+            "problematic_phrase": "warm cream cotton paper, its surface rendered in a wet-on-wet wash of raw umber",
+            "suggestion": "palm-leaf cream paper, its surface rendered in a dominant sandalwood wet-on-wet wash with weathered-bronze depth pooling darkest at its base"
+          }
+        ],
+        "overall_score": 6,
+        "recommendation": "revise"
+      },
+      "usage": {
+        "prompt": 2118,
+        "completion": 1182,
+        "total": 3300
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic identifies one high-severity issue: palette drift from the series anchor. The original prompt uses 'warm cream cotton paper' and 'raw umber' as the dominant wash, which conflicts with the anchor's sandalwood-dominant palette and palm-leaf cream support. The critic's suggestion to replace these with palm-leaf cream paper and a sandalwood wash with weathered-bronze depth is correct and necessary. The rest of the prompt — the ochre glaze, burnt sienna dry-brush cord, pencil under-drawing, open upper-right composition, no hard outlines — is consistent with the anchor and should be preserved. The fix is surgical: replace the paper descriptor and the dominant wash pigment only.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "Raw umber as the dominant wash and cotton paper as the support both conflict with the series anchor's sandalwood-dominant palette and palm-leaf cream ground, so the replacement is necessary."
+          }
+        ],
+        "final_prompt": "A single worn bronze plumb weight, small and ancient, rests in the lower-left third of palm-leaf cream paper, its surface rendered in a wet-on-wet wash of sandalwood that pools darkest with weathered-bronze depth at its base and bleeds outward until the pigment nearly vanishes into bare paper grain. A glaze of yellow ochre, laid while the sandalwood wash is still damp, drifts across the body of the weight, the two pigments separating softly at their edges. A frayed cord rises from the weight and dissolves upward into unpainted paper before reaching the top edge, its fiber suggested by two or three dry-brush scuffs of burnt sienna. Pencil under-drawing remains faintly legible along the cord. The upper-right expanse is entirely open, breathing, warm cream — more than half the painting untouched. No hard outlines anywhere.",
+        "changes_summary": "Replaced 'warm cream cotton paper' with 'palm-leaf cream paper' and shifted the dominant wet-on-wet wash from raw umber to sandalwood with weathered-bronze depth pooling at the base, bringing the prompt into alignment with the series anchor palette."
+      },
+      "usage": {
+        "prompt": 1337,
+        "completion": 487,
+        "total": 1824
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-nyaya-tilakam-pandulipi-bookny/cover.webp",
+      "bytes": 759560,
+      "generated_at": "2026-04-26T15:57:54.979Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single worn bronze plumb weight, small and ancient, rests in the lower-left third of palm-leaf cream paper, its surface rendered in a wet-on-wet wash of sandalwood that pools darkest with weathered-bronze depth at its base and bleeds outward until the pigment nearly vanishes into bare paper grain. A glaze of yellow ochre, laid while the sandalwood wash is still damp, drifts across the body of the weight, the two pigments separating softly at their edges. A frayed cord rises from the weight and dissolves upward into unpainted paper before reaching the top edge, its fiber suggested by two or three dry-brush scuffs of burnt sienna. Pencil under-drawing remains faintly legible along the cord. The upper-right expanse is entirely open, breathing, warm cream — more than half the painting untouched. No hard outlines anywhere.",
+  "cache_key": "839ca27d7c0d87c2"
+}

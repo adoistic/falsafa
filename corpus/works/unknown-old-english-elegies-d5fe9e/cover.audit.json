@@ -1,0 +1,89 @@
+{
+  "work_slug": "unknown-old-english-elegies-d5fe9e",
+  "series_id": "solo-unknown-old-english-elegies-d5fe9e",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:58:16.308Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "series_id": "solo-unknown-old-english-elegies-d5fe9e",
+      "series_anchor": {
+        "label": "Default palette for solo works without an explicit anchor",
+        "palette": "raw umber, sepia, parchment cream, single restrained accent appropriate to the work",
+        "mood": "Quiet, unfussy, intent. The atmosphere of a single book on a single table.",
+        "watercolor_treatment": "One dominant warm wash, one supporting tone, sparing accent. Generous paper exposure."
+      },
+      "work_metadata": {
+        "title": "Old English Elegies",
+        "author": "Unknown",
+        "era": "Medieval",
+        "language": "old_english",
+        "genre": "Literature",
+        "description": "A collection of Old English elegiac poems expressing themes of exile, loss, and the transience of earthly life. These works represent the poignant reflections of Anglo-Saxon culture and spirituality."
+      },
+      "content_excerpt": "Fela bith on foldan      forthgesynra geongra geofona,      tha tha gaestberend weath in gewitte,      swa her weoruda god, meotud meahtum swith,      monnum daeleth,\nsyleth sundorgiefe,      sendeth wide agne spede,      thara aeghwylc mot dryhtwuniendra      dael onfon.\nNe bith aenig thaes      earfothsaelig mon on moldan,      ne thaes medspedig,\nlytelhydig,      ne thaes laethydig, thaet hine se argifa      ealles biscyrge\nmodes craefta      oththe maegendaeda, wis on gewitte      oththe on wordcwidum,\nthy laes ormod sy      ealra thinga,\nthara the he geworhte      in woruldlife, geofona g",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The Old English elegies speak of exile, transience, and the fading of earthly gifts — a mood best evoked by a single object that implies abandonment and the passage of time. A worn leather satchel or travelling bag, half-open and set down, carries the spirit of the wanderer-exile without depicting any figure, while its weathered texture suits the raw umber and sepia palette of the series.",
+        "subject": "A single weathered leather satchel, half-open, set down on its side",
+        "palette": "Raw umber, sepia, parchment cream",
+        "composition": "Satchel placed in the lower-left third of the painting, tilted slightly as if just set down, open flap falling loosely to one side. Upper right two-thirds is near-empty warm cream paper, breathing and unresolved. Visual weight pools at the base of the object, grounding it without centering it.",
+        "watercolor_treatment": "Dominant raw umber wet-on-wet wash pools darkest at the creases and folds of the leather, bleeding outward and thinning to near-nothing at the edges where cold-press paper grain shows through. A second sepia wash laid over the deepest shadow areas only, two passes maximum. Dry-brush scuffs suggest worn texture across the strap. Pencil under-drawing faintly legible at the buckle. No hard outlines — all edges bleed softly into the cream ground.",
+        "prompt": "A single weathered leather satchel, half-open and set down on its side, painted in watercolor on warm cream cotton paper. The satchel sits in the lower-left third of the composition, its open flap falling loosely, the upper right of the painting left as generous, barely-touched parchment cream. Raw umber pools darkest in the creases and folds of the leather through a wet-on-wet wash, diluting toward the edges until the cold-press paper grain shows through. A second sepia wash deepens only the heaviest shadow areas. Dry-brush scuffs across the strap suggest worn, well-travelled leather. A faint pencil under-drawing is barely legible at the buckle. No hard outlines — every edge bleeds softly into the warm ground. The mood is quiet, spent, and still."
+      },
+      "usage": {
+        "prompt": 1874,
+        "completion": 513,
+        "total": 2387
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "no significant issues",
+        "issues": [],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2020,
+        "completion": 376,
+        "total": 2396
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic found no issues and recommends shipping as-is with a score of 9/10. There are no suggestions to accept or reject. The original prompt is clean, honors the series anchor, and contains no violations of the negative directives. The final prompt is the original, unchanged.",
+        "decisions": [],
+        "final_prompt": "A single weathered leather satchel, half-open and set down on its side, painted in watercolor on warm cream cotton paper. The satchel sits in the lower-left third of the composition, its open flap falling loosely, the upper right of the painting left as generous, barely-touched parchment cream. Raw umber pools darkest in the creases and folds of the leather through a wet-on-wet wash, diluting toward the edges until the cold-press paper grain shows through. A second sepia wash deepens only the heaviest shadow areas. Dry-brush scuffs across the strap suggest worn, well-travelled leather. A faint pencil under-drawing is barely legible at the buckle. No hard outlines — every edge bleeds softly into the warm ground. The mood is quiet, spent, and still.",
+        "changes_summary": "No changes were made. The critic recommended shipping the prompt as-is with no issues identified."
+      },
+      "usage": {
+        "prompt": 1175,
+        "completion": 286,
+        "total": 1461
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-old-english-elegies-d5fe9e/cover.webp",
+      "bytes": 802140,
+      "generated_at": "2026-04-26T15:58:16.308Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single weathered leather satchel, half-open and set down on its side, painted in watercolor on warm cream cotton paper. The satchel sits in the lower-left third of the composition, its open flap falling loosely, the upper right of the painting left as generous, barely-touched parchment cream. Raw umber pools darkest in the creases and folds of the leather through a wet-on-wet wash, diluting toward the edges until the cold-press paper grain shows through. A second sepia wash deepens only the heaviest shadow areas. Dry-brush scuffs across the strap suggest worn, well-travelled leather. A faint pencil under-drawing is barely legible at the buckle. No hard outlines — every edge bleeds softly into the warm ground. The mood is quiet, spent, and still.",
+  "cache_key": "a9491103671b1267"
+}

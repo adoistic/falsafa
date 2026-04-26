@@ -1,0 +1,102 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "series_id": "solo-mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:45:23.328Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "series_id": "solo-mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "series_anchor": {
+        "label": "Default palette for solo works without an explicit anchor",
+        "palette": "raw umber, sepia, parchment cream, single restrained accent appropriate to the work",
+        "mood": "Quiet, unfussy, intent. The atmosphere of a single book on a single table.",
+        "watercolor_treatment": "One dominant warm wash, one supporting tone, sparing accent. Generous paper exposure."
+      },
+      "work_metadata": {
+        "title": "Diwan-E-Ghalib",
+        "author": "Mirza Ghalib",
+        "era": "19th Century",
+        "language": "Urdu",
+        "genre": "Literature",
+        "description": "The complete collection of ghazals by Mirza Ghalib, one of the greatest Urdu poets. His verses express profound emotions, philosophical reflections, and masterful use of metaphor and imagery in classical Urdu tradition."
+      },
+      "content_excerpt": "Aa ke meri jaan ko qarar nahin hai\nTaaqat-e-bidaad-e-intezar nahin hai\n\nDete hain jannat hayat-e-dahr ke badle\nNasha ba-andaza-e-khumar nahin hai\n\nGiriya nikaale hai teri bazm se mujh ko\nHaaye ke rone pe ikhtiyar nahin hai\n\nHum se abas hai gumaan-e-ranjish-e-khatir\nKhaak mein ashaaq ki ghubaar nahin hai\n\nDil se utha lutf-e-jalwa-haaye-maani\nGhair-e-gul aaina-e-bahaar nahin hai\n\nQatl ka mere kiya hai ahd to baare\nWaaye agar ahd ustuwaar nahin hai\n\nTu ne qasam mai-kashi ki khaayi hai Ghalib\nTeri qasam ka kuch aitbaar nahin hai",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 530
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "Ghalib's ghazals circle obsessively around longing, the cup of wine, and the impossibility of relief — a wine cup left empty and tilted on its side evokes the khumar (hangover of longing) and the intoxication metaphor that runs through the excerpt without illustrating any single verse literally.",
+        "subject": "A single small clay wine cup, tilted on its side, partially empty",
+        "palette": "raw umber, sepia, a single restrained accent of muted terracotta",
+        "composition": "The cup sits in the lower-left third of the composition, tilted slightly as if just set down, with its open mouth facing right into a wide expanse of bare cream paper — roughly two-thirds of the surface untouched, the visual weight anchored by the cup's dark interior shadow.",
+        "watercolor_treatment": "Wet-on-wet wash of diluted raw umber laid first across the cup's body, pooling darker sepia into the interior hollow and the shadow beneath the rim; pigment dilutes to near-nothing at the outer edges, letting cold-press paper grain show through the thinning wash. A dry-brush scuff of terracotta along the lip suggests fired clay texture. Pencil under-drawing faintly visible at the base. No second wash except one deepening glaze inside the cup's bowl.",
+        "prompt": "A single small clay wine cup lies tilted on its side in the lower-left third of warm cream cotton paper, its open mouth angled into generous empty space. A wet-on-wet wash of raw umber covers the cup's body, pooling into deeper sepia inside the hollow bowl and collecting as a shadow beneath the rim, then bleeding outward until the pigment almost vanishes into bare paper. Cold-press grain shows through the thinning edges. A dry-brush scuff of muted terracotta catches the fired lip of the cup. Faint pencil under-drawing is barely legible at the base. One additional deepening glaze settles inside the bowl only, giving it weight. More than two-thirds of the surface remains untouched cream paper, breathing and quiet."
+      },
+      "usage": {
+        "prompt": 1916,
+        "completion": 472,
+        "total": 2388
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "Only material issue is weak hedging in the pigment description; there are no critical AI-slop, namedropping, or watercolor-as-label failures.",
+        "issues": [
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "\"until the pigment almost vanishes into bare paper\"",
+            "suggestion": "\"until the pigment fades into bare paper\""
+          }
+        ],
+        "overall_score": 8,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 1989,
+        "completion": 471,
+        "total": 2460
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The single medium-severity issue is a straightforward improvement: replacing 'almost vanishes into bare paper' with 'fades into bare paper' removes hedging without changing meaning or conflicting with the series anchor. Accept it.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "Removing 'almost vanishes' in favor of 'fades' eliminates weak hedging and produces a cleaner, more confident description."
+          }
+        ],
+        "final_prompt": "A single small clay wine cup lies tilted on its side in the lower-left third of warm cream cotton paper, its open mouth angled into generous empty space. A wet-on-wet wash of raw umber covers the cup's body, pooling into deeper sepia inside the hollow bowl and collecting as a shadow beneath the rim, then bleeding outward until the pigment fades into bare paper. Cold-press grain shows through the thinning edges. A dry-brush scuff of muted terracotta catches the fired lip of the cup. Faint pencil under-drawing is barely legible at the base. One additional deepening glaze settles inside the bowl only, giving it weight. More than two-thirds of the surface remains untouched cream paper, breathing and quiet.",
+        "changes_summary": "Replaced 'almost vanishes into bare paper' with 'fades into bare paper' to remove hedging language. No other changes were made."
+      },
+      "usage": {
+        "prompt": 1225,
+        "completion": 315,
+        "total": 1540
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/mirza-ghalib-diwan-e-ghalib-74ed4c/cover.webp",
+      "bytes": 731520,
+      "generated_at": "2026-04-26T15:45:23.328Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single small clay wine cup lies tilted on its side in the lower-left third of warm cream cotton paper, its open mouth angled into generous empty space. A wet-on-wet wash of raw umber covers the cup's body, pooling into deeper sepia inside the hollow bowl and collecting as a shadow beneath the rim, then bleeding outward until the pigment fades into bare paper. Cold-press grain shows through the thinning edges. A dry-brush scuff of muted terracotta catches the fired lip of the cup. Faint pencil under-drawing is barely legible at the base. One additional deepening glaze settles inside the bowl only, giving it weight. More than two-thirds of the surface remains untouched cream paper, breathing and quiet.",
+  "cache_key": "26451835c14bb35c"
+}

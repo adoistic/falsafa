@@ -1,0 +1,102 @@
+{
+  "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+  "series_id": "kawi-tattva",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T16:04:27.779Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "series_id": "kawi-tattva",
+      "series_anchor": {
+        "label": "Old Javanese / Kawi tattva corpus (San Hyan series, Vrhaspatitattva, Gaṇapatitattva, Slokantara, Vratisasana, Kunjarakarna, Kalpabuddha)",
+        "palette": "tropical earth ochre, deep palm-leaf brown, weathered teak, jasmine cream, faint lapis trace",
+        "mood": "Old Javanese palm-leaf manuscript tradition. Tropical pre-dawn humidity. Frangipani at the threshold. The text inscribed with an iron stylus.",
+        "watercolor_treatment": "Earth ochre and palm-brown washed wet-on-wet to simulate the patina of palm-leaf age. Tropical greenery suggested only as a faint background tone, never literally rendered. Lapis used as a single bright accent on the subject only if the work demands it."
+      },
+      "work_metadata": {
+        "title": "San Hyan Tattvajnana",
+        "author": "Unknown",
+        "era": "Unknown",
+        "language": "Kawi",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "// o // Oṃ, may there be no obstacles // Homage to the perfected ones // o //\n\n1. Now, this must be heeded by the practitioner of the sacred duty who wishes to be released from the cycle of rebirth. There is what is called the Divine *Tattvajñāna* (Knowledge of Reality). That is what you must first understand, along with its divinity. For if one understands the Divine *Tattvajñāna*, one will surely perceive the cycle of rebirth and return to one's origin. What is it that is called the Divine *Tattvajñāna*? Should one ask thus, indeed, the Divine *Tattvajñāna* is that which is the root of all *",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The San Hyan Tattvajnana opens with an invocation and then speaks of the 'root of all' — the primordial ground of reality from which the cycle of rebirth springs and to which one returns. A single tap-root or exposed root fragment from a frangipani or banyan, partially buried in ochre earth, evokes that metaphysical 'root of all' without illustrating the text literally. It also anchors the series mood: tropical, pre-dawn, inscribed with age.",
+        "subject": "a single gnarled root segment resting on warm earth, partially buried, its surface dry and cracked",
+        "palette": "tropical earth ochre, deep palm-leaf brown, faint lapis trace",
+        "composition": "The root lies in the lower-left third of the composition, angled slightly off-horizontal, its tip dissolving into pale cream paper at the right edge. The upper two-thirds of the painting is open, breathing, near-empty warm cream — negative space that reads as sky or silence.",
+        "watercolor_treatment": "Earth ochre and palm-brown applied wet-on-wet, pooling darkest pigment at the root's central mass and diluting outward until the edges bleed into bare cream cotton paper. Cold-press grain shows clearly where the wash thins at the root tips. A single dry-brush scuff along the root's upper ridge where the brush ran nearly dry. One faint lapis accent laid in a single thin wash on one curved knuckle of the root, barely saturated. Pencil under-drawing visible in the buried lower portion, soft and half-erased in feeling.",
+        "prompt": "On warm cream cold-press cotton paper, a single gnarled root segment rests in the lower-left third of the composition, angled slightly off-horizontal, its form built from wet-on-wet washes of tropical earth ochre and deep palm-leaf brown that pool darkest at the root's dense center and dilute outward until the edges bleed away into bare paper. Cold-press grain shows through where the pigment thins at the tapering tips. A dry-brush scuff runs along the upper ridge where the brush ran nearly dry. One faint lapis wash — barely saturated, single layer — settles into one curved knuckle of the root as a restrained accent. A soft pencil under-drawing is half-legible where the root disappears into the earth. The upper two-thirds of the painting is open, breathing cream silence."
+      },
+      "usage": {
+        "prompt": 1902,
+        "completion": 550,
+        "total": 2452
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "The prompt is structurally clean against the anchor; the only material issue is weak hedging in the root angle.",
+        "issues": [
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "\"angled slightly off-horizontal\"",
+            "suggestion": "\"angled about ten degrees off-horizontal\""
+          }
+        ],
+        "overall_score": 8,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2135,
+        "completion": 603,
+        "total": 2738
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic's single issue is a medium-severity weak-language flag on 'angled slightly off-horizontal.' Replacing it with 'angled about ten degrees off-horizontal' is a clear, concrete improvement that tightens the spatial instruction without bloating the prompt or conflicting with the series anchor. Accept it.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "Replacing vague 'slightly off-horizontal' with a specific degree measurement gives the compositor a precise spatial anchor without adding unnecessary words."
+          }
+        ],
+        "final_prompt": "On warm cream cold-press cotton paper, a single gnarled root segment rests in the lower-left third of the composition, angled about ten degrees off-horizontal, its form built from wet-on-wet washes of tropical earth ochre and deep palm-leaf brown that pool darkest at the root's dense center and dilute outward until the edges bleed away into bare paper. Cold-press grain shows through where the pigment thins at the tapering tips. A dry-brush scuff runs along the upper ridge where the brush ran nearly dry. One faint lapis wash — barely saturated, single layer — settles into one curved knuckle of the root as a restrained accent. A soft pencil under-drawing is half-legible where the root disappears into the earth. The upper two-thirds of the painting is open, breathing cream silence.",
+        "changes_summary": "Replaced 'angled slightly off-horizontal' with 'angled about ten degrees off-horizontal' to give a precise spatial instruction. No other changes were made."
+      },
+      "usage": {
+        "prompt": 1289,
+        "completion": 355,
+        "total": 1644
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-san-hyan-tattvajnana-1f29bd/cover.webp",
+      "bytes": 810148,
+      "generated_at": "2026-04-26T16:04:27.779Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "On warm cream cold-press cotton paper, a single gnarled root segment rests in the lower-left third of the composition, angled about ten degrees off-horizontal, its form built from wet-on-wet washes of tropical earth ochre and deep palm-leaf brown that pool darkest at the root's dense center and dilute outward until the edges bleed away into bare paper. Cold-press grain shows through where the pigment thins at the tapering tips. A dry-brush scuff runs along the upper ridge where the brush ran nearly dry. One faint lapis wash — barely saturated, single layer — settles into one curved knuckle of the root as a restrained accent. A soft pencil under-drawing is half-legible where the root disappears into the earth. The upper two-thirds of the painting is open, breathing cream silence.",
+  "cache_key": "5fa54eea951d8666"
+}

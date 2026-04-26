@@ -1,0 +1,113 @@
+{
+  "work_slug": "unknown-naradasmrti-7650d2",
+  "series_id": "sanskrit-smrti",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:54:09.164Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "series_id": "sanskrit-smrti",
+      "series_anchor": {
+        "label": "Sanskrit smṛti corpus (Manu, Yājñavalkya, Nārada, Bṛhaspati, Aṅgirasa, Parāśara, Viṣṇu, Yama, Kātyāyana, Vīramitrodaya)",
+        "palette": "sandalwood, sacred saffron, deep ochre, weathered bronze, palm-leaf cream",
+        "mood": "Ancient Indian dharma tradition committed to palm leaf. Pre-dawn temple light. The verse-numbered shloka, copied for centuries.",
+        "watercolor_treatment": "Sandalwood wash as the dominant pigment, allowed to bleed into the paper. Saffron introduced sparingly. A touch of dried-leaf brown for the manuscript edge. Pigment kept thin and allowed to expose the cream paper warmly."
+      },
+      "work_metadata": {
+        "title": "Nāradasmṛti",
+        "author": "Unknown",
+        "era": "Ancient",
+        "language": "Sanskrit",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "### Mātṛkā 1\n\n[Legal Procedure]\n\nWhen men were devoted solely to Dharma and were speakers of truth, then there was no legal procedure, nor hatred, nor envy. (Nar. M1.1)\n\nWhen Dharma was lost among men, legal procedure was introduced; and the king was made the wielder of the rod of punishment and the overseer of disputes. (Nar. M1.2)\n\nThe written document and witnesses are declared to be the two methods for clarifying a matter of doubt between two disputing parties. (Nar. M1.3)\n\nIt is known to have two aspects: that with a wager and that without. That with a wager is where there is an additiona",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The Nāradasmṛti opens with the fall from a dharmic golden age into the necessity of legal procedure — the written document as the instrument of truth in a world where truth alone no longer suffices. A single rolled or bound palm-leaf manuscript, slightly worn at its edges, evokes the text's own medium and its centuries of transmission, while embodying the threshold between spoken dharma and codified law.",
+        "subject": "A single palm-leaf manuscript bundle, tied with a thin cord, resting at a slight angle",
+        "palette": "Yellow ochre, raw umber, burnt sienna",
+        "composition": "Bundle placed in the lower-left third of the composition, angled slightly rightward, with the upper two-thirds and right side left as open cream paper — the cord's loose tail drifting toward the center before dissolving into nothing",
+        "watercolor_treatment": "Dominant sandalwood wash of diluted yellow ochre laid wet-on-wet, pooling darker raw umber along the leaf edges and cord shadow, thinning rapidly outward until the warm cream cotton paper shows bare grain; burnt sienna introduced dry-brush along the manuscript's bound spine to suggest dried fiber and age; pigment kept to a single wash layer across most surfaces, with a second deepening glaze only at the cord knot and the shadowed underside of the bundle; pencil under-drawing faintly visible at the leaf corners, soft and unresolved",
+        "prompt": "A single palm-leaf manuscript bundle, tied with a thin cord, rests in the lower-left third of warm cream cotton-rag paper, angled gently rightward. A dominant wet-on-wet wash of diluted yellow ochre spreads from the bundle's body, pooling into deeper raw umber along the leaf edges and beneath the cord, then thinning outward until bare paper grain shows through. Burnt sienna is drawn dry-brush along the bound spine, suggesting dried fiber and centuries of handling. The cord's loose tail drifts toward the center and dissolves into almost nothing. A second deepening glaze settles only at the knot and the shadowed underside. Pencil under-drawing is faintly legible at the leaf corners, soft and unfinished. More than half the surface is untouched breathing room. Pre-dawn stillness. No text, no figures, no borders."
+      },
+      "usage": {
+        "prompt": 1890,
+        "completion": 516,
+        "total": 2406
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "Dominant issue is palette drift: the draft substitutes a generic ochre/umber/sienna scheme for the anchor’s sandalwood-saffron-bronze-palm-leaf palette. One weak hedging phrase also softens an otherwise specific watercolor instruction.",
+        "issues": [
+          {
+            "severity": "high",
+            "category": "palette_drift",
+            "problematic_phrase": "\"warm cream cotton-rag paper, angled gently rightward. A dominant wet-on-wet wash of diluted yellow ochre spreads from the bundle's body, pooling into deeper raw umber along the leaf edges and beneath the cord, then thinning outward until bare paper grain shows through. Burnt sienna is drawn dry-brush along the bound spine\"",
+            "suggestion": "\"palm-leaf cream cotton-rag paper, angled gently rightward. A dominant wet-on-wet sandalwood wash spreads from the bundle's body, pooling into deeper ochre and weathered bronze-brown along the leaf edges and beneath the cord, then thinning outward until bare paper grain shows through. A sparing touch of sacred saffron and dried-leaf brown is drawn dry-brush along the bound spine\""
+          },
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "\"almost nothing\"",
+            "suggestion": "\"bare paper\""
+          }
+        ],
+        "overall_score": 6,
+        "recommendation": "revise"
+      },
+      "usage": {
+        "prompt": 2121,
+        "completion": 801,
+        "total": 2922
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "Issue 0 is high severity and the critic is correct: the original prompt drifts from the anchor palette (sandalwood, saffron, ochre, weathered bronze, palm-leaf cream) into a generic ochre/umber/sienna scheme. The suggested replacement properly reintroduces the anchor palette terms. Accept. Issue 1 is medium severity and the suggestion is a clean, specific improvement — 'bare paper' is more precise and confident than 'almost nothing'. Accept.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "The original palette terms (yellow ochre, raw umber, burnt sienna) drift from the series anchor; replacing them with sandalwood, ochre, weathered bronze-brown, saffron, and dried-leaf brown restores fidelity to the anchor palette."
+          },
+          {
+            "issue_index": 1,
+            "decision": "accept",
+            "reason": "'Bare paper' is more precise and declarative than 'almost nothing', which is vague hedging that weakens the watercolor instruction."
+          }
+        ],
+        "final_prompt": "A single palm-leaf manuscript bundle, tied with a thin cord, rests in the lower-left third of palm-leaf cream cotton-rag paper, angled gently rightward. A dominant wet-on-wet sandalwood wash spreads from the bundle's body, pooling into deeper ochre and weathered bronze-brown along the leaf edges and beneath the cord, then thinning outward until bare paper grain shows through. A sparing touch of sacred saffron and dried-leaf brown is drawn dry-brush along the bound spine, suggesting dried fiber and centuries of handling. The cord's loose tail drifts toward the center and dissolves into bare paper. A second deepening glaze settles only at the knot and the shadowed underside. Pencil under-drawing is faintly legible at the leaf corners, soft and unfinished. More than half the surface is untouched breathing room. Pre-dawn stillness. No text, no figures, no borders.",
+        "changes_summary": "The palette was corrected from generic ochre/umber/sienna to the anchor's sandalwood, ochre, weathered bronze-brown, saffron, and dried-leaf brown terms. The vague phrase 'almost nothing' was replaced with the precise 'bare paper'."
+      },
+      "usage": {
+        "prompt": 1508,
+        "completion": 522,
+        "total": 2030
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-naradasmrti-7650d2/cover.webp",
+      "bytes": 945032,
+      "generated_at": "2026-04-26T15:54:09.164Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single palm-leaf manuscript bundle, tied with a thin cord, rests in the lower-left third of palm-leaf cream cotton-rag paper, angled gently rightward. A dominant wet-on-wet sandalwood wash spreads from the bundle's body, pooling into deeper ochre and weathered bronze-brown along the leaf edges and beneath the cord, then thinning outward until bare paper grain shows through. A sparing touch of sacred saffron and dried-leaf brown is drawn dry-brush along the bound spine, suggesting dried fiber and centuries of handling. The cord's loose tail drifts toward the center and dissolves into bare paper. A second deepening glaze settles only at the knot and the shadowed underside. Pencil under-drawing is faintly legible at the leaf corners, soft and unfinished. More than half the surface is untouched breathing room. Pre-dawn stillness. No text, no figures, no borders.",
+  "cache_key": "e95fad677d1a5808"
+}

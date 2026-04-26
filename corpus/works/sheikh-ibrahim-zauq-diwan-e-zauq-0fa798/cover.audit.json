@@ -1,0 +1,89 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "series_id": "solo-sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:47:49.790Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "series_id": "solo-sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "series_anchor": {
+        "label": "Default palette for solo works without an explicit anchor",
+        "palette": "raw umber, sepia, parchment cream, single restrained accent appropriate to the work",
+        "mood": "Quiet, unfussy, intent. The atmosphere of a single book on a single table.",
+        "watercolor_treatment": "One dominant warm wash, one supporting tone, sparing accent. Generous paper exposure."
+      },
+      "work_metadata": {
+        "title": "Diwan-E-Zauq",
+        "author": "Sheikh Ibrahim Zauq",
+        "era": "19th Century",
+        "language": "Urdu",
+        "genre": "Literature",
+        "description": "The complete collection of ghazals by Sheikh Ibrahim Zauq, a master of classical Urdu poetry and court poet of the last Mughal emperor. His verses showcase refined classical style and mastery of the Urdu language."
+      },
+      "content_excerpt": "My eye against her cruel and faithless way contends,\nMy soul against the ship of final fate contends.\n\nWhy shouldn't flames now leap in wild disarray?\nThe candle, lacking you, with passing wind contends.\n\nMy fortune with that stone-heart makes its fated play,\nThe fool, you see, with God himself, it now contends.\n\nO Daughter of the Vine, why this gurgling display?\nAgainst the righteous man, your rebel spirit contends.\n\nThose aren't two rows of lashes, I would say;\nOne sweet disaster with its lovely twin contends.\n\nHer glance, upon her lover, finds its artful way;\nWith what disarming, gentle gra",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The ghazal form is built around the image of a candle contending with wind — a central classical trope in Zauq's verse that evokes longing, fragility, and the tension between endurance and extinction. A single spent or guttering oil lamp, nearly burned out, carries both the intimate atmosphere of the Mughal court and the philosophical weight of the poetry without illustrating any specific scene.",
+        "subject": "A single clay oil lamp, low and wide, with a thin thread of extinguished smoke rising from a just-snuffed wick",
+        "palette": "raw umber, sepia, yellow ochre",
+        "composition": "The lamp sits in the lower-left third of the composition, resting on an implied surface that dissolves into unpainted cream paper. The upper two-thirds and right side are open negative space, the smoke thread rising diagonally toward the center before fading entirely into bare paper grain.",
+        "watercolor_treatment": "A wet-on-wet wash of raw umber lays the lamp's body, pooling darker at the base and bottom curve where the clay is thickest, diluting upward to near-nothing at the rim. Sepia applied in a second pass deepens the shadow beneath the lamp's lip with a concentrated bloom. Yellow ochre, very dilute, suggests the faint warmth of residual heat near the wick. The smoke is a single dry-brush stroke of thinned sepia, dragged upward with a near-dry brush so the cold-press paper grain breaks the line into a whisper. Pencil under-drawing is faintly visible along the lamp's base curve. Edges bleed softly; nothing is outlined.",
+        "prompt": "A single clay oil lamp, low and wide, rests in the lower-left third of warm cream cotton paper, its body rendered in a wet-on-wet wash of raw umber that pools darkest at the rounded base and dilutes upward until the rim nearly dissolves into bare paper. A second pass of sepia deepens the shadow beneath the lamp's lip in a slow, concentrated bloom. Very dilute yellow ochre brushed near the wick suggests residual warmth. From the just-snuffed wick, a single dry-brush stroke of thinned sepia rises diagonally, the cold-press paper grain breaking the line into a fragile whisper before it disappears entirely. Pencil under-drawing is faintly legible along the base curve. The upper two-thirds of the composition is unpainted breathing room. No outlines, no hard edges, no text."
+      },
+      "usage": {
+        "prompt": 1826,
+        "completion": 564,
+        "total": 2390
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "No significant issues. The prompt specifies a single concrete subject, matches the anchor palette and mood, and describes actual watercolor pigment behavior without AI-cliché language or namedropping.",
+        "issues": [],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2025,
+        "completion": 223,
+        "total": 2248
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic scores the prompt 9/10 and recommends shipping as-is with no issues raised. There are zero suggestions to evaluate. The original prompt is clean, specific, honors the series anchor palette and mood, and avoids all flagged clichés. The final prompt should be the original, unchanged.",
+        "decisions": [],
+        "final_prompt": "A single clay oil lamp, low and wide, rests in the lower-left third of warm cream cotton paper, its body rendered in a wet-on-wet wash of raw umber that pools darkest at the rounded base and dilutes upward until the rim nearly dissolves into bare paper. A second pass of sepia deepens the shadow beneath the lamp's lip in a slow, concentrated bloom. Very dilute yellow ochre brushed near the wick suggests residual warmth. From the just-snuffed wick, a single dry-brush stroke of thinned sepia rises diagonally, the cold-press paper grain breaking the line into a fragile whisper before it disappears entirely. Pencil under-drawing is faintly legible along the base curve. The upper two-thirds of the composition is unpainted breathing room. No outlines, no hard edges, no text.",
+        "changes_summary": "No changes were made. The critic found no issues and recommended shipping the prompt as-is."
+      },
+      "usage": {
+        "prompt": 1219,
+        "completion": 297,
+        "total": 1516
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/cover.webp",
+      "bytes": 810580,
+      "generated_at": "2026-04-26T15:47:49.790Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single clay oil lamp, low and wide, rests in the lower-left third of warm cream cotton paper, its body rendered in a wet-on-wet wash of raw umber that pools darkest at the rounded base and dilutes upward until the rim nearly dissolves into bare paper. A second pass of sepia deepens the shadow beneath the lamp's lip in a slow, concentrated bloom. Very dilute yellow ochre brushed near the wick suggests residual warmth. From the just-snuffed wick, a single dry-brush stroke of thinned sepia rises diagonally, the cold-press paper grain breaking the line into a fragile whisper before it disappears entirely. Pencil under-drawing is faintly legible along the base curve. The upper two-thirds of the composition is unpainted breathing room. No outlines, no hard edges, no text.",
+  "cache_key": "30c0599dd8bc8542"
+}

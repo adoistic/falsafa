@@ -1,0 +1,102 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+  "series_id": "dunoyer-economie",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:54:55.436Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "series_id": "dunoyer-economie",
+      "series_anchor": {
+        "label": "Charles Dunoyer — Nouveau traité d'économie (Volumes I-II)",
+        "palette": "warm umber, lead grey, oxidized copper, ivory, restrained ochre",
+        "mood": "Pre-industrial European economic thought. A merchant's table after the day's accounts are closed. Warm ledger-paper, cool metal weights.",
+        "watercolor_treatment": "Warm umber wash anchoring the subject; cool grey shadow on the supporting side; copper/brass touched in dry to suggest oxidation rather than polish."
+      },
+      "work_metadata": {
+        "title": "Nouveau traité d'économie: VOL I",
+        "author": "Charles Dunoyer",
+        "era": "Unknown",
+        "language": "French",
+        "genre": "Political & Social Theory",
+        "description": ""
+      },
+      "content_excerpt": "## INTRODUCTION\n\n§ 1. We can escape the state of weakness and dependence in which nature has placed us only through our conquests over things and our victories over ourselves: we become *free* only by becoming *industrious* and *moral*. Such is the fundamental truth that will be developed in this book. I do not wish to write a treatise on morality, nor a treatise on industry; I wish, as my epigraph announces, to show the influence of these two things upon the exercise of our faculties; my design is to show how they give birth to human liberty [^1] .\n\n§ 2. Let one consider society in all its mo",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "Dunoyer's opening thesis links industriousness and moral self-conquest to human liberty — the overcoming of dependence through labor and discipline. A single worn balance scale, tipped slightly and resting idle, evokes both the weighing of accounts and the philosophical tension between constraint and freedom, without illustrating any scene literally. It fits the merchant's-table mood of the series anchor perfectly.",
+        "subject": "A small brass balance scale, one pan slightly lower than the other, resting on a flat surface",
+        "palette": "raw umber, lead grey, oxidized copper",
+        "composition": "Scale placed left of center, occupying roughly a third of the vertical field, the lower pan pulling visual weight downward and rightward; the upper right two-thirds of the composition is open cream paper, empty and breathing; the horizontal arm casts a faint grey shadow that trails off into nothing before reaching the right edge",
+        "watercolor_treatment": "Warm raw umber wet-on-wet wash pools in the base and lower pan, diluting to near-invisible at the paper's edge where cold-press grain shows through bare cream cotton; cool lead grey applied in a second wash on the shadowed underside of the arm and chain links, bleeding softly into the umber; oxidized copper touched in dry-brush along the pan rims and fulcrum, scuffed strokes leaving broken pigment on the grain rather than a clean line; pencil under-drawing faintly legible at the chain links, unresolved",
+        "prompt": "A small brass balance scale rests left of center on warm cream cold-press cotton paper, one pan dipping slightly lower than the other, the horizontal arm caught in quiet imbalance. A wet-on-wet raw umber wash pools darkest at the base and the weighted pan, then dilutes outward until the pigment nearly vanishes, leaving visible paper grain in the open field. A second wash of lead grey settles on the shadowed underside of the arm and along the chain links, edges bleeding softly into the umber without a hard line. Dry-brush strokes of oxidized copper scuff the pan rims and fulcrum, pigment catching only the raised grain. Faint pencil under-drawing lingers at the chain, unresolved. The upper right two-thirds of the composition is untouched cream paper — deliberate, silent, breathing."
+      },
+      "usage": {
+        "prompt": 1800,
+        "completion": 515,
+        "total": 2315
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "The draft is structurally aligned with the anchor; the only material weakness is hedged degree language that can make the scale’s imbalance too timid or ambiguous.",
+        "issues": [
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "\"slightly\"",
+            "suggestion": "Replace with \"visibly\": \"one pan dipping visibly lower than the other\""
+          }
+        ],
+        "overall_score": 8,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2033,
+        "completion": 617,
+        "total": 2650
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic identifies one medium-severity issue: the word 'slightly' hedges the imbalance too much, making it timid. Replacing with 'visibly' is a clean, surgical improvement that strengthens the compositional intent without conflicting with the series anchor or introducing new ideas. Accept.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "'Visibly' communicates clear, intentional imbalance rather than a barely-perceptible tilt, which better serves the thematic weight of the composition."
+          }
+        ],
+        "final_prompt": "A small brass balance scale rests left of center on warm cream cold-press cotton paper, one pan dipping visibly lower than the other, the horizontal arm caught in quiet imbalance. A wet-on-wet raw umber wash pools darkest at the base and the weighted pan, then dilutes outward until the pigment nearly vanishes, leaving visible paper grain in the open field. A second wash of lead grey settles on the shadowed underside of the arm and along the chain links, edges bleeding softly into the umber without a hard line. Dry-brush strokes of oxidized copper scuff the pan rims and fulcrum, pigment catching only the raised grain. Faint pencil under-drawing lingers at the chain, unresolved. The upper right two-thirds of the composition is untouched cream paper — deliberate, silent, breathing.",
+        "changes_summary": "Replaced 'slightly' with 'visibly' to give the scale's imbalance clearer compositional conviction. No other changes were made."
+      },
+      "usage": {
+        "prompt": 1264,
+        "completion": 357,
+        "total": 1621
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/cover.webp",
+      "bytes": 909222,
+      "generated_at": "2026-04-26T15:54:55.436Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A small brass balance scale rests left of center on warm cream cold-press cotton paper, one pan dipping visibly lower than the other, the horizontal arm caught in quiet imbalance. A wet-on-wet raw umber wash pools darkest at the base and the weighted pan, then dilutes outward until the pigment nearly vanishes, leaving visible paper grain in the open field. A second wash of lead grey settles on the shadowed underside of the arm and along the chain links, edges bleeding softly into the umber without a hard line. Dry-brush strokes of oxidized copper scuff the pan rims and fulcrum, pigment catching only the raised grain. Faint pencil under-drawing lingers at the chain, unresolved. The upper right two-thirds of the composition is untouched cream paper — deliberate, silent, breathing.",
+  "cache_key": "ed14458371c43f5f"
+}

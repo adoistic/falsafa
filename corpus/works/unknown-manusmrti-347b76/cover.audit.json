@@ -1,0 +1,113 @@
+{
+  "work_slug": "unknown-manusmrti-347b76",
+  "series_id": "sanskrit-smrti",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:54:24.015Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-manusmrti-347b76",
+      "series_id": "sanskrit-smrti",
+      "series_anchor": {
+        "label": "Sanskrit smṛti corpus (Manu, Yājñavalkya, Nārada, Bṛhaspati, Aṅgirasa, Parāśara, Viṣṇu, Yama, Kātyāyana, Vīramitrodaya)",
+        "palette": "sandalwood, sacred saffron, deep ochre, weathered bronze, palm-leaf cream",
+        "mood": "Ancient Indian dharma tradition committed to palm leaf. Pre-dawn temple light. The verse-numbered shloka, copied for centuries.",
+        "watercolor_treatment": "Sandalwood wash as the dominant pigment, allowed to bleed into the paper. Saffron introduced sparingly. A touch of dried-leaf brown for the manuscript edge. Pigment kept thin and allowed to expose the cream paper warmly."
+      },
+      "work_metadata": {
+        "title": "Manusmṛti",
+        "author": "Unknown",
+        "era": "Ancient",
+        "language": "Sanskrit",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "The great sages, approaching Manu who was seated with a concentrated mind, duly honored him according to custom and spoke these words: // Mn_1.1 //\n\n\"O divine Lord, it is right for you to declare to us, precisely and in order, the sacred laws for all the four *varnas* (social orders) and for those born between them. // Mn_1.2 //\n\nFor you alone, O Lord, know the true meaning of the purpose and reality of this entire ordinance of the Self-existent One, which is inconceivable and immeasurable.\" // Mn_1.3 //\n\nHe, of immeasurable power, having been thus duly questioned by the great-souled ones, hon",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The Manusmṛti is a foundational dharmaśāstra — law and cosmic order committed to palm leaf and passed through centuries of copying. A single palm-leaf manuscript folio, slightly curled at its edges, evokes the text's nature as an ancient written ordinance without illustrating its content literally.",
+        "subject": "A single palm-leaf manuscript folio, slightly curled at both ends, resting at rest on an empty surface",
+        "palette": "Yellow ochre, raw umber, burnt sienna",
+        "composition": "The folio sits in the lower-left third of the composition, angled very slightly off-horizontal, its right end lifting just barely. More than sixty percent of the warm cream paper remains untouched above and to the right, breathing open space around the leaf.",
+        "watercolor_treatment": "A dilute yellow ochre wet-on-wet wash laid first across the folio's body, allowed to pool darker along the curled lower edge and bleed to near-nothing at the upper margin. Raw umber introduced while still damp along the spine crease and the dry, fibrous edges, bleeding softly outward. A single dry-brush pass of burnt sienna along one curled tip where the brush ran nearly dry, leaving visible paper grain through the scuff. Pencil under-drawing of the folio's outline barely legible beneath the thin pigment. No second wash except where the shadow beneath the curl demands a second deepening touch of raw umber.",
+        "prompt": "A single ancient palm-leaf manuscript folio rests in the lower-left third of warm cream cotton paper, angled slightly off-horizontal with one end curling gently upward. A dilute yellow ochre wash covers the leaf's body, pooling to a deeper amber along the lower curled edge and dissolving to almost nothing at the upper margin, leaving the paper grain warmly visible. Raw umber bleeds softly into the damp ochre along the spine crease and the fibrous leaf edges. A near-dry brush scuffs burnt sienna across the lifted tip, exposing cold-press texture through the broken stroke. Pencil under-drawing is faintly legible beneath the thin pigment. More than half the composition is untouched cream paper. No text, no figures, no borders."
+      },
+      "usage": {
+        "prompt": 1885,
+        "completion": 500,
+        "total": 2385
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "The dominant issue is palette drift: the draft substitutes a yellow-ochre/amber handling for the anchor’s sandalwood-dominant treatment with sparse saffron. One weak hedge also softens an otherwise specific composition.",
+        "issues": [
+          {
+            "severity": "high",
+            "category": "palette_drift",
+            "problematic_phrase": "\"A dilute yellow ochre wash covers the leaf's body, pooling to a deeper amber along the lower curled edge\"",
+            "suggestion": "\"A sandalwood wash covers the leaf's body, with a sparse sacred saffron warmth pooling along the lower curled edge\""
+          },
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "\"slightly\"",
+            "suggestion": "\"angled a few degrees off-horizontal\""
+          }
+        ],
+        "overall_score": 6,
+        "recommendation": "revise"
+      },
+      "usage": {
+        "prompt": 2068,
+        "completion": 1209,
+        "total": 3277
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "Issue 0 is high severity and valid: the original prompt uses 'yellow ochre' and 'amber' which drifts from the series anchor's sandalwood-dominant palette with sparse saffron. Accepting this correction aligns the prompt with the anchor. Issue 1 is medium severity: replacing 'slightly' with 'a few degrees off-horizontal' is more precise and specific without bloating the prompt. Accepting this minor improvement as it adds clarity without introducing new ideas.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "The yellow ochre/amber language drifts from the series anchor's sandalwood-dominant palette; replacing with sandalwood wash and sparse sacred saffron pooling corrects the palette drift."
+          },
+          {
+            "issue_index": 1,
+            "decision": "accept",
+            "reason": "'A few degrees off-horizontal' is more precise and specific than 'slightly' without adding bloat."
+          }
+        ],
+        "final_prompt": "A single ancient palm-leaf manuscript folio rests in the lower-left third of warm cream cotton paper, angled a few degrees off-horizontal with one end curling gently upward. A sandalwood wash covers the leaf's body, with a sparse sacred saffron warmth pooling along the lower curled edge and dissolving to almost nothing at the upper margin, leaving the paper grain warmly visible. Raw umber bleeds softly into the damp wash along the spine crease and the fibrous leaf edges. A near-dry brush scuffs burnt sienna across the lifted tip, exposing cold-press texture through the broken stroke. Pencil under-drawing is faintly legible beneath the thin pigment. More than half the composition is untouched cream paper. No text, no figures, no borders.",
+        "changes_summary": "The dominant wash was corrected from yellow ochre/amber to sandalwood with sparse sacred saffron pooling, realigning the palette with the series anchor. The word 'slightly' was replaced with 'a few degrees' for greater compositional precision."
+      },
+      "usage": {
+        "prompt": 1359,
+        "completion": 454,
+        "total": 1813
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-manusmrti-347b76/cover.webp",
+      "bytes": 823812,
+      "generated_at": "2026-04-26T15:54:24.015Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single ancient palm-leaf manuscript folio rests in the lower-left third of warm cream cotton paper, angled a few degrees off-horizontal with one end curling gently upward. A sandalwood wash covers the leaf's body, with a sparse sacred saffron warmth pooling along the lower curled edge and dissolving to almost nothing at the upper margin, leaving the paper grain warmly visible. Raw umber bleeds softly into the damp wash along the spine crease and the fibrous leaf edges. A near-dry brush scuffs burnt sienna across the lifted tip, exposing cold-press texture through the broken stroke. Pencil under-drawing is faintly legible beneath the thin pigment. More than half the composition is untouched cream paper. No text, no figures, no borders.",
+  "cache_key": "ef247fa14f9878e4"
+}

@@ -1,0 +1,102 @@
+{
+  "work_slug": "unknown-kalpabuddha-d760dc",
+  "series_id": "kawi-tattva",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:51:17.532Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "series_id": "kawi-tattva",
+      "series_anchor": {
+        "label": "Old Javanese / Kawi tattva corpus (San Hyan series, Vrhaspatitattva, Gaṇapatitattva, Slokantara, Vratisasana, Kunjarakarna, Kalpabuddha)",
+        "palette": "tropical earth ochre, deep palm-leaf brown, weathered teak, jasmine cream, faint lapis trace",
+        "mood": "Old Javanese palm-leaf manuscript tradition. Tropical pre-dawn humidity. Frangipani at the threshold. The text inscribed with an iron stylus.",
+        "watercolor_treatment": "Earth ochre and palm-brown washed wet-on-wet to simulate the patina of palm-leaf age. Tropical greenery suggested only as a faint background tone, never literally rendered. Lapis used as a single bright accent on the subject only if the work demands it."
+      },
+      "work_metadata": {
+        "title": "Kalpabuddha",
+        "author": "Unknown",
+        "era": "Unknown",
+        "language": "Kawi",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "### Paragraph 1\n\nThis is the royal command of the Lord, the divine Buddha, this great instruction must be heeded, listen to all the `mantra`s. Lord Buddha was in the great dissolution (`mahāpralaya`), his body came into being, he then became the Lord Pañcatathāgata. Their bodies and names are distinct, each has a counterpart in form. His `mudrā` is the `bodhyagrī`, his `jñāna` is `śāśvata`, his implement is the `cakra`. Sahāvatī is the name of his dominion, a lion is his mount. She, Lady Sattvavajrī, she, Lady Dharmavajrī, she, Lady Karmavajrī, they are the `devī`s accompanying him. Now, as fo",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The Kalpabuddha opens with the Pañcatathāgata's cosmic emergence and the cakra as a named implement of divine jñāna — a single ritual wheel evokes the dissolution-and-becoming at the text's heart without illustrating any figure or scene. The cakra also carries the weight of the Kawi tattva corpus's meditative cosmology.",
+        "subject": "A single stone dharma wheel, worn and mossy at its rim",
+        "palette": "tropical earth ochre, palm-leaf brown, faint lapis trace",
+        "composition": "The wheel sits low and left of center, roughly one-third into the picture plane, tilted very slightly as if resting on an unseen surface. The upper right two-thirds of the composition is open warm cream paper, breathing and unoccupied. The visual weight of the stone mass anchors the lower left without geometric symmetry.",
+        "watercolor_treatment": "Earth ochre and palm-brown laid wet-on-wet, pooling darker pigment along the carved spoke recesses and diluting outward to near-nothing at the rim's edge. Cold-press grain shows through the thin outer wash. A single restrained touch of faint lapis in one spoke hollow as the sole accent. Dry-brush scuffs describe the mossy, pitted stone texture at the top of the rim where the brush ran nearly dry. No hard outlines — all edges bleed softly into the cream paper.",
+        "prompt": "A single ancient stone dharma wheel, worn and mossy at its carved rim, rests low and left of center on warm cream cotton paper, tilted slightly as though set down in a moment of stillness. Earth ochre and palm-leaf brown wash wet-on-wet across the stone mass, pooling darker pigment deep in the spoke recesses and dissolving outward until the rim's edge nearly vanishes into the paper. Cold-press grain shows through the thinning wash. One spoke hollow holds a single restrained touch of faint lapis — the sole accent. Dry-brush scuffs across the upper rim describe pitted, age-worn stone. All edges bleed softly, never outlined. The upper right of the composition is open, unoccupied, breathing — more than half the painting is warm cream silence."
+      },
+      "usage": {
+        "prompt": 1924,
+        "completion": 503,
+        "total": 2427
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "Only material issue is weak hedging in the physical placement; no gate-failing AI-slop, namedropping, watercolor-labeling, palette drift, or mood drift is present.",
+        "issues": [
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "\"tilted slightly\"",
+            "suggestion": "\"tilted with a shallow diagonal lean\""
+          }
+        ],
+        "overall_score": 8,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2103,
+        "completion": 617,
+        "total": 2720
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic flags only one medium-severity issue: 'tilted slightly' is weak hedging. The suggestion 'tilted with a shallow diagonal lean' is more precise and declarative without introducing any new ideas or conflicting with the series anchor. Accept it.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "'Tilted with a shallow diagonal lean' is more precise and declarative than 'tilted slightly,' eliminating weak hedging without changing the composition intent."
+          }
+        ],
+        "final_prompt": "A single ancient stone dharma wheel, worn and mossy at its carved rim, rests low and left of center on warm cream cotton paper, tilted with a shallow diagonal lean as though set down in a moment of stillness. Earth ochre and palm-leaf brown wash wet-on-wet across the stone mass, pooling darker pigment deep in the spoke recesses and dissolving outward until the rim's edge nearly vanishes into the paper. Cold-press grain shows through the thinning wash. One spoke hollow holds a single restrained touch of faint lapis — the sole accent. Dry-brush scuffs across the upper rim describe pitted, age-worn stone. All edges bleed softly, never outlined. The upper right of the composition is open, unoccupied, breathing — more than half the painting is warm cream silence.",
+        "changes_summary": "Replaced 'tilted slightly' with 'tilted with a shallow diagonal lean' to remove weak hedging and sharpen the physical placement description. No other changes were made."
+      },
+      "usage": {
+        "prompt": 1295,
+        "completion": 345,
+        "total": 1640
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-kalpabuddha-d760dc/cover.webp",
+      "bytes": 1122798,
+      "generated_at": "2026-04-26T15:51:17.532Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single ancient stone dharma wheel, worn and mossy at its carved rim, rests low and left of center on warm cream cotton paper, tilted with a shallow diagonal lean as though set down in a moment of stillness. Earth ochre and palm-leaf brown wash wet-on-wet across the stone mass, pooling darker pigment deep in the spoke recesses and dissolving outward until the rim's edge nearly vanishes into the paper. Cold-press grain shows through the thinning wash. One spoke hollow holds a single restrained touch of faint lapis — the sole accent. Dry-brush scuffs across the upper rim describe pitted, age-worn stone. All edges bleed softly, never outlined. The upper right of the composition is open, unoccupied, breathing — more than half the painting is warm cream silence.",
+  "cache_key": "3bfd9e667e9f5dd6"
+}

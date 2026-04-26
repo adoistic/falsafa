@@ -1,0 +1,89 @@
+{
+  "work_slug": "unknown-slokantara-d7a628",
+  "series_id": "kawi-tattva",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T16:04:58.927Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-slokantara-d7a628",
+      "series_id": "kawi-tattva",
+      "series_anchor": {
+        "label": "Old Javanese / Kawi tattva corpus (San Hyan series, Vrhaspatitattva, Gaṇapatitattva, Slokantara, Vratisasana, Kunjarakarna, Kalpabuddha)",
+        "palette": "tropical earth ochre, deep palm-leaf brown, weathered teak, jasmine cream, faint lapis trace",
+        "mood": "Old Javanese palm-leaf manuscript tradition. Tropical pre-dawn humidity. Frangipani at the threshold. The text inscribed with an iron stylus.",
+        "watercolor_treatment": "Earth ochre and palm-brown washed wet-on-wet to simulate the patina of palm-leaf age. Tropical greenery suggested only as a faint background tone, never literally rendered. Lapis used as a single bright accent on the subject only if the work demands it."
+      },
+      "work_metadata": {
+        "title": "Slokantara",
+        "author": "Unknown",
+        "era": "Unknown",
+        "language": "Kawi",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "Ślokāntara\n\n[Slo_00s-opening] || May there be no obstacles ||\n\n[Slo_01s-ab] brāhmaṇo vā manuṣyāṇām ādityo vāpi tejasām |\n[Slo_01s-cd] śiro vā sarvagātreṣu dharmeṣu satyam uttamam || 1 ||\n\n[Slo_01j§1] The meaning is: Let this *dharma* (righteousness, sacred duty) be heard by those who wish to know the preeminence among humankind. Among humans, none is more excellent than a Brāhmaṇa. A Brāhmaṇa is defined as one who has mastered the state of celibacy. There are three kinds. What are they? There is the *śukla-brahmacārī* (the pure-white celibate), there is the *śavala-brahmacārī* (the dappled cel",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The Slokantara opens with a verse on preeminence and dharma — the highest truth among all things. A single lotus bud, closed and upright, evokes the idea of supreme potential and sacred hierarchy without literalizing any figure or scene. The lotus is deeply embedded in Indic-Javanese manuscript culture and carries the weight of dharma without being a religious icon in a devotional sense.",
+        "subject": "A single closed lotus bud on a bare stem",
+        "palette": "yellow ochre, palm-leaf brown, faint lapis",
+        "composition": "The stem rises from the lower-left quadrant, leaning slightly right, with the closed bud occupying the upper third of the composition. The remaining two-thirds of the warm cream paper is left as open negative space, breathing outward to the right and top edges.",
+        "watercolor_treatment": "Wet-on-wet yellow ochre and palm-leaf brown washed together at the base of the stem, pigment pooling darker where the stem meets the bud's sepal, then diluting upward until the petal tips are nearly bare cream paper. Cold-press grain shows clearly through the thin upper washes. A single restrained trace of lapis applied dry-brush on one outer petal, just barely catching the paper texture. Pencil under-drawing faintly visible along the stem's curve. No second wash except at the sepal junction where two deepening layers build quiet weight.",
+        "prompt": "A single closed lotus bud on a slender stem, painted in watercolor on warm cream cotton paper. The stem rises from the lower-left corner, curving gently, anchored by a wet-on-wet wash of yellow ochre and palm-leaf brown that pools darkest at the sepal base and dilutes upward until the uppermost petal tips dissolve into bare paper. Cold-press grain shows clearly through the thin upper washes. A single dry-brush stroke of faint lapis traces one outer petal, barely catching the paper tooth. Pencil under-drawing is softly legible along the stem's curve. The remaining two-thirds of the composition is open, humid negative space — warm cream, unworked, breathing. No hard edges, no outlines, no second subject."
+      },
+      "usage": {
+        "prompt": 1970,
+        "completion": 493,
+        "total": 2463
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "no significant issues",
+        "issues": [],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2096,
+        "completion": 428,
+        "total": 2524
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic found no issues and recommends shipping as-is. There are zero issues to evaluate. The original prompt is clean, honors the series anchor fully, and falls within the 80-150 word target. No changes are warranted.",
+        "decisions": [],
+        "final_prompt": "A single closed lotus bud on a slender stem, painted in watercolor on warm cream cotton paper. The stem rises from the lower-left corner, curving gently, anchored by a wet-on-wet wash of yellow ochre and palm-leaf brown that pools darkest at the sepal base and dilutes upward until the uppermost petal tips dissolve into bare paper. Cold-press grain shows clearly through the thin upper washes. A single dry-brush stroke of faint lapis traces one outer petal, barely catching the paper tooth. Pencil under-drawing is softly legible along the stem's curve. The remaining two-thirds of the composition is open, humid negative space — warm cream, unworked, breathing. No hard edges, no outlines, no second subject.",
+        "changes_summary": "No changes were made. The critic recommended shipping the prompt as-is with a score of 9/10 and identified no issues."
+      },
+      "usage": {
+        "prompt": 1226,
+        "completion": 271,
+        "total": 1497
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-slokantara-d7a628/cover.webp",
+      "bytes": 914382,
+      "generated_at": "2026-04-26T16:04:58.927Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single closed lotus bud on a slender stem, painted in watercolor on warm cream cotton paper. The stem rises from the lower-left corner, curving gently, anchored by a wet-on-wet wash of yellow ochre and palm-leaf brown that pools darkest at the sepal base and dilutes upward until the uppermost petal tips dissolve into bare paper. Cold-press grain shows clearly through the thin upper washes. A single dry-brush stroke of faint lapis traces one outer petal, barely catching the paper tooth. Pencil under-drawing is softly legible along the stem's curve. The remaining two-thirds of the composition is open, humid negative space — warm cream, unworked, breathing. No hard edges, no outlines, no second subject.",
+  "cache_key": "6c11ec600f78a282"
+}

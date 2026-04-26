@@ -1,0 +1,112 @@
+{
+  "version": "0.4.0",
+  "_comment": "Master art direction for Falsafa cover imagery. Single-shot per work, watercolor medium, series-anchored cohesion. Driven by an agentic prompt pipeline (draft → critique → decide → render). The PROMPTS for each work are NOT hardcoded — they are derived per work by the pipeline using this style guide as input. Bumping `version` invalidates every audit and forces full re-run.",
+
+  "models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+
+  "image": {
+    "aspect_ratio": "3:2",
+    "image_size": "2K",
+    "format": "webp",
+    "_aspect_note": "3:2 landscape via OpenRouter image_config. Sits edge-to-edge above the chapter title in the approved chapter-page mockups."
+  },
+
+  "master_aesthetic": {
+    "medium": "Watercolor pigment on warm cream cotton paper. Hand-painted, considered, restrained.",
+    "watercolor_specifics": "Wet-on-wet washes that pool darker pigment in concentrated areas and dilute toward the edges until almost nothing. Visible cold-press paper grain showing through where the pigment is thin. Pencil under-drawing barely legible in places, soft and unfinished. Occasional dry-brush scuffs where the brush ran out of water. Edges of forms are soft and bleeding, never hard or cleanly outlined. Single layer of pigment in most areas, with two or three deepening washes only where the subject demands weight.",
+    "composition": "One subject. Asymmetric placement, generous negative space (more than half the canvas is breathing room). Subject anchored by visual weight rather than geometric centering. The painting feels INTENTIONAL — the artist made deliberate choices about what to leave out.",
+    "palette_grammar": "Restrained — one dominant tone, one supporting tone, one accent at most. Low chroma. Pigments named like real watercolors (raw umber, payne's grey, burnt sienna, indigo, yellow ochre, sepia) rather than RGB values. Avoid saturation.",
+    "subject_grammar": "ONE concrete object that EVOKES the work's spirit, not a literal scene from its content. Examples of good subjects: a single weathered stone object, an open book set down on its face, a folded cloth lit from one side, a single migrating bird against a calm sky, a clay oil lamp in a dim chamber. Avoid: human portraits in detail, multi-figure scenes, named historical figures, narrative tableaux, religious icons (unless the work is explicitly devotional and the icon is restrained)."
+  },
+
+  "negative_directives": [
+    "no text or lettering or calligraphy of any kind in the painting",
+    "no logos, watermarks, signatures, frames, decorative borders",
+    "no photo-realism, hyper-detail, plastic-skin renders, photographic clarity",
+    "no glowing edges, neon, lens flare, particle effects, light rays",
+    "no purple-violet or blue-to-purple gradients (an AI cliché)",
+    "no decorative blobs, floating circles, wavy SVG-style shapes, geometric ornaments",
+    "no anime, manga, comic-book line work, 3D render, CGI, pixel art, vector art",
+    "no stock-photo aesthetic, generic landscape, fantasy-art tropes, sword-and-sorcery",
+    "no busy compositions or multi-subject scenes — one subject, asymmetric, calm",
+    "no hedging by referencing other publications or artists in the prompt — describe the painting itself",
+    "no human portraits in identifiable detail — figures may be suggested but never named or specific",
+    "no AI-generated illustration aesthetic clichés (everyone-smiling, perfect symmetry, idealized lighting)"
+  ],
+
+  "series_anchors": {
+    "_purpose": "Per-series palette + mood + watercolor treatment notes. The prompt pipeline reads the work's series_id (computed in lib/series.ts) and feeds the matching anchor into the LLM. Siblings in the same series share visual DNA because they share these anchors.",
+
+    "cynewulf-trilogy": {
+      "label": "Cynewulf trilogy (Andreas, Elene, Juliana)",
+      "palette": "weathered stone-grey, payne's grey shadow, raw umber, faded gold ochre, parchment cream",
+      "mood": "Anglo-Saxon Christian devotion. Cold northern light. Sea-spray and stone. The interior of a candle-lit scriptorium at dusk.",
+      "watercolor_treatment": "Wet-on-wet pooling for the stone weight; dry-brush over the pooled wash to suggest weathered surface texture; gold-ochre touched in sparingly with a small brush, kept slightly lifted from full saturation."
+    },
+
+    "iqbal-bang-e-dara": {
+      "label": "Iqbal — Bang-E-Dara (Parts 1, 2, 3)",
+      "palette": "indigo, deep saffron, jasmine ivory, twilight rose, raw sienna",
+      "mood": "Ghazal-flavored melancholy. A Mughal courtyard at twilight. Late lamplight on cooling stone. The caravan that has paused to listen.",
+      "watercolor_treatment": "Wet-into-wet for the twilight sky tones, allowed to bleed and pool naturally. Saffron and rose introduced only where the subject demands; indigo permitted to dry to a chalky paper-grain texture at the edges."
+    },
+
+    "comte-legislation": {
+      "label": "Charles Comte — Traité de Législation (Volumes I-IV)",
+      "palette": "lead grey, ivory, ink black, oxidized brass, considered neutrals",
+      "mood": "18th-century European salon at lamplight. Restrained, rational. The philosopher's writing desk after the household has gone to bed.",
+      "watercolor_treatment": "Cool dry washes with controlled pigment. Allow paper grain to dominate in the negative space. A single warm note (oxidized brass or candle warmth) introduced sparingly to break the cool palette."
+    },
+
+    "comte-propriete": {
+      "label": "Charles Comte — Traité de la propriété (Volumes I-II)",
+      "palette": "stone grey, ink umber, weathered iron, parchment cream, single accent of muted teal",
+      "mood": "Boundary stones, ironwork, parchment ledgers. The slow inscription of property lines onto land.",
+      "watercolor_treatment": "Dry-brush stone textures; iron and metal rendered with single concentrated washes that pool to near-black at the deepest point and dilute to grey at the edges; teal allowed only as a small note."
+    },
+
+    "dunoyer-economie": {
+      "label": "Charles Dunoyer — Nouveau traité d'économie (Volumes I-II)",
+      "palette": "warm umber, lead grey, oxidized copper, ivory, restrained ochre",
+      "mood": "Pre-industrial European economic thought. A merchant's table after the day's accounts are closed. Warm ledger-paper, cool metal weights.",
+      "watercolor_treatment": "Warm umber wash anchoring the subject; cool grey shadow on the supporting side; copper/brass touched in dry to suggest oxidation rather than polish."
+    },
+
+    "sanskrit-smrti": {
+      "label": "Sanskrit smṛti corpus (Manu, Yājñavalkya, Nārada, Bṛhaspati, Aṅgirasa, Parāśara, Viṣṇu, Yama, Kātyāyana, Vīramitrodaya)",
+      "palette": "sandalwood, sacred saffron, deep ochre, weathered bronze, palm-leaf cream",
+      "mood": "Ancient Indian dharma tradition committed to palm leaf. Pre-dawn temple light. The verse-numbered shloka, copied for centuries.",
+      "watercolor_treatment": "Sandalwood wash as the dominant pigment, allowed to bleed into the paper. Saffron introduced sparingly. A touch of dried-leaf brown for the manuscript edge. Pigment kept thin and allowed to expose the cream paper warmly."
+    },
+
+    "kawi-tattva": {
+      "label": "Old Javanese / Kawi tattva corpus (San Hyan series, Vrhaspatitattva, Gaṇapatitattva, Slokantara, Vratisasana, Kunjarakarna, Kalpabuddha)",
+      "palette": "tropical earth ochre, deep palm-leaf brown, weathered teak, jasmine cream, faint lapis trace",
+      "mood": "Old Javanese palm-leaf manuscript tradition. Tropical pre-dawn humidity. Frangipani at the threshold. The text inscribed with an iron stylus.",
+      "watercolor_treatment": "Earth ochre and palm-brown washed wet-on-wet to simulate the patina of palm-leaf age. Tropical greenery suggested only as a faint background tone, never literally rendered. Lapis used as a single bright accent on the subject only if the work demands it."
+    },
+
+    "solo-default": {
+      "label": "Default palette for solo works without an explicit anchor",
+      "palette": "raw umber, sepia, parchment cream, single restrained accent appropriate to the work",
+      "mood": "Quiet, unfussy, intent. The atmosphere of a single book on a single table.",
+      "watercolor_treatment": "One dominant warm wash, one supporting tone, sparing accent. Generous paper exposure."
+    }
+  },
+
+  "pipeline": {
+    "_purpose": "System prompts for the three Claude Sonnet 4.6 stages. Edit these to refine pipeline behavior.",
+
+    "stage_2_draft_system": "You are a senior watercolor art director composing a cover prompt for Falsafa, an editorial reading platform for translated philosophical and classical texts.\n\nTHE ASSIGNMENT:\nGiven a work's metadata + a content excerpt + the master watercolor aesthetic + a per-series palette/mood anchor, compose a single-paragraph prompt that describes a watercolor painting an image-generation model can render.\n\nTHE OUTPUT:\nStrict JSON matching the provided schema. The `prompt` field is the full assembled paragraph the image model will see. Other fields are your reasoning artifacts.\n\nCRITICAL CONSTRAINTS:\n- DESCRIBE the painting itself. Do NOT name-drop publications, artists, or art movements as a shortcut. If you find yourself writing 'in the style of', delete it and describe what you actually want instead.\n- ONE concrete subject. A single object. Not a scene with multiple actors. Not a portrait of a named historical figure.\n- The subject must EVOKE the work's spirit, not literally illustrate its content. If the work is about justice, you draw a balanced brass scale, not a courtroom scene.\n- Watercolor specifics matter: pigment names, wet-on-wet vs dry-brush, paper-grain visibility, dilution behavior at edges. Generic 'watercolor style' is forbidden; describe the actual paint behavior.\n- Use the series anchor's palette and mood verbatim where it makes sense. Siblings in the same series should be recognizable as family.\n- Compose for asymmetry and breathing room. The painting is at least 50% negative space.\n- Length: the final `prompt` field should be one paragraph of 80-150 words. Tight, descriptive, declarative.",
+
+    "stage_3_critique_system": "IMPORTANT: Do NOT propose new subjects, palettes, or compositional concepts. Do NOT redirect the prompt's intent. Your job is strictly to critique the prompt as drafted, against the constraints below. If you find yourself proposing a different cover, stop and refocus on what's wrong with the existing one.\n\n---\n\nYou are an independent senior watercolor critic. A different art director drafted this cover prompt; you did NOT draft it. Your job is NOT to repeat their reasoning. Your job is to find what they missed.\n\nThe prompt will be sent to an image generation model. Every weakness in the prompt becomes a visible flaw in the painting. Think like an adversary trying to break the prompt before it reaches the model. Be thorough. No compliments — just the problems.\n\n---\n\nFAILURE MODES (look for each, with concrete patterns to match):\n\n[P1 — INSTANT-FAIL — any single occurrence flips the gate to 'regenerate']\n\n  AI_SLOP — verbatim phrases or descriptions matching:\n    purple/violet/indigo gradients used as atmosphere; decorative blobs;\n    floating circles; wavy SVG-style ornament; glowing rim light;\n    particle effects; lens flare; light rays; perfect geometric symmetry;\n    multi-figure narrative tableau; smiling figures; stock-photo lighting;\n    generic 'fantasy art' or 'cinematic' framing.\n\n  HEDGING_BY_NAMEDROPPING — proper nouns used as a shortcut for 'I don't want to describe this':\n    'in the style of [publication/artist/movement]'; name-drops of NYRB, LRB,\n    Aeon, specific painters or art movements; 'reminiscent of', 'evocative of',\n    'echoing' followed by a proper noun; 'editorial' or 'literary' as adjectives\n    without actual visual specifics.\n\n  WATERCOLOR_AS_LABEL — uses 'watercolor style' or 'loose watercolor' or\n    'watercolor painting' WITHOUT describing actual pigment behavior\n    (wet-on-wet pooling, dilution at edges, paper grain showing through,\n    dry-brush scuffs) and WITHOUT named pigments (raw umber, payne's grey,\n    burnt sienna, indigo, sepia, yellow ochre, etc).\n\n[P2 — HIGH — should fix, but not gate-failing]\n\n  VAGUE_SUBJECT — more than one object; unspecified figure ('a person',\n    'someone'); abstract concept without a concrete object; 'a scene'\n    instead of a specific object; named historical figure rendered in\n    detail.\n\n  PALETTE_DRIFT — palette named in the prompt does not match the\n    series anchor's palette. Flag concretely: quote the prompt's colors\n    next to the anchor's colors.\n\n  MOOD_DRIFT — mood named in the prompt contradicts the series anchor's\n    mood (e.g., anchor says 'cold northern light', prompt says 'warm\n    Mediterranean afternoon').\n\n[P3 — MEDIUM — taste calls, only flag if material]\n\n  COMPOSITION_HEDGING — 'balanced composition', 'harmonious arrangement',\n    'pleasing layout' without committing to asymmetry, visual weight,\n    or negative-space proportion.\n\n  WEAK_LANGUAGE — 'perhaps', 'maybe', 'somewhat', 'slightly', 'a bit',\n    'elements of', 'kind of', 'sort of', 'almost'. Quote each occurrence.\n\n  SUBJECT_MISALIGNMENT — subject does not EVOKE the work's spirit. If\n    the work is Sanskrit dharma but the subject is a European candle,\n    flag the cultural mismatch.\n\n[Anything below P3 — DO NOT FLAG. Do not pad with nitpicks.]\n\n---\n\nFOR EACH FINDING (JSON object):\n- severity: 'critical' (P1) | 'high' (P2) | 'medium' (P3)\n- category: one of [ai_slop, hedging_by_namedropping, watercolor_as_label, vague_subject, palette_drift, mood_drift, composition_hedging, weak_language, subject_misalignment]\n- problematic_phrase: the EXACT quote from the prompt — verbatim, in double quotes\n- suggestion: a concrete replacement phrase the decider can paste in\n\nDO NOT INVENT findings. If the prompt is clean on a category, do not flag it.\n\n---\n\nGATE LOGIC (deterministic):\n- If issues contains ANY severity='critical' → recommendation = 'regenerate'\n- Else if issues contains 2+ severity='high' → recommendation = 'regenerate'\n- Else if issues contains 1 severity='high' OR 2+ medium → recommendation = 'revise'\n- Else (0 issues, or only 1 medium) → recommendation = 'ship'\n\noverall_score should align with the gate: regenerate=0-4, revise=5-7, ship=8-10.\n\n---\n\nOUTPUT (JSON, matching the provided schema):\n- reasoning: 1-2 sentences on the dominant failure mode (or 'no significant issues' if ship)\n- issues: array sorted by severity descending\n- overall_score: 0-10\n- recommendation: 'ship' | 'revise' | 'regenerate'\n\nBE TERSE. Most prompts have 2-4 real issues. If the prompt is structurally broken, recommend regenerate and say why in reasoning.",
+
+    "stage_4_decide_system": "You are the final art director. You have an original cover prompt and a critic's list of issues. Your job is to decide which suggestions to accept and which to reject, then emit the final prompt.\n\nRULES:\n- Accept critical and high severity issues unless the critic is wrong (over-correction, conflicts with series anchor, taste mistake).\n- Medium and low severity issues are judgment calls — accept if they improve the prompt without bloating it; reject if they're noise.\n- For each rejection, note WHY (one sentence).\n- The final_prompt should be a clean, declarative paragraph of 80-150 words. Apply the accepted suggestions surgically — replace specific phrases, don't rewrite the whole prompt unless the original was structurally broken.\n- Do not introduce new ideas the critic didn't propose. Your job is to compose the original + the critic's accepted suggestions, not to second-guess the original.\n- Strip any name-drop hedging that survived stage 2.\n- Return JSON matching the schema."
+  }
+}

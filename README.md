@@ -61,7 +61,90 @@ falsafa/
 
 ## Quick start
 
-Not yet runnable. Phase 0 (corpus audit) starts after this initial commit.
+```bash
+# Install
+bun install
+
+# Phase 0: corpus audit (no API key needed)
+bun run audit
+
+# Phase 1: convert works.json → corpus/ markdown
+bun run convert
+
+# Phase 2: dev the MCP server (no API key needed)
+cd apps/mcp && bun run dev
+
+# Phase 4: cover imagery (needs OPENROUTER_API_KEY in .env)
+echo "OPENROUTER_API_KEY=sk-or-..." > .env
+bun run images                  # full pipeline: background → elements → composite
+bun run images --background     # just regenerate the shared base background
+bun run images --elements       # just regenerate per-work foreground motifs
+bun run images --composite      # just composite (uses existing background + elements)
+bun run images --only <slug>    # restrict to one work
+bun run images --force          # ignore caches
+bun run images --dry-run        # print prompts, don't call API
+```
+
+## Cover imagery — agentic pipeline
+
+Falsafa covers are produced by a five-stage agentic pipeline with cross-vendor
+critique. Every cover gets a watercolor prompt drafted, critiqued by a
+different model, refined, and rendered. Every stage's input + output is
+persisted to `cover.audit.json` for full reproducibility.
+
+```
+For each work:
+  ┌─────────────────────────────────────────────────────────────────┐
+  │  STAGE 1  Context        load metadata + first-chapter excerpt   │
+  │                          + series anchor (palette/mood)          │
+  │           (no LLM)                                                │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  STAGE 2  Draft          claude-sonnet-4.6  json_schema          │
+  │                          composes a watercolor prompt: subject,  │
+  │                          palette (real pigment names), composition,│
+  │                          watercolor treatment, full paragraph    │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  STAGE 3  Critique       gpt-5.5  json_schema  CROSS-VENDOR      │
+  │                          finds AI-slop, hedging, vague subject,  │
+  │                          watercolor-as-label, palette drift.     │
+  │                          gate: any critical issue → regenerate.  │
+  │                          (Pattern adapted from gstack /codex.)   │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  STAGE 4  Decide         claude-sonnet-4.6  json_schema          │
+  │                          accepts/rejects each suggestion with    │
+  │                          reasoning, emits final prompt           │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  STAGE 5  Image          gpt-5.4-image-2  3:2 @ 2K               │
+  │                          renders the final prompt → cover.webp   │
+  ├─────────────────────────────────────────────────────────────────┤
+  │  STAGE 6  Audit          full I/O of every stage saved to        │
+  │                          cover.audit.json — replayable forever   │
+  └─────────────────────────────────────────────────────────────────┘
+```
+
+**Why cross-vendor critique:** the drafter (Anthropic) and critic (OpenAI) are
+different models from different labs. When they disagree, you get genuine
+fresh perspective on what's wrong with the prompt. When they agree, signal is
+much stronger than self-review. Same pattern gstack uses for `/codex review`
+of Claude-authored code.
+
+**Series-aware cohesion:** works are grouped into series via `lib/series.ts`
+(Cynewulf trilogy, Iqbal Bang-E-Dara parts, Comte volumes, Sanskrit smṛti,
+Kawi tattva, etc). Each series has a palette + mood + watercolor-treatment
+anchor in `style-guide.json` that the drafter follows. Siblings read as
+related; different series look genuinely different.
+
+**Reproducibility:** `cover.audit.json` per work captures every stage's I/O.
+Bumping `version` in `style-guide.json` invalidates all audits and forces
+re-run. The same inputs always produce the same audit (modulo LLM sampling).
+
+**Iteration:** edit the master aesthetic, series anchors, or system prompts
+in `style-guide.json` and re-run with `--force`. Use `--dry-run` to see the
+final prompt without spending an image-gen API call (saves stages 1-4 to
+`cover.audit.draft.json`).
+
+**Cost & time:** ~$0.11 per cover (3 LLM calls + 1 image gen), ~4 minutes per
+cover, ~$4 and ~1 hour for the full 38-work catalog at concurrency 3.
 
 ## License
 

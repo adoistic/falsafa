@@ -1,0 +1,89 @@
+{
+  "work_slug": "cynewulf-andreas-07b573",
+  "series_id": "cynewulf-trilogy",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:37:14.893Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "cynewulf-andreas-07b573",
+      "series_id": "cynewulf-trilogy",
+      "series_anchor": {
+        "label": "Cynewulf trilogy (Andreas, Elene, Juliana)",
+        "palette": "weathered stone-grey, payne's grey shadow, raw umber, faded gold ochre, parchment cream",
+        "mood": "Anglo-Saxon Christian devotion. Cold northern light. Sea-spray and stone. The interior of a candle-lit scriptorium at dusk.",
+        "watercolor_treatment": "Wet-on-wet pooling for the stone weight; dry-brush over the pooled wash to suggest weathered surface texture; gold-ochre touched in sparingly with a small brush, kept slightly lifted from full saturation."
+      },
+      "work_metadata": {
+        "title": "Andreas",
+        "author": "Cynewulf",
+        "era": "Medieval",
+        "language": "old_english",
+        "genre": "Literature",
+        "description": "An Old English poem recounting the life and missionary journey of Saint Andrew among the cannibalistic Mermedonians. A vivid example of Anglo-Saxon heroic Christian poetry."
+      },
+      "content_excerpt": "We have heard of heroes in ages past,\nof twelve true thanes under the turning stars,\nthe Lord’s own champions. Their glory lived on\nin the grim struggle where standards clashed.\nTheir lots were laid out as the Lord Himself,\nHeaven’s High King, handed them their fates.\nFamed were those men across the fields of earth,\nbold-hearted leaders, keen in the battle-press,\nwhere hand guarded helmet on the field of doom,\nand the broad shield was broken in the bitter fray.\n\nOne of them was Matthew, who first with might\npreached the pure gospel, proclaiming God’s law.\nFate had assigned him that far-off cou",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "Andreas opens with the heroic twelve apostles under turning stars, then narrows to a single missionary journey across cold northern seas. A lone ship's anchor — heavy iron, barnacled, resting on nothing — evokes both the sea-crossing to Mermedonia and the steadfast faith that anchors the poem's heroes without depicting any figure or narrative scene.",
+        "subject": "A single iron anchor, barnacled and sea-worn, resting at rest on its side",
+        "palette": "Payne's grey, raw umber, faded gold ochre",
+        "composition": "Anchor placed in the lower-left third of the composition, tilted slightly, its shank trailing upward and rightward into open cream paper; the upper two-thirds of the painting is unbroken negative space, giving the object a quality of having just settled into stillness",
+        "watercolor_treatment": "Wet-on-wet pooling builds the iron's mass in deep payne's grey, darkest at the curved flukes where shadow collects and diluting outward until the paper grain shows bare; dry-brush scuffs dragged across the dried wash suggest pitted, corroded metal surface; raw umber glazed thinly over the shank for rust-bloom; gold ochre touched in with a small brush at the crown joint, barely lifted from full saturation, suggesting worn gilding or candlelight catching a single edge",
+        "prompt": "A single iron anchor, barnacled and sea-worn, rests on its side in the lower-left third of warm cream cotton paper, its shank angling upward into generous open negative space that occupies more than half the composition. Wet-on-wet payne's grey pools heaviest at the curved flukes, bleeding and diluting outward until the cold-press paper grain shows through as bare cream. Dry-brush strokes dragged across the dried wash roughen the surface into pitted, corroded iron. A thin raw umber glaze settles along the shank as rust-bloom. A touch of faded gold ochre, kept slightly lifted from full saturation, catches the crown joint — the only warmth in an otherwise cold, northern field. Pencil under-drawing is barely legible beneath the thinnest washes. No outlines, no hard edges; the anchor simply gathers weight and rests."
+      },
+      "usage": {
+        "prompt": 1857,
+        "completion": 509,
+        "total": 2366
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "no significant issues",
+        "issues": [],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2066,
+        "completion": 398,
+        "total": 2464
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic found no issues and recommends shipping as-is with a 9/10 score. There are zero issues to accept or reject. The final prompt should be the original prompt unchanged, as it already honors the series anchor fully and violates none of the negative directives.",
+        "decisions": [],
+        "final_prompt": "A single iron anchor, barnacled and sea-worn, rests on its side in the lower-left third of warm cream cotton paper, its shank angling upward into generous open negative space that occupies more than half the composition. Wet-on-wet payne's grey pools heaviest at the curved flukes, bleeding and diluting outward until the cold-press paper grain shows through as bare cream. Dry-brush strokes dragged across the dried wash roughen the surface into pitted, corroded iron. A thin raw umber glaze settles along the shank as rust-bloom. A touch of faded gold ochre, kept slightly lifted from full saturation, catches the crown joint — the only warmth in an otherwise cold, northern field. Pencil under-drawing is barely legible beneath the thinnest washes. No outlines, no hard edges; the anchor simply gathers weight and rests.",
+        "changes_summary": "No changes were made. The critic recommended shipping the prompt as-is with no issues identified, so the original is preserved verbatim."
+      },
+      "usage": {
+        "prompt": 1240,
+        "completion": 308,
+        "total": 1548
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/cynewulf-andreas-07b573/cover.webp",
+      "bytes": 1038470,
+      "generated_at": "2026-04-26T15:37:14.893Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single iron anchor, barnacled and sea-worn, rests on its side in the lower-left third of warm cream cotton paper, its shank angling upward into generous open negative space that occupies more than half the composition. Wet-on-wet payne's grey pools heaviest at the curved flukes, bleeding and diluting outward until the cold-press paper grain shows through as bare cream. Dry-brush strokes dragged across the dried wash roughen the surface into pitted, corroded iron. A thin raw umber glaze settles along the shank as rust-bloom. A touch of faded gold ochre, kept slightly lifted from full saturation, catches the crown joint — the only warmth in an otherwise cold, northern field. Pencil under-drawing is barely legible beneath the thinnest washes. No outlines, no hard edges; the anchor simply gathers weight and rests.",
+  "cache_key": "19df6d668116179a"
+}

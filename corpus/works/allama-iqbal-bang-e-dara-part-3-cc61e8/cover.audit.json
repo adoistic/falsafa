@@ -1,0 +1,89 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "series_id": "iqbal-bang-e-dara",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:44:53.722Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "series_id": "iqbal-bang-e-dara",
+      "series_anchor": {
+        "label": "Iqbal — Bang-E-Dara (Parts 1, 2, 3)",
+        "palette": "indigo, deep saffron, jasmine ivory, twilight rose, raw sienna",
+        "mood": "Ghazal-flavored melancholy. A Mughal courtyard at twilight. Late lamplight on cooling stone. The caravan that has paused to listen.",
+        "watercolor_treatment": "Wet-into-wet for the twilight sky tones, allowed to bleed and pool naturally. Saffron and rose introduced only where the subject demands; indigo permitted to dry to a chalky paper-grain texture at the edges."
+      },
+      "work_metadata": {
+        "title": "Bang-E-Dara Part 3",
+        "author": "Allama Iqbal",
+        "era": "20th Century",
+        "language": "Urdu",
+        "genre": "Literature",
+        "description": "The third part of Bang-e-Dara (The Call of the Marching Bell), a seminal collection of Urdu poetry by Allama Iqbal. This section contains powerful verses on Islamic philosophy, nationalism, and spiritual awakening."
+      },
+      "content_excerpt": "Bazm-e-Anjum\n(Bazm-e-Anjum)\n\nSuraj\nne jaate jaate shaam-e-siyah qaba ko\nTasht\nufaq se le kar laale ke phool maare\nPehna\ndiya shafaq ne sone ka saara zewar\nQudrat\nne apne gehne chaandi ke sab utaare\n\nMehmil\nmein khaamoshi ke Laila-e-Zulmat aayi\nChamke\naroos-e-shab ke moti woh pyaare pyaare\nWoh\ndoor rehne waale hangama-e-jahan se\nKehta\nhai jin ko insaan apni zubaan mein 'taare'\n\nMehve\nfalak farozi thi anjuman falak ki\nArsh-e\nbareen se aayi aawaaz ik malak ki\nAe\nshab ke paasbaano, ae aasmaan ke taaro!\nTaabinda\nqaum saari gardoon-nasheen tumhaari\n\nChhedo\nsurood aisa, jaag uthein sone waale\nRehbar",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 599
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The poem opens with stars as witnesses and speakers — the 'Bazm-e-Anjum' (Assembly of Stars) — called upon to sing so that sleeping souls awaken. A single antique oil lamp evokes the late lamplight, the pausing caravan, and the call to spiritual awakening without illustrating any figure or narrative scene. It sits in the tradition of Iqbal's twilight imagery and the series mood of a Mughal courtyard at dusk.",
+        "subject": "A single small clay oil lamp, its wick barely lit",
+        "palette": "indigo, raw sienna, deep saffron",
+        "composition": "The lamp sits low and left of center on the picture plane, occupying roughly a fifth of the total surface. The upper right two-thirds breathes as open cream paper, fading into near-nothing. Visual weight anchors the lower-left corner, with the warm glow pulling the eye inward asymmetrically.",
+        "watercolor_treatment": "Wet-into-wet indigo wash floated across the upper field, pooling darker at the top and bleeding to near-invisible grain at the mid-page horizon. Raw sienna laid wet beneath the lamp's clay body, allowed to bloom outward unevenly. A single touch of deep saffron dropped wet-into-wet at the wick tip, diffusing softly with no hard edge. Dry-brush scuffs of diluted indigo suggest the cold stone surface beneath. Paper grain shows through everywhere pigment is thin.",
+        "prompt": "A single small clay oil lamp, wick barely lit, painted on warm cream cotton cold-press paper. The lamp sits low and left of center, occupying no more than a fifth of the surface; the remaining field is open, breathing negative space. A wet-into-wet indigo wash drifts across the upper portion of the page, pooling to a chalky, grain-visible edge as it dissolves downward into near-nothing. Raw sienna is floated beneath the lamp's rounded body, blooming outward unevenly with soft, bleeding edges. One touch of deep saffron is dropped wet-into-wet at the wick tip, diffusing without a hard boundary. Dry-brush scuffs of diluted indigo suggest a cool stone surface. Pencil under-drawing is faintly legible at the lamp's rim. No text, no figures, no borders — only the lamp, the indigo dusk, and the warm grain of the paper."
+      },
+      "usage": {
+        "prompt": 2030,
+        "completion": 545,
+        "total": 2575
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "no significant issues",
+        "issues": [],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2106,
+        "completion": 412,
+        "total": 2518
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic found no issues and recommends shipping as-is. The original prompt is strong, honors the series anchor fully, and violates none of the negative directives. No changes are needed beyond confirming the final prompt is clean and within word count.",
+        "decisions": [],
+        "final_prompt": "A single small clay oil lamp, wick barely lit, painted on warm cream cotton cold-press paper. The lamp sits low and left of center, occupying no more than a fifth of the surface; the remaining field is open, breathing negative space. A wet-into-wet indigo wash drifts across the upper portion of the page, pooling to a chalky, grain-visible edge as it dissolves downward into near-nothing. Raw sienna is floated beneath the lamp's rounded body, blooming outward unevenly with soft, bleeding edges. One touch of deep saffron is dropped wet-into-wet at the wick tip, diffusing without a hard boundary. Dry-brush scuffs of diluted indigo suggest a cool stone surface. Pencil under-drawing is faintly legible at the lamp's rim. No text, no figures, no borders — only the lamp, the indigo dusk, and the warm grain of the paper.",
+        "changes_summary": "No changes were made. The critic scored the prompt 9/10 and recommended shipping as-is, with no issues identified."
+      },
+      "usage": {
+        "prompt": 1251,
+        "completion": 310,
+        "total": 1561
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/cover.webp",
+      "bytes": 789178,
+      "generated_at": "2026-04-26T15:44:53.722Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single small clay oil lamp, wick barely lit, painted on warm cream cotton cold-press paper. The lamp sits low and left of center, occupying no more than a fifth of the surface; the remaining field is open, breathing negative space. A wet-into-wet indigo wash drifts across the upper portion of the page, pooling to a chalky, grain-visible edge as it dissolves downward into near-nothing. Raw sienna is floated beneath the lamp's rounded body, blooming outward unevenly with soft, bleeding edges. One touch of deep saffron is dropped wet-into-wet at the wick tip, diffusing without a hard boundary. Dry-brush scuffs of diluted indigo suggest a cool stone surface. Pencil under-drawing is faintly legible at the lamp's rim. No text, no figures, no borders — only the lamp, the indigo dusk, and the warm grain of the paper.",
+  "cache_key": "5ceca4647493ba13"
+}

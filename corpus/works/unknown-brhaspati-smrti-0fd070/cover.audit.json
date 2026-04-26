@@ -1,0 +1,89 @@
+{
+  "work_slug": "unknown-brhaspati-smrti-0fd070",
+  "series_id": "sanskrit-smrti",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:45:34.378Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "series_id": "sanskrit-smrti",
+      "series_anchor": {
+        "label": "Sanskrit smṛti corpus (Manu, Yājñavalkya, Nārada, Bṛhaspati, Aṅgirasa, Parāśara, Viṣṇu, Yama, Kātyāyana, Vīramitrodaya)",
+        "palette": "sandalwood, sacred saffron, deep ochre, weathered bronze, palm-leaf cream",
+        "mood": "Ancient Indian dharma tradition committed to palm leaf. Pre-dawn temple light. The verse-numbered shloka, copied for centuries.",
+        "watercolor_treatment": "Sandalwood wash as the dominant pigment, allowed to bleed into the paper. Saffron introduced sparingly. A touch of dried-leaf brown for the manuscript edge. Pigment kept thin and allowed to expose the cream paper warmly."
+      },
+      "work_metadata": {
+        "title": "Bṛhaspati Smṛti",
+        "author": "Unknown",
+        "era": "Ancient",
+        "language": "Sanskrit",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "# The Revered Smṛti of Bṛhaspati\n\n## Chapter 1: The Section on Legal Procedure\n\n<!-- p.1 -->\nFormerly, men were devoted to *dharma* and non-violent;\nFor those overcome by greed and hatred, legal procedure was established. // Brh_1,1.1 //\n\nIf a master does not pay the wages of servants who are doing their work,\nor if the servants do not do their work, there a legal dispute arises. // Brh_1,1.2 //\n\nIf someone commits violence or does not give what is due,\nthese are the two grounds of a lawsuit; of them, there are many varieties. // Brh_1,1.3 //\n\nWhen property is sold or taken for the purpose of",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 599
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "Bṛhaspati Smṛti opens with the establishment of legal procedure to govern disputes over wages, property, and violence — dharma codified as a measuring instrument for human conduct. A single balance scale, ancient and worn, evokes the weighing of claims and the dispensing of what is due, without depicting any scene or figure.",
+        "subject": "A single small bronze balance scale, one pan slightly lower than the other, resting on an unseen surface",
+        "palette": "Raw umber dominant, yellow ochre supporting, a touch of burnt sienna accent",
+        "composition": "The scale sits in the lower-left quadrant, tilted very slightly off-level, occupying roughly one-third of the vertical height. The upper-right two-thirds of the composition is entirely open warm cream paper, breathing and unresolved. The visual weight of the scale anchors the lower edge without geometric centering.",
+        "watercolor_treatment": "A wet-on-wet sandalwood wash lays down the body of the scale, pooling darker raw umber into the joints and the hanging chains, thinning toward the outer edges until the cream cotton paper shows warmly through. Yellow ochre introduced in a second light pass on the pan surfaces. Dry-brush scuffs along the crossbeam where the brush ran nearly dry, exposing cold-press paper grain. Edges of the pans bleed softly with no hard outline. A faint pencil under-drawing is barely legible beneath the pigment at the chain attachments. Burnt sienna applied in a single restrained touch at the heavier pan's rim.",
+        "prompt": "A single small ancient bronze balance scale rests in the lower-left quadrant of warm cream cotton paper, one pan hanging fractionally lower than the other. A wet-on-wet sandalwood wash pools darker raw umber into the joints and suspension chains, bleeding outward until the pigment nearly vanishes into the paper grain. Yellow ochre is brushed lightly across the pan surfaces in a second thin pass. Dry-brush scuffs run along the crossbeam where the brush ran almost dry, leaving cold-press texture exposed. Edges of every form are soft and uncontained, never outlined. A faint pencil under-drawing ghosts beneath the chains. A single restrained touch of burnt sienna marks the rim of the lower pan. More than half the composition is untouched cream paper — open, warm, and deliberate."
+      },
+      "usage": {
+        "prompt": 1908,
+        "completion": 534,
+        "total": 2442
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "no significant issues",
+        "issues": [],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2088,
+        "completion": 551,
+        "total": 2639
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic found no issues and recommends shipping as-is with a 9/10 score. There are zero issues to accept or reject. The final prompt should be the original prompt unchanged, as it already honors the series anchor fully and violates none of the negative directives.",
+        "decisions": [],
+        "final_prompt": "A single small ancient bronze balance scale rests in the lower-left quadrant of warm cream cotton paper, one pan hanging fractionally lower than the other. A wet-on-wet sandalwood wash pools darker raw umber into the joints and suspension chains, bleeding outward until the pigment nearly vanishes into the paper grain. Yellow ochre is brushed lightly across the pan surfaces in a second thin pass. Dry-brush scuffs run along the crossbeam where the brush ran almost dry, leaving cold-press texture exposed. Edges of every form are soft and uncontained, never outlined. A faint pencil under-drawing ghosts beneath the chains. A single restrained touch of burnt sienna marks the rim of the lower pan. More than half the composition is untouched cream paper — open, warm, and deliberate.",
+        "changes_summary": "No changes were made. The critic recommended shipping the prompt as-is with no issues identified, so the original prompt is preserved exactly."
+      },
+      "usage": {
+        "prompt": 1215,
+        "completion": 286,
+        "total": 1501
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-brhaspati-smrti-0fd070/cover.webp",
+      "bytes": 643380,
+      "generated_at": "2026-04-26T15:45:34.378Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single small ancient bronze balance scale rests in the lower-left quadrant of warm cream cotton paper, one pan hanging fractionally lower than the other. A wet-on-wet sandalwood wash pools darker raw umber into the joints and suspension chains, bleeding outward until the pigment nearly vanishes into the paper grain. Yellow ochre is brushed lightly across the pan surfaces in a second thin pass. Dry-brush scuffs run along the crossbeam where the brush ran almost dry, leaving cold-press texture exposed. Edges of every form are soft and uncontained, never outlined. A faint pencil under-drawing ghosts beneath the chains. A single restrained touch of burnt sienna marks the rim of the lower pan. More than half the composition is untouched cream paper — open, warm, and deliberate.",
+  "cache_key": "bf7319697b865db6"
+}

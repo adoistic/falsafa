@@ -1,0 +1,89 @@
+{
+  "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+  "series_id": "kawi-tattva",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T16:01:13.894Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "series_id": "kawi-tattva",
+      "series_anchor": {
+        "label": "Old Javanese / Kawi tattva corpus (San Hyan series, Vrhaspatitattva, Gaṇapatitattva, Slokantara, Vratisasana, Kunjarakarna, Kalpabuddha)",
+        "palette": "tropical earth ochre, deep palm-leaf brown, weathered teak, jasmine cream, faint lapis trace",
+        "mood": "Old Javanese palm-leaf manuscript tradition. Tropical pre-dawn humidity. Frangipani at the threshold. The text inscribed with an iron stylus.",
+        "watercolor_treatment": "Earth ochre and palm-brown washed wet-on-wet to simulate the patina of palm-leaf age. Tropical greenery suggested only as a faint background tone, never literally rendered. Lapis used as a single bright accent on the subject only if the work demands it."
+      },
+      "work_metadata": {
+        "title": "San Hyan Kamahayanikan",
+        "author": "Unknown",
+        "era": "Unknown",
+        "language": "Kawi",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "Homage to the Buddha!\n\nThis is the meaning of OṂ AḤ HUṂ. When taken as the foundation for teaching, the Lord of the Three Syllables is the ultimate reality, the *vajra* of body, speech, and mind.\n\n*Come, child, I shall teach you the Great Vehicle, the method of the Path of the Master of Mantras. You are a worthy vessel for the Great Path.*\n\nThis Sacred Mahāyāna I shall teach to you. The Sacred *Mantranaya* is called the Mahāyāna, the Great Path. This I shall explain, this I shall teach to you, because you have become a worthy vessel, fit to be taught the sacred doctrine of the *Mantranaya*.\n\n*",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The San Hyan Kamahayanikan opens with the three-syllable vajra teaching — body, speech, and mind as ultimate reality. A single vajra ritual implement, worn and ancient, evokes the transmission of esoteric doctrine without illustrating any scene, and carries the weight of the Kawi tantric corpus naturally.",
+        "subject": "A single bronze vajra ritual scepter, resting at a slight diagonal on a bare surface",
+        "palette": "tropical earth ochre, palm-leaf brown, faint lapis lazuli trace",
+        "composition": "The vajra placed in the lower-left third of the composition, angled slightly rightward, with the upper two-thirds of the warm cream paper left as open breathing room; the object's visual mass anchors the painting without centering it",
+        "watercolor_treatment": "Wet-on-wet earth ochre and palm-brown washes pool darkly along the vajra's central grip and dilute outward to almost nothing at the prongs, simulating aged bronze patina; cold-press paper grain shows through the thinnest washes at the edges; a single restrained touch of diluted lapis at the crown of the upper prongs as the sole accent; faint pencil under-drawing visible beneath the grip; no hard outlines, all edges bleed softly into the cream ground",
+        "prompt": "A single ancient bronze vajra scepter rests at a gentle diagonal in the lower-left third of warm cream cotton paper, its surface rendered in wet-on-wet tropical earth ochre and palm-leaf brown that pool darkest along the central grip and dilute to near-nothing at the outstretched prongs. Cold-press paper grain shows through where pigment thins at the edges, and a faint pencil under-drawing is barely legible beneath the shaft. One restrained touch of diluted lapis lazuli traces the crown of the upper prongs — the sole accent in an otherwise earthen palette. The upper two-thirds of the composition breathes open, unmarked cream. Edges bleed softly into the ground; nothing is hard-lined. The mood is pre-dawn humidity, old palm-leaf, iron stylus on ancient manuscript."
+      },
+      "usage": {
+        "prompt": 1905,
+        "completion": 480,
+        "total": 2385
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "no significant issues",
+        "issues": [],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2100,
+        "completion": 651,
+        "total": 2751
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic found no issues and recommends shipping as-is. There are zero issues to evaluate. The original prompt is clean, honors the series anchor fully, and stays within the 80-150 word target. No changes are warranted.",
+        "decisions": [],
+        "final_prompt": "A single ancient bronze vajra scepter rests at a gentle diagonal in the lower-left third of warm cream cotton paper, its surface rendered in wet-on-wet tropical earth ochre and palm-leaf brown that pool darkest along the central grip and dilute to near-nothing at the outstretched prongs. Cold-press paper grain shows through where pigment thins at the edges, and a faint pencil under-drawing is barely legible beneath the shaft. One restrained touch of diluted lapis lazuli traces the crown of the upper prongs — the sole accent in an otherwise earthen palette. The upper two-thirds of the composition breathes open, unmarked cream. Edges bleed softly into the ground; nothing is hard-lined. The mood is pre-dawn humidity, old palm-leaf, iron stylus on ancient manuscript.",
+        "changes_summary": "No changes were made. The critic recommended shipping the prompt as-is with no issues identified."
+      },
+      "usage": {
+        "prompt": 1238,
+        "completion": 274,
+        "total": 1512
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-san-hyan-kamahayanikan-2a0c19/cover.webp",
+      "bytes": 921982,
+      "generated_at": "2026-04-26T16:01:13.894Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single ancient bronze vajra scepter rests at a gentle diagonal in the lower-left third of warm cream cotton paper, its surface rendered in wet-on-wet tropical earth ochre and palm-leaf brown that pool darkest along the central grip and dilute to near-nothing at the outstretched prongs. Cold-press paper grain shows through where pigment thins at the edges, and a faint pencil under-drawing is barely legible beneath the shaft. One restrained touch of diluted lapis lazuli traces the crown of the upper prongs — the sole accent in an otherwise earthen palette. The upper two-thirds of the composition breathes open, unmarked cream. Edges bleed softly into the ground; nothing is hard-lined. The mood is pre-dawn humidity, old palm-leaf, iron stylus on ancient manuscript.",
+  "cache_key": "f6af04ab6038fed1"
+}

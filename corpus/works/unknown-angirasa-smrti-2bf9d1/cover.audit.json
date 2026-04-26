@@ -1,0 +1,89 @@
+{
+  "work_slug": "unknown-angirasa-smrti-2bf9d1",
+  "series_id": "sanskrit-smrti",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:42:28.808Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "series_id": "sanskrit-smrti",
+      "series_anchor": {
+        "label": "Sanskrit smṛti corpus (Manu, Yājñavalkya, Nārada, Bṛhaspati, Aṅgirasa, Parāśara, Viṣṇu, Yama, Kātyāyana, Vīramitrodaya)",
+        "palette": "sandalwood, sacred saffron, deep ochre, weathered bronze, palm-leaf cream",
+        "mood": "Ancient Indian dharma tradition committed to palm leaf. Pre-dawn temple light. The verse-numbered shloka, copied for centuries.",
+        "watercolor_treatment": "Sandalwood wash as the dominant pigment, allowed to bleed into the paper. Saffron introduced sparingly. A touch of dried-leaf brown for the manuscript edge. Pigment kept thin and allowed to expose the cream paper warmly."
+      },
+      "work_metadata": {
+        "title": "Āṅgirasa Smṛti",
+        "author": "Unknown",
+        "era": "Ancient",
+        "language": "Sanskrit",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "[001]\n\n**The Smṛti of Aṅgiras**\n\n**The Earlier Aṅgiras Text**\n\nThe twice-born, prostrating themselves before the sage Āṅgirasa, who was the very image of fire, said to him: \"Tell us all the righteous laws (*dharma*).\" // Ang_1.1 //\n\nOut of affection for them, he then declared: \"Listen! I shall proclaim all those supreme Vedic laws which lead to liberation.\" // Ang_1.2 //\n\n*Dharma* is said to be that which is a scriptural injunction (*codanā*); anything else is so only by extension. That *codanā* is to be known by its indicators and other such signs; when enjoined by the *Śruti* (the revealed s",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The Āṅgirasa Smṛti opens with fire imagery — the sage described as 'the very image of fire' — and centers on dharma as scriptural injunction transmitted through sacred hearing. A single oil lamp or sacrificial flame-vessel evokes both the fire-sage and the pre-dawn transmission of Vedic law, without illustrating any figure or scene. It anchors the series aesthetic perfectly.",
+        "subject": "A single clay oil lamp, small and worn, set slightly left of center on an empty ground",
+        "palette": "Yellow ochre, raw umber, burnt sienna",
+        "composition": "The clay lamp sits in the lower-left quadrant, angled slightly so its spout faces right into open space. More than two-thirds of the painting is warm empty paper, breathing upward and rightward. The lamp's shadow trails softly downward and to the right, anchoring it without framing it.",
+        "watercolor_treatment": "A sandalwood-toned yellow ochre wet-on-wet wash laid first across the lower third, pooling darker at the lamp's base and thinning to near-nothing at the paper edge. Raw umber introduced wet-into-wet along the lamp's shadowed underside, bleeding softly without a hard line. Burnt sienna dry-brushed lightly across the lamp's rim where the brush ran almost dry, exposing cold-press paper grain. Pencil under-drawing faintly visible at the spout. Pigment kept to a single layer except at the base where two washes deepen the weight. No flame rendered — only the vessel.",
+        "prompt": "A single small clay oil lamp, ancient and worn, rests in the lower-left quadrant of warm cream cotton paper, its spout angled toward open space. A sandalwood yellow-ochre wash pools darkest beneath the lamp's belly and thins to almost nothing as it bleeds upward, exposing the cold-press paper grain in the broad, breathing negative space above. Raw umber introduced wet-into-wet along the shadowed underside bleeds softly with no hard edge. Dry-brush strokes of burnt sienna scuff across the lamp's rim where the brush ran nearly dry. A faint pencil under-drawing is barely legible at the spout. Two deepening washes of raw umber settle only at the base, giving the vessel its weight. No flame. No figure. More than two-thirds of the painting is warm, empty paper."
+      },
+      "usage": {
+        "prompt": 1916,
+        "completion": 545,
+        "total": 2461
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "no significant issues",
+        "issues": [],
+        "overall_score": 9,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2117,
+        "completion": 313,
+        "total": 2430
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic found no issues and recommends shipping as-is with a 9/10 score. There are zero issues to evaluate. The original prompt is clean, honors the series anchor palette and mood, and contains no violations of the negative directives. The final prompt should be the original prompt unchanged.",
+        "decisions": [],
+        "final_prompt": "A single small clay oil lamp, ancient and worn, rests in the lower-left quadrant of warm cream cotton paper, its spout angled toward open space. A sandalwood yellow-ochre wash pools darkest beneath the lamp's belly and thins to almost nothing as it bleeds upward, exposing the cold-press paper grain in the broad, breathing negative space above. Raw umber introduced wet-into-wet along the shadowed underside bleeds softly with no hard edge. Dry-brush strokes of burnt sienna scuff across the lamp's rim where the brush ran nearly dry. A faint pencil under-drawing is barely legible at the spout. Two deepening washes of raw umber settle only at the base, giving the vessel its weight. No flame. No figure. More than two-thirds of the painting is warm, empty paper.",
+        "changes_summary": "No changes were made. The critic recommended shipping the prompt as-is with no issues identified, so the original prompt is preserved verbatim."
+      },
+      "usage": {
+        "prompt": 1223,
+        "completion": 300,
+        "total": 1523
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-angirasa-smrti-2bf9d1/cover.webp",
+      "bytes": 554966,
+      "generated_at": "2026-04-26T15:42:28.808Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single small clay oil lamp, ancient and worn, rests in the lower-left quadrant of warm cream cotton paper, its spout angled toward open space. A sandalwood yellow-ochre wash pools darkest beneath the lamp's belly and thins to almost nothing as it bleeds upward, exposing the cold-press paper grain in the broad, breathing negative space above. Raw umber introduced wet-into-wet along the shadowed underside bleeds softly with no hard edge. Dry-brush strokes of burnt sienna scuff across the lamp's rim where the brush ran nearly dry. A faint pencil under-drawing is barely legible at the spout. Two deepening washes of raw umber settle only at the base, giving the vessel its weight. No flame. No figure. More than two-thirds of the painting is warm, empty paper.",
+  "cache_key": "899e42db632db229"
+}

@@ -1,0 +1,102 @@
+{
+  "work_slug": "unknown-katyayana-smrti-1e06d2",
+  "series_id": "sanskrit-smrti",
+  "style_guide_version": "0.4.0",
+  "generated_at": "2026-04-26T15:51:58.839Z",
+  "pipeline_models": {
+    "stage_2_draft": "anthropic/claude-sonnet-4.6",
+    "stage_3_critique": "openai/gpt-5.5",
+    "stage_4_decide": "anthropic/claude-sonnet-4.6",
+    "image_gen": "openai/gpt-5.4-image-2",
+    "_rationale": "Cross-model critique. The drafter (Claude Sonnet) and the critic (GPT-5.5) are different models from different vendors. When they agree something is wrong, the signal is much stronger than one model self-critiquing. The decider (Claude Sonnet again) synthesizes the two perspectives. Same pattern gstack uses for /codex review of Claude-authored work."
+  },
+  "stages": {
+    "1_context": {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "series_id": "sanskrit-smrti",
+      "series_anchor": {
+        "label": "Sanskrit smṛti corpus (Manu, Yājñavalkya, Nārada, Bṛhaspati, Aṅgirasa, Parāśara, Viṣṇu, Yama, Kātyāyana, Vīramitrodaya)",
+        "palette": "sandalwood, sacred saffron, deep ochre, weathered bronze, palm-leaf cream",
+        "mood": "Ancient Indian dharma tradition committed to palm leaf. Pre-dawn temple light. The verse-numbered shloka, copied for centuries.",
+        "watercolor_treatment": "Sandalwood wash as the dominant pigment, allowed to bleed into the paper. Saffron introduced sparingly. A touch of dried-leaf brown for the manuscript edge. Pigment kept thin and allowed to expose the cream paper warmly."
+      },
+      "work_metadata": {
+        "title": "Kātyāyana Smṛti",
+        "author": "Unknown",
+        "era": "Ancient",
+        "language": "Sanskrit",
+        "genre": "Indic",
+        "description": ""
+      },
+      "content_excerpt": "# The Essence of the Kātyāyana Smṛti\n\n## The Qualities of a King\n\nA king should be disciplined, well-versed in the sacred texts, possessed of a full treasury and valor, devoted to Brahmins, charitable, and dedicated to truth and *Dharma* (sacred law, righteousness, and duty). // K_001 //\n\nHe should be free from arrogance, cruelty, slander, fickleness, and anger; eloquent, humble yet dignified, pleasant in speech, and pleasing to behold. // K_002 //\n\nFortune greatly favors a king who has control over his senses, is self-mastered, wields punishment against wrongdoers, acts only after due examina",
+      "excerpt_source": {
+        "variant_file": "translation.md",
+        "chars": 600
+      }
+    },
+    "2_draft": {
+      "output": {
+        "reasoning": "The Kātyāyana Smṛti opens with royal dharma — discipline, treasury, valor, and sacred law. A single weathered bronze scepter or mace evokes sovereign authority and the weight of righteous rule without depicting any figure, and anchors the ancient smṛti tradition perfectly within the series palette of sandalwood, saffron, and ochre.",
+        "subject": "A single ancient bronze ceremonial mace, upright and resting at a slight tilt",
+        "palette": "Yellow ochre, raw umber, burnt sienna",
+        "composition": "The mace placed in the lower-left third of the composition, tilting gently rightward, its shaft fading into the cream paper before reaching the top edge. Upper two-thirds of the painting is open, breathing negative space of warm cream ground. Visual weight anchors at the base.",
+        "watercolor_treatment": "A sandalwood-toned yellow ochre wash laid wet-on-wet along the shaft, pooling darker at the base where the metal is heaviest and diluting upward until the pigment nearly vanishes into the cream cotton paper. Raw umber introduced in a second pass only at the weighted head of the mace, allowed to bloom softly outward without hard edges. Burnt sienna dry-brushed sparingly across the mid-shaft to suggest aged metal texture, with cold-press paper grain showing through the thinner passages. Pencil under-drawing faintly visible at the contour of the head. No outline, only soft bleeding edges.",
+        "prompt": "A single ancient bronze ceremonial mace rests upright and slightly tilted in the lower-left third of warm cream cotton paper, its shaft dissolving upward into open negative space. A sandalwood-toned yellow ochre wash is laid wet-on-wet along the length of the shaft, pooling darker at the weighted base and diluting until the pigment is barely a whisper near the top edge. Raw umber is introduced in a second deepening wash only at the mace head, blooming softly outward with no hard boundary. Burnt sienna is dry-brushed sparingly across the mid-shaft, the brush nearly out of water, leaving scuffed marks that expose the cold-press paper grain beneath. A faint pencil under-drawing traces the contour of the head, unfinished and barely legible. The upper two-thirds of the painting is untouched cream paper. No outlines, no text, no borders — only restrained pigment and deliberate silence."
+      },
+      "usage": {
+        "prompt": 1895,
+        "completion": 554,
+        "total": 2449
+      }
+    },
+    "3_critique": {
+      "output": {
+        "reasoning": "Only a minor weak-language hedge appears; no significant palette, mood, subject, or watercolor-treatment failure is present.",
+        "issues": [
+          {
+            "severity": "medium",
+            "category": "weak_language",
+            "problematic_phrase": "slightly",
+            "suggestion": "Replace with a precise tilt: \"tilted a few degrees to the right\"."
+          }
+        ],
+        "overall_score": 8,
+        "recommendation": "ship"
+      },
+      "usage": {
+        "prompt": 2119,
+        "completion": 1126,
+        "total": 3245
+      }
+    },
+    "4_decide": {
+      "output": {
+        "reasoning": "The critic's single issue is a medium-severity weak-language flag on 'slightly.' Replacing 'slightly tilted' with 'tilted a few degrees to the right' is a genuine improvement — it gives the renderer a concrete, unambiguous instruction rather than a vague qualifier. This is a clean, surgical fix that doesn't bloat the prompt or conflict with the series anchor. Accept it.",
+        "decisions": [
+          {
+            "issue_index": 0,
+            "decision": "accept",
+            "reason": "'Slightly' is imprecise and gives the renderer no actionable angle; 'tilted a few degrees to the right' is concrete and still restrained."
+          }
+        ],
+        "final_prompt": "A single ancient bronze ceremonial mace rests upright and tilted a few degrees to the right in the lower-left third of warm cream cotton paper, its shaft dissolving upward into open negative space. A sandalwood-toned yellow ochre wash is laid wet-on-wet along the length of the shaft, pooling darker at the weighted base and diluting until the pigment is barely a whisper near the top edge. Raw umber is introduced in a second deepening wash only at the mace head, blooming softly outward with no hard boundary. Burnt sienna is dry-brushed sparingly across the mid-shaft, the brush nearly out of water, leaving scuffed marks that expose the cold-press paper grain beneath. A faint pencil under-drawing traces the contour of the head, unfinished and barely legible. The upper two-thirds of the painting is untouched cream paper. No outlines, no text, no borders — only restrained pigment and deliberate silence.",
+        "changes_summary": "Replaced 'slightly tilted' with 'tilted a few degrees to the right' to give a precise, actionable angle. No other changes were made."
+      },
+      "usage": {
+        "prompt": 1302,
+        "completion": 412,
+        "total": 1714
+      }
+    },
+    "5_image": {
+      "cover_path": "/Users/siraj/falsafa/corpus/works/unknown-katyayana-smrti-1e06d2/cover.webp",
+      "bytes": 613104,
+      "generated_at": "2026-04-26T15:51:58.839Z",
+      "model": "openai/gpt-5.4-image-2",
+      "aspect_ratio": "3:2",
+      "image_size": "2K"
+    }
+  },
+  "final_prompt": "A single ancient bronze ceremonial mace rests upright and tilted a few degrees to the right in the lower-left third of warm cream cotton paper, its shaft dissolving upward into open negative space. A sandalwood-toned yellow ochre wash is laid wet-on-wet along the length of the shaft, pooling darker at the weighted base and diluting until the pigment is barely a whisper near the top edge. Raw umber is introduced in a second deepening wash only at the mace head, blooming softly outward with no hard boundary. Burnt sienna is dry-brushed sparingly across the mid-shaft, the brush nearly out of water, leaving scuffed marks that expose the cold-press paper grain beneath. A faint pencil under-drawing traces the contour of the head, unfinished and barely legible. The upper two-thirds of the painting is untouched cream paper. No outlines, no text, no borders — only restrained pigment and deliberate silence.",
+  "cache_key": "f6696d83c23cc7f1"
+}
