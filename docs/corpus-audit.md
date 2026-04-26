@@ -1,42 +1,7 @@
 # Falsafa — Corpus Audit Report
 
-Generated: 2026-04-26T14:08:59.958Z
+Generated: 2026-04-26T17:56:52.223Z
 Source: `neondb` (exported 2026-04-26T11:26:21.945195+00:00)
-
-## ⚠️ Critical finding: chapters carry language variants
-
-The `chapters` array on each work is NOT a list of unique chapters. It is a
-list of **language variants of chapters**. The corpus actually contains:
-
-- **627 logical chapters** (unique `work_id + chapter_number` pairs)
-- **1,673 chapter entries** (variants × logical chapters)
-- **2-3 variants per logical chapter on average (2.67)**
-
-**Variant patterns observed:**
-
-| Pattern | Logical chapters | Examples |
-|--------:|------------------|----------|
-| 3 variants (orig + translit + trans) | 587 | Iqbal, Ghalib, Zauq, Cynewulf, Old English Elegies |
-| 2 variants (translit + trans, OR orig + trans) | 40 | All Sanskrit smṛti, French Comte/Dunoyer treatises, Fichte, Nyaya manuscript |
-
-**Implication for convert pipeline:** group entries by `(work_id, chapter_number)`.
-Each logical chapter becomes a directory:
-
-```
-corpus/works/{era}/{author}/{work-slug-uuid6}/chapters/{NN}-{title-slug}/
-  ├── original.md         # the source-language version
-  ├── transliteration.md  # Latin-script romanization (where applicable)
-  ├── translation.md      # English translation (where applicable)
-  └── meta.json           # logical-chapter metadata + variant index
-```
-
-**Implication for design:** the side-by-side bilingual reader, originally
-deferred to V2 because we assumed paired content didn't exist, is now a V1
-feature. Each chapter page has a variant switcher / parallel-text toggle.
-
-**Implication for MCP:** `read_chapter` takes an optional `variant: original |
-transliteration | translation` parameter. `search_corpus` defaults to English
-content only (translations) and opts in to all variants via `scope: "all"`.
 
 ## Summary
 

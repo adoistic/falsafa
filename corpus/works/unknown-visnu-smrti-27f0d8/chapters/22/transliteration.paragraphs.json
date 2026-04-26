@@ -1,0 +1,542 @@
+[
+  {
+    "id": "p-195749",
+    "offset": 0,
+    "text": "Vi_22"
+  },
+  {
+    "id": "p-b34ab0",
+    "offset": 7,
+    "text": "brāhmaṇasya sapiṇḍānāṃ jananamaraṇayor daśāham āśaucam // Vi_22.1 //"
+  },
+  {
+    "id": "p-623e4a",
+    "offset": 77,
+    "text": "dvādaśāhaṃ rājanyasya // Vi_22.2 //"
+  },
+  {
+    "id": "p-dbd024",
+    "offset": 114,
+    "text": "pañcadaśāhaṃ vaiśyasya // Vi_22.3 //"
+  },
+  {
+    "id": "p-a4e68a",
+    "offset": 152,
+    "text": "māsaṃ śūdrasya // Vi_22.4 //"
+  },
+  {
+    "id": "p-893c4f",
+    "offset": 182,
+    "text": "sapiṇḍatā ca puruṣe saptame vinivartate // Vi_22.5 //"
+  },
+  {
+    "id": "p-ac7444",
+    "offset": 237,
+    "text": "āśauce homadānapratigrahasvādhyāyā nivartante // Vi_22.6 //"
+  },
+  {
+    "id": "p-82242d",
+    "offset": 298,
+    "text": "nāśauce kasyacid annam aśnīyāt // Vi_22.7 //"
+  },
+  {
+    "id": "p-1f997a",
+    "offset": 344,
+    "text": "brāhmaṇādīnām aśauce yaḥ sakṛd evānnam atti tasya tāvad āśaucaṃ yāvat teṣām // Vi_22.8 //"
+  },
+  {
+    "id": "p-1e1f4a",
+    "offset": 435,
+    "text": "āśauśāpagame prāyaścittaṃ kuryāt // Vi_22.9 //"
+  },
+  {
+    "id": "p-529e49",
+    "offset": 483,
+    "text": "savarṇasyāśauce dvijo bhuktvā sravantīm āsādya tannimagnas triraghamarṣaṇaṃ japtvottīrya gāyatryaṣṭasahasraṃ japet // Vi_22.10 //"
+  },
+  {
+    "id": "p-08b2d6",
+    "offset": 614,
+    "text": "kṣatriyāśauce brāhmaṇas tv etad evopoṣitaḥ kṛtvā śudhyati // Vi_22.11 //"
+  },
+  {
+    "id": "p-7b5d82",
+    "offset": 688,
+    "text": "vaiśyāśauce rājanyaś ca // Vi_22.12 //"
+  },
+  {
+    "id": "p-5ffaef",
+    "offset": 728,
+    "text": "vaiśyāśauce brāhmaṇas trirātropoṣitaś ca // Vi_22.13 //"
+  },
+  {
+    "id": "p-c6448d",
+    "offset": 785,
+    "text": "brāhmaṇāśauce rājanyaḥ kṣatriyāśauce vaiśyaś ca sravantīm āsādya gāyatrīśatapañcakaṃ japet // Vi_22.14 //"
+  },
+  {
+    "id": "p-55523c",
+    "offset": 892,
+    "text": "vaiśyaś ca brāhmaṇāśauce gāyatryaṣṭaśataṃ japet // Vi_22.15 //"
+  },
+  {
+    "id": "p-4436df",
+    "offset": 956,
+    "text": "śūdrāśauce dvijo bhuktvā prājāpatyaṃ caret // Vi_22.16 //"
+  },
+  {
+    "id": "p-f2efb2",
+    "offset": 1015,
+    "text": "śūdraś ca dvijāśauce snānam ācaret // Vi_22.17 //"
+  },
+  {
+    "id": "p-573995",
+    "offset": 1066,
+    "text": "śūdraḥ śūdrāśauce snātaḥ pañcagavyaṃ pibet // Vi_22.18 //"
+  },
+  {
+    "id": "p-bae52d",
+    "offset": 1125,
+    "text": "patnīnāṃ dāsānām ānulomyena svāminas tulyam āśaucam // Vi_22.19 //"
+  },
+  {
+    "id": "p-0c0d2e",
+    "offset": 1193,
+    "text": "mṛte svāminy ātmīyam // Vi_22.20 //"
+  },
+  {
+    "id": "p-e90987",
+    "offset": 1230,
+    "text": "hīnavarṇānām adhikavarṇeṣu sapiṇḍeṣu tadaśaucavyapagame śuddhiḥ // Vi_22.21 //"
+  },
+  {
+    "id": "p-04dd77",
+    "offset": 1310,
+    "text": "brāhmaṇasya kṣatriviṭśūdreṣu sapiṇḍeṣu ṣaḍrātratrirātraikarātraiḥ // Vi_22.22 //"
+  },
+  {
+    "id": "p-74053a",
+    "offset": 1392,
+    "text": "kṣatriyasya viṭśūdrayoḥ ṣaḍrātratrirātrābhyām // Vi_22.23 //"
+  },
+  {
+    "id": "p-a77b01",
+    "offset": 1454,
+    "text": "vaiśyasya śūdreṣu ṣaḍrātreṇa // Vi_22.24 //"
+  },
+  {
+    "id": "p-db94fa",
+    "offset": 1499,
+    "text": "māsatulyair ahorātrair garbhasrāve // Vi_22.25 //"
+  },
+  {
+    "id": "p-3a04ac",
+    "offset": 1550,
+    "text": "jātamṛte mṛtajāte vā kulasya sadyaḥ śaucam // Vi_22.26 //"
+  },
+  {
+    "id": "p-a7d106",
+    "offset": 1609,
+    "text": "adantajāte bāle prete sadya eva // Vi_22.27 //"
+  },
+  {
+    "id": "p-1fc3c9",
+    "offset": 1657,
+    "text": "nāsyāgnisaṃskāro nodakakriyā // Vi_22.28 //"
+  },
+  {
+    "id": "p-bbe9e9",
+    "offset": 1702,
+    "text": "dantajāte tv akṛtacūḍe tv ahorātreṇa // Vi_22.29 //"
+  },
+  {
+    "id": "p-c5cf8b",
+    "offset": 1755,
+    "text": "kṛtacūḍe tv asaṃskṛte trirātreṇa // Vi_22.30 //"
+  },
+  {
+    "id": "p-e0aaae",
+    "offset": 1804,
+    "text": "tataḥ paraṃ yathoktakālena // Vi_22.31 //"
+  },
+  {
+    "id": "p-2f7e29",
+    "offset": 1847,
+    "text": "strīṇāṃ vivāhaḥ saṃskāraḥ // Vi_22.32 //"
+  },
+  {
+    "id": "p-041725",
+    "offset": 1889,
+    "text": "saṃskṛtāsu strīṣu nāśaucaṃ pitṛpakṣe // Vi_22.33 //"
+  },
+  {
+    "id": "p-012071",
+    "offset": 1942,
+    "text": "tatprasavamaraṇe cet pitṛgṛhe syātāṃ , tadā ekarātraṃ trirātraṃ ca // Vi_22.34 //"
+  },
+  {
+    "id": "p-432bc7",
+    "offset": 2025,
+    "text": "jananāśaucamadhye yady aparaṃ jananāśaucaṃ syāt , tadā pūrvāśaucavyapagame śuddhiḥ // Vi_22.35 //"
+  },
+  {
+    "id": "p-06ddce",
+    "offset": 2124,
+    "text": "rātriśeṣe dinadvayena // Vi_22.36 //"
+  },
+  {
+    "id": "p-c8ae5f",
+    "offset": 2162,
+    "text": "prabhāte dinatrayeṇa // Vi_22.37 //"
+  },
+  {
+    "id": "p-7842e4",
+    "offset": 2199,
+    "text": "maraṇāśaucamadhye jñātimaraṇe 'py evam // Vi_22.38 //"
+  },
+  {
+    "id": "p-4ab611",
+    "offset": 2254,
+    "text": "śrutvā deśāntarastho jananamaraṇe āśaucaśeṣeṇa śudhyet // Vi_22.39 //"
+  },
+  {
+    "id": "p-eead6f",
+    "offset": 2325,
+    "text": "vyatīte 'śauce saṃvatsarāntas tv ekarātreṇa // Vi_22.40 //"
+  },
+  {
+    "id": "p-fde306",
+    "offset": 2385,
+    "text": "tataḥ paraṃ snānena // Vi_22.41 //"
+  },
+  {
+    "id": "p-318d15",
+    "offset": 2421,
+    "text": "ācārye mātāmahe ca vyatīte trirātreṇa // Vi_22.42 //"
+  },
+  {
+    "id": "p-ddd094",
+    "offset": 2475,
+    "text": "anauraseṣu putreṣu jāteṣu ca mṛteṣu ca  /"
+  },
+  {
+    "id": "p-6083f3",
+    "offset": 2518,
+    "text": "parapūrvāsu bhāryāsu prasūtāsu mṛtāsu ca  || Vi_22.43 ||"
+  },
+  {
+    "id": "p-098c16",
+    "offset": 2576,
+    "text": "ācāryapatnīputropādhyāyamātulaśvaśuraśvaśuryasahādhyāyiśiṣyeṣv atīteṣv ekarātreṇa // Vi_22.44 //"
+  },
+  {
+    "id": "p-2e344d",
+    "offset": 2674,
+    "text": "svadeśarājani ca // Vi_22.45 //"
+  },
+  {
+    "id": "p-f4cb94",
+    "offset": 2707,
+    "text": "asapiṇḍe svaveśmani mṛte ca // Vi_22.46 //"
+  },
+  {
+    "id": "p-0f1cc0",
+    "offset": 2751,
+    "text": "bhṛgvagnyanāśakāmbusaṃgrāmavidyunnṛpahatānāṃ nāśaucam // Vi_22.47 //"
+  },
+  {
+    "id": "p-b57e74",
+    "offset": 2821,
+    "text": "na rājñāṃ rajakarmaṇi // Vi_22.48 //"
+  },
+  {
+    "id": "p-360b09",
+    "offset": 2859,
+    "text": "na vratināṃ vrate // Vi_22.49 //"
+  },
+  {
+    "id": "p-97578f",
+    "offset": 2893,
+    "text": "na satriṇāṃ satre // Vi_22.50 //"
+  },
+  {
+    "id": "p-1486fb",
+    "offset": 2927,
+    "text": "na kārūṇāṃ kārukarmaṇi // Vi_22.51 //"
+  },
+  {
+    "id": "p-0b4d6f",
+    "offset": 2966,
+    "text": "na rājājñākāriṇāṃ tadicchayā // Vi_22.52 //"
+  },
+  {
+    "id": "p-5db190",
+    "offset": 3011,
+    "text": "na devapratiṣṭhāvivāhayoḥ pūrvasaṃbhṛtayoḥ // Vi_22.53 //"
+  },
+  {
+    "id": "p-ec4df3",
+    "offset": 3070,
+    "text": "na deśavibhrame // Vi_22.54 //"
+  },
+  {
+    "id": "p-e5c1a1",
+    "offset": 3102,
+    "text": "āpady api ca kaṣṭāyām // Vi_22.55 //"
+  },
+  {
+    "id": "p-0fd407",
+    "offset": 3140,
+    "text": "ātmatyāginaḥ patitāś ca nāśaucodakabhājaḥ // Vi_22.56 //"
+  },
+  {
+    "id": "p-d5ee78",
+    "offset": 3198,
+    "text": "patitasya dāsī mṛte 'hni padā apāṃ ghaṭam apavarjayet // Vi_22.57 //"
+  },
+  {
+    "id": "p-378751",
+    "offset": 3268,
+    "text": "udbandhanamṛtasya yaḥ pāśaṃ chindyāt sa taptakṛcchreṇa śudhyati // Vi_22.58 //"
+  },
+  {
+    "id": "p-1f9687",
+    "offset": 3348,
+    "text": "ātmatyāgināṃ saṃskartā ca // Vi_22.59 //"
+  },
+  {
+    "id": "p-e3fa82",
+    "offset": 3390,
+    "text": "tadaśrupātakārī ca // Vi_22.60 //"
+  },
+  {
+    "id": "p-e83695",
+    "offset": 3425,
+    "text": "sarvasyaiva pretasya bāndhavaiḥ sahāśrupātaṃ kṛtvā snānena // Vi_22.61 //"
+  },
+  {
+    "id": "p-23ed92",
+    "offset": 3500,
+    "text": "akṛte 'sthisaṃcaye sacailasnānena // Vi_22.62 //"
+  },
+  {
+    "id": "p-7ef249",
+    "offset": 3550,
+    "text": "dvijaḥ śūdrapretānugamanaṃ kṛtvā sravantīm āsādya tannimagnaḥ triraghamarṣaṇaṃ japtvottīrya gāyatryaṣṭasahasraṃ japet // Vi_22.63 //"
+  },
+  {
+    "id": "p-e1aa82",
+    "offset": 3684,
+    "text": "dvijapretasyāṣṭaśatam // Vi_22.64 //"
+  },
+  {
+    "id": "p-abb3f9",
+    "offset": 3722,
+    "text": "śūdraḥ pretānugamanaṃ kṛtvā snānam ācaret // Vi_22.65 //"
+  },
+  {
+    "id": "p-f738be",
+    "offset": 3780,
+    "text": "citādhūmasevane sarve varṇāḥ snānam ācareyuḥ // Vi_22.66 //"
+  },
+  {
+    "id": "p-fefb3c",
+    "offset": 3841,
+    "text": "maithune duḥsvapne rudhiropagatakaṇṭhe vamanavirekayoś ca // Vi_22.67 //"
+  },
+  {
+    "id": "p-e66bdb",
+    "offset": 3915,
+    "text": "śmaśrukarmaṇi kṛte ca // Vi_22.68 //"
+  },
+  {
+    "id": "p-df27c6",
+    "offset": 3953,
+    "text": "śavaspṛśaṃ ca spṛṣṭvā rajasvalācaṇḍālayūpāṃś ca // Vi_22.69 //"
+  },
+  {
+    "id": "p-ba0905",
+    "offset": 4017,
+    "text": "bhakṣyavarjaṃ pañcanakhaśavaṃ tadasthisnehaṃ ca // Vi_22.70 //"
+  },
+  {
+    "id": "p-82023c",
+    "offset": 4081,
+    "text": "sarveṣv eteṣu snāneṣu vastraṃ nāprakṣālitaṃ bibhṛyāt // Vi_22.71 //"
+  },
+  {
+    "id": "p-4f58c4",
+    "offset": 4150,
+    "text": "rajasvalā caturthe 'hni snānāc chudhyati // Vi_22.72 //"
+  },
+  {
+    "id": "p-ee31b1",
+    "offset": 4207,
+    "text": "rajasvalā hīnavarṇāṃ rajasvalāṃ spṛṣṭvā na tāvad aśnīyāt yāvan na śuddhā // Vi_22.73 //"
+  },
+  {
+    "id": "p-41daa2",
+    "offset": 4296,
+    "text": "savarṇām adhikavarṇāṃ vā spṛṣṭvā sadyaḥ snātvā śudhyati // Vi_22.74 //"
+  },
+  {
+    "id": "p-da77fc",
+    "offset": 4368,
+    "text": "kṣutvā suptvā bhuktvā bhojanādhyayanepsuḥ pītvā snātvā niṣṭhīvya vāsaḥ paridhāya rathyām ākramya mūtrapurīṣaṃ kṛtvā pañcanakhāsthy asnehaṃ spṛṣṭvā cācamet // Vi_22.75 //"
+  },
+  {
+    "id": "p-5ebbe1",
+    "offset": 4539,
+    "text": "caṇḍālamlecchasaṃbhāṣaṇe ca // Vi_22.76 //"
+  },
+  {
+    "id": "p-c7a912",
+    "offset": 4583,
+    "text": "nābher adhastāt prabāhuṣu ca kāyikair malaiḥ surābhir madyaiś copahato mṛttoyais tadaṅgaṃ prakṣālya śudhyet // Vi_22.77 //"
+  },
+  {
+    "id": "p-e23461",
+    "offset": 4707,
+    "text": "anyatropahato mṛttoyais tadaṅgaṃ prakṣālya snānena // Vi_22.78 //"
+  },
+  {
+    "id": "p-1df9aa",
+    "offset": 4774,
+    "text": "vaktropahatas tv upoṣya snātvā pañcagavyena // Vi_22.79 //"
+  },
+  {
+    "id": "p-dcd051",
+    "offset": 4834,
+    "text": "daśanacchadopahataś ca // Vi_22.80 //"
+  },
+  {
+    "id": "p-f3c0fb",
+    "offset": 4873,
+    "text": "vasā śukram asṛṅ majjā mūtraṃ viṭ karṇaviṇnakhāḥ  /"
+  },
+  {
+    "id": "p-840a9c",
+    "offset": 4926,
+    "text": "śleṣmāśru dūṣikā svedo dvādaśaite nṛṇāṃ malāḥ  || Vi_22.81 ||"
+  },
+  {
+    "id": "p-43f72b",
+    "offset": 4989,
+    "text": "gauḍī mādhvī ca paiṣṭī ca vijñeyā trividhā surā  /"
+  },
+  {
+    "id": "p-efbd13",
+    "offset": 5041,
+    "text": "yathaivaikā tathā sarvā na pātavyā dvijātibhiḥ  || Vi_22.82 ||"
+  },
+  {
+    "id": "p-1c8548",
+    "offset": 5105,
+    "text": "mādhūkam aikṣavaṃ ṭāṅkaṃ kaulaṃ khārjūrapānase  /"
+  },
+  {
+    "id": "p-7c0388",
+    "offset": 5156,
+    "text": "mṛdvīkārasamādhvīke maireyaṃ nārikelajam  || Vi_22.83 ||"
+  },
+  {
+    "id": "p-7ec039",
+    "offset": 5214,
+    "text": "amedhyāni daśaitāni madyāni brāhmaṇasya ca  /"
+  },
+  {
+    "id": "p-e7e88f",
+    "offset": 5261,
+    "text": "rājanyaś caiva vaiśyaś ca spṛṣṭvaitāni na duṣyataḥ  || Vi_22.84 ||"
+  },
+  {
+    "id": "p-1e6984",
+    "offset": 5329,
+    "text": "guroḥ pretasya śiṣyas tu pitṛmedhaṃ samācaran  /"
+  },
+  {
+    "id": "p-6c3937",
+    "offset": 5379,
+    "text": "pretāhāraiḥ samaṃ tatra daśarātreṇa śudhyati  || Vi_22.85 ||"
+  },
+  {
+    "id": "p-d1617f",
+    "offset": 5441,
+    "text": "ācāryaṃ svam upādhyāyaṃ pitaraṃ mātaraṃ gurum  /"
+  },
+  {
+    "id": "p-64e64c",
+    "offset": 5491,
+    "text": "nirhṛtya tu vratī pretān na vratena viyujyate  || Vi_22.86 ||"
+  },
+  {
+    "id": "p-34f733",
+    "offset": 5554,
+    "text": "ādiṣṭī nodakaṃ kuryād ā vratasya samāpanāt  /"
+  },
+  {
+    "id": "p-c025dc",
+    "offset": 5601,
+    "text": "samāpte tūdakaṃ kṛtvā trirātreṇaiva śudhyati  || Vi_22.87 ||"
+  },
+  {
+    "id": "p-f77a2d",
+    "offset": 5663,
+    "text": "jñānaṃ tapo 'gnir āhāro mṛnmano vāryupāñjanam  /"
+  },
+  {
+    "id": "p-25dd2a",
+    "offset": 5713,
+    "text": "vāyuḥ karmārkakālau ca śuddhikartṝṇi dehinām  || Vi_22.88 ||"
+  },
+  {
+    "id": "p-90f46a",
+    "offset": 5775,
+    "text": "sarveṣām eva śaucānām annaśaucaṃ paraṃ smṛtam  /"
+  },
+  {
+    "id": "p-33057a",
+    "offset": 5825,
+    "text": "yo 'nne śuciḥ sa hi śucir na mṛdvāriśuciḥ śuciḥ  || Vi_22.89 ||"
+  },
+  {
+    "id": "p-4a0306",
+    "offset": 5890,
+    "text": "kṣāntyā śudhyanti vidvāṃso dānenākāryakāriṇaḥ  /"
+  },
+  {
+    "id": "p-66bec2",
+    "offset": 5940,
+    "text": "pracchannapāpā japyena tapasā vedavittamāḥ  || Vi_22.90 ||"
+  },
+  {
+    "id": "p-73d387",
+    "offset": 6000,
+    "text": "mṛttoyaiḥ śudhyate śodhyaṃ nadī vegena śudhyati  /"
+  },
+  {
+    "id": "p-222f12",
+    "offset": 6052,
+    "text": "rajasā strī manoduṣṭā saṃnyāsena dvijottamāḥ  || Vi_22.91 ||"
+  },
+  {
+    "id": "p-22271d",
+    "offset": 6114,
+    "text": "adbhir gātrāṇi śudhyanti manaḥ satyena śudhyati  /"
+  },
+  {
+    "id": "p-433458",
+    "offset": 6166,
+    "text": "vidyātapobhyāṃ bhūtātmā buddhir jñānena śudhyati  || Vi_22.92 ||"
+  },
+  {
+    "id": "p-b814af",
+    "offset": 6232,
+    "text": "eṣa śaucasya te proktaḥ śārīrasya vinirṇayaḥ  /"
+  },
+  {
+    "id": "p-433dcb",
+    "offset": 6281,
+    "text": "nānāvidhānāṃ dravyāṇāṃ śuddheḥ śṛṇu vinirṇayam  || Vi_22.93 ||"
+  }
+]

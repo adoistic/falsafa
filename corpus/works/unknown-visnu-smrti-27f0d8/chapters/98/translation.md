@@ -1,0 +1,126 @@
+---
+work_id: 27f0d89c-260b-4d5c-85b5-d509ab1822b9
+work_slug: unknown-visnu-smrti-27f0d8
+work_title: Viṣṇu Smṛti
+author_name: Unknown
+chapter_number: 98
+chapter_title: Chapter 98
+chapter_slug: 98
+variant_id: 2372a7b2-ed67-40b7-a11e-ccd755bd8467
+content_type: translation
+layout: verse
+language: english
+source_language: Sanskrit
+language_direction: ltr
+script: latin
+word_count: 863
+estimated_read_time: 232
+translator: thothica
+---
+
+**Vishnu Smriti 98**
+
+Having been thus addressed, Vasumatī (the Earth) made a salutation with her knees and head and said: // Vi_98.1 //
+"O blessed one, near you the four elements have always made their abode: ether in the form of a conch, wind in the form of a discus, fire in the form of a mace, and water in the form of a lotus. I, too, wish to be ever-revolving between the blessed one's feet in this same form." // Vi_98.2 //
+Having been thus addressed, the blessed one said, "So be it." // Vi_98.3 //
+Vasudhā, having obtained her desire, did so. // Vi_98.4 //
+And she praised the god of gods. // Vi_98.5 //
+Om, salutation to you. // Vi_98.6 //
+O god of gods. // Vi_98.7 //
+O Vāsudeva. // Vi_98.8 //
+O primeval god. // Vi_98.9 //
+O god of love. // Vi_98.10 //
+O protector of love. // Vi_98.11 //
+O protector of the earth. // Vi_98.12 //
+O you without beginning, middle, or end. // Vi_98.13 //
+O lord of creatures. // Vi_98.14 //
+O good lord of creatures. // Vi_98.15 //
+O great lord of creatures. // Vi_98.16 //
+O lord of strength. // Vi_98.17 //
+O lord of speech. // Vi_98.18 //
+O lord of the world. // Vi_98.19 //
+O lord of heaven. // Vi_98.20 //
+O lord of the forest. // Vi_98.21 //
+O lord of milk. // Vi_98.22 //
+O lord of the earth. // Vi_98.23 //
+O lord of the waters. // Vi_98.24 //
+O lord of the directions. // Vi_98.25 //
+O lord of the great. // Vi_98.26 //
+O lord of the winds. // Vi_98.27 //
+O lord of Lakṣmī. // Vi_98.28 //
+O you of the form of Brahman. // Vi_98.29 //
+O you who are dear to Brāhmaṇas. // Vi_98.30 //
+O all-pervading one. // Vi_98.31 //
+O inconceivable one. // Vi_98.32 //
+O you who are attainable by knowledge. // Vi_98.33 //
+O you who are invoked by many. // Vi_98.34 //
+O you who are praised by many. // Vi_98.35 //
+O friend of Brahman. // Vi_98.36 //
+O you who love Brahman. // Vi_98.37 //
+O you of the Brahmakāyika class of gods. // Vi_98.38 //
+O you of the Mahākāyika class. // Vi_98.39 //
+O you of the Mahārājika class. // Vi_98.40 //
+O you of the Caturmahārājika class. // Vi_98.41 //
+O radiant one. // Vi_98.42 //
+O greatly radiant one. // Vi_98.43 //
+O you who are seven. // Vi_98.44 //
+O you of great fortune. // Vi_98.45 //
+O sound. // Vi_98.46 //
+O Tuṣita god. // Vi_98.47 //
+O great Tuṣita god. // Vi_98.48 //
+O Pratardana. // Vi_98.49 //
+O Parinirmita god. // Vi_98.50 //
+O Aparinirmita god. // Vi_98.51 //
+O you who have all under your control. // Vi_98.52 //
+O sacrifice. // Vi_98.53 //
+O great sacrifice. // Vi_98.54 //
+O you of the yoga of sacrifice. // Vi_98.55 //
+O you who are attainable by sacrifice. // Vi_98.56 //
+O you who are the goal of sacrifice. // Vi_98.57 //
+O unconquered one. // Vi_98.58 //
+O Vaikuṇṭha. // Vi_98.59 //
+O boundless one. // Vi_98.60 //
+O supreme one. // Vi_98.61 //
+O ancient one. // Vi_98.62 //
+O you who are worthy of being recorded. // Vi_98.63 //
+O supporter of creatures. // Vi_98.64 //
+O bearer of the wonderful peacock feather. // Vi_98.65 //
+O taker of the share of the sacrifice. // Vi_98.66 //
+O taker of the sacrificial cake. // Vi_98.67 //
+O lord of the universe. // Vi_98.68 //
+O supporter of the universe. // Vi_98.69 //
+O you of pure fame. // Vi_98.70 //
+O you who are worshipped by the infallible. // Vi_98.71 //
+O you whose flame is clarified butter. // Vi_98.72 //
+O wielder of the broken axe. // Vi_98.73 //
+O you with a lotus in your navel. // Vi_98.74 //
+O holder of the lotus. // Vi_98.75 //
+O supporter of the lotus-holder. // Vi_98.76 //
+O Hṛṣīkeśa[^4]. // Vi_98.77 //
+O you with a single horn. // Vi_98.78 //
+O great boar. // Vi_98.79 //
+O Druhiṇa. // Vi_98.80 //
+O Acyuta. // Vi_98.81 //
+O Ananta. // Vi_98.82 //
+O Puruṣa. // Vi_98.83 //
+O great Puruṣa. // Vi_98.84 //
+O Kapila. // Vi_98.85 //
+O teacher of Sāṃkhya. // Vi_98.86 //
+O Viṣvaksena. // Vi_98.87 //
+O Dharma. // Vi_98.88 //
+O giver of *dharma* (धर्म). // Vi_98.89 //
+O you whose limbs are *dharma* (धर्म). // Vi_98.90 //
+O giver of the wealth of *dharma* (धर्म). // Vi_98.91 //
+O giver of boons. // Vi_98.92 //
+O Vishnu. // Vi_98.93 //
+O Jiṣṇu. // Vi_98.94 //
+O Sahiṣṇu. // Vi_98.95 //
+O Kṛṣṇa. // Vi_98.96 //
+O lotus-eyed one. // Vi_98.97 //
+O Nārāyaṇa. // Vi_98.98 //
+O supreme goal. // Vi_98.99 //
+O supreme goal of the world. // Vi_98.100 //
+Salutation, salutation to you. // Vi_98.101 //
+
+> Having thus praised with a pleased mind, the Earth, /
+> Vasuṃdharā, having obtained her desire, spoke to the goddess who was facing her. || Vi_98.102 ||

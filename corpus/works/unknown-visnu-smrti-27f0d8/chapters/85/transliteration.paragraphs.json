@@ -1,0 +1,377 @@
+[
+  {
+    "id": "p-963e76",
+    "offset": 0,
+    "text": "Vi_85"
+  },
+  {
+    "id": "p-5b15cb",
+    "offset": 7,
+    "text": "atha puṣkareṣv akṣayaṃ śrāddham // Vi_85.1 //"
+  },
+  {
+    "id": "p-20353c",
+    "offset": 54,
+    "text": "japyahomatapāṃsi ca // Vi_85.2 //"
+  },
+  {
+    "id": "p-316ccb",
+    "offset": 89,
+    "text": "puṣkare snānamātrāt sarvapāpebhyaḥ pūto bhavati // Vi_85.3 //"
+  },
+  {
+    "id": "p-5ad48f",
+    "offset": 152,
+    "text": "evam eva gayāśīrṣe // Vi_85.4 //"
+  },
+  {
+    "id": "p-9e4799",
+    "offset": 186,
+    "text": "vaṭe // Vi_85.5 //"
+  },
+  {
+    "id": "p-91d2e7",
+    "offset": 206,
+    "text": "amarakaṇṭakaparvate // Vi_85.6 //"
+  },
+  {
+    "id": "p-632d58",
+    "offset": 241,
+    "text": "varāhaparvate // Vi_85.7 //"
+  },
+  {
+    "id": "p-17869c",
+    "offset": 270,
+    "text": "yatra kvacana narmadātīre // Vi_85.8 //"
+  },
+  {
+    "id": "p-842e7c",
+    "offset": 311,
+    "text": "yamunātīre // Vi_85.9 //"
+  },
+  {
+    "id": "p-4c9a77",
+    "offset": 337,
+    "text": "gaṅgāyāṃ viśeṣataḥ // Vi_85.10 //"
+  },
+  {
+    "id": "p-58b158",
+    "offset": 372,
+    "text": "kuśāvarte // Vi_85.11 //"
+  },
+  {
+    "id": "p-389882",
+    "offset": 398,
+    "text": "binduke // Vi_85.12 //"
+  },
+  {
+    "id": "p-b8f5ae",
+    "offset": 422,
+    "text": "nīlaparvate // Vi_85.13 //"
+  },
+  {
+    "id": "p-3388a3",
+    "offset": 450,
+    "text": "kanakhale // Vi_85.14 //"
+  },
+  {
+    "id": "p-8e3c8f",
+    "offset": 476,
+    "text": "kubjāmre // Vi_85.15 //"
+  },
+  {
+    "id": "p-5c71e0",
+    "offset": 501,
+    "text": "bhṛgutuṅge // Vi_85.16 //"
+  },
+  {
+    "id": "p-32b2d8",
+    "offset": 528,
+    "text": "kedāre // Vi_85.17 //"
+  },
+  {
+    "id": "p-28daf6",
+    "offset": 551,
+    "text": "mahālaye // Vi_85.18 //"
+  },
+  {
+    "id": "p-1dfb6f",
+    "offset": 576,
+    "text": "naḍantikāyām // Vi_85.19 //"
+  },
+  {
+    "id": "p-665b54",
+    "offset": 605,
+    "text": "sugandhāyām // Vi_85.20 //"
+  },
+  {
+    "id": "p-26dc4d",
+    "offset": 633,
+    "text": "śākaṃbharyām // Vi_85.21 //"
+  },
+  {
+    "id": "p-04d0e5",
+    "offset": 662,
+    "text": "phalgutīrthe // Vi_85.22 //"
+  },
+  {
+    "id": "p-869d26",
+    "offset": 691,
+    "text": "mahāgaṅgāyām // Vi_85.23 //"
+  },
+  {
+    "id": "p-6e4514",
+    "offset": 720,
+    "text": "trihalikāgrāme // Vi_85.24 //"
+  },
+  {
+    "id": "p-96d5c0",
+    "offset": 751,
+    "text": "kumāradhārāyām // Vi_85.25 //"
+  },
+  {
+    "id": "p-6da94e",
+    "offset": 782,
+    "text": "prabhāse // Vi_85.26 //"
+  },
+  {
+    "id": "p-d63058",
+    "offset": 807,
+    "text": "yatra kvacana sarasvatyāṃ viśeṣataḥ // Vi_85.27 //"
+  },
+  {
+    "id": "p-2d596e",
+    "offset": 859,
+    "text": "gaṅgādvāre // Vi_85.28 //"
+  },
+  {
+    "id": "p-8162e8",
+    "offset": 886,
+    "text": "prayāge ca // Vi_85.29 //"
+  },
+  {
+    "id": "p-7a269e",
+    "offset": 913,
+    "text": "gaṅgāsāgarasaṃgame // Vi_85.30 //"
+  },
+  {
+    "id": "p-884c72",
+    "offset": 948,
+    "text": "satataṃ naimiṣāraṇye // Vi_85.31 //"
+  },
+  {
+    "id": "p-cb395d",
+    "offset": 985,
+    "text": "vārāṇasyāṃ viśeṣataḥ // Vi_85.32 //"
+  },
+  {
+    "id": "p-f5ac14",
+    "offset": 1022,
+    "text": "agastyāśrame // Vi_85.33 //"
+  },
+  {
+    "id": "p-903ebf",
+    "offset": 1051,
+    "text": "kaṇVāśrame // Vi_85.34 //"
+  },
+  {
+    "id": "p-eaf46b",
+    "offset": 1078,
+    "text": "kauśikyām // Vi_85.35 //"
+  },
+  {
+    "id": "p-b1948f",
+    "offset": 1104,
+    "text": "sarayūtīre // Vi_85.36 //"
+  },
+  {
+    "id": "p-af20e6",
+    "offset": 1131,
+    "text": "śoṇasya jyotiṣāyāś ca saṃgame // Vi_85.37 //"
+  },
+  {
+    "id": "p-2a97f6",
+    "offset": 1177,
+    "text": "śrīparvate // Vi_85.38 //"
+  },
+  {
+    "id": "p-debcf0",
+    "offset": 1204,
+    "text": "kālodake // Vi_85.39 //"
+  },
+  {
+    "id": "p-e0fa27",
+    "offset": 1229,
+    "text": "uttaramānase // Vi_85.40 //"
+  },
+  {
+    "id": "p-c5457a",
+    "offset": 1258,
+    "text": "baḍabāyām // Vi_85.41 //"
+  },
+  {
+    "id": "p-91f745",
+    "offset": 1284,
+    "text": "mataṅgavāpyām // Vi_85.42 //"
+  },
+  {
+    "id": "p-efc3ae",
+    "offset": 1314,
+    "text": "saptārṣe // Vi_85.43 //"
+  },
+  {
+    "id": "p-be6178",
+    "offset": 1339,
+    "text": "viṣṇupade // Vi_85.44 //"
+  },
+  {
+    "id": "p-862b76",
+    "offset": 1365,
+    "text": "svargamārgapade // Vi_85.45 //"
+  },
+  {
+    "id": "p-83e3cf",
+    "offset": 1397,
+    "text": "godāvaryām // Vi_85.46 //"
+  },
+  {
+    "id": "p-2c0565",
+    "offset": 1424,
+    "text": "gomatyām // Vi_85.47 //"
+  },
+  {
+    "id": "p-1f2594",
+    "offset": 1449,
+    "text": "vetravatyām // Vi_85.48 //"
+  },
+  {
+    "id": "p-d6e7df",
+    "offset": 1477,
+    "text": "vipāśāyām // Vi_85.49 //"
+  },
+  {
+    "id": "p-c9673a",
+    "offset": 1503,
+    "text": "vitastāyām // Vi_85.50 //"
+  },
+  {
+    "id": "p-2977c5",
+    "offset": 1530,
+    "text": "śatadrūtīre // Vi_85.51 //"
+  },
+  {
+    "id": "p-c6fbd9",
+    "offset": 1558,
+    "text": "candrabhāgāyām // Vi_85.52 //"
+  },
+  {
+    "id": "p-16b50c",
+    "offset": 1589,
+    "text": "irāvatyām // Vi_85.53 //"
+  },
+  {
+    "id": "p-2795cf",
+    "offset": 1615,
+    "text": "sindhos tīre // Vi_85.54 //"
+  },
+  {
+    "id": "p-b52499",
+    "offset": 1644,
+    "text": "dakṣiṇe pañcanade // Vi_85.55 //"
+  },
+  {
+    "id": "p-dfa8bd",
+    "offset": 1678,
+    "text": "ausaje // Vi_85.56 //"
+  },
+  {
+    "id": "p-37d286",
+    "offset": 1701,
+    "text": "evamādiṣv athānyeṣu tīrtheṣu // Vi_85.57 //"
+  },
+  {
+    "id": "p-c8316e",
+    "offset": 1746,
+    "text": "saridvarāsu // Vi_85.58 //"
+  },
+  {
+    "id": "p-af2735",
+    "offset": 1774,
+    "text": "sarveṣv api svabhāveṣu // Vi_85.59 //"
+  },
+  {
+    "id": "p-c91b67",
+    "offset": 1813,
+    "text": "pulineṣu // Vi_85.60 //"
+  },
+  {
+    "id": "p-0d1acd",
+    "offset": 1838,
+    "text": "prasravaṇeṣu // Vi_85.61 //"
+  },
+  {
+    "id": "p-ae24e9",
+    "offset": 1867,
+    "text": "parvateṣu // Vi_85.62 //"
+  },
+  {
+    "id": "p-0db7e4",
+    "offset": 1893,
+    "text": "nikuñjeṣu // Vi_85.63 //"
+  },
+  {
+    "id": "p-0f4213",
+    "offset": 1919,
+    "text": "vaneṣu // Vi_85.64 //"
+  },
+  {
+    "id": "p-49abb1",
+    "offset": 1942,
+    "text": "upavaneṣu // Vi_85.65 //"
+  },
+  {
+    "id": "p-93239e",
+    "offset": 1968,
+    "text": "gomayenopalipteṣu gṛheṣu // Vi_85.66 //"
+  },
+  {
+    "id": "p-f44b5d",
+    "offset": 2009,
+    "text": "manojñeṣu // Vi_85.67 //"
+  },
+  {
+    "id": "p-758295",
+    "offset": 2035,
+    "text": "atra ca pitṛgītā gāthā bhavanti // Vi_85.68 //"
+  },
+  {
+    "id": "p-dcc013",
+    "offset": 2083,
+    "text": "kule 'smākaṃ sa jantuḥ syād yo no dadyāj jalāñjalīn  /"
+  },
+  {
+    "id": "p-12189c",
+    "offset": 2139,
+    "text": "nadīṣu bahutoyāsu śītalāsu viśeṣataḥ  || Vi_85.69 ||"
+  },
+  {
+    "id": "p-b9f1c8",
+    "offset": 2193,
+    "text": "api jāyeta so 'smākaṃ kule kaścin narottamaḥ  /"
+  },
+  {
+    "id": "p-c3eac8",
+    "offset": 2242,
+    "text": "gayāśīrṣe vaṭe śrāddhaṃ yo naḥ kuryāt samāhitaḥ  || Vi_85.70 ||"
+  },
+  {
+    "id": "p-0bb001",
+    "offset": 2307,
+    "text": "eṣṭavyā bahavaḥ putrā yady eko 'pi gayāṃ vrajet  /"
+  },
+  {
+    "id": "p-3b9ce5",
+    "offset": 2359,
+    "text": "yajeta vāśvamedhena nīlaṃ vā vṛṣam utsṛjet  || Vi_85.71 ||"
+  }
+]

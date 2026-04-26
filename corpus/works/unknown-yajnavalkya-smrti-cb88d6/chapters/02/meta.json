@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+  "work_title": "Yājñavalkya Smṛti",
+  "chapter_number": 2,
+  "chapter_title": "Chapter 2",
+  "chapter_slug": "02",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "20c36b3d-5c32-4cbf-8262-95fc4b7ce0b8",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 10172,
+      "paragraph_count": 334,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "2fe865ab-3e54-4642-bf24-8de73ed8c75a",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 4671,
+      "paragraph_count": 641,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

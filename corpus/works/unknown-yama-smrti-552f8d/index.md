@@ -12,8 +12,8 @@ language: Sanskrit
 language_direction: ltr
 description: 
 difficulty: Intermediate
-total_logical_chapters: 1
-total_variant_entries: 2
+total_logical_chapters: 2
+total_variant_entries: 4
 cover_image_url: "/objects/uploads/3cf956ea-c12e-486b-9265-be37c264c0aa"
 thothica_role: catalog
 ---
@@ -25,3 +25,4 @@ thothica_role: catalog
 ## Chapters
 
 01. [Chapter 1](./chapters/01/) — verse, 2 variants
+02. [Chapter 2](./chapters/02/) — verse, 2 variants

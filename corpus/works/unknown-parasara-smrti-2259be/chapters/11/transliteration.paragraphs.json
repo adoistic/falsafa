@@ -1,0 +1,557 @@
+[
+  {
+    "id": "p-2dcad2",
+    "offset": 0,
+    "text": "amedhyareto gomāṃsaṃ caṇḍālānnam athāpi vā  /"
+  },
+  {
+    "id": "p-329d0b",
+    "offset": 47,
+    "text": "yadi bhuktaṃ tu vipreṇa kṛcchraṃ cāndrāyaṇaṃ caret (II,1, p. 364)  // Par_11.1 //"
+  },
+  {
+    "id": "p-a00711",
+    "offset": 130,
+    "text": "tathaiva kṣatriyo vaiśyo 'py ardhaṃ cāndrāyaṇaṃ caret  /"
+  },
+  {
+    "id": "p-fc46d1",
+    "offset": 188,
+    "text": "śūdro 'py evaṃ yadā bhuṅkte prājāpatyaṃ samācaret (II,1, p. 374)  // Par_11.2 //"
+  },
+  {
+    "id": "p-1be1e7",
+    "offset": 270,
+    "text": "pañcagavyaṃ pibec chūdro brahmakūrcaṃ pibed dvijaḥ  /"
+  },
+  {
+    "id": "p-812451",
+    "offset": 325,
+    "text": "ekadvitricatur gā vā dadyād viprādyanukramāt  // Par_11.3 //"
+  },
+  {
+    "id": "p-9ee94e",
+    "offset": 387,
+    "text": "śūdrānnaṃ sūtakānnaṃ ca abhojyasyānnam eva ca  /"
+  },
+  {
+    "id": "p-d9ada6",
+    "offset": 437,
+    "text": "śaṅkitaṃ pratiṣiddhānnaṃ pūrvocchiṣṭaṃ tathaiva ca (II,1, p. 375)  // Par_11.4 //"
+  },
+  {
+    "id": "p-726275",
+    "offset": 520,
+    "text": "yadi bhuktaṃ tu vipreṇa ajñānād āpadāpi vā  /"
+  },
+  {
+    "id": "p-8d340f",
+    "offset": 567,
+    "text": "jñātvā samācaret kṛcchraṃ brahmakūrcaṃ tu pāvanam  // Par_11.5 //"
+  },
+  {
+    "id": "p-62bd93",
+    "offset": 634,
+    "text": "bālair nakulamārjārair annam ucchiṣṭitaṃ yadā  /"
+  },
+  {
+    "id": "p-1e73cf",
+    "offset": 684,
+    "text": "tiladarbhodakaiḥ prokṣya śudhyate nātrasaṃśayaḥ (II,1, p. 390)  // Par_11.6 //"
+  },
+  {
+    "id": "p-e09103",
+    "offset": 764,
+    "text": "ekapaṅktyupaviṣṭānāṃ viprāṇāṃ saha bhojane  /"
+  },
+  {
+    "id": "p-681d19",
+    "offset": 811,
+    "text": "yady eko 'pi tyajet pātraṃ śeṣam annaṃ na bhojayet (II,1, p. 398)  // Par_11.7 //"
+  },
+  {
+    "id": "p-b59af2",
+    "offset": 894,
+    "text": "mohād bhuñjīta yas tatra paṅktāv ucchiṣṭabhojane  /"
+  },
+  {
+    "id": "p-391d36",
+    "offset": 947,
+    "text": "prāyaścittaṃ cared vipraḥ kṛcchraṃ sāṃtapanaṃ tathā  // Par_11.8 //"
+  },
+  {
+    "id": "p-6fd630",
+    "offset": 1016,
+    "text": "pīyūṣaṃ śvetalaśunaṃ vṛntākaphalagṛñjane  /"
+  },
+  {
+    "id": "p-caf095",
+    "offset": 1061,
+    "text": "palāṇḍuvṛkṣaniryāsa- devasvakavakāni ca (II,1, p. 399)  // Par_11.9 //"
+  },
+  {
+    "id": "p-bb010a",
+    "offset": 1133,
+    "text": "uṣṭrīkṣīram avikṣīram ajñānād bhuñjate dvijaḥ  /"
+  },
+  {
+    "id": "p-38b559",
+    "offset": 1183,
+    "text": "trirātram upavāsena pañcagavyena śudhyati  // Par_11.10 //"
+  },
+  {
+    "id": "p-b06265",
+    "offset": 1243,
+    "text": "maṇḍūkaṃ bhakṣayitvā tu mūṣikāmāṃsam eva ca  /"
+  },
+  {
+    "id": "p-0d7bce",
+    "offset": 1291,
+    "text": "jñātvā vipras tv ahorātraṃ yāvakānnena śudhyati (II,1, p. 405)  // Par_11.11 //"
+  },
+  {
+    "id": "p-b18148",
+    "offset": 1372,
+    "text": "kṣatriyaś cāpi vaiśyaś ca kriyāvantau śucivratau  /"
+  },
+  {
+    "id": "p-7b3e1e",
+    "offset": 1425,
+    "text": "tadgṛhe tu dvijair bhojyaṃ havyakavyeṣu nityaśaḥ (II,1, p. 410)  // Par_11.12 //"
+  },
+  {
+    "id": "p-b3f150",
+    "offset": 1507,
+    "text": "ghṛtaṃ tailaṃ tathā kṣīraṃ bhakṣyaṃ snehena pācitam  /"
+  },
+  {
+    "id": "p-79790e",
+    "offset": 1563,
+    "text": "gatvā nadītaṭe vipro bhuñjīyāc chūdrabhojanam (II,1, p. 411)  // Par_11.13 //"
+  },
+  {
+    "id": "p-b6cffa",
+    "offset": 1642,
+    "text": "madyamāṃsarataṃ nityaṃ nīcakarmapravartakam  /"
+  },
+  {
+    "id": "p-1defbc",
+    "offset": 1690,
+    "text": "taṃ śūdraṃ varjayed vipraḥ śvapākam iva dūrataḥ (II,1, p. 416)  // Par_11.14 //"
+  },
+  {
+    "id": "p-c095eb",
+    "offset": 1771,
+    "text": "dvijaśuśrūṣaṇaratān madyamāṃsavivarjitān  /"
+  },
+  {
+    "id": "p-e4c674",
+    "offset": 1816,
+    "text": "svakarmaṇi ratān nityaṃ na tān śūdrān tyajed dvijaḥ  // Par_11.15 //"
+  },
+  {
+    "id": "p-19abd2",
+    "offset": 1886,
+    "text": "ajñānād bhuñjate viprāḥ sūtake mṛtake 'pi vā  /"
+  },
+  {
+    "id": "p-1b0e2e",
+    "offset": 1935,
+    "text": "prāyaścittaṃ kathaṃ teṣāṃ varṇe varṇe vinirdiśet (II,1, p. 417)  // Par_11.16 //"
+  },
+  {
+    "id": "p-0df2cc",
+    "offset": 2017,
+    "text": "gāyatryaṣṭasahasreṇa śuddhiḥ syāc chūdrasūtake  /"
+  },
+  {
+    "id": "p-e6b4bd",
+    "offset": 2068,
+    "text": "vaiśye pañcasahasreṇa trisahasreṇa kṣatriye  // Par_11.17 //"
+  },
+  {
+    "id": "p-b9fb3c",
+    "offset": 2130,
+    "text": "brāhmaṇasya yadā bhuṅkte dve sahasre tu dāpayet  /"
+  },
+  {
+    "id": "p-50f32e",
+    "offset": 2182,
+    "text": "athavā vāmadaivyena sāmnaivaikena śudhyati  // Par_11.18 //"
+  },
+  {
+    "id": "p-67aeee",
+    "offset": 2243,
+    "text": "śuṣkānnaṃ gorasaṃ snehaṃ śūdraveśmana āgatam  /"
+  },
+  {
+    "id": "p-38aaf1",
+    "offset": 2292,
+    "text": "pakvaṃ vipragṛhe bhuktaṃ bhojyaṃ tan manur abravīt (II,1, p. 427)  // Par_11.19 //"
+  },
+  {
+    "id": "p-e5a8cf",
+    "offset": 2376,
+    "text": "āpatkāleṣu vipreṇa bhuktaṃ śūdragṛhe yadi  /"
+  },
+  {
+    "id": "p-eb48aa",
+    "offset": 2422,
+    "text": "manastāpena śudhyeta drupadāṃ vā japec chatam  // Par_11.20 //"
+  },
+  {
+    "id": "p-172a7b",
+    "offset": 2486,
+    "text": "dāsanāpitagopāla- kulamitrārdhasīliṇaḥ  /"
+  },
+  {
+    "id": "p-6317fd",
+    "offset": 2529,
+    "text": "ete śūdreṣu bhojyānnā yaś cātmānaṃ nivedayet (II,1, p. 429)  // Par_11.21 //"
+  },
+  {
+    "id": "p-de9c8e",
+    "offset": 2607,
+    "text": "śūdrakanyāsamutpanno brāhmaṇena tu saṃskṛtaḥ  /"
+  },
+  {
+    "id": "p-1bef89",
+    "offset": 2656,
+    "text": "saṃskārāt tu bhaved dāsaḥ asaṃskārāt tu nāpitaḥ  // Par_11.22 //"
+  },
+  {
+    "id": "p-aa4e42",
+    "offset": 2722,
+    "text": "kṣatriyāc chūdrakanyāyāṃ samutpannas tu yaḥ sutaḥ  /"
+  },
+  {
+    "id": "p-b29165",
+    "offset": 2776,
+    "text": "sa gopāla iti jñeyo bhojyo viprair na saṃśayaḥ  // Par_11.23 //"
+  },
+  {
+    "id": "p-b51b5d",
+    "offset": 2841,
+    "text": "vaiśyakanyāsamutpanno brāhmaṇena tu saṃskṛtaḥ  /"
+  },
+  {
+    "id": "p-de246c",
+    "offset": 2891,
+    "text": "sa hy ārdhika iti jñeyo bhojyo viprair na saṃśayaḥ  // Par_11.24 //"
+  },
+  {
+    "id": "p-fe13a4",
+    "offset": 2960,
+    "text": "bhāṇḍasthitam abhojyeṣu jalaṃ dadhi ghṛtaṃ payaḥ  /"
+  },
+  {
+    "id": "p-0f7e79",
+    "offset": 3013,
+    "text": "akāmatas tu yo bhuṅkte prāyaścittaṃ kathaṃ bhavet (II,1, p. 432)  // Par_11.25 //"
+  },
+  {
+    "id": "p-8681e8",
+    "offset": 3096,
+    "text": "brāhmaṇaḥ kṣatriyo vaiśyaḥ śūdro vā upasarpati  /"
+  },
+  {
+    "id": "p-5b702c",
+    "offset": 3147,
+    "text": "brahmakūrcopavāsena yājyavarṇasya niṣkṛtiḥ  // Par_11.26 //"
+  },
+  {
+    "id": "p-03e506",
+    "offset": 3208,
+    "text": "śūdrāṇāṃ nopavāsaḥ syāc chūdro dānena śudhyati  /"
+  },
+  {
+    "id": "p-bd7497",
+    "offset": 3259,
+    "text": "brahmakūrcam ahorātraṃ śvapākam api śodhayet  // Par_11.27 //"
+  },
+  {
+    "id": "p-e586eb",
+    "offset": 3322,
+    "text": "gomūtraṃ gomayaṃ kṣīraṃ dadhi sarpiḥ kuśodakam  /"
+  },
+  {
+    "id": "p-ae6929",
+    "offset": 3373,
+    "text": "nirdiṣṭaṃ pañcagavyaṃ tu pavitraṃ pāpaśodhanam (II,1, p. 433)  // Par_11.28 //"
+  },
+  {
+    "id": "p-242401",
+    "offset": 3453,
+    "text": "gomūtraṃ kṛṣṇavarṇāyāḥ śvetāyāś caiva gomayam  /"
+  },
+  {
+    "id": "p-703d14",
+    "offset": 3503,
+    "text": "payaś ca tāmravarṇāyā raktāyā gṛhyate dadhi  // Par_11.29 //"
+  },
+  {
+    "id": "p-145595",
+    "offset": 3565,
+    "text": "kapilāyā ghṛtaṃ grāhyaṃ sarvaṃ kāpilam eva vā  /"
+  },
+  {
+    "id": "p-b07baa",
+    "offset": 3615,
+    "text": "mūtram ekapalaṃ dadyād aṅguṣṭhārdhaṃ tu gomayam (II,1, p. 434)  // Par_11.30 //"
+  },
+  {
+    "id": "p-83b7d5",
+    "offset": 3696,
+    "text": "kṣīraṃ saptapalaṃ dadyād dadhi tripalam ucyate  /"
+  },
+  {
+    "id": "p-a69348",
+    "offset": 3747,
+    "text": "ghṛtam ekapalaṃ dadyāt palam ekaṃ kuśodakam  // Par_11.31 //"
+  },
+  {
+    "id": "p-5a7e17",
+    "offset": 3809,
+    "text": "gāyatryādāya gomūtraṃ gandhadvāreti gomayam  /"
+  },
+  {
+    "id": "p-a41180",
+    "offset": 3857,
+    "text": "āpyāyasveti ca kṣīraṃ dadhikrāvṇas tathā dadhi (II,1, p. 435)  // Par_11.32 //"
+  },
+  {
+    "id": "p-a65b29",
+    "offset": 3937,
+    "text": "tejo 'si śukram ity ājyaṃ devasya tvā kuśodakam  /"
+  },
+  {
+    "id": "p-b6faaa",
+    "offset": 3989,
+    "text": "pañcagavyam ṛcā pūtaṃ sthāpayed agnisaṃnidhau  // Par_11.33 //"
+  },
+  {
+    "id": "p-0423df",
+    "offset": 4053,
+    "text": "āpohiṣṭheti cāloḍya mānastoketi mantrayet  /"
+  },
+  {
+    "id": "p-7d1dbb",
+    "offset": 4099,
+    "text": "saptāvarās tu ye darbhā achinnāgrāḥ śukatviṣaḥ (II,1, p. 436)  // Par_11.34 //"
+  },
+  {
+    "id": "p-0a7cfa",
+    "offset": 4179,
+    "text": "etair uddhṛtya hotavyaṃ pañcagavyaṃ yathāvidhi  /"
+  },
+  {
+    "id": "p-bac5bc",
+    "offset": 4230,
+    "text": "irāvatī idaṃ viṣṇur mānastoketi śaṃvatī (II,1, p. 437)  // Par_11.35 //"
+  },
+  {
+    "id": "p-2e4160",
+    "offset": 4303,
+    "text": "etābhiś caiva hotavyaṃ hutaśeṣaṃ pibed dvijaḥ  /"
+  },
+  {
+    "id": "p-994535",
+    "offset": 4353,
+    "text": "āloḍya praṇavenaiva nirmanthya praṇavena tu (II,1, p. 438)  // Par_11.36 //"
+  },
+  {
+    "id": "p-f0db19",
+    "offset": 4430,
+    "text": "uddhṛtya praṇavenaiva pibec ca praṇavena tu  /"
+  },
+  {
+    "id": "p-07bda1",
+    "offset": 4478,
+    "text": "yat tv asthigataṃ pāpaṃ dehe tiṣṭhati dehinām  // Par_11.37 //"
+  },
+  {
+    "id": "p-9cef55",
+    "offset": 4542,
+    "text": "brahmakūrco dahet sarvaṃ pradīptāgnir ivendhanam  /"
+  },
+  {
+    "id": "p-f26da8",
+    "offset": 4595,
+    "text": "pavitraṃ triṣu lokeṣu devatābhir adhiṣṭhitam (II,1, p. 439)  // Par_11.38 //"
+  },
+  {
+    "id": "p-5a6607",
+    "offset": 4673,
+    "text": "varuṇaś caiva gomūtre gomaye havyavāhanaḥ  /"
+  },
+  {
+    "id": "p-3e9eae",
+    "offset": 4719,
+    "text": "dadhni vāyuḥ samuddiṣṭaḥ somaḥ kṣīre ghṛte raviḥ  // Par_11.39 //"
+  },
+  {
+    "id": "p-4956fe",
+    "offset": 4786,
+    "text": "pibataḥ patitaṃ toyaṃ bhājane mukhaniḥsṛtam  /"
+  },
+  {
+    "id": "p-0713d6",
+    "offset": 4834,
+    "text": "apeyaṃ tad vijānīyāt pītvā cāndrāyaṇaṃ caret (II,1, p. 440)  // Par_11.40 //"
+  },
+  {
+    "id": "p-d5aa03",
+    "offset": 4912,
+    "text": "kūpe ca patitaṃ dṛṣṭvā śvasṛgālau ca markaṭam  /"
+  },
+  {
+    "id": "p-4a3df3",
+    "offset": 4962,
+    "text": "asthicarmādi patitaṃ pītvāmedhyā apo dvijaḥ  // Par_11.41 //"
+  },
+  {
+    "id": "p-07c548",
+    "offset": 5024,
+    "text": "nāraṃ tu kuṇapaṃ kākaṃ viḍvarāhakharoṣṭrakam  /"
+  },
+  {
+    "id": "p-810541",
+    "offset": 5073,
+    "text": "gāvayaṃ saupratīkaṃ ca māyūraṃ khāḍgakaṃ tathā  // Par_11.42 //"
+  },
+  {
+    "id": "p-cb2339",
+    "offset": 5138,
+    "text": "vaiyāghram ārkṣaṃ saiṃhaṃ vā kūpe yadi nimajjati  /"
+  },
+  {
+    "id": "p-3c4688",
+    "offset": 5191,
+    "text": "taṭākasyātha duṣṭasya pītaṃ syād udakaṃ yadi (II,1, p. 441)  // Par_11.43 //"
+  },
+  {
+    "id": "p-38b990",
+    "offset": 5269,
+    "text": "prāyaścittaṃ bhavet puṃsaḥ krameṇaitena sarvaśaḥ  /"
+  },
+  {
+    "id": "p-1542d1",
+    "offset": 5322,
+    "text": "vipraḥ śudhyet trirātreṇa kṣatriyas tu dinadvayāt  // Par_11.44 //"
+  },
+  {
+    "id": "p-d157c5",
+    "offset": 5390,
+    "text": "ekāhena tu vaiśyas tu śūdro naktena śudhyati  /"
+  },
+  {
+    "id": "p-c9c7b4",
+    "offset": 5439,
+    "text": "parapākanivṛttasya parapākaratasya ca (II,1, p. 446)  // Par_11.45 //"
+  },
+  {
+    "id": "p-1b395f",
+    "offset": 5510,
+    "text": "apacasya ca bhuktvānnaṃ dvijaś cāndrāyaṇaṃ caret  /"
+  },
+  {
+    "id": "p-48b2f0",
+    "offset": 5563,
+    "text": "apacasya ca yad dānaṃ dātuś cāsya kutaḥ phalam  // Par_11.46 //"
+  },
+  {
+    "id": "p-01f743",
+    "offset": 5628,
+    "text": "dātā pratigrahītā ca tau dvau nirayagāminau  /"
+  },
+  {
+    "id": "p-fdea63",
+    "offset": 5676,
+    "text": "gṛhītvāgniṃ samāropya pañcayajñān na nirvapet (II,1, p. 447)  // Par_11.47 //"
+  },
+  {
+    "id": "p-fe8ae1",
+    "offset": 5755,
+    "text": "parapākanivṛtto 'sau munibhiḥ parikīrtitaḥ  /"
+  },
+  {
+    "id": "p-fe4f5f",
+    "offset": 5802,
+    "text": "pañcayajñān svayaṃ kṛtvā parānnenopajīvati  // Par_11.48 //"
+  },
+  {
+    "id": "p-c73e2e",
+    "offset": 5863,
+    "text": "satataṃ prātar utthāya parapākaratas tu saḥ  /"
+  },
+  {
+    "id": "p-b4ccbe",
+    "offset": 5911,
+    "text": "gṛhasthadharmā yo vipro dadāti parivarjitaḥ  // Par_11.49 //"
+  },
+  {
+    "id": "p-94ceab",
+    "offset": 5973,
+    "text": "ṛṣibhir dharmatattvajñair apacaḥ parikīrtitaḥ  /"
+  },
+  {
+    "id": "p-58f6ef",
+    "offset": 6023,
+    "text": "yuge yuge tu ye dharmās teṣu teṣu ca ye dvijāḥ (II,1, p. 451)  // Par_11.50 //"
+  },
+  {
+    "id": "p-31c4d2",
+    "offset": 6103,
+    "text": "teṣāṃ nindā na kartavyā yugarūpā hi te dvijāḥ  /"
+  },
+  {
+    "id": "p-2dbca3",
+    "offset": 6153,
+    "text": "huṃkāraṃ brāhmaṇasyoktvā tvaṃkāraṃ ca garīyasaḥ  // Par_11.51 //"
+  },
+  {
+    "id": "p-06eab8",
+    "offset": 6219,
+    "text": "snātvā tiṣṭhann ahaḥ śeṣam abhivādya prasādayet  /"
+  },
+  {
+    "id": "p-d4ebf6",
+    "offset": 6271,
+    "text": "tāḍayitvā tṛṇenāpi kaṇṭhe baddhvāpi vāsasā  // Par_11.52 //"
+  },
+  {
+    "id": "p-c4d356",
+    "offset": 6332,
+    "text": "vivādenāpi nirjitya praṇipatya prasādayet  /"
+  },
+  {
+    "id": "p-d38233",
+    "offset": 6378,
+    "text": "avagūrya tv ahorātraṃ trirātraṃ kṣitipātane (II,1, p. 455)  // Par_11.53 //"
+  },
+  {
+    "id": "p-2e0828",
+    "offset": 6455,
+    "text": "atikṛcchraṃ ca rudhire kṛcchro 'bhyantaraśoṇite  /"
+  },
+  {
+    "id": "p-64995d",
+    "offset": 6507,
+    "text": "navāham atikṛcchrī syāt pāṇipūrānnabhojanaḥ (II,1, p. 459)  // Par_11.54 //"
+  },
+  {
+    "id": "p-0e8f6e",
+    "offset": 6584,
+    "text": "trirātram upavāsī syād atikṛcchraḥ sa ucyate  /"
+  },
+  {
+    "id": "p-8971ed",
+    "offset": 6633,
+    "text": "sarveṣām eva pāpānāṃ saṃkare samupasthite (II,1, p. 460)  // Par_11.55 //"
+  },
+  {
+    "id": "p-77d639",
+    "offset": 6708,
+    "text": "daśasāhasram abhyastā gāyatrī śodhanaṃ paraṃ  // Par_11.56 //"
+  }
+]

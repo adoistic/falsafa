@@ -11,26 +11,26 @@
   "default_variant": "translation.md",
   "variants": [
     {
-      "file": "transliteration.md",
-      "content_type": "transliteration",
-      "variant_id": "4cb391c3-750d-44a1-8b0a-aee891d778f4",
-      "language": "Sanskrit",
-      "source_language": "Sanskrit",
-      "script": "latin",
-      "word_count": 10072,
-      "paragraph_count": 1178,
-      "has_image": false,
-      "source_url": null
-    },
-    {
       "file": "translation.md",
       "content_type": "translation",
       "variant_id": "a5cda983-0a8e-492e-b716-990763068947",
       "language": "english",
       "source_language": "Sanskrit",
       "script": "latin",
-      "word_count": 19086,
-      "paragraph_count": 594,
+      "word_count": 2269,
+      "paragraph_count": 70,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "4cb391c3-750d-44a1-8b0a-aee891d778f4",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1171,
+      "paragraph_count": 137,
       "has_image": false,
       "source_url": null
     }

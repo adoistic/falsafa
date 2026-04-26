@@ -1,0 +1,3362 @@
+[
+  {
+    "id": "p-8ebe98",
+    "offset": 0,
+    "text": "puruṣasya striyāś caiva dharme vartmani tiṣṭhatoḥ  /"
+  },
+  {
+    "id": "p-aa687e",
+    "offset": 54,
+    "text": "saṃyoge viprayoge ca dharmān vakṣyāmi śāśvatān  // Mn_9.1 //"
+  },
+  {
+    "id": "p-400c2f",
+    "offset": 116,
+    "text": "asvatantrāḥ striyaḥ kāryāḥ puruṣaiḥ svair divāniśam  /"
+  },
+  {
+    "id": "p-4d51c2",
+    "offset": 172,
+    "text": "viṣayeṣu ca sajjantyaḥ saṃsthāpyā ātmano vaśe  // Mn_9.2 //"
+  },
+  {
+    "id": "p-e0d8f6",
+    "offset": 233,
+    "text": "pitā rakṣati kaumāre bhartā rakṣati yauvane  /"
+  },
+  {
+    "id": "p-c6e2cf",
+    "offset": 281,
+    "text": "rakṣanti sthavire putrā na strī svātantryam arhati  // Mn_9.3 //"
+  },
+  {
+    "id": "p-16b1ae",
+    "offset": 347,
+    "text": "kāle 'dātā pitā vācyo vācyaś cānupayan patiḥ  /"
+  },
+  {
+    "id": "p-fbf947",
+    "offset": 396,
+    "text": "mṛte bhartari putras tu vācyo mātur arakṣitā  // Mn_9.4 //"
+  },
+  {
+    "id": "p-5a12c8",
+    "offset": 456,
+    "text": "sūkṣmebhyo 'pi prasaṅgebhyaḥ striyo rakṣyā viśeṣataḥ  /"
+  },
+  {
+    "id": "p-0de363",
+    "offset": 513,
+    "text": "dvayor hi kulayoḥ śokam āvaheyur arakṣitāḥ  // Mn_9.5 //"
+  },
+  {
+    "id": "p-7ba801",
+    "offset": 571,
+    "text": "imaṃ hi sarvavarṇānāṃ paśyanto dharmam uttamam  /"
+  },
+  {
+    "id": "p-29052a",
+    "offset": 622,
+    "text": "yatante rakṣituṃ bhāryāṃ bhartāro durbalā api  // Mn_9.6 //"
+  },
+  {
+    "id": "p-cbb94e",
+    "offset": 683,
+    "text": "svāṃ prasūtiṃ caritraṃ ca kulam ātmānam eva ca  /"
+  },
+  {
+    "id": "p-c86e05",
+    "offset": 734,
+    "text": "svaṃ ca dharmaṃ prayatnena jāyāṃ rakṣan hi rakṣati  // Mn_9.7 //"
+  },
+  {
+    "id": "p-4385e4",
+    "offset": 800,
+    "text": "patir bhāryāṃ saṃpraviśya garbho bhūtveha jāyate  /"
+  },
+  {
+    "id": "p-834988",
+    "offset": 853,
+    "text": "jāyāyās tad dhi jāyātvaṃ yad asyāṃ jāyate punaḥ  // Mn_9.8 //"
+  },
+  {
+    "id": "p-01b9d0",
+    "offset": 916,
+    "text": "yādṛśaṃ bhajate hi strī sutaṃ sūte tathāvidham  /"
+  },
+  {
+    "id": "p-bec1d1",
+    "offset": 967,
+    "text": "tasmāt prajāviśuddhyarthaṃ striyaṃ rakṣet prayatnataḥ  // Mn_9.9 //"
+  },
+  {
+    "id": "p-48f285",
+    "offset": 1036,
+    "text": "na kaś cid yoṣitaḥ śaktaḥ prasahya parirakṣitum  /"
+  },
+  {
+    "id": "p-e7d7cb",
+    "offset": 1088,
+    "text": "etair upāyayogais tu śakyās tāḥ parirakṣitum  // Mn_9.10 //"
+  },
+  {
+    "id": "p-7f55ae",
+    "offset": 1149,
+    "text": "arthasya saṃgrahe caināṃ vyaye caiva niyojayet  /"
+  },
+  {
+    "id": "p-a8ed5f",
+    "offset": 1200,
+    "text": "śauce dharme 'nnapaktyāṃ ca pāriṇāhyasya vekṣaṇe  // Mn_9.11 //"
+  },
+  {
+    "id": "p-3c2d26",
+    "offset": 1265,
+    "text": "arakṣitā gṛhe ruddhāḥ puruṣair āptakāribhiḥ  /"
+  },
+  {
+    "id": "p-f7a5d2",
+    "offset": 1313,
+    "text": "ātmānam ātmanā yās tu rakṣeyus tāḥ surakṣitāḥ  // Mn_9.12 //"
+  },
+  {
+    "id": "p-f8226d",
+    "offset": 1375,
+    "text": "pānaṃ durjanasaṃsargaḥ patyā ca viraho 'ṭanam  /"
+  },
+  {
+    "id": "p-4e5e77",
+    "offset": 1425,
+    "text": "svapno 'nyagehavāsaś ca nārīsaṃdūṣaṇāni ṣaṭ  // Mn_9.13 //"
+  },
+  {
+    "id": "p-fa7eb5",
+    "offset": 1485,
+    "text": "naitā rūpaṃ parīkṣante nāsāṃ vayasi saṃsthitiḥ  /"
+  },
+  {
+    "id": "p-17acff",
+    "offset": 1536,
+    "text": "surūpaṃ vā virūpaṃ vā pumān ity eva bhuñjate  // Mn_9.14 //"
+  },
+  {
+    "id": "p-14ae10",
+    "offset": 1597,
+    "text": "pauṃścalyāc calacittāc ca naisnehyāc ca svabhāvataḥ  /"
+  },
+  {
+    "id": "p-2c7caf",
+    "offset": 1653,
+    "text": "rakṣitā yatnato 'pīha bhartṛṣv etā vikurvate  // Mn_9.15 //"
+  },
+  {
+    "id": "p-2c5611",
+    "offset": 1714,
+    "text": "evaṃ svabhāvaṃ jñātvāsāṃ prajāpatinisargajam  /"
+  },
+  {
+    "id": "p-6e58e6",
+    "offset": 1763,
+    "text": "paramaṃ yatnam ātiṣṭhet puruṣo rakṣaṇaṃ prati  // Mn_9.16 //"
+  },
+  {
+    "id": "p-5cf969",
+    "offset": 1825,
+    "text": "śayyāsanam alaṅkāraṃ kāmaṃ krodham anārjavam M:anāryatām]  /"
+  },
+  {
+    "id": "p-2b4270",
+    "offset": 1887,
+    "text": "drohabhāvaṃ kucaryāṃ ca strībhyo manur akalpayat  // Mn_9.17 //"
+  },
+  {
+    "id": "p-873310",
+    "offset": 1952,
+    "text": "nāsti strīṇāṃ kriyā mantrair iti dharme vyavasthitiḥ  /"
+  },
+  {
+    "id": "p-5da388",
+    "offset": 2009,
+    "text": "nirindriyā hy amantrāś ca strībhyo 'nṛtam iti sthitiḥ  // Mn_9.18 //"
+  },
+  {
+    "id": "p-467b62",
+    "offset": 2079,
+    "text": "tathā ca śrutayo bahvyo nigītā nigameṣv api  /"
+  },
+  {
+    "id": "p-59be7f",
+    "offset": 2127,
+    "text": "svālakṣaṇyaparīkṣārthaṃ tāsāṃ śṛṇuta niṣkṛtīḥ  // Mn_9.19 //"
+  },
+  {
+    "id": "p-b9a0bd",
+    "offset": 2189,
+    "text": "yan me mātā pralulubhe vicaranty apativratā  /"
+  },
+  {
+    "id": "p-711093",
+    "offset": 2237,
+    "text": "tan me retaḥ pitā vṛṅktām ity asyaitan nidarśanam  // Mn_9.20 //"
+  },
+  {
+    "id": "p-aee982",
+    "offset": 2303,
+    "text": "dhyāyaty aniṣṭaṃ yat kiṃ cit pāṇigrāhasya cetasā  /"
+  },
+  {
+    "id": "p-378475",
+    "offset": 2356,
+    "text": "tasyaiṣa vyabhicārasya nihnavaḥ samyag ucyate  // Mn_9.21 //"
+  },
+  {
+    "id": "p-b9dd63",
+    "offset": 2418,
+    "text": "yādṛgguṇena bhartrā strī saṃyujyeta yathāvidhi  /"
+  },
+  {
+    "id": "p-9913ce",
+    "offset": 2469,
+    "text": "tādṛgguṇā sā bhavati samudreṇeva nimnagā  // Mn_9.22 //"
+  },
+  {
+    "id": "p-649081",
+    "offset": 2526,
+    "text": "akṣamālā vasiṣṭhena saṃyuktādhamayonijā  /"
+  },
+  {
+    "id": "p-51bd7b",
+    "offset": 2570,
+    "text": "śāraṅgī mandapālena jagāmābhyarhaṇīyatām  // Mn_9.23 //"
+  },
+  {
+    "id": "p-24f61a",
+    "offset": 2627,
+    "text": "etāś cānyāś ca loke 'sminn apakṛṣṭaprasūtayaḥ  /"
+  },
+  {
+    "id": "p-f7e764",
+    "offset": 2677,
+    "text": "utkarṣaṃ yoṣitaḥ prāptāḥ svaiḥ svair bhartṛguṇaiḥ śubhaiḥ  // Mn_9.24 //"
+  },
+  {
+    "id": "p-cfe87d",
+    "offset": 2751,
+    "text": "eṣoditā lokayātrā nityaṃ strīpuṃsayoḥ śubhā  /"
+  },
+  {
+    "id": "p-59b635",
+    "offset": 2799,
+    "text": "pretyeha ca sukhodarkān prajādharmān nibodhata  // Mn_9.25 //"
+  },
+  {
+    "id": "p-8adca0",
+    "offset": 2862,
+    "text": "prajanārthaṃ mahābhāgāḥ pūjārhā gṛhadīptayaḥ  /"
+  },
+  {
+    "id": "p-79fe14",
+    "offset": 2911,
+    "text": "striyaḥ śriyaś ca geheṣu na viśeṣo 'sti kaś cana  // Mn_9.26 //"
+  },
+  {
+    "id": "p-28fb24",
+    "offset": 2976,
+    "text": "utpādanam apatyasya jātasya paripālanam  /"
+  },
+  {
+    "id": "p-0a36d8",
+    "offset": 3020,
+    "text": "pratyahaṃ lokayātrāyāḥ pratyakṣaṃ strī nibandhanam  // Mn_9.27 //"
+  },
+  {
+    "id": "p-62f559",
+    "offset": 3087,
+    "text": "apatyaṃ dharmakāryāṇi śuśrūṣā ratir uttamā  /"
+  },
+  {
+    "id": "p-6255ba",
+    "offset": 3134,
+    "text": "dārādhīnas tathā svargaḥ pitṝṇām ātmanaś ca ha  // Mn_9.28 //"
+  },
+  {
+    "id": "p-60e71c",
+    "offset": 3197,
+    "text": "patiṃ yā nābhicarati manovāgdehasaṃyatā  /"
+  },
+  {
+    "id": "p-0e4d47",
+    "offset": 3241,
+    "text": "sā bhartṛlokān āpnoti sadbhiḥ sādhvīti cocyate  // Mn_9.29 //"
+  },
+  {
+    "id": "p-00eb09",
+    "offset": 3304,
+    "text": "vyabhicārāt tu bhartuḥ strī loke prāpnoti nindyatām  /"
+  },
+  {
+    "id": "p-3f0417",
+    "offset": 3360,
+    "text": "sṛgālayoniṃ cāpnoti pāparogaiś ca pīḍyate  // Mn_9.30 //"
+  },
+  {
+    "id": "p-d79054",
+    "offset": 3418,
+    "text": "putraṃ pratyuditaṃ sadbhiḥ pūrvajaiś ca maharṣibhiḥ  /"
+  },
+  {
+    "id": "p-9b9221",
+    "offset": 3474,
+    "text": "viśvajanyam imaṃ puṇyam upanyāsaṃ nibodhata  // Mn_9.31 //"
+  },
+  {
+    "id": "p-7c9132",
+    "offset": 3534,
+    "text": "bhartari putraṃ vijānanti śrutidvaidhaṃ tu kartari  /"
+  },
+  {
+    "id": "p-3902aa",
+    "offset": 3589,
+    "text": "āhur utpādakaṃ ke cid apare kṣetriṇaṃ viduḥ  // Mn_9.32 //"
+  },
+  {
+    "id": "p-525adc",
+    "offset": 3649,
+    "text": "kṣetrabhūtā smṛtā nārī bījabhūtaḥ smṛtaḥ pumān  /"
+  },
+  {
+    "id": "p-74e4e5",
+    "offset": 3700,
+    "text": "kṣetrabījasamāyogāt saṃbhavaḥ sarvadehinām  // Mn_9.33 //"
+  },
+  {
+    "id": "p-be71aa",
+    "offset": 3759,
+    "text": "viśiṣṭaṃ kutra cid bījaṃ strīyonis tv eva kutra cit  /"
+  },
+  {
+    "id": "p-87ad70",
+    "offset": 3815,
+    "text": "ubhayaṃ tu samaṃ yatra sā prasūtiḥ praśasyate  // Mn_9.34 //"
+  },
+  {
+    "id": "p-e332de",
+    "offset": 3877,
+    "text": "bījasya caiva yonyāś ca bījam utkṛṣṭam ucyate  /"
+  },
+  {
+    "id": "p-c45345",
+    "offset": 3927,
+    "text": "sarvabhūtaprasūtir hi bījalakṣaṇalakṣitā  // Mn_9.35 //"
+  },
+  {
+    "id": "p-f87ef1",
+    "offset": 3984,
+    "text": "yādṛśaṃ tūpyate bījaṃ kṣetre kālopapādite  /"
+  },
+  {
+    "id": "p-330baf",
+    "offset": 4030,
+    "text": "tādṛg rohati tat tasmin bījaṃ svair vyañjitaṃ guṇaiḥ  // Mn_9.36 //"
+  },
+  {
+    "id": "p-0c6fbb",
+    "offset": 4099,
+    "text": "iyaṃ bhūmir hi bhūtānāṃ śāśvatī yonir ucyate  /"
+  },
+  {
+    "id": "p-9f717e",
+    "offset": 4148,
+    "text": "na ca yoniguṇān kāṃś cid bījaṃ puṣyati puṣṭiṣu  // Mn_9.37 //"
+  },
+  {
+    "id": "p-d5cdd2",
+    "offset": 4211,
+    "text": "bhūmāv apy ekakedāre kāloptāni kṛṣīvalaiḥ  /"
+  },
+  {
+    "id": "p-3e9999",
+    "offset": 4257,
+    "text": "nānārūpāṇi jāyante bījānīha svabhāvataḥ  // Mn_9.38 //"
+  },
+  {
+    "id": "p-d1c2dd",
+    "offset": 4313,
+    "text": "vrīhayaḥ śālayo mudgās tilā māṣās tathā yavāḥ  /"
+  },
+  {
+    "id": "p-ccfdf2",
+    "offset": 4363,
+    "text": "yathābījaṃ prarohanti laśunānīkṣavas tathā  // Mn_9.39 //"
+  },
+  {
+    "id": "p-df46e9",
+    "offset": 4422,
+    "text": "anyad uptaṃ jātam anyad ity etan nopapadyate  /"
+  },
+  {
+    "id": "p-d8eecc",
+    "offset": 4471,
+    "text": "upyate yad dhi yad bījaṃ tat tad eva prarohati  // Mn_9.40 //"
+  },
+  {
+    "id": "p-e093cb",
+    "offset": 4534,
+    "text": "tat prājñena vinītena jñānavijñānavedinā  /"
+  },
+  {
+    "id": "p-23a82f",
+    "offset": 4579,
+    "text": "āyuṣkāmena vaptavyaṃ na jātu parayoṣiti  // Mn_9.41 //"
+  },
+  {
+    "id": "p-d34979",
+    "offset": 4635,
+    "text": "atra gāthā vāyugītāḥ kīrtayanti purāvidaḥ  /"
+  },
+  {
+    "id": "p-354cb7",
+    "offset": 4681,
+    "text": "yathā bījaṃ na vaptavyaṃ puṃsā paraparigrahe  // Mn_9.42 //"
+  },
+  {
+    "id": "p-6f8806",
+    "offset": 4742,
+    "text": "naśyatīṣur yathā viddhaḥ khe viddham anuvidhyataḥ  /"
+  },
+  {
+    "id": "p-e1078e",
+    "offset": 4796,
+    "text": "tathā naśyati vai kṣipraṃ bījaṃ paraparigrahe  // Mn_9.43 //"
+  },
+  {
+    "id": "p-a8ceeb",
+    "offset": 4858,
+    "text": "pṛthor apīmāṃ pṛthivīṃ bhāryāṃ pūrvavido viduḥ  /"
+  },
+  {
+    "id": "p-16dd6c",
+    "offset": 4909,
+    "text": "sthāṇucchedasya kedāram āhuḥ śālyavato mṛgam  // Mn_9.44 //"
+  },
+  {
+    "id": "p-40bebd",
+    "offset": 4970,
+    "text": "etāvān eva puruṣo yaj jāyātmā prajeti ha  /"
+  },
+  {
+    "id": "p-4d0723",
+    "offset": 5015,
+    "text": "viprāḥ prāhus tathā caitad yo bhartā sā smṛtāṅganā  // Mn_9.45 //"
+  },
+  {
+    "id": "p-44c010",
+    "offset": 5082,
+    "text": "na niṣkrayavisargābhyāṃ bhartur bhāryā vimucyate  /"
+  },
+  {
+    "id": "p-75501f",
+    "offset": 5135,
+    "text": "evaṃ dharmaṃ vijānīmaḥ prāk prajāpatinirmitam  // Mn_9.46 //"
+  },
+  {
+    "id": "p-1689fe",
+    "offset": 5197,
+    "text": "sakṛd aṃśo nipatati sakṛt kanyā pradīyate  /"
+  },
+  {
+    "id": "p-197f7c",
+    "offset": 5243,
+    "text": "sakṛd āha dadānīti trīṇy etāni satāṃ sakṛt  // Mn_9.47 //"
+  },
+  {
+    "id": "p-9383dc",
+    "offset": 5302,
+    "text": "yathā go'śvoṣṭradāsīṣu mahiṣy ajāvikāsu ca  /"
+  },
+  {
+    "id": "p-1d1934",
+    "offset": 5349,
+    "text": "notpādakaḥ prajābhāgī tathaivānyāṅganāsv api  // Mn_9.48 //"
+  },
+  {
+    "id": "p-eb389a",
+    "offset": 5410,
+    "text": "ye 'kṣetriṇo bījavantaḥ parakṣetrapravāpiṇaḥ  /"
+  },
+  {
+    "id": "p-71b25d",
+    "offset": 5459,
+    "text": "te vai sasyasya jātasya na labhante phalaṃ kva cit  // Mn_9.49 //"
+  },
+  {
+    "id": "p-25be4a",
+    "offset": 5526,
+    "text": "yad anyagoṣu vṛṣabho vatsānāṃ janayec chatam  /"
+  },
+  {
+    "id": "p-8f8c96",
+    "offset": 5575,
+    "text": "gominām eva te vatsā moghaṃ skanditam ārṣabham  // Mn_9.50 //"
+  },
+  {
+    "id": "p-9ba7de",
+    "offset": 5638,
+    "text": "tathaivākṣetriṇo bījaṃ parakṣetrapravāpiṇaḥ  /"
+  },
+  {
+    "id": "p-05ac63",
+    "offset": 5686,
+    "text": "kurvanti kṣetriṇām arthaṃ na bījī labhate phalam  // Mn_9.51 //"
+  },
+  {
+    "id": "p-81f996",
+    "offset": 5751,
+    "text": "phalaṃ tv anabhisaṃdhāya kṣetriṇāṃ bījināṃ tathā  /"
+  },
+  {
+    "id": "p-48424b",
+    "offset": 5804,
+    "text": "pratyakṣaṃ kṣetriṇām artho bījād yonir galīyasī  // Mn_9.52 //"
+  },
+  {
+    "id": "p-adfbba",
+    "offset": 5868,
+    "text": "kriyābhyupagamāt tv etad bījārthaṃ yat pradīyate  /"
+  },
+  {
+    "id": "p-438223",
+    "offset": 5921,
+    "text": "tasyeha bhāginau dṛṣṭau bījī kṣetrika eva ca  // Mn_9.53 //"
+  },
+  {
+    "id": "p-a664e2",
+    "offset": 5982,
+    "text": "oghavātāhṛtaṃ bījaṃ yasya kṣetre prarohati  /"
+  },
+  {
+    "id": "p-694ef9",
+    "offset": 6029,
+    "text": "kṣetrikasyaiva tad bījaṃ na vaptā labhate phalam  // Mn_9.54 //"
+  },
+  {
+    "id": "p-238e76",
+    "offset": 6094,
+    "text": "eṣa dharmo gavāśvasya dāsyuṣṭrājāvikasya ca  /"
+  },
+  {
+    "id": "p-1888a8",
+    "offset": 6142,
+    "text": "vihaṃgamahiṣīṇāṃ ca vijñeyaḥ prasavaṃ prati  // Mn_9.55 //"
+  },
+  {
+    "id": "p-27196b",
+    "offset": 6202,
+    "text": "etad vaḥ sāraphalgutvaṃ bījayonyoḥ prakīrtitam  /"
+  },
+  {
+    "id": "p-d3e869",
+    "offset": 6253,
+    "text": "ataḥ paraṃ pravakṣyāmi yoṣitāṃ dharmam āpadi  // Mn_9.56 //"
+  },
+  {
+    "id": "p-77996d",
+    "offset": 6314,
+    "text": "bhrātur jyeṣṭhasya bhāryā yā gurupatny anujasya sā  /"
+  },
+  {
+    "id": "p-c39f50",
+    "offset": 6369,
+    "text": "yavīyasas tu yā bhāryā snuṣā jyeṣṭhasya sā smṛtā  // Mn_9.57 //"
+  },
+  {
+    "id": "p-f9d6b5",
+    "offset": 6434,
+    "text": "jyeṣṭho yavīyaso bhāryāṃ yavīyān vāgrajastriyam  /"
+  },
+  {
+    "id": "p-6b3706",
+    "offset": 6486,
+    "text": "patitau bhavato gatvā niyuktāv apy anāpadi  // Mn_9.58 //"
+  },
+  {
+    "id": "p-a0e401",
+    "offset": 6545,
+    "text": "devarād vā sapiṇḍād vā striyā samyaṅ niyuktayā  /"
+  },
+  {
+    "id": "p-e78de5",
+    "offset": 6596,
+    "text": "prajepsitāādhigantavyā saṃtānasya parikṣaye  // Mn_9.59 //"
+  },
+  {
+    "id": "p-39ebbd",
+    "offset": 6656,
+    "text": "vidhavāyāṃ niyuktas tu ghṛtākto vāgyato niśi  /"
+  },
+  {
+    "id": "p-34d385",
+    "offset": 6705,
+    "text": "ekam utpādayet putraṃ na dvitīyaṃ kathaṃ cana  // Mn_9.60 //"
+  },
+  {
+    "id": "p-764848",
+    "offset": 6767,
+    "text": "dvitīyam eke prajanaṃ manyante strīṣu tadvidaḥ  /"
+  },
+  {
+    "id": "p-7e9bb3",
+    "offset": 6818,
+    "text": "anirvṛtaṃ niyogārthaṃ paśyanto dharmatas tayoḥ  // Mn_9.61 //"
+  },
+  {
+    "id": "p-508da6",
+    "offset": 6881,
+    "text": "vidhavāyāṃ niyogārthe nirvṛtte tu yathāvidhi  /"
+  },
+  {
+    "id": "p-7c5b47",
+    "offset": 6930,
+    "text": "guruvac ca snuṣāvac ca varteyātāṃ parasparam  // Mn_9.62 //"
+  },
+  {
+    "id": "p-07f260",
+    "offset": 6991,
+    "text": "niyuktau yau vidhiṃ hitvā varteyātāṃ tu kāmataḥ  /"
+  },
+  {
+    "id": "p-01147c",
+    "offset": 7043,
+    "text": "tāv ubhau patitau syātāṃ snuṣāgagurutalpagau  // Mn_9.63 //"
+  },
+  {
+    "id": "p-fbacd3",
+    "offset": 7104,
+    "text": "nānyasmin vidhavā nārī niyoktavyā dvijātibhiḥ  /"
+  },
+  {
+    "id": "p-b1c493",
+    "offset": 7154,
+    "text": "anyasmin hi niyuñjānā dharmaṃ hanyuḥ sanātanam  // Mn_9.64 //"
+  },
+  {
+    "id": "p-c88bfb",
+    "offset": 7217,
+    "text": "nodvāhikeṣu mantreṣu niyogaḥ kīrtyate kva cit  /"
+  },
+  {
+    "id": "p-e4b986",
+    "offset": 7267,
+    "text": "na vivāhavidhāv uktaṃ vidhavāvedanaṃ punaḥ  // Mn_9.65 //"
+  },
+  {
+    "id": "p-4e1bc3",
+    "offset": 7326,
+    "text": "ayaṃ dvijair hi vidvadbhiḥ paśudharmo vigarhitaḥ  /"
+  },
+  {
+    "id": "p-db247a",
+    "offset": 7379,
+    "text": "manuṣyāṇām api prokto vene rājyaṃ praśāsati  // Mn_9.66 //"
+  },
+  {
+    "id": "p-689f3f",
+    "offset": 7439,
+    "text": "sa mahīm akhilāṃ bhuñjan rājarṣipravaraḥ purā  /"
+  },
+  {
+    "id": "p-b0f243",
+    "offset": 7489,
+    "text": "varṇānāṃ saṃkaraṃ cakre kāmopahatacetanaḥ  // Mn_9.67 //"
+  },
+  {
+    "id": "p-e01ef7",
+    "offset": 7547,
+    "text": "tataḥ prabhṛti yo mohāt pramītapatikāṃ striyam  /"
+  },
+  {
+    "id": "p-7b2117",
+    "offset": 7598,
+    "text": "niyojayaty apatyārthaṃ taṃ vigarhanti sādhavaḥ  // Mn_9.68 //"
+  },
+  {
+    "id": "p-e70cb1",
+    "offset": 7661,
+    "text": "yasyā mriyeta kanyāyā vācā satye kṛte patiḥ  /"
+  },
+  {
+    "id": "p-ad3408",
+    "offset": 7709,
+    "text": "tām anena vidhānena nijo vindeta devaraḥ  // Mn_9.69 //"
+  },
+  {
+    "id": "p-64ae5d",
+    "offset": 7766,
+    "text": "yathāvidhy adhigamyaināṃ śuklavastrāṃ śucivratām  /"
+  },
+  {
+    "id": "p-282a51",
+    "offset": 7819,
+    "text": "mitho bhajetā prasavāt sakṛtsakṛd ṛtāvṛtau  // Mn_9.70 //"
+  },
+  {
+    "id": "p-a95e4f",
+    "offset": 7878,
+    "text": "na dattvā kasya cit kanyāṃ punar dadyād vicakṣaṇaḥ  /"
+  },
+  {
+    "id": "p-94a5fc",
+    "offset": 7933,
+    "text": "dattvā punaḥ prayacchan hi prāpnoti puruṣānṛtam  // Mn_9.71 //"
+  },
+  {
+    "id": "p-4b2d8c",
+    "offset": 7997,
+    "text": "vidhivat pratigṛhyāpi tyajet kanyāṃ vigarhitām  /"
+  },
+  {
+    "id": "p-b44757",
+    "offset": 8048,
+    "text": "vyādhitāṃ vipraduṣṭāṃ vā chadmanā copapāditām  // Mn_9.72 //"
+  },
+  {
+    "id": "p-fe6233",
+    "offset": 8110,
+    "text": "yas tu doṣavatīṃ kanyām anākhyāyopapādayet  /"
+  },
+  {
+    "id": "p-adf9f8",
+    "offset": 8157,
+    "text": "tasya tad vitathaṃ kuryāt kanyādātur durātmanaḥ  // Mn_9.73 //"
+  },
+  {
+    "id": "p-fb05be",
+    "offset": 8221,
+    "text": "vidhāya vṛttiṃ bhāryāyāḥ pravaset kāryavān naraḥ  /"
+  },
+  {
+    "id": "p-35d312",
+    "offset": 8274,
+    "text": "avṛttikarśitā hi strī praduṣyet sthitimaty api  // Mn_9.74 //"
+  },
+  {
+    "id": "p-003836",
+    "offset": 8337,
+    "text": "vidhāya proṣite vṛttiṃ jīven niyamam āsthitā  /"
+  },
+  {
+    "id": "p-b90829",
+    "offset": 8386,
+    "text": "proṣite tv avidhāyaiva jīvec chilpair agarhitaiḥ  // Mn_9.75 //"
+  },
+  {
+    "id": "p-f36991",
+    "offset": 8451,
+    "text": "proṣito dharmakāryārthaṃ pratīkṣyo 'ṣṭau naraḥ samāḥ  /"
+  },
+  {
+    "id": "p-ed1b3d",
+    "offset": 8508,
+    "text": "vidyārthaṃ ṣaḍ yaśo'rthaṃ vā kāmārthaṃ trīṃs tu vatsarān  // Mn_9.76 //"
+  },
+  {
+    "id": "p-7fda9f",
+    "offset": 8581,
+    "text": "saṃvatsaraṃ pratīkṣeta dviṣantīṃ yoṣitaṃ patiḥ  /"
+  },
+  {
+    "id": "p-3c6933",
+    "offset": 8632,
+    "text": "ūrdhvaṃ saṃvatsarāt tv enāṃ dāyaṃ hṛtvā na saṃvaset  // Mn_9.77 //"
+  },
+  {
+    "id": "p-7f49cc",
+    "offset": 8700,
+    "text": "atikrāmet pramattaṃ yā mattaṃ rogārtam eva vā  /"
+  },
+  {
+    "id": "p-57013f",
+    "offset": 8750,
+    "text": "sā trīn māsān parityājyā vibhūṣaṇaparicchadā  // Mn_9.78 //"
+  },
+  {
+    "id": "p-38fc83",
+    "offset": 8811,
+    "text": "unmattaṃ patitaṃ klībam abījaṃ pāparogiṇam  /"
+  },
+  {
+    "id": "p-bdc2ea",
+    "offset": 8858,
+    "text": "na tyāgo 'sti dviṣantyāś ca na ca dāyāpavartanam  // Mn_9.79 //"
+  },
+  {
+    "id": "p-1f9f7e",
+    "offset": 8923,
+    "text": "madyapāsādhuvṛttā ca pratikūlā ca yā bhavet  /"
+  },
+  {
+    "id": "p-e01345",
+    "offset": 8971,
+    "text": "vyādhitā vādhivettavyā hiṃsrārthaghnī ca sarvadā  // Mn_9.80 //"
+  },
+  {
+    "id": "p-869dd4",
+    "offset": 9036,
+    "text": "vandhyāṣṭame 'dhivedyā'abde daśame tu mṛtaprajā  /"
+  },
+  {
+    "id": "p-12d4a4",
+    "offset": 9088,
+    "text": "ekādaśe strījananī sadyas tv apriyavādinī  // Mn_9.81 //"
+  },
+  {
+    "id": "p-434350",
+    "offset": 9146,
+    "text": "yā rogiṇī syāt tu hitā saṃpannā caiva śīlataḥ  /"
+  },
+  {
+    "id": "p-937678",
+    "offset": 9196,
+    "text": "sānujñāpyādhivettavyā nāvamānyā ca karhi cit  // Mn_9.82 //"
+  },
+  {
+    "id": "p-7e1c73",
+    "offset": 9257,
+    "text": "adhivinnā tu yā nārī nirgacched ruṣitā gṛhāt  /"
+  },
+  {
+    "id": "p-d03921",
+    "offset": 9306,
+    "text": "sā sadyaḥ saṃniroddhavyā tyājyā vā kulasaṃnidhau  // Mn_9.83 //"
+  },
+  {
+    "id": "p-2fe399",
+    "offset": 9371,
+    "text": "pratiṣiddhāpi ced yā tu madyam abhyudayeṣv api  /"
+  },
+  {
+    "id": "p-b1e964",
+    "offset": 9422,
+    "text": "prekṣāsamājaṃ gacched vā sā daṇḍyā kṛṣṇalāni ṣaṭ  // Mn_9.84 //"
+  },
+  {
+    "id": "p-75bacb",
+    "offset": 9487,
+    "text": "yadi svāś cāparāś caiva vinderan yoṣito dvijāḥ  /"
+  },
+  {
+    "id": "p-b95a89",
+    "offset": 9538,
+    "text": "tāsāṃ varṇakrameṇa syāj jyeṣṭhyaṃ pūjā ca veśma ca  // Mn_9.85 //"
+  },
+  {
+    "id": "p-2bb899",
+    "offset": 9605,
+    "text": "bhartuḥ śarīraśuśrūṣāṃ dharmakāryaṃ ca naityakam  /"
+  },
+  {
+    "id": "p-4dd581",
+    "offset": 9658,
+    "text": "svā caiva kuryāt sarveṣāṃ nāsvajātiḥ kathaṃ cana  // Mn_9.86 //"
+  },
+  {
+    "id": "p-0860d0",
+    "offset": 9723,
+    "text": "yas tu tat kārayen mohāt sajātyā sthitayānyayā  /"
+  },
+  {
+    "id": "p-df2846",
+    "offset": 9774,
+    "text": "yathā brāhmaṇacāṇḍālaḥ pūrvadṛṣṭas tathaiva saḥ  // Mn_9.87 //"
+  },
+  {
+    "id": "p-416759",
+    "offset": 9838,
+    "text": "utkṛṣṭāyābhirūpāya varāya sadṛśāya ca  /"
+  },
+  {
+    "id": "p-5a05fb",
+    "offset": 9880,
+    "text": "aprāptām api tāṃ tasmai kanyāṃ dadyād yathāvidhi  // Mn_9.88 //"
+  },
+  {
+    "id": "p-ac5c95",
+    "offset": 9945,
+    "text": "kāmam ā maraṇāt tiṣṭhed gṛhe kanyā rtumaty api  /"
+  },
+  {
+    "id": "p-b2f981",
+    "offset": 9996,
+    "text": "na caivaināṃ prayaccet tu guṇahīnāya karhi cit  // Mn_9.89 //"
+  },
+  {
+    "id": "p-f00b6a",
+    "offset": 10059,
+    "text": "trīṇi varṣāṇy udīkṣeta kumāry ṛtumatī satī  /"
+  },
+  {
+    "id": "p-f6a65b",
+    "offset": 10106,
+    "text": "ūrdhvaṃ tu kālād etasmād vindeta sadṛśaṃ patim  // Mn_9.90 //"
+  },
+  {
+    "id": "p-d96eb2",
+    "offset": 10169,
+    "text": "adīyamānā bhartāram adhigacched yadi svayam  /"
+  },
+  {
+    "id": "p-a04acc",
+    "offset": 10217,
+    "text": "nainaḥ kiṃ cid avāpnoti na ca yaṃ sādhigacchati  // Mn_9.91 //"
+  },
+  {
+    "id": "p-c6cfee",
+    "offset": 10281,
+    "text": "alaṅkāraṃ nādadīta pitryaṃ kanyā svayaṃvarā  /"
+  },
+  {
+    "id": "p-73249e",
+    "offset": 10329,
+    "text": "mātṛkaṃ bhrātṛdattaṃ vā stenā syād yadi taṃ haret  // Mn_9.92 //"
+  },
+  {
+    "id": "p-8d16c2",
+    "offset": 10395,
+    "text": "pitre na dadyāc chulkaṃ tu kanyām ṛtumatīṃ haran  /"
+  },
+  {
+    "id": "p-fd6d29",
+    "offset": 10448,
+    "text": "sa ca svāmyād atikrāmed ṛtūnāṃ pratirodhanāt  // Mn_9.93 //"
+  },
+  {
+    "id": "p-0d5efc",
+    "offset": 10509,
+    "text": "triṃśadvarṣo vahet kanyāṃ hṛdyāṃ dvādaśavārṣikīm  /"
+  },
+  {
+    "id": "p-c824c9",
+    "offset": 10562,
+    "text": "tryaṣṭavarṣo 'ṣṭavarṣāṃ vā dharme sīdati satvaraḥ  // Mn_9.94 //"
+  },
+  {
+    "id": "p-ccaccd",
+    "offset": 10628,
+    "text": "devadattāṃ patir bhāryāṃ vindate necchayātmanaḥ  /"
+  },
+  {
+    "id": "p-69d9e4",
+    "offset": 10680,
+    "text": "tāṃ sādhvīṃ bibhṛyān nityaṃ devānāṃ priyam ācaran  // Mn_9.95 //"
+  },
+  {
+    "id": "p-c49379",
+    "offset": 10746,
+    "text": "prajanārthaṃ striyaḥ sṛṣṭāḥ saṃtānārthaṃ ca mānavaḥ  /"
+  },
+  {
+    "id": "p-428a47",
+    "offset": 10802,
+    "text": "tasmāt sādhāraṇo dharmaḥ śrutau patnyā sahoditaḥ  // Mn_9.96 //"
+  },
+  {
+    "id": "p-df232f",
+    "offset": 10867,
+    "text": "kanyāyāṃ dattaśulkāyāṃ mriyeta yadi śulkadaḥ  /"
+  },
+  {
+    "id": "p-50111d",
+    "offset": 10916,
+    "text": "devarāya pradātavyā yadi kanyānumanyate  // Mn_9.97 //"
+  },
+  {
+    "id": "p-7b267d",
+    "offset": 10972,
+    "text": "ādadīta na śūdro 'pi śulkaṃ duhitaraṃ dadan  /"
+  },
+  {
+    "id": "p-95d76d",
+    "offset": 11020,
+    "text": "śulkaṃ hi gṛhṇan kurute channaṃ duhitṛvikrayam  // Mn_9.98 //"
+  },
+  {
+    "id": "p-54c27b",
+    "offset": 11083,
+    "text": "etat tu na pare cakrur nāpare jātu sādhavaḥ  /"
+  },
+  {
+    "id": "p-2be579",
+    "offset": 11131,
+    "text": "yad anyasya pratijñāya punar anyasya dīyate  // Mn_9.99 //"
+  },
+  {
+    "id": "p-70af8d",
+    "offset": 11191,
+    "text": "nānuśuśruma jātv etat pūrveṣv api hi janmasu  /"
+  },
+  {
+    "id": "p-9920d0",
+    "offset": 11240,
+    "text": "śulkasaṃjñena mūlyena channaṃ duhitṛvikrayam  // Mn_9.100 //"
+  },
+  {
+    "id": "p-70ea96",
+    "offset": 11302,
+    "text": "anyonyasyāvyabhicāro bhaved āmaraṇāntikaḥ  /"
+  },
+  {
+    "id": "p-2f2919",
+    "offset": 11348,
+    "text": "eṣa dharmaḥ samāsena jñeyaḥ strīpuṃsayoḥ paraḥ  // Mn_9.101 //"
+  },
+  {
+    "id": "p-c577b2",
+    "offset": 11412,
+    "text": "tathā nityaṃ yateyātāṃ strīpuṃsau tu kṛtakriyau  /"
+  },
+  {
+    "id": "p-fd2461",
+    "offset": 11464,
+    "text": "yathā nābhicaretāṃ tau viyuktāv itaretaram  // Mn_9.102 //"
+  },
+  {
+    "id": "p-9e45b9",
+    "offset": 11524,
+    "text": "eṣa strīpuṃsayor ukto dharmo vo ratisaṃhitaḥ  /"
+  },
+  {
+    "id": "p-ad1374",
+    "offset": 11573,
+    "text": "āpady apatyaprāptiś ca dāyadharmaṃ nibodhata  // Mn_9.103 //"
+  },
+  {
+    "id": "p-598c62",
+    "offset": 11635,
+    "text": "ūrdhvaṃ pituś ca mātuś ca sametya bhrātaraḥ samam  /"
+  },
+  {
+    "id": "p-eb1d61",
+    "offset": 11689,
+    "text": "bhajeran paitṛkaṃ riktham anīśās te hi jīvatoḥ  // Mn_9.104 //"
+  },
+  {
+    "id": "p-e880fd",
+    "offset": 11753,
+    "text": "jyeṣṭha eva tu gṛhṇīyāt pitryaṃ dhanam aśeṣataḥ  /"
+  },
+  {
+    "id": "p-ea37ff",
+    "offset": 11805,
+    "text": "śeṣās tam upajīveyur yathaiva pitaraṃ tathā  // Mn_9.105 //"
+  },
+  {
+    "id": "p-7b28c6",
+    "offset": 11866,
+    "text": "jyeṣṭhena jātamātreṇa putrī bhavati mānavaḥ  /"
+  },
+  {
+    "id": "p-e3b29f",
+    "offset": 11914,
+    "text": "pitṝṇām anṛṇaś caiva sa tasmāt sarvam arhati  // Mn_9.106 //"
+  },
+  {
+    "id": "p-c22eca",
+    "offset": 11976,
+    "text": "yasminn ṛṇaṃ saṃnayati yena cānantyam aśnute  /"
+  },
+  {
+    "id": "p-d9b84b",
+    "offset": 12025,
+    "text": "sa eva dharmajaḥ putraḥ kāmajān itarān viduḥ  // Mn_9.107 //"
+  },
+  {
+    "id": "p-d42482",
+    "offset": 12087,
+    "text": "piteva pālayet pūtrān jyeṣṭho bhrātṝṇ yavīyasaḥ  /"
+  },
+  {
+    "id": "p-d75a92",
+    "offset": 12139,
+    "text": "putravac cāpi varteran jyeṣṭhe bhrātari dharmataḥ  // Mn_9.108 //"
+  },
+  {
+    "id": "p-127323",
+    "offset": 12206,
+    "text": "jyeṣṭhaḥ kulaṃ vardhayati vināśayati vā punaḥ  /"
+  },
+  {
+    "id": "p-f14aef",
+    "offset": 12256,
+    "text": "jyeṣṭhaḥ pūjyatamo loke jyeṣṭhaḥ sadbhir agarhitaḥ  // Mn_9.109 //"
+  },
+  {
+    "id": "p-e5d0ba",
+    "offset": 12324,
+    "text": "yo jyeṣṭho jyeṣṭhavṛttiḥ syān māteva sa piteva saḥ  /"
+  },
+  {
+    "id": "p-c6e8ae",
+    "offset": 12379,
+    "text": "ajyeṣṭhavṛttir yas tu syāt sa saṃpūjyas tu bandhuvat  // Mn_9.110 //"
+  },
+  {
+    "id": "p-ab7b81",
+    "offset": 12449,
+    "text": "evaṃ saha vaseyur vā pṛthag vā dharmakāmyayā  /"
+  },
+  {
+    "id": "p-6223af",
+    "offset": 12498,
+    "text": "pṛthag vivardhate dharmas tasmād dharmyā pṛthakkriyā  // Mn_9.111 //"
+  },
+  {
+    "id": "p-c8e630",
+    "offset": 12568,
+    "text": "jyeṣṭhasya viṃśa uddhāraḥ sarvadravyāc ca yad varam  /"
+  },
+  {
+    "id": "p-081a85",
+    "offset": 12624,
+    "text": "tato 'rdhaṃ madhyamasya syāt turīyaṃ tu yavīyasaḥ  // Mn_9.112 //"
+  },
+  {
+    "id": "p-beaea0",
+    "offset": 12691,
+    "text": "jyeṣṭhaś caiva kaniṣṭhaś ca saṃharetāṃ yathoditam  /"
+  },
+  {
+    "id": "p-9c6e68",
+    "offset": 12745,
+    "text": "ye 'nye jyeṣṭhakaniṣṭhābhyāṃ teṣāṃ syān madhyamaṃ dhanam  // Mn_9.113 //"
+  },
+  {
+    "id": "p-735fb3",
+    "offset": 12819,
+    "text": "sarveṣāṃ dhanajātānām ādadītāgryam agrajaḥ  /"
+  },
+  {
+    "id": "p-55c22f",
+    "offset": 12866,
+    "text": "yac ca sātiśayaṃ kiṃ cid daśataś cāpnuyād varam  // Mn_9.114 //"
+  },
+  {
+    "id": "p-e6f38d",
+    "offset": 12931,
+    "text": "uddhāro na daśasv asti saṃpannānāṃ svakarmasu  /"
+  },
+  {
+    "id": "p-722a0b",
+    "offset": 12981,
+    "text": "yat kiṃ cid eva deyaṃ tu jyāyase mānavardhanam  // Mn_9.115 //"
+  },
+  {
+    "id": "p-579235",
+    "offset": 13045,
+    "text": "evaṃ samuddhṛtoddhāre samān aṃśān prakalpayet  /"
+  },
+  {
+    "id": "p-3c1861",
+    "offset": 13095,
+    "text": "uddhāre 'nuddhṛte tv eṣām iyaṃ syād aṃśakalpanā  // Mn_9.116 //"
+  },
+  {
+    "id": "p-cdbdf3",
+    "offset": 13160,
+    "text": "ekādhikaṃ harej jyeṣṭhaḥ putro 'dhyardhaṃ tato 'nujaḥ  /"
+  },
+  {
+    "id": "p-64be37",
+    "offset": 13218,
+    "text": "aṃśam aṃśaṃ yavīyāṃsa iti dharmo vyavasthitaḥ  // Mn_9.117 //"
+  },
+  {
+    "id": "p-eaef85",
+    "offset": 13281,
+    "text": "svebhyo 'ṃśebhyas tu kanyābhyaḥ pradadyur bhrātaraḥ pṛthak  /"
+  },
+  {
+    "id": "p-585959",
+    "offset": 13344,
+    "text": "svāt svād aṃśāc caturbhāgaṃ patitāḥ syur aditsavaḥ  // Mn_9.118 //"
+  },
+  {
+    "id": "p-8878f4",
+    "offset": 13412,
+    "text": "ajāvikaṃ saikaśaphaṃ na jātu viṣamaṃ bhajet  /"
+  },
+  {
+    "id": "p-d49b8a",
+    "offset": 13460,
+    "text": "ajāvikaṃ tu viṣamaṃ jyeṣṭhasyaiva vidhīyate  // Mn_9.119 //"
+  },
+  {
+    "id": "p-126bd7",
+    "offset": 13521,
+    "text": "yavīyāñ jyeṣṭhabhāryāyāṃ putram utpādayed yadi  /"
+  },
+  {
+    "id": "p-6ca282",
+    "offset": 13572,
+    "text": "samas tatra vibhāgaḥ syād iti dharmo vyavasthitaḥ  // Mn_9.120 //"
+  },
+  {
+    "id": "p-326bc2",
+    "offset": 13639,
+    "text": "upasarjanaṃ pradhānasya dharmato nopapadyate  /"
+  },
+  {
+    "id": "p-e05033",
+    "offset": 13688,
+    "text": "pitā pradhānaṃ prajane tasmād dharmeṇa taṃ bhajet  // Mn_9.121 //"
+  },
+  {
+    "id": "p-6b3924",
+    "offset": 13755,
+    "text": "putraḥ kaniṣṭho jyeṣṭhāyāṃ kaniṣṭhāyāṃ ca pūrvajaḥ  /"
+  },
+  {
+    "id": "p-20e77f",
+    "offset": 13810,
+    "text": "kathaṃ tatra vibhāgaḥ syād iti cet saṃśayo bhavet  // Mn_9.122 //"
+  },
+  {
+    "id": "p-63edea",
+    "offset": 13877,
+    "text": "ekaṃ vṛṣabham uddhāraṃ saṃhareta sa pūrvajaḥ  /"
+  },
+  {
+    "id": "p-0573d8",
+    "offset": 13926,
+    "text": "tato 'pare jyeṣṭhavṛṣās tadūnānāṃ svamātṛtaḥ  // Mn_9.123 //"
+  },
+  {
+    "id": "p-030c11",
+    "offset": 13988,
+    "text": "jyeṣṭhas tu jāto jyeṣṭhāyāṃ hared vṛṣabhaṣoḍaśāḥ  /"
+  },
+  {
+    "id": "p-3db397",
+    "offset": 14041,
+    "text": "tataḥ svamātṛtaḥ śeṣā bhajerann iti dhāraṇā  // Mn_9.124 //"
+  },
+  {
+    "id": "p-ab2595",
+    "offset": 14102,
+    "text": "sadṛśastrīṣu jātānāṃ putrāṇām aviśeṣataḥ  /"
+  },
+  {
+    "id": "p-d6646f",
+    "offset": 14147,
+    "text": "na mātṛto jyaiṣṭhyam asti janmato jyaiṣṭhyam ucyate  // Mn_9.125 //"
+  },
+  {
+    "id": "p-0e3a56",
+    "offset": 14216,
+    "text": "janmajyeṣṭhena cāhvānaṃ subrahmaṇyāsv api smṛtam  /"
+  },
+  {
+    "id": "p-db9d59",
+    "offset": 14269,
+    "text": "yamayoś caiva garbheṣu janmato jyeṣṭhatā smṛtā  // Mn_9.126 //"
+  },
+  {
+    "id": "p-edd724",
+    "offset": 14333,
+    "text": "aputro 'nena vidhinā sutāṃ kurvīta putrikām  /"
+  },
+  {
+    "id": "p-55ccb4",
+    "offset": 14381,
+    "text": "yad apatyaṃ bhaved asyāṃ tan mama syāt svadhākaram  // Mn_9.127 //"
+  },
+  {
+    "id": "p-9e986b",
+    "offset": 14449,
+    "text": "anena tu vidhānena purā cakre 'tha putrikāḥ  /"
+  },
+  {
+    "id": "p-e14dd7",
+    "offset": 14497,
+    "text": "vivṛddhyarthaṃ svavaṃśasya svayaṃ dakṣaḥ prajāpatiḥ  // Mn_9.128 //"
+  },
+  {
+    "id": "p-9235c4",
+    "offset": 14566,
+    "text": "dadau sa daśa dharmāya kaśyapāya trayodaśa  /"
+  },
+  {
+    "id": "p-e9dcfc",
+    "offset": 14613,
+    "text": "somāya rājñe satkṛtya prītātmā saptaviṃśatim  // Mn_9.129 //"
+  },
+  {
+    "id": "p-bfc550",
+    "offset": 14675,
+    "text": "yathaivātmā tathā putraḥ putreṇa duhitā samā  /"
+  },
+  {
+    "id": "p-4477fa",
+    "offset": 14724,
+    "text": "tasyām ātmani tiṣṭhantyāṃ katham anyo dhanaṃ haret  // Mn_9.130 //"
+  },
+  {
+    "id": "p-d51a87",
+    "offset": 14792,
+    "text": "mātus tu yautakaṃ yat syāt kumārībhāga eva saḥ  /"
+  },
+  {
+    "id": "p-7a19b8",
+    "offset": 14843,
+    "text": "dauhitra eva ca hared aputrasyākhilaṃ dhanam  // Mn_9.131 //"
+  },
+  {
+    "id": "p-a99510",
+    "offset": 14905,
+    "text": "dauhitro hy akhilaṃ riktham aputrasya pitur haret  /"
+  },
+  {
+    "id": "p-9bea0e",
+    "offset": 14959,
+    "text": "sa eva dadyād dvau piṇḍau pitre mātāmahāya ca  // Mn_9.132 //"
+  },
+  {
+    "id": "p-49f915",
+    "offset": 15022,
+    "text": "pautradauhitrayor loke na viśeṣo 'sti dharmataḥ  /"
+  },
+  {
+    "id": "p-a487c3",
+    "offset": 15074,
+    "text": "tayor hi mātāpitarau saṃbhūtau tasya dehataḥ  // Mn_9.133 //"
+  },
+  {
+    "id": "p-c09f3b",
+    "offset": 15136,
+    "text": "putrikāyāṃ kṛtāyāṃ tu yadi putro 'nujāyate  /"
+  },
+  {
+    "id": "p-22f9e1",
+    "offset": 15183,
+    "text": "samas tatra vibhāgaḥ syāj jyeṣṭhatā nāsti hi striyāḥ  // Mn_9.134 //"
+  },
+  {
+    "id": "p-1afdf0",
+    "offset": 15253,
+    "text": "aputrāyāṃ mṛtāyāṃ tu putrikāyāṃ kathaṃ cana  /"
+  },
+  {
+    "id": "p-c912ca",
+    "offset": 15301,
+    "text": "dhanaṃ tat putrikābhartā haretaivāvicārayan  // Mn_9.135 //"
+  },
+  {
+    "id": "p-03ef9a",
+    "offset": 15362,
+    "text": "akṛtā vā kṛtā vāpi yaṃ vindet sadṛśāt sutam  /"
+  },
+  {
+    "id": "p-927513",
+    "offset": 15410,
+    "text": "pautrī mātāmahas tena dadyāt piṇḍaṃ hared dhanam  // Mn_9.136 //"
+  },
+  {
+    "id": "p-cdc24d",
+    "offset": 15476,
+    "text": "putreṇa lokāñ jayati pautreṇānantyam aśnute  /"
+  },
+  {
+    "id": "p-57c4f7",
+    "offset": 15524,
+    "text": "atha putrasya pautreṇa bradhnasyāpnoti viṣṭapam  // Mn_9.137 //"
+  },
+  {
+    "id": "p-ff1b52",
+    "offset": 15589,
+    "text": "puṃnāmno narakād yasmāt trāyate pitaraṃ sutaḥ  /"
+  },
+  {
+    "id": "p-52edc3",
+    "offset": 15639,
+    "text": "tasmāt putra iti proktaḥ svayam eva svayaṃbhuvā  // Mn_9.138 //"
+  },
+  {
+    "id": "p-31c46a",
+    "offset": 15704,
+    "text": "pautradauhitrayor loke viśeṣo nopapadyate  /"
+  },
+  {
+    "id": "p-a0f45f",
+    "offset": 15750,
+    "text": "dauhitro 'pi hy amutrainaṃ saṃtārayati pautravat  // Mn_9.139 //"
+  },
+  {
+    "id": "p-52db3a",
+    "offset": 15816,
+    "text": "mātuḥ prathamataḥ piṇḍaṃ nirvapet putrikāsutaḥ  /"
+  },
+  {
+    "id": "p-bfd7d9",
+    "offset": 15867,
+    "text": "dvitīyaṃ tu pitus tasyās tṛtīyaṃ tatpituḥ pituḥ  // Mn_9.140 //"
+  },
+  {
+    "id": "p-a308d9",
+    "offset": 15932,
+    "text": "upapanno guṇaiḥ sarvaiḥ putro yasya tu dattrimaḥ  /"
+  },
+  {
+    "id": "p-bc89ff",
+    "offset": 15985,
+    "text": "sa haretaiva tadrikthaṃ saṃprāpto 'py anyagotrataḥ  // Mn_9.141 //"
+  },
+  {
+    "id": "p-588955",
+    "offset": 16053,
+    "text": "gotrarikthe janayitur na hared dattrimaḥ kva cit  /"
+  },
+  {
+    "id": "p-4e488a",
+    "offset": 16106,
+    "text": "gotrarikthānugaḥ piṇḍo vyapaiti dadataḥ svadhā  // Mn_9.142 //"
+  },
+  {
+    "id": "p-bf1907",
+    "offset": 16170,
+    "text": "aniyuktāsutaś caiva putriṇyāptaś ca devarāt  /"
+  },
+  {
+    "id": "p-241071",
+    "offset": 16218,
+    "text": "ubhau tau nārhato bhāgaṃ jārajātakakāmajau  // Mn_9.143 //"
+  },
+  {
+    "id": "p-362f7c",
+    "offset": 16278,
+    "text": "niyuktāyām api pumān nāryāṃ jāto 'vidhānataḥ  /"
+  },
+  {
+    "id": "p-81904f",
+    "offset": 16327,
+    "text": "naivārhaḥ paitṛkaṃ rikthaṃ patitotpādito hi saḥ  // Mn_9.144 //"
+  },
+  {
+    "id": "p-5654e3",
+    "offset": 16392,
+    "text": "haret tatra niyuktāyāṃ jātaḥ putro yathāurasaḥ  /"
+  },
+  {
+    "id": "p-f1f0d3",
+    "offset": 16443,
+    "text": "kṣetrikasya tu tad bījaṃ dharmataḥ prasavaś ca saḥ  // Mn_9.145 //"
+  },
+  {
+    "id": "p-ceebc1",
+    "offset": 16511,
+    "text": "dhanaṃ yo bibhṛyād bhrātur mṛtasya striyam eva ca  /"
+  },
+  {
+    "id": "p-01724b",
+    "offset": 16565,
+    "text": "so 'patyaṃ bhrātur utpādya dadyāt tasyaiva taddhanam  // Mn_9.146 //"
+  },
+  {
+    "id": "p-7d08ad",
+    "offset": 16635,
+    "text": "yā niyuktānyataḥ putraṃ devarād vāpy avāpnuyāt  /"
+  },
+  {
+    "id": "p-9b7021",
+    "offset": 16686,
+    "text": "taṃ kāmajam arikthīyaṃ vṛthotpannaṃ pracakṣate  // Mn_9.147 //"
+  },
+  {
+    "id": "p-ef5d5a",
+    "offset": 16750,
+    "text": "etad vidhānaṃ vijñeyaṃ vibhāgasyaikayoniṣu  /"
+  },
+  {
+    "id": "p-d27207",
+    "offset": 16797,
+    "text": "bahvīṣu caikajātānāṃ nānāstrīṣu nibodhata  // Mn_9.148 //"
+  },
+  {
+    "id": "p-60b903",
+    "offset": 16856,
+    "text": "brāhmaṇasyānupūrvyeṇa catasras tu yadi striyaḥ  /"
+  },
+  {
+    "id": "p-6fc68a",
+    "offset": 16907,
+    "text": "tāsāṃ putreṣu jāteṣu vibhāge 'yaṃ vidhiḥ smṛtaḥ  // Mn_9.149 //"
+  },
+  {
+    "id": "p-7f3dd5",
+    "offset": 16972,
+    "text": "kīnāśo govṛṣo yānam alaṅkāraś ca veśma ca  /"
+  },
+  {
+    "id": "p-2d5559",
+    "offset": 17018,
+    "text": "viprasyāuddhārikaṃ deyam ekāṃśaś ca pradhānataḥ  // Mn_9.150 //"
+  },
+  {
+    "id": "p-416264",
+    "offset": 17083,
+    "text": "tryaṃśaṃ dāyād dhared vipro dvāv aṃśau kṣatriyāsutaḥ  /"
+  },
+  {
+    "id": "p-6f2dcc",
+    "offset": 17140,
+    "text": "vaiśyājaḥ sārdham evāṃśam aṃśaṃ śūdrāsuto haret  // Mn_9.151 //"
+  },
+  {
+    "id": "p-05eca8",
+    "offset": 17205,
+    "text": "sarvaṃ vā rikthajātaṃ tad daśadhā parikalpya ca  /"
+  },
+  {
+    "id": "p-f3fa1e",
+    "offset": 17257,
+    "text": "dharmyaṃ vibhāgaṃ kurvīta vidhinānena dharmavit  // Mn_9.152 //"
+  },
+  {
+    "id": "p-6cbb72",
+    "offset": 17322,
+    "text": "caturo 'ṃśān hared vipras trīn aṃśān kṣatriyāsutaḥ  /"
+  },
+  {
+    "id": "p-61fcb9",
+    "offset": 17377,
+    "text": "vaiśyāputro hared dvyaṃśaṃ aṃśaṃ śūdrāsuto haret  // Mn_9.153 //"
+  },
+  {
+    "id": "p-4d0a45",
+    "offset": 17443,
+    "text": "yady api syāt tu satputro 'py asatputro 'pi vā bhavet  /"
+  },
+  {
+    "id": "p-9fd389",
+    "offset": 17501,
+    "text": "nādhikaṃ daśamād dadyāc chūdrāputrāya dharmataḥ  // Mn_9.154 //"
+  },
+  {
+    "id": "p-56a605",
+    "offset": 17566,
+    "text": "brāhmaṇakṣatriyaviśāṃ śūdrāputro na rikthabhāk  /"
+  },
+  {
+    "id": "p-ceeb7b",
+    "offset": 17617,
+    "text": "yad evāsya pitā dadyāt tad evāsya dhanaṃ bhavet  // Mn_9.155 //"
+  },
+  {
+    "id": "p-068f35",
+    "offset": 17682,
+    "text": "samavarṇāsu vā jātāḥ sarve putrā dvijanmanām  /"
+  },
+  {
+    "id": "p-1be2b8",
+    "offset": 17731,
+    "text": "uddhāraṃ jyāyase dattvā bhajerann itare samam  // Mn_9.156 //"
+  },
+  {
+    "id": "p-05ae63",
+    "offset": 17794,
+    "text": "śūdrasya tu savarṇaiva nānyā bhāryā vidhīyate  /"
+  },
+  {
+    "id": "p-ad5f61",
+    "offset": 17844,
+    "text": "tasyāṃ jātāḥ samāṃśāḥ syur yadi putraśataṃ bhavet  // Mn_9.157 //"
+  },
+  {
+    "id": "p-f267a9",
+    "offset": 17911,
+    "text": "putrān dvādaśa yān āha nṝṇāṃ svāyaṃbhuvo manuḥ  /"
+  },
+  {
+    "id": "p-607a07",
+    "offset": 17962,
+    "text": "teṣāṃ ṣaḍ bandhudāyādāḥ ṣaḍ adāyādabāndhavāḥ  // Mn_9.158 //"
+  },
+  {
+    "id": "p-4e0388",
+    "offset": 18024,
+    "text": "aurasaḥ kṣetrajaś caiva dattaḥ kṛtrima eva ca  /"
+  },
+  {
+    "id": "p-27b807",
+    "offset": 18074,
+    "text": "gūḍhotpanno 'paviddhaś ca dāyādā bāndhavāś ca ṣaṭ  // Mn_9.159 //"
+  },
+  {
+    "id": "p-312e83",
+    "offset": 18141,
+    "text": "kānīnaś ca sahoḍhaś ca krītaḥ paunarbhavas tathā  /"
+  },
+  {
+    "id": "p-d3485d",
+    "offset": 18194,
+    "text": "svayaṃdattaś ca śaudraś ca ṣaḍ adāyādabāndhavāḥ  // Mn_9.160 //"
+  },
+  {
+    "id": "p-71414d",
+    "offset": 18259,
+    "text": "yādṛśaṃ phalam āpnoti kuplavaiḥ saṃtarañ jalam  /"
+  },
+  {
+    "id": "p-c6b2bf",
+    "offset": 18310,
+    "text": "tādṛśaṃ phalam āpnoti kuputraiḥ saṃtaraṃs tamaḥ  // Mn_9.161 //"
+  },
+  {
+    "id": "p-17bac2",
+    "offset": 18375,
+    "text": "yady ekarikthinau syātām aurasakṣetrajau sutau  /"
+  },
+  {
+    "id": "p-30e33f",
+    "offset": 18426,
+    "text": "yasya yat paitṛkaṃ rikthaṃ sa tad gṛhṇīta netaraḥ  // Mn_9.162 //"
+  },
+  {
+    "id": "p-b0326f",
+    "offset": 18493,
+    "text": "eka evāurasaḥ putraḥ pitryasya vasunaḥ prabhuḥ  /"
+  },
+  {
+    "id": "p-2e7949",
+    "offset": 18544,
+    "text": "śeṣāṇām ānṛśaṃsyārthaṃ pradadyāt tu prajīvanam  // Mn_9.163 //"
+  },
+  {
+    "id": "p-b5056d",
+    "offset": 18608,
+    "text": "ṣaṣṭhaṃ tu kṣetrajasyāṃśaṃ pradadyāt paitṛkād dhanāt  /"
+  },
+  {
+    "id": "p-bbd7c6",
+    "offset": 18665,
+    "text": "auraso vibhajan dāyaṃ pitryaṃ pañcamam eva vā  // Mn_9.164 //"
+  },
+  {
+    "id": "p-70bacd",
+    "offset": 18728,
+    "text": "aurasakṣetrajau putrau pitṛrikthasya bhāginau  /"
+  },
+  {
+    "id": "p-b40c11",
+    "offset": 18778,
+    "text": "daśāpare tu kramaśo gotrarikthāṃśabhāginaḥ  // Mn_9.165 //"
+  },
+  {
+    "id": "p-796f06",
+    "offset": 18838,
+    "text": "svakṣetre saṃskṛtāyāṃ tu svayam utpādayed dhi yam  /"
+  },
+  {
+    "id": "p-ab9a61",
+    "offset": 18892,
+    "text": "tam aurasaṃ vijānīyāt putraṃ prāthamakalpikam  // Mn_9.166 //"
+  },
+  {
+    "id": "p-246a93",
+    "offset": 18955,
+    "text": "yas talpajaḥ pramītasya klībasya vyādhitasya vā  /"
+  },
+  {
+    "id": "p-439636",
+    "offset": 19007,
+    "text": "svadharmeṇa niyuktāyāṃ sa putraḥ kṣetrajaḥ smṛtaḥ  // Mn_9.167 //"
+  },
+  {
+    "id": "p-575a9b",
+    "offset": 19074,
+    "text": "mātā pitā vā dadyātāṃ yam adbhiḥ putram āpadi  /"
+  },
+  {
+    "id": "p-a3d6f8",
+    "offset": 19124,
+    "text": "sadṛśaṃ prītisaṃyuktaṃ sa jñeyo dattrimaḥ sutaḥ  // Mn_9.168 //"
+  },
+  {
+    "id": "p-146cf9",
+    "offset": 19189,
+    "text": "sadṛśaṃ tu prakuryād yaṃ guṇadoṣavicakṣaṇam  /"
+  },
+  {
+    "id": "p-db831d",
+    "offset": 19237,
+    "text": "putraṃ putraguṇair yuktaṃ sa vijñeyaś ca kṛtrimaḥ  // Mn_9.169 //"
+  },
+  {
+    "id": "p-744a39",
+    "offset": 19304,
+    "text": "utpadyate gṛhe yas tu na ca jñāyeta kasya saḥ  /"
+  },
+  {
+    "id": "p-c3c8c7",
+    "offset": 19354,
+    "text": "sa gṛhe gūḍha utpannas tasya syād yasya talpajaḥ  // Mn_9.170 //"
+  },
+  {
+    "id": "p-aed603",
+    "offset": 19420,
+    "text": "mātāpitṛbhyām utsṛṣṭaṃ tayor anyatareṇa vā  /"
+  },
+  {
+    "id": "p-3f049c",
+    "offset": 19467,
+    "text": "yaṃ putraṃ parigṛhṇīyād apaviddhaḥ sa ucyate  // Mn_9.171 //"
+  },
+  {
+    "id": "p-0e5579",
+    "offset": 19529,
+    "text": "pitṛveśmani kanyā tu yaṃ putraṃ janayed rahaḥ  /"
+  },
+  {
+    "id": "p-a7bc82",
+    "offset": 19579,
+    "text": "taṃ kānīnaṃ vaden nāmnā voḍhuḥ kanyāsamudbhavam  // Mn_9.172 //"
+  },
+  {
+    "id": "p-63d987",
+    "offset": 19644,
+    "text": "yā garbhiṇī saṃskriyate jñātājñātāpi vā satī  /"
+  },
+  {
+    "id": "p-2c86c8",
+    "offset": 19693,
+    "text": "voḍhuḥ sa garbho bhavati sahoḍha iti cocyate  // Mn_9.173 //"
+  },
+  {
+    "id": "p-1a894f",
+    "offset": 19755,
+    "text": "krīṇīyād yas tv apatyārthaṃ mātāpitror yam antikāt  /"
+  },
+  {
+    "id": "p-fc8736",
+    "offset": 19810,
+    "text": "sa krītakaḥ sutas tasya sadṛśo 'sadṛśo 'pi vā  // Mn_9.174 //"
+  },
+  {
+    "id": "p-c349dd",
+    "offset": 19873,
+    "text": "yā patyā vā parityaktā vidhavā vā svayecchayā  /"
+  },
+  {
+    "id": "p-3a0c31",
+    "offset": 19923,
+    "text": "utpādayet punar bhūtvā sa paunarbhava ucyate  // Mn_9.175 //"
+  },
+  {
+    "id": "p-7c743f",
+    "offset": 19985,
+    "text": "sā ced akṣatayoniḥ syād gatapratyāgatāpi vā  /"
+  },
+  {
+    "id": "p-234afe",
+    "offset": 20033,
+    "text": "paunarbhavena bhartrā sā punaḥ saṃskāram arhati  // Mn_9.176 //"
+  },
+  {
+    "id": "p-c43388",
+    "offset": 20098,
+    "text": "mātāpitṛvihīno yas tyakto vā syād akāraṇāt  /"
+  },
+  {
+    "id": "p-06ee0b",
+    "offset": 20145,
+    "text": "ātmānam arpayed yasmai svayaṃdattas tu sa smṛtaḥ  // Mn_9.177 //"
+  },
+  {
+    "id": "p-4fe384",
+    "offset": 20211,
+    "text": "yaṃ brāhmaṇas tu śūdrāyāṃ kāmād utpādayet sutam  /"
+  },
+  {
+    "id": "p-f1d612",
+    "offset": 20263,
+    "text": "sa pārayann eva śavas tasmāt pāraśavaḥ smṛtaḥ  // Mn_9.178 //"
+  },
+  {
+    "id": "p-f0fb67",
+    "offset": 20326,
+    "text": "dāsyāṃ vā dāsadāsyāṃ vā yaḥ śūdrasya suto bhavet  /"
+  },
+  {
+    "id": "p-f47f2c",
+    "offset": 20379,
+    "text": "so 'nujñāto hared aṃśam iti dharmo vyavasthitaḥ  // Mn_9.179 //"
+  },
+  {
+    "id": "p-ab2bbe",
+    "offset": 20444,
+    "text": "kṣetrajādīn sutān etān ekādaśa yathoditān  /"
+  },
+  {
+    "id": "p-494a97",
+    "offset": 20490,
+    "text": "putrapratinidhīn āhuḥ kriyālopān manīṣiṇaḥ  // Mn_9.180 //"
+  },
+  {
+    "id": "p-5fc597",
+    "offset": 20550,
+    "text": "ya ete 'bhihitāḥ putrāḥ prasaṅgād anyabījajāḥ  /"
+  },
+  {
+    "id": "p-ea0597",
+    "offset": 20600,
+    "text": "yasya te bījato jātās tasya te netarasya tu  // Mn_9.181 //"
+  },
+  {
+    "id": "p-27c9b3",
+    "offset": 20661,
+    "text": "bhrātṝṇām ekajātānām ekaś cet putravān bhavet  /"
+  },
+  {
+    "id": "p-6a0679",
+    "offset": 20711,
+    "text": "sarvāṃs tāṃs tena putreṇa putriṇo manur abravīt  // Mn_9.182 //"
+  },
+  {
+    "id": "p-f77728",
+    "offset": 20776,
+    "text": "sarvāsām ekapatnīnām ekā cet putriṇī bhavet  /"
+  },
+  {
+    "id": "p-97832a",
+    "offset": 20824,
+    "text": "sarvās tās tena putreṇa prāha putravatīr manuḥ  // Mn_9.183 //"
+  },
+  {
+    "id": "p-07d74d",
+    "offset": 20888,
+    "text": "śreyasaḥ śreyaso 'lābhe pāpīyān riktham arhati  /"
+  },
+  {
+    "id": "p-b58f93",
+    "offset": 20939,
+    "text": "bahavaś cet tu sadṛśāḥ sarve rikthasya bhāginaḥ  // Mn_9.184 //"
+  },
+  {
+    "id": "p-de3c84",
+    "offset": 21004,
+    "text": "na bhrātaro na pitaraḥ putrā rikthaharāḥ pituḥ  /"
+  },
+  {
+    "id": "p-228f2c",
+    "offset": 21055,
+    "text": "pitā hared aputrasya rikthaṃ bhrātara eva ca  // Mn_9.185 //"
+  },
+  {
+    "id": "p-1a7de7",
+    "offset": 21117,
+    "text": "trayāṇām udakaṃ kāryaṃ triṣu piṇḍaḥ pravartate  /"
+  },
+  {
+    "id": "p-f887a0",
+    "offset": 21168,
+    "text": "caturthaḥ saṃpradātaiṣāṃ pañcamo nopapadyate  // Mn_9.186 //"
+  },
+  {
+    "id": "p-c016f6",
+    "offset": 21230,
+    "text": "anantaraḥ sapiṇḍād yas tasya tasya dhanaṃ bhavet  /"
+  },
+  {
+    "id": "p-015080",
+    "offset": 21283,
+    "text": "ata ūrdhvaṃ sakulyaḥ syād ācāryaḥ śiṣya eva vā  // Mn_9.187 //"
+  },
+  {
+    "id": "p-f3b3d3",
+    "offset": 21347,
+    "text": "sarveṣām apy abhāve tu brāhmaṇā rikthabhāginaḥ  /"
+  },
+  {
+    "id": "p-5ccff9",
+    "offset": 21398,
+    "text": "traividyāḥ śucayo dāntās tathā dharmo na hīyate  // Mn_9.188 //"
+  },
+  {
+    "id": "p-821ad4",
+    "offset": 21463,
+    "text": "ahāryaṃ brāhmaṇadravyaṃ rājñā nityam iti sthitiḥ  /"
+  },
+  {
+    "id": "p-866907",
+    "offset": 21516,
+    "text": "itareṣāṃ tu varṇānāṃ sarvābhāve haren nṛpaḥ  // Mn_9.189 //"
+  },
+  {
+    "id": "p-55051e",
+    "offset": 21577,
+    "text": "saṃsthitasyānapatyasya sagotrāt putram āharet  /"
+  },
+  {
+    "id": "p-f738e0",
+    "offset": 21627,
+    "text": "tatra yad rikthajātaṃ syāt tat tasmin pratipādayet  // Mn_9.190 //"
+  },
+  {
+    "id": "p-fbc942",
+    "offset": 21695,
+    "text": "dvau tu yau vivadeyātāṃ dvābhyāṃ jātau striyā dhane  /"
+  },
+  {
+    "id": "p-1256cf",
+    "offset": 21751,
+    "text": "tayor yad yasya pitryaṃ syāt tat sa gṛhṇīta netaraḥ  // Mn_9.191 //"
+  },
+  {
+    "id": "p-67ce58",
+    "offset": 21820,
+    "text": "jananyāṃ saṃsthitāyāṃ tu samaṃ sarve sahodarāḥ  /"
+  },
+  {
+    "id": "p-1253cc",
+    "offset": 21871,
+    "text": "bhajeran mātṛkaṃ rikthaṃ bhaginyaś ca sanābhayaḥ  // Mn_9.192 //"
+  },
+  {
+    "id": "p-99bc9d",
+    "offset": 21937,
+    "text": "yās tāsāṃ syur duhitaras tāsām api yathārhataḥ  /"
+  },
+  {
+    "id": "p-6c3b95",
+    "offset": 21988,
+    "text": "mātāmahyā dhanāt kiṃ cit pradeyaṃ prītipūrvakam  // Mn_9.193 //"
+  },
+  {
+    "id": "p-e8da76",
+    "offset": 22053,
+    "text": "adhyagnyadhyāvāhanikaṃ dattaṃ ca prītikarmaṇi  /"
+  },
+  {
+    "id": "p-4c6359",
+    "offset": 22103,
+    "text": "bhrātṛmātṛpitṛprāptaṃ ṣaḍvidhaṃ strīdhanaṃ smṛtam  // Mn_9.194 //"
+  },
+  {
+    "id": "p-8af915",
+    "offset": 22170,
+    "text": "anvādheyaṃ ca yad dattaṃ patyā prītena caiva yat  /"
+  },
+  {
+    "id": "p-341935",
+    "offset": 22223,
+    "text": "patyau jīvati vṛttāyāḥ prajāyās tad dhanaṃ bhavet  // Mn_9.195 //"
+  },
+  {
+    "id": "p-969c9d",
+    "offset": 22290,
+    "text": "brāhmadaivārṣagāndharva- prājāpatyeṣu yad vasu  /"
+  },
+  {
+    "id": "p-2bba09",
+    "offset": 22341,
+    "text": "aprajāyām atītāyāṃ bhartur eva tad iṣyate  // Mn_9.196 //"
+  },
+  {
+    "id": "p-6e21be",
+    "offset": 22400,
+    "text": "yat tv asyāḥ syād dhanaṃ dattaṃ vivāheṣv āsurādiṣu  /"
+  },
+  {
+    "id": "p-b3d30b",
+    "offset": 22455,
+    "text": "aprajāyām atītāyāṃ mātāpitros tad iṣyate  // Mn_9.197 //"
+  },
+  {
+    "id": "p-67d3d6",
+    "offset": 22513,
+    "text": "striyāṃ tu yad bhaved vittaṃ pitrā dattaṃ kathaṃ cana  /"
+  },
+  {
+    "id": "p-fd323f",
+    "offset": 22571,
+    "text": "brāhmaṇī tad dharet kanyā tadapatyasya vā bhavet  // Mn_9.198 //"
+  },
+  {
+    "id": "p-7af7ad",
+    "offset": 22637,
+    "text": "na nirhāraṃ striyaḥ kuryuḥ kuṭumbād bahumadhyagāt  /"
+  },
+  {
+    "id": "p-18b355",
+    "offset": 22691,
+    "text": "svakād api ca vittād dhi svasya bhartur anājñayā  // Mn_9.199 //"
+  },
+  {
+    "id": "p-4ff766",
+    "offset": 22757,
+    "text": "patyau jīvati yaḥ strībhir alaṅkāro dhṛto bhavet  /"
+  },
+  {
+    "id": "p-718840",
+    "offset": 22810,
+    "text": "na taṃ bhajeran dāyādā bhajamānāḥ patanti te  // Mn_9.200 //"
+  },
+  {
+    "id": "p-336509",
+    "offset": 22872,
+    "text": "anaṃśau klībapatitau jātyandhabadhirau tathā  /"
+  },
+  {
+    "id": "p-31f4c7",
+    "offset": 22921,
+    "text": "unmattajaḍamūkāś ca ye ca ke cin nirindriyāḥ  // Mn_9.201 //"
+  },
+  {
+    "id": "p-5a702a",
+    "offset": 22983,
+    "text": "sarveṣām api tu nyāyyaṃ dātuṃ śaktyā manīṣiṇā  /"
+  },
+  {
+    "id": "p-4eb846",
+    "offset": 23033,
+    "text": "grāsācchādanam atyantaṃ patito hy adadad bhavet  // Mn_9.202 //"
+  },
+  {
+    "id": "p-51df06",
+    "offset": 23098,
+    "text": "yady arthitā tu dāraiḥ syāt klībādīnāṃ kathaṃ cana  /"
+  },
+  {
+    "id": "p-62d428",
+    "offset": 23153,
+    "text": "teṣām utpannatantūnām apatyaṃ dāyam arhati  // Mn_9.203 //"
+  },
+  {
+    "id": "p-522629",
+    "offset": 23213,
+    "text": "yat kiṃ cit pitari prete dhanaṃ jyeṣṭho 'dhigacchati  /"
+  },
+  {
+    "id": "p-1b80ff",
+    "offset": 23270,
+    "text": "bhāgo yavīyasāṃ tatra yadi vidyānupālinaḥ  // Mn_9.204 //"
+  },
+  {
+    "id": "p-bea5ce",
+    "offset": 23329,
+    "text": "avidyānāṃ tu sarveṣāṃ īhātaś ced dhanaṃ bhavet  /"
+  },
+  {
+    "id": "p-29b2a6",
+    "offset": 23380,
+    "text": "samas tatra vibhāgaḥ syād apitrya iti dhāraṇā  // Mn_9.205 //"
+  },
+  {
+    "id": "p-2c95aa",
+    "offset": 23443,
+    "text": "vidyādhanaṃ tu yady asya tat tasyaiva dhanaṃ bhavet  /"
+  },
+  {
+    "id": "p-51ac1c",
+    "offset": 23499,
+    "text": "maitryam audvāhikaṃ caiva mādhuparkikam eva ca  // Mn_9.206 //"
+  },
+  {
+    "id": "p-ff8d5a",
+    "offset": 23563,
+    "text": "bhrātṝṇāṃ yas tu neheta dhanaṃ śaktaḥ svakarmaṇā  /"
+  },
+  {
+    "id": "p-fae5c1",
+    "offset": 23616,
+    "text": "sa nirbhājyaḥ svakād aṃśāt kiṃ cid dattvopajīvanam  // Mn_9.207 //"
+  },
+  {
+    "id": "p-81b334",
+    "offset": 23684,
+    "text": "anupaghnan pitṛdravyaṃ śrameṇa yad upārjitam  /"
+  },
+  {
+    "id": "p-876040",
+    "offset": 23733,
+    "text": "svayam īhitalabdhaṃ tan nākāmo dātum arhati  // Mn_9.208 //"
+  },
+  {
+    "id": "p-d41b73",
+    "offset": 23794,
+    "text": "paitṛkaṃ tu pitā dravyam anavāptaṃ yad āpnuyāt  /"
+  },
+  {
+    "id": "p-3d9e3d",
+    "offset": 23845,
+    "text": "na tat putrair bhajet sārdham akāmaḥ svayam arjitam  // Mn_9.209 //"
+  },
+  {
+    "id": "p-f8e082",
+    "offset": 23914,
+    "text": "vibhaktāḥ saha jīvanto vibhajeran punar yadi  /"
+  },
+  {
+    "id": "p-41439b",
+    "offset": 23963,
+    "text": "samas tatra vibhāgaḥ syāj jyaiṣṭhyaṃ tatra na vidyate  // Mn_9.210 //"
+  },
+  {
+    "id": "p-f8a1a5",
+    "offset": 24034,
+    "text": "yeṣāṃ jyeṣṭhaḥ kaniṣṭho vā hīyetāṃśapradānataḥ  /"
+  },
+  {
+    "id": "p-c5242d",
+    "offset": 24085,
+    "text": "mriyetānyataro vāpi tasya bhāgo na lupyate  // Mn_9.211 //"
+  },
+  {
+    "id": "p-659f38",
+    "offset": 24145,
+    "text": "sodaryā vibhajeraṃs taṃ sametya sahitāḥ samam  /"
+  },
+  {
+    "id": "p-560569",
+    "offset": 24195,
+    "text": "bhrātaro ye ca saṃsṛṣṭā bhāginyaś ca sanābhayaḥ  // Mn_9.212 //"
+  },
+  {
+    "id": "p-292efb",
+    "offset": 24260,
+    "text": "yo jyeṣṭho vinikurvīta lobhād bhrātṝn yavīyasaḥ  /"
+  },
+  {
+    "id": "p-915f6d",
+    "offset": 24312,
+    "text": "so 'jyeṣṭhaḥ syād abhāgaś ca niyantavyaś ca rājabhiḥ  // Mn_9.213 //"
+  },
+  {
+    "id": "p-07ae43",
+    "offset": 24382,
+    "text": "sarva eva vikarmasthā nārhanti bhrātaro dhanam  /"
+  },
+  {
+    "id": "p-b7e4a3",
+    "offset": 24433,
+    "text": "na cādattvā kaniṣṭhebhyo jyeṣṭhaḥ kurvīta yautakam  // Mn_9.214 //"
+  },
+  {
+    "id": "p-565ab7",
+    "offset": 24501,
+    "text": "bhrātṝṇām avibhaktānāṃ yady utthānaṃ bhavet saha  /"
+  },
+  {
+    "id": "p-632edf",
+    "offset": 24554,
+    "text": "na putrabhāgaṃ viṣamaṃ pitā dadyāt kathaṃ cana  // Mn_9.215 //"
+  },
+  {
+    "id": "p-675fd2",
+    "offset": 24618,
+    "text": "ūrdhvaṃ vibhāgāj jātas tu pitryam eva hared dhanam  /"
+  },
+  {
+    "id": "p-79fd5e",
+    "offset": 24673,
+    "text": "saṃsṛṣṭās tena vā ye syur vibhajeta sa taiḥ saha  // Mn_9.216 //"
+  },
+  {
+    "id": "p-ed418c",
+    "offset": 24739,
+    "text": "anapatyasya putrasya mātā dāyam avāpnuyāt  /"
+  },
+  {
+    "id": "p-a85944",
+    "offset": 24785,
+    "text": "mātary api ca vṛttāyāṃ pitur mātā hared dhanam  // Mn_9.217 //"
+  },
+  {
+    "id": "p-37a363",
+    "offset": 24849,
+    "text": "ṛṇe dhane ca sarvasmin pravibhakte yathāvidhi  /"
+  },
+  {
+    "id": "p-2041b5",
+    "offset": 24899,
+    "text": "paścād dṛśyeta yat kiṃ cit tat sarvaṃ samatāṃ nayet  // Mn_9.218 //"
+  },
+  {
+    "id": "p-bfb4ed",
+    "offset": 24968,
+    "text": "vastraṃ patram alaṅkāraṃ kṛtānnam udakaṃ striyaḥ  /"
+  },
+  {
+    "id": "p-dfb764",
+    "offset": 25021,
+    "text": "yogakṣemaṃ pracāraṃ ca na vibhājyaṃ pracakṣate  // Mn_9.219 //"
+  },
+  {
+    "id": "p-d14334",
+    "offset": 25085,
+    "text": "ayam ukto vibhāgo vaḥ putrāṇāṃ ca kriyāvidhiḥ  /"
+  },
+  {
+    "id": "p-08f7eb",
+    "offset": 25135,
+    "text": "kramaśaḥ kṣetrajādīnāṃ dyūtadharmaṃ nibodhata  // Mn_9.220 //"
+  },
+  {
+    "id": "p-1591f9",
+    "offset": 25198,
+    "text": "dyūtaṃ samāhvayaṃ caiva rājā rāṣṭrān nivārayet  /"
+  },
+  {
+    "id": "p-ec4a69",
+    "offset": 25249,
+    "text": "rājāntakaraṇāv etau dvau doṣau pṛthivīkṣitām  // Mn_9.221 //"
+  },
+  {
+    "id": "p-f37347",
+    "offset": 25311,
+    "text": "prakāśam etat tāskaryaṃ yad devanasamāhvayau  /"
+  },
+  {
+    "id": "p-b18f07",
+    "offset": 25360,
+    "text": "tayor nityaṃ pratīghāte nṛpatir yatnavān bhavet  // Mn_9.222 //"
+  },
+  {
+    "id": "p-0cc8fe",
+    "offset": 25425,
+    "text": "aprāṇibhir yat kriyate tal loke dyūtam ucyate  /"
+  },
+  {
+    "id": "p-9ddb8e",
+    "offset": 25475,
+    "text": "prāṇibhiḥ kriyate yas tu sa vijñeyaḥ samāhvayaḥ  // Mn_9.223 //"
+  },
+  {
+    "id": "p-3f35f4",
+    "offset": 25540,
+    "text": "dyūtaṃ samāhvayaṃ caiva yaḥ kuryāt kārayeta vā  /"
+  },
+  {
+    "id": "p-f33fee",
+    "offset": 25591,
+    "text": "tān sarvān ghātayed rājā śūdrāṃś ca dvijaliṅginaḥ  // Mn_9.224 //"
+  },
+  {
+    "id": "p-664890",
+    "offset": 25658,
+    "text": "kitavān kuśīlavān krūrān pāṣaṇḍasthāṃś ca mānavān  /"
+  },
+  {
+    "id": "p-0d11cb",
+    "offset": 25712,
+    "text": "vikarmasthān śauṇḍikāṃś ca kṣipraṃ nirvāsayet purāt  // Mn_9.225 //"
+  },
+  {
+    "id": "p-574025",
+    "offset": 25781,
+    "text": "ete rāṣṭre vartamānā rājñaḥ prachannataskarāḥ  /"
+  },
+  {
+    "id": "p-edeea3",
+    "offset": 25831,
+    "text": "vikarmakriyayā nityaṃ bādhante bhadrikāḥ prajāḥ  // Mn_9.226 //"
+  },
+  {
+    "id": "p-08d302",
+    "offset": 25896,
+    "text": "dyūtam etat purā kalpe dṛṣṭaṃ vairakaraṃ mahat  /"
+  },
+  {
+    "id": "p-afa230",
+    "offset": 25947,
+    "text": "tasmād dyūtaṃ na seveta hāsyārtham api buddhimān  // Mn_9.227 //"
+  },
+  {
+    "id": "p-87d0e7",
+    "offset": 26013,
+    "text": "pracchannaṃ vā prakāśaṃ vā tan niṣeveta yo naraḥ  /"
+  },
+  {
+    "id": "p-0f39ae",
+    "offset": 26066,
+    "text": "tasya daṇḍavikalpaḥ syād yatheṣṭaṃ nṛpates tathā  // Mn_9.228 //"
+  },
+  {
+    "id": "p-52d4ad",
+    "offset": 26132,
+    "text": "kṣatraviṭśūdrayonis tu daṇḍaṃ dātum aśaknuvan  /"
+  },
+  {
+    "id": "p-2fc4ea",
+    "offset": 26182,
+    "text": "ānṛṇyaṃ karmaṇā gacched vipro dadyāc chanaiḥ śanaiḥ  // Mn_9.229 //"
+  },
+  {
+    "id": "p-3271e4",
+    "offset": 26251,
+    "text": "strībālonmattavṛddhānāṃ daridrāṇāṃ ca rogiṇām  /"
+  },
+  {
+    "id": "p-558473",
+    "offset": 26301,
+    "text": "śiphāvidalarajjvādyair vidadhyān nṛpatir damam  // Mn_9.230 //"
+  },
+  {
+    "id": "p-de9f62",
+    "offset": 26365,
+    "text": "ye niyuktās tu kāryeṣu hanyuḥ kāryāṇi kāryiṇām  /"
+  },
+  {
+    "id": "p-5a8974",
+    "offset": 26416,
+    "text": "dhanoṣmaṇā pacyamānās tān niḥsvān kārayen nṛpaḥ  // Mn_9.231 //"
+  },
+  {
+    "id": "p-ae908c",
+    "offset": 26481,
+    "text": "kūṭaśāsanakartṝṃś ca prakṛtīnāṃ ca dūṣakān  /"
+  },
+  {
+    "id": "p-e5e50c",
+    "offset": 26528,
+    "text": "strībālabrāhmaṇaghnāṃś ca hanyād dviṭsevinas tathā  // Mn_9.232 //"
+  },
+  {
+    "id": "p-84d766",
+    "offset": 26596,
+    "text": "tīritaṃ cānuśiṣṭaṃ ca yatra kva cana yad bhavet  /"
+  },
+  {
+    "id": "p-4cf9da",
+    "offset": 26648,
+    "text": "kṛtaṃ tad dharmato vidyān na tad bhūyo nivartayet  // Mn_9.233 //"
+  },
+  {
+    "id": "p-ca26bb",
+    "offset": 26715,
+    "text": "amātyāḥ prāḍvivāko vā yat kuryuḥ kāryam anyathā  /"
+  },
+  {
+    "id": "p-8d720c",
+    "offset": 26767,
+    "text": "tat svayaṃ nṛpatiḥ kuryāt tān sahasraṃ ca daṇḍayet  // Mn_9.234 //"
+  },
+  {
+    "id": "p-bfbdee",
+    "offset": 26835,
+    "text": "brahmahā ca surāpaś ca steyī ca gurutalpagaḥ  /"
+  },
+  {
+    "id": "p-4c2c3f",
+    "offset": 26884,
+    "text": "ete sarve pṛthag jñeyā mahāpātakino narāḥ  // Mn_9.235 //"
+  },
+  {
+    "id": "p-d4d441",
+    "offset": 26943,
+    "text": "caturṇām api caiteṣāṃ prāyaścittam akurvatām  /"
+  },
+  {
+    "id": "p-604ff0",
+    "offset": 26992,
+    "text": "śārīraṃ dhanasaṃyuktaṃ daṇḍaṃ dharmyaṃ prakalpayet  // Mn_9.236 //"
+  },
+  {
+    "id": "p-2a39e1",
+    "offset": 27060,
+    "text": "gurutalpe bhagaḥ kāryaḥ surāpāne surādhvajaḥ  /"
+  },
+  {
+    "id": "p-3aa35c",
+    "offset": 27109,
+    "text": "steye ca śvapadaṃ kāryaṃ brahmahaṇy aśirāḥ pumān  // Mn_9.237 //"
+  },
+  {
+    "id": "p-f57314",
+    "offset": 27175,
+    "text": "asaṃbhojyā hy asaṃyājyā asaṃpāṭhyā 'vivāhinaḥ  /"
+  },
+  {
+    "id": "p-8cb57a",
+    "offset": 27225,
+    "text": "careyuḥ pṛthivīṃ dīnāḥ sarvadharmabahiṣkṛtāḥ  // Mn_9.238 //"
+  },
+  {
+    "id": "p-539b96",
+    "offset": 27287,
+    "text": "jñātisaṃbandhibhis tv ete tyaktavyāḥ kṛtalakṣaṇāḥ  /"
+  },
+  {
+    "id": "p-68aeb6",
+    "offset": 27341,
+    "text": "nirdayā nirnamaskārās tan manor anuśāsanam  // Mn_9.239 //"
+  },
+  {
+    "id": "p-22f8d6",
+    "offset": 27401,
+    "text": "prāyaścittaṃ tu kurvāṇāḥ sarvavarṇā yathoditam  /"
+  },
+  {
+    "id": "p-fe2cd3",
+    "offset": 27452,
+    "text": "nāṅkyā rājñā lalāṭe syur dāpyās tūttamasāhasam  // Mn_9.240 //"
+  },
+  {
+    "id": "p-422651",
+    "offset": 27516,
+    "text": "āgaḥsu brāhmaṇasyaiva kāryo madhyamasāhasaḥ  /"
+  },
+  {
+    "id": "p-037107",
+    "offset": 27564,
+    "text": "vivāsyo vā bhaved rāṣṭrāt sadravyaḥ saparicchadaḥ  // Mn_9.241 //"
+  },
+  {
+    "id": "p-472ebb",
+    "offset": 27631,
+    "text": "itare kṛtavantas tu pāpāny etāny akāmataḥ  /"
+  },
+  {
+    "id": "p-721c5a",
+    "offset": 27677,
+    "text": "sarvasvahāram arhanti kāmatas tu pravāsanam  // Mn_9.242 //"
+  },
+  {
+    "id": "p-25d4ca",
+    "offset": 27738,
+    "text": "nādadīta nṛpaḥ sādhur mahāpātakino dhanam  /"
+  },
+  {
+    "id": "p-cdb249",
+    "offset": 27784,
+    "text": "ādadānas tu tal lobhāt tena doṣeṇa lipyate  // Mn_9.243 //"
+  },
+  {
+    "id": "p-dabd32",
+    "offset": 27844,
+    "text": "apsu praveśya taṃ daṇḍaṃ varuṇāyopapādayet  /"
+  },
+  {
+    "id": "p-7476de",
+    "offset": 27891,
+    "text": "śrutavṛttopapanne vā brāhmaṇe pratipādayet  // Mn_9.244 //"
+  },
+  {
+    "id": "p-0e57cb",
+    "offset": 27951,
+    "text": "īśo daṇḍasya varuṇo rājñāṃ daṇḍadharo hi saḥ  /"
+  },
+  {
+    "id": "p-a8263c",
+    "offset": 28000,
+    "text": "īśaḥ sarvasya jagato brāhmaṇo vedapāragaḥ  // Mn_9.245 //"
+  },
+  {
+    "id": "p-ab2da5",
+    "offset": 28059,
+    "text": "yatra varjayate rājā pāpakṛdbhyo dhanāgamam  /"
+  },
+  {
+    "id": "p-a54365",
+    "offset": 28107,
+    "text": "tatra kālena jāyante mānavā dīrghajīvinaḥ  // Mn_9.246 //"
+  },
+  {
+    "id": "p-82a7e1",
+    "offset": 28166,
+    "text": "niṣpadyante ca sasyāni yathoptāni viśāṃ pṛthak  /"
+  },
+  {
+    "id": "p-19573a",
+    "offset": 28217,
+    "text": "bālāś ca na pramīyante vikṛtaṃ ca na jāyate  // Mn_9.247 //"
+  },
+  {
+    "id": "p-794b84",
+    "offset": 28278,
+    "text": "brāhmaṇān bādhamānaṃ tu kāmād avaravarṇajam  /"
+  },
+  {
+    "id": "p-29aed3",
+    "offset": 28326,
+    "text": "hanyāc citrair vadhopāyair udvejanakarair nṛpaḥ  // Mn_9.248 //"
+  },
+  {
+    "id": "p-ec4db5",
+    "offset": 28391,
+    "text": "yāvān avadhyasya vadhe tāvān vadhyasya mokṣaṇe  /"
+  },
+  {
+    "id": "p-1bba35",
+    "offset": 28442,
+    "text": "adharmo nṛpater dṛṣṭo dharmas tu viniyacchataḥ  // Mn_9.249 //"
+  },
+  {
+    "id": "p-0067bf",
+    "offset": 28506,
+    "text": "udito 'yaṃ vistaraśo mitho vivādamānayoḥ  /"
+  },
+  {
+    "id": "p-a800ec",
+    "offset": 28551,
+    "text": "aṣṭādaśasu mārgeṣu vyavahārasya nirṇayaḥ  // Mn_9.250 //"
+  },
+  {
+    "id": "p-4a2afc",
+    "offset": 28609,
+    "text": "evaṃ dharmyāṇi kāryāṇi samyak kurvan mahīpatiḥ  /"
+  },
+  {
+    "id": "p-1e3e8e",
+    "offset": 28660,
+    "text": "deśān alabdhāṃl lipseta labdhāṃś ca paripālayet  // Mn_9.251 //"
+  },
+  {
+    "id": "p-0d6f98",
+    "offset": 28725,
+    "text": "samyaṅ niviṣṭadeśas tu kṛtadurgaś ca śāstrataḥ  /"
+  },
+  {
+    "id": "p-3d7f66",
+    "offset": 28776,
+    "text": "kaṇṭakoddharaṇe nityam ātiṣṭhed yatnam uttamam  // Mn_9.252 //"
+  },
+  {
+    "id": "p-4a1571",
+    "offset": 28840,
+    "text": "rakṣanād āryavṛttānāṃ kaṇṭakānāṃ ca śodhanāt  /"
+  },
+  {
+    "id": "p-bb5f0a",
+    "offset": 28889,
+    "text": "narendrās tridivaṃ yānti prajāpālanatatparāḥ  // Mn_9.253 //"
+  },
+  {
+    "id": "p-4ac7a0",
+    "offset": 28951,
+    "text": "aśāsaṃs taskarān yas tu baliṃ gṛhṇāti pārthivaḥ  /"
+  },
+  {
+    "id": "p-aef43f",
+    "offset": 29003,
+    "text": "tasya prakṣubhyate rāṣṭraṃ svargāc ca parihīyate  // Mn_9.254 //"
+  },
+  {
+    "id": "p-5f79db",
+    "offset": 29069,
+    "text": "nirbhayaṃ tu bhaved yasya rāṣṭraṃ bāhubalāśritam  /"
+  },
+  {
+    "id": "p-f09fcb",
+    "offset": 29122,
+    "text": "tasya tad vardhate nityaṃ sicyamāna iva drumaḥ  // Mn_9.255 //"
+  },
+  {
+    "id": "p-52c792",
+    "offset": 29186,
+    "text": "dvividhāṃs taskarān vidyāt paradravyāpahārakān  /"
+  },
+  {
+    "id": "p-e9b442",
+    "offset": 29237,
+    "text": "prakāśāṃś cāprakāśāṃś ca cāracakṣur mahīpatiḥ  // Mn_9.256 //"
+  },
+  {
+    "id": "p-c5e393",
+    "offset": 29300,
+    "text": "prakāśavañcakās teṣāṃ nānāpaṇyopajīvinaḥ  /"
+  },
+  {
+    "id": "p-316c16",
+    "offset": 29345,
+    "text": "pracchannavañcakās tv ete ye stenāṭavikādayaḥ  // Mn_9.257 //"
+  },
+  {
+    "id": "p-dbf321",
+    "offset": 29408,
+    "text": "utkocakāś cāupadhikā vañcakāḥ kitavās tathā  /"
+  },
+  {
+    "id": "p-55670e",
+    "offset": 29456,
+    "text": "maṅgalādeśavṛttāś ca bhadrāś cekṣaṇikaiḥ saha  // Mn_9.258 //"
+  },
+  {
+    "id": "p-95248b",
+    "offset": 29519,
+    "text": "asamyakkāriṇaś caiva mahāmātrāś cikitsakāḥ  /"
+  },
+  {
+    "id": "p-70f778",
+    "offset": 29566,
+    "text": "śilpopacārayuktāś ca nipuṇāḥ paṇyayoṣitaḥ  // Mn_9.259 //"
+  },
+  {
+    "id": "p-098d69",
+    "offset": 29625,
+    "text": "evamādīn vijānīyāt prakāśāṃl lokakaṇṭakān  /"
+  },
+  {
+    "id": "p-1af1b0",
+    "offset": 29671,
+    "text": "nigūḍhacāriṇaś cānyān anāryān āryaliṅginaḥ  // Mn_9.260 //"
+  },
+  {
+    "id": "p-21b23e",
+    "offset": 29731,
+    "text": "tān viditvā sucaritair gūḍhais tatkarmakāribhiḥ  /"
+  },
+  {
+    "id": "p-4883a3",
+    "offset": 29783,
+    "text": "cāraiś cānekasaṃsthānaiḥ protsādya vaśam ānayet  // Mn_9.261 //"
+  },
+  {
+    "id": "p-d36fed",
+    "offset": 29848,
+    "text": "teṣāṃ doṣān abhikhyāpya sve sve karmaṇi tattvataḥ  /"
+  },
+  {
+    "id": "p-fff3f4",
+    "offset": 29902,
+    "text": "kurvīta śāsanaṃ rājā samyak sārāparādhataḥ  // Mn_9.262 //"
+  },
+  {
+    "id": "p-41105d",
+    "offset": 29962,
+    "text": "na hi daṇḍād ṛte śakyaḥ kartuṃ pāpavinigrahaḥ  /"
+  },
+  {
+    "id": "p-8fc814",
+    "offset": 30012,
+    "text": "stenānāṃ pāpabuddhīnāṃ nibhṛtaṃ caratāṃ kṣitau  // Mn_9.263 //"
+  },
+  {
+    "id": "p-38ec5d",
+    "offset": 30076,
+    "text": "sabhāprapāpūpaśālā- veśamadyānnavikrayāḥ  /"
+  },
+  {
+    "id": "p-e941eb",
+    "offset": 30121,
+    "text": "catuṣpathāṃś caityavṛkṣāḥ samājāḥ prekṣaṇāni ca  // Mn_9.264 //"
+  },
+  {
+    "id": "p-dde259",
+    "offset": 30186,
+    "text": "jīrṇodyānāny araṇyāni kārukāveśanāni ca  /"
+  },
+  {
+    "id": "p-90df2c",
+    "offset": 30230,
+    "text": "śūnyāni cāpy agārāṇi vanāny upavanāni ca  // Mn_9.265 //"
+  },
+  {
+    "id": "p-e1db06",
+    "offset": 30288,
+    "text": "evaṃvidhān nṛpo deśān gulmaiḥ sthāvarajaṅgamaiḥ  /"
+  },
+  {
+    "id": "p-d81b7d",
+    "offset": 30340,
+    "text": "taskarapratiṣedhārthaṃ cāraiś cāpy anucārayet  // Mn_9.266 //"
+  },
+  {
+    "id": "p-e76a89",
+    "offset": 30403,
+    "text": "tatsahāyair anugatair nānākarmapravedibhiḥ  /"
+  },
+  {
+    "id": "p-7d78ff",
+    "offset": 30450,
+    "text": "vidyād utsādayec caiva nipuṇaiḥ pūrvataskaraiḥ  // Mn_9.267 //"
+  },
+  {
+    "id": "p-91e7da",
+    "offset": 30514,
+    "text": "bhakṣyabhojyopadeśaiś ca brāhmaṇānāṃ ca darśanaiḥ  /"
+  },
+  {
+    "id": "p-8f7133",
+    "offset": 30568,
+    "text": "śauryakarmāpadeśaiś ca kuryus teṣāṃ samāgamam  // Mn_9.268 //"
+  },
+  {
+    "id": "p-22cfbe",
+    "offset": 30631,
+    "text": "ye tatra nopasarpeyur mūlapraṇihitāś ca ye  /"
+  },
+  {
+    "id": "p-f7043a",
+    "offset": 30678,
+    "text": "tān prasahya nṛpo hanyāt samitrajñātibāndhavān  // Mn_9.269 //"
+  },
+  {
+    "id": "p-67e92d",
+    "offset": 30742,
+    "text": "na hoḍhena vinā cauraṃ ghātayed dhārmiko nṛpaḥ  /"
+  },
+  {
+    "id": "p-bbd442",
+    "offset": 30793,
+    "text": "sahoḍhaṃ sopakaraṇaṃ ghātayed avicārayan  // Mn_9.270 //"
+  },
+  {
+    "id": "p-8dcd7d",
+    "offset": 30851,
+    "text": "grāmeṣv api ca ye ke cic caurāṇāṃ bhaktadāyakāḥ  /"
+  },
+  {
+    "id": "p-6c637b",
+    "offset": 30903,
+    "text": "bhāṇḍāvakāśadāś caiva sarvāṃs tān api ghātayet  // Mn_9.271 //"
+  },
+  {
+    "id": "p-84ee28",
+    "offset": 30967,
+    "text": "rāṣṭreṣu rakṣādhikṛtān sāmantāṃś caiva coditān  /"
+  },
+  {
+    "id": "p-05e0ba",
+    "offset": 31018,
+    "text": "abhyāghāteṣu madhyasthāñ śiṣyāc caurān iva drutam  // Mn_9.272 //"
+  },
+  {
+    "id": "p-e0b85d",
+    "offset": 31085,
+    "text": "yaś cāpi dharmasamayāt pracyuto dharmajīvanaḥ  /"
+  },
+  {
+    "id": "p-0fcec6",
+    "offset": 31135,
+    "text": "daṇḍenaiva tam apy oṣet svakād dharmād dhi vicyutam  // Mn_9.273 //"
+  },
+  {
+    "id": "p-4defec",
+    "offset": 31204,
+    "text": "grāmaghāte hitābhaṅge pathi moṣābhidarśane  /"
+  },
+  {
+    "id": "p-9dfe30",
+    "offset": 31251,
+    "text": "śaktito nābhidhāvanto nirvāsyāḥ saparicchadāḥ  // Mn_9.274 //"
+  },
+  {
+    "id": "p-dabffb",
+    "offset": 31314,
+    "text": "rājñaḥ kośāpahartṝṃś ca pratikūleṣu ca sthitān  /"
+  },
+  {
+    "id": "p-af88fd",
+    "offset": 31365,
+    "text": "ghātayed vividhair daṇḍair arīṇāṃ copajāpakān  // Mn_9.275 //"
+  },
+  {
+    "id": "p-f15f55",
+    "offset": 31428,
+    "text": "saṃdhiṃ chittvā tu ye cauryaṃ rātrau kurvanti taskarāḥ  /"
+  },
+  {
+    "id": "p-ba2593",
+    "offset": 31487,
+    "text": "teṣāṃ chittvā nṛpo hastau tīkṣṇe śūle niveśayet  // Mn_9.276 //"
+  },
+  {
+    "id": "p-93435f",
+    "offset": 31552,
+    "text": "aṅgulīr granthibhedasya chedayet prathame grahe  /"
+  },
+  {
+    "id": "p-2dc901",
+    "offset": 31604,
+    "text": "dvitīye hastacaraṇau tṛtīye vadham arhati  // Mn_9.277 //"
+  },
+  {
+    "id": "p-20c68c",
+    "offset": 31663,
+    "text": "agnidān bhaktadāṃś caiva tathā śastrāvakāśadān  /"
+  },
+  {
+    "id": "p-c5521c",
+    "offset": 31714,
+    "text": "saṃnidhātṝṃś ca moṣasya hanyāc cauram iveśvaraḥ  // Mn_9.278 //"
+  },
+  {
+    "id": "p-9b93a3",
+    "offset": 31779,
+    "text": "taḍāgabhedakaṃ hanyād apsu śuddhavadhena vā  /"
+  },
+  {
+    "id": "p-c31c1e",
+    "offset": 31827,
+    "text": "yad vāpi pratisaṃskuryād dāpyas tūttamasāhasam  // Mn_9.279 //"
+  },
+  {
+    "id": "p-01bf81",
+    "offset": 31891,
+    "text": "koṣṭhāgārāyudhāgāra- devatāgārabhedakān  /"
+  },
+  {
+    "id": "p-1778a9",
+    "offset": 31935,
+    "text": "hastyaśvarathahartṝṃś ca hanyād evāvicārayan  // Mn_9.280 //"
+  },
+  {
+    "id": "p-923432",
+    "offset": 31997,
+    "text": "yas tu pūrvaniviṣṭasya taḍāgasyodakaṃ haret  /"
+  },
+  {
+    "id": "p-2e744e",
+    "offset": 32045,
+    "text": "āgamaṃ vāpy apāṃ bhindyāt sa dāpyaḥ pūrvasāhasam  // Mn_9.281 //"
+  },
+  {
+    "id": "p-2b21b9",
+    "offset": 32111,
+    "text": "samutsṛjed rājamārge yas tv amedhyam anāpadi  /"
+  },
+  {
+    "id": "p-246958",
+    "offset": 32160,
+    "text": "sa dvau kārṣāpaṇau dadyād amedhyaṃ cāśu śodhayet  // Mn_9.282 //"
+  },
+  {
+    "id": "p-3b10d3",
+    "offset": 32226,
+    "text": "āpadgato 'tha vā vṛddhā garbhiṇī bāla eva vā  /"
+  },
+  {
+    "id": "p-796af4",
+    "offset": 32275,
+    "text": "paribhāṣaṇam arhanti tac ca śodhyam iti sthitiḥ  // Mn_9.283 //"
+  },
+  {
+    "id": "p-ac56f3",
+    "offset": 32340,
+    "text": "cikitsakānāṃ sarveṣāṃ mithyāpracaratāṃ damaḥ  /"
+  },
+  {
+    "id": "p-bac6e8",
+    "offset": 32389,
+    "text": "amānuṣeṣu prathamo mānuṣeṣu tu madhyamaḥ  // Mn_9.284 //"
+  },
+  {
+    "id": "p-4a2942",
+    "offset": 32447,
+    "text": "saṃkramadhvajayaṣṭīnāṃ pratimānāṃ ca bhedakaḥ  /"
+  },
+  {
+    "id": "p-eb9f56",
+    "offset": 32497,
+    "text": "pratikuryāc ca tat sarvaṃ pañca dadyāc chatāni ca  // Mn_9.285 //"
+  },
+  {
+    "id": "p-5f41bc",
+    "offset": 32564,
+    "text": "adūṣitānāṃ dravyāṇāṃ dūṣaṇe bhedane tathā  /"
+  },
+  {
+    "id": "p-d72f63",
+    "offset": 32610,
+    "text": "maṇīnām apavedhe ca daṇḍaḥ prathamasāhasaḥ  // Mn_9.286 //"
+  },
+  {
+    "id": "p-1dfbdc",
+    "offset": 32670,
+    "text": "samair hi viṣamaṃ yas tu cared vai mūlyato 'pi vā  /"
+  },
+  {
+    "id": "p-03f9b8",
+    "offset": 32724,
+    "text": "samāpnuyād damaṃ pūrvaṃ naro madhyamam eva vā  // Mn_9.287 //"
+  },
+  {
+    "id": "p-d0d8b8",
+    "offset": 32787,
+    "text": "bandhanāni ca sarvāṇi rājā mārge niveśayet  /"
+  },
+  {
+    "id": "p-d64eca",
+    "offset": 32834,
+    "text": "duḥkhitā yatra dṛśyeran vikṛtāḥ pāpakāriṇah  // Mn_9.288 //"
+  },
+  {
+    "id": "p-307597",
+    "offset": 32895,
+    "text": "prākārasya ca bhettāraṃ parikhāṇāṃ ca pūrakam  /"
+  },
+  {
+    "id": "p-cd1c57",
+    "offset": 32945,
+    "text": "dvārāṇāṃ caiva bhaṅktāraṃ kṣipram eva pravāsayet  // Mn_9.289 //"
+  },
+  {
+    "id": "p-b13faf",
+    "offset": 33011,
+    "text": "abhicāreṣu sarveṣu kartavyo dviśato damaḥ  /"
+  },
+  {
+    "id": "p-39f600",
+    "offset": 33057,
+    "text": "mūlakarmaṇi cānāpteḥ kṛtyāsu vividhāsu ca  // Mn_9.290 //"
+  },
+  {
+    "id": "p-06c45e",
+    "offset": 33116,
+    "text": "abījavikrayī caiva bījotkṛṣṭā tathaiva ca  /"
+  },
+  {
+    "id": "p-958737",
+    "offset": 33162,
+    "text": "maryādābhedakaś caiva vikṛtaṃ prāpnuyād vadham  // Mn_9.291 //"
+  },
+  {
+    "id": "p-c463ac",
+    "offset": 33226,
+    "text": "sarvakaṇṭakapāpiṣṭhaṃ hemakāraṃ tu pārthivaḥ  /"
+  },
+  {
+    "id": "p-0e6382",
+    "offset": 33275,
+    "text": "pravartamānam anyāye chedayel lavaśaḥ kṣuraiḥ  // Mn_9.292 //"
+  },
+  {
+    "id": "p-331c09",
+    "offset": 33338,
+    "text": "sītādravyāpaharaṇe śastrāṇām auṣadhasya ca  /"
+  },
+  {
+    "id": "p-48519f",
+    "offset": 33385,
+    "text": "kālam āsādya kāryaṃ ca rājā daṇḍaṃ prakalpayet  // Mn_9.293 //"
+  },
+  {
+    "id": "p-4fd225",
+    "offset": 33449,
+    "text": "svāmyamātyau puraṃ rāṣṭraṃ kośadaṇḍau suhṛt tathā  /"
+  },
+  {
+    "id": "p-8f018e",
+    "offset": 33503,
+    "text": "sapta prakṛtayo hy etāḥ saptāṅgaṃ rājyam ucyate  // Mn_9.294 //"
+  },
+  {
+    "id": "p-21f173",
+    "offset": 33568,
+    "text": "saptānāṃ prakṛtīnāṃ tu rājyasyāsāṃ yathākramam  /"
+  },
+  {
+    "id": "p-6f4c88",
+    "offset": 33619,
+    "text": "pūrvaṃ pūrvaṃ gurutaraṃ jānīyād vyasanaṃ mahat  // Mn_9.295 //"
+  },
+  {
+    "id": "p-f22f6a",
+    "offset": 33683,
+    "text": "saptāṅgasyeha rājyasya viṣṭabdhasya tridaṇḍavat  /"
+  },
+  {
+    "id": "p-6d3640",
+    "offset": 33735,
+    "text": "anyonyaguṇavaiśeṣyān na kiṃ cid atiricyate  // Mn_9.296 //"
+  },
+  {
+    "id": "p-e5439d",
+    "offset": 33795,
+    "text": "teṣu teṣu tu kṛtyeṣu tat tad aṅgaṃ viśiṣyate  /"
+  },
+  {
+    "id": "p-830b70",
+    "offset": 33844,
+    "text": "yena yat sādhyate kāryaṃ tat tasmiñ śreṣṭham ucyate  // Mn_9.297 //"
+  },
+  {
+    "id": "p-d287dc",
+    "offset": 33913,
+    "text": "cāreṇotsāhayogena kriyayaiva ca karmaṇām  /"
+  },
+  {
+    "id": "p-aaf208",
+    "offset": 33958,
+    "text": "svaśaktiṃ paraśaktiṃ ca nityaṃ vidyān mahīpatiḥ  // Mn_9.298 //"
+  },
+  {
+    "id": "p-f17c27",
+    "offset": 34023,
+    "text": "pīḍanāni ca sarvāṇi vyasanāni tathaiva ca  /"
+  },
+  {
+    "id": "p-5450c8",
+    "offset": 34069,
+    "text": "ārabheta tataḥ kāryaṃ saṃcintya gurulāghavam  // Mn_9.299 //"
+  },
+  {
+    "id": "p-ed53b8",
+    "offset": 34131,
+    "text": "ārabhetaiva karmāṇi śrāntaḥ śrāntaḥ punaḥ punaḥ  /"
+  },
+  {
+    "id": "p-494651",
+    "offset": 34183,
+    "text": "karmāṇy ārabhamāṇaṃ hi puruṣaṃ śrīr niṣevate  // Mn_9.300 //"
+  },
+  {
+    "id": "p-ec832d",
+    "offset": 34245,
+    "text": "kṛtaṃ tretāyugaṃ caiva dvāparaṃ kalir eva ca  /"
+  },
+  {
+    "id": "p-64b4f6",
+    "offset": 34294,
+    "text": "rājño vṛttāni sarvāṇi rājā hi yugam ucyate  // Mn_9.301 //"
+  },
+  {
+    "id": "p-f7c81d",
+    "offset": 34354,
+    "text": "kaliḥ prasupto bhavati sa jāgrad dvāparaṃ yugam  /"
+  },
+  {
+    "id": "p-ed2f31",
+    "offset": 34406,
+    "text": "karmasv abhyudyatas tretā vicaraṃs tu kṛtaṃ yugam  // Mn_9.302 //"
+  },
+  {
+    "id": "p-6fde69",
+    "offset": 34473,
+    "text": "indrasyārkasya vāyoś ca yamasya varuṇasya ca  /"
+  },
+  {
+    "id": "p-1f9245",
+    "offset": 34522,
+    "text": "candrasyāgneḥ pṛthivyāś ca tejovṛttaṃ nṛpaś caret  // Mn_9.303 //"
+  },
+  {
+    "id": "p-d2dcfb",
+    "offset": 34589,
+    "text": "vārṣikāṃś caturo māsān yathendro 'bhipravarṣati  /"
+  },
+  {
+    "id": "p-463b7f",
+    "offset": 34641,
+    "text": "tathābhivarṣet svaṃ rāṣṭraṃ kāmair indravrataṃ caran  // Mn_9.304 //"
+  },
+  {
+    "id": "p-063ad1",
+    "offset": 34711,
+    "text": "aṣṭau māsān yathādityas toyaṃ harati raśmibhiḥ  /"
+  },
+  {
+    "id": "p-d5a021",
+    "offset": 34762,
+    "text": "tathā haret karaṃ rāṣṭrān nityam arkavrataṃ hi tat  // Mn_9.305 //"
+  },
+  {
+    "id": "p-98716b",
+    "offset": 34830,
+    "text": "praviśya sarvabhūtāni yathā carati mārutaḥ  /"
+  },
+  {
+    "id": "p-92b5d1",
+    "offset": 34877,
+    "text": "tathā cāraiḥ praveṣṭavyaṃ vratam etad dhi mārutam  // Mn_9.306 //"
+  },
+  {
+    "id": "p-43cc0d",
+    "offset": 34944,
+    "text": "yathā yamaḥ priyadveṣyau prāpte kāle niyacchati  /"
+  },
+  {
+    "id": "p-85aea7",
+    "offset": 34996,
+    "text": "tathā rājñā niyantavyāḥ prajās tad dhi yamavratam  // Mn_9.307 //"
+  },
+  {
+    "id": "p-4f63a7",
+    "offset": 35063,
+    "text": "varuṇena yathā pāśair baddha evābhidṛśyate  /"
+  },
+  {
+    "id": "p-fcc8cf",
+    "offset": 35110,
+    "text": "tathā pāpān nigṛhṇīyād vratam etad dhi vāruṇam  // Mn_9.308 //"
+  },
+  {
+    "id": "p-3f7c18",
+    "offset": 35174,
+    "text": "paripūrṇaṃ yathā candraṃ dṛṣṭvā hṛṣyanti mānavāḥ  /"
+  },
+  {
+    "id": "p-72f5e2",
+    "offset": 35227,
+    "text": "tathā prakṛtayo yasmin sa cāndravratiko nṛpaḥ  // Mn_9.309 //"
+  },
+  {
+    "id": "p-0e6e54",
+    "offset": 35290,
+    "text": "pratāpayuktas tejasvī nityaṃ syāt pāpakarmasu  /"
+  },
+  {
+    "id": "p-a46e30",
+    "offset": 35340,
+    "text": "duṣṭasāmantahiṃsraś ca tad āgneyaṃ vrataṃ smṛtam  // Mn_9.310 //"
+  },
+  {
+    "id": "p-884a55",
+    "offset": 35406,
+    "text": "yathā sarvāṇi bhūtāni dharā dhārayate samam  /"
+  },
+  {
+    "id": "p-ea3f7d",
+    "offset": 35454,
+    "text": "tathā sarvāṇi bhūtāni bibhrataḥ pārthivaṃ vratam  // Mn_9.311 //"
+  },
+  {
+    "id": "p-cacb9b",
+    "offset": 35520,
+    "text": "etair upāyair anyaiś ca yukto nityam atandritaḥ  /"
+  },
+  {
+    "id": "p-e9d9ce",
+    "offset": 35572,
+    "text": "stenān rājā nigṛhṇīyāt svarāṣṭre para eva ca  // Mn_9.312 //"
+  },
+  {
+    "id": "p-419fd8",
+    "offset": 35634,
+    "text": "parām apy āpadaṃ prāpto brāhmaṇān na prakopayet  /"
+  },
+  {
+    "id": "p-cd7f2b",
+    "offset": 35686,
+    "text": "te hy enaṃ kupitā hanyuḥ sadyaḥ sabalavāhanam  // Mn_9.313 //"
+  },
+  {
+    "id": "p-02953e",
+    "offset": 35749,
+    "text": "yaiḥ kṛtaḥ sarvabhakṣyo 'gnir apeyaś ca mahodadhiḥ  /"
+  },
+  {
+    "id": "p-30a020",
+    "offset": 35804,
+    "text": "kṣayī cāpyāyitaḥ somaḥ ko na naśyet prakopya tān  // Mn_9.314 //"
+  },
+  {
+    "id": "p-d82b28",
+    "offset": 35870,
+    "text": "lokān anyān sṛjeyur ye lokapālāṃś ca kopitāḥ  /"
+  },
+  {
+    "id": "p-d93788",
+    "offset": 35919,
+    "text": "devān kuryur adevāṃś ca kaḥ kṣiṇvaṃs tān samṛdhnuyāt  // Mn_9.315 //"
+  },
+  {
+    "id": "p-430c34",
+    "offset": 35989,
+    "text": "yān upāśritya tiṣṭhanti lokā devāś ca sarvadā  /"
+  },
+  {
+    "id": "p-9e893a",
+    "offset": 36039,
+    "text": "brahma caiva dhanaṃ yeṣāṃ ko hiṃsyāt tāñ jijīviṣuḥ  // Mn_9.316 //"
+  },
+  {
+    "id": "p-138438",
+    "offset": 36107,
+    "text": "avidvāṃś caiva vidvāṃś ca brāhmaṇo daivataṃ mahat  /"
+  },
+  {
+    "id": "p-cdeb83",
+    "offset": 36161,
+    "text": "praṇītaś cāpraṇītaś ca yathāgnir daivataṃ mahat  // Mn_9.317 //"
+  },
+  {
+    "id": "p-e93ec1",
+    "offset": 36226,
+    "text": "śmaśāneṣv api tejasvī pāvako naiva duṣyati  /"
+  },
+  {
+    "id": "p-f59f31",
+    "offset": 36273,
+    "text": "hūyamānaś ca yajñeṣu bhūya evābhivardhate  // Mn_9.318 //"
+  },
+  {
+    "id": "p-c53ecb",
+    "offset": 36332,
+    "text": "evaṃ yady apy aniṣṭeṣu vartante sarvakarmasu  /"
+  },
+  {
+    "id": "p-2d5b52",
+    "offset": 36381,
+    "text": "sarvathā brāhmaṇāḥ pūjyāḥ paramaṃ daivataṃ hi tat  // Mn_9.319 //"
+  },
+  {
+    "id": "p-923016",
+    "offset": 36448,
+    "text": "kṣatrasyātipravṛddhasya brāhmaṇān prati sarvaśaḥ  /"
+  },
+  {
+    "id": "p-8b99cd",
+    "offset": 36501,
+    "text": "brahmaiva saṃniyantṛ syāt kṣatraṃ hi brahmasaṃbhavam  // Mn_9.320 //"
+  },
+  {
+    "id": "p-5fc57c",
+    "offset": 36571,
+    "text": "adbhyo 'gnir brahmataḥ kṣatram aśmano loham utthitam  /"
+  },
+  {
+    "id": "p-3dfd63",
+    "offset": 36628,
+    "text": "teṣāṃ sarvatragaṃ tejaḥ svāsu yoniṣu śāmyati  // Mn_9.321 //"
+  },
+  {
+    "id": "p-9d1456",
+    "offset": 36690,
+    "text": "nābrahma kṣatram ṛdhnoti nākṣatraṃ brahma vardhate  /"
+  },
+  {
+    "id": "p-90152b",
+    "offset": 36745,
+    "text": "brahma kṣatraṃ ca saṃpṛktam iha cāmutra vardhate  // Mn_9.322 //"
+  },
+  {
+    "id": "p-ecf5aa",
+    "offset": 36811,
+    "text": "dattvā dhanaṃ tu viprebhyaḥ sarvadaṇḍasamutthitam  /"
+  },
+  {
+    "id": "p-518921",
+    "offset": 36865,
+    "text": "putre rājyaṃ samāsṛjya kurvīta prāyaṇaṃ raṇe  // Mn_9.323 //"
+  },
+  {
+    "id": "p-9853e2",
+    "offset": 36927,
+    "text": "evaṃ caran sadā yukto rājadharmeṣu pārthivaḥ  /"
+  },
+  {
+    "id": "p-a11977",
+    "offset": 36976,
+    "text": "hiteṣu caiva lokasya sarvān bhṛtyān niyojayet  // Mn_9.324 //"
+  },
+  {
+    "id": "p-ef2f7a",
+    "offset": 37039,
+    "text": "eṣo 'khilaḥ karmavidhir ukto rājñaḥ sanātanaḥ  /"
+  },
+  {
+    "id": "p-ffe1d8",
+    "offset": 37089,
+    "text": "imaṃ karmavidhiṃ vidyāt kramaśo vaiśyaśūdrayoḥ  // Mn_9.325 //"
+  },
+  {
+    "id": "p-0d661d",
+    "offset": 37153,
+    "text": "vaiśyas tu kṛtasaṃskāraḥ kṛtvā dāraparigraham  /"
+  },
+  {
+    "id": "p-dee60c",
+    "offset": 37203,
+    "text": "vārtāyāṃ nityayuktaḥ syāt paśūnāṃ caiva rakṣaṇe  // Mn_9.326 //"
+  },
+  {
+    "id": "p-ac1b89",
+    "offset": 37268,
+    "text": "prajāpatir hi vaiśyāya sṛṣṭvā paridade paśūn  /"
+  },
+  {
+    "id": "p-6dcae3",
+    "offset": 37317,
+    "text": "brāhmaṇāya ca rājñe ca sarvāḥ paridade prajāḥ  // Mn_9.327 //"
+  },
+  {
+    "id": "p-8687b8",
+    "offset": 37380,
+    "text": "na ca vaiśyasya kāmaḥ syān na rakṣeyaṃ paśūn iti  /"
+  },
+  {
+    "id": "p-128de9",
+    "offset": 37433,
+    "text": "vaiśye cecchati nānyena rakṣitavyāḥ kathaṃ cana  // Mn_9.328 //"
+  },
+  {
+    "id": "p-c2aee4",
+    "offset": 37498,
+    "text": "maṇimuktāpravālānāṃ lohānāṃ tāntavasya ca  /"
+  },
+  {
+    "id": "p-b2e846",
+    "offset": 37544,
+    "text": "gandhānāṃ ca rasānāṃ ca vidyād arghabalābalam  // Mn_9.329 //"
+  },
+  {
+    "id": "p-467cb3",
+    "offset": 37607,
+    "text": "bījānām uptivic ca syāt kṣetradoṣaguṇasya ca  /"
+  },
+  {
+    "id": "p-874997",
+    "offset": 37656,
+    "text": "mānayogaṃ ca jānīyāt tulāyogāṃś ca sarvaśaḥ  // Mn_9.330 //"
+  },
+  {
+    "id": "p-ac3f63",
+    "offset": 37717,
+    "text": "sārāsāraṃ ca bhāṇḍānāṃ deśānāṃ ca guṇāguṇān  /"
+  },
+  {
+    "id": "p-ab8eae",
+    "offset": 37765,
+    "text": "lābhālābhaṃ ca paṇyānāṃ paśūnāṃ parivardhanam  // Mn_9.331 //"
+  },
+  {
+    "id": "p-48ed2c",
+    "offset": 37828,
+    "text": "bhṛtyānāṃ ca bhṛtiṃ vidyād bhāṣāś ca vividhā nṛṇāṃ  /"
+  },
+  {
+    "id": "p-7c63fc",
+    "offset": 37883,
+    "text": "dravyāṇāṃ sthānayogāṃś ca krayavikrayam eva ca  // Mn_9.332 //"
+  },
+  {
+    "id": "p-75cb77",
+    "offset": 37947,
+    "text": "dharmeṇa ca dravyavṛddhāv ātiṣṭhed yatnam uttamam  /"
+  },
+  {
+    "id": "p-17910b",
+    "offset": 38001,
+    "text": "dadyāc ca sarvabhūtānām annam eva prayatnataḥ  // Mn_9.333 //"
+  },
+  {
+    "id": "p-94149c",
+    "offset": 38064,
+    "text": "viprāṇāṃ vedaviduṣāṃ gṛhasthānāṃ yaśasvinām  /"
+  },
+  {
+    "id": "p-a0e731",
+    "offset": 38112,
+    "text": "śuśrūṣaiva tu śūdrasya dharmo naiśreyasaḥ paraḥ  // Mn_9.334 //"
+  },
+  {
+    "id": "p-7d51e4",
+    "offset": 38177,
+    "text": "śucir utkṛṣṭaśuśrūṣur mṛduvāg anahaṃkṛtaḥ  /"
+  },
+  {
+    "id": "p-bb852b",
+    "offset": 38223,
+    "text": "brāhmaṇādyāśrayo nityam utkṛṣṭāṃ jātim aśnute  // Mn_9.335 //"
+  },
+  {
+    "id": "p-fbfff5",
+    "offset": 38286,
+    "text": "eṣo 'nāpadi varṇānām uktaḥ karmavidhiḥ śubhaḥ  /"
+  },
+  {
+    "id": "p-c790df",
+    "offset": 38336,
+    "text": "āpady api hi yas teṣāṃ kramaśas tan nibodhata  // Mn_9.336 //"
+  }
+]

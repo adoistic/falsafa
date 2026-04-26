@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-manusmrti-347b76",
+  "work_title": "Manusmṛti",
+  "chapter_number": 9,
+  "chapter_title": "Chapter 9",
+  "chapter_slug": "09",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "104214c4-1f22-4b6b-aae8-55ce43255bdc",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 10149,
+      "paragraph_count": 155,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "c8b43072-866d-4d76-881d-9a660f717f9c",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 5402,
+      "paragraph_count": 672,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

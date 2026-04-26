@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-visnu-smrti-27f0d8",
+  "work_title": "Viṣṇu Smṛti",
+  "chapter_number": 51,
+  "chapter_title": "Chapter 51",
+  "chapter_slug": "51",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2372a7b2-ed67-40b7-a11e-ccd755bd8467",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 1694,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "f19e4893-5c90-44c1-ba28-51dbd445f3f9",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 706,
+      "paragraph_count": 99,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

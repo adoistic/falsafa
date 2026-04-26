@@ -1,0 +1,512 @@
+[
+  {
+    "id": "p-933c32",
+    "offset": 0,
+    "text": "Vi_96"
+  },
+  {
+    "id": "p-b7aff6",
+    "offset": 7,
+    "text": "atha triṣv āśrameṣu pakvakaṣāyaḥ prājāpatyām iṣṭiṃ kṛtvā sarvavedasaṃ dakṣiṇāṃ dattvā pravrajyāśramī syāt // Vi_96.1 //"
+  },
+  {
+    "id": "p-c181a8",
+    "offset": 128,
+    "text": "ātmany agnīn āropya bhikṣārthaṃ grāmam iyāt // Vi_96.2 //"
+  },
+  {
+    "id": "p-8590d5",
+    "offset": 187,
+    "text": "saptāgārikaṃ bhaikṣam ācaret // Vi_96.3 //"
+  },
+  {
+    "id": "p-637d6c",
+    "offset": 231,
+    "text": "alābhe na vyatheta // Vi_96.4 //"
+  },
+  {
+    "id": "p-1fb70f",
+    "offset": 265,
+    "text": "na bhikṣukaṃ bhikṣeta // Vi_96.5 //"
+  },
+  {
+    "id": "p-d64eb2",
+    "offset": 302,
+    "text": "bhuktavati jane atīte pātrasaṃpāte bhaikṣam ādadyāt // Vi_96.6 //"
+  },
+  {
+    "id": "p-2625df",
+    "offset": 369,
+    "text": "mṛnmaye dārupātre 'lābupātre vā // Vi_96.7 //"
+  },
+  {
+    "id": "p-b25a48",
+    "offset": 416,
+    "text": "teṣāṃ ca tasyādbhiḥ śuddhiḥ syāt // Vi_96.8 //"
+  },
+  {
+    "id": "p-e70a41",
+    "offset": 464,
+    "text": "abhipūjitalābhād udvijeta // Vi_96.9 //"
+  },
+  {
+    "id": "p-d3c21f",
+    "offset": 505,
+    "text": "śūnyāgāraniketanaḥ syāt // Vi_96.10 //"
+  },
+  {
+    "id": "p-36af23",
+    "offset": 545,
+    "text": "vṛkṣamūlaniketano vā // Vi_96.11 //"
+  },
+  {
+    "id": "p-a39738",
+    "offset": 582,
+    "text": "na grāme dvitīyāṃ rātrim āvaset // Vi_96.12 //"
+  },
+  {
+    "id": "p-eee1e7",
+    "offset": 630,
+    "text": "kaupīnācchādanamātram eva vasanam ādadyāt // Vi_96.13 //"
+  },
+  {
+    "id": "p-65e940",
+    "offset": 688,
+    "text": "dṛṣṭipūtaṃ nyaset pādam // Vi_96.14 //"
+  },
+  {
+    "id": "p-a743b9",
+    "offset": 728,
+    "text": "vastrapūtaṃ jalam ādadyāt // Vi_96.15 //"
+  },
+  {
+    "id": "p-fdaa70",
+    "offset": 770,
+    "text": "satyapūtaṃ vadet // Vi_96.16 //"
+  },
+  {
+    "id": "p-fbc5cb",
+    "offset": 803,
+    "text": "manaḥpūtam ācaret // Vi_96.17 //"
+  },
+  {
+    "id": "p-8888e3",
+    "offset": 837,
+    "text": "maraṇaṃ nābhikāmayeta jīvitaṃ ca // Vi_96.18 //"
+  },
+  {
+    "id": "p-d4e1bd",
+    "offset": 886,
+    "text": "ativādāṃs titikṣeta // Vi_96.19 //"
+  },
+  {
+    "id": "p-d3b565",
+    "offset": 922,
+    "text": "na kaṃcanāvamanyeta // Vi_96.20 //"
+  },
+  {
+    "id": "p-c4d698",
+    "offset": 958,
+    "text": "nirāśīḥ syāt // Vi_96.21 //"
+  },
+  {
+    "id": "p-379dc5",
+    "offset": 987,
+    "text": "nirnamaskāraḥ // Vi_96.22 //"
+  },
+  {
+    "id": "p-6609d8",
+    "offset": 1017,
+    "text": "vāsyaikaṃ takṣato bāhuṃ candanenaikam ukṣataḥ  /"
+  },
+  {
+    "id": "p-dea3ee",
+    "offset": 1067,
+    "text": "nākalyāṇaṃ na kalyāṇaṃ tayor api ca cintayet  || Vi_96.23 ||"
+  },
+  {
+    "id": "p-9b8094",
+    "offset": 1129,
+    "text": "prāṇāyāmadhāraṇādhyānanityaḥ syāt // Vi_96.24 //"
+  },
+  {
+    "id": "p-c2e1cc",
+    "offset": 1179,
+    "text": "saṃsārasyānityatāṃ paśyet // Vi_96.25 //"
+  },
+  {
+    "id": "p-3952da",
+    "offset": 1221,
+    "text": "śarīrasyāśucibhāvam // Vi_96.26 //"
+  },
+  {
+    "id": "p-4f9539",
+    "offset": 1257,
+    "text": "jarayā rūpaviparyayam // Vi_96.27 //"
+  },
+  {
+    "id": "p-ef7283",
+    "offset": 1295,
+    "text": "śārīramānasāgantukavyādhibhiś copatāpam // Vi_96.28 //"
+  },
+  {
+    "id": "p-21e52c",
+    "offset": 1351,
+    "text": "sahajaiś ca // Vi_96.29 //"
+  },
+  {
+    "id": "p-b5f8b6",
+    "offset": 1379,
+    "text": "nityāndhakāre garbhe vasatim // Vi_96.30 //"
+  },
+  {
+    "id": "p-fd25ba",
+    "offset": 1424,
+    "text": "mūtrapurīṣamadhye ca // Vi_96.31 //"
+  },
+  {
+    "id": "p-8e17ff",
+    "offset": 1461,
+    "text": "tatra ca śītoṣṇaduḥkhānubhavanam // Vi_96.32 //"
+  },
+  {
+    "id": "p-999eb5",
+    "offset": 1510,
+    "text": "janmasamaye yonisaṃkaṭanirgamanāt mahadduḥkhānubhavanam // Vi_96.33 //"
+  },
+  {
+    "id": "p-93d4dc",
+    "offset": 1582,
+    "text": "bālye mohaṃ guruparavaśyatām // Vi_96.34 //"
+  },
+  {
+    "id": "p-18c6c9",
+    "offset": 1627,
+    "text": "adhyayanād anekakleśam // Vi_96.35 //"
+  },
+  {
+    "id": "p-bf2186",
+    "offset": 1666,
+    "text": "yauvane ca viṣayāprāptāv amārgeṇa tadavāptau viṣayasevanān narake patanam // Vi_96.36 //"
+  },
+  {
+    "id": "p-b0de88",
+    "offset": 1756,
+    "text": "apriyair vasatiṃ priyaiś ca viprayogam // Vi_96.37 //"
+  },
+  {
+    "id": "p-c70ae3",
+    "offset": 1811,
+    "text": "narake ca sumahadduḥkham // Vi_96.38 //"
+  },
+  {
+    "id": "p-115009",
+    "offset": 1852,
+    "text": "saṃsārasaṃsṛtau tiryagyoniṣu ca // Vi_96.39 //"
+  },
+  {
+    "id": "p-a8aa62",
+    "offset": 1900,
+    "text": "evam asmin satatayāyini saṃsāre na kiṃcit sukham // Vi_96.40 //"
+  },
+  {
+    "id": "p-69719d",
+    "offset": 1965,
+    "text": "yad api kiṃcit duḥkhābhāvāpekṣayā sukhasaṃjñaṃ tad apy anityam // Vi_96.41 //"
+  },
+  {
+    "id": "p-656120",
+    "offset": 2044,
+    "text": "tatsevāśaktāv alābhe vā mahadduḥkham // Vi_96.42 //"
+  },
+  {
+    "id": "p-439919",
+    "offset": 2097,
+    "text": "śarīraṃ cedaṃ saptadhātukaṃ paśyet // Vi_96.43 //"
+  },
+  {
+    "id": "p-cfdd08",
+    "offset": 2148,
+    "text": "vasārudhiramāṃsamedo 'sthimajjāśukrātmakam // Vi_96.44 //"
+  },
+  {
+    "id": "p-f364de",
+    "offset": 2207,
+    "text": "carmāvanaddham // Vi_96.45 //"
+  },
+  {
+    "id": "p-0d7a6a",
+    "offset": 2238,
+    "text": "durgandhi ca // Vi_96.46 //"
+  },
+  {
+    "id": "p-6265e5",
+    "offset": 2267,
+    "text": "malāyatanam // Vi_96.47 //"
+  },
+  {
+    "id": "p-ccacd3",
+    "offset": 2295,
+    "text": "sukhaśatair api vṛtaṃ vikāri // Vi_96.48 //"
+  },
+  {
+    "id": "p-0284ce",
+    "offset": 2340,
+    "text": "prayatnād dhṛtam api vināśi // Vi_96.49 //"
+  },
+  {
+    "id": "p-37d702",
+    "offset": 2384,
+    "text": "kāmakrodhalobhamohamadamātsaryasthānam // Vi_96.50 //"
+  },
+  {
+    "id": "p-ca9f18",
+    "offset": 2439,
+    "text": "pṛthivyaptejovāyvākāśātmakam // Vi_96.51 //"
+  },
+  {
+    "id": "p-77efd0",
+    "offset": 2484,
+    "text": "asthisirādhamanīsnāyuyutam // Vi_96.52 //"
+  },
+  {
+    "id": "p-d4745d",
+    "offset": 2527,
+    "text": "rajasvalam // Vi_96.53 //"
+  },
+  {
+    "id": "p-896d0e",
+    "offset": 2554,
+    "text": "ṣaṭtvacam // Vi_96.54 //"
+  },
+  {
+    "id": "p-5ac2e5",
+    "offset": 2580,
+    "text": "asthnāṃ tribhiḥ śataiḥ ṣaṣtyadhikair dhāryamāṇam // Vi_96.55 //"
+  },
+  {
+    "id": "p-96aed3",
+    "offset": 2645,
+    "text": "teṣāṃ vibhāgaḥ // Vi_96.56 //"
+  },
+  {
+    "id": "p-529bba",
+    "offset": 2676,
+    "text": "sūkṣmaiḥ saha catuḥṣaṣṭir daśanāḥ // Vi_96.57 //"
+  },
+  {
+    "id": "p-1edb44",
+    "offset": 2726,
+    "text": "viṃśatir nakhāḥ // Vi_96.58 //"
+  },
+  {
+    "id": "p-2d1a19",
+    "offset": 2758,
+    "text": "pāṇipādaśalākāś ca // Vi_96.59 //"
+  },
+  {
+    "id": "p-a852c4",
+    "offset": 2793,
+    "text": "ṣaṣṭir aṅgulīnāṃ parvāṇi // Vi_96.60 //"
+  },
+  {
+    "id": "p-23acec",
+    "offset": 2834,
+    "text": "dve pārṣṇyoḥ // Vi_96.61 //"
+  },
+  {
+    "id": "p-23ea98",
+    "offset": 2863,
+    "text": "catuṣṭayaṃ gulpheṣu // Vi_96.62 //"
+  },
+  {
+    "id": "p-976ca1",
+    "offset": 2899,
+    "text": "catvāry aratnyoḥ // Vi_96.63 //"
+  },
+  {
+    "id": "p-b65543",
+    "offset": 2932,
+    "text": "catvāri jaṅghayoḥ // Vi_96.64 //"
+  },
+  {
+    "id": "p-aded34",
+    "offset": 2966,
+    "text": "dve dve jānukapolayoḥ // Vi_96.65 //"
+  },
+  {
+    "id": "p-daf7f6",
+    "offset": 3004,
+    "text": "ūrvaṃsayoh // Vi_96.66 //"
+  },
+  {
+    "id": "p-1e8b76",
+    "offset": 3031,
+    "text": "akṣatālūṣakaśroṇiphalakeṣu // Vi_96.67 //"
+  },
+  {
+    "id": "p-1d7eda",
+    "offset": 3074,
+    "text": "bhagāsthyekam // Vi_96.68 //"
+  },
+  {
+    "id": "p-996338",
+    "offset": 3104,
+    "text": "pṛṣṭhāsthi pañcacatvāriṃśad bhāgam // Vi_96.69 //"
+  },
+  {
+    "id": "p-4c3190",
+    "offset": 3155,
+    "text": "pañcadaśāsthīni grīvā // Vi_96.70 //"
+  },
+  {
+    "id": "p-076a15",
+    "offset": 3193,
+    "text": "jatrvekam // Vi_96.71 //"
+  },
+  {
+    "id": "p-402615",
+    "offset": 3219,
+    "text": "tathā hanuḥ // Vi_96.72 //"
+  },
+  {
+    "id": "p-e43218",
+    "offset": 3247,
+    "text": "tanmūle ca dve // Vi_96.73 //"
+  },
+  {
+    "id": "p-1d7717",
+    "offset": 3278,
+    "text": "dve lalāṭākṣigaṇḍe // Vi_96.74 //"
+  },
+  {
+    "id": "p-8b4f2b",
+    "offset": 3313,
+    "text": "nāsā ghanāsthikā // Vi_96.75 //"
+  },
+  {
+    "id": "p-21b38d",
+    "offset": 3346,
+    "text": "arbudaiḥ sthālakaiś ca sārdhaṃ dvāsaptatiḥ pārśvakāḥ // Vi_96.76 //"
+  },
+  {
+    "id": "p-6869d8",
+    "offset": 3415,
+    "text": "uraḥ saptadaśa // Vi_96.77 //"
+  },
+  {
+    "id": "p-a123ac",
+    "offset": 3446,
+    "text": "dvau śaṅkhakau // Vi_96.78 //"
+  },
+  {
+    "id": "p-855a76",
+    "offset": 3477,
+    "text": "catvāri kapālāni śirasaś ceti // Vi_96.79 //"
+  },
+  {
+    "id": "p-a27460",
+    "offset": 3523,
+    "text": "śarīre 'smin sapta sirāśatāni // Vi_96.80 //"
+  },
+  {
+    "id": "p-429963",
+    "offset": 3569,
+    "text": "nava snāyuśatāni // Vi_96.81 //"
+  },
+  {
+    "id": "p-424b9e",
+    "offset": 3602,
+    "text": "dhamanīśate dve // Vi_96.82 //"
+  },
+  {
+    "id": "p-4cdb7a",
+    "offset": 3634,
+    "text": "pañca peśīśatāni // Vi_96.83 //"
+  },
+  {
+    "id": "p-887d5a",
+    "offset": 3667,
+    "text": "kṣudradhamanīnām ekonatriṃśallakṣāṇi navaśatāni ṣaṭpañcāśaddhamanyaḥ // Vi_96.84 //"
+  },
+  {
+    "id": "p-8dd2aa",
+    "offset": 3752,
+    "text": "lakṣatrayaṃ śmaśrukeśakūpānām // Vi_96.85 //"
+  },
+  {
+    "id": "p-1cae7b",
+    "offset": 3798,
+    "text": "saptottaraṃ marmaśatam // Vi_96.86 //"
+  },
+  {
+    "id": "p-b39ee0",
+    "offset": 3837,
+    "text": "saṃdhiśate dve // Vi_96.87 //"
+  },
+  {
+    "id": "p-6bc90b",
+    "offset": 3868,
+    "text": "catuṣpañcāśadromakoṭyaḥ saptaṣaṣṭiś ca lakṣāṇi // Vi_96.88 //"
+  },
+  {
+    "id": "p-50350b",
+    "offset": 3931,
+    "text": "nābhirājo gudaṃ śukraṃ śoṇitaṃ śaṅkhakau mūrdhā kaṇṭho hṛdayaṃ ceti prāṇāyatanāṇi // Vi_96.89 //"
+  },
+  {
+    "id": "p-8b0d9e",
+    "offset": 4029,
+    "text": "bāhudvayaṃ jaṅghādvayaṃ madhyaṃ śīrṣam iti ṣaḍaṅgāni // Vi_96.90 //"
+  },
+  {
+    "id": "p-e98937",
+    "offset": 4098,
+    "text": "vasā vapā avahananaṃ nābhiḥ klomā yakṛt plīhā kṣudrāntraṃ vṛkkakau bastiḥ purīṣādhānaṃ āmāśayaḥ hṛdayaṃ sthūlāntraṃ gudam udaraṃ gudakoṣṭham // Vi_96.91 //"
+  },
+  {
+    "id": "p-110696",
+    "offset": 4255,
+    "text": "kanīnike akṣikūṭe śaṣkulī karṇau karṇapatrakau gaṇḍau bhruvau śaṅkhau dantaveṣṭau oṣṭhau kakundare vaṅkṣaṇau vṛṣaṇau vṛkkau śleṣmasaṃghātikau stanau upajihvā sphicau bāhū jaṅghe ūrū piṇḍike tālūdaraṃ bastiśīrṣau cibukaṃ galaśuṇḍike avaṭuś cety asmin śarīre sthānāni // Vi_96.92 //"
+  },
+  {
+    "id": "p-94dcc0",
+    "offset": 4537,
+    "text": "śabdasparśarūparasagandhāś ca viṣayāḥ // Vi_96.93 //"
+  },
+  {
+    "id": "p-8da47f",
+    "offset": 4591,
+    "text": "nāsikālocanatvagjihvāśrotram iti buddhīndriyāṇi // Vi_96.94 //"
+  },
+  {
+    "id": "p-55576a",
+    "offset": 4655,
+    "text": "hastau pādau pāyūpasthaṃ jihveti karmendriyāṇi // Vi_96.95 //"
+  },
+  {
+    "id": "p-e29690",
+    "offset": 4718,
+    "text": "mano buddhir ātmā cāvyaktam itīndriyātītāḥ // Vi_96.96 //"
+  },
+  {
+    "id": "p-eedf5b",
+    "offset": 4777,
+    "text": "idaṃ śarīraṃ vasudhe kṣetram ity abhidhīyate  /"
+  },
+  {
+    "id": "p-b7f5f8",
+    "offset": 4826,
+    "text": "etad yo vetti taṃ prāhuḥ kṣetrajñam iti tadvidaḥ  || Vi_96.97 ||"
+  },
+  {
+    "id": "p-4a9106",
+    "offset": 4892,
+    "text": "kṣetrajñam api māṃ viddhi sarvakṣetreṣu bhāvini  /"
+  },
+  {
+    "id": "p-25aad7",
+    "offset": 4944,
+    "text": "kṣetrakṣetrajñavijñānaṃ jñeyaṃ nityaṃ mumukṣuṇā  || Vi_96.98 ||"
+  }
+]

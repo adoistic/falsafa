@@ -1,0 +1,782 @@
+[
+  {
+    "id": "p-e85220",
+    "offset": 0,
+    "text": "prāyaścittīyatāṃ prāpya ye narās tv akṛtavratāḥ  /"
+  },
+  {
+    "id": "p-1e9887",
+    "offset": 52,
+    "text": "teṣāṃ daṇḍaṃ vratañ cāpi kramaśaś coditaṃ śṛṇu  // YSS_2.1 //"
+  },
+  {
+    "id": "p-58e8df",
+    "offset": 115,
+    "text": "svayam eva tu yaḥ pāpaṃ nivedya vratam ācaret  /"
+  },
+  {
+    "id": "p-d575e7",
+    "offset": 165,
+    "text": "tasmin damo na prayojyo vrataṃ daṇḍaś ca gṛhyate  // YSS_2.2 //"
+  },
+  {
+    "id": "p-163352",
+    "offset": 230,
+    "text": "na pātake 'rtthadaṇḍo 'sti tulyadoṣe vidaṇḍanam  /"
+  },
+  {
+    "id": "p-645171",
+    "offset": 282,
+    "text": "tatra vratam akurvāṇaṃ sahasraṃ dāpayed damaṃ  // YSS_2.3 //"
+  },
+  {
+    "id": "p-a33eac",
+    "offset": 344,
+    "text": "upapātakayukto yo mānavo nācared vrataṃ  /"
+  },
+  {
+    "id": "p-39b397",
+    "offset": 388,
+    "text": "sadāpy asāhasaṃ pūrvaṃ prāyaścittaṃ viśodhanaṃ  // YSS_2.4 //"
+  },
+  {
+    "id": "p-8a093f",
+    "offset": 451,
+    "text": "cāṣamaṇḍūkamārjāra- godholūkāṃś ca vāyasān  /"
+  },
+  {
+    "id": "p-cd104b",
+    "offset": 498,
+    "text": "hatvā śatam avāpnoti vipro nakulam eva hi  // YSS_2.5 //"
+  },
+  {
+    "id": "p-f66827",
+    "offset": 556,
+    "text": "mayūrahaṃsabhāsāñ ca tathā śyenaṃś ca kukkuṭaṃ  /"
+  },
+  {
+    "id": "p-6a3b79",
+    "offset": 607,
+    "text": "triṃśat paṇam avāpnoti tathaiva vanabarhiṇaṃ  // YSS_2.6 //"
+  },
+  {
+    "id": "p-99b859",
+    "offset": 668,
+    "text": "vipram agniparityaktaṃ saṃdhyopāsanavarjitaṃ  /"
+  },
+  {
+    "id": "p-65b51c",
+    "offset": 717,
+    "text": "śūdrapreṣyakarañ caiva rājā rāṣṭrāt pravāsayet  // YSS_2.7 //"
+  },
+  {
+    "id": "p-4d0da4",
+    "offset": 780,
+    "text": "utsṛṣṭāgnis tu yo vipras tv asnāto 'mantrato 'pi vā  /"
+  },
+  {
+    "id": "p-c655ee",
+    "offset": 836,
+    "text": "upasthānārcano sūryaṃ sandhyāṃ nopāsate dvijaḥ  // YSS_2.8 //"
+  },
+  {
+    "id": "p-4cf7dc",
+    "offset": 899,
+    "text": "akartā nityayajñānāṃ bhuñjāno vṛṣalāśanaṃ  /"
+  },
+  {
+    "id": "p-057bae",
+    "offset": 945,
+    "text": "jīvamāno 'pi vā śastraiḥ pratyahaṃ paṇam āpnuyāt  // YSS_2.9 //"
+  },
+  {
+    "id": "p-6dfd7b",
+    "offset": 1010,
+    "text": "śūdrāsu śuklasektāraṃ vṛṣalāyāṃ ca vāñchakaṃ  /"
+  },
+  {
+    "id": "p-86b27c",
+    "offset": 1059,
+    "text": "vipraṃ sarvasvam ādāya lalāṭe bhagam aṅkayet  // YSS_2.10 //"
+  },
+  {
+    "id": "p-c56fce",
+    "offset": 1121,
+    "text": "bhagacihnaṃ madyacihnaṃ surācihnaṃ lalāṭake  /"
+  },
+  {
+    "id": "p-101d7d",
+    "offset": 1169,
+    "text": "veśyāsu śuklasektāraṃ sarvam ādāya bhūmipaḥ  // YSS_2.11 //"
+  },
+  {
+    "id": "p-1a87a0",
+    "offset": 1230,
+    "text": "apasnāto divāsnātaḥ parānnam api vātmanaḥ  /"
+  },
+  {
+    "id": "p-1a9fde",
+    "offset": 1276,
+    "text": "bhoktā naṣṭakriyas tasya rājñaḥ svārtthaṃ pracakṣate  // YSS_2.12 //"
+  },
+  {
+    "id": "p-108de8",
+    "offset": 1346,
+    "text": "viprasyoktaparityaktaṃ vṛṣalāśanasevinaḥ  /"
+  },
+  {
+    "id": "p-3778dc",
+    "offset": 1391,
+    "text": "pratyabdaṃ sarvam ādāya vedavidbhyo nivedayet  // YSS_2.13 //"
+  },
+  {
+    "id": "p-a0ad61",
+    "offset": 1454,
+    "text": "parītaṃ vottaraṃ vāsaḥ adharmadaṇḍasāhasaṃ  /"
+  },
+  {
+    "id": "p-19753f",
+    "offset": 1501,
+    "text": "striyam eva prakurvāṇaṃ dviguṇaṃ dāpayed damaṃ  // YSS_2.14 //"
+  },
+  {
+    "id": "p-6b9e18",
+    "offset": 1565,
+    "text": "bālāndharogivṛddhānāṃ na tu daṇḍo vidhīyate  /"
+  },
+  {
+    "id": "p-91dc21",
+    "offset": 1613,
+    "text": "visṛjya tu naro mūtraṃ rathyādau doṣam āpnuyāt  // YSS_2.15 //"
+  },
+  {
+    "id": "p-10fb5e",
+    "offset": 1677,
+    "text": "tathā purīṣam uddiṣṭaṃ chardiś ca na bhavet pathi  /"
+  },
+  {
+    "id": "p-1c5c8b",
+    "offset": 1731,
+    "text": "dviguṇaṃ daṇḍam āpnoti mūtraṃ sthitvā samutsṛjet  // YSS_2.16 //"
+  },
+  {
+    "id": "p-39c250",
+    "offset": 1797,
+    "text": "māhendrīṃ vāruṇīñ cāpi diśaṃ vīkṣya tu mūtrayan  /"
+  },
+  {
+    "id": "p-d7c6ba",
+    "offset": 1849,
+    "text": "purīṣaṃś ca tathā muñcan daṇḍaṃ dviguṇam āvahet  // YSS_2.17 //"
+  },
+  {
+    "id": "p-fd7790",
+    "offset": 1914,
+    "text": "stenaḥ piśunavaktā ca sāhasī vṛṣalīpatiḥ  /"
+  },
+  {
+    "id": "p-667702",
+    "offset": 1959,
+    "text": "tyaktāvāritā vijñeyāḥ pañcaite grāmakaṇṭakāḥ  // YSS_2.18 //"
+  },
+  {
+    "id": "p-e09e5a",
+    "offset": 2021,
+    "text": "visṛṣṭvānuparīkṣyaitān rājā rāṣṭreṣu kaṇṭakān  /"
+  },
+  {
+    "id": "p-0a4cdc",
+    "offset": 2071,
+    "text": "anutsṛṣṭā hi lokasya tv anṛtaṃ kurvate tamaḥ  // YSS_2.19 //"
+  },
+  {
+    "id": "p-25b531",
+    "offset": 2133,
+    "text": "viṣṭādipūrṇasaṃkṣiptaṃ raktamālyavibhūṣitaṃ  /"
+  },
+  {
+    "id": "p-ccaa0f",
+    "offset": 2181,
+    "text": "poṣitaṃ stenakāryeṇa stenaṃ rājā nihanyate  // YSS_2.20 //"
+  },
+  {
+    "id": "p-e8ba39",
+    "offset": 2241,
+    "text": "śvapadādi mukhe nyasya pariyāpya kharājinaṃ  /"
+  },
+  {
+    "id": "p-434cfe",
+    "offset": 2289,
+    "text": "piśunaṃ kharam āropya hṛtavittaṃ vivāsayet  // YSS_2.21 //"
+  },
+  {
+    "id": "p-5bc353",
+    "offset": 2349,
+    "text": "bhittvā gṛhāṃs tu hṛtvā svaṃ kṛtvopaskaram eva ca  /"
+  },
+  {
+    "id": "p-d27b42",
+    "offset": 2403,
+    "text": "rājā sāhasikaṃ rāṣṭrāc caṇḍāḷotsṛṣṭam utsṛjet  // YSS_2.22 //"
+  },
+  {
+    "id": "p-158032",
+    "offset": 2466,
+    "text": "vratabhaṅgaṃ surābhāṇḍaṃ dvayaṃ saṃbadhyate tataḥ  /"
+  },
+  {
+    "id": "p-599498",
+    "offset": 2520,
+    "text": "hṛdayaṃ viṣṭhayā liptaṃ vṛṣalīpatim utsṛjet  // YSS_2.23 //"
+  },
+  {
+    "id": "p-92f110",
+    "offset": 2581,
+    "text": "bhasmanāpi ca liptāṅgaṃ śavakeśāsthidhūpitaṃ  /"
+  },
+  {
+    "id": "p-dffc91",
+    "offset": 2630,
+    "text": "tyaktāgniṃ sarvam ādāya rājā rāṣṭrāt pravāsayet  // YSS_2.24 //"
+  },
+  {
+    "id": "p-fe237d",
+    "offset": 2695,
+    "text": "śavakeśair vījyamānaṃ tanmālābaddhaśekharaṃ  /"
+  },
+  {
+    "id": "p-ea5c1f",
+    "offset": 2743,
+    "text": "digvāsaṃ gamayed rājā naraṃ samayalaṅghinaṃ  // YSS_2.25 //"
+  },
+  {
+    "id": "p-bf12f3",
+    "offset": 2804,
+    "text": "śūdrāsūtpāditāpatyaṃ rājasaṃ brāhmaṇādhamaṃ  /"
+  },
+  {
+    "id": "p-cd2700",
+    "offset": 2852,
+    "text": "grāmād bahiḥ prakurvīta naraṃ saṃsargapātakaṃ  // YSS_2.26 //"
+  },
+  {
+    "id": "p-827d89",
+    "offset": 2915,
+    "text": "tasyāṃ tu śuklasektāraṃ miśritya saha sādhubhiḥ  /"
+  },
+  {
+    "id": "p-0ff77c",
+    "offset": 2967,
+    "text": "bhojayet tulyapaṅktau tu prāpnuyāt prathamaṃ damaṃ  // YSS_2.27 //"
+  },
+  {
+    "id": "p-01fbc7",
+    "offset": 3035,
+    "text": "vittaṃ dattaṃ tathāmārgād adhītañ ca dvijādibhiḥ  /"
+  },
+  {
+    "id": "p-958335",
+    "offset": 3088,
+    "text": "jāyate viphalaṃ sarvaṃ bhāṣaṇāt piśunair naraiḥ  // YSS_2.28 //"
+  },
+  {
+    "id": "p-1e0d42",
+    "offset": 3153,
+    "text": "devabrahmasvayonyas tu chidradātā vilaṃbhane  /"
+  },
+  {
+    "id": "p-bbb833",
+    "offset": 3202,
+    "text": "dehabhedam avāpnoti vipro hṛtvākhilaṃ dhanaṃ  // YSS_2.29 //"
+  },
+  {
+    "id": "p-9559c2",
+    "offset": 3264,
+    "text": "chidrapradātā stenānāṃ stena eva sa ucyate  /"
+  },
+  {
+    "id": "p-86b11f",
+    "offset": 3311,
+    "text": "tasya hṛtvā tu sarvasvaṃ śvapadaṃ tu mukhe 'ṅkayet  // YSS_2.30 //"
+  },
+  {
+    "id": "p-b902ca",
+    "offset": 3379,
+    "text": "naktaṃ rātrau tu janitā liṅgāj jānāti mānavaḥ  /"
+  },
+  {
+    "id": "p-af814b",
+    "offset": 3429,
+    "text": "tathā vai śūnyavaktāraṃ jñātvā liṅgaiḥ pravāsayet  // YSS_2.31 //"
+  },
+  {
+    "id": "p-a8f5cd",
+    "offset": 3496,
+    "text": "asatyavādinaṃ vāde daṇḍitvā sākṣiṇaṃ nṛpaḥ  /"
+  },
+  {
+    "id": "p-e7ec48",
+    "offset": 3543,
+    "text": "yaś chadati hi pāpānāṃ viṃśatiṃ vratam ādiśet  // YSS_2.32 //"
+  },
+  {
+    "id": "p-4719d3",
+    "offset": 3606,
+    "text": "vratacāryaś caran bhikṣām aniṣṭvā ca hutāśanaṃ  /"
+  },
+  {
+    "id": "p-db2ee3",
+    "offset": 3657,
+    "text": "bhuñjānaḥ prāpnuyāt grāsaṃ kāle kāle tv anāturaḥ  // YSS_2.33 //"
+  },
+  {
+    "id": "p-c24e83",
+    "offset": 3723,
+    "text": "ācāryasya pitur bhrātuḥ śvaśurasya nṛpasya ca  /"
+  },
+  {
+    "id": "p-c48477",
+    "offset": 3773,
+    "text": "pratyutthānaṃ naro 'kurvans trīn paṇān dāpyate damaṃ  // YSS_2.34 //"
+  },
+  {
+    "id": "p-63e39b",
+    "offset": 3843,
+    "text": "āsane tu samāsīna uttame 'sminn avasthite  /"
+  },
+  {
+    "id": "p-c4cc44",
+    "offset": 3889,
+    "text": "śūdraṣ ṣaṭpadam āpnoti gacchatāprasthitena tu  // YSS_2.35 //"
+  },
+  {
+    "id": "p-a70f9d",
+    "offset": 3952,
+    "text": "unmānañ ca tathāmānaṃ variṣṭhalaghu vāgṛte  /"
+  },
+  {
+    "id": "p-783490",
+    "offset": 3999,
+    "text": "dṛṣyate yasya tasya svaṃ rājña ity eva kalpayet  // YSS_2.36 //"
+  },
+  {
+    "id": "p-c6778e",
+    "offset": 4064,
+    "text": "miśritaṃ tilatailena vikrītaṃ ghṛtakākhyayā  /"
+  },
+  {
+    "id": "p-d046df",
+    "offset": 4112,
+    "text": "vaṇik caturguṇaṃ dāpyaṃ tailaṃ vā miśritaṃ ghṛtaiḥ  // YSS_2.37 //"
+  },
+  {
+    "id": "p-12b19c",
+    "offset": 4180,
+    "text": "marīcaṃ khaṇḍapāṣāṇaiḥ lavaṇañ ca tathā mṛdā  /"
+  },
+  {
+    "id": "p-98da03",
+    "offset": 4229,
+    "text": "hiṅguñ ca vṛkṣaniryāsaiḥ tathā dāpyaś caturguṇaṃ  // YSS_2.38 //"
+  },
+  {
+    "id": "p-6fc1a2",
+    "offset": 4295,
+    "text": "dhānyaṃ pulākapāṣāṇaiḥ khalu miśritya vā punaḥ  /"
+  },
+  {
+    "id": "p-f5013a",
+    "offset": 4346,
+    "text": "vikretā tatsamaṃ dāpyo dadyāt tasyāpi miśritaṃ  // YSS_2.39 //"
+  },
+  {
+    "id": "p-04f4ab",
+    "offset": 4410,
+    "text": "tulyair atulyair vā dravyaiḥ miśrīkṛtya tato nṛṇāṃ  /"
+  },
+  {
+    "id": "p-cc5865",
+    "offset": 4465,
+    "text": "damaś caturguṇaḥ proktas tena nityaṃ samācaret  // YSS_2.40 //"
+  },
+  {
+    "id": "p-c37856",
+    "offset": 4529,
+    "text": "pretasammārjanaṃ malaṃ kapālaṃ tuṣam eva ca  /"
+  },
+  {
+    "id": "p-6080cd",
+    "offset": 4577,
+    "text": "pathi grāmasya vikṣeptā dāpyaḥ ..... paṇaṃ  // YSS_2.41 //"
+  },
+  {
+    "id": "p-91a51c",
+    "offset": 4637,
+    "text": "[five akṣaras indiscernible]"
+  },
+  {
+    "id": "p-af1c17",
+    "offset": 4667,
+    "text": "ucchiṣṭasalilasrāvaṃ gṛhī yaḥ parimuñcati  /"
+  },
+  {
+    "id": "p-a3bf49",
+    "offset": 4713,
+    "text": "dviguṇaṃ daṇḍam āpnoti moktā rūpye ca daṇḍyate  // YSS_2.42 //"
+  },
+  {
+    "id": "p-96c721",
+    "offset": 4777,
+    "text": "hatvā kakaraṃ divā tu tripaṇaṃ brāhmaṇo bhavet  /"
+  },
+  {
+    "id": "p-44854c",
+    "offset": 4828,
+    "text": "śaśaṃ kūrmañ ca godhāñ ca meṣaṃ hatvā ca ṣoḍaśa  // YSS_2.43 //"
+  },
+  {
+    "id": "p-0239ef",
+    "offset": 4893,
+    "text": "kṣīraṃ kṣīravikārañ ca lavaṇaṃ tailam eva ca  /"
+  },
+  {
+    "id": "p-8d3a25",
+    "offset": 4942,
+    "text": "lākṣāñ ca vikrayaṃ kurvan vipraḥ prāpnoti madhyamaṃ  // YSS_2.44 //"
+  },
+  {
+    "id": "p-d13ae3",
+    "offset": 5011,
+    "text": "apūpam annaṃ māṃsañ ca somam asthi tathā madhu  /"
+  },
+  {
+    "id": "p-29696c",
+    "offset": 5062,
+    "text": "tvacañ ca vikrayaṃ kurvan prāpnuyān madhyamaṃ damaṃ  // YSS_2.45 //"
+  },
+  {
+    "id": "p-328efe",
+    "offset": 5131,
+    "text": "janakañ janakādhyakṣo nikarṣan viṣamopame  /"
+  },
+  {
+    "id": "p-edcd94",
+    "offset": 5177,
+    "text": "damaṃ paṇam avāpnoti bhoktā ca viṣamopame  // YSS_2.46 //"
+  },
+  {
+    "id": "p-0bc9ff",
+    "offset": 5236,
+    "text": "vipram utpāditāpatyaṃ vṛṣalyāṃ yo vahed ataḥ  /"
+  },
+  {
+    "id": "p-360f6c",
+    "offset": 5285,
+    "text": "sahasraṃ damam āpnoti prasūtiḥ prathamaṃ bhavet  // YSS_2.47 //"
+  },
+  {
+    "id": "p-e17556",
+    "offset": 5350,
+    "text": "bhuñjāno yasya pakvānnaṃ vipras tu vṛṣalīpateḥ  /"
+  },
+  {
+    "id": "p-ef5f69",
+    "offset": 5401,
+    "text": "paṇañ caturdaśāpnoti dviguṇaṃ tasya sūtake  // YSS_2.48 //"
+  },
+  {
+    "id": "p-f7fa6d",
+    "offset": 5461,
+    "text": "śrāddhaṃ tu tadgṛhe bhuktvā paṇan tāvad avāpnuyāt  /"
+  },
+  {
+    "id": "p-8a4df9",
+    "offset": 5515,
+    "text": "sāhasaṃ pūrvam āpnoti viśeṣāc cānimittataḥ  // YSS_2.49 //"
+  },
+  {
+    "id": "p-13318a",
+    "offset": 5575,
+    "text": "anvaṣṭakām aṣṭakāṃ vā bhuñjāno vṛṣalīpateḥ  /"
+  },
+  {
+    "id": "p-fe14a9",
+    "offset": 5622,
+    "text": "paṇāñ caturdaśāpnoti tathā bhoktā ca māsikaṃ  // YSS_2.50 //"
+  },
+  {
+    "id": "p-801e90",
+    "offset": 5684,
+    "text": "kramam apy aṣṭakādeśāt gṛhṇāno vṛṣalālayāt  /"
+  },
+  {
+    "id": "p-48fe45",
+    "offset": 5731,
+    "text": "ṣaṇṇavatyarddham āpnoti bhuktvā pūrvaṃ tu tadgṛhe  // YSS_2.51 //"
+  },
+  {
+    "id": "p-7aa17f",
+    "offset": 5798,
+    "text": "madyādīnāṃ tv abhakṣyāṇāṃ vipraḥ prāpnoti ṣoḍaśa  /"
+  },
+  {
+    "id": "p-f00e84",
+    "offset": 5851,
+    "text": "dviguṇaṃ pratipīḍānāṃ matsyānāṃ āpnuyāc chataṃ  // YSS_2.52 //"
+  },
+  {
+    "id": "p-3d1ed3",
+    "offset": 5915,
+    "text": "evaṃ dviguṇatāṃ dadyāt doṣeṣv eteṣu somapāḥ  /"
+  },
+  {
+    "id": "p-f9abde",
+    "offset": 5963,
+    "text": "kharāśvasūkarādīnaṃ bhakṣaṇe patitaḥ smṛtaḥ  // YSS_2.53 //"
+  },
+  {
+    "id": "p-1bb6ed",
+    "offset": 6024,
+    "text": "dārvasthiśṛṅgapāṣāṇair yas tu bhāryābhṛtiṃ dvijaḥ  /"
+  },
+  {
+    "id": "p-7a87d3",
+    "offset": 6078,
+    "text": "sahasraṃ damam āpnoti kurvāṇo vapanaṃ yadi  // YSS_2.54 //"
+  },
+  {
+    "id": "p-e82c1b",
+    "offset": 6138,
+    "text": "aṅgeṣu vyaktadeśeṣu yo jāyāṃ karajair vraṇaṃ  /"
+  },
+  {
+    "id": "p-8229c0",
+    "offset": 6187,
+    "text": "kartā kārayitā svāṅgair dāpyaḥ syāt prathamaṃ damaṃ  // YSS_2.55 //"
+  },
+  {
+    "id": "p-aa4a22",
+    "offset": 6256,
+    "text": "yoṣitmukhaṃ tu bhuñjāno pītvā vāpidadaṃ dvijaḥ  /"
+  },
+  {
+    "id": "p-13d6ce",
+    "offset": 6307,
+    "text": "tathā bhojayitā svaṃ vā dāpyaḥ syāt pūrvasāhasaṃ  // YSS_2.56 //"
+  },
+  {
+    "id": "p-35f339",
+    "offset": 6373,
+    "text": "atyarthaṃ vedayaṃś caiva brāhmaṇaḥ patito bhavet  /"
+  },
+  {
+    "id": "p-433d9f",
+    "offset": 6426,
+    "text": "striyaṃ tathāśvavad gacchamś cuṃbayan guhyam eva vā  // YSS_2.57 //"
+  },
+  {
+    "id": "p-ab1849",
+    "offset": 6495,
+    "text": "prayatnāc chuklam utsṛjya vipraḥ pañcāśad āpnuyāt  /"
+  },
+  {
+    "id": "p-e0611e",
+    "offset": 6549,
+    "text": "maithunaṃ goṣu gatvā tu tathā dāpyo bhavec chataṃ  // YSS_2.58 //"
+  },
+  {
+    "id": "p-caa8bd",
+    "offset": 6616,
+    "text": "gacchaṃs tathājayonau tu prāpyate pūrvasāhasaṃ  /"
+  },
+  {
+    "id": "p-7397bc",
+    "offset": 6667,
+    "text": "madhyamaṃ daṇḍam āpnoti vrajan māhiṣayoniṣu  // YSS_2.59 //"
+  },
+  {
+    "id": "p-ec9bc0",
+    "offset": 6728,
+    "text": "sahasraṃ damam āpnoti yonyāṃ goṣu naro vrajet  /"
+  },
+  {
+    "id": "p-cd840c",
+    "offset": 6778,
+    "text": "evam eva dviguṇitā bhavanti vratacāriṣu  // YSS_2.60 //"
+  },
+  {
+    "id": "p-e93138",
+    "offset": 6835,
+    "text": "pathi śrāntāya tulyāya panthā deyo 'thavāśramaṃ  /"
+  },
+  {
+    "id": "p-b950de",
+    "offset": 6887,
+    "text": "yamadātur bhaven meṣo 'deśadātāpratiśrayaḥ  // YSS_2.61 //"
+  },
+  {
+    "id": "p-8bf124",
+    "offset": 6947,
+    "text": "śūdrāṃ tu sevamānād dhi vipraḥ śūdrāvaraḥ smṛtaḥ  /"
+  },
+  {
+    "id": "p-b49141",
+    "offset": 7000,
+    "text": "gatopagamanād eva śūdrāyāṃ patito bhavet  // YSS_2.62 //"
+  },
+  {
+    "id": "p-2d0bf1",
+    "offset": 7058,
+    "text": "gamanād eva śūdrāyāṃ tv apatyaṃ tanmayo dvijaḥ  /"
+  },
+  {
+    "id": "p-c7e217",
+    "offset": 7109,
+    "text": "mātā tu tasya śūdrasya pātityaṃ tu pracakṣate  // YSS_2.63 //"
+  },
+  {
+    "id": "p-f43434",
+    "offset": 7172,
+    "text": "tasmāc chūdras tu yajñārthaṃ gṛhyārtham api vā dvijaḥ  /"
+  },
+  {
+    "id": "p-d4acf1",
+    "offset": 7230,
+    "text": "śuklasektari kṛṣṇāyāṃ vipro 'gnihā pratīkṣate  // YSS_2.64 //"
+  },
+  {
+    "id": "p-16ee7a",
+    "offset": 7293,
+    "text": "dṛṣṭvāpatyaṃ tu śūdrāyāṃ prayānti tv āpadaṃ mahat  /"
+  },
+  {
+    "id": "p-2a50ad",
+    "offset": 7347,
+    "text": "viśo vittaṃ nayād .. svayaṃ vā na dvijo yadi  // YSS_2.65 //"
+  },
+  {
+    "id": "p-106eb2",
+    "offset": 7409,
+    "text": "[two akṣaras indiscernible]"
+  },
+  {
+    "id": "p-5904f4",
+    "offset": 7438,
+    "text": "śūnām api aśuddhānām ajadantaṃ suśobhanaṃ  /"
+  },
+  {
+    "id": "p-b50970",
+    "offset": 7484,
+    "text": "śūdrāgāmī dvijaḥ paśyet pitṝṇāṃ taṃ parīkṣyati  // YSS_2.66 //"
+  },
+  {
+    "id": "p-9a83d4",
+    "offset": 7548,
+    "text": "tasmād avaśyaṃ śrāddheṣu vipraṃ tu vṛṣalīpatiṃ  /"
+  },
+  {
+    "id": "p-09c40d",
+    "offset": 7599,
+    "text": "śunaś cāpi tiraskṛtya brāhmaṇān āśayed dvijaḥ  // YSS_2.67 //"
+  },
+  {
+    "id": "p-922be6",
+    "offset": 7662,
+    "text": "vṛṣaḷīpatinā spṛṣṭam īkṣitaṃ bhuktamiśritaṃ  /"
+  },
+  {
+    "id": "p-1bc0af",
+    "offset": 7710,
+    "text": "sarvam annam abhojyaṃ syāt siddham annam idaṃ punaḥ  // YSS_2.68 //"
+  },
+  {
+    "id": "p-ef3175",
+    "offset": 7779,
+    "text": "apāṅktyānāṃ tv akalyāṇāṃ paṅktau tulyo 'pi ca dvijaḥ  /"
+  },
+  {
+    "id": "p-b1bc15",
+    "offset": 7836,
+    "text": "sasyaṃ vṛddhaṃ samādadyāt paṅkeṣu vṛṣalīpatiḥ  // YSS_2.69 //"
+  },
+  {
+    "id": "p-de0806",
+    "offset": 7899,
+    "text": "janakaṃ śuḷbasaṃspṛṣṭaṃ rajatena tathaiva ca  /"
+  },
+  {
+    "id": "p-de82c8",
+    "offset": 7948,
+    "text": "śakyaṃ śodhayituṃ prājñaiḥ śrāddhe spṛṣṭaṃ vinaśyati  // YSS_2.70 //"
+  },
+  {
+    "id": "p-eb128b",
+    "offset": 8018,
+    "text": "vipraḥ kṣatriyayā spṛṣṭas tathaivaṃ vaiśyayoṣitā  /"
+  },
+  {
+    "id": "p-a76c8f",
+    "offset": 8071,
+    "text": "upāyaiś śuddhim āyāti na tu śūdrāṅganāṃ gataḥ  // YSS_2.71 //"
+  },
+  {
+    "id": "p-713916",
+    "offset": 8134,
+    "text": "upekṣako yo rājā tu grāme vā vṛṣaḷīpatiṃ  /"
+  },
+  {
+    "id": "p-68a62d",
+    "offset": 8179,
+    "text": "sa rājāsatpratigrāhyaḥ svārthabhyo grāma eva tu  // YSS_2.72 //"
+  },
+  {
+    "id": "p-1f5b99",
+    "offset": 8244,
+    "text": "kaṇṭakānāṃ tu sarveṣāṃ balabhṛto hi sāhasī  /"
+  },
+  {
+    "id": "p-fc7a4a",
+    "offset": 8291,
+    "text": "tasmāt sāhasino rājā bhraṃśadaṇḍam prakalpayet  // YSS_2.73 //"
+  },
+  {
+    "id": "p-ce99d0",
+    "offset": 8355,
+    "text": "svalpasāhasakarttā yaḥ kālād āyakasāhasī  /"
+  },
+  {
+    "id": "p-6a7948",
+    "offset": 8400,
+    "text": "atha bhavaty eva pāpam iti saṃcintya daṇḍayet  // YSS_2.74 //"
+  },
+  {
+    "id": "p-087237",
+    "offset": 8463,
+    "text": "evaṃ pañca viśād rājā kaṇṭakānāṃ samuddharet  /"
+  },
+  {
+    "id": "p-883a28",
+    "offset": 8512,
+    "text": "dharmam arthaṃ tathāyuṣyaṃ yaśo rāṣṭraṃ ca varddhate  // YSS_2.75 //"
+  },
+  {
+    "id": "p-79636a",
+    "offset": 8582,
+    "text": "kaṇṭakānāṃ tu kathitaṃ nyāyena prathamena yaḥ  /"
+  },
+  {
+    "id": "p-93a242",
+    "offset": 8632,
+    "text": "caturvidhā kriyā proktā saṃsidhyati ca mārgataḥ  // YSS_2.76 //"
+  },
+  {
+    "id": "p-372fdf",
+    "offset": 8697,
+    "text": "kulādayo vivādasya śravaṇe 'dhikṛtāgamāt  /"
+  },
+  {
+    "id": "p-645f7b",
+    "offset": 8742,
+    "text": "koṇe 'py adhigatā śāstrair brāhmaṇena vipaścitā  // YSS_2.77 //"
+  }
+]

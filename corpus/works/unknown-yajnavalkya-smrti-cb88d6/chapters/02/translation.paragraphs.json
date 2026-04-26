@@ -1,0 +1,1672 @@
+[
+  {
+    "id": "p-d2bcad",
+    "offset": 0,
+    "text": "*[Here ends the Chapter on Conduct]*"
+  },
+  {
+    "id": "p-6c2a95",
+    "offset": 38,
+    "text": "CHAPTER II: ON LEGAL PROCEDURE (vyavahārādhyāya)"
+  },
+  {
+    "id": "p-a90389",
+    "offset": 88,
+    "text": "1. The General Principles of Legal Procedure (sādhāraṇavyavahāramātṛkāprakaraṇam)"
+  },
+  {
+    "id": "p-8459f3",
+    "offset": 171,
+    "text": "The king, free from anger and greed, should look into legal disputes with learned Brāhmaṇas,\nin accordance with the Dharmaśāstra. // Yj_2.1 //"
+  },
+  {
+    "id": "p-71dff7",
+    "offset": 315,
+    "text": "Men endowed with Vedic learning and study, who know `*dharma*`, are truthful,\nand are impartial towards foe and friend, should be appointed by the king as court members (`sabhāsad`). // Yj_2.2 //"
+  },
+  {
+    "id": "p-bfa17d",
+    "offset": 512,
+    "text": "If the king is unable to look into legal disputes due to other duties,\na Brāhmaṇa who knows all `*dharma*` should be appointed, along with the assessors. // Yj_2.3 //"
+  },
+  {
+    "id": "p-86ba60",
+    "offset": 680,
+    "text": "Assessors who act contrary to Smṛti out of passion, greed, or fear,\nshould each be fined separately twice the amount of the dispute. // Yj_2.4 //"
+  },
+  {
+    "id": "p-1c2f25",
+    "offset": 827,
+    "text": "When a person, wronged by others in a manner contrary to Smṛti and custom,\nmakes a representation to the king, that is indeed a ground for a lawsuit. // Yj_2.5 //"
+  },
+  {
+    "id": "p-4120d2",
+    "offset": 991,
+    "text": "What has been stated by the plaintiff should be written down in the presence of the defendant,\nmarked with the year, month, half-month, day, name, caste, and so on. // Yj_2.6 //"
+  },
+  {
+    "id": "p-e9e55e",
+    "offset": 1170,
+    "text": "After the matter has been heard, the reply should be written down in the presence of the original plaintiff.\nThen the plaintiff should immediately have the means of proving his claim recorded. // Yj_2.7 //"
+  },
+  {
+    "id": "p-20b9d5",
+    "offset": 1377,
+    "text": "On its proof, he obtains success; otherwise, the result is the opposite.\nThis four-footed legal procedure is shown in disputes. // Yj_2.8 //"
+  },
+  {
+    "id": "p-17f60c",
+    "offset": 1519,
+    "text": "2. The Specific Principles of Legal Procedure (asādhāraṇavyavahāramātṛkāprakaraṇam)"
+  },
+  {
+    "id": "p-4ee6a1",
+    "offset": 1604,
+    "text": "Without having concluded a lawsuit, one should not bring a counter-suit against the plaintiff.\nNor should one bring a third party into a suit against an accused person, unless the matter has been stated. // Yj_2.9 //"
+  },
+  {
+    "id": "p-5b24b8",
+    "offset": 1822,
+    "text": "One may bring a counter-suit in cases of a quarrel or violence.\nA surety, capable of ensuring the outcome of the case, should be taken from both parties. // Yj_2.10 //"
+  },
+  {
+    "id": "p-21464f",
+    "offset": 1991,
+    "text": "If a denial is proven false, the defendant must pay the amount to the plaintiff and an equal amount to the king.\nOne who makes a false accusation shall pay double the amount of the claim. // Yj_2.11 //"
+  },
+  {
+    "id": "p-538465",
+    "offset": 2194,
+    "text": "In cases of violence, theft, assault, defamation, and offenses against women,\nthe dispute should be heard immediately. In other cases, the time is at the king's discretion. // Yj_2.12 //"
+  },
+  {
+    "id": "p-01c714",
+    "offset": 2382,
+    "text": "He moves from place to place, licks the corners of his mouth,\nhis forehead sweats, and his face becomes discolored. // Yj_2.13 //"
+  },
+  {
+    "id": "p-2e3aec",
+    "offset": 2513,
+    "text": "His speech becomes dry and faltering, he speaks much that is contradictory,\nhe does not honor one with his speech or gaze, and he bites his lips. // Yj_2.14 //"
+  },
+  {
+    "id": "p-ebaddd",
+    "offset": 2674,
+    "text": "He who deviates from his natural state through actions of mind, speech, or body,\nwhether in a lawsuit or as a witness, is declared to be guilty. // Yj_2.15 //"
+  },
+  {
+    "id": "p-27409c",
+    "offset": 2834,
+    "text": "He who, on his own authority, tries to settle a doubtful matter, or who absconds,\nor who, when summoned, says nothing, is considered defeated and punishable. // Yj_2.16 //"
+  },
+  {
+    "id": "p-05a2ce",
+    "offset": 3007,
+    "text": "When there are witnesses on both sides, the witnesses of the first party (plaintiff) are heard first.\nIf the first party's case is weakened, the witnesses of the second party (defendant) are heard. // Yj_2.17 //"
+  },
+  {
+    "id": "p-7b5e4f",
+    "offset": 3220,
+    "text": "If the dispute involves a wager, the losing party should be made to pay\nthe fine and his own wager, and the amount claimed to the creditor. // Yj_2.18 //"
+  },
+  {
+    "id": "p-1239fa",
+    "offset": 3375,
+    "text": "The king should decide lawsuits based on the actual facts, setting aside subterfuge.\nEven a fact, if not presented, is lost in a legal proceeding. // Yj_2.19 //"
+  },
+  {
+    "id": "p-062b06",
+    "offset": 3537,
+    "text": "If a defendant denies the whole claim but is proven liable for a part,\nhe shall be made by the king to pay the entire amount. What is not stated in the plaint cannot be claimed. // Yj_2.20 //"
+  },
+  {
+    "id": "p-048b9a",
+    "offset": 3730,
+    "text": "In a conflict between two Smṛtis, reason based on custom is stronger in legal matters.\nBut it is the established rule that Dharmaśāstra is more powerful than Arthaśāstra. // Yj_2.21 //"
+  },
+  {
+    "id": "p-e6e133",
+    "offset": 3916,
+    "text": "Proof is declared to be a document, possession, and witnesses.\nIn the absence of any of these, one of the ordeals is prescribed. // Yj_2.22 //"
+  },
+  {
+    "id": "p-aa5bad",
+    "offset": 4060,
+    "text": "In all disputes concerning property, the later transaction is stronger.\nBut in cases of a pledge, a gift, or a sale, the earlier one is stronger. // Yj_2.23 //"
+  },
+  {
+    "id": "p-a9d1a2",
+    "offset": 4221,
+    "text": "The loss of land occurs after twenty years of it being enjoyed by another while the owner looks on without protest;\nfor movable property, after ten years. // Yj_2.24 //"
+  },
+  {
+    "id": "p-e33c82",
+    "offset": 4391,
+    "text": "This does not apply to a pledge, a boundary, a deposit, the property of an idiot or a minor,\nnor to a sealed deposit, or the property of the king, a woman, or a śrotriya. // Yj_2.25 //"
+  },
+  {
+    "id": "p-1072f8",
+    "offset": 4577,
+    "text": "The king should make one who misappropriates a pledge or the like pay the value to the owner,\nand a fine of the same amount to the king, or one according to his ability. // Yj_2.26 //"
+  },
+  {
+    "id": "p-e9236b",
+    "offset": 4762,
+    "text": "Title is superior to possession, unless the possession has come down through successive generations.\nBut even title has no force where there is not even a little possession. // Yj_2.27 //"
+  },
+  {
+    "id": "p-7705b2",
+    "offset": 4951,
+    "text": "He by whom the title was created, if sued, must prove it.\nNot his son, nor his son's son; in their case, possession is stronger. // Yj_2.28 //"
+  },
+  {
+    "id": "p-f33745",
+    "offset": 5095,
+    "text": "If a defendant should die, his heir must prove the title.\nIn that case, possession without title is no proof. // Yj_2.29 //"
+  },
+  {
+    "id": "p-31419f",
+    "offset": 5220,
+    "text": "Corporations, guilds, and families, when authorized by the king,\nare to be known as successively more authoritative in the administration of justice for men. // Yj_2.30 //"
+  },
+  {
+    "id": "p-90879b",
+    "offset": 5393,
+    "text": "The king should annul transactions made through force or fraud,\nas well as those made by women, at night, inside a house, outside the village, or by enemies. // Yj_2.31 //"
+  },
+  {
+    "id": "p-a9704d",
+    "offset": 5566,
+    "text": "A transaction entered into by one who is intoxicated, insane, afflicted, addicted to vice, a minor, or frightened,\nand one that is incoherent, is not valid. // Yj_2.32 //"
+  },
+  {
+    "id": "p-b68ad0",
+    "offset": 5738,
+    "text": "Lost property that has been recovered should be given by the king to its owner.\nIf the owner cannot prove his claim by marks, he deserves a fine equal to its value. // Yj_2.33 //"
+  },
+  {
+    "id": "p-5e6eaf",
+    "offset": 5918,
+    "text": "A king, having found a treasure, should give half to Brāhmaṇas. If a Brāhmaṇa finds it,\na learned one may take the whole, for he is the lord of all. // Yj_2.34 //"
+  },
+  {
+    "id": "p-753e61",
+    "offset": 6082,
+    "text": "When a treasure is found by another person, the king shall take a sixth part.\nIf it is discovered without being reported, the finder shall be made to pay that amount and also a fine. // Yj_2.35 //"
+  },
+  {
+    "id": "p-47b506",
+    "offset": 6280,
+    "text": "Property stolen by a thief must be restored by the king to his subject;\nfor by not restoring it, he incurs the sin of that theft. // Yj_2.36 //"
+  },
+  {
+    "id": "p-e5c383",
+    "offset": 6425,
+    "text": "3. The Recovery of Debts (ṛṇādānaprakaraṇam)"
+  },
+  {
+    "id": "p-286928",
+    "offset": 6471,
+    "text": "An eightieth part is the interest per month when there is a pledge;\notherwise, it is two, three, four, or five percent, according to the order of the `*varṇa*`s. // Yj_2.37 //"
+  },
+  {
+    "id": "p-36c790",
+    "offset": 6648,
+    "text": "Those who travel through forests may pay ten percent, and those who travel by sea, twenty percent;\nor all persons of all castes may pay the interest they have agreed upon. // Yj_2.38 //"
+  },
+  {
+    "id": "p-73b94c",
+    "offset": 6835,
+    "text": "The offspring is the interest on female animals; for liquids, the maximum interest is eight times the principal;\nfor cloth, grain, and gold, the maximum is four, three, and two times, respectively. // Yj_2.39 //"
+  },
+  {
+    "id": "p-9f2b7f",
+    "offset": 7048,
+    "text": "A creditor recovering his money by his own effort should not be reproached by the king;\nbut a debtor who, being pressed for payment, goes to the king, is to be fined and made to pay that sum. // Yj_2.40 //"
+  },
+  {
+    "id": "p-0b9f9a",
+    "offset": 7255,
+    "text": "A debtor shall be made to pay his creditors in the order in which he borrowed;\nbut he must first pay a Brāhmaṇa, and after that, the king. // Yj_2.41 //"
+  },
+  {
+    "id": "p-4c4f1e",
+    "offset": 7409,
+    "text": "The debtor shall be made by the king to pay ten percent of the amount recovered;\nand the creditor who has recovered his money shall be made to pay five percent. // Yj_2.42 //"
+  },
+  {
+    "id": "p-58c15d",
+    "offset": 7585,
+    "text": "An impoverished debtor of a lower caste should be made to work for the debt;\nbut an impoverished Brāhmaṇa should be made to pay gradually, according to his income. // Yj_2.43 //"
+  },
+  {
+    "id": "p-bcab14",
+    "offset": 7764,
+    "text": "He who does not accept his own money when it is offered back to him,\nif it is then deposited with a neutral party, shall receive no further interest on it. // Yj_2.44 //"
+  },
+  {
+    "id": "p-762113",
+    "offset": 7935,
+    "text": "A debt contracted for the sake of the family by undivided members\nmust be paid by the heirs when the head of the family is dead or has gone abroad. // Yj_2.45 //"
+  },
+  {
+    "id": "p-22c3c1",
+    "offset": 8098,
+    "text": "A wife need not pay a debt contracted by her husband or son, nor a father for his son,\nunless it was for the family's sake; likewise, a husband need not pay a debt contracted by his wife. // Yj_2.46 //"
+  },
+  {
+    "id": "p-c8bca8",
+    "offset": 8301,
+    "text": "A son need not pay his father's debt if it was contracted for liquor, lust, or gambling,\nor is the remainder of a fine or toll, or was a promise of a useless gift. // Yj_2.47 //"
+  },
+  {
+    "id": "p-efd02c",
+    "offset": 8480,
+    "text": "A husband must pay the debt of the wife of a cowherd, a liquor-seller, an actor,\na washerman, or a hunter, because his livelihood depends on her. // Yj_2.48 //"
+  },
+  {
+    "id": "p-02860e",
+    "offset": 8641,
+    "text": "A debt acknowledged by a wife, or one contracted jointly with her husband,\nor one she contracted herself, must be paid by her; a woman is not liable to pay any other debt. // Yj_2.49 //"
+  },
+  {
+    "id": "p-d92e79",
+    "offset": 8828,
+    "text": "When the father is away, dead, or afflicted by calamity,\nthe debt must be paid by his son and grandson; if it is denied, it must be proved by witnesses. // Yj_2.50 //"
+  },
+  {
+    "id": "p-c1fdec",
+    "offset": 8996,
+    "text": "He who takes the inheritance must pay the debt, and likewise he who takes the wife;\nalso a son whose property is not dependent on another, or the heir of a sonless man. // Yj_2.51 //"
+  },
+  {
+    "id": "p-1f8209",
+    "offset": 9180,
+    "text": "Between brothers, between husband and wife, and between father and son,\nsuretyship, debt, and testimony are not valid while they are undivided. // Yj_2.52 //"
+  },
+  {
+    "id": "p-8b762f",
+    "offset": 9339,
+    "text": "Suretyship is ordained for appearance, for assurance, and for payment;\nif the first two fail, the sureties must pay, but in the case of the last, even their sons must pay. // Yj_2.53 //"
+  },
+  {
+    "id": "p-e03ebf",
+    "offset": 9526,
+    "text": "Where a surety for appearance or for assurance has died,\ntheir sons need not pay the debt; but the sons of one who stood as surety for payment must pay. // Yj_2.54 //"
+  },
+  {
+    "id": "p-3a7195",
+    "offset": 9694,
+    "text": "If there are several sureties, they should pay the money according to their shares;\nbut among those under a single guarantee, the creditor may claim from any one of them at his pleasure. // Yj_2.55 //"
+  },
+  {
+    "id": "p-b0278b",
+    "offset": 9896,
+    "text": "Whatever money a surety is openly made to pay to a creditor,\ndouble that amount shall be repaid to him by the debtors. // Yj_2.56 //"
+  },
+  {
+    "id": "p-f42da2",
+    "offset": 10030,
+    "text": "Offspring is the interest on female animals, grain may be increased threefold,\ncloth is said to be fourfold, and liquids eightfold. // Yj_2.57 //"
+  },
+  {
+    "id": "p-02d0ab",
+    "offset": 10177,
+    "text": "A pledge is lost when the debt has doubled, if it is not redeemed;\na pledge with a time limit is lost at that time, but a usufructuary pledge is never lost. // Yj_2.58 //"
+  },
+  {
+    "id": "p-6dfdd2",
+    "offset": 10349,
+    "text": "On a pledge for safekeeping that is used, no interest accrues; if a pledge for use is damaged,\nit must be made good; a damaged or destroyed pledge must be restored, unless it is by an act of god or the king. // Yj_2.59 //"
+  },
+  {
+    "id": "p-f28557",
+    "offset": 10572,
+    "text": "The validity of a pledge is established by its acceptance; if, though protected, it loses its value,\nanother pledge must be given, or the creditor becomes entitled to the money. // Yj_2.60 //"
+  },
+  {
+    "id": "p-524bc0",
+    "offset": 10765,
+    "text": "In the case of a pledge based on trust, he shall make him pay the money with interest;\nin the case of earnest money, he shall make him repay double. // Yj_2.61 //"
+  },
+  {
+    "id": "p-7be071",
+    "offset": 10929,
+    "text": "A pledge must be released to one who is present to redeem it; otherwise, the creditor becomes a thief.\nIf the creditor is absent, one may deposit the money with a kinsman and take back the pledge. // Yj_2.62 //"
+  },
+  {
+    "id": "p-2c34d7",
+    "offset": 11141,
+    "text": "Or the pledge, valued at that time, may remain there without accruing interest;\nor, in the absence of the debtor, the creditor may sell it in the presence of witnesses. // Yj_2.63 //"
+  },
+  {
+    "id": "p-4a7c65",
+    "offset": 11325,
+    "text": "When the debt on a pledge has doubled, the pledge must then be redeemed;\nin a usufructuary pledge, it is redeemed when the profit from it has reached twice the principal. // Yj_2.64 //"
+  },
+  {
+    "id": "p-47e456",
+    "offset": 11511,
+    "text": "4. Sealed Deposits (upanidhiprakaraṇam)"
+  },
+  {
+    "id": "p-6dc21f",
+    "offset": 11552,
+    "text": "Whatever property is placed in a container and entrusted to another's hand without its contents being described,\nthat is a sealed deposit; it must be returned in the same condition. // Yj_2.65 //"
+  },
+  {
+    "id": "p-dac6d2",
+    "offset": 11749,
+    "text": "The bailee is not liable to restore it if it is taken by the king, an act of god, or thieves;\nbut if it is lost because he did not return it when asked, he must restore it and pay a fine of the same amount. // Yj_2.66 //"
+  },
+  {
+    "id": "p-2e39c1",
+    "offset": 11971,
+    "text": "If he uses it for his livelihood of his own will, he is to be fined and must restore it with its profit;\nthis same rule applies to a loan for use, a bailment for delivery, a trust, an open deposit, and the like. // Yj_2.67 //"
+  },
+  {
+    "id": "p-613b70",
+    "offset": 12198,
+    "text": "5. Witnesses (sākṣiprakaraṇam)"
+  },
+  {
+    "id": "p-5c0bb3",
+    "offset": 12230,
+    "text": "Ascetics, charitable men, men of good family, truth-tellers,\nthose for whom `*dharma*` is paramount, upright men, those with sons, and those with wealth. // Yj_2.68 //"
+  },
+  {
+    "id": "p-18320c",
+    "offset": 12399,
+    "text": "At least three witnesses should be known, devoted to the rites of revelation and tradition;\nthey should be of the same caste and `*varṇa*` as the parties, or all may be witnesses for all. // Yj_2.69 //"
+  },
+  {
+    "id": "p-478abd",
+    "offset": 12602,
+    "text": "Women, children, the aged, gamblers, the intoxicated, the insane, those accused of a great sin,\nactors, heretics, forgers, and those with defective sense organs are not competent as witnesses. // Yj_2.70 //"
+  },
+  {
+    "id": "p-f5049f",
+    "offset": 12810,
+    "text": "Outcastes, friends, those with a pecuniary interest, associates, enemies, thieves,\nperpetrators of violence, those convicted of a crime, and the banished are also not competent as witnesses. // Yj_2.71 //"
+  },
+  {
+    "id": "p-33a082",
+    "offset": 13016,
+    "text": "Even one witness who knows `*dharma*` and is approved by both parties is acceptable;\nanyone can be a witness in cases of adultery, theft, assault, and violence. // Yj_2.72 //"
+  },
+  {
+    "id": "p-574029",
+    "offset": 13192,
+    "text": "The judge should admonish the witnesses in the presence of the plaintiff and defendant, saying:\n\"Whatever worlds are for those who commit sins and for those who commit great sins, // Yj_2.73 //"
+  },
+  {
+    "id": "p-8cde3a",
+    "offset": 13387,
+    "text": "and whatever worlds are for arsonists and for the slayers of women and children—\nhe who gives false testimony attains all those worlds. // Yj_2.74 //"
+  },
+  {
+    "id": "p-2034fe",
+    "offset": 13538,
+    "text": "Whatever merit you have acquired in hundreds of past lives,\nknow that all of it goes to him whom you falsely cause to be defeated.\" // Yj_2.75 //"
+  },
+  {
+    "id": "p-16fa67",
+    "offset": 13685,
+    "text": "A man who does not give testimony concerning a debt shall be made by the king to pay\nthe entire amount, plus a tenth part as a fine, on the forty-sixth day. // Yj_2.76 //"
+  },
+  {
+    "id": "p-908432",
+    "offset": 13857,
+    "text": "The base man who, though knowing, does not give testimony,\nis equal in sin and also in punishment to a false witness. // Yj_2.77 //"
+  },
+  {
+    "id": "p-b221f9",
+    "offset": 13990,
+    "text": "In a conflict of testimony, the statement of the majority is to be accepted; if the numbers are equal, that of the more virtuous witnesses;\nin a conflict among the virtuous, the statement of the most virtuous is to be accepted. // Yj_2.78 //"
+  },
+  {
+    "id": "p-f02be5",
+    "offset": 14233,
+    "text": "He whose claim the witnesses declare to be true shall be victorious;\notherwise, for the plaintiff whose claim is different, his defeat is certain. // Yj_2.79 //"
+  },
+  {
+    "id": "p-fbf5a7",
+    "offset": 14395,
+    "text": "Even after testimony has been given, if other, more virtuous witnesses,\nor double the number, say otherwise, the previous witnesses are deemed false. // Yj_2.80 //"
+  },
+  {
+    "id": "p-dbd716",
+    "offset": 14560,
+    "text": "False witnesses should be punished separately with a fine double the amount in dispute;\na Brāhmaṇa, however, is to be banished. // Yj_2.81 //"
+  },
+  {
+    "id": "p-71cfc7",
+    "offset": 14703,
+    "text": "He who, having given testimony, later denies it to others, being overcome by darkness,\nshall be made to pay a fine eight times the amount; a Brāhmaṇa, however, should be banished. // Yj_2.82 //"
+  },
+  {
+    "id": "p-5cd0fa",
+    "offset": 14898,
+    "text": "Where the death of a member of any `*varṇa*` would be the certain result of true testimony, one may give false testimony;\nfor its purification, a sacrificial porridge to Sarasvatī must be offered by the twice-born. // Yj_2.83 //"
+  },
+  {
+    "id": "p-ff1854",
+    "offset": 15128,
+    "text": "6. Documents (lekhyaprakaraṇam)"
+  },
+  {
+    "id": "p-777ef3",
+    "offset": 15161,
+    "text": "When any matter is settled by mutual consent, a document with witnesses should be made,\non which the creditor's name is written first. // Yj_2.84 //"
+  },
+  {
+    "id": "p-86a2c9",
+    "offset": 15311,
+    "text": "It should be marked with the year, month, half-month, day, name, caste, and personal gotra,\nalong with the name of one's fellow-student and one's own father's name. // Yj_2.85 //"
+  },
+  {
+    "id": "p-8aace1",
+    "offset": 15491,
+    "text": "When the text is complete, the debtor should write his name in his own hand, stating:\n\"What is written above is agreed to by me, the son of so-and-so.\" // Yj_2.86 //"
+  },
+  {
+    "id": "p-1c5130",
+    "offset": 15658,
+    "text": "And the witnesses, each in his own hand, should write, preceded by their father's name:\n\"Here I, so-and-so, am a witness.\" // Yj_2.87 //"
+  },
+  {
+    "id": "p-6b26dc",
+    "offset": 15796,
+    "text": "\"This has been written by me, the son of so-and-so, at the request of both parties,\"\nthus the scribe should then write at the end. // Yj_2.88 //"
+  },
+  {
+    "id": "p-4f0f8d",
+    "offset": 15942,
+    "text": "A document written in one's own hand, even without witnesses,\nis considered proof, except one made by force or fraud. // Yj_2.89 //"
+  },
+  {
+    "id": "p-b0a815",
+    "offset": 16075,
+    "text": "A debt recorded in a document must be paid by three generations of men;\nbut a pledge is enjoyed as long as the debt is not repaid. // Yj_2.90 //"
+  },
+  {
+    "id": "p-b9496f",
+    "offset": 16221,
+    "text": "If a document is in another country, illegible, lost, effaced, or stolen,\nor if it is torn, burnt, or cut, another document should be made. // Yj_2.91 //"
+  },
+  {
+    "id": "p-4514ef",
+    "offset": 16376,
+    "text": "The authenticity of a doubtful document may be established by comparison with one's own handwriting,\nby reasoning, proof of acquisition, course of dealing, identifying marks, relationship, and evidence of receipt. // Yj_2.92 //"
+  },
+  {
+    "id": "p-9a2c8f",
+    "offset": 16605,
+    "text": "Whenever the debtor makes a payment, he should write it on the back of the document;\nor the creditor should give a receipt marked with his own hand. // Yj_2.93 //"
+  },
+  {
+    "id": "p-7ca973",
+    "offset": 16769,
+    "text": "Having paid the debt, one should tear up the document, or have another one made for clearance;\nif the original was made with witnesses, the debt should be repaid in the presence of witnesses. // Yj_2.94 //"
+  },
+  {
+    "id": "p-0c3a85",
+    "offset": 16976,
+    "text": "7. Ordeals (divyaprakaraṇam)"
+  },
+  {
+    "id": "p-357a68",
+    "offset": 17006,
+    "text": "The balance, fire, water, poison, and sacred libation are the ordeals here for purification;\nthese are for grave accusations, when the accuser stakes his own life on the outcome. // Yj_2.95 //"
+  },
+  {
+    "id": "p-4770b8",
+    "offset": 17200,
+    "text": "Or one party may choose to undergo the ordeal, and the other stakes his life;\none may perform it even without this stake in cases of treason or great sin. // Yj_2.96 //"
+  },
+  {
+    "id": "p-f11262",
+    "offset": 17370,
+    "text": "Having summoned the person, who has fasted, to come bathed and in his clothes at sunrise,\nthe king should have all ordeals performed in the presence of himself and of Brāhmaṇas. // Yj_2.97 //"
+  },
+  {
+    "id": "p-c11b18",
+    "offset": 17563,
+    "text": "The ordeal of the balance is for women, children, the aged, the blind, the lame, Brāhmaṇas, and the sick;\nfire or water is for a Śūdra, or seven grains of poison. // Yj_2.98 //"
+  },
+  {
+    "id": "p-37e7f9",
+    "offset": 17741,
+    "text": "For a debt less than one thousand `paṇa`s, one should not undergo the ordeal of the ploughshare, poison, or the balance;\nbut in matters concerning the king or in a grave accusation, the pure may always undergo them. // Yj_2.99 //"
+  },
+  {
+    "id": "p-feacc1",
+    "offset": 17972,
+    "text": "The accused is placed in the balance by those expert in holding it;\nhaving been made equal to the counterweight, a line is marked, and he is taken down. // Yj_2.100 //"
+  },
+  {
+    "id": "p-fe3f7b",
+    "offset": 18141,
+    "text": "\"O Balance, you are the abode of truth, created of old by the gods.\nTherefore, speak the truth, O auspicious one, and free me from this doubt. // Yj_2.101 //"
+  },
+  {
+    "id": "p-b3da02",
+    "offset": 18300,
+    "text": "If I am a sinner, O Mother, then take me down; if I am pure, then carry me upwards.\"\nThus he should address the balance. // Yj_2.102 //"
+  },
+  {
+    "id": "p-6a3ea4",
+    "offset": 18437,
+    "text": "Having examined the hands of the accused, who has rubbed rice grains in them,\none should place seven Aśvattha leaves on them and wrap them with a thread. // Yj_2.103 //"
+  },
+  {
+    "id": "p-25ce73",
+    "offset": 18607,
+    "text": "\"O Fire, you move within all beings, O Purifier.\nLike a witness to merit and sin, speak the truth to me, O wise one.\" // Yj_2.104 //"
+  },
+  {
+    "id": "p-397343",
+    "offset": 18741,
+    "text": "After he has spoken thus, a smooth iron ball of fifty `pala`s,\nglowing like fire, should be placed in both his hands. // Yj_2.105 //"
+  },
+  {
+    "id": "p-4fbf85",
+    "offset": 18875,
+    "text": "Taking it, he should walk slowly through seven circles;\na circle is known to be of sixteen finger-breadths, and the same for the space between them. // Yj_2.106 //"
+  },
+  {
+    "id": "p-b1d8fe",
+    "offset": 19040,
+    "text": "Having dropped the fire, if he can rub rice grains in his hands and is unburnt, he attains purity;\nif the ball falls midway, or if there is doubt, he must carry it again. // Yj_2.107 //"
+  },
+  {
+    "id": "p-b37ea0",
+    "offset": 19227,
+    "text": "Having made the accused utter the imprecation, \"O Varuṇa, protect me with truth,\"\nhe should enter the water and hold the thighs of a man standing in navel-deep water. // Yj_2.108 //"
+  },
+  {
+    "id": "p-e9c840",
+    "offset": 19410,
+    "text": "At the same time, a swift man should fetch a discharged arrow;\nif, upon his return, the accused is still seen submerged, he attains purity. // Yj_2.109 //"
+  },
+  {
+    "id": "p-d6525f",
+    "offset": 19566,
+    "text": "\"O Poison, you are the son of Brahmā, established in the `*dharma*` of truth.\nSave me from this accusation; through truth, become nectar for me.\" // Yj_2.110 //"
+  },
+  {
+    "id": "p-40d69a",
+    "offset": 19728,
+    "text": "Having spoken thus, he should eat the Śārṅga poison from the Himalayan mountains;\nhe whose body digests it without ill effects, his purity should be declared. // Yj_2.111 //"
+  },
+  {
+    "id": "p-476e7d",
+    "offset": 19903,
+    "text": "Having worshipped the fierce deities, one should take the water from their bathing;\nhaving strained it, he should make the accused drink three handfuls of that water. // Yj_2.112 //"
+  },
+  {
+    "id": "p-d3a66c",
+    "offset": 20086,
+    "text": "He for whom no terrible calamity, caused by the king or by fate,\noccurs within fourteen days, is pure without a doubt. // Yj_2.113 //"
+  },
+  {
+    "id": "p-1c5915",
+    "offset": 20221,
+    "text": "8. The Division of Heritage (dāyavibhāgaprakaraṇam)"
+  },
+  {
+    "id": "p-4d6fe3",
+    "offset": 20274,
+    "text": "If the father makes a partition, he may divide his sons according to his wish;\nhe may give the eldest a preferential share, or all may be equal sharers. // Yj_2.114 //"
+  },
+  {
+    "id": "p-76c6a5",
+    "offset": 20443,
+    "text": "If he makes the shares equal, his wives, to whom no `*strīdhana*` has been given\nby their husband or father-in-law, should be made equal sharers. // Yj_2.115 //"
+  },
+  {
+    "id": "p-8ceed5",
+    "offset": 20605,
+    "text": "A capable son who does not desire a share may be separated by giving him a trifle;\na partition made by the father with unequal shares is declared to be lawful. // Yj_2.116 //"
+  },
+  {
+    "id": "p-24be00",
+    "offset": 20781,
+    "text": "After the death of the parents, the sons should divide the assets and debts equally;\nthe daughters take what remains of the mother's property after her debts, and in their absence, her male issue. // Yj_2.117 //"
+  },
+  {
+    "id": "p-bdf402",
+    "offset": 20994,
+    "text": "What has been acquired by oneself without detriment to the paternal estate,\nas well as what comes from a friend or at marriage, does not belong to the co-heirs. // Yj_2.118 //"
+  },
+  {
+    "id": "p-60354a",
+    "offset": 21171,
+    "text": "He who recovers ancestral property that had been taken away\nneed not give it to the co-heirs; the same applies to property gained through learning. // Yj_2.119 //"
+  },
+  {
+    "id": "p-0624e6",
+    "offset": 21335,
+    "text": "In an enterprise using common funds, the division of profit is declared to be equal;\nbut for cousins whose fathers are deceased, the division of shares is according to their respective fathers. // Yj_2.120 //"
+  },
+  {
+    "id": "p-38d53e",
+    "offset": 21545,
+    "text": "In land, a corrody, or property acquired by the paternal grandfather,\nthe ownership of the father and the son is equal. // Yj_2.121 //"
+  },
+  {
+    "id": "p-2be2cf",
+    "offset": 21681,
+    "text": "A son born to a wife of the same `*varṇa*` after the brothers have separated is entitled to a share;\nhis share shall be from the visible estate after accounting for income and expenditure. // Yj_2.122 //"
+  },
+  {
+    "id": "p-4743c7",
+    "offset": 21886,
+    "text": "What is given to a son by his parents becomes his own property;\nafter the father's death, when the sons divide the estate, the mother also takes an equal share. // Yj_2.123 //"
+  },
+  {
+    "id": "p-7d7ec8",
+    "offset": 22063,
+    "text": "Uninitiated brothers must have their sacraments performed by the brothers who were previously initiated;\nand sisters too, by giving them a fourth part from one's own share. // Yj_2.124 //"
+  },
+  {
+    "id": "p-6af4b8",
+    "offset": 22252,
+    "text": "The sons of a Brāhmaṇa by wives of different `*varṇa*`s shall have shares of four, three, two, and one, in order;\nthe sons of a Kṣatriya, three, two, and one; and the sons of a Vaiśya, two and one. // Yj_2.125 //"
+  },
+  {
+    "id": "p-716afc",
+    "offset": 22466,
+    "text": "Property concealed from one another which is discovered after partition,\nthey shall divide it again in equal shares; this is the settled rule. // Yj_2.126 //"
+  },
+  {
+    "id": "p-3d46e3",
+    "offset": 22625,
+    "text": "A son begotten by appointment in the field of another who is sonless\nis the heir of both and the giver of funeral offerings to both, according to `*dharma*`. // Yj_2.127 //"
+  },
+  {
+    "id": "p-735439",
+    "offset": 22799,
+    "text": "The `aurasa` is born of a lawful wife; equal to him is the `putrikāsuta`, the son of an appointed daughter.\nThe `kṣetraja` is one begotten on the wife's field by a kinsman of the same gotra or by another. // Yj_2.128 //"
+  },
+  {
+    "id": "p-20ddd2",
+    "offset": 23020,
+    "text": "The `gūḍhaja` is a son secretly born in the house;\nthe `kānīna` is born of an unmarried maiden and is considered the son of his maternal grandfather. // Yj_2.129 //"
+  },
+  {
+    "id": "p-24c599",
+    "offset": 23186,
+    "text": "The `paunarbhava` is a son born of a remarried woman, whether she was a virgin or not.\nHe whom his mother or father gives away becomes a `dattaka`, an adopted son. // Yj_2.130 //"
+  },
+  {
+    "id": "p-af8255",
+    "offset": 23366,
+    "text": "The `krīta` is one sold by them; the `kṛtrima` is one made a son by himself.\nThe `dattvātmā` is one who gives himself; the `sahoḍhaja` is one received with a bride while in her womb. // Yj_2.131 //"
+  },
+  {
+    "id": "p-168ba7",
+    "offset": 23565,
+    "text": "He who is taken after being abandoned becomes an `apaviddha` son.\nAmong these, in the absence of a preceding one, each succeeding one is the giver of the funeral offering and the taker of a share. // Yj_2.132 //"
+  },
+  {
+    "id": "p-8e72ee",
+    "offset": 23778,
+    "text": "This rule has been declared by me for sons of the same class;\na son born of a female slave to a Śūdra may, at the father's wish, be a sharer of the inheritance. // Yj_2.133 //"
+  },
+  {
+    "id": "p-a7f44b",
+    "offset": 23955,
+    "text": "After the father's death, the brothers should make him a half-sharer;\none who has no legitimate brothers may take the whole estate, in the absence of a daughter's son. // Yj_2.134 //"
+  },
+  {
+    "id": "p-807a82",
+    "offset": 24139,
+    "text": "The wife, the daughters, the parents, the brothers, and likewise\ntheir sons, kinsmen of the same gotra, cognate relations, a pupil, and a fellow-student. // Yj_2.135 //"
+  },
+  {
+    "id": "p-c8fbd0",
+    "offset": 24309,
+    "text": "In the absence of a preceding one, each succeeding one is the heir to the wealth;\nthis is the rule for a sonless man of any `*varṇa*` who has gone to heaven. // Yj_2.136 //"
+  },
+  {
+    "id": "p-5af4e1",
+    "offset": 24483,
+    "text": "The heirs of a hermit, an ascetic, and a student-celibate are,\nin order, the teacher, a virtuous pupil, a spiritual brother, and an associate in the same hermitage. // Yj_2.137 //"
+  },
+  {
+    "id": "p-da3901",
+    "offset": 24664,
+    "text": "A reunited coparcener shall inherit from a reunited coparcener, and a full brother from a full brother;\nhe shall give the share to and take the share from one who is born or has died. // Yj_2.138 //"
+  },
+  {
+    "id": "p-c884de",
+    "offset": 24864,
+    "text": "A reunited half-brother shall not inherit from another half-brother;\nan un-reunited full brother may take the inheritance, but not a reunited brother born of a different mother. // Yj_2.139 //"
+  },
+  {
+    "id": "p-d292cd",
+    "offset": 25058,
+    "text": "A eunuch, an outcaste and his son, a lame person, an insane person, an idiot,\nthe blind, and those with incurable diseases are to be maintained, but they are without a share. // Yj_2.140 //"
+  },
+  {
+    "id": "p-e1cde8",
+    "offset": 25249,
+    "text": "But their legitimate and `kṣetraja` sons, if free from such defects, are entitled to a share;\nand their daughters must be maintained until they are given to a husband. // Yj_2.141 //"
+  },
+  {
+    "id": "p-44ed2a",
+    "offset": 25433,
+    "text": "Their childless wives, if of good conduct, must be maintained;\nbut those who are unchaste should be banished, and likewise those who are hostile. // Yj_2.142 //"
+  },
+  {
+    "id": "p-418cd5",
+    "offset": 25595,
+    "text": "What is given by the father, mother, husband, or brother, what is received at the nuptial fire,\nand the gift on supersession and the like, is declared to be `*strīdhana*`. // Yj_2.143 //"
+  },
+  {
+    "id": "p-af4cd7",
+    "offset": 25783,
+    "text": "What is given by her kinsmen, as well as the nuptial fee and a subsequent gift;\nwhen she dies without issue, her kinsmen shall obtain it. // Yj_2.144 //"
+  },
+  {
+    "id": "p-3df8e5",
+    "offset": 25937,
+    "text": "The `*strīdhana*` of a childless woman married in one of the four forms beginning with the Brāhma goes to her husband;\nif she has issue, it goes to her daughters, and in the remaining forms of marriage, it goes to her father. // Yj_2.145 //"
+  },
+  {
+    "id": "p-295f10",
+    "offset": 26179,
+    "text": "One who takes back a maiden after having given her is to be fined and must also pay the expenses with interest;\nif she dies, he may take back what was given, after deducting the expenses of both sides. // Yj_2.146 //"
+  },
+  {
+    "id": "p-f8066f",
+    "offset": 26397,
+    "text": "In a famine, for a religious duty, during illness, or while imprisoned,\na husband who has taken `*strīdhana*` is not obliged to return it to his wife. // Yj_2.147 //"
+  },
+  {
+    "id": "p-02b79d",
+    "offset": 26564,
+    "text": "To a superseded wife, he should give a gift on supersession of equal value,\nif no `*strīdhana*` had been given to her; if some had been given, he should allot half that amount. // Yj_2.148 //"
+  },
+  {
+    "id": "p-b58f8f",
+    "offset": 26757,
+    "text": "In case of a denial of partition, the fact of partition is to be established by kinsmen, relatives, witnesses, and documents,\nand also by separate houses, fields, and nuptial property. // Yj_2.149 //"
+  },
+  {
+    "id": "p-bb67c3",
+    "offset": 26958,
+    "text": "9. Boundary Disputes (sīmāvivādaprakaraṇam)"
+  },
+  {
+    "id": "p-382005",
+    "offset": 27003,
+    "text": "In a dispute concerning the boundary of a field, neighbors, elders, and others,\ncowherds, those who till the boundary lands, and all who roam the forest, // Yj_2.150 //"
+  },
+  {
+    "id": "p-6482d6",
+    "offset": 27173,
+    "text": "these shall determine the boundary, which is marked by mounds of earth, charcoal, chaff, trees,\nbridges, anthills, depressions, bones, monuments, and the like. // Yj_2.151 //"
+  },
+  {
+    "id": "p-56db9d",
+    "offset": 27349,
+    "text": "Or four, eight, or even ten men from neighboring villages,\nwearing red garlands and clothes, shall determine the boundary, carrying earth on their heads. // Yj_2.152 //"
+  },
+  {
+    "id": "p-f7d61c",
+    "offset": 27519,
+    "text": "If they speak falsely, they are to be fined separately by the king the middle amercement;\nin the absence of witnesses and marks, the king shall establish the boundary. // Yj_2.153 //"
+  },
+  {
+    "id": "p-c0b997",
+    "offset": 27703,
+    "text": "For gardens, temples, villages, reservoirs, parks, and houses,\nthis same rule is to be known, as well as for watercourses and the like. // Yj_2.154 //"
+  },
+  {
+    "id": "p-e79547",
+    "offset": 27855,
+    "text": "For the destruction of a boundary mark, for transgressing a boundary,\nand for the seizure of a field, the fines are the lowest, highest, and middle amercements, respectively. // Yj_2.155 //"
+  },
+  {
+    "id": "p-9ad431",
+    "offset": 28046,
+    "text": "A dam that causes little harm but brings much benefit should not be forbidden;\nnor a well that takes up a small part of another's land but provides much water. // Yj_2.156 //"
+  },
+  {
+    "id": "p-fee8f9",
+    "offset": 28222,
+    "text": "He who builds a dam in a field without informing the owner,\nthe owner has the benefit of its produce; in his absence, the king does. // Yj_2.157 //"
+  },
+  {
+    "id": "p-708c51",
+    "offset": 28371,
+    "text": "He who does not cultivate a field that has been ploughed, nor causes it to be cultivated,\nshall be made to pay the value of the crop to the owner, and the field shall be cultivated by another. // Yj_2.158 //"
+  },
+  {
+    "id": "p-67ab76",
+    "offset": 28580,
+    "text": "10. Disputes between Owners and Herdsmen (svāmipālavivādaprakaraṇam)"
+  },
+  {
+    "id": "p-8a91de",
+    "offset": 28650,
+    "text": "A female buffalo that damages crops is to be fined eight `māṣa`s;\na cow half of that, and a goat or sheep half of that again. // Yj_2.159 //"
+  },
+  {
+    "id": "p-03886b",
+    "offset": 28792,
+    "text": "For cattle that sit down after grazing, the fine is double that prescribed;\nthe same applies to them in an enclosed pasture; a donkey or camel is fined the same as a buffalo. // Yj_2.160 //"
+  },
+  {
+    "id": "p-0bc73b",
+    "offset": 28983,
+    "text": "The owner of the field shall have as much produce as is destroyed;\nthe herdsman shall be beaten, and the owner of the cattle shall be liable for the aforementioned fine. // Yj_2.161 //"
+  },
+  {
+    "id": "p-b218d9",
+    "offset": 29169,
+    "text": "There is no offense if cattle graze on a path, near a village, or on the edge of an enclosed pasture;\nbut if they graze there intentionally, the owner is liable to the punishment of a thief. // Yj_2.162 //"
+  },
+  {
+    "id": "p-7a2902",
+    "offset": 29376,
+    "text": "Bulls set at liberty, newly calved cows, stray cattle,\nand cattle afflicted by an act of god or the king are not to be detained, nor are their herdsmen. // Yj_2.163 //"
+  },
+  {
+    "id": "p-dca4a5",
+    "offset": 29545,
+    "text": "A herdsman who has been paid his wages must return the cattle in the evening as they were entrusted to him;\nhe must make good any that are lost or have died through his negligence. // Yj_2.164 //"
+  },
+  {
+    "id": "p-dc3800",
+    "offset": 29742,
+    "text": "If cattle are lost through the fault of the herdsman, a fine is prescribed for him\nof twelve and a half `paṇa`s, and he must restore the property to the owner. // Yj_2.165 //"
+  },
+  {
+    "id": "p-b03060",
+    "offset": 29918,
+    "text": "Pasture for cattle may be set aside by the will of the village or by the authority of the king;\na twice-born may always take grass, firewood, and flowers from anywhere. // Yj_2.166 //"
+  },
+  {
+    "id": "p-c545da",
+    "offset": 30103,
+    "text": "A pasture of one hundred bow-lengths should surround a village, and a field should be beyond that;\ntwo hundred for a small town, and four hundred for a city. // Yj_2.167 //"
+  },
+  {
+    "id": "p-3768dc",
+    "offset": 30277,
+    "text": "11. Sale by One Who is Not the Owner (asvāmivikrayaprakaraṇam)"
+  },
+  {
+    "id": "p-c339eb",
+    "offset": 30341,
+    "text": "One may recover his own property sold by another; the fault lies with the buyer if the sale was not public.\nIf it was bought from an inferior person, in secret, at a low price, or at an improper time, the buyer is like a thief. // Yj_2.168 //"
+  },
+  {
+    "id": "p-2d526f",
+    "offset": 30585,
+    "text": "Having found lost or stolen property, one should have the person in possession of it arrested;\nif time and place do not permit, one should seize the property and hand it over himself. // Yj_2.169 //"
+  },
+  {
+    "id": "p-a2c712",
+    "offset": 30785,
+    "text": "Upon the production of the seller, the buyer is cleared; the owner gets the property, the king the fine.\nThe buyer recovers the price from him who was the seller. // Yj_2.170 //"
+  },
+  {
+    "id": "p-c7818b",
+    "offset": 30964,
+    "text": "Lost property must be proved by evidence of title and possession; otherwise,\na fine of five percent of the value is to be paid by him to the king if it is not proved. // Yj_2.171 //"
+  },
+  {
+    "id": "p-a00c2c",
+    "offset": 31147,
+    "text": "He who recovers stolen or lost property from the hand of another\nwithout informing the king is to be fined ninety-six `paṇa`s. // Yj_2.172 //"
+  },
+  {
+    "id": "p-e1cd15",
+    "offset": 31290,
+    "text": "Lost or stolen property recovered by customs officials or guards\nmay be claimed by the owner within a year; after that, it goes to the king. // Yj_2.173 //"
+  },
+  {
+    "id": "p-39c2bb",
+    "offset": 31447,
+    "text": "For a one-hoofed animal, one should pay one and a quarter `paṇa`s; four for a man;\ntwo each for a buffalo, camel, or cow; and a quarter `paṇa` each for a goat or sheep. // Yj_2.174 //"
+  },
+  {
+    "id": "p-92a768",
+    "offset": 31632,
+    "text": "12. The Resumption of Gifts (dattāpradānikaprakaraṇam)"
+  },
+  {
+    "id": "p-9ef7b5",
+    "offset": 31688,
+    "text": "One's own property may be given, provided it is not against the interests of the family, except for a wife or son;\none's entire property may not be given if there is a lineage, nor what has been promised to another. // Yj_2.175 //"
+  },
+  {
+    "id": "p-b21ef3",
+    "offset": 31920,
+    "text": "The acceptance of a gift must be public, especially in the case of immovable property.\nWhat has been promised must be given, and having given it, one must not take it back. // Yj_2.176 //"
+  },
+  {
+    "id": "p-b3f408",
+    "offset": 32109,
+    "text": "13. Rescission of Purchase (krītānuśayaprakaraṇam)"
+  },
+  {
+    "id": "p-df30f9",
+    "offset": 32161,
+    "text": "Ten, one, five, and seven days, a month, three days, and half a month\nis the period for examining seeds, iron, beasts of burden, gems, women, milch animals, and men, respectively. // Yj_2.177 //"
+  },
+  {
+    "id": "p-a3f153",
+    "offset": 32357,
+    "text": "In fire, gold does not diminish; in silver, the loss is two percent;\neight percent in tin and lead, five in copper, and ten in iron. // Yj_2.178 //"
+  },
+  {
+    "id": "p-d38205",
+    "offset": 32506,
+    "text": "In coarse woolen or cotton fabrics, the increase in value is ten percent;\nin medium quality, the increase is five percent; and in fine quality, it is considered to be three percent. // Yj_2.179 //"
+  },
+  {
+    "id": "p-c6064e",
+    "offset": 32704,
+    "text": "In silk fabrics and those made with hair, a loss of one-thirtieth is considered;\nthere is no loss or increase in fabrics of Kusa grass or tree bark. // Yj_2.180 //"
+  },
+  {
+    "id": "p-8c847f",
+    "offset": 32869,
+    "text": "Having considered the country, time, and use, and the strength or weakness of the goods that have perished,\nexperts should declare what is to be paid, without a doubt. // Yj_2.181 //"
+  },
+  {
+    "id": "p-402f89",
+    "offset": 33053,
+    "text": "14. Breach of the Contract of Service (abhyupetyāśuśrūṣāprakaraṇam)"
+  },
+  {
+    "id": "p-7b8e46",
+    "offset": 33122,
+    "text": "One who has been forcibly enslaved or sold by thieves is to be set free;\nas is one who saves his master's life, or one who is released from his servitude, or by paying the redemption price. // Yj_2.182 //"
+  },
+  {
+    "id": "p-501cdc",
+    "offset": 33328,
+    "text": "One who has lapsed from the ascetic life is a slave to the king until death.\nSlavery is in the direct order of the `*varṇa*`s, not in the reverse order. // Yj_2.183 //"
+  },
+  {
+    "id": "p-50ea58",
+    "offset": 33497,
+    "text": "An apprentice, even after having learned his craft, should reside in his teacher's house for the stipulated time;\nthe pupil, receiving his food from the teacher, should give him the fruits of his labor. // Yj_2.184 //"
+  },
+  {
+    "id": "p-503c64",
+    "offset": 33716,
+    "text": "15. Transgression of a Compact (saṃvidvyatikramaprakaraṇam)"
+  },
+  {
+    "id": "p-0f8071",
+    "offset": 33777,
+    "text": "The king, having established a settlement in a town and settled Brāhmaṇas there,\nshould grant a livelihood to those learned in the three Vedas and say, \"Let your own `*dharma*` be observed.\" // Yj_2.185 //"
+  },
+  {
+    "id": "p-eb9ce0",
+    "offset": 33984,
+    "text": "Whatever conventional rule is not contrary to one's own `*dharma*`,\nthat too should be carefully preserved, as well as any law made by the king. // Yj_2.186 //"
+  },
+  {
+    "id": "p-a5ff9a",
+    "offset": 34145,
+    "text": "He who embezzles the property of an association or transgresses its rules,\nthe king should confiscate all his property and banish him from the kingdom. // Yj_2.187 //"
+  },
+  {
+    "id": "p-cb12fa",
+    "offset": 34313,
+    "text": "The words of those who speak for the welfare of the group must be followed by all;\nhe who acts contrary to them shall be made to pay the lowest amercement. // Yj_2.188 //"
+  },
+  {
+    "id": "p-6bd6b8",
+    "offset": 34485,
+    "text": "The king should dismiss those who have come on the business of the group, after their work is done,\nhaving honored them with gifts, respect, and hospitality. // Yj_2.189 //"
+  },
+  {
+    "id": "p-97c9f3",
+    "offset": 34659,
+    "text": "Whatever an agent sent on the business of the group acquires, he must hand over;\nif he does not hand it over himself, he shall be made to pay eleven times the amount. // Yj_2.190 //"
+  },
+  {
+    "id": "p-3f572a",
+    "offset": 34842,
+    "text": "Those who deliberate on the affairs of the group should be knowledgeable in `*dharma*`, pure, and not greedy;\ntheir words, spoken for the welfare of the group, must be followed. // Yj_2.191 //"
+  },
+  {
+    "id": "p-4e313c",
+    "offset": 35036,
+    "text": "This same rule applies to guilds, corporations, heretical sects, and other associations;\nthe king should protect them from dissension and preserve their former customs. // Yj_2.192 //"
+  },
+  {
+    "id": "p-159f50",
+    "offset": 35221,
+    "text": "16. Non-payment of Wages (vetanādānaprakaraṇam)"
+  },
+  {
+    "id": "p-bdd1f4",
+    "offset": 35270,
+    "text": "A servant who, having received his wages, abandons his work, shall pay double the amount.\nIf he has not received them, he shall be made to pay an equal amount; the servant's tools must be protected. // Yj_2.193 //"
+  },
+  {
+    "id": "p-fa832a",
+    "offset": 35485,
+    "text": "A king shall make one who employs a person without settling the wages pay\na tenth part of the profit from trade, cattle, or crops. // Yj_2.194 //"
+  },
+  {
+    "id": "p-cbe5ce",
+    "offset": 35632,
+    "text": "He who transgresses the agreed time and place, or who makes a profit in a different way,\nin that case, the master has discretion; if more is done, more should be given. // Yj_2.195 //"
+  },
+  {
+    "id": "p-eaeaf2",
+    "offset": 35817,
+    "text": "A servant is entitled to wages for as much work as he performs;\nif the work is impossible for both, it should be done as agreed upon if it becomes possible. // Yj_2.196 //"
+  },
+  {
+    "id": "p-a72f4b",
+    "offset": 35990,
+    "text": "A carrier shall be made to pay for goods lost, unless it is due to an act of the king or of god;\nand one who causes a delay in the journey shall be made to pay double the wages. // Yj_2.197 //"
+  },
+  {
+    "id": "p-4f17e6",
+    "offset": 36184,
+    "text": "One who abandons the journey after starting shall forfeit a seventh of his wages; if on the way, a fourth;\nif halfway, the entire wages must be forfeited, and the one who causes the abandonment must also pay. // Yj_2.198 //"
+  },
+  {
+    "id": "p-9379d6",
+    "offset": 36409,
+    "text": "17. Gambling and Prize-fighting (dyūtasamāhvayaprakaraṇam)"
+  },
+  {
+    "id": "p-8f8f79",
+    "offset": 36469,
+    "text": "From a stake where the interest is one percent, the keeper of the gambling house may take five percent;\nfrom a deceitful gambler, but from another, ten percent. // Yj_2.199 //"
+  },
+  {
+    "id": "p-b3d2fa",
+    "offset": 36646,
+    "text": "He, being well-protected, should give the king his due share;\nhe should collect the winnings for the winner, and should be truthful and forbearing. // Yj_2.200 //"
+  },
+  {
+    "id": "p-ac2366",
+    "offset": 36810,
+    "text": "When the king's share has been received in a well-known assembly of gamblers,\nthe winner may be made to pay his winnings in the presence of the keeper; otherwise, not. // Yj_2.201 //"
+  },
+  {
+    "id": "p-91e6aa",
+    "offset": 36994,
+    "text": "The overseers of these transactions are also the witnesses;\nthose who use false dice or other tricks should be branded and banished by the king. // Yj_2.202 //"
+  },
+  {
+    "id": "p-6ebad4",
+    "offset": 37155,
+    "text": "Gambling should be conducted in one place, for the purpose of identifying thieves;\nthis same rule is to be known for prize-fighting with living creatures. // Yj_2.203 //"
+  },
+  {
+    "id": "p-18c294",
+    "offset": 37326,
+    "text": "18. Defamation (vākpāruṣyaprakaraṇam)"
+  },
+  {
+    "id": "p-3573d9",
+    "offset": 37365,
+    "text": "If one insults persons with deficient limbs, sense organs, or diseases, with true, false, or ironic praise,\nhe is to be fined twelve and a half `paṇa`s. // Yj_2.204 //"
+  },
+  {
+    "id": "p-eb4641",
+    "offset": 37534,
+    "text": "He who swears, saying, \"I will have intercourse with your sister or your mother,\"\nthe king shall make him pay a fine of twenty-five `paṇa`s. // Yj_2.205 //"
+  },
+  {
+    "id": "p-61a678",
+    "offset": 37691,
+    "text": "The fine is half for those of lower status, and double for insults against other men's wives and superiors;\npunishment should be inflicted according to the superiority or inferiority of caste and birth. // Yj_2.206 //"
+  },
+  {
+    "id": "p-e6ac91",
+    "offset": 37910,
+    "text": "In cases of insult in the reverse order of the `*varṇa*`s, the fines are doubled and tripled;\nin the direct order of the `*varṇa*`s, they are reduced by half successively. // Yj_2.207 //"
+  },
+  {
+    "id": "p-df0103",
+    "offset": 38098,
+    "text": "For a verbal threat to destroy the arm, neck, eye, or thigh, the fine is one hundred;\nhalf of that for a threat against the foot, nose, ear, or hand. // Yj_2.208 //"
+  },
+  {
+    "id": "p-a65ed4",
+    "offset": 38264,
+    "text": "One who is unable to carry out such a threat but utters it is to be fined ten `paṇa`s;\none who is able, however, shall be made to provide a surety for the other's safety. // Yj_2.209 //"
+  },
+  {
+    "id": "p-be26f6",
+    "offset": 38451,
+    "text": "For an insult that causes loss of caste, the fine is the middle amercement;\nfor one involving a minor sin, the lowest amercement is to be imposed. // Yj_2.210 //"
+  },
+  {
+    "id": "p-15d12b",
+    "offset": 38614,
+    "text": "For an insult against those learned in the three Vedas, a king, or a god, the fine is the highest amercement;\nthe middle for insults against castes and corporations, and the lowest for insults against villages and districts. // Yj_2.211 //"
+  },
+  {
+    "id": "p-78ce83",
+    "offset": 38855,
+    "text": "19. Assault (daṇḍapāruṣyaprakaraṇam)"
+  },
+  {
+    "id": "p-4dcb3d",
+    "offset": 38893,
+    "text": "In a case of assault without witnesses, the dispute should be investigated\nby means of marks, circumstantial evidence, and prior history, guarding against the fear of fabricated marks. // Yj_2.212 //"
+  },
+  {
+    "id": "p-585cc9",
+    "offset": 39094,
+    "text": "For touching another with ashes, mud, or dust, the fine is declared to be ten `paṇa`s;\nfor touching with an impure substance, spittle from the heel, or phlegm, the fine is double that. // Yj_2.213 //"
+  },
+  {
+    "id": "p-ce1229",
+    "offset": 39295,
+    "text": "This is for equals; for insults against other men's wives and superiors, the fine is doubled;\nfor inferiors, it is half; there is no punishment for acts done through intoxication, madness, and the like. // Yj_2.214 //"
+  },
+  {
+    "id": "p-c73a36",
+    "offset": 39514,
+    "text": "The limb of a non-Brāhmaṇa with which he injures a Brāhmaṇa should be cut off;\nfor raising a weapon, the lowest amercement; for touching with it, half of that. // Yj_2.215 //"
+  },
+  {
+    "id": "p-87b634",
+    "offset": 39690,
+    "text": "For raising a hand or foot, the fines are ten and twenty `paṇa`s respectively;\nfor mutual assault with a weapon among all classes, the middle amercement. // Yj_2.216 //"
+  },
+  {
+    "id": "p-15534b",
+    "offset": 39860,
+    "text": "For pulling by the foot, hair, garment, or hand, the fine is ten `paṇa`s;\nfor causing pain, dragging, wrapping in a garment, or placing a foot on another, the fine is one hundred. // Yj_2.217 //"
+  },
+  {
+    "id": "p-b23a2b",
+    "offset": 40056,
+    "text": "A man who causes pain with wood or the like, without drawing blood,\nshall be fined thirty-two `paṇa`s; double that if blood is seen. // Yj_2.218 //"
+  },
+  {
+    "id": "p-83a265",
+    "offset": 40205,
+    "text": "For breaking a hand, foot, or tooth, or for cutting an ear or nose,\nthe middle amercement is the fine; also for causing a wound or beating someone to the point of death. // Yj_2.219 //"
+  },
+  {
+    "id": "p-a2fd9a",
+    "offset": 40391,
+    "text": "For obstructing movement, eating, or speech, for destroying an eye or the like,\nand for breaking the neck, arm, or thigh, the fine is the middle amercement. // Yj_2.220 //"
+  },
+  {
+    "id": "p-94da9d",
+    "offset": 40564,
+    "text": "For many persons striking one, the fine is double that prescribed;\nproperty stolen in a brawl must be restored, and the fine is double that. // Yj_2.221 //"
+  },
+  {
+    "id": "p-33959b",
+    "offset": 40721,
+    "text": "He who causes injury must pay the expenses of recovery,\nand also the fine that is prescribed for that particular brawl. // Yj_2.222 //"
+  },
+  {
+    "id": "p-48ea56",
+    "offset": 40857,
+    "text": "For striking, cutting, or breaking down a wall,\none shall be made to pay a fine of five, ten, and twenty `paṇa`s respectively, and also the cost of repair. // Yj_2.223 //"
+  },
+  {
+    "id": "p-3ca945",
+    "offset": 41029,
+    "text": "For throwing into a house an object that causes pain, or one that is life-threatening,\nthe fine shall be sixteen `paṇa`s for the first, and the middle amercement for the second. // Yj_2.224 //"
+  },
+  {
+    "id": "p-ac47c4",
+    "offset": 41223,
+    "text": "For causing pain, drawing blood, or cutting off a limb or branch of small animals,\nthe fine begins from two `paṇa`s and increases in order. // Yj_2.225 //"
+  },
+  {
+    "id": "p-d73dce",
+    "offset": 41379,
+    "text": "For castrating them or causing their death, the fine is the middle amercement, and also their value;\nfor large animals, in these same cases, the fine is doubled. // Yj_2.226 //"
+  },
+  {
+    "id": "p-8c8351",
+    "offset": 41557,
+    "text": "For cutting off a branch, the trunk, or completely destroying sprouting trees,\nand trees that provide a livelihood, the fine is double twenty, and so on. // Yj_2.227 //"
+  },
+  {
+    "id": "p-60fce4",
+    "offset": 41727,
+    "text": "For trees that have grown in a temple, a cremation ground, on a boundary, in a sacred place, or in a sanctuary,\nthe fine is doubled, and also for a famous tree. // Yj_2.228 //"
+  },
+  {
+    "id": "p-b422e8",
+    "offset": 41904,
+    "text": "For cutting shrubs, bushes, small plants, creepers, spreading plants, herbs, and climbing plants,\nin the aforementioned places, the fine is half of that previously stated. // Yj_2.229 //"
+  },
+  {
+    "id": "p-8fd2d4",
+    "offset": 42092,
+    "text": "20. Violence and Robbery (sāhasaprakaraṇam)"
+  },
+  {
+    "id": "p-a7af0a",
+    "offset": 42137,
+    "text": "The forceful seizure of common property is known as `*sāhasa*` (violence);\nthe fine for it is double the value of the property, but fourfold if it is denied. // Yj_2.230 //"
+  },
+  {
+    "id": "p-f15bde",
+    "offset": 42311,
+    "text": "He who causes a violent act to be committed shall be made to pay a double fine;\nand he who, having said, \"I will pay,\" causes it to be done, shall pay a fourfold fine. // Yj_2.231 //"
+  },
+  {
+    "id": "p-a71e46",
+    "offset": 42495,
+    "text": "One who obstructs an Arghya offering or transgresses its rules, one who strikes his brother's wife,\none who does not give what was entrusted to him, and one who breaks into a guild-hall or a house; // Yj_2.232 //"
+  },
+  {
+    "id": "p-79c1c7",
+    "offset": 42709,
+    "text": "one who causes injury to neighbors, kinsmen, and the like—\nfor these, a fine of fifty `*paṇa*`s is the established rule. // Yj_2.233 //"
+  },
+  {
+    "id": "p-109d3a",
+    "offset": 42846,
+    "text": "One who has intercourse with a widow who acts of her own accord, one who does not run to help when a cry is raised,\none who cries out without cause, and a Caṇḍāla who touches a man of a higher `*varṇa*`; // Yj_2.234 //"
+  },
+  {
+    "id": "p-a7d8cb",
+    "offset": 43066,
+    "text": "one who feeds Śūdras or ascetics at a rite for the gods or Ancestors,\none who takes an improper oath, and an unqualified person who performs a qualified person's work; // Yj_2.235 //"
+  },
+  {
+    "id": "p-bebbb7",
+    "offset": 43250,
+    "text": "one who destroys the virility of a bull or a small animal,\none who denies what is held in common, and one who causes an abortion in a female slave; // Yj_2.236 //"
+  },
+  {
+    "id": "p-ab45f0",
+    "offset": 43414,
+    "text": "a father, son, sister, brother, husband, wife, teacher, and pupil—\none who, without being an outcaste, abandons any of these shall be liable to a fine of one hundred. // Yj_2.237 //"
+  },
+  {
+    "id": "p-a6490d",
+    "offset": 43597,
+    "text": "A washerman wearing another's garment shall be fined three `*paṇa*`s;\nfor selling, hiring out, pledging, or lending it, ten `*paṇa*`s. // Yj_2.238 //"
+  },
+  {
+    "id": "p-d6bfa9",
+    "offset": 43748,
+    "text": "In a dispute between a father and son, the fine for witnesses is three `*paṇa*`s;\nand for one who stands between them, the fine is eight times that amount. // Yj_2.239 //"
+  },
+  {
+    "id": "p-7957dd",
+    "offset": 43920,
+    "text": "A maker of counterfeit weights, edicts, or measures, and of counterfeit coins,\nand he who deals with these, shall be made to pay the highest amercement. // Yj_2.240 //"
+  },
+  {
+    "id": "p-754c03",
+    "offset": 44089,
+    "text": "He who calls a genuine coin counterfeit, or a counterfeit one genuine,\nthat coin-examiner shall be made to pay the highest amercement. // Yj_2.241 //"
+  },
+  {
+    "id": "p-443efb",
+    "offset": 44240,
+    "text": "A physician who practices deceitfully shall be fined the lowest amercement for injuring animals,\nthe middle for injuring a human, and the highest for injuring a royal official. // Yj_2.242 //"
+  },
+  {
+    "id": "p-7e5cb0",
+    "offset": 44433,
+    "text": "He who binds one who should not be bound, and he who releases one who is bound,\nand one who has not reached the age for legal proceedings, shall be made to pay the highest amercement. // Yj_2.243 //"
+  },
+  {
+    "id": "p-fe19c3",
+    "offset": 44633,
+    "text": "He who takes away an eighth part by means of a measure or a balance,\nshall be made to pay a fine of two hundred, which is also prescribed for increase or decrease. // Yj_2.244 //"
+  },
+  {
+    "id": "p-24427b",
+    "offset": 44813,
+    "text": "He who adulterates medicinal herbs, oils, salt, perfumes, grain, molasses, and the like,\nby mixing an inferior substance with the goods, shall be made to pay sixteen `*paṇa*`s. // Yj_2.245 //"
+  },
+  {
+    "id": "p-fdae36",
+    "offset": 45006,
+    "text": "For making an imitation of a genuine article of clay, leather, gems, thread, iron,\nwood, bark, or cloth, the fine is eight times the value of the thing sold. // Yj_2.246 //"
+  },
+  {
+    "id": "p-b29683",
+    "offset": 45180,
+    "text": "For one who takes away by pledge or sale a sealed container that has been exchanged,\nor a valuable object that is counterfeit, a fine is to be determined. // Yj_2.247 //"
+  },
+  {
+    "id": "p-d9c8b4",
+    "offset": 45351,
+    "text": "For a counterfeit of one `*paṇa*`, the fine is fifty; for one `*paṇa*`, it is said to be one hundred;\nfor two `*paṇa*`s, the fine is two hundred, and it increases with the increase in value. // Yj_2.248 //"
+  },
+  {
+    "id": "p-2d526e",
+    "offset": 45558,
+    "text": "For artisans and craftsmen who, acting in concert, cause a restriction on the market price,\nor who knowingly cause a decrease or increase in the price, the fine is the highest amercement. // Yj_2.249 //"
+  },
+  {
+    "id": "p-b48eb5",
+    "offset": 45762,
+    "text": "For merchants who, acting in concert, obstruct the sale of goods at a fair price,\nor who sell them at such a price, the highest amercement is prescribed as the fine. // Yj_2.250 //"
+  },
+  {
+    "id": "p-c29936",
+    "offset": 45944,
+    "text": "The price that is fixed daily by the king—with that, sale\nor purchase should be made; the surplus from that is known as the profit for merchants. // Yj_2.251 //"
+  },
+  {
+    "id": "p-9f3dbc",
+    "offset": 46106,
+    "text": "On domestic goods, a merchant may take five percent;\non foreign goods, ten percent, if he is a seller who buys and sells immediately. // Yj_2.252 //"
+  },
+  {
+    "id": "p-62d0a1",
+    "offset": 46256,
+    "text": "Having added the expenses incurred on the goods to their cost,\na price should be fixed that is favorable to both the buyer and the seller. // Yj_2.253 //"
+  },
+  {
+    "id": "p-10ce42",
+    "offset": 46411,
+    "text": "21. Non-delivery of Sold Goods (vikrīyāsaṃpradānaprakaraṇam)"
+  },
+  {
+    "id": "p-b503a9",
+    "offset": 46473,
+    "text": "He who, having received the price, does not deliver the goods to the buyer,\nshall be made to pay it to him with interest, or with the profit from another country if it was for trade abroad. // Yj_2.254 //"
+  },
+  {
+    "id": "p-6d9d58",
+    "offset": 46679,
+    "text": "Goods already sold may be sold again if the first buyer does not take delivery;\nif there is a loss due to the buyer's fault, that loss falls on the buyer alone. // Yj_2.255 //"
+  },
+  {
+    "id": "p-c48e8b",
+    "offset": 46856,
+    "text": "If a defect arises in the goods due to an act of the king or of god,\nthat loss falls on the seller alone, if he does not deliver them when requested. // Yj_2.256 //"
+  },
+  {
+    "id": "p-f23395",
+    "offset": 47022,
+    "text": "If one sells goods to another person, or sells a defective item as if it were sound,\nthe fine in that case shall be double the price. // Yj_2.257 //"
+  },
+  {
+    "id": "p-ca2654",
+    "offset": 47172,
+    "text": "A merchant who is ignorant of the decrease or increase in the value of goods\nshould not have buyer's remorse after purchasing; if he does, he is liable to a fine of a sixth part. // Yj_2.258 //"
+  },
+  {
+    "id": "p-559838",
+    "offset": 47367,
+    "text": "22. Partnership (saṃbhūyasamutthānaprakaraṇam)"
+  },
+  {
+    "id": "p-f4c6c6",
+    "offset": 47415,
+    "text": "For merchants who act in partnership for the sake of profit,\nprofit and loss are in proportion to their capital, or as agreed upon by their compact. // Yj_2.259 //"
+  },
+  {
+    "id": "p-b4e6b9",
+    "offset": 47580,
+    "text": "What is lost through a forbidden or unauthorized act, or through negligence,\nthat he must make good; and for what is saved from disaster, he is entitled to a tenth part. // Yj_2.260 //"
+  },
+  {
+    "id": "p-029e77",
+    "offset": 47766,
+    "text": "From the addition to the price, the king should take a twentieth part as tax;\nwhat is forbidden or fit for the king, if sold, goes to the king. // Yj_2.261 //"
+  },
+  {
+    "id": "p-4720e6",
+    "offset": 47926,
+    "text": "He who states a false measure and evades the customs-house,\nand he who buys or sells with fraudulent intent, shall be made to pay eight times the amount. // Yj_2.262 //"
+  },
+  {
+    "id": "p-9b825d",
+    "offset": 48096,
+    "text": "A ferryman who collects a land-toll shall be fined ten `*paṇa*`s;\nthe same applies for not inviting Brāhmaṇas and neighbors. // Yj_2.263 //"
+  },
+  {
+    "id": "p-fb1ce2",
+    "offset": 48237,
+    "text": "When a man dies in a foreign country, his property shall be taken by his heirs, kinsmen,\nor relatives; if they come, it is theirs; in their absence, it goes to the king. // Yj_2.264 //"
+  },
+  {
+    "id": "p-8474d3",
+    "offset": 48423,
+    "text": "They should expel a dishonest partner without profit; an incapable one may have his work done by another.\nBy this, the rule for priests, farmers, and laborers is explained. // Yj_2.265 //"
+  },
+  {
+    "id": "p-13b786",
+    "offset": 48612,
+    "text": "23. Theft (steyaprakaraṇam)"
+  },
+  {
+    "id": "p-0ef6bc",
+    "offset": 48641,
+    "text": "A thief is caught by his pursuers, with the stolen goods, or by his footprints;\nalso by his previous criminal record, and by living in an impure place. // Yj_2.266 //"
+  },
+  {
+    "id": "p-c478c4",
+    "offset": 48809,
+    "text": "Others too may be arrested on suspicion, who conceal their caste, name, and so on;\nthose addicted to gambling, women, and liquor, and those with a dry and altered face and voice. // Yj_2.267 //"
+  },
+  {
+    "id": "p-23b32e",
+    "offset": 49004,
+    "text": "Those who inquire about others' property and houses, who move about in secret,\nthose who have no income but live lavishly, and those who sell lost property. // Yj_2.268 //"
+  },
+  {
+    "id": "p-315e54",
+    "offset": 49177,
+    "text": "If one arrested on suspicion of theft does not clear himself,\nhe shall be made to restore the stolen property and be punished with the punishment for a thief. // Yj_2.269 //"
+  },
+  {
+    "id": "p-6ee9c4",
+    "offset": 49352,
+    "text": "Having made the thief restore the stolen property, he should be put to death by various means of execution;\na Brāhmaṇa should be branded with the mark of a thief and banished from his own country. // Yj_2.270 //"
+  },
+  {
+    "id": "p-7e02f0",
+    "offset": 49565,
+    "text": "If a thief is killed or property is stolen and not recovered, the fault lies with the head of the village;\nif on a path, with the head of the pasture-land; if in an unguarded area, with the official appointed to catch thieves. // Yj_2.271 //"
+  },
+  {
+    "id": "p-4b72b8",
+    "offset": 49808,
+    "text": "The village must restore the property within its own boundary, or to where the footprints lead;\nor the five-village or ten-village group must do so if it is outside a league from the village. // Yj_2.272 //"
+  },
+  {
+    "id": "p-eb9df8",
+    "offset": 50016,
+    "text": "Kidnappers, as well as thieves of horses and elephants,\nand those who kill by open assault—these men should be impaled on stakes. // Yj_2.273 //"
+  },
+  {
+    "id": "p-4728a0",
+    "offset": 50162,
+    "text": "A snatcher and a cut-purse should have their thumb and forefinger cut off;\nfor a second offense, they should be deprived of one hand and one foot. // Yj_2.274 //"
+  },
+  {
+    "id": "p-3cc1fa",
+    "offset": 50325,
+    "text": "For the theft of small, medium, and large articles, the fine is according to their value;\nin inflicting punishment, the place, time, age, and strength must be considered. // Yj_2.275 //"
+  },
+  {
+    "id": "p-9ff05f",
+    "offset": 50512,
+    "text": "For one who knowingly gives food, shelter, fire, water, counsel, tools, or expenses\nto a thief, or who receives stolen goods, the fine is the highest amercement. // Yj_2.276 //"
+  },
+  {
+    "id": "p-193609",
+    "offset": 50690,
+    "text": "For destroying a weapon in a fight and for causing an abortion, the fine is the highest amercement;\nfor killing a man or a woman, the fine is the highest or the lowest. // Yj_2.277 //"
+  },
+  {
+    "id": "p-9c4b66",
+    "offset": 50875,
+    "text": "A woman who has been defiled by a Brāhmaṇa, who has killed a man, and is not pregnant,\nand one who breaks a dam, should be drowned in water with a stone tied to her. // Yj_2.278 //"
+  },
+  {
+    "id": "p-a7977d",
+    "offset": 51057,
+    "text": "A woman who administers poison or fire, who kills her husband, her teacher, or her own child,\nshould have her ears, hands, nose, and lips cut off, and then be killed by being trampled by oxen. // Yj_2.279 //"
+  },
+  {
+    "id": "p-16e712",
+    "offset": 51266,
+    "text": "In the case of a person found murdered, his sons and kinsmen should be questioned at once about any quarrel;\nand his wives who are intimate with other men should be questioned separately. // Yj_2.280 //"
+  },
+  {
+    "id": "p-105480",
+    "offset": 51470,
+    "text": "One should ask whether he was seeking a woman's property or livelihood, or with whom he went;\nor one should gently question the people near the place of death. // Yj_2.281 //"
+  },
+  {
+    "id": "p-1aa05b",
+    "offset": 51646,
+    "text": "Those who set fire to a field, house, forest, village, pasture, or threshing-floor,\nand he who has intercourse with the king's wife, shall be burnt in a fire of straw. // Yj_2.282 //"
+  },
+  {
+    "id": "p-eb4ade",
+    "offset": 51830,
+    "text": "24. Sexual Offenses (strīsaṃgrahaṇaprakaraṇam)"
+  },
+  {
+    "id": "p-f3eab5",
+    "offset": 51878,
+    "text": "A man is to be arrested for illicit intercourse with another's wife by seizing each other's hair,\nor immediately by signs of lust, or by the confession of both. // Yj_2.283 //"
+  },
+  {
+    "id": "p-b36a1a",
+    "offset": 52055,
+    "text": "Touching the knot of her lower garment, her breasts, her upper garment, her thighs, or her hair,\nand conversing at an improper place and time, or sitting together on one seat. // Yj_2.284 //"
+  },
+  {
+    "id": "p-5ae999",
+    "offset": 52247,
+    "text": "If the woman forbids it, she shall pay one hundred; the man shall pay a fine of two hundred.\nIf both forbid it, the punishment is the same as for illicit intercourse. // Yj_2.285 //"
+  },
+  {
+    "id": "p-88392f",
+    "offset": 52430,
+    "text": "For intercourse with a woman of the same caste, the fine is the highest; in the direct order of castes, the middle;\nin the reverse order, death for the man, and the cutting off of the woman's ears and so on. // Yj_2.286 //"
+  },
+  {
+    "id": "p-cbbce5",
+    "offset": 52654,
+    "text": "For abducting an adorned maiden, the highest fine; otherwise, the lowest.\nHe shall pay this fine for maidens of his own caste; in the reverse order, death is prescribed. // Yj_2.287 //"
+  },
+  {
+    "id": "p-e2cf86",
+    "offset": 52840,
+    "text": "In the case of willing women of the direct order of castes, there is no offense; otherwise, a fine.\nFor raping a maiden, the cutting off of the hand; for raping a woman of the highest caste, death. // Yj_2.288 //"
+  },
+  {
+    "id": "p-d0ae3f",
+    "offset": 53054,
+    "text": "One shall pay one hundred for defiling a woman, and two hundred for falsely accusing her.\nOne who has intercourse with animals shall be fined one hundred; for intercourse with a low-caste woman or a cow, the middle amercement. // Yj_2.289 //"
+  },
+  {
+    "id": "p-92aa55",
+    "offset": 53297,
+    "text": "In the case of secluded female slaves and concubines,\neven if they are accessible, a man shall be made to pay a fine of fifty `*paṇa*`s. // Yj_2.290 //"
+  },
+  {
+    "id": "p-b0a656",
+    "offset": 53450,
+    "text": "For raping a female slave, a fine of ten `*paṇa*`s is prescribed;\nif many rape her against her will, a fine of twenty-four each. // Yj_2.291 //"
+  },
+  {
+    "id": "p-fb53a8",
+    "offset": 53595,
+    "text": "A prostitute who has received her fee but is unwilling shall pay double the amount.\nIf the fee has not been received, she shall be made to pay an equal amount; the same applies to a man. // Yj_2.292 //"
+  },
+  {
+    "id": "p-9ce541",
+    "offset": 53798,
+    "text": "For one who has intercourse with a woman in an unnatural way, or who urinates on a man,\nthe fine is twenty-four `*paṇa*`s; likewise for intercourse with a female ascetic. // Yj_2.293 //"
+  },
+  {
+    "id": "p-98139c",
+    "offset": 53985,
+    "text": "For intercourse with an outcaste woman, one should be branded with a headless trunk and banished.\nA Śūdra who does so becomes an outcaste; for an outcaste having intercourse with an Āryan woman, death. // Yj_2.294 //"
+  },
+  {
+    "id": "p-36b97a",
+    "offset": 54203,
+    "text": "25. Miscellaneous Offenses (prakīrṇakaprakaraṇam)"
+  },
+  {
+    "id": "p-f1b4d6",
+    "offset": 54254,
+    "text": "He who writes a royal edict with less or more than is intended,\nor who releases an adulterer or a thief, shall be fined the highest amercement. // Yj_2.295 //"
+  },
+  {
+    "id": "p-9be7bc",
+    "offset": 54414,
+    "text": "One who defiles a twice-born with inedible food shall be fined the highest amercement;\nthe middle for a Kṣatriya, the lowest for a Vaiśya, and half of that for a Śūdra. // Yj_2.296 //"
+  },
+  {
+    "id": "p-0dcc3e",
+    "offset": 54599,
+    "text": "A dealer in counterfeit gold and a seller of forbidden meat\nshall be deprived of three limbs and made to pay the highest amercement. // Yj_2.297 //"
+  },
+  {
+    "id": "p-ea568f",
+    "offset": 54748,
+    "text": "For an offense committed by a quadruped, there is no fault for one who shouts, \"Get away!\";\nthe same applies to an offense committed by wood, a clod, an arrow, a stone, a hand, or a yoked animal. // Yj_2.298 //"
+  },
+  {
+    "id": "p-8e3079",
+    "offset": 54960,
+    "text": "If a vehicle has a broken nose-rope or a broken yoke,\nor if it is moving backwards, the owner is not at fault if it causes injury. // Yj_2.299 //"
+  },
+  {
+    "id": "p-95fa57",
+    "offset": 55107,
+    "text": "A master who, though able, does not rescue someone from a tusked or horned animal,\nshall pay the lowest amercement; if a cry for help is raised, double that. // Yj_2.300 //"
+  },
+  {
+    "id": "p-01b6fd",
+    "offset": 55281,
+    "text": "One who calls an adulterer a thief shall be made to pay a fine of five hundred;\none who, having lived on his wealth, releases him, shall pay eight times that amount. // Yj_2.301 //"
+  },
+  {
+    "id": "p-58664f",
+    "offset": 55463,
+    "text": "One who speaks ill of the king, or who insults him,\nand one who divulges his secret counsel, shall have his tongue cut out and be banished. // Yj_2.302 //"
+  },
+  {
+    "id": "p-848254",
+    "offset": 55619,
+    "text": "For a seller of clothes from a corpse, for one who strikes his teacher,\nand for one who mounts the king's vehicle or seat, the fine is the highest amercement. // Yj_2.303 //"
+  },
+  {
+    "id": "p-97504e",
+    "offset": 55794,
+    "text": "For one who puts out both eyes of another, for one who carries out a command hostile to the king,\nand for a Śūdra who lives by pretending to be a Brāhmaṇa, the fine is eight hundred. // Yj_2.304 //"
+  },
+  {
+    "id": "p-b14c78",
+    "offset": 55993,
+    "text": "When legal disputes have been badly decided, they should be reviewed again by the king;\nthe assessors, along with the victorious party, should be fined double the amount of the dispute. // Yj_2.305 //"
+  },
+  {
+    "id": "p-1bfcdf",
+    "offset": 56195,
+    "text": "He who, though defeated by a just decision, thinks, \"I have not been defeated,\"\nand comes again, shall be defeated again and made to pay a double fine. // Yj_2.306 //"
+  },
+  {
+    "id": "p-b18ffc",
+    "offset": 56363,
+    "text": "Whatever fine has been unjustly taken by the king, he should dedicate it to Varuṇa,\nand then give it to Brāhmaṇas, multiplied thirty times by himself. // Yj_2.307 //"
+  }
+]

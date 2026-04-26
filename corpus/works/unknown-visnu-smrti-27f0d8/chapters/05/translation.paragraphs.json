@@ -1,0 +1,992 @@
+[
+  {
+    "id": "p-cf4a10",
+    "offset": 0,
+    "text": "**Vishnu Smriti 5**"
+  },
+  {
+    "id": "p-2c7e24",
+    "offset": 21,
+    "text": "Now, all those who commit a great sin (*mahāpātaka*), except for a Brāhmaṇa, shall be put to death. // Vi_5.1 //"
+  },
+  {
+    "id": "p-8c285b",
+    "offset": 135,
+    "text": "There shall be no corporal punishment for a Brāhmaṇa. // Vi_5.2 //"
+  },
+  {
+    "id": "p-583b27",
+    "offset": 203,
+    "text": "A Brāhmaṇa shall be branded and banished from his country. // Vi_5.3 //"
+  },
+  {
+    "id": "p-6f1aaa",
+    "offset": 276,
+    "text": "For killing a Brāhmaṇa, he shall have the mark of a headless man branded on his forehead. // Vi_5.4 //"
+  },
+  {
+    "id": "p-78ee23",
+    "offset": 380,
+    "text": "For drinking liquor, the mark of a liquor-seller's flag. // Vi_5.5 //"
+  },
+  {
+    "id": "p-8d4644",
+    "offset": 451,
+    "text": "For theft, the mark of a dog's foot. // Vi_5.6 //"
+  },
+  {
+    "id": "p-28b4a3",
+    "offset": 502,
+    "text": "For violating a preceptor's bed, the mark of a female organ. // Vi_5.7 //"
+  },
+  {
+    "id": "p-3305cf",
+    "offset": 577,
+    "text": "In any other case where he deserves death, he shall be banished with all his property unharmed. // Vi_5.8 //"
+  },
+  {
+    "id": "p-94dbbf",
+    "offset": 687,
+    "text": "The king shall put to death forgers of royal edicts. // Vi_5.9 //"
+  },
+  {
+    "id": "p-e5aaa5",
+    "offset": 754,
+    "text": "And forgers of documents. // Vi_5.10 //"
+  },
+  {
+    "id": "p-70a443",
+    "offset": 795,
+    "text": "And those who administer poison, incendiaries, and violent thieves, and slayers of women, children, or men. // Vi_5.11 //"
+  },
+  {
+    "id": "p-7f1bd5",
+    "offset": 918,
+    "text": "And those who steal more than ten *kumbhas* of grain. // Vi_5.12 //"
+  },
+  {
+    "id": "p-1399f4",
+    "offset": 987,
+    "text": "And of things sold by weight, more than one hundred units. // Vi_5.13 //"
+  },
+  {
+    "id": "p-a73c5d",
+    "offset": 1061,
+    "text": "And those of low birth who aspire to the throne. // Vi_5.14 //"
+  },
+  {
+    "id": "p-97dfac",
+    "offset": 1125,
+    "text": "And destroyers of dams. // Vi_5.15 //"
+  },
+  {
+    "id": "p-eb3450",
+    "offset": 1164,
+    "text": "And those who give shelter and food to violent thieves. // Vi_5.16 //"
+  },
+  {
+    "id": "p-7801d5",
+    "offset": 1235,
+    "text": "Except when the king is unable to protect them. // Vi_5.17 //"
+  },
+  {
+    "id": "p-e310e0",
+    "offset": 1298,
+    "text": "And a woman who has an impotent husband and transgresses against him. // Vi_5.18 //"
+  },
+  {
+    "id": "p-04c386",
+    "offset": 1383,
+    "text": "With whatever limb a man of a lower *varṇa* offends one of a higher *varṇa*, that very limb of his shall be cut off. // Vi_5.19 //"
+  },
+  {
+    "id": "p-2c7a8c",
+    "offset": 1515,
+    "text": "One who sits on the same seat shall be branded on the hip and banished. // Vi_5.20 //"
+  },
+  {
+    "id": "p-99c34b",
+    "offset": 1602,
+    "text": "One who spits on another shall be made to lose both his lips. // Vi_5.21 //"
+  },
+  {
+    "id": "p-301daa",
+    "offset": 1679,
+    "text": "One who breaks wind at another shall be made to lose his anus. // Vi_5.22 //"
+  },
+  {
+    "id": "p-bb41bf",
+    "offset": 1757,
+    "text": "One who insults another shall be made to lose his tongue. // Vi_5.23 //"
+  },
+  {
+    "id": "p-bef607",
+    "offset": 1830,
+    "text": "The king shall have hot oil poured into the mouth of one who arrogantly gives instruction in *dharma*. // Vi_5.24 //"
+  },
+  {
+    "id": "p-b18dda",
+    "offset": 1948,
+    "text": "And for uttering another's name and caste with malicious intent, a ten-finger-long spike shall be driven into his mouth. // Vi_5.25 //"
+  },
+  {
+    "id": "p-e41f86",
+    "offset": 2084,
+    "text": "One who misrepresents the learning, country, caste, or occupation of another shall be fined two hundred *kārṣāpaṇas*. // Vi_5.26 //"
+  },
+  {
+    "id": "p-50676b",
+    "offset": 2217,
+    "text": "Even one who speaks the truth about a one-eyed or lame person shall be fined two *kārṣāpaṇas*. // Vi_5.27 //"
+  },
+  {
+    "id": "p-67cce7",
+    "offset": 2327,
+    "text": "One who reviles his preceptors shall be fined two hundred *kārṣāpaṇas*. // Vi_5.28 //"
+  },
+  {
+    "id": "p-b34509",
+    "offset": 2414,
+    "text": "For accusing another of an act causing loss of caste, the highest amercement shall be imposed. // Vi_5.29 //"
+  },
+  {
+    "id": "p-761961",
+    "offset": 2524,
+    "text": "If the person is guilty of a minor sin, the middle amercement. // Vi_5.30 //"
+  },
+  {
+    "id": "p-df4031",
+    "offset": 2602,
+    "text": "For insulting those learned in the three Vedas, the aged, castes, and guilds. // Vi_5.31 //"
+  },
+  {
+    "id": "p-ad4861",
+    "offset": 2695,
+    "text": "And of a village or district, the first amercement. // Vi_5.32 //"
+  },
+  {
+    "id": "p-a9adde",
+    "offset": 2762,
+    "text": "For an insult involving a physical defect, a fine of one hundred *kārṣāpaṇas*. // Vi_5.33 //"
+  },
+  {
+    "id": "p-d1ef0f",
+    "offset": 2856,
+    "text": "If it involves the mother, the highest amercement. // Vi_5.34 //"
+  },
+  {
+    "id": "p-1c1627",
+    "offset": 2922,
+    "text": "For insulting an equal in *varṇa*, one shall be fined twelve *paṇas*. // Vi_5.35 //"
+  },
+  {
+    "id": "p-5f448f",
+    "offset": 3007,
+    "text": "For insulting one of a lower *varṇa*, six. // Vi_5.36 //"
+  },
+  {
+    "id": "p-0cdf52",
+    "offset": 3065,
+    "text": "For insulting one of a higher *varṇa*, the punishment shall be in proportion to the offense. // Vi_5.37 //"
+  },
+  {
+    "id": "p-a6e9ed",
+    "offset": 3173,
+    "text": "Or three *kārṣāpaṇas*. // Vi_5.38 //"
+  },
+  {
+    "id": "p-d1f0b9",
+    "offset": 3211,
+    "text": "The same applies to the utterance of false statements. // Vi_5.39 //"
+  },
+  {
+    "id": "p-6618ad",
+    "offset": 3281,
+    "text": "A man who has intercourse with another man's wife of the same *varṇa* shall be fined the highest amercement. // Vi_5.40 //"
+  },
+  {
+    "id": "p-6a5c8c",
+    "offset": 3405,
+    "text": "For intercourse with a woman of a lower *varṇa*, the middle amercement. // Vi_5.41 //"
+  },
+  {
+    "id": "p-6d2b43",
+    "offset": 3492,
+    "text": "And for intercourse with a cow. // Vi_5.42 //"
+  },
+  {
+    "id": "p-90ce83",
+    "offset": 3539,
+    "text": "For intercourse with an outcaste woman, he shall be put to death. // Vi_5.43 //"
+  },
+  {
+    "id": "p-c2cb9a",
+    "offset": 3620,
+    "text": "For intercourse with a beast, he shall be fined one hundred *kārṣāpaṇas*. // Vi_5.44 //"
+  },
+  {
+    "id": "p-ff9c30",
+    "offset": 3709,
+    "text": "And one who gives a girl in marriage without revealing her defects. // Vi_5.45 //"
+  },
+  {
+    "id": "p-752455",
+    "offset": 3792,
+    "text": "And he shall support her. // Vi_5.46 //"
+  },
+  {
+    "id": "p-b9a3de",
+    "offset": 3833,
+    "text": "One who calls a faultless maiden faulty shall be fined the highest amercement. // Vi_5.47 //"
+  },
+  {
+    "id": "p-cac31d",
+    "offset": 3927,
+    "text": "A killer of an elephant, horse, camel, or cow shall be made to lose one hand and one foot. // Vi_5.48 //"
+  },
+  {
+    "id": "p-388ff8",
+    "offset": 4033,
+    "text": "And a seller of forbidden meat. // Vi_5.49 //"
+  },
+  {
+    "id": "p-14995f",
+    "offset": 4080,
+    "text": "A killer of a domestic animal shall be fined one hundred *kārṣāpaṇas*. // Vi_5.50 //"
+  },
+  {
+    "id": "p-6aebaf",
+    "offset": 4166,
+    "text": "He shall also give its value to the owner of the animal. // Vi_5.51 //"
+  },
+  {
+    "id": "p-2309e1",
+    "offset": 4238,
+    "text": "A killer of a wild animal shall be fined fifty *kārṣāpaṇas*. // Vi_5.52 //"
+  },
+  {
+    "id": "p-2fae8f",
+    "offset": 4314,
+    "text": "A killer of a bird or a fish shall be fined ten *kārṣāpaṇas*. // Vi_5.53 //"
+  },
+  {
+    "id": "p-8b12b5",
+    "offset": 4391,
+    "text": "And a killer of an insect, one *kārṣāpaṇa*. // Vi_5.54 //"
+  },
+  {
+    "id": "p-f3afe0",
+    "offset": 4450,
+    "text": "A cutter of a fruit-bearing tree shall be fined the highest amercement. // Vi_5.55 //"
+  },
+  {
+    "id": "p-f8963b",
+    "offset": 4537,
+    "text": "A cutter of a flower-bearing tree, the middle amercement. // Vi_5.56 //"
+  },
+  {
+    "id": "p-2fe5ad",
+    "offset": 4610,
+    "text": "A cutter of a creeper, shrub, or climbing plant, one hundred *kārṣāpaṇas*. // Vi_5.57 //"
+  },
+  {
+    "id": "p-571562",
+    "offset": 4700,
+    "text": "A cutter of grass, one. // Vi_5.58 //"
+  },
+  {
+    "id": "p-b2ad17",
+    "offset": 4739,
+    "text": "And all of them shall restore to the owners what they have destroyed. // Vi_5.59 //"
+  },
+  {
+    "id": "p-50794d",
+    "offset": 4824,
+    "text": "One who raises his hand to strike shall be fined ten *kārṣāpaṇas*. // Vi_5.60 //"
+  },
+  {
+    "id": "p-c6eda7",
+    "offset": 4906,
+    "text": "His foot, twenty. // Vi_5.61 //"
+  },
+  {
+    "id": "p-8734fa",
+    "offset": 4939,
+    "text": "With a piece of wood, the first amercement. // Vi_5.62 //"
+  },
+  {
+    "id": "p-46ae2a",
+    "offset": 4998,
+    "text": "With a stone, the middle amercement. // Vi_5.63 //"
+  },
+  {
+    "id": "p-49e0c1",
+    "offset": 5050,
+    "text": "With a weapon, the highest amercement. // Vi_5.64 //"
+  },
+  {
+    "id": "p-ed34d9",
+    "offset": 5104,
+    "text": "For pulling at the foot, hair, clothes, or hand, ten *paṇas*. // Vi_5.65 //"
+  },
+  {
+    "id": "p-1876a7",
+    "offset": 5181,
+    "text": "One who causes pain without bloodshed shall be fined thirty-two *paṇas*. // Vi_5.66 //"
+  },
+  {
+    "id": "p-3e049e",
+    "offset": 5269,
+    "text": "With bloodshed, sixty-four. // Vi_5.67 //"
+  },
+  {
+    "id": "p-90c2f4",
+    "offset": 5312,
+    "text": "For breaking a hand, foot, or tooth, or for slitting an ear or nose, the middle amercement. // Vi_5.68 //"
+  },
+  {
+    "id": "p-50f94b",
+    "offset": 5419,
+    "text": "And for obstructing movement, eating, or speaking, or for giving a blow. // Vi_5.69 //"
+  },
+  {
+    "id": "p-f8811e",
+    "offset": 5507,
+    "text": "For breaking an eye, neck, arm, thigh, or shoulder-blade, the highest amercement. // Vi_5.70 //"
+  },
+  {
+    "id": "p-d4e158",
+    "offset": 5604,
+    "text": "The king shall not release from prison as long as he lives one who destroys both eyes of another. // Vi_5.71 //"
+  },
+  {
+    "id": "p-785fb7",
+    "offset": 5717,
+    "text": "Or he shall inflict the same injury on him. // Vi_5.72 //"
+  },
+  {
+    "id": "p-9ce3d2",
+    "offset": 5776,
+    "text": "When many attack one, each shall receive double the prescribed punishment. // Vi_5.73 //"
+  },
+  {
+    "id": "p-ed2343",
+    "offset": 5866,
+    "text": "And those nearby who do not run to help the one crying out, and those who are able to help. // Vi_5.74 //"
+  },
+  {
+    "id": "p-59f19e",
+    "offset": 5973,
+    "text": "And all who inflict injury on a person shall pay the expense of his cure. // Vi_5.75 //"
+  },
+  {
+    "id": "p-3dd922",
+    "offset": 6062,
+    "text": "And those who inflict injury on domestic animals. // Vi_5.76 //"
+  },
+  {
+    "id": "p-f5f34d",
+    "offset": 6127,
+    "text": "A thief of a cow, horse, camel, or elephant shall be made to lose one hand and one foot. // Vi_5.77 //"
+  },
+  {
+    "id": "p-8a28a1",
+    "offset": 6231,
+    "text": "A thief of a goat or sheep shall be made to lose one hand. // Vi_5.78 //"
+  },
+  {
+    "id": "p-e32b7a",
+    "offset": 6305,
+    "text": "A thief of grain shall be fined eleven times its value. // Vi_5.79 //"
+  },
+  {
+    "id": "p-01cb07",
+    "offset": 6376,
+    "text": "And a thief of standing crops. // Vi_5.80 //"
+  },
+  {
+    "id": "p-a40d4c",
+    "offset": 6422,
+    "text": "One who steals more than fifty units of gold, silver, or clothes shall have his limb cut off. // Vi_5.81 //"
+  },
+  {
+    "id": "p-800eda",
+    "offset": 6531,
+    "text": "For less than that, he shall be fined eleven times the value. // Vi_5.82 //"
+  },
+  {
+    "id": "p-a4e6c8",
+    "offset": 6608,
+    "text": "A thief of thread, cotton, cow-dung, molasses, curd, milk, buttermilk, grass, salt, earth, ashes, birds, fish, clarified butter, oil, meat, honey, wickerwork, bamboo, earthenware, or iron vessels shall be fined three times the value. // Vi_5.83 //"
+  },
+  {
+    "id": "p-95d2c2",
+    "offset": 6857,
+    "text": "And of cooked food. // Vi_5.84 //"
+  },
+  {
+    "id": "p-53b85b",
+    "offset": 6892,
+    "text": "For stealing flowers, green shrubs, creepers, climbing plants, or leaves, five *kṛṣṇalas*. // Vi_5.85 //"
+  },
+  {
+    "id": "p-1bd10f",
+    "offset": 6998,
+    "text": "And of vegetables, roots, or fruits. // Vi_5.86 //"
+  },
+  {
+    "id": "p-73e48e",
+    "offset": 7050,
+    "text": "A thief of gems shall be fined the highest amercement. // Vi_5.87 //"
+  },
+  {
+    "id": "p-cf604c",
+    "offset": 7120,
+    "text": "A thief of articles not mentioned shall be fined a sum equal to their value. // Vi_5.88 //"
+  },
+  {
+    "id": "p-bc1ec0",
+    "offset": 7212,
+    "text": "Thieves shall be made to restore all stolen property to the owner. // Vi_5.89 //"
+  },
+  {
+    "id": "p-beecf3",
+    "offset": 7294,
+    "text": "After that, the prescribed punishment shall be inflicted on them. // Vi_5.90 //"
+  },
+  {
+    "id": "p-5767e5",
+    "offset": 7375,
+    "text": "One who does not give way to those who have the right of way shall be fined twenty-five *kārṣāpaṇas*. // Vi_5.91 //"
+  },
+  {
+    "id": "p-4e0d3e",
+    "offset": 7492,
+    "text": "And one who does not give a seat to one who deserves a seat. // Vi_5.92 //"
+  },
+  {
+    "id": "p-2bbc9d",
+    "offset": 7568,
+    "text": "And one who does not honor one who deserves honor. // Vi_5.93 //"
+  },
+  {
+    "id": "p-cd5616",
+    "offset": 7634,
+    "text": "And for failing to invite a neighboring Brāhmaṇa. // Vi_5.94 //"
+  },
+  {
+    "id": "p-0c97bd",
+    "offset": 7699,
+    "text": "And one who, having invited, does not give food. // Vi_5.95 //"
+  },
+  {
+    "id": "p-5c2fa2",
+    "offset": 7763,
+    "text": "One who, having been invited and having said \"I will come,\" does not eat, shall be fined a gold *māṣaka*. // Vi_5.96 //"
+  },
+  {
+    "id": "p-faa354",
+    "offset": 7884,
+    "text": "And the host shall be fined double the value of the food. // Vi_5.97 //"
+  },
+  {
+    "id": "p-4ef82a",
+    "offset": 7957,
+    "text": "One who defiles a Brāhmaṇa with forbidden food shall be fined sixteen *suvarṇas*. // Vi_5.98 //"
+  },
+  {
+    "id": "p-cf18ff",
+    "offset": 8054,
+    "text": "For causing loss of caste, one hundred. // Vi_5.99 //"
+  },
+  {
+    "id": "p-b033ac",
+    "offset": 8109,
+    "text": "With liquor, he shall be put to death. // Vi_5.100 //"
+  },
+  {
+    "id": "p-38e5f6",
+    "offset": 8164,
+    "text": "For defiling a Kṣatriya, half of that. // Vi_5.101 //"
+  },
+  {
+    "id": "p-d7d3e9",
+    "offset": 8219,
+    "text": "For defiling a Vaiśya, half of that again. // Vi_5.102 //"
+  },
+  {
+    "id": "p-499c0e",
+    "offset": 8278,
+    "text": "For defiling a Śūdra, the first amercement. // Vi_5.103 //"
+  },
+  {
+    "id": "p-919aac",
+    "offset": 8338,
+    "text": "An untouchable who intentionally touches a touchable of the three upper *varṇas* shall be put to death. // Vi_5.104 //"
+  },
+  {
+    "id": "p-56f852",
+    "offset": 8458,
+    "text": "He shall beat a menstruating woman with rods. // Vi_5.105 //"
+  },
+  {
+    "id": "p-b78ec5",
+    "offset": 8520,
+    "text": "One who commits an impure act near a road, garden, or water shall be fined one hundred *paṇas*. // Vi_5.106 //"
+  },
+  {
+    "id": "p-574a09",
+    "offset": 8632,
+    "text": "And he shall remove the filth. // Vi_5.107 //"
+  },
+  {
+    "id": "p-2f09c5",
+    "offset": 8679,
+    "text": "A destroyer of a house, land, wall, or the like shall be fined the middle amercement. // Vi_5.108 //"
+  },
+  {
+    "id": "p-593106",
+    "offset": 8781,
+    "text": "And he shall repair it. // Vi_5.109 //"
+  },
+  {
+    "id": "p-7b41f2",
+    "offset": 8821,
+    "text": "One who throws an injurious substance into a house shall be fined one hundred *paṇas*. // Vi_5.110 //"
+  },
+  {
+    "id": "p-34e328",
+    "offset": 8924,
+    "text": "And one who denies common property. // Vi_5.111 //"
+  },
+  {
+    "id": "p-713783",
+    "offset": 8976,
+    "text": "And one who does not deliver what has been sent. // Vi_5.112 //"
+  },
+  {
+    "id": "p-e75f93",
+    "offset": 9041,
+    "text": "And one who abandons a father, son, teacher, client, or priest, when they have not lost caste. // Vi_5.113 //"
+  },
+  {
+    "id": "p-bf8fba",
+    "offset": 9152,
+    "text": "And they shall not abandon him. // Vi_5.114 //"
+  },
+  {
+    "id": "p-a8b7fd",
+    "offset": 9200,
+    "text": "And those who feed Śūdras or ascetics at rites for the gods or ancestors. // Vi_5.115 //"
+  },
+  {
+    "id": "p-b04552",
+    "offset": 9290,
+    "text": "And one who performs an unworthy act. // Vi_5.116 //"
+  },
+  {
+    "id": "p-445303",
+    "offset": 9344,
+    "text": "And a breaker of a sealed house. // Vi_5.117 //"
+  },
+  {
+    "id": "p-4f813a",
+    "offset": 9393,
+    "text": "One who takes an oath without being appointed to do so. // Vi_5.118 //"
+  },
+  {
+    "id": "p-61bde6",
+    "offset": 9465,
+    "text": "One who causes the loss of virility in animals. // Vi_5.119 //"
+  },
+  {
+    "id": "p-d1235a",
+    "offset": 9529,
+    "text": "In a dispute between father and son, witnesses shall be fined ten *paṇas*. // Vi_5.120 //"
+  },
+  {
+    "id": "p-870752",
+    "offset": 9620,
+    "text": "And he who comes between them shall be fined the highest amercement. // Vi_5.121 //"
+  },
+  {
+    "id": "p-2a3401",
+    "offset": 9705,
+    "text": "And a maker of false weights and measures. // Vi_5.122 //"
+  },
+  {
+    "id": "p-c0189f",
+    "offset": 9764,
+    "text": "And one who calls a true one false. // Vi_5.123 //"
+  },
+  {
+    "id": "p-18e13d",
+    "offset": 9816,
+    "text": "And a seller of counterfeit goods. // Vi_5.124 //"
+  },
+  {
+    "id": "p-0ee1ec",
+    "offset": 9867,
+    "text": "And merchants who conspire to hoard merchandise at an unfair price. // Vi_5.125 //"
+  },
+  {
+    "id": "p-160b6f",
+    "offset": 9951,
+    "text": "And those who sell it individually. // Vi_5.126 //"
+  },
+  {
+    "id": "p-931a34",
+    "offset": 10003,
+    "text": "He who, having received the price, does not deliver the merchandise to the buyer, shall be made to pay it with interest. // Vi_5.127 //"
+  },
+  {
+    "id": "p-c50b08",
+    "offset": 10140,
+    "text": "And he shall be fined one hundred *paṇas* by the king. // Vi_5.128 //"
+  },
+  {
+    "id": "p-547039",
+    "offset": 10211,
+    "text": "Whatever loss is incurred by one who does not take delivery of what he has bought shall fall upon the buyer alone. // Vi_5.129 //"
+  },
+  {
+    "id": "p-0c5247",
+    "offset": 10342,
+    "text": "One who sells what is forbidden by the king shall have it confiscated. // Vi_5.130 //"
+  },
+  {
+    "id": "p-55a01f",
+    "offset": 10429,
+    "text": "A ferryman who collects a land toll shall be fined ten *paṇas*. // Vi_5.131 //"
+  },
+  {
+    "id": "p-2e711d",
+    "offset": 10509,
+    "text": "And a ferryman or customs officer who takes a toll from a student, a forest-dweller, a mendicant, a pregnant woman, or a pilgrim. // Vi_5.132 //"
+  },
+  {
+    "id": "p-edc4ae",
+    "offset": 10655,
+    "text": "And he shall return it to them. // Vi_5.133 //"
+  },
+  {
+    "id": "p-37c73e",
+    "offset": 10703,
+    "text": "For those who cheat in gambling with false dice, the cutting off of a hand. // Vi_5.134 //"
+  },
+  {
+    "id": "p-765155",
+    "offset": 10795,
+    "text": "For those who cheat by trickery, the cutting off of the thumb and forefinger. // Vi_5.135 //"
+  },
+  {
+    "id": "p-4eb173",
+    "offset": 10889,
+    "text": "And for cut-purses. // Vi_5.136 //"
+  },
+  {
+    "id": "p-4875be",
+    "offset": 10925,
+    "text": "And for pickpockets, the cutting off of a hand. // Vi_5.137 //"
+  },
+  {
+    "id": "p-c056b0",
+    "offset": 10989,
+    "text": "If animals are attacked by wolves or other predators during the day when the herdsman is not present, it is the herdsman's fault. // Vi_5.138 //"
+  },
+  {
+    "id": "p-536eaa",
+    "offset": 11135,
+    "text": "And he shall give the value of the lost animal to the owner. // Vi_5.139 //"
+  },
+  {
+    "id": "p-b29f6c",
+    "offset": 11212,
+    "text": "One who milks a cow without permission shall be fined twenty-five *kārṣāpaṇas*. // Vi_5.140 //"
+  },
+  {
+    "id": "p-860f56",
+    "offset": 11308,
+    "text": "If a female buffalo destroys crops, her keeper shall be fined eight *māṣas*. // Vi_5.141 //"
+  },
+  {
+    "id": "p-ab1d3f",
+    "offset": 11401,
+    "text": "If she has no keeper, her owner. // Vi_5.142 //"
+  },
+  {
+    "id": "p-6ece9a",
+    "offset": 11450,
+    "text": "The same for a horse, camel, or donkey. // Vi_5.143 //"
+  },
+  {
+    "id": "p-b67590",
+    "offset": 11506,
+    "text": "If it is a cow, half that. // Vi_5.144 //"
+  },
+  {
+    "id": "p-7771ef",
+    "offset": 11549,
+    "text": "Half of that again for a goat or sheep. // Vi_5.145 //"
+  },
+  {
+    "id": "p-f21277",
+    "offset": 11605,
+    "text": "If they are found sitting down after eating, the fine is doubled. // Vi_5.146 //"
+  },
+  {
+    "id": "p-224cfe",
+    "offset": 11687,
+    "text": "In all cases, the owner of the animal shall also pay the value of the destroyed crops to the owner of the field. // Vi_5.147 //"
+  },
+  {
+    "id": "p-434fae",
+    "offset": 11816,
+    "text": "There is no fault on a path, in a village, or on the edge of a pasture. // Vi_5.148 //"
+  },
+  {
+    "id": "p-f2778c",
+    "offset": 11904,
+    "text": "And in an unenclosed field. // Vi_5.149 //"
+  },
+  {
+    "id": "p-9b6ad0",
+    "offset": 11948,
+    "text": "For a short time. // Vi_5.150 //"
+  },
+  {
+    "id": "p-91fd9f",
+    "offset": 11982,
+    "text": "And for bulls set at liberty and for cows that have recently calved. // Vi_5.151 //"
+  },
+  {
+    "id": "p-7dd69a",
+    "offset": 12067,
+    "text": "He who employs men of the highest *varṇas* in servitude shall be fined the highest amercement. // Vi_5.152 //"
+  },
+  {
+    "id": "p-63927f",
+    "offset": 12178,
+    "text": "An apostate from asceticism shall become a slave to the king. // Vi_5.153 //"
+  },
+  {
+    "id": "p-9896c6",
+    "offset": 12256,
+    "text": "A hired servant who abandons his work before the term is complete shall pay the whole of his wages. // Vi_5.154 //"
+  },
+  {
+    "id": "p-780b7c",
+    "offset": 12372,
+    "text": "And he shall give one hundred *paṇas* to the king. // Vi_5.155 //"
+  },
+  {
+    "id": "p-0a9603",
+    "offset": 12439,
+    "text": "Whatever is lost through his fault, he shall pay to his master. // Vi_5.156 //"
+  },
+  {
+    "id": "p-ec6332",
+    "offset": 12519,
+    "text": "Except in the case of a calamity sent by fate. // Vi_5.157 //"
+  },
+  {
+    "id": "p-c2ac80",
+    "offset": 12582,
+    "text": "If a master dismisses a servant before the term is complete, he shall pay him the whole of his wages. // Vi_5.158 //"
+  },
+  {
+    "id": "p-8d379b",
+    "offset": 12700,
+    "text": "And one hundred *paṇas* to the king. // Vi_5.159 //"
+  },
+  {
+    "id": "p-18c8a8",
+    "offset": 12753,
+    "text": "Except in the case of the servant's fault. // Vi_5.160 //"
+  },
+  {
+    "id": "p-038d8f",
+    "offset": 12812,
+    "text": "He who gives a previously promised girl to another shall be punished like a thief. // Vi_5.161 //"
+  },
+  {
+    "id": "p-fea8f1",
+    "offset": 12911,
+    "text": "Unless there is a fault in the bridegroom. // Vi_5.162 //"
+  },
+  {
+    "id": "p-4104bb",
+    "offset": 12970,
+    "text": "And one who abandons a faultless girl. // Vi_5.163 //"
+  },
+  {
+    "id": "p-686799",
+    "offset": 13025,
+    "text": "And a wife. // Vi_5.164 //"
+  },
+  {
+    "id": "p-77204f",
+    "offset": 13053,
+    "text": "He who unknowingly buys another's property in public, there is no fault on his part. // Vi_5.165 //"
+  },
+  {
+    "id": "p-45ae9c",
+    "offset": 13154,
+    "text": "The owner shall get the property back. // Vi_5.166 //"
+  },
+  {
+    "id": "p-40f3b3",
+    "offset": 13209,
+    "text": "If he buys it in secret and for a low price, then the buyer and the seller shall both be punished like thieves. // Vi_5.167 //"
+  },
+  {
+    "id": "p-fdb3b9",
+    "offset": 13337,
+    "text": "One who misappropriates the property of a corporation shall be banished. // Vi_5.168 //"
+  },
+  {
+    "id": "p-765334",
+    "offset": 13426,
+    "text": "And he who violates its agreement. // Vi_5.169 //"
+  },
+  {
+    "id": "p-bca0bd",
+    "offset": 13477,
+    "text": "A misappropriator of a deposit shall be made to pay the sum with interest to the owner. // Vi_5.170 //"
+  },
+  {
+    "id": "p-1959ed",
+    "offset": 13581,
+    "text": "And he shall be punished like a thief by the king. // Vi_5.171 //"
+  },
+  {
+    "id": "p-0ccc0b",
+    "offset": 13648,
+    "text": "And he who says that something not deposited was deposited. // Vi_5.172 //"
+  },
+  {
+    "id": "p-912e5f",
+    "offset": 13724,
+    "text": "Having fined a boundary-breaker the highest amercement, the king shall have the boundary re-established. // Vi_5.173 //"
+  },
+  {
+    "id": "p-f12112",
+    "offset": 13845,
+    "text": "One who eats forbidden food that causes loss of caste shall be banished. // Vi_5.174 //"
+  },
+  {
+    "id": "p-f46990",
+    "offset": 13934,
+    "text": "A seller of forbidden and unsaleable goods and a breaker of divine images shall be fined the highest amercement. // Vi_5.175 //"
+  },
+  {
+    "id": "p-4dbe40",
+    "offset": 14063,
+    "text": "A physician who treats high-ranking persons improperly shall be fined the highest amercement. // Vi_5.176 //"
+  },
+  {
+    "id": "p-2e6bf2",
+    "offset": 14173,
+    "text": "Middle-ranking persons, the middle amercement. // Vi_5.177 //"
+  },
+  {
+    "id": "p-693b43",
+    "offset": 14236,
+    "text": "Animals, the first amercement. // Vi_5.178 //"
+  },
+  {
+    "id": "p-0cdf4a",
+    "offset": 14283,
+    "text": "One who does not give what has been promised shall be made to pay it and fined the first amercement. // Vi_5.179 ||"
+  },
+  {
+    "id": "p-8bf551",
+    "offset": 14400,
+    "text": "The property of false witnesses shall be entirely confiscated. // Vi_5.180 //"
+  },
+  {
+    "id": "p-478ef7",
+    "offset": 14479,
+    "text": "And of court assessors who live by bribery. // Vi_5.181 //"
+  },
+  {
+    "id": "p-88811f",
+    "offset": 14539,
+    "text": "He who gives to another land measuring more than a cow's hide, which is already pledged to someone and not redeemed from him, shall be put to death. // Vi_5.182 //"
+  },
+  {
+    "id": "p-edbfd3",
+    "offset": 14704,
+    "text": "If it is less, he shall be fined sixteen *suvarṇas*. // Vi_5.183 //"
+  },
+  {
+    "id": "p-0ff8e9",
+    "offset": 14773,
+    "text": "The fruit which a man may eat for a year from what is produced,\n That is a cow's hide of land, whether it be little or much. || Vi_5.184 ||"
+  },
+  {
+    "id": "p-57dada",
+    "offset": 14914,
+    "text": "When two men dispute over a pledge deposited with them,\n He who has possession (*bhukti*) has the fruit of it, provided it was not taken by force. || Vi_5.185 ||"
+  },
+  {
+    "id": "p-5498f9",
+    "offset": 15077,
+    "text": "When something has been properly enjoyed through possession with a valid title,\n The acquirer obtains it there; it can never be taken away. || Vi_5.186 ||"
+  },
+  {
+    "id": "p-9a00c8",
+    "offset": 15233,
+    "text": "Property which was enjoyed by the father according to the righteous rule of possession,\n After he is deceased, no claim can be made against the son, for it has become his through possession. || Vi_5.187 ||"
+  },
+  {
+    "id": "p-5523b6",
+    "offset": 15440,
+    "text": "Land that has been enjoyed according to rule by three generations of men,\n The fourth shall obtain it, even in the absence of a written document. || Vi_5.188 ||"
+  },
+  {
+    "id": "p-3335d1",
+    "offset": 15602,
+    "text": "The slayer is not tainted by guilt in the killing of animals with claws, horns, or tusks, or of *ātatāyins* (felonious aggressors),\n Elephants, horses, or others. || Vi_5.189 ||"
+  },
+  {
+    "id": "p-c99f92",
+    "offset": 15781,
+    "text": "One should kill without hesitation a preceptor, a child, an old man, or a very learned Brāhmaṇa,\n If they approach as an *ātatāyin*. || Vi_5.190 ||"
+  },
+  {
+    "id": "p-e7ad76",
+    "offset": 15930,
+    "text": "There is no guilt whatsoever for the slayer in the killing of an *ātatāyin*,\n Whether openly or secretly; fury meets fury. || Vi_5.191 ||"
+  },
+  {
+    "id": "p-d80c41",
+    "offset": 16069,
+    "text": "One with a raised sword, poison, or fire, and one with a curse-raising hand,\n One who kills with black magic, and a slanderer to the king; || Vi_5.192 ||"
+  },
+  {
+    "id": "p-ffa2e6",
+    "offset": 16224,
+    "text": "And one who violates another's wife—know these seven to be *ātatāyins*.\n Others say those who steal fame and wealth, and those who destroy *dharma* and property, are also such. || Vi_5.193 ||"
+  },
+  {
+    "id": "p-747786",
+    "offset": 16417,
+    "text": "Thus, O Dhara (Earth), the law of punishment has been declared to you in summary;\n For all offenses, it is exceedingly vast in detail. || Vi_5.194 ||"
+  },
+  {
+    "id": "p-f76990",
+    "offset": 16568,
+    "text": "In other offenses, having considered the caste, wealth, and age,\n The king shall determine the punishment, after consulting with Brāhmaṇas. || Vi_5.195 ||"
+  },
+  {
+    "id": "p-63ac86",
+    "offset": 16724,
+    "text": "One who releases a punishable person from punishment shall incur a double punishment.\n And that vilest of men appointed to punish who punishes the unpunishable. || Vi_5.196 ||"
+  },
+  {
+    "id": "p-cf2b2a",
+    "offset": 16901,
+    "text": "The king in whose city there is no thief, no adulterer, no one of abusive speech,\n No perpetrator of violence, and no one who strikes with a rod, he partakes of the world of Śakra (Indra). || Vi_5.197 ||"
+  }
+]

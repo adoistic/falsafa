@@ -24,4 +24,4 @@ thothica_role: catalog
 
 ## Chapters
 
-01. [Chapter 1](./chapters/01/) — prose, 2 variants
+01. [Chapter 1](./chapters/01/) — verse, 2 variants

@@ -1,0 +1,282 @@
+[
+  {
+    "id": "p-0d45ed",
+    "offset": 0,
+    "text": "Vi_50"
+  },
+  {
+    "id": "p-9496c6",
+    "offset": 7,
+    "text": "vane parṇakuṭīṃ kṛtvā vaset // Vi_50.1 //"
+  },
+  {
+    "id": "p-863dbb",
+    "offset": 50,
+    "text": "triṣavaṇaṃ snāyāt // Vi_50.2 //"
+  },
+  {
+    "id": "p-dd90c7",
+    "offset": 83,
+    "text": "svakarma cācakṣāṇo grāme grāme bhaikṣyam ācaret // Vi_50.3 //"
+  },
+  {
+    "id": "p-99fd5b",
+    "offset": 146,
+    "text": "tṛṇaśāyī ca syāt // Vi_50.4 //"
+  },
+  {
+    "id": "p-fbcebc",
+    "offset": 178,
+    "text": "etan mahāvratam // Vi_50.5 //"
+  },
+  {
+    "id": "p-fbc6db",
+    "offset": 209,
+    "text": "brāhmaṇaṃ hatvā dvādaśasaṃvatsaraṃ kuryāt // Vi_50.6 //"
+  },
+  {
+    "id": "p-efdc9d",
+    "offset": 266,
+    "text": "yāgasthaṃ kṣatriyaṃ vaiśyaṃ vā // Vi_50.7 //"
+  },
+  {
+    "id": "p-357e72",
+    "offset": 312,
+    "text": "gurviṇīṃ rajasvalāṃ vā // Vi_50.8 //"
+  },
+  {
+    "id": "p-e6c49e",
+    "offset": 350,
+    "text": "atrigotrāṃ vā nārīm // Vi_50.9 //"
+  },
+  {
+    "id": "p-a334b1",
+    "offset": 385,
+    "text": "mitraṃ vā // Vi_50.10 //"
+  },
+  {
+    "id": "p-71c8ba",
+    "offset": 411,
+    "text": "nṛpativadhe mahāvratam eva dviguṇaṃ kuryāt // Vi_50.11 //"
+  },
+  {
+    "id": "p-833a31",
+    "offset": 470,
+    "text": "pādonaṃ kṣatriyavadhe // Vi_50.12 //"
+  },
+  {
+    "id": "p-db6dde",
+    "offset": 508,
+    "text": "ardhaṃ vaiśyavadhe // Vi_50.13 //"
+  },
+  {
+    "id": "p-bb6dfc",
+    "offset": 543,
+    "text": "tadardhaṃ śūdravadhe // Vi_50.14 //"
+  },
+  {
+    "id": "p-202cdb",
+    "offset": 580,
+    "text": "sarveṣu śavaśirodhvajī syāt // Vi_50.15 //"
+  },
+  {
+    "id": "p-4bff67",
+    "offset": 624,
+    "text": "māsam ekaṃ kṛtavāpano gavām anugamanaṃ kuryāt // Vi_50.16 //"
+  },
+  {
+    "id": "p-ecff6c",
+    "offset": 686,
+    "text": "tāsv āsīnāsv āsīta // Vi_50.17 //"
+  },
+  {
+    "id": "p-a92ac2",
+    "offset": 721,
+    "text": "sthitāsu sthitaś ca syāt // Vi_50.18 //"
+  },
+  {
+    "id": "p-d61bbf",
+    "offset": 762,
+    "text": "sannāṃ coddharet // Vi_50.19 //"
+  },
+  {
+    "id": "p-af0389",
+    "offset": 795,
+    "text": "bhayebhyaś ca rakṣet // Vi_50.20 //"
+  },
+  {
+    "id": "p-3d3ad9",
+    "offset": 832,
+    "text": "tāsāṃ śītāditrāṇam akṛtvā nātmanaḥ kuryāt // Vi_50.21 //"
+  },
+  {
+    "id": "p-5eb9ac",
+    "offset": 890,
+    "text": "gomūtreṇa snāyāt // Vi_50.22 //"
+  },
+  {
+    "id": "p-cdfaad",
+    "offset": 923,
+    "text": "gorasaiś ca varteta // Vi_50.23 //"
+  },
+  {
+    "id": "p-e9c738",
+    "offset": 959,
+    "text": "etad govrataṃ govadhe kuryāt // Vi_50.24 //"
+  },
+  {
+    "id": "p-b7aeb6",
+    "offset": 1004,
+    "text": "gajaṃ hatvā pañca nīlavṛṣabhān dadyāt // Vi_50.25 //"
+  },
+  {
+    "id": "p-db3e0f",
+    "offset": 1058,
+    "text": "turagaṃ vāsaḥ // Vi_50.26 //"
+  },
+  {
+    "id": "p-f73be8",
+    "offset": 1088,
+    "text": "ekahāyanam anaḍvāhaṃ kharavadhe // Vi_50.27 //"
+  },
+  {
+    "id": "p-3e34c1",
+    "offset": 1136,
+    "text": "meṣājavadhe ca // Vi_50.28 //"
+  },
+  {
+    "id": "p-2efc35",
+    "offset": 1167,
+    "text": "suvarṇakṛṣṇalam uṣṭravadhe // Vi_50.29 //"
+  },
+  {
+    "id": "p-d19c33",
+    "offset": 1210,
+    "text": "śvānaṃ hatvā trirātram upavaset // Vi_50.30 //"
+  },
+  {
+    "id": "p-366764",
+    "offset": 1258,
+    "text": "hatvā mūṣakamārjāranakulamaṇḍūkaḍuṇḍubhājagarāṇām anyatamam upoṣitaḥ kṛsaraṃ brāhmaṇaṃ bhojayitvā lohadaṇḍaṃ dakṣiṇāṃ dadyāt // Vi_50.31 //"
+  },
+  {
+    "id": "p-4833b9",
+    "offset": 1399,
+    "text": "godholūkakākajhaṣavadhe trirātram upavaset // Vi_50.32 //"
+  },
+  {
+    "id": "p-e7c3e2",
+    "offset": 1458,
+    "text": "haṃsabakabalākāmadguvānaraśyenabhāsacakravākānām anyatamaṃ hatvā brāhmaṇāya gāṃ dadyāt // Vi_50.33 //"
+  },
+  {
+    "id": "p-5044d7",
+    "offset": 1561,
+    "text": "sarpaṃ hatvābhrīṃ kārṣṇāyasīṃ dadyāt // Vi_50.34 //"
+  },
+  {
+    "id": "p-e97ba9",
+    "offset": 1614,
+    "text": "ṣaṇḍhaṃ hatvā palālabhārakam // Vi_50.35 //"
+  },
+  {
+    "id": "p-cbe216",
+    "offset": 1659,
+    "text": "varāhaṃ hatvā ghṛtakumbham // Vi_50.36 //"
+  },
+  {
+    "id": "p-a1abaf",
+    "offset": 1702,
+    "text": "tittiriṃ tiladroṇam // Vi_50.37 //"
+  },
+  {
+    "id": "p-f5e798",
+    "offset": 1738,
+    "text": "śukaṃ dvihāyanavatsam // Vi_50.38 //"
+  },
+  {
+    "id": "p-85ef36",
+    "offset": 1776,
+    "text": "krauñcaṃ trihāyanam // Vi_50.39 //"
+  },
+  {
+    "id": "p-f549b7",
+    "offset": 1812,
+    "text": "kravyādamṛgavadhe payasvinīṃ gāṃ dadyāt // Vi_50.40 //"
+  },
+  {
+    "id": "p-61b8b1",
+    "offset": 1868,
+    "text": "akravyādamṛgavadhe vatsatarīm // Vi_50.41 //"
+  },
+  {
+    "id": "p-eb7519",
+    "offset": 1914,
+    "text": "anuktamṛgavadhe trirātraṃ payasā varteta // Vi_50.42 //"
+  },
+  {
+    "id": "p-45c217",
+    "offset": 1971,
+    "text": "pakṣivadhe naktāśī syāt // Vi_50.43 //"
+  },
+  {
+    "id": "p-eef058",
+    "offset": 2011,
+    "text": "rūpyamāṣaṃ vā dadyāt // Vi_50.44 //"
+  },
+  {
+    "id": "p-8597e3",
+    "offset": 2048,
+    "text": "hatvā jalacaram upavaset // Vi_50.45 //"
+  },
+  {
+    "id": "p-fda3b2",
+    "offset": 2089,
+    "text": "asthanvatāṃ tu sattvānāṃ sahasrasya pramāpaṇe  /"
+  },
+  {
+    "id": "p-e0e213",
+    "offset": 2139,
+    "text": "pūrṇe cānasy anasthnāṃ tu śūdrahatyāvrataṃ caret  || Vi_50.46 ||"
+  },
+  {
+    "id": "p-7c1df0",
+    "offset": 2205,
+    "text": "kiṃcid eva tu viprāya dadyād asthimatāṃ vadhe  /"
+  },
+  {
+    "id": "p-1733a3",
+    "offset": 2255,
+    "text": "anashthnāṃ caiva hiṃsāyāṃ prāṇāyāmena śudhyati  || Vi_50.47 ||"
+  },
+  {
+    "id": "p-76061b",
+    "offset": 2319,
+    "text": "phaladānāṃ tu vṛkṣāṇāṃ chedane japyam ṛkśatam  /"
+  },
+  {
+    "id": "p-737de0",
+    "offset": 2369,
+    "text": "gulmavallīlatānāṃ ca puṣpitānāṃ ca vīrudhām  || Vi_50.48 ||"
+  },
+  {
+    "id": "p-6b4ec8",
+    "offset": 2430,
+    "text": "annādyajānāṃ sattvānāṃ rasajānāṃ ca sarvaśaḥ  /"
+  },
+  {
+    "id": "p-c1a9e4",
+    "offset": 2479,
+    "text": "phalapuṣpodbhavānāṃ ca ghṛtaprāśo viśodhanam  || Vi_50.49 ||"
+  },
+  {
+    "id": "p-e9bdd1",
+    "offset": 2541,
+    "text": "kṛṣṭajānām oṣadhīnāṃ jātānāṃ ca svayaṃ vane  /"
+  },
+  {
+    "id": "p-5e00b8",
+    "offset": 2589,
+    "text": "vṛthālambhe 'nugacched gāṃ dinam ekam payovrataḥ  || Vi_50.50 ||"
+  }
+]

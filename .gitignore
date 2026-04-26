@@ -39,6 +39,9 @@ corpus/.audit/
 corpus/**/assets/*.tmp.png
 corpus/**/.cache/
 
+# Chapter-splitting backups (kept locally for rollback after splits)
+corpus/.staging-split/
+
 # Astro site derived output
 # (apps/site/public/covers/ is copied from corpus/works/*/cover.webp at build time
 # via prepare-covers.ts; do not check it in)

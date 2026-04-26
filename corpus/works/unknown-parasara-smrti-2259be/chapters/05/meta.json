@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-parasara-smrti-2259be",
+  "work_title": "Parāśara Smṛti",
+  "chapter_number": 5,
+  "chapter_title": "Chapter 5",
+  "chapter_slug": "05",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a5cda983-0a8e-492e-b716-990763068947",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 835,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "4cb391c3-750d-44a1-8b0a-aee891d778f4",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 422,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}
