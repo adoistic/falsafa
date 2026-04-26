@@ -156,8 +156,9 @@ released as a public good. Translations and transliterations are produced by
 
 ## Acknowledgments
 
-- The corpus draws on public-domain originals from sources including
-  [sacred-texts.com](https://sacred-texts.com).
+- This work is supported by a grant from
+  [Emergent Ventures India](https://www.mercatus.org/emergent-ventures)
+  ([15th cohort announcement](https://marginalrevolution.com/marginalrevolution/2025/12/emergent-ventures-india-15th-cohort.html)).
 - Thothica's translation and curation pipeline is built on frontier large
   language models (Anthropic's Claude, OpenAI's GPT, Google's Gemini, and
   open-weights models via OpenRouter). The translations and transliterations

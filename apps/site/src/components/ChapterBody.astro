@@ -1,14 +1,12 @@
 ---
 /**
- * Renders the chapter body. Polymorphic on layout — handled in CSS via the
- * .reader[data-layout="..."] selector. Only this component sees the raw body
- * markdown; we render paragraphs to <p> elements without a Markdown library
- * (most of our content is plain paragraphs without inline formatting).
+ * Renders the chapter body. The body markdown can include headings, lists,
+ * blockquotes, emphasis — all the standard CommonMark constructs. We pass it
+ * through `marked` (~30KB, pure-ESM) and inject the resulting HTML.
  *
- * If a chapter ever needs richer markdown (lists, blockquotes, headings),
- * swap this for a real renderer (e.g., remark + rehype) — the existing
- * fontmatter parser already strips frontmatter so the body is clean.
+ * Layout-specific styling lives in reader.css; this component is layout-agnostic.
  */
+import { marked } from "marked";
 import type { ChapterFrontmatter } from "../lib/corpus";
 
 interface Props {
@@ -18,22 +16,36 @@ interface Props {
 
 const { body, frontmatter } = Astro.props;
 
-// Split into paragraphs by blank lines. Preserve hard line breaks within
-// a paragraph so verse line structure survives.
-const paragraphs = body
-  .split(/\n\s*\n/)
-  .map((p) => p.trim())
-  .filter(Boolean);
+// Strip leading boilerplate that pollutes some chapters: a leading line equal
+// to the work title, a leading "===" rule, redundant Source: lines, the
+// section break "----...", or a duplicate chapter title at the top of the
+// body. The frontmatter already carries this metadata, so we render the
+// substantive content only.
+function cleanBody(raw: string): string {
+  let s = raw;
+  // Drop "Source: …" line if present near the top — frontmatter has source_url
+  s = s.replace(/^Source:\s*\S+\n?/m, "");
+  // Drop generic "Lines: NNN" markers
+  s = s.replace(/^Lines:\s*\d+\n?/m, "");
+  // Drop horizontal-rule scarring (long runs of dashes or equals on their own line)
+  s = s.replace(/^[-=─━]{10,}$/gm, "");
+  // Drop sequence of header-style scarring at the top: lines that exactly
+  // repeat the work title or are heading underlines
+  return s.trim();
+}
+
+const html = await marked.parse(cleanBody(body), {
+  breaks: false, // honor markdown blank-line semantics, not single-newline-as-break
+  gfm: true,
+});
 ---
 
-<div class="reader-body">
-  {paragraphs.map((p) => <p>{p}</p>)}
-</div>
+<div class="reader-body" set:html={html} />
 
 {
   frontmatter.source_url && (
     <div class="source-citation">
-      Source:
+      Source:{" "}
       <a href={frontmatter.source_url} rel="noopener noreferrer" target="_blank">
         {frontmatter.source_url}
       </a>
