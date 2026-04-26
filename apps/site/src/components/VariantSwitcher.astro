@@ -11,7 +11,7 @@ const { meta, workSlug, current } = Astro.props;
 
 function variantLabel(t: ContentType): string {
   if (t === "translation") return "English";
-  if (t === "transliteration") return "Transliterated";
+  if (t === "transliteration") return "Romanized";
   if (t === "original") return "Original";
   return t;
 }

@@ -38,5 +38,24 @@ const { title, description, ogImage, layout } = Astro.props;
       window.addEventListener("resize", update);
       update();
     })();
+
+    // Persist the current variant to localStorage so the work-detail chapter
+    // list and other chapter pages stay in sync with the reader's choice.
+    // The URL pattern is /works/<slug>/<chapter>/<variant>/ — the second
+    // segment from the right is the variant content_type.
+    (function () {
+      try {
+        const parts = location.pathname.split("/").filter(Boolean);
+        const variantTypes = new Set(["translation", "transliteration", "original"]);
+        for (const p of parts) {
+          if (variantTypes.has(p)) {
+            localStorage.setItem("falsafa-variant-pref", p);
+            break;
+          }
+        }
+      } catch {
+        /* no-op */
+      }
+    })();
   </script>
 </Base>

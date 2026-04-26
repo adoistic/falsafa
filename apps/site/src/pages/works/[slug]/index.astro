@@ -10,6 +10,18 @@ export const getStaticPaths = (() => {
 const { work } = Astro.props;
 const idx = readWorkIndex(work.slug);
 const chapters = listChapters(work.slug);
+
+// Build the union of variant types across all chapters (for the picker).
+const variantTypeSet = new Set<string>();
+for (const c of chapters) {
+  for (const v of c.variants) variantTypeSet.add(v.content_type);
+}
+const variantTypes = [...variantTypeSet];
+const variantLabels: Record<string, string> = {
+  translation: "English",
+  transliteration: "Romanized",
+  original: "Original",
+};
 ---
 
 <Base
@@ -54,14 +66,35 @@ const chapters = listChapters(work.slug);
 
     <section class="chapters">
       <h2>Chapters</h2>
+
+      {/* Reading-variant picker for works that ship multiple variants.
+          The user's choice is saved to localStorage so chapter pages and
+          this list stay in sync. */}
+      {variantTypes.length > 1 && (
+        <nav class="variant-picker" data-work-slug={work.slug} aria-label="Reading variant">
+          <span class="variant-picker-label">Read as</span>
+          {variantTypes.map((vt) => (
+            <button type="button" data-variant={vt} class="variant-pill" aria-pressed="false">
+              {variantLabels[vt] ?? vt}
+            </button>
+          ))}
+        </nav>
+      )}
+
       <ol class="chapter-list">
         {
           chapters.map((c) => {
             const defaultVariant = c.variants.find((v) => v.file === c.default_variant);
-            const variantType = defaultVariant?.content_type ?? "translation";
+            const defaultVariantType = defaultVariant?.content_type ?? "translation";
+            const availableVariants = c.variants.map((v) => v.content_type).join(",");
             return (
               <li>
-                <a href={`/works/${work.slug}/${c.chapter_slug}/${variantType}/`}>
+                <a
+                  href={`/works/${work.slug}/${c.chapter_slug}/${defaultVariantType}/`}
+                  data-chapter-slug={c.chapter_slug}
+                  data-default-variant={defaultVariantType}
+                  data-available-variants={availableVariants}
+                >
                   <span class="num">{String(c.chapter_number).padStart(2, "0")}</span>
                   <span class="title">{c.chapter_title}</span>
                   <span class="layout">{c.layout}</span>
@@ -72,6 +105,45 @@ const chapters = listChapters(work.slug);
         }
       </ol>
     </section>
+
+    <script is:inline>
+      // Read localStorage falsafa-variant-pref. If set, rewrite chapter links
+      // to use that variant (when available for the chapter), and highlight
+      // the matching pill in the picker.
+      (function () {
+        const pref = (() => {
+          try { return localStorage.getItem("falsafa-variant-pref"); } catch { return null; }
+        })();
+        const picker = document.querySelector(".variant-picker");
+        const buttons = picker ? picker.querySelectorAll("button[data-variant]") : [];
+
+        function applyVariant(v) {
+          // Update chapter links to use the chosen variant when available
+          for (const a of document.querySelectorAll(".chapter-list a[data-chapter-slug]")) {
+            const available = (a.getAttribute("data-available-variants") || "").split(",");
+            const target = available.includes(v) ? v : a.getAttribute("data-default-variant");
+            const slug = a.getAttribute("data-chapter-slug");
+            const work = picker ? picker.getAttribute("data-work-slug") : a.getAttribute("href").split("/")[2];
+            a.setAttribute("href", `/works/${work}/${slug}/${target}/`);
+          }
+          // Update pill state
+          for (const b of buttons) {
+            b.setAttribute("aria-pressed", b.getAttribute("data-variant") === v ? "true" : "false");
+          }
+        }
+
+        if (pref) applyVariant(pref);
+
+        for (const b of buttons) {
+          b.addEventListener("click", function () {
+            const v = b.getAttribute("data-variant");
+            if (!v) return;
+            try { localStorage.setItem("falsafa-variant-pref", v); } catch {}
+            applyVariant(v);
+          });
+        }
+      })();
+    </script>
   </div>
 </Base>
 
@@ -161,6 +233,49 @@ const chapters = listChapters(work.slug);
     font-size: var(--fs-h2);
     font-weight: 600;
     margin: 0 0 var(--s-6);
+  }
+
+  .variant-picker {
+    display: inline-flex;
+    align-items: center;
+    gap: var(--s-2);
+    margin: 0 0 var(--s-6);
+    padding: var(--s-2);
+    background: var(--rule);
+    border-radius: 999px;
+    font-family: var(--font-sans);
+    font-size: 13px;
+  }
+
+  .variant-picker-label {
+    padding: 0 var(--s-2) 0 var(--s-3);
+    color: var(--ink-muted);
+    font-weight: 500;
+    text-transform: uppercase;
+    letter-spacing: 0.06em;
+    font-size: 11px;
+  }
+
+  .variant-pill {
+    padding: var(--s-1) var(--s-3);
+    background: transparent;
+    border: 0;
+    border-radius: 999px;
+    color: var(--ink-muted);
+    font-family: inherit;
+    font-size: 13px;
+    font-weight: 500;
+    cursor: pointer;
+    transition: background 0.15s, color 0.15s;
+  }
+
+  .variant-pill:hover {
+    color: var(--ink);
+  }
+
+  .variant-pill[aria-pressed="true"] {
+    background: var(--paper);
+    color: var(--ink);
   }
 
   .chapter-list {
