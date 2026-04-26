@@ -1,0 +1,45 @@
+# Local config — never commit (contains DB credentials)
+.claude/
+
+# Dependencies
+node_modules/
+.pnpm-store/
+
+# Build outputs
+dist/
+build/
+.next/
+.astro/
+.output/
+.vercel/
+.netlify/
+
+# Test outputs
+coverage/
+.nyc_output/
+
+# Editor / OS
+.DS_Store
+.idea/
+.vscode/
+*.swp
+*~
+
+# Logs
+*.log
+logs/
+
+# Env
+.env
+.env.local
+.env.*.local
+
+# Corpus build artifacts (regenerated, not source-of-truth)
+corpus/.audit/
+corpus/**/assets/*.tmp.png
+corpus/**/.cache/
+
+# OpenRouter / Replicate API keys (must never be in repo)
+.openrouter
+.replicate
+secrets.json
