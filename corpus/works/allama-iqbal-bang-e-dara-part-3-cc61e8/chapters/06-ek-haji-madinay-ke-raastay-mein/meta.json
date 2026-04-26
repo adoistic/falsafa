@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 6,
+  "chapter_title": "Ek haji Madinay ke raastay mein",
+  "chapter_slug": "06-ek-haji-madinay-ke-raastay-mein",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f39e61ca-5b88-4cfc-83ac-f1f7296330cd",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 183,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/11.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6e23df11-f344-4efb-a087-51f30bd72053",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 150,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "7cd4fd5b-6497-4e00-8c34-f42be270e9f2",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 180,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

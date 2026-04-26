@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 18,
+  "chapter_title": "Des modifications que la nature des choses a fait subir aux lois relatives à la propriété et à la jo",
+  "chapter_slug": "18-des-modifications-que-la-nature-des-choses-a-fait-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "59b186d4-2dec-4e18-8c41-847d523c2397",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6514,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0fc62ce7-897c-44c6-a75a-090f2754db96",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6568,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

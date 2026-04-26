@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 2,
+  "chapter_title": "De la liberté considérée comme une condition de l'exercice de tous les droits, et de l'accomplisseme",
+  "chapter_slug": "02-de-la-liberte-consideree-comme-une-condition-de-le",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a40b2113-945e-47df-b895-153c1c8c1de1",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1943,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ceca0929-7f21-4638-9824-ae71535603b7",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1980,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

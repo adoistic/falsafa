@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 7,
+  "chapter_title": "Bagh-e-aalam mein jahan nakhl-e-hina lagta hai",
+  "chapter_slug": "07-bagh-e-aalam-mein-jahan-nakhl-e-hina-lagta-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "18b6aa15-f4a1-4f63-ad22-e7675586d7c8",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 164,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dd5b1744-4b14-488c-afa1-ae7ce7221611",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 182,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e9fc5b24-21f2-4389-a4f9-0a69686eb3c0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 163,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

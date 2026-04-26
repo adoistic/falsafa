@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+  "work_title": "Traité de Législation: VOL IV",
+  "chapter_number": 6,
+  "chapter_title": "De l’influence de l’esclavage sur les mœurs des Romains.",
+  "chapter_slug": "06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7b861bc6-a7c7-4f28-8667-05eaeed2541b",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4897,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "62538d78-1ef5-47f0-936f-6b947a06aa15",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4686,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

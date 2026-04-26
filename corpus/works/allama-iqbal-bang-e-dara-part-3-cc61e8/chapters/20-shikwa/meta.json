@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 20,
+  "chapter_title": "Shikwa",
+  "chapter_slug": "20-shikwa",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d14b77c9-852a-431a-a3ff-43481264df12",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 1624,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/13.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ca4c89f3-37e1-4748-8ac2-425a2a9030e3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 2057,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "00e884a0-e395-41f3-be51-b539d078efc9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 1429,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 92,
+  "chapter_title": "Jis bazm mein tu naaz se guftaar mein aave",
+  "chapter_slug": "92-jis-bazm-mein-tu-naaz-se-guftaar-mein-aave",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8aa9f774-8112-4231-862c-55e0a34bf175",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 148,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "df9cc0f1-46d8-4261-b850-2cb151a1db02",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 145,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "7ab489d4-ca10-48ce-9aba-5a7339341a8f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 208,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

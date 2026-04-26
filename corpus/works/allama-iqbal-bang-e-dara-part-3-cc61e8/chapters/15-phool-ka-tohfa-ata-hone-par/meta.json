@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 15,
+  "chapter_title": "Phool ka tohfa ata hone par",
+  "chapter_slug": "15-phool-ka-tohfa-ata-hone-par",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "991893c9-8c5b-4068-abd5-7dd31da9f049",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 133,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/08.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6efb1df6-b6b4-4672-9593-fcfe9cdc2226",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 151,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "13ef45ca-9b6f-4de3-98db-de3f1764e722",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 113,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

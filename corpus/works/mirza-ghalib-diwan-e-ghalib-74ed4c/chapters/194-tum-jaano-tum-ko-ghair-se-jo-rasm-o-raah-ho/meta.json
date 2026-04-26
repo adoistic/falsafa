@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 194,
+  "chapter_title": "Tum jaano tum ko ghair se jo rasm-o-raah ho",
+  "chapter_slug": "194-tum-jaano-tum-ko-ghair-se-jo-rasm-o-raah-ho",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c49d413f-8fb6-4524-8adf-089b5133c774",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 115,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54c834d2-7e3c-407f-8983-9c163dbf2c6c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 139,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e380d57d-2634-4c18-8698-90d7d69a31b6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 114,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

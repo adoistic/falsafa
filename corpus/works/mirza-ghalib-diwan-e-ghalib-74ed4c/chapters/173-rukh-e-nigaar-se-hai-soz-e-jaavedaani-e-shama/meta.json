@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 173,
+  "chapter_title": "Rukh-e-nigaar se hai soz-e-jaavedaani-e-shama",
+  "chapter_slug": "173-rukh-e-nigaar-se-hai-soz-e-jaavedaani-e-shama",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1b4ae51e-630d-4f65-a68c-323dfd1db16f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 73,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4351f0ec-6edf-497e-86e1-a5332805ec28",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 166,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "9dec2527-cf5e-4348-ab76-9a14c629246a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 74,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

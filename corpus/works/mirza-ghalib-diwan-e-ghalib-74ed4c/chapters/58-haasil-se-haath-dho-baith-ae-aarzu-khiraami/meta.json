@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 58,
+  "chapter_title": "Haasil se haath dho baith ae aarzu-khiraami",
+  "chapter_slug": "58-haasil-se-haath-dho-baith-ae-aarzu-khiraami",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8dbd5a98-7ed6-4d2d-b51c-164c46d3e5e6",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 108,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "334eccb4-ae51-46f8-8f9e-c296fc054c6d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 108,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "548d1170-4763-4819-8780-8080f10c89e1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 180,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

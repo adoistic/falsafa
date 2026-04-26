@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 20,
+  "chapter_title": "Bisaat-e-ijz mein tha ek dil, yak qatra-e-khoon, woh bhi",
+  "chapter_slug": "20-bisaat-e-ijz-mein-tha-ek-dil-yak-qatra-e-khoon-woh",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eb707c45-d9db-4e93-946c-fe501f909b47",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 152,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "35d5d0f2-88ce-4197-8386-87902acf0f0a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 151,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "dae105b2-d2a4-45a0-a157-d2fc299d5994",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 209,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

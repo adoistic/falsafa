@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 46,
+  "chapter_title": "Garm-faryaad rakha shakl-e-nihaali ne mujhe",
+  "chapter_slug": "46-garm-faryaad-rakha-shakl-e-nihaali-ne-mujhe",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7e6864d8-9b81-4fa6-9f71-548f03929990",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 84,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c41e8538-aa1e-4ec4-905d-3b2dc71e4a40",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 141,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a3aa1e20-4613-4c90-adc4-5f78adb43d0b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 84,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

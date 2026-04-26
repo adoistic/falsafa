@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+  "work_title": "San Hyan Kamahayanikan",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "fe1b6a74-dfd9-4e45-9ce2-1e2583d16a3e",
+      "language": "Kawi",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 9256,
+      "paragraph_count": 438,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "99525cf9-7ece-4aca-b7cf-5a091edd7da8",
+      "language": "english",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 14398,
+      "paragraph_count": 258,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 226,
+  "chapter_title": "naveed-e-aman hai bedaad-e-dost jaan ke liye",
+  "chapter_slug": "226-naveed-e-aman-hai-bedaad-e-dost-jaan-ke-liye",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aac2b6f6-f558-4013-8443-156bcd5cc600",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 205,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1e5841bf-dc72-4d8f-8248-017afc731f41",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 204,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "2fbe16dc-5c69-4e37-b7bc-1f8c68c02308",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 271,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

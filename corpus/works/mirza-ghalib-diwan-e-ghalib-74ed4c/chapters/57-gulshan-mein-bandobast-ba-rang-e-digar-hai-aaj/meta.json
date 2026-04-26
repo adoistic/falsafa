@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 57,
+  "chapter_title": "Gulshan mein bandobast ba-rang-e-digar hai aaj",
+  "chapter_slug": "57-gulshan-mein-bandobast-ba-rang-e-digar-hai-aaj",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ed687622-a028-4747-abe3-6c9b106022b4",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 83,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e9a93e8c-8589-4eee-bc48-9ddfab2c0811",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 195,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f7415c0e-6669-404d-9f3f-b4bdc4535081",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 83,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

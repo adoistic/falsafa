@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 21,
+  "chapter_title": "Des relations qui existent chez les peuples d’espèce malaie du grand Océan, entre la classe aristocr",
+  "chapter_slug": "21-des-relations-qui-existent-chez-les-peuples-d-espe",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fafb2582-d8d0-47a6-8926-041eff4360c4",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 947,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b80855c2-4dd8-4038-8b3e-69bd12a9e48b",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 944,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

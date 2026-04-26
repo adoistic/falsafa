@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 2,
+  "chapter_title": "Aabroo kya khaak uss gul ki ke gulshan mein nahin",
+  "chapter_slug": "02-aabroo-kya-khaak-uss-gul-ki-ke-gulshan-mein-nahin",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7ab7213d-17ab-4678-8492-a62958d85647",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 183,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74831ed3-0b6a-49d3-af4b-71c355457ad9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 181,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a0c799cf-6e5c-454f-8fb5-c0d058dab28d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 250,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

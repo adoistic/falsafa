@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 149,
+  "chapter_title": "Naala-e-dil mein shab andaaz-e-asar naayaab tha",
+  "chapter_slug": "149-naala-e-dil-mein-shab-andaaz-e-asar-naayaab-tha",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "82769958-92ca-4ee3-a6ee-696e2010a579",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 140,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "46f34b40-5844-4996-966f-b40db38d6ea3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 281,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "5d9cd755-2e7f-4153-97e3-0ea9664d8fad",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 138,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

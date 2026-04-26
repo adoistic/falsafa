@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 27,
+  "chapter_title": "Larkiyan parh rahi hain angrezi",
+  "chapter_slug": "27-larkiyan-parh-rahi-hain-angrezi",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8df3c124-8435-4568-9c3e-42ea586d6046",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 49,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/Zarifana/02.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "67d6e6d1-1303-46ee-b68f-cebbddf0eaff",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 40,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "0baa8b38-b71d-4d40-8dd8-f4ad79835e82",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 39,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

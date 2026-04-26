@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 5,
+  "chapter_title": "Kahoon kya aarzoo-e be-dili mujh ko kahan tak hai",
+  "chapter_slug": "05-kahoon-kya-aarzoo-e-be-dili-mujh-ko-kahan-tak-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3213cecc-3762-4598-bcf6-317edd98b6c6",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 189,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/ghazals/08.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5871f55d-bb85-4692-b38c-f725c73b180e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 199,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "cd5e7480-49ee-464f-be47-2cc41b31755d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 149,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

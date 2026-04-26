@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+  "work_title": "Nouveau traité d'économie: VOL I",
+  "chapter_number": 7,
+  "chapter_title": "II. Liberté compatible avec la manière de vivre des peuples sédentaires qui se font entretenir par d",
+  "chapter_slug": "07-ii-liberte-compatible-avec-la-maniere-de-vivre-des",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "082ef6d0-bf2e-46ed-8c26-68727e3e2de3",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 11087,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d226a1e1-bde3-4617-8c7e-606afba0c345",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 11261,
+      "paragraph_count": 68,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

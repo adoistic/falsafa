@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 121,
+  "chapter_title": "Lab-e-Isa ki jumbish karti hai gehwara-junbani",
+  "chapter_slug": "121-lab-e-isa-ki-jumbish-karti-hai-gehwara-junbani",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7858386e-d270-4929-bf2a-a501468e7030",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 20,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a498c74f-f507-4bb6-9154-448349d8a58b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 20,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "b1da98b4-fce5-4169-a80b-7bc170c71d5f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 46,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

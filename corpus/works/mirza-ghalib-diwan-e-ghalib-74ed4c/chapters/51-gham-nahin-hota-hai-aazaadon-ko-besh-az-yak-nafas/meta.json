@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 51,
+  "chapter_title": "Gham nahin hota hai aazaadon ko besh az-yak-nafas",
+  "chapter_slug": "51-gham-nahin-hota-hai-aazaadon-ko-besh-az-yak-nafas",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "54335332-9f52-423e-9451-2ce1c4bb69e4",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 126,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4da3255d-e20e-44fa-9d27-10bcca1813bf",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 212,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e3817a7a-fa6c-4737-b6d8-162c9b4081a4",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 126,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

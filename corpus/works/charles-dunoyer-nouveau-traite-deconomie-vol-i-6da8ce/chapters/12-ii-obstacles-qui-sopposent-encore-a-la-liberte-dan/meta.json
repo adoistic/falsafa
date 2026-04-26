@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+  "work_title": "Nouveau traité d'économie: VOL I",
+  "chapter_number": 12,
+  "chapter_title": "II. Obstacles qui s'opposent encore à la liberté dans le régime industriel, ou bornes inévitables qu",
+  "chapter_slug": "12-ii-obstacles-qui-sopposent-encore-a-la-liberte-dan",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ae7fcc09-631f-4b48-9fcc-26f80f6d199c",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 8546,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "70b8ef5f-a5ff-4fed-b9fb-223832db5387",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 8696,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

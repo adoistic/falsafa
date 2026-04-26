@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 22,
+  "chapter_title": "Ek_Gaye_aur_Bakri",
+  "chapter_slug": "22-ek-gaye-aur-bakri",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "93d3fec8-8437-4a10-8fe3-7b6d14144b48",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 382,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/08.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7a57900f-34d9-4529-9692-1cc608e40177",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 362,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "595a55eb-14e0-485f-8f66-270bae85c4a3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 480,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

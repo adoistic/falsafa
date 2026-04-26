@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 106,
+  "chapter_title": "Kare hai baada tere lab se kasb-e-rang-e-farogh",
+  "chapter_slug": "106-kare-hai-baada-tere-lab-se-kasb-e-rang-e-farogh",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3b362404-5070-459b-a13a-6956badfb892",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 48,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "452ea40e-039b-4c35-84a7-19eb7c5899ff",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 69,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "1bdaa379-a778-47d7-84ff-c7ec6a9b4182",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 48,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

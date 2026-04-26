@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 159,
+  "chapter_title": "Peenas mein guzarte hain jo kooche se woh mere",
+  "chapter_slug": "159-peenas-mein-guzarte-hain-jo-kooche-se-woh-mere",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7ba96797-45a9-4abc-92a4-44aeb6ae5909",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 16,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fce56e21-3749-4708-8bc4-3229b18be572",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 15,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "39bdeaa0-f426-4954-a043-6c8ffc2d709b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 16,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

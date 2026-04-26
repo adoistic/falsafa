@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 104,
+  "chapter_title": "Kahoon jo haal to kehte ho mudda'a kahiye",
+  "chapter_slug": "104-kahoon-jo-haal-to-kehte-ho-muddaa-kahiye",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fd1f33ec-4115-4dc5-9332-6e38c9059a91",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 147,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "33b8fc2b-bc7d-40c2-8596-ec28aea8222f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 147,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "4c699858-61f7-4d77-935c-958b9eaff038",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 273,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

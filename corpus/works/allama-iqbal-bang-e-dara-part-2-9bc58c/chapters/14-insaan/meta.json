@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 14,
+  "chapter_title": "Insaan",
+  "chapter_slug": "14-insaan",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bbcfbb1b-3128-481c-8a6e-93ac1bf2dc98",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 130,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/17.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "708dd95e-97a2-4377-a71d-360e47f44a07",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 101,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "acbf8fb6-430f-4f54-ab8f-14f686aa51dd",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 168,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

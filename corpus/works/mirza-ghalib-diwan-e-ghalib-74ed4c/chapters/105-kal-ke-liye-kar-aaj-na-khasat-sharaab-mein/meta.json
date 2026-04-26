@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 105,
+  "chapter_title": "Kal ke liye kar aaj na khasat sharaab mein",
+  "chapter_slug": "105-kal-ke-liye-kar-aaj-na-khasat-sharaab-mein",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d4f6dcbf-8443-42db-8ae6-e17a0e3c9d0f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 158,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "067c0dd3-e880-458a-8fd9-7d6603dde6b2",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 154,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "746b5882-eadd-49bd-aa3e-820b950671cb",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 212,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

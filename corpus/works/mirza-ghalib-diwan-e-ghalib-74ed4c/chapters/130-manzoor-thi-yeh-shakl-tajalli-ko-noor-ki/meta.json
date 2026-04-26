@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 130,
+  "chapter_title": "Manzoor thi yeh shakl tajalli ko noor ki",
+  "chapter_slug": "130-manzoor-thi-yeh-shakl-tajalli-ko-noor-ki",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e2776b51-f5c7-4763-97eb-75f70ff81e83",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 149,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10628f14-dca0-4823-9d9c-4219433018ee",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 180,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "3b156995-c549-4658-9a6a-48bb835951bf",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 149,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

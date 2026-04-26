@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 17,
+  "chapter_title": "Gauhar ko jauhari sarraf zar ko dekhte hain",
+  "chapter_slug": "17-gauhar-ko-jauhari-sarraf-zar-ko-dekhte-hain",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7591be08-684b-499e-a70b-5f9d7bc65f55",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 184,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f36090a8-8a6f-4c1c-b073-edfeadfe961f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 297,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "b2f8ac67-9772-43fc-82d6-f1e73fb20dcd",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 184,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

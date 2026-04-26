@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 9,
+  "chapter_title": "De la doctrine qui fonde la morale et la législation sur le principe de l’utilité, ou sur l’intérêt",
+  "chapter_slug": "09-de-la-doctrine-qui-fonde-la-morale-et-la-legislati",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c9d0be8f-bb65-4278-8aa9-f37e6e9f20c2",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4636,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dea3251f-903b-46bb-b1d2-0f4995eee6aa",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4601,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

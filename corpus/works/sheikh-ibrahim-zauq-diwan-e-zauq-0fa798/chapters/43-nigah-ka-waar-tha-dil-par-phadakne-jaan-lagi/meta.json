@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 43,
+  "chapter_title": "Nigah ka waar tha dil par phadakne jaan lagi",
+  "chapter_slug": "43-nigah-ka-waar-tha-dil-par-phadakne-jaan-lagi",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6b51e01b-3532-4cfd-941b-6dbedb777e2d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 158,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e1393e5c-52df-4daa-af48-56680e80d7d4",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 259,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "bc7fced4-cb45-484d-95c3-f738ce8d83b3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 158,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

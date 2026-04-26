@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 7,
+  "chapter_title": "Zindagi insaan ki ek dam ke siwa kuchh bhi nahin",
+  "chapter_slug": "07-zindagi-insaan-ki-ek-dam-ke-siwa-kuchh-bhi-nahin",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "28c1a873-ee63-4302-acf4-3d5791d5a4a2",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 107,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/Ghazals/01.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c40d48e7-ec4c-42ed-bc5c-544ee46871ef",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 86,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "84f9f14a-45bf-4ac2-9f0c-590cea6759d9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 93,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

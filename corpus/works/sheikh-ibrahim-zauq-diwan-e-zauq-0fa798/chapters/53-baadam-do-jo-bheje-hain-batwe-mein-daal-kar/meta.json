@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 53,
+  "chapter_title": "baadam do jo bheje hain batwe mein daal kar",
+  "chapter_slug": "53-baadam-do-jo-bheje-hain-batwe-mein-daal-kar",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a1d04374-50ce-4107-b683-6a5975358bcc",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 115,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eaf0b834-2cd3-4077-9a59-b8a0e8e9a143",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 153,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "1b7ff88a-073b-4a7b-8440-61d3319df989",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 113,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 2,
+  "chapter_title": "De la méthode analytique appliquée à l’étude de la morale et de la législation, et des effets de cet",
+  "chapter_slug": "02-de-la-methode-analytique-appliquee-a-l-etude-de-la",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0253853f-1784-47fe-b0ee-3483a0f0da40",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 9876,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d944bc6d-15dd-4e93-b0de-05f3fa1637dd",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 9651,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

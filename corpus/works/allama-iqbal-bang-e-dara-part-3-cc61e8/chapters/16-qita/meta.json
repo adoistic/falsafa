@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 16,
+  "chapter_title": "Qita",
+  "chapter_slug": "16-qita",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "611de242-3038-417e-b2cb-32f58f5e35b2",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 105,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/12.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bdffdd27-293d-4797-9cf7-04ed9ff3c0ca",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 97,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f7e4178f-9887-42f1-add3-9c4c103e25ff",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 82,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

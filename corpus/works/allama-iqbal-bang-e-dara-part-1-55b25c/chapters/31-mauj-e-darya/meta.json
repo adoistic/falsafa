@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 31,
+  "chapter_title": "Mauj_e_Darya",
+  "chapter_slug": "31-mauj-e-darya",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9510d502-fbba-4a50-a832-d23fa6b5d1b9",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 111,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/31.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c5c98063-e149-4c25-a491-92921e0a419a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 117,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "14d79d4c-ee8b-4652-be4e-c677171284d6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 88,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

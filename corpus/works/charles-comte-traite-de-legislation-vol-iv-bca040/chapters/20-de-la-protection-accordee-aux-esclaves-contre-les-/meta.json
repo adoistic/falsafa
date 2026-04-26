@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+  "work_title": "Traité de Législation: VOL IV",
+  "chapter_number": 20,
+  "chapter_title": "De la protection accordée aux esclaves contre les violences ou les cruautés de leurs maîtres, par le",
+  "chapter_slug": "20-de-la-protection-accordee-aux-esclaves-contre-les-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4b96c0df-9622-494a-9aa2-cfd9026f1657",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3759,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7d2b48b0-2187-44e0-a33c-33c633f20d02",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3714,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

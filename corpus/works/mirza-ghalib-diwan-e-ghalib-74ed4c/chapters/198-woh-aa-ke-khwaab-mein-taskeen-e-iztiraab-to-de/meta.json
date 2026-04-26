@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 198,
+  "chapter_title": "Woh aa ke khwaab mein taskeen-e-iztiraab to de",
+  "chapter_slug": "198-woh-aa-ke-khwaab-mein-taskeen-e-iztiraab-to-de",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "98fb0b23-8f15-464f-8b8c-ea4e8fde9166",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 99,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e7cd7bcf-dace-4d5d-83f8-52e572d9f1b7",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 116,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "aa61ca39-5047-4a04-84e1-ddf31fe287a4",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 99,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 17,
+  "chapter_title": "Dard-e-Ishq",
+  "chapter_slug": "17-dard-e-ishq",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c694b403-7197-4010-b086-db6f27f008ce",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 217,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/21.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "060cf25f-16b0-4972-909e-b7945c23c7cb",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 176,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "da96ed29-c4df-4cb3-a3b6-7c07f81ffba0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 216,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

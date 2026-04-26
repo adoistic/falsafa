@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 16,
+  "chapter_title": "Des relations qui existent entre les diverses peuplades d’espèce cuivrée, du nord de l’Amérique. — D",
+  "chapter_slug": "16-des-relations-qui-existent-entre-les-diverses-peup",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3b474dbc-8543-4f3a-b0e8-cda802a38109",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1127,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "132ae774-dd53-4d47-b5ea-85dfd7c5d780",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1081,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

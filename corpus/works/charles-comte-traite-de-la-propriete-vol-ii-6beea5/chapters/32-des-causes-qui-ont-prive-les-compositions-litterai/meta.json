@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 32,
+  "chapter_title": "Des causes qui ont privé les compositions littéraires des garanties accordées aux autres propriétés.",
+  "chapter_slug": "32-des-causes-qui-ont-prive-les-compositions-litterai",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "22a9e0c1-d072-469f-820a-b3720be85726",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4290,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e929c406-c84c-4ebf-9c96-aacaa4106ee0",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4374,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

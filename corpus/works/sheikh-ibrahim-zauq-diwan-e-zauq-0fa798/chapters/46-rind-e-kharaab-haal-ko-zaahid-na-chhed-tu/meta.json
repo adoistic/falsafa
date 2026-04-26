@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 46,
+  "chapter_title": "Rind-e-kharaab-haal ko zaahid na chhed tu",
+  "chapter_slug": "46-rind-e-kharaab-haal-ko-zaahid-na-chhed-tu",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e20eae4f-8de6-4f43-a178-6223bbaccd8a",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 144,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74a593a6-76a9-46eb-9e86-dac9c207e849",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 236,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "17a969f2-49cb-4ee7-925d-74d043efb497",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 144,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

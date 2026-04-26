@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 56,
+  "chapter_title": "hungaama garm hasti-e-na-paaidaar ka",
+  "chapter_slug": "56-hungaama-garm-hasti-e-na-paaidaar-ka",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fa647cfc-0e77-4b42-852f-25a86855bd46",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 187,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e88a5616-16a7-4a18-8442-a0b833c2affe",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 272,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "bf22d0be-d1eb-470c-9604-ddefdd397860",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 187,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

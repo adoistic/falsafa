@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+  "work_title": "Nouveau traité d'économie: VOL I",
+  "chapter_number": 2,
+  "chapter_title": "I. Influence de la race sur la liberté.",
+  "chapter_slug": "02-i-influence-de-la-race-sur-la-liberte",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cc97c916-1018-40d9-b94e-c76718f2620b",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 9776,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a2f2b2c8-bc51-41ba-b34e-43aa3d7897e4",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 10261,
+      "paragraph_count": 85,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

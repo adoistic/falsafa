@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 49,
+  "chapter_title": "Voh kaun hai jo mujh pe ta'assuf nahin karta",
+  "chapter_slug": "49-voh-kaun-hai-jo-mujh-pe-taassuf-nahin-karta",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a4dbf62c-90e2-4410-93f0-bcd274eb294d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 113,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "374fe937-8230-4377-9d8c-aacdf318dcb0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 114,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "afcec488-6ae9-4fd1-b8ec-bd9c2e738068",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 140,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

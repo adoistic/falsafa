@@ -1,0 +1,51 @@
+{
+  "work_slug": "unknown-old-english-elegies-d5fe9e",
+  "work_title": "Old English Elegies",
+  "chapter_number": 15,
+  "chapter_title": "Wilt thu, fus haele,     fremdne monnan,",
+  "chapter_slug": "15-wilt-thu-fus-haele-fremdne-monnan",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e809bb51-8191-4ff2-91c9-9f8e46d6538e",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 633,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_14.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d498a326-42ec-4fb7-a25b-88b3604cba64",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 801,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f8eded30-94c7-43a8-bf7c-44be16c0d89e",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 599,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

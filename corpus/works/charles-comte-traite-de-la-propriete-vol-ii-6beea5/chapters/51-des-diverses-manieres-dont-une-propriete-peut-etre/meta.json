@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 51,
+  "chapter_title": "Des diverses manières dont une propriété peut être partagée.",
+  "chapter_slug": "51-des-diverses-manieres-dont-une-propriete-peut-etre",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5c0dbab5-c4c7-411a-a213-6e1cad490e10",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4866,
+      "paragraph_count": 60,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7b0ade29-956b-4a9a-a7b3-bcf63e670274",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5130,
+      "paragraph_count": 59,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

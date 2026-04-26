@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 31,
+  "chapter_title": "Dekhna qismat ke aap apne pe rashk aa jaaye hai",
+  "chapter_slug": "31-dekhna-qismat-ke-aap-apne-pe-rashk-aa-jaaye-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8d90ce67-2787-41ff-aa2e-e6e7019c85bf",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 174,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aa0bd6c5-91be-49e3-952a-04ebfedebf9f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 183,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f53bdcc5-f3df-42d1-901b-389417a2c3cb",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 175,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

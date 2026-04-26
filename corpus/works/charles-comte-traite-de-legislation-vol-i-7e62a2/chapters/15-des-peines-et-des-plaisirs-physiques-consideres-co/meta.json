@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 15,
+  "chapter_title": "Des peines et des plaisirs physiques considérés comme éléments de la puissance des lois. — Des jugem",
+  "chapter_slug": "15-des-peines-et-des-plaisirs-physiques-consideres-co",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "728278a9-532f-421a-b72e-aabe7c88d40b",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 7225,
+      "paragraph_count": 61,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ac0571a8-49f5-4089-a42a-270e868a0e3d",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 7083,
+      "paragraph_count": 59,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

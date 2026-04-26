@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 102,
+  "chapter_title": "Kab woh sunta hai kahani meri",
+  "chapter_slug": "102-kab-woh-sunta-hai-kahani-meri",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7876b15c-e397-4062-ba88-3332933c0eb9",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 81,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1fc66a14-c911-459b-a697-9f79615e04ec",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 157,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "30a1606e-41aa-4546-92e4-5d57f0f98cca",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 80,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

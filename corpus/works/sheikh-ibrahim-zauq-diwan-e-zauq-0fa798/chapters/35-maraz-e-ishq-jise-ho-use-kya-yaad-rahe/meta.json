@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 35,
+  "chapter_title": "Maraz-e-ishq jise ho use kya yaad rahe",
+  "chapter_slug": "35-maraz-e-ishq-jise-ho-use-kya-yaad-rahe",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f64de799-c935-49b5-b8c7-9f99fad65086",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 285,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c0587e78-e0a9-4d02-8901-eb3d7fa94750",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 283,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "1f986be4-ba9c-439a-9fae-9d794ac72928",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 448,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

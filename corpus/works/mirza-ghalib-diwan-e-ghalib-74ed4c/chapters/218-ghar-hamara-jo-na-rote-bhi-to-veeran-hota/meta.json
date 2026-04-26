@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 218,
+  "chapter_title": "ghar hamara jo na rote bhi to veeran hota",
+  "chapter_slug": "218-ghar-hamara-jo-na-rote-bhi-to-veeran-hota",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ebab9ff8-1daa-4aa6-9094-6d795cf17d63",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 46,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "699a20c8-ea2f-4a53-af22-0cf05868e90c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 46,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "28694c22-a45e-4bf5-8d59-cfc062192883",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 64,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

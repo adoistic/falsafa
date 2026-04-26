@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 28,
+  "chapter_title": "Khoob roka shikayaton se mujhe",
+  "chapter_slug": "28-khoob-roka-shikayaton-se-mujhe",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "791f75fa-e899-4525-99b3-b12693792e7e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 77,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "89fb6fbd-4cd5-4f83-bafb-285f87364895",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 118,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "91d069d7-ede9-4ccc-91a0-8be1bf24a748",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 77,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

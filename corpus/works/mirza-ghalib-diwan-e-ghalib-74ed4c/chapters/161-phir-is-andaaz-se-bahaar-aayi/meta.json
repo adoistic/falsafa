@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 161,
+  "chapter_title": "Phir is andaaz se bahaar aayi",
+  "chapter_slug": "161-phir-is-andaaz-se-bahaar-aayi",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "be64ca4a-4757-4943-8937-770f0bd67620",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 69,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ab9de006-c96d-4640-a638-b8ed3d640277",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 144,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "22ff0b53-a9c6-4e35-9753-ecd31dcdd6fe",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 69,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

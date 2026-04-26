@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 209,
+  "chapter_title": "Zikr us pari-vash ka aur phir bayaan apna",
+  "chapter_slug": "209-zikr-us-pari-vash-ka-aur-phir-bayaan-apna",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cadd15f8-4756-4d6c-8262-c2064a452248",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 126,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7ed77d17-99f9-4b30-a259-6b32ad6a3451",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 123,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "685bbf84-125f-4ec5-b154-904c6e9e3361",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 168,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

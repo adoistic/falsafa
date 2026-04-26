@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 117,
+  "chapter_title": "Kyun jal gaya na taab-e-rukh-e-yaar dekh kar",
+  "chapter_slug": "117-kyun-jal-gaya-na-taab-e-rukh-e-yaar-dekh-kar",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "56a1a946-5eb5-4f91-bc8e-c7df161902d6",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 166,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5df8ee20-f6c9-449f-a72b-08bbdfa0efca",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 243,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "35f346cb-c754-47f8-8193-022d960edf26",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 166,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

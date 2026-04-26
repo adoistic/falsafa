@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 137,
+  "chapter_title": "Meri hasti fazaaye hairat-abaad-e-tamanna hai",
+  "chapter_slug": "137-meri-hasti-fazaaye-hairat-abaad-e-tamanna-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9cc71408-04ad-4ac4-ba69-a682c74f2710",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 174,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "15b04115-88db-4589-bd4f-36839585e43f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 173,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "860b1ab0-2913-45e1-bb25-deb2aebbf61a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 315,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 15,
+  "chapter_title": "Barshkal-e-girya-e-aashiq hai dekha chahiye",
+  "chapter_slug": "15-barshkal-e-girya-e-aashiq-hai-dekha-chahiye",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cacc3b2f-0878-4e5b-a0e2-73a390f986f2",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 82,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "89113108-2e9a-415f-8d90-5efff44934c5",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 82,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "4c426360-a5c9-44f6-afdc-6b28cb11dfa8",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 172,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

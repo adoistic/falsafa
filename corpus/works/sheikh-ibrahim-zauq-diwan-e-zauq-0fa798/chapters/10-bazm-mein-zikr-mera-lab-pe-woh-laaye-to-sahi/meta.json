@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 10,
+  "chapter_title": "Bazm mein zikr mera lab pe woh laaye to sahi",
+  "chapter_slug": "10-bazm-mein-zikr-mera-lab-pe-woh-laaye-to-sahi",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7f7fc68f-9833-4ef3-80d6-1011cd2e418c",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 171,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1eede88e-40d6-43e1-ae7e-227956c88ab5",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 171,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "fc8691ad-490a-4784-b7b2-4ed2c19e9d13",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 219,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

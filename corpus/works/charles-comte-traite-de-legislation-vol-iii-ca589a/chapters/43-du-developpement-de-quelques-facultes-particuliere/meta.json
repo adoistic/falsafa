@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 43,
+  "chapter_title": "Du développement de quelques facultés particulières, chez les peuples des diverses espèces.",
+  "chapter_slug": "43-du-developpement-de-quelques-facultes-particuliere",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "98086680-bf28-4862-bd13-fa03c6e50fc4",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4586,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ac5541fe-15e5-4d57-8530-d0a396e8b035",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4513,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

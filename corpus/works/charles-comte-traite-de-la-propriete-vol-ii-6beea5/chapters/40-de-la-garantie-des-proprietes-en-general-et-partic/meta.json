@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 40,
+  "chapter_title": "De la garantie des propriétés en général, et particulièrement contre les atteintes de l'extérieur.",
+  "chapter_slug": "40-de-la-garantie-des-proprietes-en-general-et-partic",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "44913656-e104-4f15-88e8-d2fe6cde156c",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3114,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "065604ef-2c17-4e98-9180-5effd3c0c007",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3132,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

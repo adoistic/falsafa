@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 125,
+  "chapter_title": "Lazim tha ke dekho mera rasta koi din aur",
+  "chapter_slug": "125-lazim-tha-ke-dekho-mera-rasta-koi-din-aur",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5a57fa05-5a57-48dc-8f06-bcd4adbcb732",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 166,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "37930cf9-03be-4d6a-b945-b963185d7970",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 165,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "b192478d-81b0-483e-bca2-a7f0cb018910",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 223,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

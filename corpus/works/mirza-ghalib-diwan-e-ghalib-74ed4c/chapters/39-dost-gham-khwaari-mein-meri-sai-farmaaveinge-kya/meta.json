@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 39,
+  "chapter_title": "Dost gham-khwaari mein meri sa'i farmaaveinge kya",
+  "chapter_slug": "39-dost-gham-khwaari-mein-meri-sai-farmaaveinge-kya",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "09e26e6b-02e5-4584-b2a1-6e56d09e705a",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 112,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ea977818-e12f-476a-8a3b-b4e32ddde002",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 108,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "7607aa5e-768c-46dd-be3e-2bbd9745dc96",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 136,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

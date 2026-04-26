@@ -1,0 +1,51 @@
+{
+  "work_slug": "unknown-old-english-elegies-d5fe9e",
+  "work_title": "Old English Elegies",
+  "chapter_number": 2,
+  "chapter_title": "Ful oft thaet gegongeth,     mid godes meahtum,",
+  "chapter_slug": "02-ful-oft-thaet-gegongeth-mid-godes-meahtum",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fbea43bb-a5a3-498c-80a8-8fe9e7dc222c",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 577,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_12.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "19eba879-dab3-4cbf-b8ef-75ce76a47643",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 545,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "6d81477c-588f-46ee-bfb7-3f4159b1a308",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 751,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

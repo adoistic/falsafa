@@ -1,0 +1,51 @@
+{
+  "work_slug": "unknown-old-english-elegies-d5fe9e",
+  "work_title": "Old English Elegies",
+  "chapter_number": 5,
+  "chapter_title": "Maey ich be me sylfum      soth-yied wrekan, sithas seyan,      hu ich yeswinkdagum",
+  "chapter_slug": "05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "69250006-3018-417b-a4b9-174c74fce944",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 802,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_09.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fbd38a53-8249-4056-ad94-39ae6e10559f",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 1002,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "01ac08bc-c5ee-4f55-b236-0fd4a92ef140",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 791,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

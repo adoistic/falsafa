@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 63,
+  "chapter_title": "Hai sabza-zaar har dar-o-deewar-e-gham-kada",
+  "chapter_slug": "63-hai-sabza-zaar-har-dar-o-deewar-e-gham-kada",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3e6554a6-ef09-4bb1-bc81-0804b56dc0b6",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 85,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ac1bb604-940f-44a9-b13a-8faa0d7331d1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 84,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a28e0ed7-3128-4640-9369-a0a2100fceb5",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 221,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

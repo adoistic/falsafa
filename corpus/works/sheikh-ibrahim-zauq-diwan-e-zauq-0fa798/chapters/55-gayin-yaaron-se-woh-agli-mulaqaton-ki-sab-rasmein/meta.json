@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 55,
+  "chapter_title": "gayin yaaron se woh agli mulaqaton ki sab rasmein",
+  "chapter_slug": "55-gayin-yaaron-se-woh-agli-mulaqaton-ki-sab-rasmein",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "17001c89-a6b3-4523-af4e-3b8facc2abde",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 150,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6ce3140a-f810-47e0-a1f1-28f65f6f282c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 207,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "eb1e684d-fd9b-4b4e-a21f-28b002c6e371",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 148,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 8,
+  "chapter_title": "Ghurra-e-",
+  "chapter_slug": "08-ghurra-e",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f2526eda-5b50-452c-9133-38a2eda147b3",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 328,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/23.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "94a4744f-3f25-4be3-8c7d-94db97ada48a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 373,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f24efca5-a9fa-4c57-b62a-8172a834ccae",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 274,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

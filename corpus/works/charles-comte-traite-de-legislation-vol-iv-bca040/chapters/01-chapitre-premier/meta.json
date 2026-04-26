@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+  "work_title": "Traité de Législation: VOL IV",
+  "chapter_number": 1,
+  "chapter_title": "CHAPITRE PREMIER.",
+  "chapter_slug": "01-chapitre-premier",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9553cdc7-a2d8-4c36-bdb0-9373bc5d9043",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3575,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "88792819-94e1-4d12-83cc-dd1df051e9c9",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3406,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

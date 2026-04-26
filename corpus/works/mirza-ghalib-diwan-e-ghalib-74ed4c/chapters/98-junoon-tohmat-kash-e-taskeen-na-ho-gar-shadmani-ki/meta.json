@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 98,
+  "chapter_title": "Junoon tohmat-kash-e-taskeen na ho gar shadmani ki",
+  "chapter_slug": "98-junoon-tohmat-kash-e-taskeen-na-ho-gar-shadmani-ki",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4f941832-66bb-4199-be57-bc32d1c2d815",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 93,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2a8151b5-ce25-4089-849d-7f7597343a6a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 163,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "6f6478c6-e02a-4b16-b59e-e0ae5e12a4a9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 91,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

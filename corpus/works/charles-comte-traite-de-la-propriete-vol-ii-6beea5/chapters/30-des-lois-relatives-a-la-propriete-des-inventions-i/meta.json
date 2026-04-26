@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 30,
+  "chapter_title": "Des lois relatives à la propriété des inventions industrielles.",
+  "chapter_slug": "30-des-lois-relatives-a-la-propriete-des-inventions-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f251806f-24ab-45b5-8259-25d3f9bfc47d",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6247,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a2d56fca-e77f-4e60-af1d-6a76097c4a2c",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6554,
+      "paragraph_count": 52,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 6,
+  "chapter_title": "Du système dans lequel on considère les lois civiles et politiques comme des conséquences d’une conv",
+  "chapter_slug": "06-du-systeme-dans-lequel-on-considere-les-lois-civil",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e29983b9-44a4-43a8-88a5-448d11796a28",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 8455,
+      "paragraph_count": 66,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0409b8a7-8d7d-44fe-8825-cf4820ac1ef4",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 8350,
+      "paragraph_count": 63,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

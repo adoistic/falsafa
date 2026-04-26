@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 45,
+  "chapter_title": "Des effets qui résultent du développement de quelques facultés particulières, chez les peuples des d",
+  "chapter_slug": "45-des-effets-qui-resultent-du-developpement-de-quelq",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6afa374e-7095-4f88-9a0b-dc040bbcb98f",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3934,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6e4d2ff1-28e0-4e24-a390-b9da9753e13b",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3876,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

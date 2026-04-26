@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 74,
+  "chapter_title": "Hujoom-e-gham se yaan tak sar-nigooni mujh ko haasil hai",
+  "chapter_slug": "74-hujoom-e-gham-se-yaan-tak-sar-nigooni-mujh-ko-haas",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "606c5b71-0c98-496d-b504-519ddc9e64f1",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 92,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8c2f8805-c109-4766-86f0-cfd3b179e0fb",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 141,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "9379b36a-a75e-47cd-9a46-38606c049cc5",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 89,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

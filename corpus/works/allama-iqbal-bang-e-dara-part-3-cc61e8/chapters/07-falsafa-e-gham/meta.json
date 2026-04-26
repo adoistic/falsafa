@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 7,
+  "chapter_title": "Falsafa-e-Gham",
+  "chapter_slug": "07-falsafa-e-gham",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "064876e8-0fa5-4398-bd62-293957c711ed",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 571,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/07.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ae797e97-cbb9-4575-b923-f00ea8e1ff44",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 674,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "183aa273-4aba-4a20-a34b-764633be2d24",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 499,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

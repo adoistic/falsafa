@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 27,
+  "chapter_title": "Jugnu",
+  "chapter_slug": "27-jugnu",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "926504d3-e8bb-49bd-9282-f3c62474e507",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 313,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/40.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f3876c8-08af-4282-b100-926682c2bda4",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 294,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "35275203-3b37-4b3f-bb74-e80b27c46806",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 294,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

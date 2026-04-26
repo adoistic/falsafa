@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 4,
+  "chapter_title": "Jinhein main dhoondta tha aasmanon mein zameenon mein",
+  "chapter_slug": "04-jinhein-main-dhoondta-tha-aasmanon-mein-zameenon-m",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d5be506b-3c11-47c5-a68b-d3667c0f07bd",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 354,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/ghazals/09.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a0dfd037-dc8e-4179-a7c6-6eaa3acdd821",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 418,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "9487f6ee-5a85-4107-bc9d-727ff3ee182b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 309,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

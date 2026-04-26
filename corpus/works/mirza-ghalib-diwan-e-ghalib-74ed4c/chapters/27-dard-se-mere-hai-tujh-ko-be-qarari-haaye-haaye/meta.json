@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 27,
+  "chapter_title": "Dard se mere hai tujh ko be-qarari haaye haaye",
+  "chapter_slug": "27-dard-se-mere-hai-tujh-ko-be-qarari-haaye-haaye",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "66f59c7a-c103-4be9-800d-f30d33c077cd",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 181,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97e24371-848a-4ab0-9454-d2d925d09a89",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 240,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "c74884fd-1c49-46c1-bad4-0687270056cc",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 180,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

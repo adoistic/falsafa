@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 9,
+  "chapter_title": "Du développement intellectuel acquis en Amérique, sous différents degrés de latitude, par des peuple",
+  "chapter_slug": "09-du-developpement-intellectuel-acquis-en-amerique-s",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5f4336be-fdb4-44bb-95a7-3d176259acc3",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5933,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e0740ed-df4d-43e2-b77c-15a1a003129a",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5697,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

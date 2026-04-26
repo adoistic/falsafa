@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 238,
+  "chapter_title": "vus'at-e-sa'i-e-karam dekh ke sar-ta-sar-e-khaak",
+  "chapter_slug": "238-vusat-e-sai-e-karam-dekh-ke-sar-ta-sar-e-khaak",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2912b32a-9a4e-4220-8583-d89196720f38",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 68,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a18e8f4c-5c90-4282-9162-5d82f349a7b9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 131,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "bafc2c69-c2b8-4d7e-bbef-415b473e1ed0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 69,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

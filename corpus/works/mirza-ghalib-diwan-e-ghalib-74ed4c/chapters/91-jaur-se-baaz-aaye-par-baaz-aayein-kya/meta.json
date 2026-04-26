@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 91,
+  "chapter_title": "Jaur se baaz aaye par baaz aayein kya",
+  "chapter_slug": "91-jaur-se-baaz-aaye-par-baaz-aayein-kya",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "70f476ef-fa22-4a8a-9919-6e629ad5b39d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 101,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "84b0f79d-ed5c-4385-9638-332d94de4a8b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 101,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "621d0733-0b20-4e28-9a77-e6c88699d594",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 168,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

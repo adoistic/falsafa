@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 26,
+  "chapter_title": "Dard minnat-kash-e-dawa na hua",
+  "chapter_slug": "26-dard-minnat-kash-e-dawa-na-hua",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a1e6dcd6-8e98-451b-b90e-61acc1e17226",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 126,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "502bea41-0c26-4ca1-be0f-e27448eb7021",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 200,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e9d336a4-755c-4f7c-b145-8756ada59acf",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 126,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

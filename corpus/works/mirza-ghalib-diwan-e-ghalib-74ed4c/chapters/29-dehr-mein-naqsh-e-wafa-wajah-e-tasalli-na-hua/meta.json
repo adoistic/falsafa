@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 29,
+  "chapter_title": "Dehr mein naqsh-e-wafa wajah-e-tasalli na hua",
+  "chapter_slug": "29-dehr-mein-naqsh-e-wafa-wajah-e-tasalli-na-hua",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3c131bb1-1c40-43a7-8386-18c1da514c58",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 117,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4383cca6-6167-4216-98b3-fed0376ac4aa",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 116,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "408d6d43-bb00-4c1b-8a3a-af126e02a4d4",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 192,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

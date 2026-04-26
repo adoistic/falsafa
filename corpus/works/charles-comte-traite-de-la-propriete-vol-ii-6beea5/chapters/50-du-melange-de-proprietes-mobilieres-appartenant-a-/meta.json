@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 50,
+  "chapter_title": "Du mélange de propriétés mobilières appartenant à différens maîtres.",
+  "chapter_slug": "50-du-melange-de-proprietes-mobilieres-appartenant-a-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3b05b357-d84e-45a0-8bb9-ea4a91991b7f",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2139,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfaa97f8-4f4f-4d2c-b28e-613e8fcfb48a",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2223,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

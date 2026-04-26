@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 100,
+  "chapter_title": "Kaaba mein jaa raha toh na do ta'na kya kahein",
+  "chapter_slug": "100-kaaba-mein-jaa-raha-toh-na-do-tana-kya-kahein",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d90b0389-5fd9-497b-9167-4eda9dc6331d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 59,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "31a80057-d4df-4934-9eb1-afb8472b7b85",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 70,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "799d04bd-6991-481c-9abc-c138baed387c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 59,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

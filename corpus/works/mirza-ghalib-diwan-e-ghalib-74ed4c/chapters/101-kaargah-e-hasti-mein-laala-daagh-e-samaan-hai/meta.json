@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 101,
+  "chapter_title": "Kaargah-e-hasti mein laala daagh-e-samaan hai",
+  "chapter_slug": "101-kaargah-e-hasti-mein-laala-daagh-e-samaan-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b769dcbe-666a-466b-82a0-404bb2808e7f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 88,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b943e568-17e0-4456-b280-0f1ce8345430",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 138,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "6f79f9b6-f1d5-4f5e-8771-24441eac755d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 78,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

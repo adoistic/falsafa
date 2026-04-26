@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 80,
+  "chapter_title": "Husn-e-mah garche ba-hangaam-e-kamaal achha hai",
+  "chapter_slug": "80-husn-e-mah-garche-ba-hangaam-e-kamaal-achha-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "02e178f9-17d5-434a-975b-43115766bfa2",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 172,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "437dd61c-df3a-4524-a538-f1dc999b73a9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 169,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "03404197-ca89-4f7d-83fe-8316c731b67a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 204,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

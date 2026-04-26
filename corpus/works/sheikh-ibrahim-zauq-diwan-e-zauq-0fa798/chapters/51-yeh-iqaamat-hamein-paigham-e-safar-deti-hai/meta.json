@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 51,
+  "chapter_title": "Yeh iqaamat hamein paigham-e-safar deti hai",
+  "chapter_slug": "51-yeh-iqaamat-hamein-paigham-e-safar-deti-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5f9117e8-6581-4992-b6bd-1fef3892b04c",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 201,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d1b13b52-b027-4ae8-a513-a487043d0452",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 201,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "535d938e-d8d7-4e96-beff-9084eb4c3d8c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 266,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 84,
+  "chapter_title": "Ishq mujh ko nahin vehshat hi sahi",
+  "chapter_slug": "84-ishq-mujh-ko-nahin-vehshat-hi-sahi",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1f127c02-b7e2-4bce-96a5-8d44303b3925",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 127,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "993bfa7a-e085-4bdd-b7b6-fe770db2df34",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 183,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "b2776c05-3137-41ed-b10f-8b892bba868e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 125,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

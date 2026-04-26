@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 82,
+  "chapter_title": "Ibn-e-Maryam hua kare koi",
+  "chapter_slug": "82-ibn-e-maryam-hua-kare-koi",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9f3ba7bc-4891-43e7-a358-2fa6677820b1",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 120,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cc39b7ef-0dd5-4237-81ef-e87cc0df362f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 222,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a07b7547-cc12-40a5-9e07-e2318ad96523",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 120,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

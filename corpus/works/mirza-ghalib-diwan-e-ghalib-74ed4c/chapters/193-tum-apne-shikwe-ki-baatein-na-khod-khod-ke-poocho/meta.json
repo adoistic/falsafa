@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 193,
+  "chapter_title": "Tum apne shikwe ki baatein na khod khod ke poocho",
+  "chapter_slug": "193-tum-apne-shikwe-ki-baatein-na-khod-khod-ke-poocho",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3a10aa36-a981-4060-848c-3a857d166224",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 92,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1390dc25-2d39-44da-ae42-b28b71e9b692",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 144,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "88a96ad6-542d-41e5-b9ef-cbe1a23d5fe0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 92,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

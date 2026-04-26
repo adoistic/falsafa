@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 119,
+  "chapter_title": "Kyunkar us but se rakkhun jaan aziz",
+  "chapter_slug": "119-kyunkar-us-but-se-rakkhun-jaan-aziz",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "02d61ffd-7570-47f4-82f2-620c7494aad5",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 38,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1eb352b6-6676-4ecd-b767-954c7ee61f73",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 38,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "0348e820-59d2-4112-934f-29a73d7f2fb2",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 57,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

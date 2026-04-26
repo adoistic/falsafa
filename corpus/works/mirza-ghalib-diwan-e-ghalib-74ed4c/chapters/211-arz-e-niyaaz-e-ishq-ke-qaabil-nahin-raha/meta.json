@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 211,
+  "chapter_title": "arz-e-niyaaz-e-ishq ke qaabil nahin raha",
+  "chapter_slug": "211-arz-e-niyaaz-e-ishq-ke-qaabil-nahin-raha",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e4a88dbf-141f-44f7-a5f1-ca58cde6f781",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 158,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "60b9bccb-53f9-4bc0-8384-eaa5c3dff5f7",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 158,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "2e9504db-19ec-4033-9737-e306655426b0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 311,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

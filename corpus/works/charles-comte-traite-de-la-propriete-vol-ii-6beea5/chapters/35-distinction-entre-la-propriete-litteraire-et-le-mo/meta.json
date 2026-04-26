@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 35,
+  "chapter_title": "Distinction entre la propriété littéraire et le monopole.",
+  "chapter_slug": "35-distinction-entre-la-propriete-litteraire-et-le-mo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a67ec77b-b604-4ccf-ad4b-ca4391109bab",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3393,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4c1aee17-37b1-453a-b1eb-3aff4876a025",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3508,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

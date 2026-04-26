@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 28,
+  "chapter_title": "Des rapports observés entre les moyens d’existence et l’état social des peuples d’espèce mongole, de",
+  "chapter_slug": "28-des-rapports-observes-entre-les-moyens-d-existence",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d2f153f0-fd76-4daa-9f53-bac27782e14d",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6403,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7b7750b8-800f-45f9-8e82-493e82e5aa6a",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6256,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

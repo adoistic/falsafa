@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 123,
+  "chapter_title": "Larazta hai mera dil zahmat-e-mehr-e-darakhshan par",
+  "chapter_slug": "123-larazta-hai-mera-dil-zahmat-e-mehr-e-darakhshan-pa",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "57ad7ce0-bc05-4cc0-9aa8-04d9badc2440",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 148,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4c4e4936-d6e9-46cb-8550-3128f7c12bb6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 147,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "7f9634a8-bd96-44f6-b3bb-20236995041e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 212,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

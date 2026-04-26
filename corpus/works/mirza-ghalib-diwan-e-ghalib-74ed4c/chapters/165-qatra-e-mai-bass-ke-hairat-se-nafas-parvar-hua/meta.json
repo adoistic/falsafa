@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 165,
+  "chapter_title": "Qatra-e-mai bass ke hairat se nafas-parvar hua",
+  "chapter_slug": "165-qatra-e-mai-bass-ke-hairat-se-nafas-parvar-hua",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f204a788-9e19-4e7f-89de-e9c9e14df725",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 87,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "312ea579-c0a3-47b7-b711-2c5d2f66f5db",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 88,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "3c12004a-fa9d-4e3d-8598-329003f1803b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 171,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 19,
+  "chapter_title": "Des effets particuliers à chacun des principaux éléments de force dont une loi se compose ; et de l’",
+  "chapter_slug": "19-des-effets-particuliers-a-chacun-des-principaux-el",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5e9444a6-0c1b-4dfc-97b9-156868e8f223",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 7644,
+      "paragraph_count": 56,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2b3ccc8e-de67-4bef-a43f-884f4cd0d5e9",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 7615,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

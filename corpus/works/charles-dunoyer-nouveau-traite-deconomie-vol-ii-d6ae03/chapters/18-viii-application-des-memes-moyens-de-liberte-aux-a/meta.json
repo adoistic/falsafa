@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+  "work_title": "Nouveau traité d'économie: VOL II",
+  "chapter_number": 18,
+  "chapter_title": "VIII. Application des mêmes moyens de liberté aux arts qui agissent sur les hommes, et d'abord aux a",
+  "chapter_slug": "18-viii-application-des-memes-moyens-de-liberte-aux-a",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4a2e1520-01fd-47e4-a7f4-32efbd9a6096",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 16714,
+      "paragraph_count": 143,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ea1a668-390e-4357-8630-741160675267",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 17324,
+      "paragraph_count": 138,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

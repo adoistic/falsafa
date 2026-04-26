@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 6,
+  "chapter_title": "Des choses communes à tous les hommes.",
+  "chapter_slug": "06-des-choses-communes-a-tous-les-hommes",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ee87258c-af02-4228-b51f-af4009ca6628",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1006,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5c7e015f-3d27-462f-b96a-b687f6667b95",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1022,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

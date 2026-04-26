@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 66,
+  "chapter_title": "Har ek baat pe kehte ho tum ke tu kya hai",
+  "chapter_slug": "66-har-ek-baat-pe-kehte-ho-tum-ke-tu-kya-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9023c92b-60f5-4c79-a978-45acf93d5824",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 164,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "28f1c40d-53b2-421f-bd26-5a1fc2766b3e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 158,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "2b21a385-0793-4dd8-be12-d3ec2ea7c037",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 214,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

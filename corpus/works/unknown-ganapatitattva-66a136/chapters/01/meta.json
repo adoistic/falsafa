@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-ganapatitattva-66a136",
+  "work_title": "Gaṇapatitattva",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "22070d5d-54fc-4a23-af06-f6d77067a42c",
+      "language": "Kawi",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 7692,
+      "paragraph_count": 261,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b162e24-e4ca-447c-acd5-931f12feff1c",
+      "language": "english",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 10190,
+      "paragraph_count": 166,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+  "work_title": "Traité de Législation: VOL IV",
+  "chapter_number": 23,
+  "chapter_title": "De l’inégalité des fortunes produite par l’esclavage. — Des communautés de biens et de travaux, cons",
+  "chapter_slug": "23-de-l-inegalite-des-fortunes-produite-par-l-esclava",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ab2fbe42-fae2-4d38-90d2-3c2610267424",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 95193,
+      "paragraph_count": 373,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "935832c8-45ba-4812-a240-2aa832f4fde4",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 87937,
+      "paragraph_count": 236,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

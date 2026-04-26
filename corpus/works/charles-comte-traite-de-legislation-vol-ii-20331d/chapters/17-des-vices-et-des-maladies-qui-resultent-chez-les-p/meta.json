@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 17,
+  "chapter_title": "Des vices et des maladies qui résultent chez les peuples d’espèce cuivrée, du nord de l’Amérique, de",
+  "chapter_slug": "17-des-vices-et-des-maladies-qui-resultent-chez-les-p",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aa05ce58-23a3-4834-97f1-f513bbe078fa",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2971,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d0f7df3e-f616-420a-85f2-36c845a6175f",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2877,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

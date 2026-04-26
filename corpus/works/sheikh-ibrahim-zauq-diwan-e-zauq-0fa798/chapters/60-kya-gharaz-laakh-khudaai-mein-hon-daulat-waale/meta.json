@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 60,
+  "chapter_title": "kya gharaz laakh khudaai mein hon daulat waale",
+  "chapter_slug": "60-kya-gharaz-laakh-khudaai-mein-hon-daulat-waale",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "513ed3da-88fd-4ffe-b2d1-e357edd8c6f1",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 283,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "71792424-d3e3-4b17-bbcd-77e846cbb9c1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 282,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "bf48f9dc-de20-46d3-846c-2aae05c08b06",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 426,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

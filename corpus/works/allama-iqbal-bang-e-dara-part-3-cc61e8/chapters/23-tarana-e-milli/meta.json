@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 23,
+  "chapter_title": "Tarana-e-Milli",
+  "chapter_slug": "23-tarana-e-milli",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ee24ac66-b865-47b7-9df0-b9ee3bf8c964",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 188,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/09.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "865a0b6b-1463-47f1-901d-8fb45b0e9847",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 205,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "fe6f52fd-fe2f-477c-b179-ca37adc1af0f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 164,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

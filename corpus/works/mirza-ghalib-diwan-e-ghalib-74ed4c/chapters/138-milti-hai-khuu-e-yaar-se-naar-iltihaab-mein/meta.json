@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 138,
+  "chapter_title": "Milti hai khuu-e-yaar se naar iltihaab mein",
+  "chapter_slug": "138-milti-hai-khuu-e-yaar-se-naar-iltihaab-mein",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "11bab0eb-1524-4564-a74a-33af842ac729",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 202,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6fe917cb-5d94-4aef-b822-29a5b7649560",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 371,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "ff98dfc4-c357-4211-9590-fe0725dd0aef",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 201,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

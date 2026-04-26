@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 166,
+  "chapter_title": "Qayamat hai ke sun Laila ka Dasht-e-Qais mein aana",
+  "chapter_slug": "166-qayamat-hai-ke-sun-laila-ka-dasht-e-qais-mein-aana",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ae74ae03-2849-4d55-8c9a-2e46c27a7d48",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 37,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4cea9084-b9fb-4080-8567-4b5aa5cbc491",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 43,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "b9723a01-321a-4453-9ded-80f6222fce54",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 37,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

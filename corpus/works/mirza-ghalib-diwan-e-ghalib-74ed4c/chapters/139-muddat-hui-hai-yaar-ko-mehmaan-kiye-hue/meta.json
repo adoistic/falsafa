@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 139,
+  "chapter_title": "Muddat hui hai yaar ko mehmaan kiye hue",
+  "chapter_slug": "139-muddat-hui-hai-yaar-ko-mehmaan-kiye-hue",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0173b219-7249-47ca-ad23-4cc919bef76e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 215,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "39dec189-57ce-4ddd-b7a0-71666e29e555",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 214,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e15f0bce-c1bf-4173-9d7f-35bab261c9e6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 273,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 188,
+  "chapter_title": "Taghaful-dost hoon mera dimaag-e-ajz aali hai",
+  "chapter_slug": "188-taghaful-dost-hoon-mera-dimaag-e-ajz-aali-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7f2fada4-f128-46c4-bdc6-2a0995b4dc76",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 31,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74a7f4ce-52c2-47fd-9a35-8fa3102b1d92",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 41,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "2ac7e3e1-f4c9-4bca-88a1-14bb3c512e37",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 31,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

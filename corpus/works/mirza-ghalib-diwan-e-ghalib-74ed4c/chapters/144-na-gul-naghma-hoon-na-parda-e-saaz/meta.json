@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 144,
+  "chapter_title": "Na gul-naghma hoon na parda-e-saaz",
+  "chapter_slug": "144-na-gul-naghma-hoon-na-parda-e-saaz",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a3c43d19-8563-4fe9-924e-e8cf0db80a2d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 90,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "864eba7c-b946-497b-a68d-8e6e8f5b0028",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 208,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f3b4722f-20df-4c9e-aa31-d9f51c0dcb9c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 90,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

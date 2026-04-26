@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 22,
+  "chapter_title": "De la propriété des richesses minérales, et des limites qui en résultent pour les propriétés de la s",
+  "chapter_slug": "22-de-la-propriete-des-richesses-minerales-et-des-lim",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "af0daf26-62b9-4546-9f1a-29729449a677",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4838,
+      "paragraph_count": 49,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "98f51495-dfdb-4693-9acc-c7203e223e97",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4988,
+      "paragraph_count": 47,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

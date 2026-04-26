@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 28,
+  "chapter_title": "Aashiq Harjaai",
+  "chapter_slug": "28-aashiq-harjaai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c8386340-e6f8-41f9-b0a2-23d444fbdd62",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 191,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/13.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a64eb7eb-9a74-483c-9b12-852a32a063db",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 148,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "b1ec1096-71ab-4737-9314-100a9c956cb2",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 204,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

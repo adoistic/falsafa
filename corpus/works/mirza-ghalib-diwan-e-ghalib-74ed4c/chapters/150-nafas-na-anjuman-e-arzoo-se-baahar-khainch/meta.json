@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 150,
+  "chapter_title": "Nafas na anjuman-e-arzoo se baahar khainch",
+  "chapter_slug": "150-nafas-na-anjuman-e-arzoo-se-baahar-khainch",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "085f6387-31fc-490a-a02a-5184855cfbc9",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 90,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eecb2ca6-ba0c-4a87-8a42-2fb5e23113c1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 90,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "449c9d67-90a3-4b35-b0b9-22639778711e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 197,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

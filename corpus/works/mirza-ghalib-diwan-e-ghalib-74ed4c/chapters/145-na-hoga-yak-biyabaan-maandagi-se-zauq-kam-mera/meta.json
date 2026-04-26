@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 145,
+  "chapter_title": "Na hoga yak-biyabaan maandagi se zauq kam mera",
+  "chapter_slug": "145-na-hoga-yak-biyabaan-maandagi-se-zauq-kam-mera",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "03c22451-ffb8-49dc-b983-561f3117cdb7",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 79,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f1d93590-3c99-4e65-8cc9-c772eb5d1e98",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 139,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a2d17b8e-ff33-4f71-b7d1-b3c070b44d1d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 79,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

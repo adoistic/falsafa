@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 28,
+  "chapter_title": "Deewangi se dosh pe zunnar bhi nahin",
+  "chapter_slug": "28-deewangi-se-dosh-pe-zunnar-bhi-nahin",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "759fd737-b49f-4400-8388-4619bad3359d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 135,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2f03ebdd-1207-4311-b6c1-62ed64d07b70",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 135,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "7be9c2e6-90a3-49f0-af4a-c58bdec90b4f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 209,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 151,
+  "chapter_title": "Nahin ke mujh ko qayamat ka aiteqad nahin",
+  "chapter_slug": "151-nahin-ke-mujh-ko-qayamat-ka-aiteqad-nahin",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d8347dc6-e5df-41d5-8b22-652f2c18ec43",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 119,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cb3da45c-08c6-4b2d-965b-a669e118eb33",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 116,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "0d578183-39f1-4f39-9001-ca4d493913a5",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 155,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

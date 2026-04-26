@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 16,
+  "chapter_title": "Kali",
+  "chapter_slug": "16-kali",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "94c44aa4-530e-4f18-9b4c-5fa74a1b412f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 154,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/09.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f3d4bddd-3f14-4474-bd8e-ea6a2fd52f69",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 151,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "bb29a52f-4437-48b0-945b-8f675a3f4d3c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 130,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

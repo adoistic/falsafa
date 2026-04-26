@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 23,
+  "chapter_title": "Jo kuch ke hai duniya mein woh insaan ke liye hai",
+  "chapter_slug": "23-jo-kuch-ke-hai-duniya-mein-woh-insaan-ke-liye-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4a3b4987-4d2e-4c75-921d-36b34b08c590",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 178,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7e77560f-12b8-4052-8b29-9420d43a3df1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 178,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "22633bd0-0dd4-4b59-b8b7-90f5f1459a4d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 204,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

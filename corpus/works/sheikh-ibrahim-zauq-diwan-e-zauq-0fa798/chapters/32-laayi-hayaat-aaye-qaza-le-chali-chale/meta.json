@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 32,
+  "chapter_title": "Laayi hayaat aaye qaza le chali chale",
+  "chapter_slug": "32-laayi-hayaat-aaye-qaza-le-chali-chale",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b8e761f4-473a-40c0-864e-0830c76f403d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 127,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f7c74bbc-4259-4537-ba21-c20a70216e58",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 194,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "d4e9e4b5-34d2-4125-9365-13a0b74e914f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 127,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

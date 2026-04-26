@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 157,
+  "chapter_title": "Nukta-cheen hai gham-e-dil uss ko sunaye na bane",
+  "chapter_slug": "157-nukta-cheen-hai-gham-e-dil-uss-ko-sunaye-na-bane",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "796fc30f-d3bb-4b69-933a-2019e51007a8",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 169,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f0fde9c2-a222-42c1-bf9f-5b2b82d734c2",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 169,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "25976898-04c4-4869-bd1a-88a63af46683",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 201,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

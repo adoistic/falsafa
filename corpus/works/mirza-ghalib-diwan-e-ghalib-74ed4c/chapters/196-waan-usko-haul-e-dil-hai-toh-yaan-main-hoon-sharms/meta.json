@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 196,
+  "chapter_title": "Waan usko haul-e-dil hai toh yaan main hoon sharmsaar",
+  "chapter_slug": "196-waan-usko-haul-e-dil-hai-toh-yaan-main-hoon-sharms",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "51192c9a-948c-40c2-85bf-9053db6c0fee",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 32,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5906d07f-a9a8-4733-8d11-c122575476b0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 31,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "2156135b-259f-47e4-90c9-3b8e1db75adb",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 47,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 99,
+  "chapter_title": "Juz Qais aur koi na aaya ba-ru-e-kaar",
+  "chapter_slug": "99-juz-qais-aur-koi-na-aaya-ba-ru-e-kaar",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e56ac2b4-cafb-41af-a578-2432e2e3fcb4",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 151,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "76b040c3-ed24-480c-a18b-c655259cb30c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 151,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a49cec4e-f248-4e9f-b1f2-ac0c01e21d14",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 234,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

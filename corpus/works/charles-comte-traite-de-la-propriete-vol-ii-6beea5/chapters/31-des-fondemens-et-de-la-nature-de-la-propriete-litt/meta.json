@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 31,
+  "chapter_title": "Des fondemens et de la nature de la propriété littéraire.",
+  "chapter_slug": "31-des-fondemens-et-de-la-nature-de-la-propriete-litt",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f897338f-75de-4469-a137-45ec3701a3ec",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5316,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b22f7ab5-7850-4dd2-bbf9-89fd20d4c254",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5507,
+      "paragraph_count": 48,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

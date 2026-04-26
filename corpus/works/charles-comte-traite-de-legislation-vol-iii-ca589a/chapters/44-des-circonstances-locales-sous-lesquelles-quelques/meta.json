@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 44,
+  "chapter_title": "Des circonstances locales sous lesquelles quelques facultés particulières se développent, chez les p",
+  "chapter_slug": "44-des-circonstances-locales-sous-lesquelles-quelques",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4a31fc02-32b5-4766-9371-70c5cbf27f5a",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4714,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "26c96ebd-46b0-4180-8e10-da06ee906c03",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4663,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 32,
+  "chapter_title": "Mehr-e-roshan",
+  "chapter_slug": "32-mehr-e-roshan",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "07af6643-507a-400e-95c2-aa1ff3b68a4a",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 497,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/13.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "316372e7-063f-4dd1-9731-44a0f0baaef3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 590,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "5e9c3f4c-1079-446f-8172-4621565c1f31",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 406,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

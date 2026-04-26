@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 12,
+  "chapter_title": "Chupke chupke gham ka khana koi hum se seekh jaaye",
+  "chapter_slug": "12-chupke-chupke-gham-ka-khana-koi-hum-se-seekh-jaaye",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "155983e3-c8c5-4311-9823-e0aa1060e07e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 337,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f5e0f9cc-5935-446b-aa7c-05eb798d456a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 402,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "58a13e47-1afe-4ee0-9a97-786db1c391ff",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 334,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

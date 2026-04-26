@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+  "work_title": "Nouveau traité d'économie: VOL II",
+  "chapter_number": 16,
+  "chapter_title": "VI. De la liberté de l'industrie manufacturière.",
+  "chapter_slug": "16-vi-de-la-liberte-de-lindustrie-manufacturiere",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ed861808-f4e7-4875-ac26-a538e451bf13",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 21394,
+      "paragraph_count": 134,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c11531a8-5e6f-4a66-8de0-4751b07b4275",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 21722,
+      "paragraph_count": 128,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 46,
+  "chapter_title": "Parallèle entre l’homme sauvage et l’homme civilisé. — Système de J.-J. Rousseau.",
+  "chapter_slug": "46-parallele-entre-l-homme-sauvage-et-l-homme-civilis",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "071b9e87-f4fa-4830-917d-3e0c9987e615",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3043,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3e1141a1-fb28-4243-911d-98fb4293da8d",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3010,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 164,
+  "chapter_title": "Qafas mein hoon gar achha bhi na jaanein mere shevan ko",
+  "chapter_slug": "164-qafas-mein-hoon-gar-achha-bhi-na-jaanein-mere-shev",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cec60e49-5020-47f4-9d3c-cee057c53849",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 219,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c5322ba5-b658-4a8b-b521-28ddac46f8b6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 218,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "ec8c1b3d-321e-43a4-ac81-de9e842c294a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 295,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

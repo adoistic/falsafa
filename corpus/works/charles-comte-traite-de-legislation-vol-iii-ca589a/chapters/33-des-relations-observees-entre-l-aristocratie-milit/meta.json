@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 33,
+  "chapter_title": "Des relations observées entre l’aristocratie militaire et la classe industrieuse, chez les peuples d",
+  "chapter_slug": "33-des-relations-observees-entre-l-aristocratie-milit",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d9c9ad7d-4e7f-46c3-a66f-f4eaec213f3c",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4917,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cd891903-8793-43fd-86d9-b5357b4ca16f",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4893,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+  "work_title": "Nouveau traité d'économie: VOL II",
+  "chapter_number": 17,
+  "chapter_title": "VII. De la liberté de l'industrie agricole [ 130 ] .",
+  "chapter_slug": "17-vii-de-la-liberte-de-lindustrie-agricole-130",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5ee4d6b6-1557-46b9-bbdc-e41df6442a5c",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 20748,
+      "paragraph_count": 113,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9f11e787-68ec-43d7-a8f7-a4495d0fe9ce",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 21211,
+      "paragraph_count": 110,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

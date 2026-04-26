@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 3,
+  "chapter_title": "Aah ko chahiye ik umr asar hote tak",
+  "chapter_slug": "03-aah-ko-chahiye-ik-umr-asar-hote-tak",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8ebd8919-be20-4937-a995-28974dfd6217",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 123,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ba711cf9-1950-4f93-bc33-04aa1684e374",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 132,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f0e6ec06-2deb-40aa-a308-f5e14f4646e9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 123,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

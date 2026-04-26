@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 11,
+  "chapter_title": "Sakhtiyan karta hoon dil par, ghair se ghafil hoon main",
+  "chapter_slug": "11-sakhtiyan-karta-hoon-dil-par-ghair-se-ghafil-hoon-",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d50b78c2-86b1-4865-8f97-8a7d97ea8c91",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 140,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/ghazals/12.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "72b7dce8-efdb-493a-a2b0-167450d60eb9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 110,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "762ef0a0-649c-4bf9-8ab6-9bcb773f5d42",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 95,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

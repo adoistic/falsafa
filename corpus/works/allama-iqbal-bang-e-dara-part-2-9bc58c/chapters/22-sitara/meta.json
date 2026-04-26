@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 22,
+  "chapter_title": "Sitara",
+  "chapter_slug": "22-sitara",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3c3c9808-0dd1-45a9-86eb-31e39bedd02e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 108,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/06.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "466bae54-0eb2-49bc-ae03-a992317ed4c2",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 108,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "3fcce4e5-ec81-4ddb-ae29-2eab270d2de2",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 80,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

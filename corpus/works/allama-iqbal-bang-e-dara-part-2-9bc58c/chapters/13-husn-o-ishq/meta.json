@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 13,
+  "chapter_title": "Husn o Ishq",
+  "chapter_slug": "13-husn-o-ishq",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c966c679-de52-4bf1-8671-60a3447eee7d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 187,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/07.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "95c1d227-8c44-435e-9518-431edca3b8a1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 159,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "471184fd-3578-4896-915f-36b210f32bf8",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 201,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

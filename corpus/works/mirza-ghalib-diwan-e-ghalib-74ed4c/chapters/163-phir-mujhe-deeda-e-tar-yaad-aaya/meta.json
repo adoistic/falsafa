@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 163,
+  "chapter_title": "Phir mujhe deeda-e-tar yaad aaya",
+  "chapter_slug": "163-phir-mujhe-deeda-e-tar-yaad-aaya",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b85ee743-fbe9-4a30-b2ad-c608f7a6b3ac",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 123,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bd6aed64-a59c-455a-9890-f5d685cabb7f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 213,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "86274251-70e8-450d-af40-5bf5a3118655",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 123,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

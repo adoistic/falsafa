@@ -1,0 +1,79 @@
+---
+work_id: "6beea56e-daa2-4462-a9ed-041727f53bfd"
+work_slug: "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+work_title: "Traité de la propriété: VOL II"
+author_name: Charles Comte
+chapter_number: 46
+chapter_title: "Des rapports qui existent entre l'accroissement des propriétés, et l'accroissement des diverses clas"
+chapter_slug: "46-des-rapports-qui-existent-entre-laccroissement-des"
+variant_id: "063b9968-db92-4499-9d7a-62528850b87c"
+content_type: original
+layout: prose
+language: French
+source_language: French
+language_direction: ltr
+script: latin
+word_count: 2218
+estimated_read_time: 11
+curator: thothica
+---
+
+## CHAP. 46: Des rapports qui existent entre l'accroissement des propriétés, et l'accroissement des diverses classes de la population.
+
+PLUSIEURS écrivains, ayant observé que, dans tous les pays, il y a toujours un certain nombre de personnes qui sont emportées par la misère ou par les maux qu'elle produit, ont pensé que partout la population s'élève au niveau de ses moyens d'existence, et qu'elle tend même à aller au-delà.
+
+D'autres ont contesté la vérité de cette observation; ils ont prétendu que l'accroissement des moyens d'existence, bien loin d'être en arrière de l'accroissement de la population, était, au contraire, plus rapide et tendait à le dépasser; ils se sont fondés sur ce que le nombre des familles aisées s'augmente sans cesse chez toutes les nations qui prospèrent.
+
+Il est rare que les propositions générales qu'on fait sur une population nombreuse soient parfaitement exactes, parce qu'une nation civilisée se divise toujours en un certain nombre de classes, et que ce qui est vrai pour les unes, ne l'est presque jamais pour les autres. Le terme moyen de la vie, sur lequel tant de calculs ont été faits, par exemple, le même dans tous les rangs de la société; il est infiniment plus court pour les classes qui sont sans cesse assiégées par le besoin, que pour celles qui jouissent de toutes les aisances de la vie.
+
+Les mêmes expressions ne désignent même pas toujours les mêmes choses: une famille, née dans l'opulence, entend par ses moyens d'existence, autre chose que ce qu'entend une famille d'ouvriers qui fait usage des mêmes termes. Si chacune des deux se croit parvenue aux limites de ses ressources, quand elle ne peut plus s'accroître sans déchoir dans la société, on conviendra que, pour conserver son rang il ne faut pas à chacune la même somme de richesses.
+
+Ainsi, l'on peut bien admettre qu'en tout pays la population s'élève au niveau de ses moyens d'existence, et que les classes les moins prévoyantes et les moins riches les dépassent même souvent; mais il faut qu'il soit bien entendu qu'il y a toujours chez une nation civilisée, un nombre plus ou moins considérable de familles qui peuvent arriver là, non seulement sans manquer d'aucun des objets nécessaires à la vie, mais en jouissant même de beaucoup de choses dont le besoin n'est pas même senti dans d'autres classes de la société.
+
+Entre le mendiant auquel il ne faut pour exister que du pain et des haillons, et le prince qui consomme chaque jour un capital suffisant pour faire vivre à l'aise et à perpétuité une modeste famille, il existe un grand nombre de classes intermédiaires; chacune de ces classes a des habitudes et des besoins particuliers, et considère comme nécessaires à sa conservation toutes les choses dont il lui serait imposssible de s'abstenir sans descendre dans un un rang inférieur.
+
+Cette manière de juger ou de sentir n'est point particulière à une nation ou à une race; on l'observe chez tous les peuples qui ont fait quelques progrès; ce sentiment semble même se fortifier à mesure que la civilisation se développe de plus en plus. Il y a plus de honte à déchoir de son rang chez une nation qui prospère et qui jouit de toutes les garanties sociales, que chez une nation qui rétrograde vers la barbarie.
+
+Il suit de là qu'en général, l'accroissement de la population, qui a lieu dans chacune des classes de la société, est en raison de l'augmentation des moyens d'existence exigés par ses habitudes et ses besoins particuliers. Si, par exemple, telles familles ne peuvent conserver leur rang ou leur position, qu'en dépensant annuellement une valeur de 6,000 francs, il faudra, pour que cette classe de la population s'accroisse d'une famille, qu'il se forme un revenu suffisant pour la faire vivre.
+
+Ce n'est qu'en prenant ainsi en considération les besoins, les habitudes et même les préjugés de chacune des classes de la société qu'on peut dire, comme Montesquieu, que partout où une famille peut vivre à l'aise, il se forme un mariage.
+
+Il n'est presque aucun genre d'industrie qui puisse produire des revenus un peu considérables, sans le secours d'un nombre plus ou moins grand de personnes. Il faut, Il faut, pour rendre une terre fertile, le concours de plusieurs ouvriers qui se livrent directement aux travaux de l'agriculture; il faut, de plus, que d'autres ouvriers se livrent à la fabrication des instrumens dont les premiers ont besoin. Le propriétaire de la terre la plus fertile qui serait réduit à la cultiver de ses propres mains, et qui n'aurait pas d'autres instrumens que ceux qu'il aurait lui-même fabriqués, n'en tirerait presqu'aucun revenu.
+
+Un fabricant ne saurait non plus tirer presque aucun avantage de ses machines ou de ses capitaux, s'il n'avait, pour les mettre en œuvre, que ses forces individuelles ; il ne peut tirer de ses propriétés et de son industrie, un revenu suffisant pour faire exister sa famille, qu'en employant un certain nombre d'ouvriers.
+
+Un commerçant ne peut également faire son commerce qu'au moyen d'un certain nombre de personnes qui sont employées, soit au transport de ses marchandises, soit à faire l'office de commis.
+
+Il résulte de là qu'on ne peut former, dans les classes élevées de la société, des moyens d'existence pour une famille nouvelle, sans créer en même temps des moyens d'existence pour un nombre plus ou moins considérable d'autres familles dont les besoins sont moins étendus.
+
+Si, pour établir un de ses enfans, un riche cultivateur, par exemple, convertit en une ferme un vaste marais; il est évident qu'il crée des moyens d'existence pour une famille de fermiers, et pour un certain nombre d'ouvriers et de domestiques.
+
+Il est également évident que le manufacturier qui fonde une nouvelle fabrique, le commerçant qui fonde une nouvelle maison de commerce, créent des moyens d'exister pour les ouvriers ou les commis qui seront nécessaires à ces nouveaux établissemens.
+
+Toutes les fois donc que de nouveaux moyens d'existence se forment chez une nation, les classes de la population qui vivent du travail de leurs mains, s'accroissent d'une manière beaucoup plus rapide que celles qui vivent des revenus de leurs terres ou de leurs capitaux; l'établissement d'une manufacture nouvelle, qui n'augmentera que d'une famille la classe des fabricans, augmentera peut-être de vingt ou trente familles la classe qui lui fournit des ouvriers ou des domestiques.
+
+Plus les familles qui vivent des revenus de leurs terres, de leurs capitaux ou de l'exercice d'une grande industrie, prennent des habitudes d'aisance et de luxe, moins elles peuvent se multiplier; moins, par conséquent, elles sont nombreuses, comparativement aux familles qui appartiennent à la classe ouvrière. L'Angleterre, par exemple, est le pays dans lequel on trouve le plus de grandes fortunes, mais aussi il n'y en a aucun dans lequel la classe des ouvriers ou des domestiques soit aussi nombreuse, comparativement à celle des maîtres. Celle-ci ne peut pas s'accroître d'une seule, à moins que celle-là ne s'augmente de vingt ou de trente, plus ou moins.
+
+Lorsqu'un établissement industriel est formé, la part de revenu qu'il donne à tous les hommes auxquels il procure du travail, est, en général, plus considérable que la part qui revient au capitaliste ou à l'entrepreneur d'industrie. Le propriétaire de la terre la mieux cultivée, retire à peine le quart des produits bruts qu'elle donne; les autres trois quarts sont consommés par les personnes employées directement ou indirectement à la culture. De même, les sommes payées par un fabricant à ses ouvriers ou à ses commis, excèdent généralement de beaucoup les bénéfices qu'il retire de ses manufactures, et qu'il peut consacrer à ses propres consommations.
+
+L'accroissement des propriétés, quelle qu'en soit la nature, exerce donc sur les classes qui vivent du travail de leurs mains, une influence plus étendue que celle qu'il exerce sur les classes qui vivent des revenus de leurs terres ou de leurs capitaux; il leur fournit une plus grande somme des moyens d'existence, et agit, par conséquent, avec plus de force sur leur multiplication.
+
+Les jouissances d'une personne ne peuvent pas s'accroître dans les mêmes proportions que sa fortune; les plus simples et les plus naturelles, celles qui tiennent aux affections morales sont aussi vives et aussi durables chez un homme sans ambition, qui jouit d'une fortune médiocre, que chez celui qui jouit d'immenses richesses; il en est de même de celles qui résultent d'une bonne constitution, d'une bonne santé, de la possession de certains talens, de l'exercice de certaines facultés; la somme de bien-être que produit chez une nation qui prospère, l'accroissement des propriétés pour les classes laborieuses, excède donc la somme qui en résulte pour les autres classes de la société.
+
+Si les classes de la population, qui vivent du travail de leurs mains, se multiplient plus rapidement que les autres, par suite de l'accroissement des propriétés, et si elles en retirent des avantages plus considérables, elles souffrent de maux plus grands, et disparaissent plus rapidement, quand les atteintes portées aux propriétés poussent un pays vers sa décadence.
+
+Toutes les fois que des impôts excessifs enlèvent aux habitans d'un pays la part la plus considérable de leurs revenus, ou que les propriétés sont menacées, soit par des troubles intérieurs, soit par l'invasion d'une armée ennemie, il se manifeste une grande détresse dans toutes les classes de la population, qui n'ont pour vivre que les produits de leur travail de chaque jour; ce fait a été constaté des expériences si nombreuses qu'on ne saurait le mettre en doute avec quelque apparence de par raison.
+
+Les causes de ce phénomène sont faciles à apercevoir. Les classes aisées de la société peuvent opérer certains retranchemens sur leurs consommations, ou s'imposer certaines privations, sans manquer d'aucune des choses indispensables à la vie. Il n'en est pas de même des classes qui sont habituellement réduites à l'absolu nécessaire; l'événement qui n'impose aux premières qu'une simple privation de jouissance, condamne les secondes à une excessive misère, et les voue à la destruction.
+
+Il est, pour les classes qui ne vivent que des produits de leur travail, une cause de misère qui n'existe pas pour les classes qui vivent des revenus de leurs terres ou de leurs capitaux. La prudence individuelle exerce sur le sort des familles qui tirent leurs moyens d'existence de leurs propriétés, une très-grande influence. Comme les propriétés ne sont pas communes, chacun à la faculté de s'abstenir du mariage, quand il croit n'avoir pas le moyen d'élever une famille, et de conserver ainsi les moyens de vivre. Si, dans cette classe, il se forme des mariages imprudens, ces mariages n'ont presque point d'influence hors des familles auxquelles ils ont donné naissance. Les enfans qui en naissent, quelque nombreux qu'ils soient, ne vont pas dépouiller leurs voisins d'une partie de leurs propriétés.
+
+Les classes qui vivent du travail de leurs mains, sont dans une position plus fâcheuse. Leur richesse se compose du travail qui est à exécuter dans la société, ou pour mieux dire, des salaires qui peuvent être accordés annuellement à ce travail. Ces salaires sont plus ou moins élevés, selon que le nombre des personnes entre lesquelles ils doivent être répartis, est plus ou moins grand. Il est évident que plus il y a d'ouvriers pour exécuter un ouvrage déterminé, et moins les salaires sont élevés; la concurrence produit sur la main-d'œuvre, les mêmes effets qu'elle produit sur toute autre chose. Les classes les plus laborieuses ne peuvent jouir de quelque aisance que lorsqu'il y a dans la société moins de travail offert que de travail demandé.
+
+Mais la prudence individuelle, dans les mariages des personnes qui ne vivent que de salaires, a peu d'influence sur la destinée particulière de chaque famille. Un mariage qui donne naissance à de nombreux enfans, condamne à la misère les familles formées avec le plus de prudence; ces enfans, s'ils peuvent vivre, viendront, en effet, en concurrence avec tous les autres pour prendre part au travail, et leur disputer leur subsistance. Quel avantage pourrait assurer aux siens sur les autres, un ouvrier qui ne se marierait que dans la force de l'âge, et qui n'en aurait que deux ou trois? Le partage du travail, produit, relativement aux classes ouvrières, l'effet que produirait, relativement aux capitalistes et aux possesseurs de terres, le partage des propriétés par égales portions, opéré à chaque génération. Il fait descendre au même niveau toutes les personnes qui appartiennent à la même classe.
+
+Il suit de là que ces classes de personnes touchent toujours aux limites de leurs moyens d'existence, et que, dans la société, il n'y en a aucune qui ait plus à souffrir des atteintes portées aux diverses espèces de propriétés. On se trompe donc, quand on s'imagine que les grands possesseurs de terres, les commerçans, les manufacturiers, sont plus intéressés à la conservation de l'ordre public, que les autres classes de la population. Un événement qui leur impose, pour un temps de peu de durée, quelques privations légères, suffit pour plonger dans la plus profonde détresse des milliers de familles d'ouvriers, et pour condamner leurs enfans à la destruction.
+
+En disant que les classes de la société qui vivent de salaires, sont plus intéressées que les autres à la conservation des propriétés, et à l'existence d'un bon gouvernement, je n'entends pas affirmer que, dans toutes les circonstances, elles comprennent parfaitement leurs intérêts; il leur faudrait pour cela des connaissances qu'il leur est rarement possible d'acquérir.
+
+---

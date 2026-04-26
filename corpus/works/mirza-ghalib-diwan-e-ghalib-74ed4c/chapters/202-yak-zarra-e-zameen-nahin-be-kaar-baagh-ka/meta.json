@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 202,
+  "chapter_title": "Yak zarra-e-zameen nahin be-kaar baagh ka",
+  "chapter_slug": "202-yak-zarra-e-zameen-nahin-be-kaar-baagh-ka",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "58d4107c-3be9-43bc-a953-102b02e41c65",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 97,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fb2700a2-e211-4339-98e3-091c9badc010",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 212,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "08b64d08-a051-4502-b4e4-b2a9a58ba6a8",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 97,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

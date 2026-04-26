@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 3,
+  "chapter_title": "Misaal-e-partav-e-mai, tawaf-e-jaam karte hain",
+  "chapter_slug": "03-misaal-e-partav-e-mai-tawaf-e-jaam-karte-hain",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "52b799b6-cfe7-49df-8444-1542bee6dd0c",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 183,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/Ghazals/06.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "77a8e0fe-e651-4637-90d3-0e9e8d2fb479",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 201,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "11edb4bd-6354-475a-a8ab-7b3f96aedbba",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 142,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 41,
+  "chapter_title": "De quelques lois destinées à garantir les propriétés contre les atteintes de l'extérieur.",
+  "chapter_slug": "41-de-quelques-lois-destinees-a-garantir-les-propriet",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2ffee50a-0951-4921-ba56-60f953ae28d0",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3058,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fab267d3-0c5a-4156-aede-79a39abb85c0",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3183,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

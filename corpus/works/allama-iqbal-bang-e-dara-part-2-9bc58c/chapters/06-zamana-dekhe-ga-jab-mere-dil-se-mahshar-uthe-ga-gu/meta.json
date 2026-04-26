@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 6,
+  "chapter_title": "Zamana dekhe ga jab mere dil se mahshar uthe ga guftugu ka",
+  "chapter_slug": "06-zamana-dekhe-ga-jab-mere-dil-se-mahshar-uthe-ga-gu",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "87621226-8b4e-4659-9ce4-bfcd9ad2a07b",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 340,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/Ghazals/03.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f4810b5f-658a-4f19-b2f3-9f1c64b3efd9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 273,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "4931284c-419f-48f9-9a3c-2554ea2fc806",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 354,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

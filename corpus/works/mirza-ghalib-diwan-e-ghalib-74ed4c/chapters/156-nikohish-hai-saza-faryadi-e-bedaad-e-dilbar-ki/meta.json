@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 156,
+  "chapter_title": "Nikohish hai saza faryadi-e-bedaad-e-dilbar ki",
+  "chapter_slug": "156-nikohish-hai-saza-faryadi-e-bedaad-e-dilbar-ki",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "493722ec-e96e-4a79-8949-0fe0d890cc6f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 121,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0d63a5d7-7b16-4b4c-9652-4ed6ed6d36fe",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 119,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "0322aca4-7a67-4c88-a998-ea0002f071f2",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 222,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

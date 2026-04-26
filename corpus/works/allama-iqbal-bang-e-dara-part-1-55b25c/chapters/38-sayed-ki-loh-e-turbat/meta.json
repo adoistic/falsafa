@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 38,
+  "chapter_title": "Sayed Ki Loh-e-Turbat",
+  "chapter_slug": "38-sayed-ki-loh-e-turbat",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "97464b1f-9eaf-4534-b50b-ebcc90980331",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 261,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/23.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9769b89e-4a14-41e4-9ab6-55469ab6e0e4",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 320,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "d6d57af5-ece5-4124-acd6-3b01418ceb26",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 230,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

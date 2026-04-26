@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 42,
+  "chapter_title": "Subah Ka Sitara",
+  "chapter_slug": "42-subah-ka-sitara",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a76e96d5-8268-45b8-8f6c-e88a30f6fe6e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 352,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/41.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "963a9cc6-3c21-497d-b993-74083e3f3eff",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 339,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "b9f8f4f4-ccb8-4b3a-b737-776f6a590b3a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 308,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

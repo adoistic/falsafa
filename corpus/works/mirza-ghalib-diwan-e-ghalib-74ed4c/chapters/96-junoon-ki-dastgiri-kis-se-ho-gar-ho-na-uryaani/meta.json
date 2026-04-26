@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 96,
+  "chapter_title": "Junoon ki dastgiri kis se ho gar ho na uryaani",
+  "chapter_slug": "96-junoon-ki-dastgiri-kis-se-ho-gar-ho-na-uryaani",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3ec2eb67-b3d2-4902-8d2a-0c39a57596dc",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 128,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "32871ad5-28ed-4dcf-92b5-e811899d2e6c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 126,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "c3973642-832e-4e44-a316-201bf8a4da24",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 199,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

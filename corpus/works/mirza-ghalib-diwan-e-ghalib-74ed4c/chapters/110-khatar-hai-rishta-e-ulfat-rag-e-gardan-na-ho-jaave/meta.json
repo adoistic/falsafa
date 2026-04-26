@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 110,
+  "chapter_title": "Khatar hai rishta-e-ulfat rag-e-gardan na ho jaave",
+  "chapter_slug": "110-khatar-hai-rishta-e-ulfat-rag-e-gardan-na-ho-jaave",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a48b605e-986a-4c46-b0e7-a8c11a6309eb",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 31,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "86d316b4-59a9-4700-8939-5ef84321d93b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 49,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "1c8816f3-35cd-4445-85e5-c084bf153238",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 31,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

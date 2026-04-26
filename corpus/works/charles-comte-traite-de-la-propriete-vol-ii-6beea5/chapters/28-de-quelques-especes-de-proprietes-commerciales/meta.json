@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 28,
+  "chapter_title": "De quelques espèces de propriétés commerciales.",
+  "chapter_slug": "28-de-quelques-especes-de-proprietes-commerciales",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8aeaaf66-524b-47ed-bbdf-2769221ff959",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2484,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4c49cf6e-6201-44d1-a311-668c58e5b59e",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2524,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

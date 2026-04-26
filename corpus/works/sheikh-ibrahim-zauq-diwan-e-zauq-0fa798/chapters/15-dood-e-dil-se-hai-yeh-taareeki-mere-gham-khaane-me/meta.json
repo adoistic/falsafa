@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 15,
+  "chapter_title": "Dood-e-dil se hai yeh taareeki mere gham-khaane mein",
+  "chapter_slug": "15-dood-e-dil-se-hai-yeh-taareeki-mere-gham-khaane-me",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "12ce8cb3-cd01-4a73-9f7d-67099cdafbbe",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 152,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f6eed440-cca3-4c8b-84f6-8c50626ad033",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 218,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "64a69967-c7ec-41a5-a634-6a19c8a1ebd1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 152,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

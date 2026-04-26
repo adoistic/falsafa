@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 174,
+  "chapter_title": "Sab kahan kuch lala-o-gul mein numayan ho gayin",
+  "chapter_slug": "174-sab-kahan-kuch-lala-o-gul-mein-numayan-ho-gayin",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0f039a68-06f3-4a8b-8625-841958d0c18e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 267,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9cf64b9c-2968-4673-a61f-fdf2ca5e482d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 268,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "9faea516-5669-477f-bc79-6c4b14bcf298",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 338,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

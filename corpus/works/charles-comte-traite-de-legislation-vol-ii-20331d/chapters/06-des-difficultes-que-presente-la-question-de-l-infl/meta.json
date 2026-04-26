@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 6,
+  "chapter_title": "Des difficultés que présente la question de l’influence des climats sur les facultés humaines. — Exp",
+  "chapter_slug": "06-des-difficultes-que-presente-la-question-de-l-infl",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "02984eb8-56ec-452d-ba6e-9f598532e848",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3782,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "49fcc16b-6f59-4919-83be-7d58d5ae1f10",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3687,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

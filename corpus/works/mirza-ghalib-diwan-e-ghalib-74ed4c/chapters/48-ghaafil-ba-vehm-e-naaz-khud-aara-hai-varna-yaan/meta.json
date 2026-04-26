@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 48,
+  "chapter_title": "Ghaafil ba-vehm-e-naaz khud-aara hai varna yaan",
+  "chapter_slug": "48-ghaafil-ba-vehm-e-naaz-khud-aara-hai-varna-yaan",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "19c58a55-945b-4a4c-9218-2c41687b695e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 104,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c750eed4-e11a-4127-a431-fb52208b4053",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 101,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "3c35ae8d-7bc8-40b8-bd71-76c84fdb1f6a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 203,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

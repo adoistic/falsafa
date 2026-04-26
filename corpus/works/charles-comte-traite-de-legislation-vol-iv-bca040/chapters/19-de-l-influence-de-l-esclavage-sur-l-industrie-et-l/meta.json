@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+  "work_title": "Traité de Législation: VOL IV",
+  "chapter_number": 19,
+  "chapter_title": "De l’influence de l’esclavage sur l’industrie et le commerce des nations qui ont des relations comme",
+  "chapter_slug": "19-de-l-influence-de-l-esclavage-sur-l-industrie-et-l",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f220f7c2-5dc7-472c-bc16-eb57fbbc3bd7",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 7714,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "81f03f3f-835e-4f0a-8168-2d0a43afeea8",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 7518,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

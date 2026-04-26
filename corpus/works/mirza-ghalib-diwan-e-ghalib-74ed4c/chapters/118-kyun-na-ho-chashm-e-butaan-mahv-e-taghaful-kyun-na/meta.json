@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 118,
+  "chapter_title": "Kyun na ho chashm-e-butaan mahv-e-taghaful kyun na ho",
+  "chapter_slug": "118-kyun-na-ho-chashm-e-butaan-mahv-e-taghaful-kyun-na",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a274328b-6518-4f58-abb6-05006bcd69c7",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 41,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "90510787-aafa-4a00-a9c2-3b1b60ea6ba0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 57,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "c0dc1a66-b070-42d3-a78c-a7ace70fb21e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 41,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

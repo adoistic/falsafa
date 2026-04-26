@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 14,
+  "chapter_title": "Des divers éléments de puissance qui constituent les lois ; ou des causes générales de l’action que",
+  "chapter_slug": "14-des-divers-elements-de-puissance-qui-constituent-l",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bb32299a-58f2-4927-8c02-ed29fa8c65bf",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2213,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a2b8a09a-0b09-46e4-8bfe-75c71da499c3",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2125,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

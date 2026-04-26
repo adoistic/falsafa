@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 31,
+  "chapter_title": "Kya aaye tum jo aaye ghadi do ghadi ke baad",
+  "chapter_slug": "31-kya-aaye-tum-jo-aaye-ghadi-do-ghadi-ke-baad",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7bea0d79-c936-42e5-815e-b72cf3bc804d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 223,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f2c8d81-e3a6-44c1-b70b-1ba7d7e7a6f0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 223,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "cfc9a1ae-bb83-4dd0-bc87-59efdb35e3b5",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 306,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

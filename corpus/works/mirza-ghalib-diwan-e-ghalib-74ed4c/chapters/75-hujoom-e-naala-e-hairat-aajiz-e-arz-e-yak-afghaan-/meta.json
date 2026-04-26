@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 75,
+  "chapter_title": "Hujoom-e-naala-e-hairat aajiz-e-arz-e-yak-afghaan hai",
+  "chapter_slug": "75-hujoom-e-naala-e-hairat-aajiz-e-arz-e-yak-afghaan-",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c530950c-4f32-4a8b-b14e-a6db7a289154",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 146,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4a549f7c-8c85-41dc-9411-98ebd1ef177c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 244,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "d755b42a-8a16-4099-919f-499295dc7eef",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 114,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

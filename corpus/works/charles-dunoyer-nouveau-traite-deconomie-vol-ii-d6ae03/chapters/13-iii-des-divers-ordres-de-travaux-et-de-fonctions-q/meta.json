@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+  "work_title": "Nouveau traité d'économie: VOL II",
+  "chapter_number": 13,
+  "chapter_title": "III. Des divers ordres de travaux et de fonctions qu'embrasse la société industrielle.",
+  "chapter_slug": "13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "20d22426-d387-4e44-aefd-83715b237b7b",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 9732,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79258bbc-27d7-46f3-bc1a-4a6754e81161",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 9942,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

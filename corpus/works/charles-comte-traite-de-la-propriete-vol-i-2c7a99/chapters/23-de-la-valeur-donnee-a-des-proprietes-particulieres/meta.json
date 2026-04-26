@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 23,
+  "chapter_title": "De la valeur donnée à des propriétés particulières, communales ou départementales, par des travaux e",
+  "chapter_slug": "23-de-la-valeur-donnee-a-des-proprietes-particulieres",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2a44d947-949a-4953-a6ea-c36c611face6",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3221,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d9899552-5e0c-4f76-8e07-498e8563dea3",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3338,
+      "paragraph_count": 32,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

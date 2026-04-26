@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 25,
+  "chapter_title": "De la loi sur le desséchement des marais qui appartiennent à des particuliers ou à des communes.",
+  "chapter_slug": "25-de-la-loi-sur-le-dessechement-des-marais-qui-appar",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0b7c0562-49e3-4261-bfa6-12748fd0ebd7",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2426,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "073eeab9-bd5d-4664-b6d3-9f8a0e0907d5",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2598,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

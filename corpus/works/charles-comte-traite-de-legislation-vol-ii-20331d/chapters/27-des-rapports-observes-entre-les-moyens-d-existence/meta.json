@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 27,
+  "chapter_title": "Des rapports observés entre les moyens d’existence et l’état social des peuples d’espèce nègre des c",
+  "chapter_slug": "27-des-rapports-observes-entre-les-moyens-d-existence",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d5a13d54-2dec-4f17-a22f-4f03685185d2",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4540,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "263665f5-588a-458a-9af2-6ea31b268f7e",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4574,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 228,
+  "chapter_title": "pa-ba-daaman ho raha hoon baske main sahra-navard",
+  "chapter_slug": "228-pa-ba-daaman-ho-raha-hoon-baske-main-sahra-navard",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2df9009d-6270-4fa6-8f1e-d71ed203ff2c",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 123,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2fcb4b99-9cbd-4f21-8643-11b91b5877dc",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 123,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "5d90594f-2c50-4946-bb5a-0758a66a4bb2",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 214,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

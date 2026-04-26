@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 11,
+  "chapter_title": "Asad hum woh junoon-jolaan gada-e-be-sar-o-pa hain",
+  "chapter_slug": "11-asad-hum-woh-junoon-jolaan-gada-e-be-sar-o-pa-hain",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4ae4f7b9-3850-4d9a-9e2f-67c2866f89a2",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 11,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b62f7d69-72b8-4175-8fa5-a40cbd09bad7",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 21,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "24b05977-81d3-419d-90c9-e3134f40e36a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 11,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

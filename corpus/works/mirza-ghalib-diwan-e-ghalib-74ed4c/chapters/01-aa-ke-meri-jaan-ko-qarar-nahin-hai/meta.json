@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 1,
+  "chapter_title": "Aa ke meri jaan ko qarar nahin hai",
+  "chapter_slug": "01-aa-ke-meri-jaan-ko-qarar-nahin-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "de8afeb9-30fa-43f9-9e09-63a0c1b8de49",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 85,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c9fc596d-d261-4f75-b9d9-172c44d3ba8d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 85,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "fb74b4a3-0bdc-44df-8f3c-0ab8b788e598",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 150,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

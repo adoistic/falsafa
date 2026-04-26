@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 34,
+  "chapter_title": "Parallèle entre la portion de richesses qui est laissée à la classe laborieuse, et la portion de ric",
+  "chapter_slug": "34-parallele-entre-la-portion-de-richesses-qui-est-la",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "86ccd9b3-ed8f-41f6-8c1d-db5ebc2fddc2",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 7711,
+      "paragraph_count": 72,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "51e11cd5-4da3-4604-ad43-acdd32b4600d",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 7483,
+      "paragraph_count": 69,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

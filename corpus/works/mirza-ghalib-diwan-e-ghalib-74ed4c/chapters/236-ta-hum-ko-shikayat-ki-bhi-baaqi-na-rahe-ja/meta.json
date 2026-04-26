@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 236,
+  "chapter_title": "ta hum ko shikayat ki bhi baaqi na rahe ja",
+  "chapter_slug": "236-ta-hum-ko-shikayat-ki-bhi-baaqi-na-rahe-ja",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "634078f3-964b-4dab-ae64-05f6ff0ea1c9",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 35,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "08f925c1-a96f-4011-ae79-33062ec25a5a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 38,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "1775dc59-2550-4349-ae0d-d512f9501758",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 35,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 15,
+  "chapter_title": "Des lois destinées à prévenir le déboisement des montagnes.",
+  "chapter_slug": "15-des-lois-destinees-a-prevenir-le-deboisement-des-m",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3aed0bec-60b1-4ab5-8530-909167ca5f2b",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6475,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "10c9614f-69d3-4153-925c-c53f983aef34",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6714,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

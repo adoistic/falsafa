@@ -1,0 +1,51 @@
+{
+  "work_slug": "unknown-old-english-elegies-d5fe9e",
+  "work_title": "Old English Elegies",
+  "chapter_number": 6,
+  "chapter_title": "Maxims I",
+  "chapter_slug": "06-maxims-i",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "08a58a47-112b-4ce0-8f8e-31790d764dc6",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 1479,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_13.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cd446194-74f5-4ae4-acc3-98d809acace6",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 1955,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "23464b75-9f16-4a85-a0c9-06aa288e9620",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 1479,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_13.htm"
+    }
+  ]
+}

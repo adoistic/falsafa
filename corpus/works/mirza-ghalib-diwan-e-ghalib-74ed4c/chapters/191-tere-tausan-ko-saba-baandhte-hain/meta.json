@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 191,
+  "chapter_title": "Tere tausan ko saba baandhte hain",
+  "chapter_slug": "191-tere-tausan-ko-saba-baandhte-hain",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f4e4c15f-a253-4531-8bd1-b05329e268ab",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 149,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4c84d989-65c3-4a6f-a5aa-9e4fc45559d4",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 149,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a56bc872-4276-4178-aa3c-32824dcd4b96",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 252,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

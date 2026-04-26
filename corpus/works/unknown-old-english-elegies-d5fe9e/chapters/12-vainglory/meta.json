@@ -1,0 +1,51 @@
+{
+  "work_slug": "unknown-old-english-elegies-d5fe9e",
+  "work_title": "Old English Elegies",
+  "chapter_number": 12,
+  "chapter_title": "Vainglory",
+  "chapter_slug": "12-vainglory",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "74834f9b-4fdb-4eb0-b136-f169c6da9209",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 501,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_10.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "83574aca-3a1f-486d-aee1-4b5a91e12e7c",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 650,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "22dfbd4d-1e02-47d4-9c52-9bb51ebe1edf",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 474,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

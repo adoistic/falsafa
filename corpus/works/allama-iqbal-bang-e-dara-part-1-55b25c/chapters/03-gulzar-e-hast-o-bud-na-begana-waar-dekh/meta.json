@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 3,
+  "chapter_title": "Gulzar-e-hast-o-bud na begana-waar dekh",
+  "chapter_slug": "03-gulzar-e-hast-o-bud-na-begana-waar-dekh",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "944f9336-7023-4c2f-9073-ec848981210e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 83,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/ghazals/01.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b4e31761-f8c8-4156-8942-3f397d86ac48",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 89,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "414efc08-7591-43a9-894a-84585e5a8ecf",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 58,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

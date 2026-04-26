@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 52,
+  "chapter_title": "Zakhmi hoon tere naavak-e-duzdida-nazar se",
+  "chapter_slug": "52-zakhmi-hoon-tere-naavak-e-duzdida-nazar-se",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1602e541-c582-41c9-a83b-2a45f060f543",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 228,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "43867121-28fb-4079-9bf2-1613adf6d6cd",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 303,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "36c50793-3ddf-4f18-980c-bc5181ef755b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 228,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

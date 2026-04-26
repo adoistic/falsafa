@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 9,
+  "chapter_title": "Barq mera aashiyan kab ka jala kar le gayi",
+  "chapter_slug": "09-barq-mera-aashiyan-kab-ka-jala-kar-le-gayi",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6dee11af-3aae-4f4e-acdf-38ea2420cfaa",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 254,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "70b11e5a-1c9c-48ef-8e00-b0653b0c50f1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 255,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "1dc06f7f-21f3-43ae-8511-3087bb309818",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 350,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

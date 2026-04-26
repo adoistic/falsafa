@@ -1,0 +1,60 @@
+---
+work_id: "6beea56e-daa2-4462-a9ed-041727f53bfd"
+work_slug: "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+work_title: "Traité de la propriété: VOL II"
+author_name: Charles Comte
+chapter_number: 48
+chapter_title: Des définitions de la propriété, par la puissance législative.
+chapter_slug: "48-des-definitions-de-la-propriete-par-la-puissance-l"
+variant_id: "c1038bb9-51bd-4716-a990-c12bafacf399"
+content_type: original
+layout: prose
+language: French
+source_language: French
+language_direction: ltr
+script: latin
+word_count: 1745
+estimated_read_time: 9
+curator: thothica
+---
+
+## CHAP. 48: Des définitions de la propriété, par la puissance législative.
+
+DES philosophes et des jurisconsultes célèbres nous ont appris, ainsi qu'on l'a vu dans le chapitre précédent, que la propriété n'est pas inhérente à la nature humaine, et qu'elle ne doit l'existence qu'à la loi civile, c'est-à-dire aux déclarations et à la protection de l'autorité publique. Cette opinion n'a pas été généralement partagée par les peuples qui, après avoir fait la conquête de leur indépendance, ont été appelés à donner à la puissance législative, une organisation et des limites. Tous, en effet, loin de reconnaître à cette puissance la faculté de donner l'existence à la propriété, lui ont imposé le devoir de la respecter et de la protéger.
+
+On trouve à la tête de presque toutes les constitutions américaines, l'énumération des divers objets qui sont, en quelque sorte, placés au-dessus de tous les pouvoirs sociaux, et qu'il est du devoir de chacun d'eux de respecter et de faire respecter: de ce nombre sont la liberté des cultes, la faculté de publier son opinion sur toutes choses, celle de défense personnelle, celle d'acquérir et de posséder des propriétés et de les défendre.
+
+Cet exemple a été suivi par la France, dans les diverses constitutions qu'elle s'est données, ou auxquelles elle a été soumise depuis la révolution de 1789. Nous lisons, en effet, dans le titre des *Dispositions fondamentales garanties par la constitution*, du 3 septembre 1791, que la constitution garantit l'inviolabilité des propriétés, ou la juste et préalable indemnité de celles dont la nécessité publique, légalement constatée, exigerait le sacrifice. Nous y lisons, de plus, que le pouvoir législatif ne pourra faire aucune loi qui porte atteinte et mette obstacle à l'exercice des droits naturels et civils consignés dans le présent titre, et garantis par la constitution.
+
+La constitution du 24 juin 1793, la plus démocratique qu'on ait jamais faite, renferme des dispositions semblables. Elle déclare que le gouvernement est institué pour garantir à l'homme la jouissance de ses droits naturels, et elle met au nombre de ces droits, l'égalité, la liberté, la sûreté, la *propriété*. Elle définit la propriété, le droit qui appartient à tout citoyen de jouir et de disposer à son gré de ses biens, de ses revenus, du fruit de son travail et de son industrie. Elle ajoute ensuite que nul genre de travail, de culture, de commerce, ne peut être interdit à l'industrie des citoyens, et garantit ainsi à chacun la faculté de former des propriétés nouvelles. Enfin, après avoir fait connaître quels sont les droits naturels que la constitution garantit, elle déclare que, lorsque le gouvernement viole les droits du peuple, l'insurrection est pour le peuple, et pour chaque portion du peuple, le plus sacré des droits et le plus indispensable des devoirs.
+
+Ces dispositions, à l'exception de la dernière, ont été de nouveau proclamées par la constitution du 5 fructidor an III (22 août 1795). Ainsi, on déclare, par cette constitution, que les droits de l'homme en société sont la liberté, l'égalité, la sûreté, la *propriété*. L'on définit la propriété, le droit de jouir et de disposer de ses biens, de ses revenus, du fruit de son travail et de son industrie. Enfin, on déclare que la constitution garantit l'inviolabilité de toutes les propriétés, ou la juste indemnité de celles dont la nécessité publique, légalement constatée, exigerait le sacrifice [^314].
+
+La constitution consulaire, du 22 frimaire an VIII (13 décembre 1799), est muette sur la propriété en général, comme sur tous les droits que les constitutions antérieures avaient garantis. Il semble que les auteurs de cette constitution prévoyaient que bientôt ils auraient à rétablir la confiscation dans le Code pénal, et qu'ils écartaient d'avance les obstacles qui auraient pu s'opposer à l'accomplissement de leurs projets.
+
+Le Code civil définit la propriété, le droit de jouir et de disposer des choses de la manière la plus absolue, pourvu qu'on n'en fasse pas un usage prohibé par les lois ou par les réglemens. Il déclare, de plus, que nul ne peut être contraint de céder sa propriété, si ce n'est pour cause d'utilité publique, et moyennant une juste et préalable indemnité [^315].
+
+Enfin, la charte de 1814, amendée en 1830, déclare que toutes les propriétés sont inviolables, sans aucune exception de celles qu'on appelle nationales, la loi ne mettant aucune différence entre elles; et que l'État peut exiger le sacrifice d'une propriété pour cause d'intérêt public légalement constaté, mais avec une indemnité préalable [^316].
+
+Il résulte des dispositions qui précèdent que, par les constitutions de 1791, de 1793, de 1795, comme par la charte de 1814, on a voulu mettre toutes les propriétés hors des atteintes qui pourraient y être portées, non-seulement par les particuliers, mais par les divers pouvoirs de l'État. On a voulu qu'elles fussent à l'abri des entreprises des Chambres et du roi, aussi bien que des attaques des ministres et de leurs agens; car une constitution n'est pas moins obligatoire pour les pouvoirs qui font les lois, que pour ceux qui les exécutent. L'autorité publique doit donc protéger les propriétés comme les personnes; mais elle ne donne pas l'existence aux unes plus qu'elle ne la donne aux autres.
+
+La propriété n'a pas changé de nature depuis 1789; et cependant on ne l'a pas toujours définie de la même manière. En faisant l'analyse des divers élémens qui la constituent, j'ai précédemment fait voir qu'en général, les hommes désignent par ce mot certaines choses considérées relativement à certaines personnes, et dont la jouissance et la disposition sont assurées à celles-ci, par l'autorité publique. C'est dans le même sens que ce mot est entendu par les lois qui garantissent à chacun la disposition de ses biens, et qui répriment les atteintes qui y sont portées. Il est clair, par exemple, que la loi qui détermine les conditions sous lesquelles une personne peut être obligée de céder à l'État sa propriété, pour cause d'utilité publique, entend, par ce mot, certains objets matériels, tels que des fonds de terre ou des maisons. Il n'est pas moins évident que les lois qui répriment les atteintes à la propriété, entendent généralement, par la même expression, des choses matérielles. Les voleurs qui dévalisent un voyageur ne portent atteinte à ses droits qu'en s'emparant de choses matérielles qui sont sa propriété.
+
+Cependant les définitions données de la propriété, soit par les constitutions de 1795 et de 1795, soit par le Code civil, la font consister, non dans les choses dont on a le droit de jouir et de disposer, mais dans le droit de jouir et de disposer des choses. Cette différence dans les expressions n'est pas, comme on pourrait être tenté de le croire, sans importance. Il est facile d'observer comment se forment, se conservent et se transmettent ces choses, auxquelles nous donnons le nom de propriétés ; mais il est moins aisé d'observer comment se forment se conservent et se transmettent ce qu'on appelle des droits. Les hommes qui, chez une nation, sont investis du pouvoir de faire des lois, n'éleveront jamais la folle prétention d'être les créateurs des choses que nous appelons des propriétés. On ne trouverait point étrange qu'ils se prétendissent les créateurs de tous les droits; il n'est même pas très-rare de voir de pareilles prétentions se manifester.
+
+, Si la définition du Code civil était admise, il s'en suivrait que la puissance législative, et même les simples agens du gouvernement, pourraient disposer des propriétés de la manière la plus absolue, sans crainte d'être accusés d'y porter atteinte. Une loi qui défendrait à une personne de semer dans sa terre aucune espèce de grains, d'y planter des vignes ou des arbres, d'y élever aucune construction, ou qui lui interdirait de la vendre, de l'échanger, de la donner, ne serait pas une atteinte à la propriété. Ne pourrait-on pas dire, en effet, après qu'elle aurait été rendue, comme auparavant, que le propriétaire a le droit de jouir et de disposer de sa chose de la manière la plus absolue, pourvu qu'il n'en fasse pas un usage prohibé par les lois? Une personne pourrait donc être dépouillée de presque tous les avantages de la propriété, sans que la définition du Code civil cessât d'être exacte, et qu'on eût besoin de la modifier. Ce n'est pas seulement par des lois que les propriétés pourraient être réduites à rien, mais aussi par des *réglemens*.
+
+La définition du Code civil est tellement inexacte, qu'elle peut s'appliquer à toute autre chose qu'à l'objet défini, et que les gouvernemens les plus despotiques pourraient l'adopter sans lui faire subir aucune modification, et sans craindre qu'elle leur fit éprouver aucune entrave. Un fermier, un usufruitier, un usager, ont le droit de jouir et de disposer de la manière la plus absolue de la chose qu'ils détiennent à titre de ferme, d'usufruit ou d'usage, pourvu qu'ils n'en fassent pas un usage prohibé par les lois ou par les réglemens. Les Egyptiens, écrasés sous le poids des monopoles, peuvent, comme nous, jouir et disposer de leurs biens de la manière la plus absolue, pourvu qu'ils n'en fassent pas un usage prohibé par les lois et par les réglemens de leur pacha [^317].
+
+Il ne faut pas être surpris si les hommes qui ont tenté de donner, en quelques lignes, une définition exacte et complète de la propriété, ont tous échoué; une telle définition ne me semble pas possible, moins d'y consacrer plusieurs volumes. Il faut ajouter que l'influence des lois romaines, des doctrines du moyen-âge, et des erreurs de quelques grands écrivains, suffisaient pour égarer les meilleurs esprits.
+
+Les définitions données par la puissance législative peuvent être utiles, quand elles renferment un commandement ou une défense, ou qu'elles ont pour objet de déterminer des actes qu'on est tenu d'exécuter ou de s'interdire; mais quand elles n'ont pas d'autre objet que de faire connaître la nature des choses, elles sont inutiles et dangereuses; il faut les laisser à la science. En fait de doctrines, un législateur n'a pas plus d'autorité qu'un simple particulier, à moins qu'on ne commence par admettre en principe qu'il est infaillible.
+
+---
+
+### Notes
+
+[^314]: Art. 1, 5 et 358.
+[^315]: Art. 544 et 545.
+[^316]: Art. 9 et 10.
+[^317]: Une définition de la propriété, par Robespierre, publiée récemment par une société politique, a soulevé l'indignation d'un grand nombre de personnes. Cette définition n'est pas bonne; mais elle n'est pas plus mauvaise que d'autres qu'on adopte sans examen. Elle est fondée sur l'erreur fort répandue que c'est la loi civile qui donne l'existence à la propriété.

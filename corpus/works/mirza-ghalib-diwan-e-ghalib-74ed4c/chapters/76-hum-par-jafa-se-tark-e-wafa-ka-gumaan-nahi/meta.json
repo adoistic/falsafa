@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 76,
+  "chapter_title": "Hum par jafa se tark-e-wafa ka gumaan nahi",
+  "chapter_slug": "76-hum-par-jafa-se-tark-e-wafa-ka-gumaan-nahi",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5b126458-8ca4-46cc-b387-8acdbbb9edce",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 228,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3bbff8e2-095c-4ae3-887a-8bbfb42ce86b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 390,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "d9f9bd9a-efd7-4c3a-8164-7f507232db26",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 230,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

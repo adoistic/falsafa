@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+  "work_title": "Traité de Législation: VOL IV",
+  "chapter_number": 11,
+  "chapter_title": "De l’influence de l’esclavage sur les mœurs de quelques peuples de l’Amérique méridionale, originair",
+  "chapter_slug": "11-de-l-influence-de-l-esclavage-sur-les-moeurs-de-qu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1d2f5617-ae3e-4cba-8b2f-8e3139676043",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4621,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "49c87fc3-7c68-4755-9c25-eeb0f3302cd1",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4514,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

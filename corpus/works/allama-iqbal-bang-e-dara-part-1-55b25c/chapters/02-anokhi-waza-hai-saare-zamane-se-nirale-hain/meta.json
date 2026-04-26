@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 2,
+  "chapter_title": "Anokhi waza hai, saare zamane se nirale hain",
+  "chapter_slug": "02-anokhi-waza-hai-saare-zamane-se-nirale-hain",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "58262d0d-c722-48d7-aefa-9c6237325fe9",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 176,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/ghazals/06.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "06a2e066-b661-40a6-9801-5eff5c42179e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 143,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "0a85c50d-009e-49ad-a782-c9dd358b8298",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 136,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

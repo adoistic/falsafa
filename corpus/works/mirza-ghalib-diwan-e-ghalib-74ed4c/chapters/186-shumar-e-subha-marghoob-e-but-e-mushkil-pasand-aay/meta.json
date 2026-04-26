@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 186,
+  "chapter_title": "Shumar-e-subha marghoob-e-but-e-mushkil-pasand aaya",
+  "chapter_slug": "186-shumar-e-subha-marghoob-e-but-e-mushkil-pasand-aay",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "71401283-90f5-440c-b37e-55e2095d9bcf",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 67,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa7ede33-e636-40ed-bfc3-ac29a999d1f4",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 56,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "fe1f7c48-3789-4240-8b42-f6a1d446a67e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 193,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

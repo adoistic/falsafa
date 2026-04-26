@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 52,
+  "chapter_title": "Du démembrement d'une propriété, pour le service ou l'utilité d'une autre propriété.",
+  "chapter_slug": "52-du-demembrement-dune-propriete-pour-le-service-ou-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1649380c-9d7f-4008-a4f9-b01ffae25cdc",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3184,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a581f3b9-4640-4413-9e6d-156f9a404c47",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3249,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 41,
+  "chapter_title": "Naala iss shor se kyun mera duhaai deta",
+  "chapter_slug": "41-naala-iss-shor-se-kyun-mera-duhaai-deta",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "933540fa-14d1-41b9-b66b-c2ba54e544e5",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 160,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1a7600e3-1097-4b80-8034-3fc652fa440d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 187,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "822f6cf1-22e2-46c4-84df-547f3d5cfb04",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 160,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

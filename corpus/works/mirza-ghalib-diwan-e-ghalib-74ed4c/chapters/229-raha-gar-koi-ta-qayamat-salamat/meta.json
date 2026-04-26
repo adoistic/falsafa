@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 229,
+  "chapter_title": "raha gar koi ta-qayamat salamat",
+  "chapter_slug": "229-raha-gar-koi-ta-qayamat-salamat",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ea060cf2-0f3d-4aa7-bee4-8a2ae9fc164f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 78,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "46c52981-e189-4e0f-9b1d-853699a122f0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 78,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "3aed0def-5cd9-47d0-a93c-e4fc688478ec",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 170,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 29,
+  "chapter_title": "Maa ka Khwab",
+  "chapter_slug": "29-maa-ka-khwab",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "03ccf831-10a6-4384-a9a9-0556e9694314",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 231,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/11.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ad5d77ee-f8c5-4b19-9b8d-ef0055b50405",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 222,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "1fad9b42-6ca5-4c82-a114-9c21f385131f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 216,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

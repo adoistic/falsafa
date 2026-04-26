@@ -1,0 +1,69 @@
+---
+work_id: "6beea56e-daa2-4462-a9ed-041727f53bfd"
+work_slug: "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+work_title: "Traité de la propriété: VOL II"
+author_name: Charles Comte
+chapter_number: 50
+chapter_title: Du mélange de propriétés mobilières appartenant à différens maîtres.
+chapter_slug: "50-du-melange-de-proprietes-mobilieres-appartenant-a-"
+variant_id: "3b05b357-d84e-45a0-8bb9-ea4a91991b7f"
+content_type: original
+layout: prose
+language: French
+source_language: French
+language_direction: ltr
+script: latin
+word_count: 2139
+estimated_read_time: 11
+curator: thothica
+---
+
+## CHAP. 50: Du mélange de propriétés mobilières appartenant à différens maîtres.
+
+Si le droit d'accession a jeté dans l'embarras les jurisconsultes qui l'ont imaginé ou adopté, quand ils en ont fait l'application à des propriétés immobilières, il a fait naître des difficultés bien plus graves quand ils ont voulu l'appliquer à des propriétés mobilières.
+
+Quand il est question d'immeubles, il est facile de voir quelle est, entre deux choses, celle qui va s'ajouter à l'autre ; s'il s'agit, par exemple, de prononcer sur la propriété d'une maison construite sur le fonds d'autrui, on ne peut pas mettre en doute si ce sont les matériaux qu'on a placés sur le fonds, ou si c'est le fonds qu'on a placé sous les matériaux. Il y a là un fait évident que l'homme le moins intelligent est capable de reconnaître; ce fait, il est vrai, ne devrait avoir qu'une bien faible influence sur la solution de questions de propriété; mais on conçoit cependant que les jurisconsultes lui aient donné une certaine importance.
+
+Mais, lorsque des choses mobilières se réunissent pour ne former qu'un seul tout, ou qu'une personne fait une chose nouvelle avec une matière qui appartient à une autre personne, quel est celui des deux propriétaires au profit de qui le droit d'accession se prononcera? S'il s'agit, par exemple d'un couteau, est-ce la propriété du manche qui entraînera la propriété de la lame, ou la propriété de la lame qui entraînera la propriété du manche par droit d'accession? Si, d'un bloc de marbre qui ne lui appartient pas, un sculpteur fait une belle statue, à qui, du statuaire ou du propriétaire du marbre, appartiendra le nouvel objet produit? Si le blé de mon voisin se mêle au mien, auquel des deux appartiendra le mélange? Les questions de ce genre ont fort embarrassé les jurisconsultes romains; et lorsque les jurisconsultes modernes les ont abordées, ils ont eu bien de la peine à découvrir des principes propres à en donner la solution.
+
+Il semble qu'aucune question n'a paru plus difficile à résoudre aux jurisconsultes de Rome, que celle de savoir à qui l'on doit adjuger une chose qu'une personne a faite avec une matière dont une autre avait la propriété. Les uns pensaient qu'il fallait l'adjuger au propriétaire de la matière, attendu que, sans matière, il ne peut pas exister de forme; les autres estimaient qu'il fallait l'adjuger à celui qui avait donné à la matière une forme nouvelle, attendu qu'il n'y a point de matière sans forme.
+
+Justinien se plaçant entre les deux sectes, n'adopta l'opinion ni de l'un ni de l'autre. Si la matière, dit-il , peut être réduite à sa première forme, la chose doit être adjugée au propriétaire de la matière ; si elle ne peut pas y être réduite, la chose appartient à l'auteur de la nouvelle forme. Quant à la question de savoir quel est l'intérêt des parties, ou quelle est celle des deux qui a la plus grande part dans la valeur de la chose produite, Justinien ne s'en occupe pas plus que les jurisconsultes entre lesquels il vient interposer son autorité, et sa décision n'est ni moins arbitraire, ni moins absurde que les leurs.
+
+Le nouvel objet fabriqué se compose-t-il d'une matière fusible, d'or, d'argent, de bronze, de fer ou d'acier? Il appartient au propriétaire de la matière, quelque grande que soit d'ailleurs la valeur que l'artiste lui a donnée. Se compose-t-il de bois, de marbre, ou de toute autre matière qui ne peut pas être rendue à sa première forme, il faut l'adjuger à celui qui l'a fabriqué. Un artiste fait une statue équestre du plus grand prix avec du bronze dont il n'a pas la propriété; c'est le propriétaire de la matière auquel on adjugera l'ouvrage. Un autre transforme une pièce de bois en une paire de sabots, et il devient ainsi propriétaire de la matière. Quel était le fondement de cette décision? Justinien lui-même n'aurait su le dire.
+
+Les rédacteurs du Code civil ont rejeté les subtiles et puériles distinctions des jurisconsultes romains; mais comme ils n'avaient pas, sur l'origine et la nature de la propriété, des idées plus claires que celles de leurs prédécesseurs, il ne leur a pas été possible de découvrir des principes généraux applicables à toutes les questions qui pourraient se présenter. L'embarras dans lequel les a jetés le droit d'accession, relativement aux choses mobilières, se manifeste dès le premier article du chapitre.
+
+> « Le droit d'accession, disent-ils, quand il a pour objet deux choses mobilières appartenant à deux maîtres différens est entièrement subordonné aux principes de l'équité naturelle. Les règles suivantes serviront d'exemple. »
+
+Pourquoi le droit d'accession est-il subordonné aux principes de l'équité naturelle, quand il a pour objet des choses mobilières, plutôt que lorsqu'il a pour objet des choses immobilières ? Ces principes, bons pour résoudre les questions auxquelles certaines propriétés peuvent donner naissance, seraient-ils mauvais, quand il s'agit de résoudre les questions que font naître des propriétés d'un autre genre? Les propriétaires de fonds de terre seraientils au-dessus des principes de l'équité naturelle, et faut-il que les règles de la justice ne soient applicables qu'aux propriétaires d'objets mobiliers?
+
+Les rédacteurs du Code civil ont donc voulu que ce qu'ils appellent droit d'accession fût subordonné aux principes de l'équité naturelle, dans les cas seulement où il a pour objet deux choses mobilières appartenant à deux maîtres; ils ont voulu qu'il cessât d'être subordonné à ces principes, toutes les fois qu'il aurait pour objet des choses immobilières, ou une chose immobilière et une chose mobilière.
+
+Mais, puisqu'ils admettaient, dans certains cas, des principes supérieurs au droit d'accession; puisque ces principes doivent servir à résoudre les questions auxquelles donne naissance le mélange de diverses propriétés appartenant à différens maîtres, pourquoi ne les a-t-on pas clairement indiqués? Etaient-ils moins clairs ou plus difficiles à trouver que le droit d'accession, auxquels on dit qu'ils sont supérieurs? c'est parce qu'on n'avait pas des idées bien claires, soit sur l'origine, soit sur la nature des propriétés.
+
+Ne pouvant énoncer clairement les principes dont les magistrats auraient à faire l'application, les rédacteurs du Code ont tenté de leur donner au moins des exemples. Les règles suivantes, ont-ils dit, serviront d'exemple au juge pour se déterminer dans les cas non prévus, suivant les circonstances particulières.
+
+Cette manière de s'exprimer est loin d'être exacte. On peut bien dire et l'on dit même souvent qu'un exemple sert de règle; mais on ne peut pas dire, en droit, qu'une règle servira d'exemple pour juger des cas différens de ceux qu'elle a déterminés. Si les cas à juger sont les mêmes qu'on a prévus, la règle n'est pas un exemple, elle est une loi; s'ils sont différens, la règle n'apprend plus rien; elle n'est pas même un exemple; il faut recourir à d'autres principes.
+
+Par les règles qu'il donne comme exemples, le Code civil décide que, lorsque deux choses appartenant à différens maîtres, qui ont été unies de manière à former un tout, sont néanmoins séparables, en sorte que l'une puisse subsister sans l'autre, le tout appartient au maître de la chose qui forme la partie principale, à la charge de payer à l'autre la valeur de la chose qui a été unie; et l'on entend par la partie principale celle à laquelle l'autre n'a été unie que pour l'usage, l'ornement et le complément de la première. Si néanmoins la chose unie était beaucoup plus précieuse que la principale, et si elle avait été employée à l'insu du propriétaire, celui-ci pourrait demander que la chose unie fût séparée, pour lui être rendue, même quand il pourrait en résulter quelques dégradations de la chose à laquelle elle aurait été jointe.
+
+Si de deux choses unies pour former un seul tout, l'une ne peut point être regardée comme l'accessoire de l'autre, celle-là est réputée principale qui est la plus considérable en valeur, ou en volume, si les valeurs sont à peu près égales.
+
+Si un artisan ou une personne quelconque a employé une matière qui ne lui appartenait pas, à former une chose d'une nouvelle espèce, soit que la matière puisse ou non reprendre sa première forme, celui qui en était le propriétaire a le droit de réclamer ce qui en a été formé, en remboursant le prix de la main-d'œuvre. Cependant, si la main-d'œuvre était tellement importante, qu'elle surpassât de beaucoup la valeur de la matière employée, l'industrie serait alors réputée la partie principale, et l'ouvrier aurait le droit de retenir la chose travaillée, en remboursant le prix de la matière au propriétaire.
+
+Lorsqu'une personne a employé en partie la matière qui lui appartenait, et en partie celle qui ne lui appartenait pas, à former une chose d'une espèce nouvelle, sans que ni l'une ni l'autre des deux matières soient entièrement détruites, mais de manière qu'elles ne puissent pas se séparer sans inconvénient, la chose est commune aux deux propriétaires, en raison, quant à l'un, de la matière qui lui appartenait; quant à l'autre, en raison à la fois de la matière qui lui appartenait, et du prix de sa main-d'œuvre.
+
+Lorsqu'une chose a été formée par le mélange de plusieurs matières appartenant à différens propriétaires, mais dont aucune ne peut être regardée comme la matière principale, si les matières peuvent être séparées, celui à l'insu duquel les matières ont été mélangées, peut en demander la division. Si les matières ne peuvent plus être séparées sans inconvénient, ils en acquièrent en commun la propriété dans la proportion de la quantité, de la qualité et de la valeur des matières appartenant à chacun d'eux. Si la matière appartenant à un des propriétaires, était de beaucoup supérieure à l'autre par la quantité et le prix, le propriétaire de la matière supérieure en valeur pourrait réclamer la chose provenant du mélange, en remboursant à l'autre la valeur de sa matière. Lorsque la chose reste en commun entre les propriétaires des matières dont elle a été formée, elle doit être licitée au profit commun.
+
+Dans tous les cas, où le propriétaire de la matière qui a été employée à son insu à former une chose d'une autre espèce, peut réclamer la propriété de cette chose, il a le choix de demander la restitution de sa matière en même nature, quantité, poids, mesure et bonté ou valeur.
+
+Ceux qui ont employé des matières appartenant à d'autres, et à leur insu, peuvent aussi être condamnés à des dommages-intérêts, s'il y a lieu, sans préjudice de poursuites extraordinaires, s'ils se sont rendus coupables de quelque délit.
+
+On a vu, dans le chapitre précédent, que lorsqu'il s'agit de choses immobilières, le Code civil distingue le possesseur de bonne foi de celui qui n'est pas de bonne foi, dans le sens légal. Nous ne trouvons pas ici la même distinction: la position de celui qui fait usage de la matière d'autrui pour composer une chose nouvelle, sachant que cette matière ne lui appartient pas, n'est pas plus mauvaise, si, d'ailleurs, il n'a commis aucun délit, qu'elle ne le serait s'il avait cru être propriétaire de la matière dont il a fait usage. Dans les deux cas, il doit payer la valeur de la matière dont il s'est servi et payer les dommages-intérêts qu'il a causés; mais il ne doit rien au-delà. S'il a commis un délit, il doit en étre puni, soit par une amende, soit autrement; mais sa bonné foi ne peut nuire, ni sa mauvaise foi profiter au propriétaire de la matière.
+
+Dans l'examen des questions qui peuvent naître de l'union de plusieurs choses appartenant à différens maîtres, ou du travail exercé par une personne sur une matière qui appartient à une autre, il est quelques principes qu'il faut ne jamais perdre de vue, si l'on ne veut pas courir le risque de s'égarer.
+
+Il faut, par exemple, ne jamais oublier que toute personne est propriétaire de la valeur à laquelle elle donne naissance, ou qu'elle a régulièrement reçue de la part du propriétaire pour en jouir et en disposer; que, si des choses appartenant à différens maîtres ont été unies pour n'en former qu'une seule, sans le concours de leurs volontés, et si elles peuvent être séparées, sans qu'il en résulte aucune destruction de valeur pour personne, il faut rendre à chacun ce qui lui appartient; que si elles ne peuvent être séparées sans qu'il en résulte une destruction de valeur, il faut, en général, adjuger la chose à celui qui l'a formée, comme étant celui à qui elle convient le mieux, ou du moins à celui qui, pour avoir la chose, a le moins à payer à l'autre ; que, dans aucun cas, il ne faut ordonner une destruction de valeur, qui ne serait pas suivie d'un avantage au moins équivalent; que celui qui a commis un délit doit en porter la peine, mais que nul ne doit s'enrichir aux dépens d'un autre, ou être appauvri par le fait d'autrui.
+
+---

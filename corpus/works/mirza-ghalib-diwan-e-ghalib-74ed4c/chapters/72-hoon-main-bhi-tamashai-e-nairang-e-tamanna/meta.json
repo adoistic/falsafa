@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 72,
+  "chapter_title": "Hoon main bhi tamashai-e-nairang-e-tamanna",
+  "chapter_slug": "72-hoon-main-bhi-tamashai-e-nairang-e-tamanna",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "182d6663-a1f2-478c-9699-e38b71f650e2",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 14,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "408387c6-26fa-42da-bd42-f7206ccb4ec7",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 14,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e876be9a-b1f7-4a0e-ab94-7607dea08282",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 21,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

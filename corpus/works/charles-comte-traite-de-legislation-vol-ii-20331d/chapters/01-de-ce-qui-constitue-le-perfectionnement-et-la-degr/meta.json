@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 1,
+  "chapter_title": "De ce qui constitue le perfectionnement et la dégradation des diverses parties de l’homme. — Des con",
+  "chapter_slug": "01-de-ce-qui-constitue-le-perfectionnement-et-la-degr",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8b17def4-4a45-4a6d-8895-d6bab427fdc3",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 8916,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79ae2ae2-3135-42ee-8fab-9dec24471944",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 8719,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

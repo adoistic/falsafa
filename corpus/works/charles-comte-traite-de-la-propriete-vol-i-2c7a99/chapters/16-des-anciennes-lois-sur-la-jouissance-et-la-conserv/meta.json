@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 16,
+  "chapter_title": "Des anciennes lois sur la jouissance et la conservation des fleuves et des rivières.",
+  "chapter_slug": "16-des-anciennes-lois-sur-la-jouissance-et-la-conserv",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5bfedb35-c90a-4d40-b306-584e35c98201",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5622,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "27310c55-fd72-4f27-9473-8acc6e51466e",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5758,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 35,
+  "chapter_title": "Dil se teri nigaah jigar tak utar gayi",
+  "chapter_slug": "35-dil-se-teri-nigaah-jigar-tak-utar-gayi",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7e7c0eba-ca0d-41d2-a6f6-0d8fa106727b",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 115,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4edcdc5a-75ad-4be3-ad44-c721fb8950de",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 177,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "eefa6ab8-c30f-4c55-9d48-0325f171e1f0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 115,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

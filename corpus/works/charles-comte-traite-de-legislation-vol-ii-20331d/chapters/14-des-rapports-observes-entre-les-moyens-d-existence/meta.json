@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 14,
+  "chapter_title": "Des rapports observés entre les moyens d’existence et la nature des gouvernements des peuples d’espè",
+  "chapter_slug": "14-des-rapports-observes-entre-les-moyens-d-existence",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0150bb73-d694-4043-b253-9986210a3691",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4651,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5f898ebf-b7cc-49b2-8e15-4a33655ed4f0",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4505,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

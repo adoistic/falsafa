@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 40,
+  "chapter_title": "Na khencho aashiq-e-tishna-jigar ke teer pehlu se",
+  "chapter_slug": "40-na-khencho-aashiq-e-tishna-jigar-ke-teer-pehlu-se",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6f7e3c8f-5a75-4d02-8104-fbfa06643978",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 183,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "063c7d37-d221-4bd3-baf6-b49f882aab73",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 181,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "93a2e81c-98fc-489b-82cf-b6edceb77e44",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 314,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

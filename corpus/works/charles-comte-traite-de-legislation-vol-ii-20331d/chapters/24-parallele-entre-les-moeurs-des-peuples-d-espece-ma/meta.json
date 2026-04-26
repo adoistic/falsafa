@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 24,
+  "chapter_title": "Parallèle entre les mœurs des peuples d’espèce malaie placés sous un climat froid, et les mœurs des",
+  "chapter_slug": "24-parallele-entre-les-moeurs-des-peuples-d-espece-ma",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7ed3cdf0-d3f4-4f27-9af9-9cfdfc303500",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2456,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54b1e456-1182-4d81-80f2-668079d50ead",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2360,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

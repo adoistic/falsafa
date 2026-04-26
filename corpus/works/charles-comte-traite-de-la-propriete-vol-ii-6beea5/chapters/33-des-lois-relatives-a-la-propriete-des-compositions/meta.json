@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 33,
+  "chapter_title": "Des lois relatives à la propriété des compositions littéraires.",
+  "chapter_slug": "33-des-lois-relatives-a-la-propriete-des-compositions",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f401f77c-8079-4e4e-b583-d6bfdad03dbb",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6282,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "57a3931d-676d-46b2-9552-2b55eb157668",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6543,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

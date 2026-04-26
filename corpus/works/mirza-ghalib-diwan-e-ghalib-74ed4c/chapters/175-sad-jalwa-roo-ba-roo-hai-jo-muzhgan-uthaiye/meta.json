@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 175,
+  "chapter_title": "Sad jalwa roo-ba-roo hai jo muzhgan uthaiye",
+  "chapter_slug": "175-sad-jalwa-roo-ba-roo-hai-jo-muzhgan-uthaiye",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "05eebe50-5ad5-48a9-8434-83cc82b06fe0",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 49,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3a5b1d8c-7470-4545-b4b1-8a8dee1766f1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 83,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "744930eb-59ac-4a9f-818f-a0c03e0c9687",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 49,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

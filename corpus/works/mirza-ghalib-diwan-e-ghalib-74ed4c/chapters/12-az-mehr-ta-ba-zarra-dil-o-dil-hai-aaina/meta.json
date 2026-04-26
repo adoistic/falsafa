@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 12,
+  "chapter_title": "Az mehr ta-ba-zarra dil-o-dil hai aaina",
+  "chapter_slug": "12-az-mehr-ta-ba-zarra-dil-o-dil-hai-aaina",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2a0203c0-c9ce-4181-89d2-c54e5a16eb3e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 58,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b285a1e5-1529-4320-af60-9cecff13b8ba",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 59,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "02d078ec-3b45-4fd1-9cbd-fe025c0ab5c6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 151,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

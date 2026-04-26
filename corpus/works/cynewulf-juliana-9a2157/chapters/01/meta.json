@@ -1,0 +1,50 @@
+{
+  "work_slug": "cynewulf-juliana-9a2157",
+  "work_title": "Juliana",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dd1801f8-b775-4bbc-97e6-fa61b2230c9a",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 4285,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_05.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4b732506-3fba-4d7a-8304-39deb34b21f3",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 5890,
+      "paragraph_count": 45,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e9df004f-ac80-48cd-a833-12696a199d23",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 4128,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

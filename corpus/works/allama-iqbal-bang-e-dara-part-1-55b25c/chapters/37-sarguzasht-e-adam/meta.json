@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 37,
+  "chapter_title": "Sarguzasht-e-Adam",
+  "chapter_slug": "37-sarguzasht-e-adam",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ef4fcee5-67ee-41d1-bb13-f3f40aeff2e0",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 292,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/38.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ceef054f-1381-427d-9301-19aa50a2308e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 363,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "8ae499e2-0e89-4641-b2fd-0b07fcd9c430",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 254,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/38.htm"
+    }
+  ]
+}

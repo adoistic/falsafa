@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 19,
+  "chapter_title": "Nawa-e-Gham",
+  "chapter_slug": "19-nawa-e-gham",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4767782a-3f06-43df-af47-8cc946c77a36",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 144,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/15.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e20ec051-c3d5-4732-bdb4-a1f7dcf3cb47",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 128,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "2186df63-8ffc-4265-ba4a-7ad2ea43a772",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 115,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

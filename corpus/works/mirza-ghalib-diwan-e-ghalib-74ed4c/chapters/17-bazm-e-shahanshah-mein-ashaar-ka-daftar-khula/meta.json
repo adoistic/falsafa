@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 17,
+  "chapter_title": "Bazm-e-shahanshah mein ashaar ka daftar khula",
+  "chapter_slug": "17-bazm-e-shahanshah-mein-ashaar-ka-daftar-khula",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b36a1a6d-83f8-43dc-b9bb-d8e3feab59c5",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 178,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9ac7a260-cf9d-44db-853d-2d1cf5f36977",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 231,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "508a0778-9227-486e-95bf-8df01707e75e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 178,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

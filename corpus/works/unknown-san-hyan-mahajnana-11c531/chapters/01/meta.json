@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-san-hyan-mahajnana-11c531",
+  "work_title": "San Hyan Mahajnana",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "c2bf3b95-459b-4493-a209-c2c4a901aae3",
+      "language": "Kawi",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 4866,
+      "paragraph_count": 269,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c3e301ba-3aba-499c-adae-0b02d9846d78",
+      "language": "english",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 6836,
+      "paragraph_count": 178,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

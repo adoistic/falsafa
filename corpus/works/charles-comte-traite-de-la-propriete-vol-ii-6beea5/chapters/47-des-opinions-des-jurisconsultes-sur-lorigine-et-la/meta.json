@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 47,
+  "chapter_title": "Des opinions des jurisconsultes sur l'origine et la nature de la propriété.",
+  "chapter_slug": "47-des-opinions-des-jurisconsultes-sur-lorigine-et-la",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "89591a8d-2652-4ed6-a22c-0f84e924277f",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3194,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b3ec8b0d-af50-465e-b62c-1efcebecfe54",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3119,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

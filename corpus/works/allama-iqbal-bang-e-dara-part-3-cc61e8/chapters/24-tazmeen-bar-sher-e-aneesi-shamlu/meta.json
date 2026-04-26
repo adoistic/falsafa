@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 24,
+  "chapter_title": "Tazmeen bar sher-e Aneesi Shamlu",
+  "chapter_slug": "24-tazmeen-bar-sher-e-aneesi-shamlu",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "211a1781-4b64-4e5c-a15c-3929cff7efa7",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 169,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/06.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "592fedef-1be1-400a-9364-b7be04db90c2",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 153,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "41e51c46-7954-45db-a995-25ead8d1d6cb",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 200,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

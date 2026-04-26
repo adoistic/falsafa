@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 40,
+  "chapter_title": "Shama",
+  "chapter_slug": "40-shama",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b80c7f7e-2a34-41e7-aa6f-d2407e25bd34",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 476,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/18.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "09c5ed03-84db-4618-b241-d840b9743337",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 571,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "0684f5e5-ca25-4cbc-87a2-1f1ab24f2901",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 379,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

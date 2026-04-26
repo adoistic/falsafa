@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 115,
+  "chapter_title": "Koi ummeed bar nahin aati",
+  "chapter_slug": "115-koi-ummeed-bar-nahin-aati",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6f644595-1133-48b7-acd3-a23c11632c57",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 116,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cd298433-e2fd-4876-a126-7638cda06fae",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 178,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "0039edae-6eab-482d-85c6-e26475d7cd9a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 116,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

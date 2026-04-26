@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 41,
+  "chapter_title": "De l’influence exercée sur les peuples d’espèce malaie du grand Océan, par les circonstances locales",
+  "chapter_slug": "41-de-l-influence-exercee-sur-les-peuples-d-espece-ma",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4d6be868-514c-4e66-a6a3-f7393d5712e3",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1456,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d610f48f-13c4-47c1-adaf-815ad93a5f48",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1427,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

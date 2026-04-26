@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 18,
+  "chapter_title": "Dil",
+  "chapter_slug": "18-dil",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d8b80482-e304-412c-bccf-7c056cdadd34",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 152,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/30.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "436e8a0d-e47a-4cd9-9b6d-25ebc8da7250",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 200,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "6f6224fe-a0d9-42d4-85ca-3edc0c56b291",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 123,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

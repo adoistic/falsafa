@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 1,
+  "chapter_title": "Ajab waa'iz ki deen-daari hai ya Rabb",
+  "chapter_slug": "01-ajab-waaiz-ki-deen-daari-hai-ya-rabb",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ada94a66-1638-422a-8a32-4e7dc22b2f11",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 84,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/ghazals/03.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1cf25225-0027-423b-820a-80ad3be6af26",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 81,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "6ae70871-4f3e-4ca7-93f8-ae757fb00828",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 71,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

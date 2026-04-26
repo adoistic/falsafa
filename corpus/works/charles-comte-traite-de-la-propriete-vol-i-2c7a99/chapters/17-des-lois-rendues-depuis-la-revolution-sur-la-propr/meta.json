@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 17,
+  "chapter_title": "Des lois rendues depuis la révolution sur la propriété, l'entretien et l'usage des cours d'eau. Des",
+  "chapter_slug": "17-des-lois-rendues-depuis-la-revolution-sur-la-propr",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "30dd2f71-214b-46d0-933f-5e7d27715d61",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 8576,
+      "paragraph_count": 67,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "776b616f-fd54-4835-8875-83d0e893a05b",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 8792,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

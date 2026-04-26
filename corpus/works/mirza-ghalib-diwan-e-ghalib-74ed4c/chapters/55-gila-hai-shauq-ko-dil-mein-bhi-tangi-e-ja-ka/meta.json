@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 55,
+  "chapter_title": "Gila hai shauq ko dil mein bhi tangi-e-ja ka",
+  "chapter_slug": "55-gila-hai-shauq-ko-dil-mein-bhi-tangi-e-ja-ka",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a9fd8e57-8880-4bb4-aca4-7f52d4262d86",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 137,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b773ac9-a8cb-42ce-82ab-8be2180bd161",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 137,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e6b2fbcb-a6e3-4242-8fd1-5019e25df411",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 228,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

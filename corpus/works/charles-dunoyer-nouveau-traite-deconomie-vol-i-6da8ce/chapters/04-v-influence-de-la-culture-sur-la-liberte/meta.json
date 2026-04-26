@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+  "work_title": "Nouveau traité d'économie: VOL I",
+  "chapter_number": 4,
+  "chapter_title": "V. Influence de la culture sur la liberté.",
+  "chapter_slug": "04-v-influence-de-la-culture-sur-la-liberte",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "63a5cf89-eae1-49c5-8e6c-fb35b28f4e36",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6950,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b413819-51a4-44c6-bb4e-b512ffaa767d",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 7088,
+      "paragraph_count": 50,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

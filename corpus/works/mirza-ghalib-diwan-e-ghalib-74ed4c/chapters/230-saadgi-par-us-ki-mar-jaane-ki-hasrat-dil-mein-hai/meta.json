@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 230,
+  "chapter_title": "saadgi par us ki mar jaane ki hasrat dil mein hai",
+  "chapter_slug": "230-saadgi-par-us-ki-mar-jaane-ki-hasrat-dil-mein-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dfa20748-0006-40b6-a5fe-6d534d86f7f9",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 114,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ceb3f17-bdeb-4c0d-98ee-7a54d0e73387",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 113,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "fbe4a64b-b83a-4685-83d0-21881041c114",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 139,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

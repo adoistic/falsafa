@@ -1,0 +1,51 @@
+{
+  "work_slug": "unknown-old-english-elegies-d5fe9e",
+  "work_title": "Old English Elegies",
+  "chapter_number": 10,
+  "chapter_title": "Soul and Body II",
+  "chapter_slug": "10-soul-and-body-ii",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cb84a9b1-2e92-4a23-ad7e-bddabe6e4ff3",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 818,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_19.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ddf58089-f7d2-4322-b650-b09718893f84",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 917,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f6a29e65-e36d-431b-93ea-b3d85058d1a4",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 818,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_19.htm"
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 93,
+  "chapter_title": "Jis ja naseem shana-kash-e-zulf-e-yaar hai",
+  "chapter_slug": "93-jis-ja-naseem-shana-kash-e-zulf-e-yaar-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dd182d34-764b-4ace-8b62-80de2c614a1a",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 117,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b90e7d9d-ffd2-49e1-820a-281e70f61a41",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 215,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "b3ed7ec2-3ba4-43e6-94fe-caecc265c0ae",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 115,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

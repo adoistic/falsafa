@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 11,
+  "chapter_title": "Du développement intellectuel acquis en Asie, sous différents degrés de latitude, par des peuples d’",
+  "chapter_slug": "11-du-developpement-intellectuel-acquis-en-asie-sous-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fd5b9903-0969-4e0c-be4d-ccbd10683357",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4239,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8cdfb615-0a2b-450d-88c1-2da0972fca6d",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4153,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

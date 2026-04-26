@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 59,
+  "chapter_title": "koi in tang-dahanon se mohabbat na kare",
+  "chapter_slug": "59-koi-in-tang-dahanon-se-mohabbat-na-kare",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7a53161e-9b84-4189-b87e-4c45c86759ab",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 125,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d19af042-61ec-49d0-9e28-38b3258d6a61",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 197,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "bec0373f-797a-4d74-af4e-52da77239bd6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 125,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 4,
+  "chapter_title": "De deux éléments essentiels au progrès des sciences morales ; et de l’opposition qu’on a cru observe",
+  "chapter_slug": "04-de-deux-elements-essentiels-au-progres-des-science",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "350640e0-6e0d-4a97-94cb-b52973c90ab1",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3803,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9476f7d1-d335-4f14-9f1d-b1b3741f024d",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3767,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

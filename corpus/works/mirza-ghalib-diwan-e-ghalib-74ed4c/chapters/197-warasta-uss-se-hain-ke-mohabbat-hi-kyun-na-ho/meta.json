@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 197,
+  "chapter_title": "Warasta uss se hain ke mohabbat hi kyun na ho",
+  "chapter_slug": "197-warasta-uss-se-hain-ke-mohabbat-hi-kyun-na-ho",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c599baf1-5250-43cc-baef-d7efff053992",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 156,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8d53e43a-cc3e-4922-88de-6966d3491594",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 155,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "45fa5bfe-3422-41fa-bc03-52a1a3b82dc9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 199,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

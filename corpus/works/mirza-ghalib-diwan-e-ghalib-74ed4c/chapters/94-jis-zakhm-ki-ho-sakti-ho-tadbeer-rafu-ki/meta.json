@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 94,
+  "chapter_title": "Jis zakhm ki ho sakti ho tadbeer rafu ki",
+  "chapter_slug": "94-jis-zakhm-ki-ho-sakti-ho-tadbeer-rafu-ki",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c4ff4082-84be-424e-ad41-dd6ac387e226",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 109,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "120c27db-f380-4d25-b60e-fc044b592e9e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 139,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "43b143e4-d1f0-4ec1-acff-5a5397568b8f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 106,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

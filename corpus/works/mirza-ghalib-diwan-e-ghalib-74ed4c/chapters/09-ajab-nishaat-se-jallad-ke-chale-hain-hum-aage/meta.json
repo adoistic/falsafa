@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 9,
+  "chapter_title": "Ajab nishaat se jallad ke chale hain hum aage",
+  "chapter_slug": "09-ajab-nishaat-se-jallad-ke-chale-hain-hum-aage",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8331bb19-5215-4576-9823-a38c389fcdaf",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 119,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "24eda30d-4c2f-488e-88e1-0d9a70c47f6b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 159,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "7c3c029d-83e5-45f5-a780-7bb99e4498d9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 117,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

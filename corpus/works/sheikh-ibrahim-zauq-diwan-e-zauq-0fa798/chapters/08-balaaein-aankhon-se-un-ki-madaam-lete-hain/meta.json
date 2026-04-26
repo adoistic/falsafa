@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 8,
+  "chapter_title": "Balaaein aankhon se un ki madaam lete hain",
+  "chapter_slug": "08-balaaein-aankhon-se-un-ki-madaam-lete-hain",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "128d5381-5eaa-48a7-b64d-b22e1d8c88e4",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 154,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "754b924c-4987-4cbc-826a-cd20d5c359a9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 250,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "d9086e5e-cbdd-4185-8ce9-8521af06a5b4",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 154,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

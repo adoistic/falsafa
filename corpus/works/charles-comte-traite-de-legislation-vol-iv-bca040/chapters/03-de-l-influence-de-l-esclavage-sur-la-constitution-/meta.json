@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+  "work_title": "Traité de Législation: VOL IV",
+  "chapter_number": 3,
+  "chapter_title": "De l’influence de l’esclavage sur la constitution physique et sur les facultés industrielles des maî",
+  "chapter_slug": "03-de-l-influence-de-l-esclavage-sur-la-constitution-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "04d95870-22d9-4436-8c21-47128b868ddc",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4030,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e16b7bec-5060-42c7-9ddd-018c9f6b36e5",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3981,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

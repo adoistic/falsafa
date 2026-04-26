@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 13,
+  "chapter_title": "Distinction entre un régime arbitraire et un régime légal. De ce qui constitue la différence.",
+  "chapter_slug": "13-distinction-entre-un-regime-arbitraire-et-un-regim",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "998b0f42-a638-4fcf-a842-49843d13f058",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2117,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0eac34d5-3c14-46ac-9f3b-5d732d337c3d",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2082,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

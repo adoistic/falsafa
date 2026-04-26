@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 180,
+  "chapter_title": "Shab keh barq-e-soz-e-dil se zehra-e-abr aab tha",
+  "chapter_slug": "180-shab-keh-barq-e-soz-e-dil-se-zehra-e-abr-aab-tha",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "da2b2430-4d74-4aa2-851d-f1ab20530d6d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 103,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b895bb1d-8f07-4bfe-aa93-4930a07be80b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 181,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f6f95044-3f61-41c1-adf2-f17c5d5506c6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 103,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

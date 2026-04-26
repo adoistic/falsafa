@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 32,
+  "chapter_title": "Dhamki mein mar gaya jo na baab-e-nabard tha",
+  "chapter_slug": "32-dhamki-mein-mar-gaya-jo-na-baab-e-nabard-tha",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7a26c021-9c3c-409d-8ba0-8a00863e4ea0",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 91,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "674ae4da-4ab7-4d26-b2fa-9de9e13e3e7a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 146,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "d544da2b-8422-43b3-a6c5-e0caed345dbb",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 91,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 127,
+  "chapter_title": "Loon waam bakht-e-khufta se yak-khwaab-e-khush walay",
+  "chapter_slug": "127-loon-waam-bakht-e-khufta-se-yak-khwaab-e-khush-wal",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c0392dac-3974-4646-adb5-173accd2c27b",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 89,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3bfd3a3e-8d6e-4c0b-a7fb-ec8de0fab493",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 185,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "63c59c51-7cf0-4a9e-b476-e7639b551bea",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 89,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

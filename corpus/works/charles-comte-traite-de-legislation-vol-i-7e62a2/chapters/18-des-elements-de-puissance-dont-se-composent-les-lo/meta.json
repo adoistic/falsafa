@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 18,
+  "chapter_title": "Des éléments de puissance dont se composent les lois de la morale ; et de l’influence qu’exerce la c",
+  "chapter_slug": "18-des-elements-de-puissance-dont-se-composent-les-lo",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c2c5a19c-6ddd-47b5-b738-4e56ff47ec2b",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3865,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "39deea23-eb05-41e8-8acc-2caa22dfc22b",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3840,
+      "paragraph_count": 38,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

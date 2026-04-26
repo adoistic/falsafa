@@ -1,0 +1,39 @@
+{
+  "work_slug": "unknown-naradasmrti-7650d2",
+  "work_title": "Nāradasmṛti",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "3b6c54c7-81db-470a-a235-656dd959a98d",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 14593,
+      "paragraph_count": 1897,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aafd7766-ee2c-4646-b5e4-136ac6925dd4",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 27765,
+      "paragraph_count": 968,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 65,
+  "chapter_title": "Hairaan hoon dil ko roun ke peetun jigar ko main",
+  "chapter_slug": "65-hairaan-hoon-dil-ko-roun-ke-peetun-jigar-ko-main",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cb441e88-ea28-4fca-927c-f52e90f2e009",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 157,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c7b3af15-585c-48ba-a02e-d7e4b35bad6b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 157,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a7d3543e-7c7a-434e-b0d2-db0e4a9f9d3c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 214,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

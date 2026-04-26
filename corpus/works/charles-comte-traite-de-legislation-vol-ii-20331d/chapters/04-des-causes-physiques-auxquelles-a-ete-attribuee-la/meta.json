@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 4,
+  "chapter_title": "Des causes physiques auxquelles a été attribuée la production des diverses espèces d’hommes, et part",
+  "chapter_slug": "04-des-causes-physiques-auxquelles-a-ete-attribuee-la",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5c08b4c5-8478-4467-90f6-e500084bac0e",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4217,
+      "paragraph_count": 31,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b2175a1f-7ee9-439f-b08c-ae456234d394",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4178,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

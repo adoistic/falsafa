@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+  "work_title": "Nouveau traité d'économie: VOL I",
+  "chapter_number": 9,
+  "chapter_title": "X. Liberté compatible avec la manière de vivre des peuples chez qui le servage a été remplacé par le",
+  "chapter_slug": "09-x-liberte-compatible-avec-la-maniere-de-vivre-des-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2639df29-9c1f-4f94-9d78-11b40b06bc0b",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6948,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4f531c6d-c36d-45a3-af23-d71fa7cdc281",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 7274,
+      "paragraph_count": 43,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

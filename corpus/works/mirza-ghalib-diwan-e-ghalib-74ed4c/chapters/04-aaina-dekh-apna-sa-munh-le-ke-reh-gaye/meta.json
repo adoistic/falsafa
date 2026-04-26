@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 4,
+  "chapter_title": "Aaina dekh apna sa munh le ke reh gaye",
+  "chapter_slug": "04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "466be7a9-8a9f-41da-99b3-bbe2fcb01336",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 110,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "25f03e56-8df3-4219-ac99-c2c762dba81c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 109,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f0aaceec-1582-4cce-869e-bd9ba8b0ec2d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 146,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

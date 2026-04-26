@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 176,
+  "chapter_title": "Safaa-e-hairat-e-aaina hai saamaan-e-zang aakhir",
+  "chapter_slug": "176-safaa-e-hairat-e-aaina-hai-saamaan-e-zang-aakhir",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ab451bae-2dd9-4b3e-96d4-ba4de1d3604e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 83,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "38266480-0ab9-412e-b8bc-9bf43bce9efb",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 82,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "18fb457c-c8df-4abd-b841-bcb8ad09a236",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 142,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

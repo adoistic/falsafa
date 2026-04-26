@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 7,
+  "chapter_title": "Du développement physique acquis, en Amérique et dans les îles du grand Océan, sous différents degré",
+  "chapter_slug": "07-du-developpement-physique-acquis-en-amerique-et-da",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cea0a0af-ba13-4a54-a08c-f81ba0fab3ce",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3945,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1f3eb56a-85a9-4cf9-a9dc-1985a0d5ec08",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3763,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

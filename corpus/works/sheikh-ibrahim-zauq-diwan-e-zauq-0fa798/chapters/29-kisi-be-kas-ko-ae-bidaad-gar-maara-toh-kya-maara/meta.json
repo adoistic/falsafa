@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 29,
+  "chapter_title": "Kisi be-kas ko ae bidaad-gar maara toh kya maara",
+  "chapter_slug": "29-kisi-be-kas-ko-ae-bidaad-gar-maara-toh-kya-maara",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a747b3a7-02c5-49a4-992c-06f2b04a2db5",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 226,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "112cefb2-bd95-4be2-806e-4e2b7b578b4b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 292,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f5cb4f6d-ac7b-4a68-9a29-856aeba1c385",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 225,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

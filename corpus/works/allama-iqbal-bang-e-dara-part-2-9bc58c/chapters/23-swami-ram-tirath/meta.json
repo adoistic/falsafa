@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 23,
+  "chapter_title": "Swami Ram Tirath",
+  "chapter_slug": "23-swami-ram-tirath",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b300fe03-b006-49de-8a75-2e2403cceb61",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 123,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/04.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f5c736b4-ec90-4849-9290-5c7513b844a5",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 89,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "072c80ee-8d8d-4e6b-95ce-ab0a8bf848aa",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 118,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

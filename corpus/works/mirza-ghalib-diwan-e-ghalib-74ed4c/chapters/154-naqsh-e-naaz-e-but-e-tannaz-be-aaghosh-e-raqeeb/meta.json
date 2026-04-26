@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 154,
+  "chapter_title": "Naqsh-e-naaz-e-but-e-tannaz be-aaghosh-e-raqeeb",
+  "chapter_slug": "154-naqsh-e-naaz-e-but-e-tannaz-be-aaghosh-e-raqeeb",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fdfcac3f-657c-43c6-90de-68339bf03571",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 111,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e72639ed-bc27-4324-9b3e-5ee7d5a54bae",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 109,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "167094e8-91ab-4289-852d-49f36ca39597",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 245,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

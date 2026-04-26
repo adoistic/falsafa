@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 2,
+  "chapter_title": "Aankhein meri talwon se woh mal jaaye to achha",
+  "chapter_slug": "02-aankhein-meri-talwon-se-woh-mal-jaaye-to-achha",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ba898ea3-5f56-4208-8746-35ca73e6a9be",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 261,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "362bc3b2-68e5-4131-a554-81e08a384ad5",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 308,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "45aa4a79-8753-448e-b709-26ab48a007bf",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 260,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

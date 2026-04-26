@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 12,
+  "chapter_title": "Haqeeqat-e-Husn",
+  "chapter_slug": "12-haqeeqat-e-husn",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9bff6e93-2f9b-4c64-bfbd-9f4561b7efc2",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 131,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/02.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b0cd7325-a522-4250-a08e-e9c02f4de337",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 125,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "d60864eb-3824-48fd-9b12-5b3ec3cd3853",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 109,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

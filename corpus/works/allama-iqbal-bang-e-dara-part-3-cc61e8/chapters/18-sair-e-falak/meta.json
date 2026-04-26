@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 18,
+  "chapter_title": "Sair-e-Falak",
+  "chapter_slug": "18-sair-e-falak",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f37f0d6e-070b-4466-b667-838fe2a5ceac",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 172,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/17.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0014cbcf-ccab-4056-a3bf-7fdf85828bab",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 227,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "7681a783-5691-40e6-9108-ddf2e6d04baf",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 146,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 40,
+  "chapter_title": "De l’influence exercée sur les peuples indigènes de l’Amérique, par les circonstances locales au mil",
+  "chapter_slug": "40-de-l-influence-exercee-sur-les-peuples-indigenes-d",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "487b182c-4db6-4ffb-aee4-9718caeb9dd9",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3549,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6c48b867-c915-4437-b7cc-4d3763b6ddb0",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3496,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

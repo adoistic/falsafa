@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 42,
+  "chapter_title": "Faarigh mujhe na jaan ke maanind-e-subh-o-mehr",
+  "chapter_slug": "42-faarigh-mujhe-na-jaan-ke-maanind-e-subh-o-mehr",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e003d869-10e4-4875-a386-0ccdaf7d840f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 35,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b133ec3b-6847-48f4-9f24-91db419d9fb3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 81,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "63cfb0bb-2d75-4e83-968a-6f772c7b6e18",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 35,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

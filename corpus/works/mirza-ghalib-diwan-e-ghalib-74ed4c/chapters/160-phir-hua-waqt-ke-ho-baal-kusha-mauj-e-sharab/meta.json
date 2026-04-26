@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 160,
+  "chapter_title": "Phir hua waqt ke ho baal-kusha mauj-e-sharab",
+  "chapter_slug": "160-phir-hua-waqt-ke-ho-baal-kusha-mauj-e-sharab",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "462ee398-61d1-4fd1-8e71-14ac1af05c2a",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 140,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "30a2526e-a180-4016-9b40-9b577e6ed862",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 259,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "16bc2c6d-119f-4106-9a19-c3f64ae33e73",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 140,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

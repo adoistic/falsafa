@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 214,
+  "chapter_title": "bala se hain jo yeh pesh-e-nazar dar-o-deewar",
+  "chapter_slug": "214-bala-se-hain-jo-yeh-pesh-e-nazar-dar-o-deewar",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "56218b28-402c-41a3-9413-69e10fc986fc",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 127,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7f68b494-67e2-481c-8d60-fbded1c8ff9c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 262,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "3c7ab802-09cc-404d-9b35-dc9a0cab32ad",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 127,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 53,
+  "chapter_title": "De la classification des propriétés, ou de la distinction des biens.",
+  "chapter_slug": "53-de-la-classification-des-proprietes-ou-de-la-disti",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1a04373e-0a67-4c40-ae18-19b4019b9e01",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5754,
+      "paragraph_count": 74,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0837e5b9-8ad6-4cc0-a992-01f506e240db",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5706,
+      "paragraph_count": 72,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 24,
+  "chapter_title": "Fikr-e-insaan par teri hasti se yeh roshan hua",
+  "chapter_slug": "24-fikr-e-insaan-par-teri-hasti-se-yeh-roshan-hua",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a331f8bc-fc18-4952-96fa-ceb1d0bfbbba",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 266,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/04.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dbac5bbf-f645-4b2b-a2b6-fd9f018d34b8",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 278,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "8ded2e49-56bb-4d22-927a-2b8fea32b4f7",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 200,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

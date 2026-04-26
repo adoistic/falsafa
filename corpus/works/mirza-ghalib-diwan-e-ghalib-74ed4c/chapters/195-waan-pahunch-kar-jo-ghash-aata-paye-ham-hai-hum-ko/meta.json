@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 195,
+  "chapter_title": "Waan pahunch kar jo ghash aata paye_ham hai hum ko",
+  "chapter_slug": "195-waan-pahunch-kar-jo-ghash-aata-paye-ham-hai-hum-ko",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "99bca3e6-3488-4ce4-9c42-020225473312",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 203,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c1d2569-6a6f-4051-a0b7-0c3f5c71fd27",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 178,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "ccb32e58-4b79-4da9-9100-a79e202db3f0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 397,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

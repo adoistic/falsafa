@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 179,
+  "chapter_title": "Shab ke woh majlis-furoz-e-khalwat-e-namoos tha",
+  "chapter_slug": "179-shab-ke-woh-majlis-furoz-e-khalwat-e-namoos-tha",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9f06cf42-8f21-4845-8663-23ff912d22a7",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 93,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f0b046f2-6a5f-4ea9-9f28-a828456e1021",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 83,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "178f0c31-a56b-436e-aec0-196df33de37d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 156,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 21,
+  "chapter_title": "Saqaliya",
+  "chapter_slug": "21-saqaliya",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3c46534b-32bc-49ad-914f-d0b13b5c1935",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 306,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/24.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0a8fa0ae-0f5b-4c7b-8ca0-1277c8e9668f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 315,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "4026445b-1f41-4b6b-8971-73c1d7b86ef2",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 266,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

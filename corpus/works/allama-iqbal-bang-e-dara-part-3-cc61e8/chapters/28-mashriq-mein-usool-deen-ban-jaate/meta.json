@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 28,
+  "chapter_title": "Mashriq mein usool deen ban jaate",
+  "chapter_slug": "28-mashriq-mein-usool-deen-ban-jaate",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "064d2fab-d14f-4b5c-ab51-c6a03c484774",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 45,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/Zarifana/01.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2e581787-0750-4fe7-a1e4-59be91e547bd",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 36,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "d78a99df-6673-49b7-991e-e9e121dc38ea",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 34,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

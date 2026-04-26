@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 233,
+  "chapter_title": "sitaish-gar hai zahid is qadar jis bagh-e-rizwan ka",
+  "chapter_slug": "233-sitaish-gar-hai-zahid-is-qadar-jis-bagh-e-rizwan-k",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0656eea2-65b6-4b3f-8b3c-b2b84ddd761f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 186,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4123eda4-a03b-4935-a886-9c546d3413e6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 186,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "08bdb385-e278-484c-9307-9520e836a9f7",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 305,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

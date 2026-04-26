@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 49,
+  "chapter_title": "Examen critique des dispositions du Code civil sur la nature de la propriété.",
+  "chapter_slug": "49-examen-critique-des-dispositions-du-code-civil-sur",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d7b16229-205f-468b-86a7-22ae9afb6a01",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4072,
+      "paragraph_count": 66,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "26df7ccb-b300-4849-b78d-b2289cf5284f",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4327,
+      "paragraph_count": 65,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

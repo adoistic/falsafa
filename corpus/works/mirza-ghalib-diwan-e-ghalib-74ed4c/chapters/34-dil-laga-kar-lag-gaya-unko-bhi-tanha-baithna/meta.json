@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 34,
+  "chapter_title": "Dil laga kar lag gaya unko bhi tanha baithna",
+  "chapter_slug": "34-dil-laga-kar-lag-gaya-unko-bhi-tanha-baithna",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "47889330-4e27-427a-8e3f-fa95210abc15",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 76,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "292e878c-a008-476d-b911-f13a4d7542de",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 74,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "c7dee6a5-3eee-4f42-960a-4d67bb851e94",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 155,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

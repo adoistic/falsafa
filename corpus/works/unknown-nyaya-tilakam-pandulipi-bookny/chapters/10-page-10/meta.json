@@ -1,0 +1,39 @@
+{
+  "work_slug": "unknown-nyaya-tilakam-pandulipi-bookny",
+  "work_title": "Nyaya Tilakam Pandulipi",
+  "chapter_number": 10,
+  "chapter_title": "Page 10",
+  "chapter_slug": "10-page-10",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "manuscript",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "501bacd4-8360-4d3e-b582-f522dae8dd00",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "devanagari",
+      "word_count": 32,
+      "paragraph_count": 3,
+      "has_image": true,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4fd80316-d1da-4ae2-be1a-d417be3e6888",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 232,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

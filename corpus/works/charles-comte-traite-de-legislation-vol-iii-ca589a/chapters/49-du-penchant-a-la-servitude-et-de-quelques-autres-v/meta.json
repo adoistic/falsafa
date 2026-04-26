@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 49,
+  "chapter_title": "Du penchant à la servitude et de quelques autres vices attribués aux peuples d’espèces colorées. — D",
+  "chapter_slug": "49-du-penchant-a-la-servitude-et-de-quelques-autres-v",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "de0c568d-be82-415c-ac0b-7395035864a0",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2634,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "509f9af4-d865-44c5-beb8-fa3e677027c8",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2602,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

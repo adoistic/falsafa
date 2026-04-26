@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 0,
+  "chapter_title": "PRÉFACE",
+  "chapter_slug": "00-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d21f56f4-b74d-4c55-a60d-be7300b0a51f",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4548,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b4613f0e-96b4-4bdd-87d6-1b176b8c0514",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4639,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

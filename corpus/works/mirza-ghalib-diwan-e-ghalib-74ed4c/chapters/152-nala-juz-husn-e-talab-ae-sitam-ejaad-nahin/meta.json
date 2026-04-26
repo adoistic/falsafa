@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 152,
+  "chapter_title": "Nala juz husn-e-talab ae sitam-ejaad nahin",
+  "chapter_slug": "152-nala-juz-husn-e-talab-ae-sitam-ejaad-nahin",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d9d40996-b610-4621-8142-fbdebe516b2b",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 121,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d33f7828-6c7f-4fd6-8ae7-cff4919fb329",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 121,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "ca06b149-d804-4c20-a49c-a88f5b7db2e8",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 231,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

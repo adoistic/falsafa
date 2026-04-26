@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 19,
+  "chapter_title": "Hain dahan ghunchon ke wa kya jaane kya kehne ko hain",
+  "chapter_slug": "19-hain-dahan-ghunchon-ke-wa-kya-jaane-kya-kehne-ko-h",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "959aa29e-28b5-4ed4-b40b-9d13cebe7a36",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 121,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3d257639-635a-4146-978d-1b2729d9fcfb",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 122,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "992eafe2-cb10-40dd-9551-e33876252dad",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 183,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

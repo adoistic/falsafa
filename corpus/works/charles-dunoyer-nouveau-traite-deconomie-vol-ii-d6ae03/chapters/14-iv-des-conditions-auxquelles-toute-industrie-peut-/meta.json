@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+  "work_title": "Nouveau traité d'économie: VOL II",
+  "chapter_number": 14,
+  "chapter_title": "IV. Des conditions auxquelles toute industrie peut être libre.",
+  "chapter_slug": "14-iv-des-conditions-auxquelles-toute-industrie-peut-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4d22e441-3f17-44d9-9039-31cfcf73ea74",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 18506,
+      "paragraph_count": 137,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8fb9f402-0951-4d36-a5a3-5f893464eff3",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 19047,
+      "paragraph_count": 134,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

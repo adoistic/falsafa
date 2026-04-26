@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 30,
+  "chapter_title": "Koi kamar ko tiri kuch jo ho kamar to kahe",
+  "chapter_slug": "30-koi-kamar-ko-tiri-kuch-jo-ho-kamar-to-kahe",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e9066172-4007-4c6f-baf9-5387db9ee9aa",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 163,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "30eb4156-6c07-4666-b83f-a72df79d9e85",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 161,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "3aec1aca-f9c2-454c-b299-95c06407e4d6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 229,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

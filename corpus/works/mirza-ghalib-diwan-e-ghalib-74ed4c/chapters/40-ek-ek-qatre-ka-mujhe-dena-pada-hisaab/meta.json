@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 40,
+  "chapter_title": "Ek ek qatre ka mujhe dena pada hisaab",
+  "chapter_slug": "40-ek-ek-qatre-ka-mujhe-dena-pada-hisaab",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "947fbc5d-9197-499a-8f0c-e4226da1ce88",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 109,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "33e4b9dd-66d9-49ad-bfd6-b14b4a35b37a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 109,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e63b40e5-a332-42d8-8e50-3c288280f7a0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 180,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

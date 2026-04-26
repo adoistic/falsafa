@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 68,
+  "chapter_title": "Hareef-e-matlab-e-mushkil nahin fusoon-e-niyaaz",
+  "chapter_slug": "68-hareef-e-matlab-e-mushkil-nahin-fusoon-e-niyaaz",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "68b0303e-deb0-401d-9949-a8dc936b6d5d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 105,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "241d421c-7fa1-497e-9ebf-45b5aee100ac",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 196,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "cd76dfe7-f402-4fcf-a38d-23976ccef81d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 104,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

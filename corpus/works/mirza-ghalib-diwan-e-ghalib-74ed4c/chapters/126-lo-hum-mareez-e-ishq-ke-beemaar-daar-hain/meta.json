@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 126,
+  "chapter_title": "Lo hum mareez-e-ishq ke beemaar-daar hain",
+  "chapter_slug": "126-lo-hum-mareez-e-ishq-ke-beemaar-daar-hain",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "86460dee-278a-4a72-9ed5-dcb21858e3fb",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 15,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1ac8fae0-b0e9-44f1-b4d0-aa1f8f3afa4f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 15,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "ae759114-0493-49ca-9372-e9484c826343",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 19,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

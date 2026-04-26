@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 26,
+  "chapter_title": "Hindustani Bachon Ka Qaumi Geet",
+  "chapter_slug": "26-hindustani-bachon-ka-qaumi-geet",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0c3c0430-3039-4648-a283-01d32bc1a9dc",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 193,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/42.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5b868d32-f738-49b9-a6b4-902b6d2b6218",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 163,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "75852eee-ab0f-446f-bdfb-9165410ac9b8",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 175,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

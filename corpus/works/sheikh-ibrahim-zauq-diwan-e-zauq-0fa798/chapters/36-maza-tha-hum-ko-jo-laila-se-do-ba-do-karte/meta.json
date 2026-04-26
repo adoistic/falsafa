@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 36,
+  "chapter_title": "Maza tha hum ko jo Laila se do-ba-do karte",
+  "chapter_slug": "36-maza-tha-hum-ko-jo-laila-se-do-ba-do-karte",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "10f10a32-bae0-4e58-982a-75aa2623a301",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 140,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "513c2081-fbfb-4a3f-b1b4-8f2d789c5dc0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 248,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e95ca40a-50e3-409c-b06d-17ded22d6b62",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 139,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

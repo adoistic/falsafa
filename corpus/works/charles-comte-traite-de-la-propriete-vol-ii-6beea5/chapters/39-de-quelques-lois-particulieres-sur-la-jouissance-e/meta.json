@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 39,
+  "chapter_title": "De quelques lois particulières sur la jouissance et la disposition des propriétés, et sur la liberté",
+  "chapter_slug": "39-de-quelques-lois-particulieres-sur-la-jouissance-e",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7a206892-b16c-446d-a4ed-d1ae29e3c187",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2348,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d8602108-ea49-4095-b0ea-ad77119d66ca",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2380,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

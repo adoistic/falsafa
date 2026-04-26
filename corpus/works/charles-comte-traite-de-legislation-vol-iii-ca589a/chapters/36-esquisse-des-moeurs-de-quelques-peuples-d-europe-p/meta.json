@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 36,
+  "chapter_title": "Esquisse des mœurs de quelques peuples d’Europe. — Parallèle entre les mœurs de ceux qui habitent so",
+  "chapter_slug": "36-esquisse-des-moeurs-de-quelques-peuples-d-europe-p",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "200bce7c-8bc1-4ffd-829c-d06388080c8b",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4235,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7b683040-305c-4e39-b9ed-5eb593f20bd6",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4106,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

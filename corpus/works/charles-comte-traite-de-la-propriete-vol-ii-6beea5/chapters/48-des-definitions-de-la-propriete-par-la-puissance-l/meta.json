@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 48,
+  "chapter_title": "Des définitions de la propriété, par la puissance législative.",
+  "chapter_slug": "48-des-definitions-de-la-propriete-par-la-puissance-l",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c1038bb9-51bd-4716-a990-c12bafacf399",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1745,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bbfa30c0-4996-42e4-9b77-5d7c48072af7",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1750,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

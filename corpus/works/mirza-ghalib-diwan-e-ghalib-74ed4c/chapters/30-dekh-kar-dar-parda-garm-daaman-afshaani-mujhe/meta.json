@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 30,
+  "chapter_title": "Dekh kar dar-parda garm-daaman-afshaani mujhe",
+  "chapter_slug": "30-dekh-kar-dar-parda-garm-daaman-afshaani-mujhe",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "30059817-8cf2-4f9e-8149-5c9b59a6d66b",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 120,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "000bdeba-1a24-406b-8fcd-63f91042494e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 168,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "56c0a8cc-7a6e-4c07-b7a6-1da3a89817c6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 120,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

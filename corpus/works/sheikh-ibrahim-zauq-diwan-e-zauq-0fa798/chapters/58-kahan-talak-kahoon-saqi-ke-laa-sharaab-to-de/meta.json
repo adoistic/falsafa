@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 58,
+  "chapter_title": "kahan talak kahoon saqi ke laa sharaab to de",
+  "chapter_slug": "58-kahan-talak-kahoon-saqi-ke-laa-sharaab-to-de",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "05a58c03-1fc3-4aed-9902-ae4eb2ef9b9a",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 308,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "aed0786b-4633-4ab0-84c2-9245d9d12b0a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 482,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "85e17fd6-5892-4492-92eb-804a747a0d87",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 308,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

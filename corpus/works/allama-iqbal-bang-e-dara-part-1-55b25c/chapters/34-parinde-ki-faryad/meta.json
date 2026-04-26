@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 34,
+  "chapter_title": "Parinde Ki Faryad",
+  "chapter_slug": "34-parinde-ki-faryad",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "46e68727-6fa4-4725-8273-78e2996eee4d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 211,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/12.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bc91bf3f-e256-4102-b6c5-127eb5fdf1e8",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 193,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "d4f1a0a2-1c11-4fcd-a382-8ba2a1bb5360",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 190,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

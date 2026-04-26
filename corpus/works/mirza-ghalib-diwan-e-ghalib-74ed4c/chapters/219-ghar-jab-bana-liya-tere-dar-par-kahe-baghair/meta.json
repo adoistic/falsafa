@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 219,
+  "chapter_title": "ghar jab bana liya tere dar par kahe baghair",
+  "chapter_slug": "219-ghar-jab-bana-liya-tere-dar-par-kahe-baghair",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "118dc34f-78d3-43cf-8eb3-0276c707a8c5",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 143,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "38295786-df92-4d10-8342-85303b0b14ba",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 205,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "0383d716-be72-49f4-864e-f76aa14f9611",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 143,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

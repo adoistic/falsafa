@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 129,
+  "chapter_title": "Main unhein chherun aur kuch na kahein",
+  "chapter_slug": "129-main-unhein-chherun-aur-kuch-na-kahein",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8c3d8303-abfc-43ac-a1d6-e760b4700122",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 53,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8af2a66e-ecc7-4d15-b92f-3bb392a20354",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 75,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "38425619-cd81-48c3-8d24-33b4843f81a5",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 54,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

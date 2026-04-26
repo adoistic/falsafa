@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 56,
+  "chapter_title": "Gulshan ko teri sohbat az-bas-keh khush aayi hai",
+  "chapter_slug": "56-gulshan-ko-teri-sohbat-az-bas-keh-khush-aayi-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "943d2752-88ff-4935-a051-9ff680962bfe",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 42,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e4cb9fea-6e85-4e85-86d7-ac079be4cec7",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 66,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "56c4f2f0-2481-4642-88d4-28765ea6c57a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 42,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 39,
+  "chapter_title": "Shair",
+  "chapter_slug": "39-shair",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9b3bdfe4-fe96-4624-8245-8e848a726196",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 62,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/29.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d5595787-556e-4b87-8558-e5d7ef131866",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 51,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "79f10088-a742-44f2-a632-0c3476f18576",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 46,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/29.htm"
+    }
+  ]
+}

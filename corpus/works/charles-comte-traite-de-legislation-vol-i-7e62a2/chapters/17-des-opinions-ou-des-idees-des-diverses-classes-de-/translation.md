@@ -1,0 +1,45 @@
+---
+work_id: "7e62a240-dc3c-4707-a810-aa46aed7cff2"
+work_slug: "charles-comte-traite-de-legislation-vol-i-7e62a2"
+work_title: "Traité de Législation: VOL I"
+author_name: Charles Comte
+chapter_number: 17
+chapter_title: Des opinions ou des idées des diverses classes de la population, considérées comme éléments de la pu
+chapter_slug: "17-des-opinions-ou-des-idees-des-diverses-classes-de-"
+variant_id: "e6baea05-4f99-486d-8bad-80d0b4464e10"
+content_type: translation
+layout: prose
+language: english
+source_language: French
+language_direction: ltr
+script: latin
+word_count: 1509
+estimated_read_time: 8
+translator: thothica
+---
+
+## CHAP. 17: > Of the opinions or ideas of the diverse classes of the population, considered as elements of the power of laws.
+
+Having expounded how the physical and moral affections of the diverse classes of the population are among the elements of the powers to which we give the names of laws, perhaps some people will find that it was not necessary to speak of the power of opinions or ideas. It is possible, in effect, that our opinions act upon us, or determine us to act upon others, only by awakening one of our passions, by inspiring fears or hopes in us, by exciting sentiments of sympathy or antipathy. Those who would believe that men can be moved only by their physical or moral affections, and that it is impossible to affect them for good or for ill, otherwise than in their physical organs or in their moral sentiments, can consider this chapter as a sequel to the preceding ones.
+
+Jurisconsults and political writers are, in general, disposed to consider the opinions and thoughts of the men who govern as one of the principal elements of laws, and almost as the only one; when they have expounded what they call the thought or the spirit of the legislator, they believe they have nothing more to say. The men who are invested with public authority do not find it amiss that laws are considered as the expression of their thought or that of their predecessors. They are flattered, on the contrary, by this manner of judging, because it is a proof of their power. Is there a finer prerogative than that of impressing upon nations whatever direction one wishes, by the sole force of one's thought? Finally, nations themselves are pleased to believe that they obey only an intellectual and invisible power: this way of considering power gives them an air of liberty, which can take the place of the reality. I have therefore little to fear of being contradicted, if I say that the opinions or thoughts, whether of the men who govern, or of the other classes of the population, are one of the elements of which the law is composed.
+
+Why do philosophers, peoples, and governments take pleasure in considering the dispositions of laws as the expression of the thought of such and such men, rather than as the expression of their physical needs, or their moral affections? If one says that such a disposition of the law was the expression of the thought of such a prince, of Claudius or of Nero, for example, no one will find this manner of expressing oneself unjust or offensive. But if one said that it was the expression of his sensuality, his appetite, his luxury, his pride, his fears, or his contempt for the human race, one would offend a multitude of vanities and prejudices. A thought appears to be a neutral and in a way impartial authority; a need or a passion are active and partial powers, which always carry with them ideas of pleasures or pains.
+
+A people may not be offended if one demonstrates to it that a part of the dispositions of its laws, those that pertain to political organization, for example, were conceived by unsound minds. But one will singularly wound its vanity if one shows it that the principal elements of force of which these laws are composed are found in the needs and in the passions of the class of men that dominates over all the others: if one demonstrates to it that the elements of such a power, to which it gives the name of *law, * are found in the hunger, thirst, lust, laziness, luxury, vanity, pride, hatred, fear of such and such a class of individuals. These individuals, who would not have found it amiss that the laws be presented as the expression of their thoughts, would be vexed, in their turn, that one saw in them the expression of their needs or their passions; even the most sensual men want to pass for Platonists as soon as they are in possession of power; they want one to imagine that they are governed and govern only by their *ideas * and by those of their agents,
+> *Submitting to the spirit the animal part,*
+> *Whose coarse appetite reduces us to beasts.*
+
+Peoples who have the greatest influence on their political laws are no less directed by their physical needs and by their passions than the most unpopular governments. The principal difference that exists between the one and the other is that, in one case, the physical needs and the affections of all become one of the principal elements of the laws, whereas, in the other, it is the needs and passions of a small number. Peoples, however, are no less attached than absolute governments to seeing, in the dispositions of their laws, only the expression of their thoughts. Unable to hide from themselves that they have needs and passions, it seems that they would like to hide from themselves at least that these needs and these passions are powers to which they obey.
+
+In expounding this phenomenon, it is a fact that I am observing, and not a critique in which I am engaging; this fact is in the nature of man, and consequently it is indestructible. In saying, moreover, that the physical needs and the affections of such and such a class of the population are among the elements of power of which laws are composed, I do not claim to say that these affections or these needs are malevolent by their own nature. There are benevolent affections, as there are malevolent ones, and the former sometimes have more energy than the latter. It cannot, therefore, be a question of preventing the ones and the others from forming one of the elements of the power of laws; all that one can propose is to make the ones dominate to the exclusion of the others.
+
+But how do ideas or opinions form a part of the power of laws? By the influence they exercise on the nature and force of the affections, on the extent of needs, and on the means of satisfying them. I have shown previously how, by submitting to observation the nature, causes, and consequences of human habits and actions, one succeeds in modifying the ones and the others; and it is evident that this modification operates only through that which takes place in opinions and judgments.
+
+When a law is established, the elements of force of which it is composed are found in the ideas, needs, affections of the part of the population that is then the most influential. It seems, therefore, that it ought to weaken and die out as the men who had these ideas, these needs, or these affections, disappear. This is in fact what would happen if these men were not replaced by others having exactly the same needs, the same sentiments, the same ideas: the elements of which laws are composed have a real force only insofar as they are living.
+
+It has sometimes been said that one must see only the institutions, and take no account of the individuals: one could have said with as much truth that one must take account only of the men, and not look at the institutions. All that one can expect from institutions is to bring to the head of a government such a class of men, in preference to such another. But, in the end, it is always the passions, the needs, the ideas of such and such a class that dominate, and that form a part of the laws. There is no combination in the world that could produce upright and enlightened magistrates from the bosom of an ignorant and barbarous population: that is just as impossible as it would be to get gold from a box where you have only enclosed lead.
+
+One can consider the ideas and opinions that exist in a people, in the most influential men of society, and in the individuals who are subject to the government. When one considers them in the former, they are one of the parts of the law and form one of the elements of power of which it is composed; when one considers them in the latter, they are often one of the products of this power. If, then, it happens that, as a result of some revolution, the men of the lowest ranks find themselves brought to the first, it is in large part the same ideas that reign and that are one of the elements of the laws.
+
+I will show elsewhere what are the diverse circumstances that have formed the ideas of the men whom birth, or the hazards of fortune or of war have made masters of nations. It is enough for me to have observed here, in a general manner, that the ideas of the diverse classes of the population are one of the principal elements of which laws are composed.

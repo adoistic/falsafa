@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 20,
+  "chapter_title": "De la puissance qui appartient à chacun des éléments de force dont une loi se compose ; de l’étendue",
+  "chapter_slug": "20-de-la-puissance-qui-appartient-a-chacun-des-elemen",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b2d93cfd-8dd5-4242-b6a1-1a689a937d92",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4195,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "459587a5-f938-4b65-bc75-f4d7904ca83c",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4188,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

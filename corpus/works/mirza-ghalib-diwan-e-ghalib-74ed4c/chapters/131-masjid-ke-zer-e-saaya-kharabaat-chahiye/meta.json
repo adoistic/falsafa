@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 131,
+  "chapter_title": "Masjid ke zer-e-saaya kharabaat chahiye",
+  "chapter_slug": "131-masjid-ke-zer-e-saaya-kharabaat-chahiye",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "066275f8-a861-49e8-9ab9-7421cb5a153e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 105,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f0d17303-b21e-47c3-85ef-6bb113713a18",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 203,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "90ed6ce0-e4b1-44fb-a66c-5dff8fda3067",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 105,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

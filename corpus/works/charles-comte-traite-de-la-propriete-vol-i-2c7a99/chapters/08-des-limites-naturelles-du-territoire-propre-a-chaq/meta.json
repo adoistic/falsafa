@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 8,
+  "chapter_title": "Des limites naturelles du territoire propre à chaque nation, et à chacune des principales fractions",
+  "chapter_slug": "08-des-limites-naturelles-du-territoire-propre-a-chaq",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ad3c9a74-28d2-4959-aac0-6788f3714d8e",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6131,
+      "paragraph_count": 46,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "627391dd-e895-4021-8088-4b62bf0707f3",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6092,
+      "paragraph_count": 44,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

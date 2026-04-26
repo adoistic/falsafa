@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 192,
+  "chapter_title": "Tu dost kisu ka bhi sitam-gar na hua tha",
+  "chapter_slug": "192-tu-dost-kisu-ka-bhi-sitam-gar-na-hua-tha",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "025eab09-28ab-4f6f-b618-2a5b0c3577ce",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 100,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0679283d-465d-4901-bde4-1b9db7af2be9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 100,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e9e81d0f-d9b2-4c0e-80ea-756775baf1ef",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 159,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

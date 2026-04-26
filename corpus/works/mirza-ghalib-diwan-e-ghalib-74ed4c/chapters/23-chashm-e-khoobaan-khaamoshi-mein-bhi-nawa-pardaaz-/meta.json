@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 23,
+  "chapter_title": "Chashm-e-khoobaan khaamoshi mein bhi nawa-pardaaz hai",
+  "chapter_slug": "23-chashm-e-khoobaan-khaamoshi-mein-bhi-nawa-pardaaz-",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eac3a0e5-834d-4c39-92c9-343c8ce1127a",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 74,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "45aac26b-b54c-4bc9-b995-cea28d8a14c5",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 74,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "d64c025b-1d1e-43dc-b947-bf0f1587a4d3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 147,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

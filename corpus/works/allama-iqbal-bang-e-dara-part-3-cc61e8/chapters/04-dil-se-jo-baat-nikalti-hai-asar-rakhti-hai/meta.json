@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 4,
+  "chapter_title": "Dil se jo baat nikalti hai asar rakhti hai",
+  "chapter_slug": "04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "838d6c91-47a4-41c4-a7e5-84933baa0b31",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 1805,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/28.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e89ec121-fbd9-485e-ac27-51661d91cf0a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 2284,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "96463e2d-5d22-44da-b869-a4bac688521e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 1545,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

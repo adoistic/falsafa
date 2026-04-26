@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 67,
+  "chapter_title": "Har qadam doori-e-manzil hai numayan mujh se",
+  "chapter_slug": "67-har-qadam-doori-e-manzil-hai-numayan-mujh-se",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d0453702-8698-4f62-8863-f1266bbe9a52",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 124,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b5ff1db5-eba4-4e2e-95e9-e6ab9f6cd2ba",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 286,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "09639799-007e-4676-8f74-c281e5eae3ad",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 124,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

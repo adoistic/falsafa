@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 169,
+  "chapter_title": "Rashk kehta hai ke us ka ghair se ikhlas haif",
+  "chapter_slug": "169-rashk-kehta-hai-ke-us-ka-ghair-se-ikhlas-haif",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bc6af4d2-e230-4769-94c3-4f54b2ad641b",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 127,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "58657b19-2742-4d78-b40e-d631522c3234",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 232,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "58f76cbf-8f62-4a9b-abdb-497adbf674bb",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 127,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

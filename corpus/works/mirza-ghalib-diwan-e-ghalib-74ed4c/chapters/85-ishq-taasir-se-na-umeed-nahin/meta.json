@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 85,
+  "chapter_title": "Ishq taasir se na-umeed nahin",
+  "chapter_slug": "85-ishq-taasir-se-na-umeed-nahin",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a1c70a76-b8d9-40e9-acfc-a66af8960f70",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 54,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "be267321-a45b-4423-a918-d08bbdfecfd6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 54,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "410115ed-9a35-4837-a508-803b4208db72",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 107,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

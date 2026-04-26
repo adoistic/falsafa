@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 13,
+  "chapter_title": "Du développement moral des peuples de diverses espèces. — De l’analogie qui existe entre les mœurs e",
+  "chapter_slug": "13-du-developpement-moral-des-peuples-de-diverses-esp",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f89c03ce-4717-4c9f-a367-be3541b0d523",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2350,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b2aa3b05-3fda-4f5c-924d-8dc017b62bfa",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2324,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 26,
+  "chapter_title": "Des limites qu'imposent à chaque propriété, les propriétés dont elle est environnée.",
+  "chapter_slug": "26-des-limites-quimposent-a-chaque-propriete-les-prop",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3056fb5c-5021-404d-ab24-9f70e87c9a2f",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2897,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "269c86ea-e9e8-40d6-92c8-0acd928be9b7",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2966,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

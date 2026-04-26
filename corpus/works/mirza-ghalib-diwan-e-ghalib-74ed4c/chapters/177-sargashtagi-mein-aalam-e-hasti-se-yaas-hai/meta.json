@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 177,
+  "chapter_title": "Sargashtagi mein aalam-e-hasti se yaas hai",
+  "chapter_slug": "177-sargashtagi-mein-aalam-e-hasti-se-yaas-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d714f718-6910-4bd9-a887-04fcab9fa51f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 104,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2d943178-ee3c-4024-bcda-e7eebd11e35b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 103,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "6f62f941-ce36-47f7-9feb-1dea7257016f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 130,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

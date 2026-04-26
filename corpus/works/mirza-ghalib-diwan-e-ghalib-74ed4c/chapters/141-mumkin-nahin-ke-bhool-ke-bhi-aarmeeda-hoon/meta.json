@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 141,
+  "chapter_title": "Mumkin nahin ke bhool ke bhi aarmeeda hoon",
+  "chapter_slug": "141-mumkin-nahin-ke-bhool-ke-bhi-aarmeeda-hoon",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "29973d8b-ccbd-4836-9183-17428cbcf628",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 98,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e5243293-7f27-4042-9420-6e6cf53a5135",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 98,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "26d84b3f-d6ad-479a-ba56-9843c41cdd15",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 173,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

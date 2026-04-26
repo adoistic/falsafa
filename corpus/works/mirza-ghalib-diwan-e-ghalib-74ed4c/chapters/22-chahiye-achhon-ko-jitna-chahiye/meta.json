@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 22,
+  "chapter_title": "Chahiye achhon ko jitna chahiye",
+  "chapter_slug": "22-chahiye-achhon-ko-jitna-chahiye",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0b62502d-01b8-4233-972b-167c68096ecc",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 114,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d6664899-d2a4-4055-a039-f18892450337",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 114,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e5804fc2-9197-41db-9090-546ac7dbcb02",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 193,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

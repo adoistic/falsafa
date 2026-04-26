@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 116,
+  "chapter_title": "Kya tang hum sitam-zadagaan ka jahaan hai",
+  "chapter_slug": "116-kya-tang-hum-sitam-zadagaan-ka-jahaan-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7582508c-ed22-4e8b-83c6-b840ac892fae",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 132,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9f262623-5785-4cf1-9d6d-9d5fbf054347",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 189,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "5195a608-7a2b-4071-99e1-22fc6956f479",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 132,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 61,
+  "chapter_title": "Hai bazm-e-butaan mein sukhan aazurda-labon se",
+  "chapter_slug": "61-hai-bazm-e-butaan-mein-sukhan-aazurda-labon-se",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c5499a83-21b4-4b9d-82ae-0976ed2e005b",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 87,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f817f1ef-3bf2-4366-a6c7-8718960ceb42",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 155,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "ac0b8013-7b53-4af0-be49-64116a7fd693",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 87,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+  "work_title": "Traité de Législation: VOL IV",
+  "chapter_number": 17,
+  "chapter_title": "De l’influence qu’exercent les peuples possesseurs d’esclaves, sur les mœurs et sur la liberté des p",
+  "chapter_slug": "17-de-l-influence-qu-exercent-les-peuples-possesseurs",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "29f1bdba-39cb-4195-b8a8-1b248c883bb0",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5460,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5ae404d1-b00e-4261-94f3-ba07a528d914",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5296,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

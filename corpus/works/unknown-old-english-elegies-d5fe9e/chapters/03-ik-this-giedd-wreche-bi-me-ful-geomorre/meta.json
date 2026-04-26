@@ -1,0 +1,51 @@
+{
+  "work_slug": "unknown-old-english-elegies-d5fe9e",
+  "work_title": "Old English Elegies",
+  "chapter_number": 3,
+  "chapter_title": "Ik this giedd wreche bi me ful geomorre,",
+  "chapter_slug": "03-ik-this-giedd-wreche-bi-me-ful-geomorre",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "43db1414-8493-4fde-be9d-598da63d786e",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 341,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_23.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4456bd83-2f0f-4fcb-bd03-cd426cb7e2cc",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 407,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a1111287-db01-4671-a9e3-d5ad74c18ec2",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 319,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

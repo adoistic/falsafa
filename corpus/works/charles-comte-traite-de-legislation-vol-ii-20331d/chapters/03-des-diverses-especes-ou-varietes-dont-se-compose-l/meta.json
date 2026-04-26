@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 3,
+  "chapter_title": "Des diverses espèces ou variétés dont se compose le genre humain. — De l’opinion de quelques écrivai",
+  "chapter_slug": "03-des-diverses-especes-ou-varietes-dont-se-compose-l",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "97caf1bb-649f-4527-9a31-77834c038b7f",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2990,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "58271bd4-4a8c-4be8-adfb-1b014642cb06",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2912,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

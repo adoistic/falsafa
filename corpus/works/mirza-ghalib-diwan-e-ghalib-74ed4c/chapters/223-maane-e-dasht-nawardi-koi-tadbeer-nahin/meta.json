@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 223,
+  "chapter_title": "maane-e-dasht-nawardi koi tadbeer nahin",
+  "chapter_slug": "223-maane-e-dasht-nawardi-koi-tadbeer-nahin",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ea2b8354-4591-4edf-8631-ab79d5a547d9",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 115,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e6a0815a-a9f7-4b2a-a3b5-ad6ce7a6a230",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 115,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "1d4aef98-90be-491f-b93b-69abfa105f6e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 208,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 14,
+  "chapter_title": "De la dégradation des rivières en France, par le déboisement et le défrichement des montagnes.",
+  "chapter_slug": "14-de-la-degradation-des-rivieres-en-france-par-le-de",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e84363a7-aab5-4f17-a55a-a31e4a4575ef",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3692,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "de963131-4c45-4259-9282-b64d9fdfebcb",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3676,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

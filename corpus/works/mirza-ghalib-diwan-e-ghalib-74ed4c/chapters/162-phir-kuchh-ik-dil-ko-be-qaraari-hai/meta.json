@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 162,
+  "chapter_title": "Phir kuchh ik dil ko be-qaraari hai",
+  "chapter_slug": "162-phir-kuchh-ik-dil-ko-be-qaraari-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9c0a3158-d79e-4316-a420-553a872bea57",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 119,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "50ea558f-ef13-4368-b83f-ee899e405a5f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 216,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "1ad619de-d4d8-482f-acc0-027ab869b55a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 119,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 11,
+  "chapter_title": "Hah",
+  "chapter_slug": "11-hah",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3cb7378d-9fdb-4ac5-a63b-7bf3ced63e99",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 122,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/16.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8398229b-b082-4e2d-8c42-0b5ea1379cb4",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 89,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "8f9391d4-73f5-4a74-9698-45222b7cac16",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 146,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

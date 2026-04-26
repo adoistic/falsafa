@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 14,
+  "chapter_title": "Bahut sahi gham-e-geeti sharaab kam kya hai",
+  "chapter_slug": "14-bahut-sahi-gham-e-geeti-sharaab-kam-kya-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "39d63781-0119-48b8-a912-e52e6d614460",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 102,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b5c22c09-e662-433c-84e9-8a9d55fa7817",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 100,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "ee40ab40-f9ee-4a9c-87fb-0e7e99cc1194",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 126,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

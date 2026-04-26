@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 3,
+  "chapter_title": "Aate hi tu ne ghar ke phir jaane ki sunai",
+  "chapter_slug": "03-aate-hi-tu-ne-ghar-ke-phir-jaane-ki-sunai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0f1b4274-40be-4fdb-8236-622611c2dde8",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 120,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "337e9d16-f12c-409c-922a-17d7969ddbfc",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 153,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f0ae9344-36a3-4b71-ab01-72075cbd64ce",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 120,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

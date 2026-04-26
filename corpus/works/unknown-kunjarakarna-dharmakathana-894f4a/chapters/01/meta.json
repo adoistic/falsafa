@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+  "work_title": "Kunjarakarna Dharmakathana",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "5d5ac9db-2ec8-4231-a658-a7354c652769",
+      "language": "Kawi",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 12820,
+      "paragraph_count": 1507,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b7099dea-c529-4853-8ddb-0a0e95d9c962",
+      "language": "english",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 17973,
+      "paragraph_count": 349,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

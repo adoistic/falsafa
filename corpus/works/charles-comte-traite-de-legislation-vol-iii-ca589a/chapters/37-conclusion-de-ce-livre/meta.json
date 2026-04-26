@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 37,
+  "chapter_title": "Conclusion de ce livre.",
+  "chapter_slug": "37-conclusion-de-ce-livre",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "1c174653-c633-4c4b-839e-c25e891febc3",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3035,
+      "paragraph_count": 19,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "29d07ce3-635f-43ae-bd37-ac19ed8ff4d9",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2951,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

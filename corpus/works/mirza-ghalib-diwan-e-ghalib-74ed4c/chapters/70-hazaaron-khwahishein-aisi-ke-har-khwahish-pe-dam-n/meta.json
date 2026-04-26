@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 70,
+  "chapter_title": "Hazaaron khwahishein aisi ke har khwahish pe dam nikle",
+  "chapter_slug": "70-hazaaron-khwahishein-aisi-ke-har-khwahish-pe-dam-n",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3bb03168-a682-49ec-9799-0561a64cd618",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 164,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3db1e083-8b2e-489a-b61d-5321f9961bd5",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 164,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e0def1dc-e208-4705-a643-84f55c001903",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 251,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

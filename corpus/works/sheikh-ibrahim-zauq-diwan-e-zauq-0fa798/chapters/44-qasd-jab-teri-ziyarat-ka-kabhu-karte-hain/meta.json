@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 44,
+  "chapter_title": "Qasd jab teri ziyarat ka kabhu karte hain",
+  "chapter_slug": "44-qasd-jab-teri-ziyarat-ka-kabhu-karte-hain",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b21f23ba-8567-4b2a-af20-e0f9ee082a14",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 79,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6affbe09-f1e8-4108-b599-6dd23aec8064",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 136,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "65035190-f666-43db-96f3-b8f7b9a485bf",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 78,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

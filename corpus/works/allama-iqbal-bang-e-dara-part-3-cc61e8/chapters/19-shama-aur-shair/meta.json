@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 19,
+  "chapter_title": "Shama aur Shair",
+  "chapter_slug": "19-shama-aur-shair",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cf6f001a-18fd-48bf-b3ed-6fe836abbc12",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 92,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/24.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b5110fe3-7da9-48a5-868c-8ed36e551a51",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 99,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "387b72ea-f4cd-43a3-826a-343ea405640e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 73,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

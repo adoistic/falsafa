@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 18,
+  "chapter_title": "Be-e'tedaaliyon se subuk sab mein hum huay",
+  "chapter_slug": "18-be-etedaaliyon-se-subuk-sab-mein-hum-huay",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eb92ee57-ed88-4ed3-a955-a437c2863b8e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 150,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5fb74a24-1b10-4296-a3a9-eec640bb4725",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 149,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "cbd14bb9-bffa-4117-8aeb-10a40938cc26",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 211,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

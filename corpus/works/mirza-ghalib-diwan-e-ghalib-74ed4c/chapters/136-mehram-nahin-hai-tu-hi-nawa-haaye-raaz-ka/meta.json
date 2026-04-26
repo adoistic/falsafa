@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 136,
+  "chapter_title": "Mehram nahin hai tu hi nawa-haaye-raaz ka",
+  "chapter_slug": "136-mehram-nahin-hai-tu-hi-nawa-haaye-raaz-ka",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0fb41e85-852a-4e34-9cc1-3dc5e88dc463",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 85,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c89373e4-ff47-4daa-90eb-0f58a6654165",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 147,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "157c87fe-8f4a-4dae-ad8e-8b6331d65498",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 85,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

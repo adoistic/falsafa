@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-vrhaspatitattva-b60b28",
+  "work_title": "Vrhaspatitattva",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "0f0ea88b-ca24-4488-aea6-9c36ec8b7338",
+      "language": "Kawi",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 11214,
+      "paragraph_count": 216,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fdc2340b-74a6-43f8-9f4e-ce4733dd0999",
+      "language": "english",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 14791,
+      "paragraph_count": 234,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 15,
+  "chapter_title": "Des rapports qui existent entre les deux sexes, chez les peuples d’espèce cuivrée, du nord de l’Amér",
+  "chapter_slug": "15-des-rapports-qui-existent-entre-les-deux-sexes-che",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7f5a6f63-3b3b-467e-81ca-162ba7bdd390",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3961,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfbabd43-2f93-4761-9f9e-dc9fa3379842",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3834,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

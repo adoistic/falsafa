@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 224,
+  "chapter_title": "na poochh nuskha-e-marham jraahat-e-dil ka",
+  "chapter_slug": "224-na-poochh-nuskha-e-marham-jraahat-e-dil-ka",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "862c593d-9516-427e-92d0-33647505d15a",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 28,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0befc5f5-3ed0-4cb0-8efe-91daf86f99e6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 28,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "3d945dc2-854c-44d7-9344-7455fdd6d57c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 35,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

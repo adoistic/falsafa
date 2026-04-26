@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 7,
+  "chapter_title": "Du système dans lequel on considère les lois comme l’expression de la volonté générale  ; de ce qu’o",
+  "chapter_slug": "07-du-systeme-dans-lequel-on-considere-les-lois-comme",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ff19d7c7-c451-47bb-9433-aa08e2a79648",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6702,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bf9ad90e-14cf-40bd-a053-4b613f74756a",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6827,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 4,
+  "chapter_title": "Yoon to ae bazm-e-jahan! dilkash thay hungamay teray",
+  "chapter_slug": "04-yoon-to-ae-bazm-e-jahan-dilkash-thay-hungamay-tera",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a182dc1c-4b42-4a97-aeb9-7a42fa38db21",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 104,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/Ghazals/05.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bfad849f-3918-43e6-b9b2-c5aec9d5ed31",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 88,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "17ce54af-1422-4daf-92f8-1e16d521d2e1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 89,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

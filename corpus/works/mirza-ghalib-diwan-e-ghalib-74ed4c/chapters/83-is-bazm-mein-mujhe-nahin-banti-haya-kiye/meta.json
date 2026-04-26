@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 83,
+  "chapter_title": "Is bazm mein mujhe nahin banti haya kiye",
+  "chapter_slug": "83-is-bazm-mein-mujhe-nahin-banti-haya-kiye",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "034b73e5-d6d8-42fd-b087-4e08fac1126e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 141,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e53afed4-71a4-438e-ae9e-8e366524d8f5",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 216,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a5f36db4-d5c4-4253-81b8-a49734b0be2c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 137,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

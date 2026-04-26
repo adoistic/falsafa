@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 142,
+  "chapter_title": "Mund gayin kholte hi kholte aankhein Ghalib",
+  "chapter_slug": "142-mund-gayin-kholte-hi-kholte-aankhein-ghalib",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cdf7c775-b857-4d63-bf60-80e1d38da91b",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 16,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "33ebb1fb-2947-452d-ac13-50774219f490",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 20,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "81cf5299-3707-417c-be0d-9336e1dc468e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 16,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

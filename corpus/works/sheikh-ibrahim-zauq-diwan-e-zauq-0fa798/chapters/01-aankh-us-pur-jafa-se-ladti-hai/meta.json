@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 1,
+  "chapter_title": "Aankh us pur-jafa se ladti hai",
+  "chapter_slug": "01-aankh-us-pur-jafa-se-ladti-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "79a2a250-bfb0-4482-9e37-262ac496cb23",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 144,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1c72b037-e7dc-440d-86be-98ae53ddd420",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 216,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "27d47711-06e7-41d3-864d-7e5668870670",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 144,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

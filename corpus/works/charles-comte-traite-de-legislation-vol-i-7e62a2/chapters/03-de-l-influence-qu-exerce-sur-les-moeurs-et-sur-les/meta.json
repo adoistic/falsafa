@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 3,
+  "chapter_title": "De l’influence qu’exerce sur les mœurs et sur les lois une analyse fausse ; ou des effets des sophis",
+  "chapter_slug": "03-de-l-influence-qu-exerce-sur-les-moeurs-et-sur-les",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "452a338b-d041-4c26-b86c-aee06e334935",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5832,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "740c88ad-f227-4812-85d9-b491ef6aaa93",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5833,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

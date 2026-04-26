@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 178,
+  "chapter_title": "Seemab-pusht garmi-e-aaina de hai hum",
+  "chapter_slug": "178-seemab-pusht-garmi-e-aaina-de-hai-hum",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3b61a1c8-0149-4437-b539-016e6938b2e0",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 57,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ea82591d-08f0-42d5-8686-2a195933c92e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 82,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a31ec987-43c7-449d-9f76-42df72032049",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 56,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

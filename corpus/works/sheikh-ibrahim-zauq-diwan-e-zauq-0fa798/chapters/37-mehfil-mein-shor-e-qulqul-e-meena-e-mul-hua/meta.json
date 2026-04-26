@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 37,
+  "chapter_title": "Mehfil mein shor-e-qulqul-e-meena-e-mul hua",
+  "chapter_slug": "37-mehfil-mein-shor-e-qulqul-e-meena-e-mul-hua",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c7dfe9a6-a94b-4fcc-8e27-ff61710478cb",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 91,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "036ffae9-3e19-4118-aeef-9d6db7feda1d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 131,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f26fa3a4-e7dc-4702-9b7b-5453c57cde48",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 91,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

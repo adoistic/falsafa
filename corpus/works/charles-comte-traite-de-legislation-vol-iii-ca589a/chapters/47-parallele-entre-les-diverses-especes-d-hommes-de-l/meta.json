@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 47,
+  "chapter_title": "Parallèle entre les diverses espèces d’hommes. — De la supériorité des unes à l’égard des autres. —",
+  "chapter_slug": "47-parallele-entre-les-diverses-especes-d-hommes-de-l",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cac318d2-ed67-455b-8dff-afdc886474ec",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5462,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "663aeef6-fad2-4f71-bd16-7d4fa5a059f2",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5504,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

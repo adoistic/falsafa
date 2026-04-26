@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 36,
+  "chapter_title": "Sach keh doon ae Brahman! gar tu bura na maane",
+  "chapter_slug": "36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ae70992b-dea0-46b5-a881-7b9cfc890686",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 174,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/43.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "918b9252-3374-4d40-a502-d988b17c2e31",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 150,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "7a183c03-793d-4fb0-b041-598a332859cf",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 154,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

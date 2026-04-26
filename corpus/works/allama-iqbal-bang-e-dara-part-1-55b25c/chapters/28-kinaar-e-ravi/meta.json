@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 28,
+  "chapter_title": "Kinaar-e-Ravi",
+  "chapter_slug": "28-kinaar-e-ravi",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3bcdc3b6-0f2e-4777-9f6c-c7cb89ee03ea",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 201,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/48.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4e70037e-5bbf-4d59-9fb8-af019ecb4762",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 150,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "cb026e83-b289-41c7-b2c1-34f7b0cfa0dd",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 225,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

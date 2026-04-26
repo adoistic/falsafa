@@ -1,0 +1,51 @@
+{
+  "work_slug": "unknown-old-english-elegies-d5fe9e",
+  "work_title": "Old English Elegies",
+  "chapter_number": 17,
+  "chapter_title": "thus frod faeder     freobearn laerde,",
+  "chapter_slug": "17-thus-frod-faeder-freobearn-laerde",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c07c07bd-65e7-4cc3-b134-9fab0dd884a0",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 598,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_08.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7bbc2c95-94bd-41bd-a440-c0ea062140a3",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 807,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "757d573c-cf26-4437-b1e4-24b534e25c35",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 570,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

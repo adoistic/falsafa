@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 23,
+  "chapter_title": "Opposition entre la conduite des peuples d’espèce malaie à l’égard des navigateurs Européens, et leu",
+  "chapter_slug": "23-opposition-entre-la-conduite-des-peuples-d-espece-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "03ec75a6-4931-4f39-862c-bc0b913978ca",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1559,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "647a9ed7-371b-417f-9d60-e4ddfff38b4d",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1483,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

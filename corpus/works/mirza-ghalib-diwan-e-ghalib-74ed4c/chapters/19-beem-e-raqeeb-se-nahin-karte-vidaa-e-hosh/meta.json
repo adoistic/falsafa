@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 19,
+  "chapter_title": "Beem-e-raqeeb se nahin karte vidaa-e-hosh",
+  "chapter_slug": "19-beem-e-raqeeb-se-nahin-karte-vidaa-e-hosh",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "47281b0d-57fd-4f4f-9f0f-5dad4e4347c1",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 26,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "221038de-195e-4411-900f-b3b2dc797e8b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 26,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "c5a8f4b6-30a3-453f-a96b-e2c68acdb04e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 38,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

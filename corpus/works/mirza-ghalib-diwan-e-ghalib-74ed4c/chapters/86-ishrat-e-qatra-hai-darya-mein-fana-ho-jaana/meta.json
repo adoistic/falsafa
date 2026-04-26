@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 86,
+  "chapter_title": "Ishrat-e-qatra hai darya mein fana ho jaana",
+  "chapter_slug": "86-ishrat-e-qatra-hai-darya-mein-fana-ho-jaana",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "be2696af-4bce-46cf-9fec-cc224e46fd6b",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 145,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c5fee336-e5ce-4de8-80fe-b87e774f5835",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 145,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "5d175420-7899-4310-8f2a-02ecb9973cc3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 202,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

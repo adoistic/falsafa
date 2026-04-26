@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 11,
+  "chapter_title": "Huzoor Risalat Ma'ab Mein",
+  "chapter_slug": "11-huzoor-risalat-maab-mein",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6375138b-1fc7-4190-98f8-3c0a760bca31",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 192,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/26.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f16d4b48-1020-49c2-b0df-3146d637e90e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 219,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "024987d7-1eb4-4fde-8ffc-0e387e744f1b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 158,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

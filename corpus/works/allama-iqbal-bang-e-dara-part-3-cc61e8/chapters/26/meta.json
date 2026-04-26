@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 26,
+  "chapter_title": "══════════════════════════════════════════════════════════════════════",
+  "chapter_slug": "26",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f344f38a-006c-4c3d-9a63-747dbd06f797",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 131,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/15.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e5006ec4-2fc4-43ee-ad4b-985cf81678ef",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 153,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "c9bf2c57-ac74-4083-a011-c313a75327cc",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 103,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

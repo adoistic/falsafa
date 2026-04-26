@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 13,
+  "chapter_title": "Khitab ba Jawanan-e-Islam",
+  "chapter_slug": "13-khitab-ba-jawanan-e-islam",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7daf2129-5c7e-458d-8fcf-b83c788f3f6d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 255,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/22.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "129415a3-c556-4e6b-bd01-dcaa13ba8e1c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 268,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "3b609eee-c95f-4c1f-b581-c8b06d48e0d6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 215,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

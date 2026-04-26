@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+  "work_title": "Nouveau traité d'économie: VOL II",
+  "chapter_number": 19,
+  "chapter_title": "IX. De la liberté des arts qui travaillent à l'éducation de nos facultés intellectuelles.",
+  "chapter_slug": "19-ix-de-la-liberte-des-arts-qui-travaillent-a-leduca",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "df778781-dd83-47ad-827b-042bcabb6e6e",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 15720,
+      "paragraph_count": 123,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7c40a66d-9dac-4077-a9b6-61cdd210c903",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 16208,
+      "paragraph_count": 122,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

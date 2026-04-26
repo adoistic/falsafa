@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 24,
+  "chapter_title": "Juda hoon yaar se hum aur na ho raqeeb juda",
+  "chapter_slug": "24-juda-hoon-yaar-se-hum-aur-na-ho-raqeeb-juda",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "67ed77f9-cfa0-49ac-9251-e7daec69c439",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 143,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6c3d6248-86b8-4c2b-9612-6f100fa41c40",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 141,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "4b90ebda-c15b-479a-baad-11677c6ea703",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 221,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

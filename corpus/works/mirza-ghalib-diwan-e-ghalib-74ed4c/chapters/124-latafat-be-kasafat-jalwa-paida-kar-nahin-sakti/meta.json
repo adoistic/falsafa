@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 124,
+  "chapter_title": "Latafat be-kasafat jalwa paida kar nahin sakti",
+  "chapter_slug": "124-latafat-be-kasafat-jalwa-paida-kar-nahin-sakti",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "09b3525a-9863-477d-9f8e-0330f509d268",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 70,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "58f7291a-cf58-431c-913a-e6b2735b2bd0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 142,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "fa790c21-b219-4c02-b75c-2808127ec9bd",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 70,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 11,
+  "chapter_title": "Des obstacles que présente l'appropriation individuelle des fonds de terre.",
+  "chapter_slug": "11-des-obstacles-que-presente-lappropriation-individu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "05ccb2af-a438-4271-8d1d-d1e7b2f6055d",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3801,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b9f33c8b-9ffc-4df0-a61b-f78811d7a2e9",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3867,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 17,
+  "chapter_title": "Koshish-e-Natamam",
+  "chapter_slug": "17-koshish-e-natamam",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d43449cb-f11b-494f-a85c-65ec3060dc26",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 119,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/14.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f3019697-d65b-43ed-aa02-c69ed466f813",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 120,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "8bc3965e-0f79-48d7-937c-843ac798905a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 78,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

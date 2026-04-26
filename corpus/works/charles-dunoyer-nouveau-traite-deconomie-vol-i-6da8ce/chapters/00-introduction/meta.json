@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+  "work_title": "Nouveau traité d'économie: VOL I",
+  "chapter_number": 0,
+  "chapter_title": "INTRODUCTION",
+  "chapter_slug": "00-introduction",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c9f4dea6-cab1-4026-96b3-30ea86d9799d",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5638,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d32798d3-ecf8-4fbd-8e56-a925a8d7395f",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5812,
+      "paragraph_count": 54,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

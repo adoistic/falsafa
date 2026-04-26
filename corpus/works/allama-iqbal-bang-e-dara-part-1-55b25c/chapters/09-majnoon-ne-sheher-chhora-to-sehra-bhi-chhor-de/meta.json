@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 9,
+  "chapter_title": "Majnoon ne sheher chhora to sehra bhi chhor de",
+  "chapter_slug": "09-majnoon-ne-sheher-chhora-to-sehra-bhi-chhor-de",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "038cd494-1e60-4dd6-a57d-2c7a87cd44f0",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 236,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/ghazals/13.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c6976688-6193-4e36-b286-551d536e54ad",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 210,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f83aec1b-a099-48ea-a9de-6ec2e1a929c8",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 268,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

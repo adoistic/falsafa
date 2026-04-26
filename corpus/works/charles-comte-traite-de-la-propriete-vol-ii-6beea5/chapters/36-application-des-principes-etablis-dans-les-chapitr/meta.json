@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 36,
+  "chapter_title": "Application des principes établis dans les chapitres précédens, à quelques questions de propriété li",
+  "chapter_slug": "36-application-des-principes-etablis-dans-les-chapitr",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "dd2939f2-bdd0-425d-9899-8955af94eda7",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6736,
+      "paragraph_count": 57,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b74f5dfe-c424-4416-aed0-2f7eaf2f7af2",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6987,
+      "paragraph_count": 55,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

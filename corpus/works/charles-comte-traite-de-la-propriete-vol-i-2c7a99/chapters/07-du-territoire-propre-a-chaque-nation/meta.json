@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 7,
+  "chapter_title": "Du territoire propre à chaque nation.",
+  "chapter_slug": "07-du-territoire-propre-a-chaque-nation",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "40269c10-d957-4033-8708-fb32a179323e",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4520,
+      "paragraph_count": 40,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ffafbb3e-d2d6-4454-ad9c-59bf604becb1",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4556,
+      "paragraph_count": 39,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

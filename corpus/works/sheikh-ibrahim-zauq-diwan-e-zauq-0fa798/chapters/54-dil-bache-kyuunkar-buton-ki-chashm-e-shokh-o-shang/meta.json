@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 54,
+  "chapter_title": "dil bache kyuunkar buton ki chashm-e-shokh-o-shang se",
+  "chapter_slug": "54-dil-bache-kyuunkar-buton-ki-chashm-e-shokh-o-shang",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cd18beed-f3b7-44be-985e-629ef8fecb56",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 141,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "144c9f1a-215c-4479-8956-9f770f0a0ec6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 210,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "ade7217a-5695-4a88-bbb9-751e8845b9d6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 141,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

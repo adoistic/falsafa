@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 16,
+  "chapter_title": "Des peines et des plaisirs moraux considérés comme éléments de la puissance des lois.",
+  "chapter_slug": "16-des-peines-et-des-plaisirs-moraux-consideres-comme",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "37cce97b-7821-46ca-a80f-b16ab29acefc",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1820,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "01e5117d-0da1-49a1-acd3-cde14af7c56f",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1833,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

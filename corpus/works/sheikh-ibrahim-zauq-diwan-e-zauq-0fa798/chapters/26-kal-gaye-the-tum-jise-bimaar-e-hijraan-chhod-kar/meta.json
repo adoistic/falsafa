@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 26,
+  "chapter_title": "Kal gaye the tum jise bimaar-e-hijraan chhod kar",
+  "chapter_slug": "26-kal-gaye-the-tum-jise-bimaar-e-hijraan-chhod-kar",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7464349f-c7dc-40e1-ad82-2b86962fc97d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 246,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1fdaa217-73d5-4486-b3eb-bcf646f29766",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 307,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "71a74e87-9ea7-4987-bf54-1b7af5adfbc5",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 245,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+  "work_title": "Traité de Législation: VOL IV",
+  "chapter_number": 8,
+  "chapter_title": "De l’influence de l’esclavage domestique sur les mœurs des maîtres et des esclaves dans les colonies",
+  "chapter_slug": "08-de-l-influence-de-l-esclavage-domestique-sur-les-m",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ced579b4-6810-4a41-82a6-56b370fcb22e",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3393,
+      "paragraph_count": 18,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8df52005-8040-4458-957c-d4175180afe5",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3795,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

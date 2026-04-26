@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 45,
+  "chapter_title": "Gar na andoh-e-shab-e-furqat bayaan ho jaaye-ga",
+  "chapter_slug": "45-gar-na-andoh-e-shab-e-furqat-bayaan-ho-jaaye-ga",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7877e3fe-c1a1-45d9-b55d-1ece4fda05d0",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 180,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "09700371-3cf3-475c-a423-8ee8a1d0d474",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 244,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "3b5ecc4d-de4e-4330-aacc-fd85b011bd81",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 172,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 111,
+  "chapter_title": "Ki wafa hum se to ghair uss ko jafa kehte hain",
+  "chapter_slug": "111-ki-wafa-hum-se-to-ghair-uss-ko-jafa-kehte-hain",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "343df8ca-d487-42f0-bdab-bff21445c028",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 148,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "90ff4cb0-b505-4823-a7dc-969c2e7d0123",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 144,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "18920337-8753-4332-95db-258d6f1e3a1a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 190,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

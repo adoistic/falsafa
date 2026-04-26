@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 19,
+  "chapter_title": "Des rapports observés entre les moyens d’existence et l’état social des peuples d’espèce malaie du g",
+  "chapter_slug": "19-des-rapports-observes-entre-les-moyens-d-existence",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c95c1dea-4d4b-404d-b0c6-2fe30a7ccb0f",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3497,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ce2850ce-e115-44f2-98b7-ee3d0b4ccdf2",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3527,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

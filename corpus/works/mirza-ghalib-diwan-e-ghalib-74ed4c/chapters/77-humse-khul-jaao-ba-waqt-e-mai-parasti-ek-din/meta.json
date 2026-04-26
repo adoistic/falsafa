@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 77,
+  "chapter_title": "Humse khul jaao ba-waqt-e-mai-parasti ek din",
+  "chapter_slug": "77-humse-khul-jaao-ba-waqt-e-mai-parasti-ek-din",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "42f90f23-b94b-41d1-8dd3-67bc00a65f57",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 72,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d22826f4-7478-44eb-b55a-05cd929b1c75",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 96,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "724e64d2-e805-4c5d-bf3a-e80ea6aacafd",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 71,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

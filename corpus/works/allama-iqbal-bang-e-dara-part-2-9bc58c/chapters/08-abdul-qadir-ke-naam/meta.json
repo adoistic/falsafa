@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 8,
+  "chapter_title": "Abdul Qadir Ke Naam",
+  "chapter_slug": "08-abdul-qadir-ke-naam",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e8028c89-a77f-4b06-8af7-ce046b86360a",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 201,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/23.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ee0bda4c-bbb1-42cf-b077-98619b64a876",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 156,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "df0a16eb-831a-4540-af16-ab5cd7dc307f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 223,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

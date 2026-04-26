@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 60,
+  "chapter_title": "Hai baske har ek unke ishaare mein nishaan aur",
+  "chapter_slug": "60-hai-baske-har-ek-unke-ishaare-mein-nishaan-aur",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c2db5612-b93e-4d36-a4ef-cb413e01bd46",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 188,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e80004d3-6434-4710-bfd1-f4f8104cbf60",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 185,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "b34d5c14-e4f7-49f5-ab35-0430646a4309",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 218,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 25,
+  "chapter_title": "Himalaya",
+  "chapter_slug": "25-himalaya",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "36836316-4a4d-4ec7-9764-f5ca942070ff",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 398,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/01.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eed6eb34-dad1-40a7-b169-406685ee0534",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 444,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "49722c86-2d5d-4756-82b2-361859fde11f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 334,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

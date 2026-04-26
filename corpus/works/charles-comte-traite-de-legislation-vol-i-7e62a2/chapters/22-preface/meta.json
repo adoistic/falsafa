@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 22,
+  "chapter_title": "PRÉFACE",
+  "chapter_slug": "22-preface",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "25fc91e2-936e-418b-b925-b185e01b6691",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1989,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1aebb069-5e83-4465-b1db-04e94f2f4f7f",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1993,
+      "paragraph_count": 20,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

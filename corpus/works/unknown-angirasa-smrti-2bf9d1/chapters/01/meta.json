@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-angirasa-smrti-2bf9d1",
+  "work_title": "Āṅgirasa Smṛti",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "d77a3476-e3f8-41de-910e-fb65332939ae",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 17854,
+      "paragraph_count": 2990,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d9542f04-3f70-4d42-84bd-dfca0d614951",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 38412,
+      "paragraph_count": 1792,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

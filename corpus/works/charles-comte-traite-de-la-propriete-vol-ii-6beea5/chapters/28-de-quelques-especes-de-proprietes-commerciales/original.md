@@ -1,0 +1,77 @@
+---
+work_id: "6beea56e-daa2-4462-a9ed-041727f53bfd"
+work_slug: "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+work_title: "Traité de la propriété: VOL II"
+author_name: Charles Comte
+chapter_number: 28
+chapter_title: De quelques espèces de propriétés commerciales.
+chapter_slug: "28-de-quelques-especes-de-proprietes-commerciales"
+variant_id: "8aeaaf66-524b-47ed-bbdf-2769221ff959"
+content_type: original
+layout: prose
+language: French
+source_language: French
+language_direction: ltr
+script: latin
+word_count: 2484
+estimated_read_time: 13
+curator: thothica
+---
+
+## CHAP. 28: De quelques espèces de propriétés commerciales.
+
+Un homme crée, par son travail, une chose propre à satisfaire ses besoins, ou à obtenir par des échanges les objets dont il manque; nous disons que cette chose lui est propre, qu'elle est sa propriété. Nous reconnaissons en lui le pouvoir d'en jouir et d'en disposer comme bon lui semble, pourvu qu'il respecte dans les autres et dans leurs biens des droits qui sont pareils aux siens.
+
+Nous mettons donc certaines choses au rang des propriétés, non parce que telle est la volonté de l'autorité publique, mais parce qu'elles tiennent de l'industrie humaine les qualités qui les rendent précieuses à nos yeux; parce qu'il est impossible d'y porter atteinte, sans attaquer une partie plus ou moins considérable de la population dans ses moyens d'existence; enfin, parce qu'elles cesseraient d'être formées ou conservées, si la jouissance et la disposition n'en étaient pas garanties à ceux qui les ont créés ou à qui elles ont été régulièrement transmises.
+
+L'autorité publique, en effet, peut intimer des ordres ou des défenses, accorder ou retirer sa protection, récompenser ou punir, dépouiller les uns pour enrichir les autres; mais il n'est pas en sa puissance de donner aux choses, par ses déclarations, les qualités qui les rendent propres à satisfaire nos besoins; elle ne peut pas donner l'existence à des propriétés ; sa mission n'est pas de créer des droits; elle est de proclamer et de garantir ceux qui résultent de la nature de l'homme et de la nature des choses.
+
+Toutes les fois donc que nous observons qu'un ou plusieurs individus forment un nouveau moyen d'existence, qui ne porte aucune atteinte à la personne ou à la sûreté d'autrui, et qui ne blesse en rien la morale, nous mettons ce moyen au rang des propriétés, quelle qu'en soit d'ailleurs la nature; nous reconnaissons que ceux qui en sont les auteurs peuvent en jouir et en disposer comme de toutes les autres choses que nous avons désignées par le même nom.
+
+En observant comment les propriétés se forment, nous avons remarqué qu'il s'y rencontre deux élémens essentiels: une matière quelconque, et, dans cette matière, une qualité propre à satisfaire un ou plusieurs de nos besoins. Il est cependant, chez les peuples qui sont parvenus à un certain degré de civilisation, des choses qui sont mises au rang des propriétés, et qui ne peuvent être assimilées à un fonds de terre ou à un meuble. Chez tous les peuples policés, on met, par exemple, au rang des propriétés certaines conceptions de l'esprit, telles que des ouvrages littéraires ou scientifiques, des compositions musicales, des dessins et même de simples inventions dans les arts. On ne reconnaît pas au propriétaire la faculté seulement de jouir et de disposer de l'objet sur lequel il fixe ses conceptions; on lui reconnaît de plus la faculté d'empêcher que d'autres ne reproduisent, au moins pendant un certain temps, les mêmes pensées.
+
+On met également au rang des propriétés le nom qu'un homme a toujours porté, la réputation qu'il s'est acquise, ou qu'il a donnée à certains établissemens industriels ou commerciaux, la clientelle qu'il s'est formée. Une personne qui parvient à achalander une maison de commerce, un établissement d'instruction publique, par exemple, vend ensuite sa clientelle ou sa chalandise, comme il vendrait un fonds de terre ou une maison. Cependant, quoiqu'il en obtienne quelquefois un très-grand prix, il n'a nullement la prétention d'être le maître des personnes dont il transmet en quelque sorte les habitudes ou la confiance.
+
+N'est-ce donc point par une sorte d'abus que ces diverses choses sont mises au rang des propriétés? On conçoit très-bien que, lorsqu'un homme a tracé sur des feuilles de papier qui sont à lui, des pensées qu'il a conçues, le livre qu'il a produit soit sa propriété; mais s'il en vend des copies, ceux qui les acquièrent ne pourront-ils pas légitimement les reproduire et les vendre à leur profit comme des propriétés nouvelles qu'ils ont eux-mêmes créées? Celui qui donne à une matière dont il est propriétaire une nouvelle valeur, en la convertissant en un outil jusqu'alors inconnu, reste maître de l'utilité qu'il a produite, comme de la matière sur laquelle il l'a fixée. S'ensuit-il que d'autres ne pourront pas suivre son exemple, en créant de semblables outils sans porter atteinte à ses droits? N'est-ce point aussi par une sorte d'abus qu'on met au rang des propriétés le nom, la réputation, les pensées ou les découvertes d'une personne?
+
+Ces questions présentent à résoudre de graves difficultés; cependant il est possible d'en donner une solution propre à satisfaire l'esprit, si l'on observe bien les principes fondamentaux de toute propriété, et si l'on ne les perd jamais de vue. Comme il existe entre elles une certaine analogie, et qu'elles doivent être résolues par les mêmes principes, nous allons les examiner successivement.
+
+La division la plus générale qu'on ait faite dans la science du droit, est celle qui range, sous deux grandes classes, les objets dont cette science s'occupe : *les personnes et les choses*. Au premier aspect, rien ne paraît plus tranché que cette division; il semble impossible de jamais confondre ce qui appartient à l'une avec ce qui appartient à l'autre. Cependant, quand on y regarde de près, on trouve que les personnes sont si étroitement unies aux choses, qu'il est impossible d'établir une séparation absolue entre les unes et les autres. Les hommes ne vivent et ne se multiplient qu'au moyen des choses, et en s'identifiant en quelque sorte avec elle. Il est impossible de dépouiller un homme de ses propriétés, sans porter par cela même atteinte à l'existence de sa personne. On ne saurait donc traiter des unes sans parler en même temps des autres.
+
+Nous avons reconnu que jamais une personne ne peut, suivant les lois de notre nature, être la propriété d'une autre, et que nul n'a d'autre maître que lui-même ; nous avons également reconnu que toute valeur ou toute utilité créée par un individu, est à lui, et que nul autre que lui n'a le droit d'en jouir ou d'en disposer sans son consentement. Mais qu'est-ce donc qui forme une personne? Qu'est-ce qui constitue son individualité? Ce n'est pas seulement son être matériel; se sont ses pensées, ses sentimens, ses relations de famille et de société, son nom, sa réputation, en un mot, tout ce qui fait de lui un être particulier, tout ce qui le distingue de ses semblables.
+
+Une personne dont on usurperait le nom et la réputation, et à laquelle on ravirait le rang qu'elle tient dans la société, et jusqu'à la place qu'elle occupe dans sa famille, se trouverait souvent dépourvue de tout moyen d'existence ou de conservation; elle serait par cela même dépouillée de la plupart de ses propriétés.
+
+Il est, dans toute société civilisée, une multitude de familles dont l'existence ou la fortune reposent sur la renommée attachée à certains noms ou à certains établissemens. Un fabricant, un artisan, mettent leur nom ou une empreinte particulière sur les objets sortis de leurs mains, et livrés au commerce. Tant que l'expérience n'a pas constaté la qualité de leurs produits, leur nom ou la marque qu'ils ont adoptée, est sans influence sur le public. Aussitôt qu'il est reconnu que les objets fabriqués par eux, possèdent les qualités qu'on désire y trouver, on les accepte de confiance. On se borne très-souvent à vérifier s'ils portent le nom ou l'empreinte de celui qu'on en suppose l'auteur.
+
+Il ne suffit pas, pour exercer un art ou une profession d'une manière avantageuse, d'en avoir acquis la capacité; il faut avoir obtenu, de plus, la confiance d'une partie plus ou moins considérable du public. Or, pour obtenir cette confiance, il faut souvent plus de temps et de sacrifices qu'il n'en a fallu pour se mettre en état de bien exercer son art ou sa profession. Il arrive quelquefois que des personnes d'une probité ou d'un mérite incontestables ont épuisé leurs ressources, avant d'avoir pu parvenir à se faire connaître. Presque jamais, au contraire, on ne voit une personne tirer de l'exercice de son art ou de sa profession des profits un peu considérables, sans avoir fait de grandes dépenses.
+
+Cette espèce de propriété dont il est ici question ne se forme donc, comme toutes les autres, qu'en donnant à un nom ou à un signe, qui par lui-même est sans importance, une valeur plus ou moins considérable. Pour donner cette valeur à un nom, à un signe, il faut se livrer à de longs travaux, et faire certaines dépenses. Quand elle est formée, elle est pour celui qui en est l'auteur, une propriété non moins incontestable que tout objet matériel dont il aurait créé l'utilité.
+
+Si l'on admet que chacun est maître de soimême, de son nom, et de toutes les valeurs auxquelles il donne l'existence, il n'est pas possible de contester qu'une personne ne soit aussi maîtresse de sa réputation et de tous les avantages qu'elle peut en retirer. La réputation d'une personne, quand elle est acquise par des moyens légitimes, tels que des talens, de la probité, ou par d'autres qualités individuelles, est même la plus incontestable des propriétés. Elle est une conséquence nécessaire de la faculté qui appartient à chacun de disposer de lui-même de la manière qu'il juge la plus avantageuse, pourvu qu'il respecte dans les autres la même liberté.
+
+Il arrive souvent que la renommée, au lieu de s'attacher au nom d'une personne, s'attache à un établissement. Une maison de commerce, quand elle est achalandée, se transmet souvent d'un homme à un autre, sans perdre aucun de ses avantages. La raison en est que celui qui la reçoit, a soin de conserver les usages, les conditions et les employés qui en ont fait la prospérité. Il tire ses marchandises des mêmes fabriques; il se contente des mêmes bénéfices, et met dans ses ventes la même bonne foi, la même probité. Il conserve ainsi les mêmes pratiques.
+
+Depuis le moment où un établissement de commerce se forme, jusqu'à celui où il est bien connu, il s'écoule quelquefois un intervalle assez long. Durant cet intervalle, il faut payer des loyers, des commis, des domestiques, et faire tous les frais d'une maison qui serait déjà achalandée. Il faut aussi supporter des pertes sur les marchandises dont on a fait provision et qui ne se vendent pas, ou qui ne se vendent que très-lentement. Il arrive quelquefois qu'en faisant ces divers sacrifices, on ne parvient pas à former un établissement commercial, et qu'on est obligé d'abandonner l'entreprise. Tous les frais qu'on a faits sont alors irrévocablement perdus.
+
+Lorsque l'entreprise a réussi, on a créé ce qu'on appelle un fonds de commerce, dont la valeur est indépendante de la valeur des marchandises ou des divers objets qui meublent l'établissement. Ce fonds n'est pas fixé sur une matière qu'on puisse assigner, et qui soit susceptible d'être transmise d'une main à l'autre comme un meuble. Il consiste dans la confiance qu'on a inspirée, dans les habitudes qu'on a fait contracter, dans la renommée qu'on a créée; en un mot, dans la chalandise. Il a une valeur, puisqu'on trouve des gens qui consentent à l'acheter, et cette valeur, comme toutes les autres, ne se crée que par des soins et des dépenses. Il est donc la propriété de celui qui l'a formé ou légitimement acquis.
+
+Les lois françaises ont pris soin de garantir à chacun les avantages de la réputation qu'il s'est acquise dans l'industrie et le commerce; elles ont établi des peines contre tout individu qui usurperait la marque ou le signe qu'un autre se serait déjà approprié. Un arrêté du 23 nivôse an ix [^209], afin de conserver aux fabricans de quincaillerie et de coutellerie, les marques particulières destinées à constater l'origine de leurs ouvrages, les avaient astreints à faire empreindre ces marques sur des tables communes, déposées dans un lieu public. Un décret du 5 septembre 1810 fit ensuite défenses à toute personne de contrefaire ces marques, sous peine d'une amende de trois cents francs pour la première fois. En cas de récidive, le coupable devait être puni d'une amende double, et d'un emprisonnement de six mois. Dans tous les cas, les objets contrefaits devaient être saisis au profit du propriétaire de la marque.
+
+La loi du 22 germinal an XI [^210] a rendu ces dispositions plus générales : elle déclare que la contrefaçon des marques particulières que tout manufacturier ou artisan a le droit d'appliquer sur les objets de sa fabrique, donne lieu à des dommages-intérêts envers celui dont la marque a été contrefaite; elle dispose, en outre, que l'individu coupable de contrefaçon est punissable des mêmes peines que celui qui commet un faux en écriture privée. Cette loi n'autorise les fabricans et artisans à se plaindre de contrefaçon, qu'autant qu'ils ont préalablement fait connaître leurs marques d'une manière légale, par le dépôt d'un modèle au greffe du tribunal de commerce d'où relève le chef-lieu de la manufacture ou de l'atelier [^211].
+
+Les Anglais paraissent avoir pensé qu'on n'avait pas besoin d'une loi spéciale pour empêcher une personne de nuire à une autre, en faisant usage de la marque que celle-ci s'est appropriée pour distinguer les produits de son industrie. Ils admettent que, suivant les règles du droit commun, l'homme qui contrefait la marque d'un autre, doit être condamné à lui payer les dommages qu'il lui a causés. Cette espèce d'usurpation ne paraît pas au reste, avoir été mise par eux au nombre des délits: elle ne donne lieu qu'à des réparations civiles.
+
+Il peut se rencontrer d'autres cas où une personne cherche à s'enrichir en usurpant la réputation d'une autre. Un peintre dont le nom serait peu connu, pourrait, par exemple, chercher à vendre ses tableaux, en inscrivant au bas le nom d'un peintre célèbre; un écrivain pourrait mettre sur ses écrits le nom d'un auteur estimé du public; un médecin ou un avocat sans nom, pourraient donner des consultations sous le nom d'un médecin ou d'un jurisconsulte renommés. Dans ces cas et dans d'autres pareils, les personnes dont on usurpe le nom et la réputation, éprouvent un dommage analogue à celui que leur causerait la violation de toute autre espèce de propriété. Ils sont lésés dans leurs intérêts, non-seulement en ce qu'on leur ravit une partie des fruits de la réputation qu'ils ont acquise, mais aussi parce que leur réputation peut être altérée par le fait de l'usurpation.
+
+Il n'existe pas de loi spéciale pour garantir les propriétés de ce genre; mais elles sont garanties par les dispositions des lois générales. Ayant admis comme principe général que tout fait de l'homme qui cause à autrui un dommage, oblige celui qui en est l'auteur à le réparer, il était inutile de descencendre aux applications de ce principe.
+
+Il reste à examiner si certaines conceptions de l'esprit, lorsqu'elles ont été réalisées, doivent être mises au rang des propriétés.
+
+---
+
+### Notes
+
+[^209]: 13 janvier 1801.
+[^210]: 12 avril 1803.
+[^211]: Art. 16, 17 et 18.

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 42,
+  "chapter_title": "De l’influence exercée sur quelques-uns des peuples d’Europe, par les circonstances locales au milie",
+  "chapter_slug": "42-de-l-influence-exercee-sur-quelques-uns-des-peuple",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "854a5271-ded1-4bb8-a0ca-3459c8d29ade",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4649,
+      "paragraph_count": 25,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "77ce138e-f70e-456e-bb7c-fdc0555e19e7",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4555,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 26,
+  "chapter_title": "Tujh ko duzdida nigahi yeh sikha di kis ne",
+  "chapter_slug": "26-tujh-ko-duzdida-nigahi-yeh-sikha-di-kis-ne",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9f8d0a6b-6026-4e6f-ac4e-42c65cd5a176",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 215,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/08.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5ccf0770-26b1-4c6d-a36b-913a5de36d96",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 185,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "808eefb8-3d34-4434-860b-b034e8b16c5c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 174,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

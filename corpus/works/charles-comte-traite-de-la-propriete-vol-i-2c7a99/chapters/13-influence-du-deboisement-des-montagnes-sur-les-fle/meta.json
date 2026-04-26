@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 13,
+  "chapter_title": "Influence du déboisement des montagnes sur les fleuves et les rivières.",
+  "chapter_slug": "13-influence-du-deboisement-des-montagnes-sur-les-fle",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5b8f4e5d-9401-496d-9c78-3fd8efab2f8a",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2921,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "8ab300b5-2933-4490-a278-5fcc6179944b",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2941,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

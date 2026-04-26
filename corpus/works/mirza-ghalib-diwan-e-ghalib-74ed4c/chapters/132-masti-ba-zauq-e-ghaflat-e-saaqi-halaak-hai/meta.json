@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 132,
+  "chapter_title": "Masti ba-zauq-e-ghaflat-e-saaqi halaak hai",
+  "chapter_slug": "132-masti-ba-zauq-e-ghaflat-e-saaqi-halaak-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bb3bdbcf-1d02-4257-b0e8-945cddfe588e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 33,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "24fd4b57-42b8-4a39-ad54-b870264b18a1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 33,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e0c9ebbe-9762-4d4f-8966-0a4c8b20ae02",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 71,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

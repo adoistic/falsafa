@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 181,
+  "chapter_title": "Shab khumaar-e-shauq-e-saaqi rastakhez-andaaza tha",
+  "chapter_slug": "181-shab-khumaar-e-shauq-e-saaqi-rastakhez-andaaza-tha",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "327f8f1f-e90e-4edd-920d-f06eedd00dd6",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 60,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74c8079f-d121-4679-96bd-a5291e08edac",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 60,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "32daafea-7b88-4271-85a4-b2053282f487",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 176,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

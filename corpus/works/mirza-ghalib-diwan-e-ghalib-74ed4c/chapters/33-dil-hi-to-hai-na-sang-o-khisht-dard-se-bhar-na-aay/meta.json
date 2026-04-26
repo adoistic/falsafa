@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 33,
+  "chapter_title": "Dil hi to hai na sang-o-khisht, dard se bhar na aaye kyun-",
+  "chapter_slug": "33-dil-hi-to-hai-na-sang-o-khisht-dard-se-bhar-na-aay",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fe102d9c-192b-4479-829a-6459a0468f97",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 150,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6dfebded-f8b4-4c76-a0f9-7faac0d3a5fe",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 143,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "c4711869-1afb-4f1c-a225-dabea190265c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 203,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 206,
+  "chapter_title": "Zamana sakht kam-azaar hai ba-jaan-e-Asad",
+  "chapter_slug": "206-zamana-sakht-kam-azaar-hai-ba-jaan-e-asad",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e1d85d19-3cd4-445c-8449-8955b0ce1e1e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 70,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "da7a95a6-a391-4621-9908-e9f9df1bc24d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 150,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "491a0bb1-5603-44c2-976f-d01de3075277",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 70,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

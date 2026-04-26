@@ -1,0 +1,50 @@
+{
+  "work_slug": "cynewulf-elene-d2d132",
+  "work_title": "Elene",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "645286ce-75a7-4da6-bee1-39b75d096783",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 7592,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a02_06.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "05fc7018-f6aa-4834-bffa-83b6a45a54b2",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 8573,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "47b6c7c7-782d-4722-8dd6-fb87ed0980d4",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 7318,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 112,
+  "chapter_title": "Kisi ko de ke dil koi nawasanj-e-fughan kyun ho",
+  "chapter_slug": "112-kisi-ko-de-ke-dil-koi-nawasanj-e-fughan-kyun-ho",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "19821928-bd4f-44d6-9494-8fad62904b13",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 229,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "43b652e2-1399-460c-a4fd-da96f67b3e29",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 270,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "3b4a1e56-d2ba-42e8-86d2-c86881b705ea",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 229,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

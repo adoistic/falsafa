@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 6,
+  "chapter_title": "Kushaada dast-e-karam jab woh beniyaaz kare",
+  "chapter_slug": "06-kushaada-dast-e-karam-jab-woh-beniyaaz-kare",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4ae7c529-149c-4b1d-9524-7340cd298db0",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 172,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/ghazals/11.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9826875b-6c6b-4ceb-bf01-91981b695c18",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 171,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "8c7d71a2-a089-4af7-a4ce-dc4c7bf05971",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 135,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

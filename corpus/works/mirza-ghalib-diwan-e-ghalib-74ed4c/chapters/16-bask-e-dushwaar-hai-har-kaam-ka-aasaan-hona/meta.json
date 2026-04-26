@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 16,
+  "chapter_title": "Bask-e dushwaar hai har kaam ka aasaan hona",
+  "chapter_slug": "16-bask-e-dushwaar-hai-har-kaam-ka-aasaan-hona",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "437aa268-e266-4cf1-9edd-522ec4ec7eed",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 115,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "681d98ba-6aeb-48fe-ac0c-de375b3bfe2e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 184,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "844ad994-6ea0-41df-8f5c-e5c22e478b9b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 114,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

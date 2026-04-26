@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 37,
+  "chapter_title": "Diya hai dil agar uss ko, bashar hai kya kahiye",
+  "chapter_slug": "37-diya-hai-dil-agar-uss-ko-bashar-hai-kya-kahiye",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c419a625-5a84-4cc6-86ec-bc72debb5580",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 148,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "97576851-f511-4e27-92a0-1a6f44f5b6b7",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 227,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "12840b69-6f57-4444-9de7-a2294968783d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 148,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

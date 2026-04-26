@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+  "work_title": "Nouveau traité d'économie: VOL I",
+  "chapter_number": 3,
+  "chapter_title": "II. Influence des circonstances extérieures sur la liberté.",
+  "chapter_slug": "03-ii-influence-des-circonstances-exterieures-sur-la-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f579d270-7f88-4251-a9aa-c3c4f9735f24",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 9116,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e685570e-c43a-42af-b805-57748efbf04d",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 9431,
+      "paragraph_count": 53,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

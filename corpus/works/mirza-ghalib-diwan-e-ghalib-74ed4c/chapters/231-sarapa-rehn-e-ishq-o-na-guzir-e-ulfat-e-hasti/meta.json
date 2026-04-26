@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 231,
+  "chapter_title": "sarapa rehn-e-ishq o na-guzir-e-ulfat-e-hasti",
+  "chapter_slug": "231-sarapa-rehn-e-ishq-o-na-guzir-e-ulfat-e-hasti",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d4e73116-a2d8-4565-8794-8587632ce735",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 86,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2654b610-9d77-4d9c-86ca-6835ff577f00",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 87,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "bcb3a956-5cd5-4dcd-a08f-70c956735c89",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 184,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

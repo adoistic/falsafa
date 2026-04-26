@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 12,
+  "chapter_title": "Des parties du territoire national qui restent communes, et particulièrement des fleuves et des rivi",
+  "chapter_slug": "12-des-parties-du-territoire-national-qui-restent-com",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3c4cf398-3ce4-4fe9-a3de-5ac1bb39f6ab",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3081,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "48d9997e-d0fd-4a52-b624-57065abd5bc8",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3086,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

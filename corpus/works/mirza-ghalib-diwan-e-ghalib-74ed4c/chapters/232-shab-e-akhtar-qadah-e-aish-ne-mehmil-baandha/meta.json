@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 232,
+  "chapter_title": "shab-e-akhtar qadah-e-aish ne mehmil baandha",
+  "chapter_slug": "232-shab-e-akhtar-qadah-e-aish-ne-mehmil-baandha",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9d5b427c-5bef-4aa0-8b59-1b0c75aaf136",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 98,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "eb9e506d-72d8-4de3-86e5-d6428181b94b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 227,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "2d2133a7-e8c3-4609-999b-fc1532e5346f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 78,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 210,
+  "chapter_title": "Zindagi apni jab is shakl se guzri Ghalib",
+  "chapter_slug": "210-zindagi-apni-jab-is-shakl-se-guzri-ghalib",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a7c4b14d-050f-4940-b10e-adab6c8f5d9b",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 17,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "07260570-f0cb-4ba0-a745-6cb7fccc9d63",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 17,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "7ab6ac5a-4af8-44f7-b6ca-e4b74c36a789",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 22,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

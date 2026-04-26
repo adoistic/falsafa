@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 21,
+  "chapter_title": "Ek Pahar aur Gilehri",
+  "chapter_slug": "21-ek-pahar-aur-gilehri",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "31f08c11-6c9d-47dc-a688-69cc535173e5",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 236,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/07.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9b618924-aee1-49db-84af-0707ef20b658",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 217,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "59a6e422-09c8-44d5-af08-a309dc54fef4",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 239,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

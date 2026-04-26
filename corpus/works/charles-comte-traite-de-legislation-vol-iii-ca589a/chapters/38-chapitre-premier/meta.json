@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+  "work_title": "Traité de Législation: VOL III",
+  "chapter_number": 38,
+  "chapter_title": "CHAPITRE PREMIER.",
+  "chapter_slug": "38-chapitre-premier",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "db034de8-d1eb-49b5-8c3a-dacbb4a80f4a",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5353,
+      "paragraph_count": 26,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b2458b68-efa0-4c44-a417-b08821d33b89",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5123,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

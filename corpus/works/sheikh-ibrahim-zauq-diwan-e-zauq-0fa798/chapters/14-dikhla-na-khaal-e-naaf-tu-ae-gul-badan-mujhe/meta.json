@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 14,
+  "chapter_title": "Dikhla na khaal-e-naaf tu ae gul-badan mujhe",
+  "chapter_slug": "14-dikhla-na-khaal-e-naaf-tu-ae-gul-badan-mujhe",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8ca9a7c4-8fcf-4106-8444-096ada317039",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 325,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b417d529-6d7a-4a6d-a77e-bfbc9b69c38b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 323,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "440669fe-efa3-4c65-8908-25f8ef87bc3d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 529,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

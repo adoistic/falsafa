@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 53,
+  "chapter_title": "Ghar mein tha kya ke tera gham usey gharat karta",
+  "chapter_slug": "53-ghar-mein-tha-kya-ke-tera-gham-usey-gharat-karta",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2502ff87-503d-4056-9c14-262a529de352",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 19,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "25004dcc-68e9-404b-a85c-eb458043185b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 20,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "eeb71f4f-5eda-4455-ad76-67b9126b1b44",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 19,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 81,
+  "chapter_title": "Huzoor-e-shah mein ahl-e-sukhan ki aazmaish hai",
+  "chapter_slug": "81-huzoor-e-shah-mein-ahl-e-sukhan-ki-aazmaish-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "47cc8eb6-433c-4c49-86a7-df6623b5b5ef",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 149,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd1b9d09-158e-4772-9591-5f56f2c0539c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 235,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "ae64cd27-553c-4abf-b3e0-822623520f02",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 149,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

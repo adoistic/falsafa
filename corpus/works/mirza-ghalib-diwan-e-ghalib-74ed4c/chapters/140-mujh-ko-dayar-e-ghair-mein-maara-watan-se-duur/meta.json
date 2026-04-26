@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 140,
+  "chapter_title": "Mujh ko dayar-e-ghair mein maara watan se duur",
+  "chapter_slug": "140-mujh-ko-dayar-e-ghair-mein-maara-watan-se-duur",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f804ba5e-af42-43db-b790-e9f428fc00ee",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 30,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6e529646-28d9-4a2c-a496-b4b2fc2108fd",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 30,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "cb05f20b-a1a4-41c3-84e5-4f00a254220c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 34,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

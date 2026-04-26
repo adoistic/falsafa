@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 215,
+  "chapter_title": "dhota hoon jab main peene ko us seem-tan ke paaon",
+  "chapter_slug": "215-dhota-hoon-jab-main-peene-ko-us-seem-tan-ke-paaon",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "53d21e80-ebaf-4685-9c04-b561057d533f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 131,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "59f8d29c-bd77-42ce-a1d5-5907427ae2c6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 174,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "2abd1cf9-c6da-4798-971e-fc2b5b690cfa",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 131,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+  "work_title": "Traité de Législation: VOL IV",
+  "chapter_number": 2,
+  "chapter_title": "Nature des divers genres d’esclavage domestique.",
+  "chapter_slug": "02-nature-des-divers-genres-d-esclavage-domestique",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "70d2f46a-c5e3-40da-aa96-1f69783c1e09",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2937,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6d6b6f12-4e2e-434d-b3f6-ccf6bed36d89",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2821,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

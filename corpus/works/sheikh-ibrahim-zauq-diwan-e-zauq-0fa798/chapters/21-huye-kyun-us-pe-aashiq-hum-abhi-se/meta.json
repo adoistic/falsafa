@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 21,
+  "chapter_title": "Huye kyun us pe aashiq hum abhi se",
+  "chapter_slug": "21-huye-kyun-us-pe-aashiq-hum-abhi-se",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f8e6454a-86e4-47aa-a7ef-80b0c1689397",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 172,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ca9d43d8-f4f3-40ad-a464-8a18abebfb20",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 170,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "2511bdf2-869d-4303-b066-81b69d8acf8a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 238,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

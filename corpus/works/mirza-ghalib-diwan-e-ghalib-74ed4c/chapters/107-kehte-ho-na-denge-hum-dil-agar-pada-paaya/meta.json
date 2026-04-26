@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 107,
+  "chapter_title": "Kehte ho na denge hum dil agar pada paaya",
+  "chapter_slug": "107-kehte-ho-na-denge-hum-dil-agar-pada-paaya",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "270df748-c0bd-4e2f-8bdb-7ca6bf55516e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 207,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f1410cd3-ef7d-48d6-a9be-81d12116109c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 338,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "c51d113c-0b0a-4dcd-9d82-0a0e99f7f0c6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 207,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

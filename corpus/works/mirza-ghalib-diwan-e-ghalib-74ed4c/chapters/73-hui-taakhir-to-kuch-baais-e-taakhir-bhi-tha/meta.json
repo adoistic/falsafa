@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 73,
+  "chapter_title": "Hui taakhir to kuch baais-e-taakhir bhi tha",
+  "chapter_slug": "73-hui-taakhir-to-kuch-baais-e-taakhir-bhi-tha",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "de8d26cd-17d8-48fd-80a0-5baea16d0a7d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 180,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "52fb1405-96e0-4a2b-9c5a-9ad2c04fc35a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 180,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "8568a2f0-8b6e-4fb7-a1ef-e97339362e17",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 273,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

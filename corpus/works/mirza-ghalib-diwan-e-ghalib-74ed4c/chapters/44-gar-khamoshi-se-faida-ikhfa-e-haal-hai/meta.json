@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 44,
+  "chapter_title": "Gar khamoshi se faida ikhfa-e-haal hai",
+  "chapter_slug": "44-gar-khamoshi-se-faida-ikhfa-e-haal-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a3c84933-4ece-4acc-96c8-aed645321f14",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 98,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c859bd2d-aea1-4a52-8351-da02502a3a95",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 136,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "8a447678-cded-48ca-b4ac-f65d4d8f2f3c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 98,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

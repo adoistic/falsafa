@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 79,
+  "chapter_title": "Husn-e-beparwa kharidar-e-mata-e-jalwa hai",
+  "chapter_slug": "79-husn-e-beparwa-kharidar-e-mata-e-jalwa-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "21e53b0f-853c-4a73-b10c-39799f745dc3",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 14,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "acffe112-e317-4de5-bafe-05eef52b561a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 45,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "db8c126d-010f-4320-b868-b619f7b9e336",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 14,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

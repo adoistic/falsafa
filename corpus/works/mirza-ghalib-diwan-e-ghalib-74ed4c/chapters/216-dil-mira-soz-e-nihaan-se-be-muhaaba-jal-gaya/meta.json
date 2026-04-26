@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 216,
+  "chapter_title": "dil mira soz-e-nihaan se be-muhaaba jal gaya",
+  "chapter_slug": "216-dil-mira-soz-e-nihaan-se-be-muhaaba-jal-gaya",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3007b7b6-3287-46de-8ba2-7636ec7c6ebe",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 145,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5b09c6ba-9f8c-4a4f-b60d-39afb7a596c6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 145,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "c2b263f9-39bc-48fd-9c3e-f5c4fa9ae8d3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 226,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

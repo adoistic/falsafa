@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 47,
+  "chapter_title": "Gayi woh baat ke ho guftugu to kyun kar ho",
+  "chapter_slug": "47-gayi-woh-baat-ke-ho-guftugu-to-kyun-kar-ho",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0b617456-9605-4b56-801e-a6d57e47dacd",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 171,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ffaea242-f3c9-49f6-adc3-8aaf42ae6e1d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 182,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "674a0c93-18cb-48f6-b428-b59e6591bfe6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 239,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

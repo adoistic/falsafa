@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 1,
+  "chapter_title": "Chamak teri ayaan bijli mein, aatish mein, sharare mein",
+  "chapter_slug": "01-chamak-teri-ayaan-bijli-mein-aatish-mein-sharare-m",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d8dfedb4-9599-4fd2-88f1-b0e2e0e7dce4",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 178,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/Ghazals/04.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f4a5f3e4-1b9a-497c-bc70-e870c4eef792",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 145,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "c4614335-c9ca-4a75-a780-f635d7f14648",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 185,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

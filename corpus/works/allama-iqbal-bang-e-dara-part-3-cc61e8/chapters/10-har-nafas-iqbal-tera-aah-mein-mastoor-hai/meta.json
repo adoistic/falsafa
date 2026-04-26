@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 10,
+  "chapter_title": "Har nafas Iqbal tera aah mein mastoor hai",
+  "chapter_slug": "10-har-nafas-iqbal-tera-aah-mein-mastoor-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b25a2bc0-ad1a-49df-9c8e-a117fdbe8d54",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 303,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/25.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4ad97249-1757-4e69-9e86-ed403d1d3084",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 403,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "c9d2e1b8-0734-42b6-ae6d-868fbfd92e61",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 256,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

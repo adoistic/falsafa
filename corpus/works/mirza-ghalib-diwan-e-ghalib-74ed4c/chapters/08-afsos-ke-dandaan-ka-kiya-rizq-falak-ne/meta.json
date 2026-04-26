@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 8,
+  "chapter_title": "Afsos ke dandaan ka kiya rizq falak ne",
+  "chapter_slug": "08-afsos-ke-dandaan-ka-kiya-rizq-falak-ne",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0d80d3ab-44ab-4394-b828-c48192400316",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 43,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "108c5ccb-7a08-46f6-ae3a-94c4ba94a9e2",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 52,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "72394dc8-9924-4a97-b6c3-a163a8d75d11",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 43,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

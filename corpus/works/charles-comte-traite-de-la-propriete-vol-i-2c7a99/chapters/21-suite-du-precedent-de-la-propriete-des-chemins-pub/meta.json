@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 21,
+  "chapter_title": "Suite du précédent. De la propriété des chemins publics, et des droits qui en résultent.",
+  "chapter_slug": "21-suite-du-precedent-de-la-propriete-des-chemins-pub",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c0dbfc4d-6b48-4fc2-ad06-4cfc00241983",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4104,
+      "paragraph_count": 42,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "80323665-de6f-454a-bb1f-d40854222211",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4267,
+      "paragraph_count": 41,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

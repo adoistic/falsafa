@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-slokantara-d7a628",
+  "work_title": "Slokantara",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "86657c87-6bd1-4bd4-b1a6-b04953579d1a",
+      "language": "Kawi",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 12338,
+      "paragraph_count": 293,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2ee130cd-2295-47db-a396-adbd6ae498fa",
+      "language": "english",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 17343,
+      "paragraph_count": 184,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

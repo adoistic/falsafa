@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 34,
+  "chapter_title": "Maar kar teer jo woh dilbar-e-jaani maange",
+  "chapter_slug": "34-maar-kar-teer-jo-woh-dilbar-e-jaani-maange",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "32f8f354-77a9-4175-a705-143d46637f52",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 105,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b8c24faa-c0de-431e-934e-377510a284b6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 140,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "0b5e9cef-74b6-41fc-9c4c-0eb69734fbf7",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 106,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 16,
+  "chapter_title": "Ek sadma dard-e-dil se meri jaan par toh hai",
+  "chapter_slug": "16-ek-sadma-dard-e-dil-se-meri-jaan-par-toh-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3e6c2d18-b436-4f77-8d0d-f290fc26cdcf",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 167,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1af95d54-c313-4417-a104-96622a3cc83f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 194,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "03eb6143-9cf2-46d8-ab3b-438091d1923c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 165,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

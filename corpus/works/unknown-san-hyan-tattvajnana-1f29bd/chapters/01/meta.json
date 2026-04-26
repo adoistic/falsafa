@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+  "work_title": "San Hyan Tattvajnana",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "e673109e-2296-43e7-b123-803df66db8cc",
+      "language": "Kawi",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 12617,
+      "paragraph_count": 58,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d81ceeaa-b267-456c-93cb-73081debb394",
+      "language": "english",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 16092,
+      "paragraph_count": 114,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

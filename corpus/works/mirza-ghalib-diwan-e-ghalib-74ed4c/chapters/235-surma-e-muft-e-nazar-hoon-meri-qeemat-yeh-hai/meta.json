@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 235,
+  "chapter_title": "surma-e-muft-e-nazar hoon meri qeemat yeh hai",
+  "chapter_slug": "235-surma-e-muft-e-nazar-hoon-meri-qeemat-yeh-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ae72d12e-a95b-4232-8b0e-9b9ed21e1515",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 56,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "32789dc2-fd50-4eab-b844-d401ac81588d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 56,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "2aa2f220-c4b1-4634-a32d-aa06caeadbc3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 96,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "cynewulf-andreas-07b573",
+  "work_title": "Andreas",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "956570d3-c27f-4602-96c6-0021000ee23e",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 9647,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a02_01.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4beb83c7-c813-4ebe-b925-95ca96b6a4c6",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 12387,
+      "paragraph_count": 83,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "2cafdf1b-7438-47f0-8136-c684eae9ec67",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 9297,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

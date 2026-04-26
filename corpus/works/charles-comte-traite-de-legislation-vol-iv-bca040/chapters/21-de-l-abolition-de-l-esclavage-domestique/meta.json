@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+  "work_title": "Traité de Législation: VOL IV",
+  "chapter_number": 21,
+  "chapter_title": "De l’abolition de l’esclavage domestique.",
+  "chapter_slug": "21-de-l-abolition-de-l-esclavage-domestique",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4dae8a24-f366-4bd1-a483-c0a2a4cd545d",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5972,
+      "paragraph_count": 37,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "45c436de-9bc9-4749-bf2e-e0e0a6cdbfc8",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5902,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

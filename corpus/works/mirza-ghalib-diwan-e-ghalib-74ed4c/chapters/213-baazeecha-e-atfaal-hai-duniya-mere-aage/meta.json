@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 213,
+  "chapter_title": "baazeecha-e-atfaal hai duniya mere aage",
+  "chapter_slug": "213-baazeecha-e-atfaal-hai-duniya-mere-aage",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "71242697-0d8c-4406-90ca-e724c57bf50d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 204,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "689f33d1-65d5-42a7-b373-750fff20feb3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 283,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "b8729b17-6edd-4071-95a6-a1284895c2af",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 203,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

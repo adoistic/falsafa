@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 95,
+  "chapter_title": "Jo na naqd-e-daagh-e-dil ki kare shola paasbaani",
+  "chapter_slug": "95-jo-na-naqd-e-daagh-e-dil-ki-kare-shola-paasbaani",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "3992a33a-cad5-4654-9d86-622fb2037f5f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 46,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b17d2c72-5651-49bd-bc88-42f3b7c32a1d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 46,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e9503f19-cba4-4dca-80f3-a80224d43de2",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 52,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

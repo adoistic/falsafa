@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-kalpabuddha-d760dc",
+  "work_title": "Kalpabuddha",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "c719833f-1aa6-4b0b-beb8-2373c8150a0b",
+      "language": "Kawi",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 351,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "74560ab1-0bbb-4696-b8b4-ad96dc3f3582",
+      "language": "english",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 535,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

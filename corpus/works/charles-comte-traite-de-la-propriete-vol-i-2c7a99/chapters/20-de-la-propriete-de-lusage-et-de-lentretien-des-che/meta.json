@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 20,
+  "chapter_title": "De la propriété, de l'usage et de l'entretien des chemins publics.",
+  "chapter_slug": "20-de-la-propriete-de-lusage-et-de-lentretien-des-che",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a5d0cba2-1fea-4552-ab7d-6bb7b9087947",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3091,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4a93bf5f-c77b-49a5-831f-dc7e1f0cbfef",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3153,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

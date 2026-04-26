@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 38,
+  "chapter_title": "Dono jahan de ke woh samjhe yeh khush raha",
+  "chapter_slug": "38-dono-jahan-de-ke-woh-samjhe-yeh-khush-raha",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0c454e98-cfac-41d1-bf9b-dafd4bfac663",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 52,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "76731791-8f03-4c72-a809-eb4d58341dfe",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 69,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "2fc78187-fef8-4562-b81a-1a0f970eebf1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 52,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

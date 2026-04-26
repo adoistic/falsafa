@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 8,
+  "chapter_title": "Du système qui fait d’une religion positive le fondement exclusif de la morale et des lois, et de l’",
+  "chapter_slug": "08-du-systeme-qui-fait-d-une-religion-positive-le-fon",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4df16aa5-144a-427d-a546-1d2bdc9216ef",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 5037,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bbbb3f34-4dd3-4788-98b0-674bcb62ad5e",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4826,
+      "paragraph_count": 33,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

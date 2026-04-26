@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 25,
+  "chapter_title": "Kab haq-parast zahid-e-jannat-parast hai",
+  "chapter_slug": "25-kab-haq-parast-zahid-e-jannat-parast-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f83d36fd-752f-44e6-8dc1-f21e69482dcf",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 97,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d3ce60a6-78ac-4049-aa1b-d18607eaded1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 97,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f59b23a0-7028-4fc9-991b-dbbbf938493a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 120,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

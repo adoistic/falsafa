@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 5,
+  "chapter_title": "De l'appropriation des choses en général.",
+  "chapter_slug": "05-de-lappropriation-des-choses-en-general",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "c0cc6e8f-b263-42b5-be1e-08cf0a859152",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2894,
+      "paragraph_count": 28,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "3f7a5bc0-7593-4765-a0ff-0ea77dd61a38",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2975,
+      "paragraph_count": 27,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+  "work_title": "Nouveau traité d'économie: VOL II",
+  "chapter_number": 15,
+  "chapter_title": "V. Application de ces moyens de liberté aux diverses industries, et d'abord aux industries qui agiss",
+  "chapter_slug": "15-v-application-de-ces-moyens-de-liberte-aux-diverse",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2fe57b2b-3785-412a-ae0a-77f07d58cc31",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 21415,
+      "paragraph_count": 145,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1ffe51d7-dd7b-492a-a143-6dce8545a37f",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 21458,
+      "paragraph_count": 138,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 239,
+  "chapter_title": "zulmat-kade mein mere shab-e-gham ka josh hai",
+  "chapter_slug": "239-zulmat-kade-mein-mere-shab-e-gham-ka-josh-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "654fd15f-1577-45ae-bbe1-e51f6133301f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 141,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "926ba000-37c9-4166-bb6d-7e6571a07c07",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 138,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "0ea89adf-0b39-49bb-a0e0-244c346a0555",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 246,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

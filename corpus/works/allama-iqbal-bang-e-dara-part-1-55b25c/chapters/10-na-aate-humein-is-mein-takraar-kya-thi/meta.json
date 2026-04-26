@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 10,
+  "chapter_title": "Na aate, humein is mein takraar kya thi",
+  "chapter_slug": "10-na-aate-humein-is-mein-takraar-kya-thi",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "b4965813-963b-4b02-bdec-eb6ac7a6ac12",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 108,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/ghazals/02.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5fd195e2-708a-4389-a43f-0057b43352cd",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 121,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "c460cea5-8fc2-42dd-a184-6a3f99b97e6d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 81,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

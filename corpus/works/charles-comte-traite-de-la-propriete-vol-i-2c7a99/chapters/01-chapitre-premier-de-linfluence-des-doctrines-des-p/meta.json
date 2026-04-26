@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+  "work_title": "Traité de la propriété: VOL I",
+  "chapter_number": 1,
+  "chapter_title": "CHAPITRE PREMIER. De l'influence des doctrines des peuples possesseurs d'esclaves sur les idées des",
+  "chapter_slug": "01-chapitre-premier-de-linfluence-des-doctrines-des-p",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ffcd65b4-769a-4494-bfaf-dee0278d31c6",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1824,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0bf8dcbc-20cb-4c38-baa2-da0133920c1d",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1875,
+      "paragraph_count": 15,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

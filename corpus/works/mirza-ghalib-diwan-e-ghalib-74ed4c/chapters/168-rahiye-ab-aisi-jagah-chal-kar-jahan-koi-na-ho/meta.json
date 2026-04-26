@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 168,
+  "chapter_title": "Rahiye ab aisi jagah chal kar jahan koi na ho",
+  "chapter_slug": "168-rahiye-ab-aisi-jagah-chal-kar-jahan-koi-na-ho",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a0e290b5-7d45-45f6-83ce-817583a9b789",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 51,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "57b7a9c5-9cd3-499c-9ea6-93e47f28ea27",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 51,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "23df6191-3d4e-4166-b72d-5b54bb548a0f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 61,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

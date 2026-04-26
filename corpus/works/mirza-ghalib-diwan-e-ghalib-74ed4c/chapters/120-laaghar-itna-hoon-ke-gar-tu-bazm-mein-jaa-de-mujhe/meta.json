@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 120,
+  "chapter_title": "Laaghar itna hoon ke gar tu bazm mein jaa de mujhe",
+  "chapter_slug": "120-laaghar-itna-hoon-ke-gar-tu-bazm-mein-jaa-de-mujhe",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e5ea51b0-d155-4b18-8793-89ef48438af0",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 76,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fcc48acd-587f-4873-b13e-dc77885d51c1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 109,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "1ae73500-f2a9-45dc-ab04-a564f869d872",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 76,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 143,
+  "chapter_title": "Muzhda ae zauq-e-aseeri ke nazar aata hai",
+  "chapter_slug": "143-muzhda-ae-zauq-e-aseeri-ke-nazar-aata-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8a034c2f-56aa-449b-b699-a09d1f0a8b25",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 107,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "70f87662-1fb8-44f2-bb86-9e52c37fb697",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 106,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a2ccd582-5712-4879-b881-b97d493dfeb6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 159,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

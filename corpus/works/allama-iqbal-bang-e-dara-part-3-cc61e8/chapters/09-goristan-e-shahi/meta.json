@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 9,
+  "chapter_title": "Goristan-e-Shahi",
+  "chapter_slug": "09-goristan-e-shahi",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6767d907-eace-4b91-bee9-c973b773d4c2",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 964,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/04.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "a902c4d2-046b-4546-9a73-77fb01d353db",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 970,
+      "paragraph_count": 59,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a076a2a7-ced3-434f-bdad-4f4e687973ee",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 831,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

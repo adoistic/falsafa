@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 201,
+  "chapter_title": "Yaad hai shaadi mein bhi hangama-e-ya-rab mujhe",
+  "chapter_slug": "201-yaad-hai-shaadi-mein-bhi-hangama-e-ya-rab-mujhe",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "10bfacd2-718a-4513-8b53-e1df1c979c64",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 67,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "79c5bf1b-b394-4e69-919a-bfd51592a8fc",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 102,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "d461a6c3-a7be-4290-8839-8baee14215ba",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 66,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

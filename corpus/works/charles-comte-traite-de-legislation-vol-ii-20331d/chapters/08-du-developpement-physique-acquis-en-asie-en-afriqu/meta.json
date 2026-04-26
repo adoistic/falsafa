@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 8,
+  "chapter_title": "Du développement physique acquis en Asie, en Afrique et en Europe, sous différents degrés de latitud",
+  "chapter_slug": "08-du-developpement-physique-acquis-en-asie-en-afriqu",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "cb3930cb-35f6-42c5-8b1c-24d5dc589d86",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4472,
+      "paragraph_count": 36,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6f54123b-dd18-47cc-a325-29bd1fc8d66b",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4367,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

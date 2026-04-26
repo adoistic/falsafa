@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 20,
+  "chapter_title": "Ek Makra aur Makhi",
+  "chapter_slug": "20-ek-makra-aur-makhi",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "9f2f0b01-ebf6-413f-85c4-c39dd8da417b",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 438,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/06.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "7517c472-bbc3-47f9-8c88-c8fb3b79f447",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 411,
+      "paragraph_count": 24,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e6183de2-0a3c-4e9e-961e-812fca1e1323",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 418,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 208,
+  "chapter_title": "Zikr mera ba-badi bhi usey manzoor nahin",
+  "chapter_slug": "208-zikr-mera-ba-badi-bhi-usey-manzoor-nahin",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "be4b427f-5033-4d82-8967-ecf9ae3e9527",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 128,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "54bc528f-6857-49d1-9112-86c09ac8d901",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 171,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "269bc32d-ba7e-4af7-8b4e-2892dc5288d3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 128,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

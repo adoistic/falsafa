@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+  "work_title": "Nouveau traité d'économie: VOL I",
+  "chapter_number": 8,
+  "chapter_title": "III. Liberté compatible avec la manière de vivre des peuples chez qui l'esclavage domestique a été r",
+  "chapter_slug": "08-iii-liberte-compatible-avec-la-maniere-de-vivre-de",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fc9d4a25-dbe0-4a98-8092-6619b587a5f0",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 12179,
+      "paragraph_count": 66,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "5d732f04-e1c8-4744-bb80-3146b05bdf07",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 12649,
+      "paragraph_count": 64,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

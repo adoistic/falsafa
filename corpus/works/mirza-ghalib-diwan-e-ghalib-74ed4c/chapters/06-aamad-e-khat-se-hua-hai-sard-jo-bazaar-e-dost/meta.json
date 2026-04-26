@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 6,
+  "chapter_title": "Aamad-e-khat se hua hai sard jo bazaar-e-dost",
+  "chapter_slug": "06-aamad-e-khat-se-hua-hai-sard-jo-bazaar-e-dost",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "57cd88ba-6fa7-4c29-becc-f9a3b79ee69f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 178,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "df33e15a-3281-46e4-8afd-3a164cae9210",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 177,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "3234cfa0-1b1b-47f3-9fcb-d60bcda58109",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 350,
+      "paragraph_count": 16,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

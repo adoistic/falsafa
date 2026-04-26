@@ -1,0 +1,47 @@
+---
+work_id: "20331d30-855a-4b09-9568-91347c3904dd"
+work_slug: "charles-comte-traite-de-legislation-vol-ii-20331d"
+work_title: "Traité de Législation: VOL II"
+author_name: Charles Comte
+chapter_number: 23
+chapter_title: Opposition entre la conduite des peuples d’espèce malaie à l’égard des navigateurs Européens, et leu
+chapter_slug: "23-opposition-entre-la-conduite-des-peuples-d-espece-"
+variant_id: "647a9ed7-371b-417f-9d60-e4ddfff38b4d"
+content_type: translation
+layout: prose
+language: english
+source_language: French
+language_direction: ltr
+script: latin
+word_count: 1483
+estimated_read_time: 8
+translator: thothica
+---
+
+## CHAP. 23: > Opposition between the conduct of the peoples of the Malay species toward European navigators, and their conduct toward one another. — Explanation of this phenomenon.
+
+It is common among travelers to judge the morals of nations by the reception they receive from them: this manner of judging is, however, not very sure; perhaps there is even none more deceptive. We have seen, in the preceding chapters, that the relations that exist, among the peoples of the Malay species, between the two sexes, between parents and children, between the possessors of the soil and the cultivators, and between the diverse tribes, are generally very harsh: they are such as can exist between masters and slaves, or between the cruelest enemies; these peoples, however, appear filled with benevolence toward most of the travelers who visit them; and those who are closest to the equator are those with whom navigators are generally the most satisfied.
+
+The inhabitants of the Marquesas Islands always appear gay and content, and goodness seems painted on their faces; the women are gentle; their gazes express only voluptuousness [605]. The manner in which these peoples have conducted themselves with the Europeans who have visited them, if one makes an exception for thefts, has had the air of frankness and generosity. Their conduct with the French has caused them to be regarded by them as the gentlest, most humane, most peaceful, most hospitable, most generous of all those who occupy the islands of the great Ocean [606]. They have had the same proceedings toward Russian travelers; they have always conducted themselves toward them with the greatest honesty, even in their trade of exchange. The chief of the Russian expedition assures that he would have carried away the most favorable opinion of these islanders, if he had not met among them an Englishman and a Frenchman who made him know them better [607].
+
+The inhabitants of the Society Islands and the Friendly Islands have shown the same dispositions toward European navigators. The former have always manifested, in their physiognomy, gaiety, joy, generosity, the feeling of happiness [608]. They have received into their homes the travelers who have presented themselves there, have admitted them to travel the interior of the country, have invited them into their houses, have offered them food [609]. The latter have given travelers a similar welcome.
+
+> “There is perhaps not on the globe,” says Cook, “a tribe that puts more honesty and less distrust into commerce. We ran no risk in allowing them to examine our merchandise and to handle it in detail, and they counted equally on our good faith. If the buyer or the seller repented of the bargain, they returned to each other by common accord and in a playful manner what they had received. In a word, they seem to combine most of the good qualities that do honor to man, such as industry, candor, perseverance, affability, and perhaps less common virtues, which the brevity of our stay did not permit us to observe [610].”
+
+Travelers have given less praise to the inhabitants of the Sandwich Islands. Cook says, however, that he has never found savage peoples less distrustful and so free in their bearing; other navigators have praised the generosity of their sentiments. Those of these islanders who visited La Pérouse's ships conducted themselves there in the most regular manner: they were so docile, they feared so much to offend the French, that it was extremely easy to make them return to their canoes. La Pérouse says that he had no idea of a people so gentle, so full of regard.
+
+> “When I had permitted them to come aboard my frigate,” he adds, “they did not take a step without my consent; they always had the air of fearing to displease us; the greatest fidelity reigned in their commerce [611].”
+
+The inhabitants of Easter Island, still more distant from the equator than those of the Sandwich Islands and the Society Islands, have also appeared to have fewer moral qualities. However, when they approached La Pérouse's vessel, they came on board with a laughing air and a security that gave this traveler the best opinion of their character. When they saw the vessel set sail, they manifested no fear of being carried away and torn from their native land; the idea of a perfidy did not even seem to present itself to their minds; they were in the midst of strangers, naked and without any weapon [612].
+
+Finally, the inhabitants of New Zealand, who are the peoples of the Malay race most distant from the equator and those whose industry has made the least progress, have manifested sentiments of benevolence and friendship to the navigators who have visited their lands, and have rendered them the services that depended on them [613].
+
+All these islanders have therefore received nearly the same praise. We can observe, however, that as one moves away from the equator, the admiration of navigators diminishes: the inhabitants of the Marquesas Islands are more admired than those of the Society Islands and the Friendly Islands; these more than the inhabitants of the Sandwich Islands; those of the Sandwich Islands more than those of Easter Island [614]. All this praise, moreover, relates only to the conduct of these islanders toward European navigators, and not to the conduct they hold toward one another. I will even observe here that those who have furnished the most examples of violence and brutality toward one another are those among whom the ranks are the most marked. One has not observed, for example, among the inhabitants of New Zealand, who, in other respects, are the most barbarous peoples, chiefs maintaining order with blows of sticks and clubs.
+
+But how have peoples who in their mutual relations have so little gentleness, and who seem to recognize no other law than force, at first shown themselves so gentle toward European navigators? These navigators themselves give us the solution to this problem:
+
+> “There is no one,” says La Pérouse, “who, having read the accounts of the latest travelers, can take the Indians of the South Sea for savages; they have, on the contrary, made very great progress in civilization, and I believe them to be as corrupt as they can be relative to the circumstances in which they find themselves: my opinion on this is not founded on the various thefts they have committed, but on the manner in which they went about them [615]. The most shameless scoundrels of Europe are less hypocritical than these islanders; all their caresses were feigned; their physiognomy did not express a single true sentiment: the one to be most wary of was the Indian to whom one had just given a present, and who appeared the most solicitous in rendering a thousand small services [616]. — The Malays,” says La Pérouse elsewhere, “are today the most perfidious nation of Asia, and their children have not degenerated, because the same causes have prepared and produced the same effects [617].”
+
+The observations that La Pérouse makes in a general manner are confirmed in a particular manner by himself and by other travelers, relative to the inhabitants of almost all the islands; they are proven above all by the multitude of facts they report. The inhabitants of the Society Islands, whose conduct toward the Europeans was a subject of praise for Cook and Bougainville, showed gentleness only after having vainly attempted to surprise Wallis's crew, and having experienced the power of his artillery: they had to see their strongest canoes dispersed or broken by grapeshot and cannonballs, to merit the praise that navigators later gave them [618]. The advantages they derived from their commerce with European vessels, the danger they saw in attacking them, and the impossibility of making themselves masters of them, were more than sufficient to inspire gentleness in them [619].
+
+It seems to me, however, that one would be mistaken if one attributed to fear and hypocrisy all the marks of benevolence that travelers have received from these peoples. The old offenses they have received from one another, and the vengeances that have resulted from them, have accustomed them to see enemies in all men who are not of their nation; but this prejudice, which was common to all the peoples of antiquity that we know, can yield to a contrary conviction. Perfidy and vengeance are born everywhere of fear, and of the need for security: men cease to be false and vindictive, whenever they believe themselves to be in safety, and have no injustice to fear; they cease to be violent and unjust whenever they are convinced that they cannot be so with impunity; one will even see that it is sometimes sufficient for a very short interval to extinguish the most inveterate sentiments of hatred and vengeance, when some event causes the causes that produced them to cease.

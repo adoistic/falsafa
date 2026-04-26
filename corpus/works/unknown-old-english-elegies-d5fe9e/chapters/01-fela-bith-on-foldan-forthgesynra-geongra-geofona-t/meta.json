@@ -1,0 +1,51 @@
+{
+  "work_slug": "unknown-old-english-elegies-d5fe9e",
+  "work_title": "Old English Elegies",
+  "chapter_number": 1,
+  "chapter_title": "Fela bith on foldan      forthgesynra geongra geofona,      tha tha gaestberend weath in gewitte,   ",
+  "chapter_slug": "01-fela-bith-on-foldan-forthgesynra-geongra-geofona-t",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2ee66256-253e-4ea7-9118-52d189c9048a",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 640,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_07.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "cff94be6-e03a-4507-9296-26032dfa40b6",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 605,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e6dfab74-9e74-4316-a768-033c484b6585",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 843,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

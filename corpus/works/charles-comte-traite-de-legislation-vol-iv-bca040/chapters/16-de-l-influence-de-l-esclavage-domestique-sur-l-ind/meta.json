@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+  "work_title": "Traité de Législation: VOL IV",
+  "chapter_number": 16,
+  "chapter_title": "De l’influence de l’esclavage domestique sur l’indépendance des peuples possesseurs d’esclaves.",
+  "chapter_slug": "16-de-l-influence-de-l-esclavage-domestique-sur-l-ind",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7b5b97cc-9091-468f-8903-c70beb049949",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4951,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "94489545-b6c7-4fc8-a394-624094d18d75",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4823,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

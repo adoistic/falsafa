@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 35,
+  "chapter_title": "Rukhsat Ae Bazm-e-Jahan",
+  "chapter_slug": "35-rukhsat-ae-bazm-e-jahan",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "086b90d0-1264-4b4d-ba1f-30a27b1ba8bf",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 392,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/32.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "d6a70d44-37e7-447f-81a6-42f91224d4b6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 319,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "8d901953-8b78-42eb-9ca2-d92ef6e8accd",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 468,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

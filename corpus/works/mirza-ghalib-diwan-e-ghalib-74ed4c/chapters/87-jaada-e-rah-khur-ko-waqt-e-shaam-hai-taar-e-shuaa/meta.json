@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 87,
+  "chapter_title": "Jaada-e-rah khur ko waqt-e-shaam hai taar-e-shuaa",
+  "chapter_slug": "87-jaada-e-rah-khur-ko-waqt-e-shaam-hai-taar-e-shuaa",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a00d5b7e-91e4-4d18-bf9c-45333a4e4a8d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 67,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "709a9c53-4804-4937-93a2-43fa05520e58",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 67,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "196045d2-a918-47a7-b7ff-534403acd289",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 110,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 46,
+  "chapter_title": "Des rapports qui existent entre l'accroissement des propriétés, et l'accroissement des diverses clas",
+  "chapter_slug": "46-des-rapports-qui-existent-entre-laccroissement-des",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "063b9968-db92-4499-9d7a-62528850b87c",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2218,
+      "paragraph_count": 30,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "22bbf561-b234-4bfa-8393-0db10ebaf297",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 2202,
+      "paragraph_count": 29,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

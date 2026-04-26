@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 38,
+  "chapter_title": "Mere seene se tera teer jab ae jangjoo nikla",
+  "chapter_slug": "38-mere-seene-se-tera-teer-jab-ae-jangjoo-nikla",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "11f7e1a2-4336-4849-bc72-21af06c2226c",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 162,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0cdb8170-a98d-4d5b-a792-c1f2cc3af75c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 211,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "39c77d75-a9c3-4de0-bcda-20841e8c67f0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 161,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

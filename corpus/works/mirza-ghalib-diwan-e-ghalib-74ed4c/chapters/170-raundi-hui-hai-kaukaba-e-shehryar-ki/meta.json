@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 170,
+  "chapter_title": "Raundi hui hai kaukaba-e-shehryar ki",
+  "chapter_slug": "170-raundi-hui-hai-kaukaba-e-shehryar-ki",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7e000413-f16f-4aa4-960a-655014a56fd2",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 42,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9f624b74-189d-4e82-bdd4-d9a1120a74d9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 42,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "3ee12a0a-6d97-4678-ae60-485d102dd458",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 47,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

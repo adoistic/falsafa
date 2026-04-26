@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 103,
+  "chapter_title": "Kabhi neiki bhi us ke jee mein gar aa jaaye hai mujh se",
+  "chapter_slug": "103-kabhi-neiki-bhi-us-ke-jee-mein-gar-aa-jaaye-hai-mu",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "27f34909-19d6-4183-9de5-5f7ce33b9524",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 148,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b013def5-80b2-4b76-b874-829c00e7fcc9",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 148,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a55b8020-6967-42b6-b1de-993e3d078b0c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 239,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

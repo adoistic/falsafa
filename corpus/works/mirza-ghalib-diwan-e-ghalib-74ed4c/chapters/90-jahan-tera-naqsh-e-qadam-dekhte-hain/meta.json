@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 90,
+  "chapter_title": "Jahan tera naqsh-e-qadam dekhte hain",
+  "chapter_slug": "90-jahan-tera-naqsh-e-qadam-dekhte-hain",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "46a8995b-e86c-4022-9b60-fd5ea6719e73",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 84,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f66f49f5-88b6-4dde-962d-69ad5bd74370",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 153,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a07ff147-e9fe-4171-90d6-268a2e88cf06",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 84,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

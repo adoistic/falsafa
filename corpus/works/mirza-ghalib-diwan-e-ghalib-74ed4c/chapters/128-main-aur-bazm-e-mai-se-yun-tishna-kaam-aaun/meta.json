@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 128,
+  "chapter_title": "Main aur bazm-e-mai se yun tishna-kaam aaun",
+  "chapter_slug": "128-main-aur-bazm-e-mai-se-yun-tishna-kaam-aaun",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d0819020-16fc-450e-b20a-841058bef9d2",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 52,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fa7590e3-d466-4303-8b38-22396e59cf25",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 52,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "26aae687-7e59-46d8-9c11-2eb1ab1cd56b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 71,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

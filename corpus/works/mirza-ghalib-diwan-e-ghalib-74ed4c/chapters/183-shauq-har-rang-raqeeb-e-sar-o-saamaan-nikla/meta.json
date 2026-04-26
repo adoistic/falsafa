@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 183,
+  "chapter_title": "Shauq har rang raqeeb-e-sar-o-saamaan nikla",
+  "chapter_slug": "183-shauq-har-rang-raqeeb-e-sar-o-saamaan-nikla",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4452f930-5eee-4132-975f-f126ffbcae3e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 179,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1640f513-2141-40ea-a9c1-170691181e25",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 179,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "73e87671-277b-436d-bb22-02da93d7bf35",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 333,
+      "paragraph_count": 14,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

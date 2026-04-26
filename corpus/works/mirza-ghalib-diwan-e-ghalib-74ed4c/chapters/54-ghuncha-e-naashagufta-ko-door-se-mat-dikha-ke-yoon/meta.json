@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 54,
+  "chapter_title": "Ghuncha-e-naashagufta ko door se mat dikha ke yoon",
+  "chapter_slug": "54-ghuncha-e-naashagufta-ko-door-se-mat-dikha-ke-yoon",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aa3bf415-0a46-4e16-b771-c7494f9d789f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 185,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "0773cff4-0e79-494b-94b0-fe2f2181057e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 185,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "fda9cbb2-bf7f-437c-816e-e8ea1fa8701a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 167,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

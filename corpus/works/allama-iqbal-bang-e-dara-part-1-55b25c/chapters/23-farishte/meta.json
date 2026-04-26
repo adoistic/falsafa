@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+  "work_title": "Bang-E-Dara Part 1",
+  "chapter_number": 23,
+  "chapter_title": "Farishte",
+  "chapter_slug": "23-farishte",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "eed9c8b8-57fa-48d7-b840-4018eb379a01",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 363,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/49.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "07ac05d5-0878-4797-9db1-813eeef33c78",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 310,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "a6dfff40-15d7-4f7b-ba9c-07b8211a25d3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 441,
+      "paragraph_count": 21,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

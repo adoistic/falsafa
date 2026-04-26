@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 10,
+  "chapter_title": "Arz-e naaz-e shokhi-e dandaan baraaye khanda hai",
+  "chapter_slug": "10-arz-e-naaz-e-shokhi-e-dandaan-baraaye-khanda-hai",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0458a5f8-7080-4608-bac5-0d83c81ae3c2",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 69,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e73e11b9-8e69-4aa4-ab85-947eebc1d441",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 104,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "0811d8a7-9f52-42ee-8ce4-79c8e3a59fc3",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 169,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

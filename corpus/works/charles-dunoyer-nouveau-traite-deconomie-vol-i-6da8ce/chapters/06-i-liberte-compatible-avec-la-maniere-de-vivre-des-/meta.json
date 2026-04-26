@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+  "work_title": "Nouveau traité d'économie: VOL I",
+  "chapter_number": 6,
+  "chapter_title": "I. Liberté compatible avec la manière de vivre des peuples nomades [ 118 ] .",
+  "chapter_slug": "06-i-liberte-compatible-avec-la-maniere-de-vivre-des-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "2d7eed36-51d4-4c43-8078-2b964e91c877",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 6605,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "17d08c12-7f80-4f9c-88e3-f5e1db85a30c",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 7174,
+      "paragraph_count": 51,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 171,
+  "chapter_title": "Reham kar zaalim ke kya bood-e-charaagh-e-kushta hai",
+  "chapter_slug": "171-reham-kar-zaalim-ke-kya-bood-e-charaagh-e-kushta-h",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "646a5208-700c-4a8f-8503-f29c360a91fd",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 50,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "80ded835-bff5-4b3e-9ee7-f8ed21514e8a",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 130,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "0df2845e-a99e-4c7b-af7e-9c54255fbf87",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 50,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

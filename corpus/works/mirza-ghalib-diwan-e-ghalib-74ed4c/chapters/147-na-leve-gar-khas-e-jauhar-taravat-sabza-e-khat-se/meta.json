@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 147,
+  "chapter_title": "Na leve gar khas-e-jauhar taravat sabza-e-khat se",
+  "chapter_slug": "147-na-leve-gar-khas-e-jauhar-taravat-sabza-e-khat-se",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "aaa83623-4ae2-4ee5-9970-789db6bda434",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 88,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ec2fdf69-805e-4c6c-82b8-d564f2e9990b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 88,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "cb8a25b3-735a-4574-8be0-a15b5bd98eb7",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 170,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

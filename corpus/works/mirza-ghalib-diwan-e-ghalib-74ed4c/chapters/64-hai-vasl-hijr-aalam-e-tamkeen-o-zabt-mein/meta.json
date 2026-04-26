@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 64,
+  "chapter_title": "Hai vasl hijr aalam-e-tamkeen-o-zabt mein",
+  "chapter_slug": "64-hai-vasl-hijr-aalam-e-tamkeen-o-zabt-mein",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "6a3a3979-feeb-4c76-a89a-d0b17ae9f5eb",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 30,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "251d1436-c0f0-47d6-8f3b-0286d2e8e9fc",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 63,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "867f9313-7fdb-4964-a0f0-d363dd215d0c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 30,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

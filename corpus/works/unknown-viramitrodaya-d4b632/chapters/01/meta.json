@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-viramitrodaya-d4b632",
+  "work_title": "Vīramitrodaya",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "39466e62-ff50-4454-8492-65d983d4a48b",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 49581,
+      "paragraph_count": 9737,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc26f84d-e215-48d4-b614-706431e8957c",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 142010,
+      "paragraph_count": 5035,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

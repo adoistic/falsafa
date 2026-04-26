@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 22,
+  "chapter_title": "Taleem aur iske Nataaij",
+  "chapter_slug": "22-taleem-aur-iske-nataaij",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "771199f8-21d3-45ef-adcd-0cce24123f5e",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 89,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/30.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "fd264a11-d2e2-437c-b16e-36e1af6b7464",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 80,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "35ea4cf6-3941-489b-9ce3-50a9ff3de37d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 76,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

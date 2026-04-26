@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 52,
+  "chapter_title": "Gham-e-duniya se gar paayi bhi fursat sar uthaane ki",
+  "chapter_slug": "52-gham-e-duniya-se-gar-paayi-bhi-fursat-sar-uthaane-",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "853bbb4a-2436-4188-9d6d-637ea683c381",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 115,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "060e1ee2-a841-4dd0-b1fa-1a7eab5ac348",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 157,
+      "paragraph_count": 8,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "c56f2ead-34cc-4761-9eba-3b6b7977be32",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 114,
+      "paragraph_count": 7,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

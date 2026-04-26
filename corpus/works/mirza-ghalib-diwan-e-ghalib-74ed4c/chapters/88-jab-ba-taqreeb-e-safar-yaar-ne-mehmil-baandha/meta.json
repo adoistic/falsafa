@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 88,
+  "chapter_title": "Jab ba-taqreeb-e-safar yaar ne mehmil baandha",
+  "chapter_slug": "88-jab-ba-taqreeb-e-safar-yaar-ne-mehmil-baandha",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "da669b54-15c6-44c8-8cb8-9878f3e238a8",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 134,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "63017586-7a23-4c74-93b9-5a48806a79bc",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 316,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "8019d013-c1c6-40b4-bec4-8a25492fcd7c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 134,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

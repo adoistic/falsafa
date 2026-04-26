@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+  "work_title": "Traité de Législation: VOL I",
+  "chapter_number": 17,
+  "chapter_title": "Des opinions ou des idées des diverses classes de la population, considérées comme éléments de la pu",
+  "chapter_slug": "17-des-opinions-ou-des-idees-des-diverses-classes-de-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "02829331-b702-43ad-aeb2-a8210cabfaac",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1485,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e6baea05-4f99-486d-8bad-80d0b4464e10",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 1509,
+      "paragraph_count": 12,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

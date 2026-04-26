@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 200,
+  "chapter_title": "Woh meri cheen-e-jabeen se gham-e-pinhan samjha",
+  "chapter_slug": "200-woh-meri-cheen-e-jabeen-se-gham-e-pinhan-samjha",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "ba5eaedc-faec-4735-b4ed-8db84aedd467",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 116,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "dc656af5-582c-478b-86fe-05164c9cd3ab",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 115,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "f3713101-9d9c-48ad-8af6-fed69c8e3edf",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 238,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 122,
+  "chapter_title": "Lab-e-khushk dar-tishnagi-e-murdgaan ka",
+  "chapter_slug": "122-lab-e-khushk-dar-tishnagi-e-murdgaan-ka",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "e59c5517-fcc7-420c-a6bf-d8af43fca18f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 46,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "99859919-3f7d-4fdc-afff-aa8f48fc6145",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 103,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "95a52df2-ea10-4e11-971d-dd5dce67f41e",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 47,
+      "paragraph_count": 6,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-brhaspati-smrti-0fd070",
+  "work_title": "Bṛhaspati Smṛti",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "805dc97d-2dab-4cff-80de-8b12340d734d",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 19473,
+      "paragraph_count": 2709,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "61522d04-69f4-463e-bfa5-d4ea00c6414e",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 32934,
+      "paragraph_count": 1220,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

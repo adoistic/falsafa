@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+  "work_title": "Bang-E-Dara Part 2",
+  "chapter_number": 18,
+  "chapter_title": "Muhabbat",
+  "chapter_slug": "18-muhabbat",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "7de7a2a1-7d78-492e-829d-1579aef22c98",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 300,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/01.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "9528e6c0-dd4a-41e0-b857-c2ff57585b28",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "empty",
+      "word_count": 0,
+      "paragraph_count": 0,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "edebc225-1330-49e4-b50b-c3497967981b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 248,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

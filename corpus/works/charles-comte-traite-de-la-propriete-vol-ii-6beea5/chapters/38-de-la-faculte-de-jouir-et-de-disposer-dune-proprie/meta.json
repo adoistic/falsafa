@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+  "work_title": "Traité de la propriété: VOL II",
+  "chapter_number": 38,
+  "chapter_title": "De la faculté de jouir et de disposer d'une propriété.",
+  "chapter_slug": "38-de-la-faculte-de-jouir-et-de-disposer-dune-proprie",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "bdd2e8e2-08c5-4983-9365-63e09910ff20",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3609,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "1cb8f132-ae66-427b-9d20-1a511b2feccf",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 3687,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 187,
+  "chapter_title": "Sitamkash maslehat se hoon ke khoobaan tujh pe aashiq hain",
+  "chapter_slug": "187-sitamkash-maslehat-se-hoon-ke-khoobaan-tujh-pe-aas",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "f6a1c143-4e50-4e85-be82-4a00d9e137fd",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 18,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ff3688f3-e952-45fa-a40b-0b9e77a20d73",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 18,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "b9e49407-fdcf-492d-b2b0-789c8c4bb1e4",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 35,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

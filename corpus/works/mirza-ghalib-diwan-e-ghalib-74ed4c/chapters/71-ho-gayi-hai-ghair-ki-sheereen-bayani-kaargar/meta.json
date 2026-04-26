@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 71,
+  "chapter_title": "Ho gayi hai ghair ki sheereen-bayani kaargar",
+  "chapter_slug": "71-ho-gayi-hai-ghair-ki-sheereen-bayani-kaargar",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d82d6cf6-cf1a-420d-bce3-a01d734f8101",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 45,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ac025abf-37a7-456b-8419-d57021ff4bf1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 44,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "9005b157-1386-4fed-aca2-0b588e08972b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 75,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 59,
+  "chapter_title": "Hai aarmidagi mein nekohish baja mujhe",
+  "chapter_slug": "59-hai-aarmidagi-mein-nekohish-baja-mujhe",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "4b262b4a-3dda-4936-b745-924a51422ebf",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 139,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "c46940f1-f80c-42c5-b536-24c465cddd00",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 138,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "43f64bff-afc7-45aa-af85-e111e16e3d38",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 225,
+      "paragraph_count": 13,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

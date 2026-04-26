@@ -1,0 +1,50 @@
+{
+  "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+  "work_title": "Bang-E-Dara Part 3",
+  "chapter_number": 2,
+  "chapter_title": "Bilad-e-Islamiya",
+  "chapter_slug": "02-bilad-e-islamiya",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "795786a9-ba68-4005-b465-ecf3e05b58ea",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "other",
+      "word_count": 398,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part03/01.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "2fbd3d33-e109-40b2-9199-11afb342f2be",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 338,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "81a0232a-2556-4392-bbda-83426adfe09c",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 498,
+      "paragraph_count": 23,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

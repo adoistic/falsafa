@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 39,
+  "chapter_title": "Na karta zabt main naala to phir aisa dhuaan hota",
+  "chapter_slug": "39-na-karta-zabt-main-naala-to-phir-aisa-dhuaan-hota",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "82df525e-d2ca-487c-a6fe-147290f00443",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 194,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "e77b2d9d-d215-45f5-85ce-b4c7acf939d0",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 251,
+      "paragraph_count": 11,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "fee3595b-1ee7-49be-bef5-0c4386e0c4cf",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 194,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

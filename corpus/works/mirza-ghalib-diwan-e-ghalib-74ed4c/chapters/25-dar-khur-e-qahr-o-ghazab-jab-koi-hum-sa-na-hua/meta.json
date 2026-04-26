@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 25,
+  "chapter_title": "Dar-khur-e-qahr-o-ghazab jab koi hum sa na hua",
+  "chapter_slug": "25-dar-khur-e-qahr-o-ghazab-jab-koi-hum-sa-na-hua",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "14a6a71d-7b9b-481b-98b0-1d351dd457fd",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 153,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "bdefd1c4-430d-4600-a988-2aebd4e43974",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 153,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "5289c27c-5306-48bb-8d9a-a1ab4d77a11f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 207,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

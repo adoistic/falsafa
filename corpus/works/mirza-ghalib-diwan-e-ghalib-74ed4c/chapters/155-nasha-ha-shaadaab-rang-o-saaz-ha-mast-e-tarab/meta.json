@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 155,
+  "chapter_title": "Nasha-ha shaadaab-rang o saaz-ha mast-e-tarab",
+  "chapter_slug": "155-nasha-ha-shaadaab-rang-o-saaz-ha-mast-e-tarab",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "a75e4ce9-f548-4eb7-923c-23b55f73fe6c",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 24,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "f249673d-12f3-4bdb-a34c-3e0bde7df66b",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 24,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "edc09aa4-bb73-4469-96f5-d10b2f32ce87",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 46,
+      "paragraph_count": 2,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

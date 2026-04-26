@@ -1,0 +1,51 @@
+{
+  "work_slug": "unknown-old-english-elegies-d5fe9e",
+  "work_title": "Old English Elegies",
+  "chapter_number": 8,
+  "chapter_title": "Nu ic onsundran the secgan wille ...... treocyn ic tudre aweox; in mec aeld... sceal ellor londes se",
+  "chapter_slug": "08-nu-ic-onsundran-the-secgan-wille-treocyn-ic-tudre-",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "d8fdca43-73bf-419f-b025-fb4a1d6d83e1",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 308,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_32.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b3e94f7c-f614-4121-bd68-796ea255b21f",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 389,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "6295f5a2-1dcf-435b-94c5-66541ab8cc69",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 286,
+      "paragraph_count": 1,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

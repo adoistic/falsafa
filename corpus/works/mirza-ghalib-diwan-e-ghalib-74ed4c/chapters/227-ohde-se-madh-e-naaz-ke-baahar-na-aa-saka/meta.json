@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 227,
+  "chapter_title": "ohde se madh-e-naaz ke baahar na aa saka",
+  "chapter_slug": "227-ohde-se-madh-e-naaz-ke-baahar-na-aa-saka",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "0fc452a2-9c4d-4b89-83cb-6b71f22a3208",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 52,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "6a68fe21-edd2-4056-8e98-59d0b6d4d209",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 52,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "9df51ae2-03da-4252-8fb2-dca66dc71688",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 72,
+      "paragraph_count": 4,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

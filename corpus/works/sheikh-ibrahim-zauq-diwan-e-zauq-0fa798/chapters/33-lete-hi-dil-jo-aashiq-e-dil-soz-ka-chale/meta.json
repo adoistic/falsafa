@@ -1,0 +1,50 @@
+{
+  "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+  "work_title": "Diwan-E-Zauq",
+  "chapter_number": 33,
+  "chapter_title": "Lete hi dil jo aashiq-e-dil-soz ka chale",
+  "chapter_slug": "33-lete-hi-dil-jo-aashiq-e-dil-soz-ka-chale",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "5521ee5c-2b12-493b-baba-5cf3ee86082f",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 336,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "121624de-adad-4e8e-b1af-df7856af2c74",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 335,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "fd1eaa9d-7d3c-4a74-a330-40ebc7a329b1",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 445,
+      "paragraph_count": 22,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

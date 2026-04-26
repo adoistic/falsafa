@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-vratisasana-d0fe75",
+  "work_title": "Vratisasana",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "8d0b6d4a-35ee-4a8d-bf22-528f9f1ac589",
+      "language": "Kawi",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 12337,
+      "paragraph_count": 261,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "55b4a202-e4d4-4310-a812-213d2257c130",
+      "language": "english",
+      "source_language": "Kawi",
+      "script": "latin",
+      "word_count": 17658,
+      "paragraph_count": 261,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

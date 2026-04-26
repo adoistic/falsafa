@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 221,
+  "chapter_title": "hum rashk ko apne bhi gawara nahi karte",
+  "chapter_slug": "221-hum-rashk-ko-apne-bhi-gawara-nahi-karte",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "8994d5e0-7888-491f-bc03-56a2fb83523d",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 42,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "b805b307-63b1-4b37-aa56-f757dd9226be",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 42,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "d81d0bf7-d918-4802-b9b4-31d3244b4d0d",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 65,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

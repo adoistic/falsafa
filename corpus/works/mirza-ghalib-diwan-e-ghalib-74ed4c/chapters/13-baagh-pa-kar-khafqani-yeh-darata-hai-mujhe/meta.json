@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 13,
+  "chapter_title": "Baagh pa kar khafqani yeh darata hai mujhe",
+  "chapter_slug": "13-baagh-pa-kar-khafqani-yeh-darata-hai-mujhe",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fedf11b2-57f2-4473-b0cf-a2975a91ead3",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 124,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "ebeda38d-9689-4257-8f55-fb1cba3c872f",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 124,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "791e0dec-80e6-45fa-b151-98c2d1ac1aa6",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 209,
+      "paragraph_count": 10,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

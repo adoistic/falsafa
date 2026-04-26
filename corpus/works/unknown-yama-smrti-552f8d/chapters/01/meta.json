@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-yama-smrti-552f8d",
+  "work_title": "Yama Smṛti",
+  "chapter_number": 1,
+  "chapter_title": "Chapter 1",
+  "chapter_slug": "01",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "25926ead-8023-439c-8a07-a969fd7d65c4",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 2204,
+      "paragraph_count": 280,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "4a086dc7-c974-4d6d-846f-7a58b6014ec2",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 4467,
+      "paragraph_count": 140,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

@@ -1,0 +1,50 @@
+{
+  "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+  "work_title": "Diwan-E-Ghalib",
+  "chapter_number": 148,
+  "chapter_title": "Na tha kuch toh Khuda tha, kuch na hota toh Khuda hota",
+  "chapter_slug": "148-na-tha-kuch-toh-khuda-tha-kuch-na-hota-toh-khuda-h",
+  "layout": "verse",
+  "layouts_in_variants": [
+    "verse"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "605104fa-d5c7-4c00-a5d4-28f901aca715",
+      "language": "Urdu",
+      "source_language": "Urdu",
+      "script": "arabic",
+      "word_count": 69,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "582119e1-6fb6-4f91-b450-50b7c643ffae",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 69,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "4f7db153-048b-4508-a43b-c7420c51fa64",
+      "language": "english",
+      "source_language": "Urdu",
+      "script": "latin",
+      "word_count": 84,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

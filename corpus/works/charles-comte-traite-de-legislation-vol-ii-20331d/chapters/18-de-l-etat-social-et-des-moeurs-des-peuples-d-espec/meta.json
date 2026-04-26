@@ -1,0 +1,38 @@
+{
+  "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+  "work_title": "Traité de Législation: VOL II",
+  "chapter_number": 18,
+  "chapter_title": "De l’état social et des mœurs des peuples d’espèce cuivrée, placés entre les tropiques. — Parallèle",
+  "chapter_slug": "18-de-l-etat-social-et-des-moeurs-des-peuples-d-espec",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "fbe98b8a-aab9-4a43-9561-be5e4a3a9a5e",
+      "language": "French",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4803,
+      "paragraph_count": 35,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "614cb91b-5227-4a6f-8c84-7c15a382cf06",
+      "language": "english",
+      "source_language": "French",
+      "script": "latin",
+      "word_count": 4754,
+      "paragraph_count": 34,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

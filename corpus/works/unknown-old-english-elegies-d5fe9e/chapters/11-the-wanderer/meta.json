@@ -1,0 +1,51 @@
+{
+  "work_slug": "unknown-old-english-elegies-d5fe9e",
+  "work_title": "Old English Elegies",
+  "chapter_number": 11,
+  "chapter_title": "The Wanderer",
+  "chapter_slug": "11-the-wanderer",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "verse",
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "original.md",
+      "content_type": "original",
+      "variant_id": "29f32910-fa90-416d-9920-4b5007dc3388",
+      "language": "old_english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 726,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_06.htm"
+    },
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "649247f5-a662-4fa5-ada1-c08b454dc000",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 726,
+      "paragraph_count": 5,
+      "has_image": false,
+      "source_url": "https://sacred-texts.com/neu/ascp/a03_06.htm"
+    },
+    {
+      "file": "translation-2.md",
+      "content_type": "translation",
+      "variant_id": "e524ed1c-6ba4-4ae9-a044-bcf54bb4da38",
+      "language": "english",
+      "source_language": "old_english",
+      "script": "latin",
+      "word_count": 882,
+      "paragraph_count": 3,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

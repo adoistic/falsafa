@@ -1,0 +1,149 @@
+---
+work_id: "6beea56e-daa2-4462-a9ed-041727f53bfd"
+work_slug: "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+work_title: "Traité de la propriété: VOL II"
+author_name: Charles Comte
+chapter_number: 49
+chapter_title: Examen critique des dispositions du Code civil sur la nature de la propriété.
+chapter_slug: "49-examen-critique-des-dispositions-du-code-civil-sur"
+variant_id: "26df7ccb-b300-4849-b78d-b2289cf5284f"
+content_type: translation
+layout: prose
+language: english
+source_language: French
+language_direction: ltr
+script: latin
+word_count: 4327
+estimated_read_time: 22
+translator: thothica
+---
+
+## CHAP. 49: Critical examination of the dispositions of the Civil Code on the nature of property.
+
+If the observations I have already made were not sufficient to demonstrate that the nature and foundations of property have never been well observed by the jurists or by the legislators who have concerned themselves with it, what remains for me to say on this subject would make the demonstration complete.
+
+I have previously observed that wherever man does not have the certainty of enjoying and disposing of the goods he has created or legitimately acquired, no new properties are formed; that those which were formerly created fall into decay more or less rapidly, and that the population dies out as its means of existence disappear.
+
+From this, I have drawn the consequence that a nation is conserved and prospers only by guaranteeing to each of its members the faculty of enjoying and disposing of the values he has formed or regularly acquired, and of all the products he can derive from them, whatever their nature.
+
+But it sometimes happens that a thing belonging to one person receives an increase in value, either as a result of the labors of another person, or by fortuitous circumstances, independent of any will; it also happens that diverse properties mix or merge in such a way that they can no longer be separated.
+
+The ancient jurists and the modern jurists have been greatly embarrassed when such cases have presented themselves, and when they have been called upon to render to each his own; they have not even always known how to deduce the simplest consequences from the principles they had admitted on property. Among the decisions they have rendered, a great number have lacked justness, and those whose justness cannot be contested have rarely been founded on good reasons.
+
+To give a good solution to the questions that have embarrassed them, and especially to see the emptiness of the motives on which their decisions have been founded, it will suffice to observe well the nature of things, and to know how to deduce the consequences that flow from it naturally.
+
+All property is composed, as has been seen, of several elements; in general, this word designates a thing having the qualities that render it fit to satisfy some of our needs mediately or immediately, considered relative to one or several persons who have the faculty of enjoying and disposing of it, and guaranteed to these same persons by the dispositions of the laws, and by the public power.
+
+That being understood, if we were asked to whom belong the fruits of such trees, the wheat of such a field, the fodder of such a meadow, we would be little embarrassed to answer; it would seem evident to us that the fruit produced by a thing belongs in general to the proprietor of the thing, if he has not alienated it.
+
+If one went further, and if one wished to know the motives for this decision, we would find them in the very elements that constitute property; we would remark that the faculty of enjoying a thing is one of the essential conditions of property, and that there are no other means of enjoying a parcel of land than to collect the fruits of it oneself or by the hand of another.
+
+If the same question were addressed to a jurist who, instead of observing the nature of things, had studied only books of jurisprudence, his decision, which would be the same in substance, would be founded on another motive; he would teach us that the natural or industrial fruits of the earth, the civil fruits, such as the rents of houses and the interest of capitals, belong to the proprietor *by right of accession*.
+
+But, if we in our turn wished to go further, if we wished to know what the right of accession is, and why there is a right of accession, rather than a right of attraction, gravitation, or generation, it would be very difficult to give a satisfactory answer.
+
+I make this observation, first, because in jurisprudence nothing is more common than to imagine that one has given an unanswerable reason, when one has pronounced a word that has no meaning; and, in the second place, to point out that the use of a flawed expression is sufficient to break the thread of ideas, and to render all good reasoning impossible.
+
+When a government drafts a body of laws, and it wishes them to be well understood, it must, it seems to me, expound the general principles on each matter, in the clearest possible terms, and leave to the jurists and magistrates the care of deducing the consequences, and of making the application; if it mistrusts the intelligence of the men for whom its laws are made, and if it wishes itself to deduce the consequences of the principles it has established, it must give them for what they are, for deductions of the maxims it has consecrated.
+
+This is not how the authors of the Civil Code proceeded when they treated of property; they began by establishing some general dispositions, and they then presented their developments as principles of a completely different nature.
+
+It results from this that the general principles seem to lead to nothing, and can be considered as sterile truths, and that the consequences rest on no reason that one can assign.
+
+The second title of the second book of the Civil Code is devoted to establishing rules on property. In a first article, property is defined: The right to enjoy and dispose of things in the most absolute manner, provided one does not make a use of them prohibited by the *laws* or by the *regulations*. It is declared, by a second article, that no one can be constrained to cede his property, except for cause of public utility, and by means of a just and prior indemnity. Finally, in a third, it is recognized that the property of a thing, whether movable or immovable, gives a right over all that it produces, and over all that unites with it, whether naturally or artificially.
+
+One sees, in the definition of property, the right to *enjoy* and to *dispose* of the thing, and consequently the right to collect the fruits of it; in all languages, in effect, to enjoy a thing exclusively is to appropriate the advantages it produces; the article that declares that the property of a thing gives a right over all that it produces is therefore only an amplification of the article by which property was defined.
+
+It seems to me that after having admitted in principle that every proprietor has the right to enjoy and dispose of his thing, and having explained that the right to enjoy a thing, whether movable or immovable, consists in the faculty of appropriating all that it produces, it was useless to add that the natural or industrial fruits of the earth, the civil fruits, the increase of animals belong to the proprietor; this explanation of a very clear disposition was entirely without object.
+
+However, if one believed that it was good for something, it was necessary to give it for what it was, for the application of a principle that had just been laid down; after having said that the property of a thing, whether movable or immovable, gives a right over all that it produces, it was necessary to add *in consequence*, the property of a parcel of land gives a right to all the fruits that come from it; the property of an animal gives a right to the increase of that animal.
+
+But this is not how they proceeded; they first established some general principles on the right of property; then suddenly appeared a right of a new kind, the *right of accession*; and this one is much more considerable than the first, if one judges by the number of articles in which it is developed: the first required only three, while the second demanded thirty-one.
+
+From the moment the right of accession appeared, there is no longer any question of the right of property; one treats successively: 1st of the right of accession over what is produced by the thing; 2nd of the right of accession over what unites and incorporates with the thing; 3rd of the right of accession relative to immovable things; 4th, finally, of the right of accession relative to movable things.
+
+It is not a matter of researching here what the *right of accession* is, nor why accession produces a right; the research we could undertake in this regard would have no other result than to make us see that it is a word imagined by men who had not known how to observe the nature of property, and to mark its limits.
+
+The dispositions relative to this supposed right of accession can be divided into several classes.
+
+Some are only explanations of the articles that had defined property; it is quite evident, for example, that the dispositions that attribute to the proprietor of the land the revenues it produces, to the proprietor of a house the revenues it gives, and to the proprietor of an animal the increase of that animal, are only explanations of the articles that recognize in the proprietor the right to enjoy his thing and all that it produces.
+
+The dispositions that determine the effects of possession, which declare, for example, that the simple possessor makes the fruits his own only in the case where he possesses in good faith; that, in the contrary case, he is bound to return the products with the thing to the proprietor who reclaims it; that the possessor is in good faith when he possesses as proprietor, by virtue of a title transferring property, whose defects he is unaware of, and that he ceases to be in good faith from the moment these defects are known to him, rest on principles that I have not expounded in this work, but they have nothing in common with what has been agreed to be called the right of accession.
+
+It seems no less evident to me that the disposition which declares that the property of the soil entails the property of what is above and below, is only an explanation of the property that has been poorly defined. What, in effect, would be the property of the soil, for him who would have the property of neither what is above, nor what is below? At what points do the above and the below begin? To have the soil, without above or below, is to have nothing at all; it is a geometric line, a pure conception of the mind.
+
+When one adds that the person who has the property of what is above and below can make above it all the constructions and plantations he deems appropriate, and below it all the constructions or excavations he deems suitable, one is simply explaining the terms that recognize in the proprietor the right to dispose of his thing in the most absolute manner; one is commenting on the definition one has given of property; the supposed right of accession has nothing to do with it here.
+
+From the fact that the property of the soil entails the property of what is above and below, it necessarily follows that all constructions, plantations, and works on a terrain or in its interior are presumed to be made by the proprietor at his expense, and to belong to him, unless the contrary is proven.
+
+There are, in the same chapter, dispositions whose object is, not to explain the definition that has been given of property, but to determine what happens when a thing, which belongs to one person, receives from the hands of another an increase in value, or when several things belonging to different proprietors unite in such a way as to form a single whole.
+
+Questions of this kind cannot greatly embarrass men who admit as a principle that all value belongs to him who has formed it, and that one must never enrich a person at the expense of another. It follows, in effect, from this, that whenever, by his labors, an individual gives an increase in value to the property of another, the latter should not take back his thing except by paying to the former the value he has given it.
+
+If, for example, a person cultivates a parcel of land that does not belong to him, the proprietor should collect the fruits of it only on the condition of reimbursing the costs of plowing, labor, and seeds, that is to say, he must pay for the increase in value that the labors of another will have given to his property. The unintelligible right of accession is entirely foreign here.
+
+The ancient and modern jurists have been greatly embarrassed when they have had to resolve questions of property born of the union or mixture of diverse things belonging to different masters; if the right of accession had not come to the aid of some, accompanied by the distinction of the principal and the accessory, it is doubtful that they would have emerged from their embarrassment.
+
+We are going to examine, by consulting only the nature of things, the principal questions they have resolved, and we will see if we cannot arrive at more just, and especially easier, solutions.
+
+A man has a house built on a piece of land of which he is the proprietor; but he uses materials that are not his. What will be decided in such a case? Will the house be demolished, and the materials returned to the person to whom they belonged? If the house is not to be demolished, will it belong to the proprietor of the materials, or to the proprietor of the soil, who had it built?
+
+The Civil Code decides that it belongs to the proprietor of the land who had it built; and that he will pay the value of the materials he has used and which have become his property; but by virtue of what right? By virtue of the right of accession. It would remain to be known why accession does not give to the proprietor of the materials the property of the values that are added to them; but one hardly thinks of examining questions of this nature.
+
+In examining the diverse elements that constitute a property, it would be easy to find reasons a little more satisfactory than the right of accession. One of the principal elements that form a property is the value found in the thing we designate by this name. Now, we have admitted that all value belongs to him who has created it. A person who uses materials to build a house increases their value by all that the workmanship adds to them. One could not condemn him to return them without ordering the destruction of a considerable value; there would be a double loss: that of the construction costs, and that of the demolition costs. These losses would be profitable for no one; they would be an evil that would not be compensated by any good. One should not, therefore, have ordered that the house be demolished.
+
+But to which of the two proprietors should the house be awarded? To that of the materials, or to that of the man who had it built on his land? It suffices to resolve this question to examine which decision will produce the most advantages and the fewest disadvantages.
+
+It is certain, first, that the house is suitable for the proprietor of the soil, since he had it built, and he had the faculty of accommodating it to his needs, or even to his fancies; it would not be equally certain that it is suitable for the proprietor of the materials: it therefore has for the former a value that it might not have for the latter.
+
+It is almost impossible that he who had the house built took from a single person all the materials he used; he may have taken the stone, or the lime, or the wood, or the iron, or the tile; but he could not have taken everything from him. Now, if one calculates the value of the land, that of the workmanship, and of the materials that were not taken from anyone, or whose value was paid, one will find that he who had the construction done has, in the value of the house, a greater share than he to whom a more or less large part of the materials belonged.
+
+If, therefore, one of the two must pay the other the share he has in the house, the new property must be left to him who will have the smallest reimbursement to make. It is probable that he who has a house built has the means to pay for the materials necessary for it; it would not be as certain that the proprietor of certain materials would have the means to pay the value of the house in the construction of which they had been used.
+
+Finally, it is with materials fit for building a house as it is with all things that can be multiplied by human industry; provided that one has money to buy them, nothing is as easy as to replace those one has lost. If, therefore, the proprietor of the land pays to the proprietor of the materials the value they had, the latter will be able to procure things exactly similar to those of which he has been deprived. If, on the contrary, the proprietor of the materials kept the house, by paying the value that is not his, the proprietor of the land, by whose care it was constructed, could not have another in the same situation.There are therefore very strong reasons for the house not to be demolished, and for it to remain with him who had it built, provided that he reimburses the value of the materials, and that he repairs the damages he has caused; but the right of accession has nothing to do with the question.
+
+This pretended right has led to a just solution in the case I have just supposed; but one would be mistaken if one thought that it always leads there. Here is a case that can present itself more frequently, and where the right of accession seems to me far from infallible.
+
+A man believes himself to be the proprietor of a piece of land that belongs to another person: he has materials brought there whose value he has paid, and has a house built there.
+
+To which of the two will the new property be awarded? If we consult the right of accession, it will tell us that the property of the house must remain with the owner of the soil; but if we consult good sense, it is not certain that it will always give us the same solution.
+
+The jurists have here foreseen two cases: that in which the individual who had the house built was a possessor of the soil in good faith, and that in which he was a possessor in bad faith.
+
+In the first case, they decide that the house belongs to the proprietor of the soil; but that he is bound either to reimburse the value of the materials and the price of labor, or to reimburse a sum equal to that by which the land has increased in value.
+
+Why, in this case, will the house belong to the proprietor of the land? Is it because it is more suitable for him than for him who built it with his own materials? That is hardly probable. It is quite certain that it is suitable for the latter, since he made it; but it is not at all certain that it is suitable for the former.
+
+Would the house be awarded to the owner of the soil because the soil is more valuable than the house? That can happen sometimes; but it is not common.
+
+A house of immense value can be raised on a piece of land almost without value. Let us suppose that the case arises: a rich proprietor has a castle built on one of the confines of his land where he has a beautiful view. When the castle is built, it is ascertained that the soil on which it stands belongs to a man without fortune. What course of action can this man take?
+
+There are only two: he will have to pay the value of the castle, or abandon his land without indemnity. He will be able to demand neither the removal of the building, nor the payment for the soil on which it will have been raised. This is hardly in conformity with good sense, with justice; but it is thus ordered by the *right of accession*, consecrated by Art. 555 of the Civil Code.
+
+Another example will make it even clearer how important it is to always consult the nature of things, and not to let oneself be dominated by words that often have no meaning.
+
+Let us suppose that a man possesses a piece of land of which he believes himself to be the real proprietor, although his possession does not meet all the conditions that the law demands for him to be reputed to be in good faith; for there can be good faith in the true sense of the word, although there is not good faith in the legal sense.
+
+Let us suppose, I say, that this man who wrongly believes himself to be the proprietor, has a building constructed on the land he believes belongs to him: to whom will the property of this building and of the soil on which it is established belong?
+
+The proprietor of the soil has two courses of action: he can demand the removal of the building without indemnity, or he can retain it; but, in this latter case, he must reimburse the value of the materials and the price of labor.
+
+Let a building with a value of five hundred thousand francs or a million be constructed on a piece of land with a value of ten or twelve thousand francs, as often happens in a large city; let a manufactory that will furnish the means of existence to an entire village be raised on a piece of land fit to serve as pasture for a few sheep; but let the capitalist who had the building constructed not be the proprietor of the soil, and let him not meet all the conditions required to be reputed to be in good faith, all the newly created property will have to be destroyed, without the slightest vestige of it remaining, if the proprietor of the soil so wishes.
+
+The manufacturer, his family, his creditors, the inhabitants of the country he supported, will perhaps be ruined: no matter, even if the soil had a value of only fifty francs, the proprietor will be satisfied.
+
+One can say, doubtless, that this disposition was dictated by a profound sentiment of the respect that one owes to property; but there are two properties in conflict here: one, which we suppose to be of the value of one hundred and fifty or two hundred francs, and the other, which we suppose to be of five hundred thousand francs or a million. Now, to destroy a value of a million francs, in favor of a value of two hundred francs, is a singular way of respecting property.
+
+Let us add that it could happen that the property of five hundred thousand francs or a million was assigned to the payment of debts owed to minors, to women, or to other persons quite innocent of the pretended bad faith of him who had the building constructed.
+
+But that is not all: let us suppose that the proprietor of the soil is an honest man, and that he wishes to retain the building, instead of demanding its removal; what is the value he will have to pay to remain its proprietor?
+
+It will not suffice to pay the current value; he will have to pay all that it cost in materials and in labor. If, for example, the building was worth only five hundred thousand francs, and it had cost a million, the proprietor of the soil could retain it only by paying a million. It would not be so in the case where the builder of the building was reputed to be in good faith: in that case, the proprietor of the soil would have the choice of paying for the materials and the labor, or the current value of the building. Now, is it conceivable that the bad faith of the builder of the building deprives the owner of the soil of a faculty he would have had in the case where there had been good faith?
+
+It is true that if the law deprives him of the faculty of keeping the building by paying its just value, it authorizes him to have it removed without indemnity, and that it thus gives him the means to make his adversary capitulate; but one can see in all this neither reason nor justice.
+
+The diverse questions of property to which the modifications that rivers and streams cause to the heritages bordering them can give rise, are resolved by the right of accession. In treating these questions, in one of the preceding chapters, I have made known the true motives for the solutions that have been given to them.
+
+It is also by the right of accession that the Civil Code resolves the question of knowing to whom belong the pigeons, rabbits, and fish that pass into another dovecote, warren, or pond; it decides that they belong to the proprietor of these objects, provided that they have not been attracted there by fraud and artifice.
+
+---
