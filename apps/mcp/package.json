@@ -1,0 +1,53 @@
+{
+  "name": "@falsafa/mcp",
+  "version": "0.0.1",
+  "description": "Open-source MCP server for the Falsafa corpus. Eight librarian-flavored tools so any LLM (Claude, ChatGPT, Hermes via OpenRouter, etc.) can navigate the catalog without an API key.",
+  "license": "MIT",
+  "author": "Adnan",
+  "homepage": "https://github.com/adoistic/falsafa",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adoistic/falsafa.git",
+    "directory": "apps/mcp"
+  },
+  "type": "module",
+  "main": "./dist/index.js",
+  "types": "./dist/index.d.ts",
+  "bin": {
+    "falsafa-mcp": "./dist/index.js"
+  },
+  "files": [
+    "dist/",
+    "corpus/",
+    "README.md",
+    "LICENSE"
+  ],
+  "scripts": {
+    "build": "bun build ./src/index.ts --target=node --outdir=./dist --format=esm",
+    "dev": "bun run ./src/index.ts",
+    "typecheck": "tsc --noEmit",
+    "test": "bun test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@modelcontextprotocol/sdk": "^1.0.0"
+  },
+  "devDependencies": {
+    "@types/bun": "latest",
+    "typescript": "^5.7.0"
+  },
+  "keywords": [
+    "mcp",
+    "model-context-protocol",
+    "claude",
+    "openai",
+    "anthropic",
+    "literature",
+    "philosophy",
+    "translation",
+    "rag",
+    "karpathy"
+  ]
+}
