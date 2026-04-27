@@ -70,6 +70,17 @@ export interface ParagraphRecord {
   text: string;
 }
 
+/**
+ * Raw shape on disk uses {id, offset, text}. We normalize to
+ * {paragraph_id, index, text} in readParagraphs so consumers don't have
+ * to know about both shapes.
+ */
+interface RawParagraphRecord {
+  id: string;
+  offset: number;
+  text: string;
+}
+
 // ── Cache ────────────────────────────────────────────────────────────────
 
 const cache = {
@@ -241,9 +252,19 @@ export async function readParagraphs(
   const cached = cache.paragraphs.get(cacheKey);
   if (cached) return cached;
   try {
-    const records = await fetchJson<ParagraphRecord[]>(
+    const raw = await fetchJson<RawParagraphRecord[]>(
       `/corpus/works/${slug}/chapters/${meta.chapter_slug}/${sidecar}`,
     );
+    // Normalize the on-disk shape (id, offset, text) into our canonical
+    // shape (paragraph_id, index, text). `index` is the array position;
+    // `offset` is the character offset in the source variant, not a
+    // paragraph index — the model's paragraph_range queries treat 0-N as
+    // sequential paragraph numbers, so we use array position as `index`.
+    const records: ParagraphRecord[] = raw.map((r, i) => ({
+      paragraph_id: r.id,
+      index: i,
+      text: r.text,
+    }));
     cache.paragraphs.set(cacheKey, records);
     return records;
   } catch {

@@ -188,6 +188,7 @@ async function getPassage(args: GetPassageArgs): Promise<{
   chapter_number: number;
   variant: string;
   paragraphs: Array<{ paragraph_id: string; index: number; text: string }>;
+  source: "sidecar" | "body-split";
 }> {
   if (!args.work_slug) throw new Error("get_passage: missing required arg work_slug");
   if (typeof args.chapter_number !== "number")
@@ -199,7 +200,23 @@ async function getPassage(args: GetPassageArgs): Promise<{
     : meta.default_variant;
   if (!variantFile) throw new Error(`variant not found for ${args.work_slug}/${args.chapter_number}`);
 
-  const records = await readParagraphs(args.work_slug, args.chapter_number, variantFile);
+  // Prefer the precomputed paragraphs.json sidecar — it has stable
+  // paragraph_ids the model can cite back to. Fall back to splitting
+  // the body on blank lines if the sidecar is missing or empty (some
+  // variants ship without a sidecar). The fallback's paragraph_ids are
+  // synthetic but still cite-able.
+  let records = await readParagraphs(args.work_slug, args.chapter_number, variantFile);
+  let source: "sidecar" | "body-split" = "sidecar";
+
+  if (records.length === 0) {
+    const { body } = await readChapterBody(
+      args.work_slug,
+      args.chapter_number,
+      args.variant,
+    );
+    records = splitIntoParagraphs(body, args.work_slug, meta.chapter_number);
+    source = "body-split";
+  }
 
   let selected: typeof records = [];
   if (args.paragraph_ids && args.paragraph_ids.length > 0) {
@@ -218,7 +235,35 @@ async function getPassage(args: GetPassageArgs): Promise<{
     chapter_number: meta.chapter_number,
     variant: variantFile.replace(/\.md$/, ""),
     paragraphs: selected,
+    source,
   };
+}
+
+/**
+ * Split a chapter body into paragraph records. Paragraphs are separated
+ * by one or more blank lines. Markdown headings and very short standalone
+ * lines (e.g., metric notation) are preserved as their own paragraphs so
+ * the model can cite them.
+ */
+function splitIntoParagraphs(
+  body: string,
+  workSlug: string,
+  chapterNumber: number,
+): Array<{ paragraph_id: string; index: number; text: string }> {
+  const blocks = body.split(/\n\s*\n+/g);
+  const out: Array<{ paragraph_id: string; index: number; text: string }> = [];
+  let i = 0;
+  for (const block of blocks) {
+    const text = block.trim();
+    if (!text) continue;
+    out.push({
+      paragraph_id: `${workSlug}/c${chapterNumber}/p${i}`,
+      index: i,
+      text,
+    });
+    i++;
+  }
+  return out;
 }
 
 // ── search_corpus ──────────────────────────────────────────────────────
