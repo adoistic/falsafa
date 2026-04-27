@@ -15,6 +15,19 @@ interface Props {
 const { title, description, ogImage } = Astro.props;
 const siteName = "Falsafa";
 const fullTitle = title === siteName ? title : `${title} · ${siteName}`;
+
+// Active-route detection. Match by path prefix so /works/iqbal-bang-e-dara/...
+// still highlights READ. Order matters — first match wins.
+const path = Astro.url.pathname;
+type NavItem = { label: string; href: string; matchPrefix: string };
+const navItems: NavItem[] = [
+  { label: "Read", href: "/works/", matchPrefix: "/works/" },
+  { label: "Try", href: "/try/", matchPrefix: "/try/" },
+  { label: "Audit", href: "/audit/", matchPrefix: "/audit/" },
+  { label: "Thesis", href: "/thesis/", matchPrefix: "/thesis/" },
+  { label: "Numbers", href: "/numbers/", matchPrefix: "/numbers/" },
+];
+const isActive = (item: NavItem) => path === item.href || path.startsWith(item.matchPrefix);
 ---
 
 <!doctype html>
@@ -49,19 +62,92 @@ const fullTitle = title === siteName ? title : `${title} · ${siteName}`;
     <a href="#main" class="skip-link">Skip to content</a>
 
     <header class="site-header">
-      <a href="/" class="brand">Falsafa</a>
-      <nav>
-        <a href="/works/">Works</a>
-        <a href="/about/">About</a>
-        <button id="search-trigger" type="button" class="search-trigger" aria-label="Search Falsafa (press / or ⌘K)">
+      <a href="/" class="brand" aria-label={`${siteName} home`}>{siteName}</a>
+
+      {/* Desktop nav. Hidden on mobile via CSS; mobile shows hamburger. */}
+      <nav class="primary-nav" aria-label="Primary">
+        {navItems.map((item) => (
+          <a
+            href={item.href}
+            class:list={["nav-link", { "is-active": isActive(item) }]}
+            aria-current={isActive(item) ? "page" : undefined}
+          >
+            {item.label}
+          </a>
+        ))}
+      </nav>
+
+      <div class="header-actions">
+        <button
+          id="search-trigger"
+          type="button"
+          class="search-trigger"
+          aria-label="Search Falsafa (press / or ⌘K)"
+        >
           <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
             <circle cx="11" cy="11" r="7"></circle>
             <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
           </svg>
-          <span>Search</span>
+          <span class="search-trigger-label">Search</span>
         </button>
-      </nav>
+
+        <button
+          id="nav-drawer-trigger"
+          type="button"
+          class="nav-drawer-trigger"
+          aria-label="Open menu"
+          aria-expanded="false"
+          aria-controls="nav-drawer"
+        >
+          <svg aria-hidden="true" width="20" height="20" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <line x1="4" y1="7" x2="20" y2="7"></line>
+            <line x1="4" y1="13" x2="20" y2="13"></line>
+            <line x1="4" y1="19" x2="20" y2="19"></line>
+          </svg>
+        </button>
+      </div>
     </header>
+
+    {/* Mobile drawer. Visually hidden until aria-hidden=false. Focus trapped while open. */}
+    <div
+      id="nav-drawer"
+      class="nav-drawer"
+      aria-hidden="true"
+      role="dialog"
+      aria-modal="true"
+      aria-label="Site navigation"
+    >
+      <div class="nav-drawer-scrim" data-drawer-dismiss></div>
+      <nav class="nav-drawer-panel" aria-label="Primary (mobile)">
+        <div class="nav-drawer-head">
+          <span class="nav-drawer-title">Menu</span>
+          <button
+            type="button"
+            class="nav-drawer-close"
+            aria-label="Close menu"
+            data-drawer-dismiss
+          >
+            <svg aria-hidden="true" width="22" height="22" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+              <line x1="6" y1="6" x2="18" y2="18"></line>
+              <line x1="18" y1="6" x2="6" y2="18"></line>
+            </svg>
+          </button>
+        </div>
+        <ul class="nav-drawer-links">
+          {navItems.map((item) => (
+            <li>
+              <a
+                href={item.href}
+                class:list={["nav-drawer-link", { "is-active": isActive(item) }]}
+                aria-current={isActive(item) ? "page" : undefined}
+              >
+                {item.label}
+              </a>
+            </li>
+          ))}
+        </ul>
+      </nav>
+    </div>
 
     <SearchDialog />
 
@@ -81,6 +167,68 @@ const fullTitle = title === siteName ? title : `${title} · ${siteName}`;
       </div>
     </footer>
 
-    {/* Search dialog wiring lives inside SearchDialog.astro (mounted above). */}
+    {/* Drawer wiring: open/close, focus trap, Escape, scrim click, restore focus on close. */}
+    <script is:inline>
+      (function () {
+        const trigger = document.getElementById("nav-drawer-trigger");
+        const drawer = document.getElementById("nav-drawer");
+        if (!trigger || !drawer) return;
+
+        let lastFocus = null;
+
+        function open() {
+          lastFocus = document.activeElement;
+          drawer.setAttribute("aria-hidden", "false");
+          trigger.setAttribute("aria-expanded", "true");
+          document.body.style.overflow = "hidden";
+          // Move focus into the drawer.
+          const firstLink = drawer.querySelector("a, button");
+          if (firstLink) firstLink.focus();
+        }
+
+        function close() {
+          drawer.setAttribute("aria-hidden", "true");
+          trigger.setAttribute("aria-expanded", "false");
+          document.body.style.overflow = "";
+          if (lastFocus && typeof lastFocus.focus === "function") {
+            lastFocus.focus();
+          }
+        }
+
+        trigger.addEventListener("click", function () {
+          const expanded = trigger.getAttribute("aria-expanded") === "true";
+          if (expanded) close();
+          else open();
+        });
+
+        // Dismiss on scrim click + close-button click.
+        drawer.querySelectorAll("[data-drawer-dismiss]").forEach(function (el) {
+          el.addEventListener("click", close);
+        });
+
+        // Close on Escape.
+        document.addEventListener("keydown", function (e) {
+          if (e.key === "Escape" && drawer.getAttribute("aria-hidden") === "false") {
+            close();
+          }
+        });
+
+        // Focus trap. When tabbing past last focusable, wrap to first; vice versa for shift+tab.
+        drawer.addEventListener("keydown", function (e) {
+          if (e.key !== "Tab" || drawer.getAttribute("aria-hidden") === "true") return;
+          const focusables = drawer.querySelectorAll("a, button");
+          if (!focusables.length) return;
+          const first = focusables[0];
+          const last = focusables[focusables.length - 1];
+          if (e.shiftKey && document.activeElement === first) {
+            e.preventDefault();
+            last.focus();
+          } else if (!e.shiftKey && document.activeElement === last) {
+            e.preventDefault();
+            first.focus();
+          }
+        });
+      })();
+    </script>
   </body>
 </html>

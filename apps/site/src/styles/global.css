@@ -83,9 +83,10 @@ a:focus-visible {
 
 .site-header {
   display: flex;
-  align-items: baseline;
+  align-items: center;
   justify-content: space-between;
-  padding: var(--s-6) var(--s-8);
+  gap: var(--s-6);
+  padding: var(--s-5) var(--s-8);
   border-bottom: 1px solid var(--rule);
   font-family: var(--font-sans);
   font-size: var(--fs-chrome);
@@ -100,20 +101,173 @@ a:focus-visible {
   font-weight: 700;
   font-size: 24px;
   color: var(--ink);
+  flex-shrink: 0;
 }
 
-.site-header nav {
+/* Primary nav: small-caps editorial register, evenly-tracked.
+   Active route gets the accent color + subtle underline. */
+.primary-nav {
   display: flex;
   gap: var(--s-6);
+  align-items: center;
 }
 
-.site-header nav a {
+.nav-link {
   color: var(--ink-muted);
-  font-weight: 500;
+  font-family: var(--font-sans);
+  font-weight: 600;
+  font-size: 12px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  padding: var(--s-2) 0;
+  border-bottom: 1px solid transparent;
+  transition: color 0.15s ease, border-color 0.15s ease;
 }
 
-.site-header nav a:hover {
+.nav-link:hover {
   color: var(--ink);
+}
+
+.nav-link.is-active {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.header-actions {
+  display: flex;
+  gap: var(--s-3);
+  align-items: center;
+  flex-shrink: 0;
+}
+
+/* Hamburger button: hidden on desktop, shown on mobile via media query below. */
+.nav-drawer-trigger {
+  display: none;
+  background: none;
+  border: 0;
+  padding: var(--s-2);
+  margin: 0;
+  cursor: pointer;
+  color: var(--ink);
+  font: inherit;
+}
+
+.nav-drawer-trigger:hover {
+  color: var(--accent);
+}
+
+.nav-drawer-trigger:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+/* ── Mobile drawer ───────────────────────────────────────────────────── */
+
+.nav-drawer {
+  position: fixed;
+  inset: 0;
+  z-index: 50;
+  display: flex;
+  justify-content: flex-end;
+  visibility: hidden;
+  pointer-events: none;
+}
+
+.nav-drawer[aria-hidden="false"] {
+  visibility: visible;
+  pointer-events: auto;
+}
+
+.nav-drawer-scrim {
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.4);
+  opacity: 0;
+  transition: opacity 0.2s ease;
+}
+
+.nav-drawer[aria-hidden="false"] .nav-drawer-scrim {
+  opacity: 1;
+}
+
+.nav-drawer-panel {
+  position: relative;
+  width: min(320px, 88vw);
+  max-width: 100%;
+  height: 100%;
+  background: var(--paper);
+  border-left: 1px solid var(--rule);
+  padding: var(--s-6);
+  font-family: var(--font-sans);
+  display: flex;
+  flex-direction: column;
+  transform: translateX(100%);
+  transition: transform 0.2s ease;
+}
+
+.nav-drawer[aria-hidden="false"] .nav-drawer-panel {
+  transform: translateX(0);
+}
+
+.nav-drawer-head {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  margin-bottom: var(--s-8);
+}
+
+.nav-drawer-title {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--ink-muted);
+}
+
+.nav-drawer-close {
+  background: none;
+  border: 0;
+  padding: var(--s-2);
+  cursor: pointer;
+  color: var(--ink);
+  font: inherit;
+}
+
+.nav-drawer-close:hover { color: var(--accent); }
+
+.nav-drawer-close:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.nav-drawer-links {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-2);
+}
+
+.nav-drawer-link {
+  display: block;
+  padding: var(--s-3) 0;
+  color: var(--ink);
+  font-family: var(--font-display);
+  font-weight: 600;
+  font-size: var(--fs-h3);
+  letter-spacing: -0.01em;
+  border-bottom: 1px solid var(--rule);
+}
+
+.nav-drawer-link:hover {
+  color: var(--accent);
+}
+
+.nav-drawer-link.is-active {
+  color: var(--accent);
 }
 
 .site-footer {
@@ -145,6 +299,20 @@ a:focus-visible {
   }
   .site-header {
     padding: var(--s-4) var(--s-6);
+  }
+  /* Mobile: collapse the desktop nav into the drawer. Search stays
+     visible (highest-frequency action), hamburger reveals everything else. */
+  .primary-nav {
+    display: none;
+  }
+  .nav-drawer-trigger {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+  }
+  .search-trigger-label {
+    /* Save space; the icon carries the meaning on mobile. */
+    display: none;
   }
 }
 

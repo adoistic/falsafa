@@ -1,0 +1,84 @@
+---
+/**
+ * Stub page for top-nav surfaces that don't have implementations yet.
+ * Each callsite passes the section name (kicker), the working title (h1),
+ * and one paragraph that's honest about what the page will become.
+ *
+ * These get replaced by real pages in later phases. Until then, the stubs
+ * keep the nav functional and honest about state.
+ */
+
+interface Props {
+  kicker: string;
+  title: string;
+  blurb: string;
+  trackingIssue?: string;
+}
+
+const { kicker, title, blurb, trackingIssue } = Astro.props;
+---
+
+<article class="coming-soon">
+  <p class="kicker">{kicker}</p>
+  <h1>{title}</h1>
+  <p class="blurb">{blurb}</p>
+  <p class="status">
+    Not built yet. Tracking in
+    <a href="https://github.com/adoistic/falsafa">the repo</a>{trackingIssue ? <> · <a href={trackingIssue}>spec</a></> : null}.
+    Want to help? The
+    <a href="https://github.com/adoistic/falsafa/blob/main/docs/designs/falsafa-perseus-launch.md">launch design</a>
+    is public.
+  </p>
+  <p class="back">
+    <a href="/">← Back to Falsafa</a>
+  </p>
+</article>
+
+<style>
+  .coming-soon {
+    max-width: 60ch;
+    margin: 0 auto;
+    padding: var(--s-16) var(--s-6) var(--s-24);
+    font-family: var(--font-body);
+  }
+
+  .kicker {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin: 0 0 var(--s-3);
+  }
+
+  h1 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h1);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin: 0 0 var(--s-6);
+  }
+
+  .blurb {
+    font-family: var(--font-display);
+    font-style: italic;
+    color: var(--ink-muted);
+    font-size: var(--fs-h3);
+    line-height: 1.4;
+    margin: 0 0 var(--s-12);
+  }
+
+  .status {
+    font-size: var(--fs-body);
+    line-height: var(--lh-body);
+    margin: 0 0 var(--s-6);
+    color: var(--ink-muted);
+  }
+
+  .back {
+    margin: var(--s-12) 0 0;
+    font-family: var(--font-sans);
+    font-size: var(--fs-chrome);
+  }
+</style>
