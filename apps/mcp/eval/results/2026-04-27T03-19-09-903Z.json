@@ -1,0 +1,36 @@
+{
+  "timestamp": "2026-04-27T03:19:09.904Z",
+  "eval_model": "anthropic/claude-haiku-4.5",
+  "judge_model": "anthropic/claude-haiku-4.5",
+  "case_count": 1,
+  "passes": 1,
+  "total_score": 3,
+  "max_score": 3,
+  "results": [
+    {
+      "id": "factual-cynewulf-works",
+      "category": "factual lookup",
+      "prompt": "What works did Cynewulf write that are in the Falsafa corpus?",
+      "model": "anthropic/claude-haiku-4.5",
+      "tool_calls": [
+        {
+          "name": "list_works",
+          "args": {
+            "author": "Cynewulf"
+          },
+          "result_preview": "{\n  \"count\": 3,\n  \"works\": [\n    {\n      \"slug\": \"cynewulf-andreas-07b573\",\n      \"title\": \"Andreas\",\n      \"author\": \"Cynewulf\",\n      \"era\": \"Medieval\",\n      \"genre\": \"Literature\",\n      \"language\": \"old_english\",\n      \"difficulty\": \"Advanced\",\n      \"total_logical_chapters\": 1,\n      \"total_variant_entries\": 3,\n      \"published_year\": null,\n      \"description\": \"An Old English poem recounting the life and missionary journey of Saint Andrew among the cannibalistic Mermedonians. A vivid example of Anglo-Saxon heroic Christian poetry.\"\n    },\n    {\n      \"slug\": \"cynewulf-elene-d2d132\",\n      \"title\": \"Elene\",\n      \"author\": \"Cynewulf\",\n      \"era\": \"Medieval\",\n      \"genre\": \"Literature\",\n      \"language\": \"old_english\",\n      \"difficulty\": \"Advanced\",\n      \"total_logical_chapters\": 1,\n      \"total_variant_entries\": 3,\n      \"published_year\": null,\n      \"description\": \"An Old English poem narrating the finding of the True Cross by Saint Helena, mother of Constantine the Great. A masterpiece of Anglo-Saxon religious narrative poetry combining history with spiritual devotion.\"\n    },\n    {\n      \"slug\": \"cynewulf-juliana-9a2157\",\n      \"title\": \"Juliana\",\n      \"author\": \"Cynew",
+          "is_error": false
+        }
+      ],
+      "final_answer": "Cynewulf wrote three works in the Falsafa corpus:\n\n1. **Andreas** (`cynewulf-andreas-07b573`) — An Old English poem recounting the life and missionary journey of Saint Andrew among the cannibalistic Mermedonians. A vivid example of Anglo-Saxon heroic Christian poetry.\n\n2. **Elene** (`cynewulf-elene-d2d132`) — An Old English poem narrating the finding of the True Cross by Saint Helena, mother of Constantine the Great. A masterpiece of Anglo-Saxon religious narrative poetry combining history with spiritual devotion.\n\n3. **Juliana** (`cynewulf-juliana-9a2157`) — An Old English hagiographic poem telling the story of Saint Juliana of Nicomedia, her resistance to marriage with a pagan, and her martyrdom. A classic example of Anglo-Saxon Christian devotional poetry.\n\nAll three are classified as Medieval literature in Old English at the Advanced difficulty level.",
+      "duration_ms": 3678,
+      "score_a_tools": 1,
+      "score_b_factual": 1,
+      "score_c_citation": 1,
+      "score_total": 3,
+      "passed": true,
+      "judge_reasoning": "The answer correctly identifies all three Cynewulf works in the Falsafa corpus (Andreas, Elene, Juliana), avoids hallucinating the forbidden works (Christ II, Fates of the Apostles), and provides accurate descriptions; citation is not expected for this query.",
+      "hallucination_detected": false
+    }
+  ]
+}

@@ -82,8 +82,9 @@ const MCP_ENTRY = resolve(HERE, "..", "src", "index.ts");
 const EVAL_MODEL = process.env["EVAL_MODEL"] ?? "anthropic/claude-sonnet-4.5";
 const JUDGE_MODEL = process.env["JUDGE_MODEL"] ?? "anthropic/claude-opus-4.5";
 const OPENROUTER_API_KEY = process.env["OPENROUTER_API_KEY"];
-const MAX_TOOL_CALLS = 10;
-const PER_CASE_TIMEOUT_MS = 30_000;
+const MAX_TOOL_CALLS = 15; // multi-step needle-in-haystack needs more steps
+const PER_CASE_TIMEOUT_MS = 90_000; // 90s — longer for chained discovery
+const TOOL_RESULT_PREVIEW_CHARS = 1200; // judge needs more context than 400
 
 // ─────────────────────────────────────────────────────────────────────────
 // CLI
@@ -230,6 +231,11 @@ async function openRouterChat(
       tools: tools.length > 0 ? tools : undefined,
       tool_choice: tools.length > 0 ? "auto" : undefined,
       temperature: 0.0,
+      // Cap explicitly. Without this, Sonnet defaults to 64K which makes
+      // OpenRouter pre-debit the full budget and 402 long before the
+      // request actually consumes that much. 2000 is enough for tool-use
+      // intermediate responses + a focused final answer.
+      max_tokens: 2000,
     }),
   });
   if (!res.ok) {
@@ -330,7 +336,7 @@ async function runCase(
           traces.push({
             name: call.function.name,
             args: parsedArgs,
-            result_preview: resultText.slice(0, 400),
+            result_preview: resultText.slice(0, TOOL_RESULT_PREVIEW_CHARS),
             is_error: isError,
           });
           messages.push({

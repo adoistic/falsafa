@@ -86,6 +86,7 @@ export async function judgeCase(
   const body = {
     model: opts.model,
     temperature: 0.0,
+    max_tokens: 800,
     response_format: { type: "json_object" },
     messages: [
       { role: "system", content: JUDGE_SYSTEM },
