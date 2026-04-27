@@ -49,7 +49,14 @@ const CHIPS = [
       </p>
     </header>
 
-    <ByokDemo client:load chips={CHIPS} />
+    {/* client:only — the island reads localStorage on initial render
+        (api key + provider + model). Server-side state (no localStorage)
+        diverges from client-side state, causing a hydration mismatch
+        that fails to bind click handlers. Skipping SSR for this island
+        eliminates the divergence; tradeoff is the form skeleton shows
+        nothing until the JS bundle loads (~100ms on local, ~300ms on
+        slow connections). Worth it for correctness. */}
+    <ByokDemo client:only="preact" chips={CHIPS} />
 
     <footer class="try-foot">
       <p>
