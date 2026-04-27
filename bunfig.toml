@@ -1,0 +1,6 @@
+[install]
+# Astro integrations (e.g. @astrojs/preact) register Vite virtual modules
+# that fail to resolve under Bun's default isolated linker (the nested
+# node_modules/.bun/ layout). Hoisted layout matches what npm/pnpm produce
+# and what every Astro integration is tested against.
+linker = "hoisted"
