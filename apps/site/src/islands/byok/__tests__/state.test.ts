@@ -52,9 +52,19 @@ describe("reducer: setup-phase user actions", () => {
     expect(s.question).toBe("What does Iqbal say about Khudi?");
   });
 
-  test("PROVIDER_CHANGED updates provider", () => {
-    const s = reducer(initialState(), { type: "PROVIDER_CHANGED", provider: "anthropic" });
+  test("PROVIDER_CHANGED updates provider and resets model to the new default", () => {
+    const s = reducer(initialState(), {
+      type: "PROVIDER_CHANGED",
+      provider: "anthropic",
+      defaultModelId: "claude-sonnet-4.5",
+    });
     expect(s.provider).toBe("anthropic");
+    expect(s.modelId).toBe("claude-sonnet-4.5");
+  });
+
+  test("MODEL_CHANGED updates the model id", () => {
+    const s = reducer(initialState(), { type: "MODEL_CHANGED", modelId: "gpt-5.4" });
+    expect(s.modelId).toBe("gpt-5.4");
   });
 
   test("FORGET_KEY clears apiKey", () => {
@@ -425,7 +435,11 @@ describe("integration: a complete happy-path session", () => {
     // User fills in
     s = reducer(s, { type: "KEY_CHANGED", key: "sk-real-key" });
     s = reducer(s, { type: "QUESTION_CHANGED", question: "What does Ghalib say about love?" });
-    s = reducer(s, { type: "PROVIDER_CHANGED", provider: "anthropic" });
+    s = reducer(s, {
+      type: "PROVIDER_CHANGED",
+      provider: "anthropic",
+      defaultModelId: "claude-sonnet-4.5",
+    });
 
     // Submits
     s = reducer(s, { type: "SUBMIT", abortController: ABORT_CONTROLLER_FACTORY() });

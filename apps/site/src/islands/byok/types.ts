@@ -85,8 +85,8 @@ export interface ToolCall {
  * The complete state of a BYOK session. One of these exists at any time
  * inside the ByokDemo island; the reducer transitions between them.
  *
- * Form fields (apiKey, question, provider, rememberKey) persist across
- * status transitions so the user doesn't lose their input on errors.
+ * Form fields (apiKey, question, provider, modelId, rememberKey) persist
+ * across status transitions so the user doesn't lose their input on errors.
  */
 export interface BYOKState {
   /** Current lifecycle status. */
@@ -99,6 +99,8 @@ export interface BYOKState {
   question: string;
   /** The provider the user has selected. */
   provider: Provider;
+  /** The specific model id within the provider (e.g. "gpt-5.4-mini", "anthropic/claude-sonnet-4.5"). */
+  modelId: string;
   /** Streaming assistant text. Buffered and rendered via rAF coalescing. */
   output: string;
   /** Tool calls in chronological order. */
@@ -119,7 +121,8 @@ export type BYOKAction =
   | { type: "KEY_CHANGED"; key: string }
   | { type: "REMEMBER_TOGGLED"; remember: boolean }
   | { type: "QUESTION_CHANGED"; question: string }
-  | { type: "PROVIDER_CHANGED"; provider: Provider }
+  | { type: "PROVIDER_CHANGED"; provider: Provider; defaultModelId: string }
+  | { type: "MODEL_CHANGED"; modelId: string }
   | { type: "FORGET_KEY" }
   | { type: "SUBMIT"; abortController: AbortController }
   | { type: "USER_ABORT" }

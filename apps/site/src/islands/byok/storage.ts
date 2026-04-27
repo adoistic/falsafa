@@ -14,6 +14,7 @@
 
 const KEY_NAME = "falsafa-byok-key";
 const PROVIDER_NAME = "falsafa-byok-provider";
+const MODEL_NAME = "falsafa-byok-model";
 
 /** Read whatever's persisted. Safe in environments without localStorage. */
 export function loadKey(): string | null {
@@ -60,6 +61,25 @@ export function saveProvider(provider: string): void {
   try {
     if (typeof localStorage === "undefined") return;
     localStorage.setItem(PROVIDER_NAME, provider);
+  } catch {
+    /* fall through silently */
+  }
+}
+
+/** Persist the chosen model so reloads remember the picker selection. */
+export function loadModel(): string | null {
+  try {
+    if (typeof localStorage === "undefined") return null;
+    return localStorage.getItem(MODEL_NAME);
+  } catch {
+    return null;
+  }
+}
+
+export function saveModel(modelId: string): void {
+  try {
+    if (typeof localStorage === "undefined") return;
+    localStorage.setItem(MODEL_NAME, modelId);
   } catch {
     /* fall through silently */
   }

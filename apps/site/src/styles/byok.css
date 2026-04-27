@@ -63,6 +63,207 @@
   min-height: 96px;
 }
 
+.byok-input-select {
+  appearance: none;
+  -webkit-appearance: none;
+  background-image: url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='12' height='12' viewBox='0 0 24 24' fill='none' stroke='%231a1614' stroke-width='2'><polyline points='6 9 12 15 18 9'/></svg>");
+  background-repeat: no-repeat;
+  background-position: right var(--s-3) center;
+  padding-right: var(--s-10);
+}
+
+/* ── Model picker ────────────────────────────────────────────────────── */
+
+.byok-model {
+  position: relative;
+}
+
+.byok-model-row {
+  display: flex;
+  gap: var(--s-2);
+  align-items: stretch;
+}
+
+.byok-model-row > .byok-input {
+  flex: 1;
+}
+
+.byok-model-detail {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s-2);
+  align-items: baseline;
+}
+
+.byok-model-detail code {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  background: rgba(0, 0, 0, 0.04);
+  padding: 2px 4px;
+  border-radius: 2px;
+}
+
+.byok-model-source {
+  font-size: 12px;
+  color: var(--ink-muted);
+  font-style: italic;
+}
+
+.byok-model-error {
+  font-size: 12px;
+  color: var(--accent);
+}
+
+.byok-model-refresh {
+  white-space: nowrap;
+  font-size: 12px;
+  padding: var(--s-2) var(--s-3);
+}
+
+/* ── OpenRouter combobox trigger + popover ───────────────────────────── */
+
+.byok-model-trigger {
+  display: flex;
+  align-items: center;
+  gap: var(--s-3);
+  text-align: left;
+  cursor: pointer;
+}
+
+.byok-model-trigger-name {
+  flex-shrink: 0;
+  font-weight: 500;
+  color: var(--ink);
+}
+
+.byok-model-trigger-meta {
+  flex: 1;
+  color: var(--ink-muted);
+  font-size: 12px;
+  font-family: var(--font-mono);
+  overflow: hidden;
+  text-overflow: ellipsis;
+  white-space: nowrap;
+}
+
+.byok-model-popover {
+  position: absolute;
+  top: calc(100% + var(--s-2));
+  left: 0;
+  right: 0;
+  z-index: 20;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  box-shadow: 0 4px 16px rgba(0, 0, 0, 0.08);
+  display: flex;
+  flex-direction: column;
+  max-height: 480px;
+  overflow: hidden;
+}
+
+.byok-model-popover-controls {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-2);
+  padding: var(--s-3);
+  border-bottom: 1px solid var(--rule);
+}
+
+.byok-model-search {
+  padding: var(--s-2) var(--s-3);
+  font-size: 13px;
+}
+
+.byok-model-families {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s-1);
+}
+
+.byok-model-family {
+  font: inherit;
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
+  padding: 4px 8px;
+  background: transparent;
+  color: var(--ink-muted);
+  border: 1px solid transparent;
+  border-radius: 2px;
+  cursor: pointer;
+}
+
+.byok-model-family:hover {
+  color: var(--ink);
+}
+
+.byok-model-family.is-active {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+.byok-model-list {
+  flex: 1;
+  overflow-y: auto;
+  padding: var(--s-2) 0;
+}
+
+.byok-model-status {
+  padding: var(--s-3) var(--s-4);
+  font-size: 13px;
+  color: var(--ink-muted);
+  margin: 0;
+}
+
+.byok-model-status-error {
+  color: var(--error);
+}
+
+.byok-model-row-button {
+  display: flex;
+  flex-direction: column;
+  width: 100%;
+  text-align: left;
+  font: inherit;
+  background: transparent;
+  border: 0;
+  border-bottom: 1px solid var(--rule);
+  padding: var(--s-3) var(--s-4);
+  cursor: pointer;
+  gap: 4px;
+  transition: background 0.1s ease;
+}
+
+.byok-model-row-button:hover,
+.byok-model-row-button:focus-visible {
+  background: rgba(138, 58, 46, 0.04);
+  outline: none;
+}
+
+.byok-model-row-button.is-selected {
+  background: rgba(138, 58, 46, 0.08);
+}
+
+.byok-model-row-name {
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--ink);
+}
+
+.byok-model-row-id {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--ink-muted);
+}
+
+.byok-model-row-meta {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--ink-muted);
+}
+
 /* ── Key input row ────────────────────────────────────────────────────── */
 
 .byok-key-row {

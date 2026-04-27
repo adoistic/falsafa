@@ -15,11 +15,21 @@ import { useEffect, useReducer, useState } from "preact/hooks";
 import type { JSX } from "preact";
 import { initialState, reducer, canSubmit, PROVIDERS } from "./state";
 import type { Provider, BYOKAction } from "./types";
-import { loadKey, saveKey, forgetKey, loadProvider, saveProvider } from "./storage";
+import {
+  loadKey,
+  saveKey,
+  forgetKey,
+  loadProvider,
+  saveProvider,
+  loadModel,
+  saveModel,
+} from "./storage";
 import { loadAdapter } from "./providers";
 import { createMcpClient, makeOnToolCall } from "./mcpClient";
+import { DEFAULT_MODEL_BY_PROVIDER } from "./models";
 import KeyInput from "./ui/KeyInput";
 import ProviderPicker from "./ui/ProviderPicker";
+import ModelPicker from "./ui/ModelPicker";
 import QuestionInput from "./ui/QuestionInput";
 import StreamingOutput from "./ui/StreamingOutput";
 import ErrorBanner from "./ui/ErrorBanner";
@@ -42,20 +52,26 @@ const FALLBACK_CHIPS = [
 
 export default function ByokDemo({ chips = FALLBACK_CHIPS }: Props): JSX.Element {
   const [state, dispatch] = useReducer(reducer, undefined, () => {
-    const storedProvider = loadProvider();
+    const storedProvider = (loadProvider() as Provider) ?? "openai";
     const storedKey = loadKey();
+    const storedModel = loadModel();
     return initialState({
       apiKey: storedKey ?? "",
-      provider: (storedProvider as Provider) ?? "openai",
+      provider: storedProvider,
+      modelId: storedModel ?? DEFAULT_MODEL_BY_PROVIDER[storedProvider],
       rememberKey: !!storedKey,
     });
   });
   const [hasStored, setHasStored] = useState(() => !!loadKey());
 
-  // Persist provider preference on every change.
+  // Persist provider + model on every change.
   useEffect(() => {
     saveProvider(state.provider);
   }, [state.provider]);
+
+  useEffect(() => {
+    saveModel(state.modelId);
+  }, [state.modelId]);
 
   const inFlight = state.status === "submitting" || state.status === "streaming";
   const submitGate = canSubmit(state) === null;
@@ -72,6 +88,7 @@ export default function ByokDemo({ chips = FALLBACK_CHIPS }: Props): JSX.Element
     dispatch({ type: "SUBMIT", abortController: ac });
     void runStream(state.provider, {
       apiKey: state.apiKey,
+      modelId: state.modelId,
       question: state.question,
       abortSignal: ac.signal,
       dispatch,
@@ -94,7 +111,21 @@ export default function ByokDemo({ chips = FALLBACK_CHIPS }: Props): JSX.Element
       <div class="byok-form">
         <ProviderPicker
           value={state.provider}
-          onChange={(p) => dispatch({ type: "PROVIDER_CHANGED", provider: p })}
+          onChange={(p) =>
+            dispatch({
+              type: "PROVIDER_CHANGED",
+              provider: p,
+              defaultModelId: DEFAULT_MODEL_BY_PROVIDER[p],
+            })
+          }
+          disabled={inFlight}
+        />
+
+        <ModelPicker
+          provider={state.provider}
+          apiKey={state.apiKey}
+          value={state.modelId}
+          onChange={(m) => dispatch({ type: "MODEL_CHANGED", modelId: m })}
           disabled={inFlight}
         />
 
@@ -142,6 +173,7 @@ async function runStream(
   provider: Provider,
   args: {
     apiKey: string;
+    modelId: string;
     question: string;
     abortSignal: AbortSignal;
     dispatch: (action: BYOKAction) => void;
@@ -155,6 +187,7 @@ async function runStream(
     let firstChunkSeen = false;
     for await (const evt of stream({
       apiKey: args.apiKey,
+      modelId: args.modelId,
       question: args.question,
       abortSignal: args.abortSignal,
       onToolCall,

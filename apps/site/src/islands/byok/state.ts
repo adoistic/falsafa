@@ -36,7 +36,7 @@ import type {
   ToolCall,
 } from "./types";
 
-/** Initial state. Caller can override `apiKey` from localStorage. */
+/** Initial state. Caller can override `apiKey` and `modelId` from localStorage. */
 export function initialState(seed?: Partial<BYOKState>): BYOKState {
   return {
     status: "setup",
@@ -44,6 +44,7 @@ export function initialState(seed?: Partial<BYOKState>): BYOKState {
     rememberKey: true,
     question: "",
     provider: "openai",
+    modelId: "gpt-5.4-mini",
     output: "",
     toolCalls: [],
     error: null,
@@ -87,7 +88,13 @@ export function reducer(state: BYOKState, action: BYOKAction): BYOKState {
       return { ...state, question: action.question };
 
     case "PROVIDER_CHANGED":
-      return { ...state, provider: action.provider };
+      // Switching provider resets the model — different providers have
+      // different model namespaces. The picker passes a sensible default
+      // for the new provider.
+      return { ...state, provider: action.provider, modelId: action.defaultModelId };
+
+    case "MODEL_CHANGED":
+      return { ...state, modelId: action.modelId };
 
     case "FORGET_KEY":
       return { ...state, apiKey: "" };

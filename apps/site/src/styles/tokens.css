@@ -38,13 +38,15 @@
   --lh-body: 1.7;
   --lh-chrome: 1.5;
 
-  /* ── Spacing scale (4/8 modular) ───────────────────────────────────── */
+  /* ── Spacing scale (4/8 modular, with 20px intermediate) ───────────── */
   --s-1: 4px;
   --s-2: 8px;
   --s-3: 12px;
   --s-4: 16px;
+  --s-5: 20px;   /* intermediate step between --s-4 and --s-6 */
   --s-6: 24px;
   --s-8: 32px;
+  --s-10: 40px;  /* intermediate step between --s-8 and --s-12 */
   --s-12: 48px;
   --s-16: 64px;
   --s-24: 96px;
