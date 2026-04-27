@@ -597,18 +597,73 @@
   font-size: 17px;
   line-height: 1.7;
   color: var(--ink);
-  padding: var(--s-2) 0 var(--s-4);
+  padding: var(--s-4) 0 var(--s-4);
+  margin-top: var(--s-4);
+  border-top: 1px solid var(--rule);
+  scroll-margin-top: var(--s-6);
 }
 
-/* ── Thinking toggle + log ────────────────────────────────────────── */
+/* "Final answer" kicker — small uppercase label that reframes the
+   markdown below as the synthesised answer, distinct from the
+   commentary in the thinking trail. */
+.byok-answer-label {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+  margin: 0 0 var(--s-3);
+}
 
-.byok-thinking-controls {
-  display: flex;
+/* ── Thinking trail (native <details> disclosure) ─────────────────── */
+
+.byok-thinking-details {
+  margin-top: var(--s-2);
+}
+
+.byok-thinking-summary {
+  display: inline-flex;
   align-items: center;
   gap: var(--s-2);
-  margin-top: var(--s-3);
-  padding-top: var(--s-4);
-  border-top: 1px solid var(--rule);
+  padding: var(--s-2) 0;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 500;
+  color: var(--ink-muted);
+  cursor: pointer;
+  list-style: none; /* hide default disclosure triangle in WebKit */
+  user-select: none;
+}
+
+/* Hide default disclosure triangle across browsers; we'll add our own. */
+.byok-thinking-summary::-webkit-details-marker { display: none; }
+.byok-thinking-summary::marker { content: ""; }
+
+/* Custom disclosure caret — rotates open. */
+.byok-thinking-summary::before {
+  content: "";
+  display: inline-block;
+  width: 0;
+  height: 0;
+  border-left: 5px solid currentColor;
+  border-top: 4px solid transparent;
+  border-bottom: 4px solid transparent;
+  transition: transform 0.15s ease;
+}
+.byok-thinking-details[open] .byok-thinking-summary::before {
+  transform: rotate(90deg);
+}
+
+.byok-thinking-summary:hover { color: var(--ink); }
+.byok-thinking-summary:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 2px;
+  border-radius: 2px;
+}
+
+.byok-thinking-summary-label {
+  font-weight: 600;
 }
 
 .byok-thinking-meta {

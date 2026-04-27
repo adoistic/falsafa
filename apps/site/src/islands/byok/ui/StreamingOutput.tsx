@@ -2,19 +2,25 @@
  * StreamingOutput — the live response area.
  *
  * Renders the streaming timeline chronologically: model commentary
- * interleaved with the tool calls it spawned. When the model finishes
- * tool use and starts the synthesized answer, that final text gets
- * promoted to a prominent "Answer" panel rendered as full markdown.
+ * interleaved with the tool calls it spawned. The thinking trail comes
+ * FIRST (top), because that's what's logically happening — the model
+ * thinks, calls tools, sees results, thinks more — and only THEN
+ * synthesises an answer. We promote the trailing text to a prominent
+ * "Final answer" panel rendered as full markdown, placed beneath the
+ * thinking trail.
  *
- * The "thinking" log (commentary + tool cards) is toggleable —
- * collapsed by default once a final answer exists, so a casual reader
- * sees the answer first and the audit trail is one click away.
+ * The thinking trail is a native <details> element so it gets keyboard
+ * disclosure semantics and screen-reader announcement for free. It's
+ * open during streaming so the user sees what's happening live; it
+ * auto-collapses once a final answer exists, and we smooth-scroll to
+ * the answer on the streaming → complete transition so the eye lands
+ * where it should.
  *
  * Per /plan-eng-review run 2 Issue 4.4, text deltas re-render naively
  * for now; rAF coalescing is a separate Phase 2 Checkpoint 7 item.
  */
 
-import { useState, useMemo, useEffect } from "preact/hooks";
+import { useState, useMemo, useEffect, useRef } from "preact/hooks";
 import type { JSX } from "preact";
 import type { BYOKState, TimelineEntry, ToolCall } from "../types";
 import ToolCallCard from "./ToolCallCard";
@@ -40,6 +46,22 @@ export default function StreamingOutput({ state }: Props): JSX.Element | null {
     if (isComplete && hasFinalAnswer) setShowThinking(false);
   }, [isComplete, hasFinalAnswer]);
 
+  // Scroll-to-answer on the streaming → complete transition. We track the
+  // prior status in a ref so we only scroll once per transition, not on
+  // every re-render. This makes the eye land on the synthesised answer
+  // exactly when it's ready, not before (mid-stream) or after (idle).
+  const answerRef = useRef<HTMLDivElement | null>(null);
+  const prevStatusRef = useRef<BYOKState["status"]>(state.status);
+  useEffect(() => {
+    const prev = prevStatusRef.current;
+    const justFinishedStreaming =
+      (prev === "streaming" || prev === "submitting") && isComplete;
+    if (justFinishedStreaming && hasFinalAnswer && answerRef.current) {
+      answerRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
+    }
+    prevStatusRef.current = state.status;
+  }, [state.status, isComplete, hasFinalAnswer]);
+
   // Setup state with no activity yet → render nothing.
   if (state.status === "setup") return null;
 
@@ -55,37 +77,39 @@ export default function StreamingOutput({ state }: Props): JSX.Element | null {
 
   return (
     <section class="byok-output" aria-label="Falsafa response">
-      {/* Final answer panel — visible when we have one. While streaming,
-          the timeline below contains the most recent text segment, which
-          the model is still extending; we don't promote it yet. */}
-      {hasFinalAnswer && (
-        <div class="byok-answer">
-          <MarkdownView text={finalAnswer.text} />
-        </div>
-      )}
-
-      {/* Toggle for the thinking trail. Hidden if there's nothing to hide. */}
+      {/* Thinking trail FIRST — chronologically what happens. Native
+          <details> gives keyboard + screen-reader semantics for free.
+          Open during streaming so the user sees it happen live;
+          auto-collapses once a final answer exists. */}
       {state.timeline.length > 0 && (
-        <div class="byok-thinking-controls">
-          <button
-            type="button"
-            class="byok-button byok-button-ghost"
-            onClick={() => setShowThinking((v) => !v)}
-            aria-expanded={showThinking}
-            aria-controls="byok-thinking-log"
-          >
-            {showThinking ? "Hide" : "Show"} thinking
+        <details
+          class="byok-thinking-details"
+          open={showThinking}
+          onToggle={(e: Event) => {
+            const el = e.currentTarget as HTMLDetailsElement;
+            setShowThinking(el.open);
+          }}
+        >
+          <summary class="byok-thinking-summary">
+            <span class="byok-thinking-summary-label">Thinking</span>
             <span class="byok-thinking-meta">
               {" "}· {countThinkingItems(state.timeline, finalAnswer)}
             </span>
-          </button>
-        </div>
+          </summary>
+          <div id="byok-thinking-log" class="byok-thinking">
+            {renderTimeline(state.timeline, state.toolCalls, finalAnswer, isStreaming)}
+          </div>
+        </details>
       )}
 
-      {/* The interleaved log itself. */}
-      {showThinking && state.timeline.length > 0 && (
-        <div id="byok-thinking-log" class="byok-thinking">
-          {renderTimeline(state.timeline, state.toolCalls, finalAnswer, isStreaming)}
+      {/* Final answer panel — placed beneath the thinking trail. While
+          streaming, the timeline above contains the most recent text
+          segment, which the model is still extending; we don't promote
+          it yet. */}
+      {hasFinalAnswer && (
+        <div class="byok-answer" ref={answerRef}>
+          <p class="byok-answer-label">Final answer</p>
+          <MarkdownView text={finalAnswer.text} />
         </div>
       )}
 
@@ -109,12 +133,10 @@ function renderTimeline(
     const entry = timeline[i]!;
     const isFinal = finalAnswer !== null && i === finalAnswer.entryIndex;
 
-    // The final-answer entry is rendered above (in the .byok-answer panel).
-    // In the thinking log we still render it as "Final answer" stub so the
-    // chronology is complete — but only when the user has expanded "show
-    // thinking" AND the answer is in its own panel. Skip the duplicate to
-    // avoid showing the same prose twice. Exception: while still streaming,
-    // we want the partial final text visible in-place.
+    // The final-answer entry is rendered below (in the .byok-answer panel).
+    // Skip it in the thinking log to avoid showing the same prose twice.
+    // Exception: while still streaming, we want the partial final text
+    // visible in-place so the user sees it grow.
     if (isFinal && !isStreaming) continue;
 
     if (entry.kind === "text") {
