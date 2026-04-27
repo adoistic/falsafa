@@ -85,6 +85,11 @@ const OPENROUTER_API_KEY = process.env["OPENROUTER_API_KEY"];
 const MAX_TOOL_CALLS = 15; // multi-step needle-in-haystack needs more steps
 const PER_CASE_TIMEOUT_MS = 90_000; // 90s — longer for chained discovery
 const TOOL_RESULT_PREVIEW_CHARS = 1200; // judge needs more context than 400
+/** How many cases to run concurrently. 1 = sequential. The MCP stdio
+ *  transport correlates requests by id and handles concurrent callTool
+ *  fine, so a single MCP child serves N parallel agentic loops cheaply.
+ *  OpenRouter's rate limits are the practical ceiling. */
+const CONCURRENCY = Math.max(1, parseInt(process.env["EVAL_CONCURRENCY"] ?? "1", 10));
 
 // ─────────────────────────────────────────────────────────────────────────
 // CLI
@@ -555,14 +560,44 @@ async function main(): Promise<void> {
   process.on("SIGINT", cleanup);
   process.on("SIGTERM", cleanup);
 
+  console.log(`Concurrency: ${CONCURRENCY} (${CONCURRENCY === 1 ? "sequential" : "parallel"})`);
   const results: ScoredCase[] = [];
   try {
-    for (const c of filtered) {
-      console.log(`\n→ ${c.id} (${c.category})`);
-      const run = await runCase(mcp, c);
-      const scored = await scoreCase(c, run);
-      results.push(scored);
-      printCaseResult(scored);
+    if (CONCURRENCY <= 1) {
+      for (const c of filtered) {
+        console.log(`\n→ ${c.id} (${c.category})`);
+        const run = await runCase(mcp, c);
+        const scored = await scoreCase(c, run);
+        results.push(scored);
+        printCaseResult(scored);
+      }
+    } else {
+      // Parallel: a tiny worker-pool. Each worker pulls cases from a shared
+      // queue index until exhausted. The MCP stdio transport correlates
+      // requests by id, so a single mcp handle is safe for N concurrent
+      // tool calls. OpenRouter and the judge are independent HTTP calls.
+      let cursor = 0;
+      const startedAt = new Map<string, number>();
+      const worker = async (workerId: number): Promise<void> => {
+        while (true) {
+          const i = cursor++;
+          if (i >= filtered.length) return;
+          const c = filtered[i]!;
+          startedAt.set(c.id, Date.now());
+          console.log(`[worker ${workerId}] → ${c.id} (${c.category})`);
+          try {
+            const run = await runCase(mcp, c);
+            const scored = await scoreCase(c, run);
+            results.push(scored);
+            printCaseResult(scored);
+          } catch (err) {
+            console.error(`[worker ${workerId}] ${c.id} fatal:`, err);
+          }
+        }
+      };
+      await Promise.all(
+        Array.from({ length: Math.min(CONCURRENCY, filtered.length) }, (_, i) => worker(i + 1)),
+      );
     }
   } finally {
     await shutdownMcp(mcp);
