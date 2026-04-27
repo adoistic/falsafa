@@ -1,0 +1,32 @@
+{
+  "name": "@falsafa/pipeline",
+  "version": "0.0.0",
+  "private": false,
+  "type": "module",
+  "description": "Falsafa methodology pipeline — ingest any classical/philosophical archive into a Karpathy-style markdown knowledge base. Mirrors the process used to produce the Falsafa corpus.",
+  "license": "MIT",
+  "author": "Adnan",
+  "homepage": "https://github.com/adoistic/falsafa",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adoistic/falsafa.git",
+    "directory": "apps/pipeline"
+  },
+  "bin": {
+    "falsafa-pipeline": "./dist/cli.js"
+  },
+  "files": [
+    "dist",
+    "README.md"
+  ],
+  "scripts": {
+    "build": "echo 'TODO: tsup build (Phase 3 worktree D)' && exit 1",
+    "test": "bun test"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "publishConfig": {
+    "access": "public"
+  }
+}

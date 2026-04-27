@@ -1,0 +1,14 @@
+{
+  "name": "@falsafa/baseline",
+  "version": "0.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Hybrid RAG baseline (chunking + embeddings + FAISS + BM25 + RRF + reranker) used for the eval comparison against Falsafa's markdown-and-tools approach. NOT published — internal benchmark only.",
+  "license": "MIT",
+  "scripts": {
+    "test": "bun test"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}
