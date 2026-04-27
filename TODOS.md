@@ -368,3 +368,58 @@ site footer. Submit to relevant aggregators.
 
 **Depends on:** V1 launches with at least the catalog. RSS is a follow-up
 weekend, not a launch blocker.
+
+## Extract `apps/_corpus-types/` for shared corpus types (post-launch refactor)
+
+**What:** `apps/mcp/src/corpus.ts` (304 lines) and `apps/site/src/lib/corpus.ts`
+(316 lines) currently share types but differ on real boundaries (npm-bundling +
+env-var resolution vs. fixed-path build-time IO). Adding `apps/pipeline/`'s
+reader as a third makes the duplication a real cost.
+
+**Why:** Three readers of the same on-disk schema is the size where shared
+types start paying for themselves. IO concerns stay separate; only the
+Manifest / Work / Chapter / Variant types extract.
+
+**When:** After the launch artifact ships and `apps/pipeline/` is published.
+Not a launch blocker; touching this pre-launch risks breaking the existing
+two readers.
+
+**Trigger:** First time `apps/pipeline/` and one of the other readers diverge
+on a shared type and the divergence causes a real bug.
+
+## Golden-output regression check for /try Mode A pre-recorded demo blocks
+
+**What:** The /try BYOK demo has Mode A (pre-recorded examples) and Mode B
+(live with user's API key). Mode A's recorded outputs come from running the
+live MCP server at recording time. As Falsafa improves (better corpus, better
+catalog descriptions, smarter cross-link), live responses drift away from the
+pre-recorded demo.
+
+**Why:** A recorded demo that no longer reflects the live tool damages
+audit-trail credibility. The demo is the product's first impression on HN
+scrollers.
+
+**Trigger:** Within 2 weeks of launch. Add a CI step that re-runs the demo
+queries against the live MCP server, diffs against the recorded outputs, and
+posts a PR if drift exceeds a threshold (cosine similarity on summary text +
+exact-match on cited paragraph_ids).
+
+## pretext re-evaluation when Cheng Lou ships SSR mode
+
+**What:** chenglou/pretext was evaluated 2026-04-27 and rejected for the
+Falsafa launch surfaces because it's browser-only at runtime (Canvas 2D +
+Intl.Segmenter). README mentions a "soon, server-side" mode but no committed
+timeline. Replaced with CSS-native editorial layout (Grid + text-wrap +
+container queries).
+
+**Why:** If pretext ships an SSR/Node mode and the npm package supports both
+browser and Node entry points, the precision-typography case is worth
+revisiting. The current CSS-native path is genuinely sufficient — but pretext
+could push specific surfaces (the eval explorer especially) into a higher
+typographic register.
+
+**Trigger:** chenglou/pretext README announces an SSR mode that's actually
+shipped (not "soon"). Reread the verification finding in
+`~/.claude/projects/-Users-siraj-falsafa/memory/pretext_for_complex_launch_layouts.md`
+before acting.
+
