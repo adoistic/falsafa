@@ -72,14 +72,17 @@ export async function* streamOpenAI(
       prompt: args.question,
       tools,
       abortSignal: args.abortSignal,
-      // Cap at 25 LLM round-trips (each "step" = one model invocation
+      // Cap at 50 LLM round-trips (each "step" = one model invocation
       // followed by zero-or-more tool executions). Comparative
       // synthesis questions in the live demo routinely need 15-20
       // round-trips: discover the corpus, search for terms across
       // traditions, read the most-promising chapters, then cite at
-      // paragraph level. The Stop-generating button gives the user
-      // direct control if the model wants to keep going.
-      stopWhen: ({ steps }) => steps.length >= 25,
+      // paragraph level. 50 leaves headroom for the deepest audits
+      // (e.g., "trace this metaphor across every author in the corpus
+      // and rank by usage") without the model ever bumping the cap on
+      // a normal question. The Stop-generating button is the real
+      // escape hatch.
+      stopWhen: ({ steps }) => steps.length >= 50,
     });
 
     for await (const part of result.fullStream) {
