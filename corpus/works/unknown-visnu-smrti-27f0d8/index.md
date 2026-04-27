@@ -2,7 +2,7 @@
 id: "27f0d89c-260b-4d5c-85b5-d509ab1822b9"
 slug: "unknown-visnu-smrti-27f0d8"
 title: Viṣṇu Smṛti
-author:
+author: Viṣṇu
   name: Unknown
   biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
   nationality: Various

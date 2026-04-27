@@ -2,7 +2,7 @@
 id: "552f8dce-fb0f-4516-954d-2967399e608a"
 slug: "unknown-yama-smrti-552f8d"
 title: Yama Smṛti
-author:
+author: Yama
   name: Unknown
   biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
   nationality: Various

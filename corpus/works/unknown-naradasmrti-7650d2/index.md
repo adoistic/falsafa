@@ -2,7 +2,7 @@
 id: "7650d2fa-c4d5-471a-808e-858e56b91802"
 slug: "unknown-naradasmrti-7650d2"
 title: Nāradasmṛti
-author:
+author: Nārada
   name: Unknown
   biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
   nationality: Various

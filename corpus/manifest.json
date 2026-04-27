@@ -3,8 +3,8 @@
   "source": "neondb",
   "counts": {
     "works": 38,
-    "authors": 8,
-    "eras": 6,
+    "authors": 22,
+    "eras": 5,
     "genres": 5,
     "languages": 6
   },
@@ -31,8 +31,8 @@
     {
       "slug": "unknown-angirasa-smrti-2bf9d1",
       "title": "Āṅgirasa Smṛti",
-      "author": "Unknown",
-      "author_slug": "unknown",
+      "author": "Aṅgirasa",
+      "author_slug": "angirasa",
       "era": "Ancient",
       "era_slug": "ancient",
       "genre": "Indic",
@@ -107,8 +107,8 @@
     {
       "slug": "unknown-brhaspati-smrti-0fd070",
       "title": "Bṛhaspati Smṛti",
-      "author": "Unknown",
-      "author_slug": "unknown",
+      "author": "Bṛhaspati",
+      "author_slug": "brhaspati",
       "era": "Ancient",
       "era_slug": "ancient",
       "genre": "Indic",
@@ -183,10 +183,10 @@
     {
       "slug": "unknown-ganapatitattva-66a136",
       "title": "Gaṇapatitattva",
-      "author": "Unknown",
-      "author_slug": "unknown",
-      "era": "Unknown",
-      "era_slug": "unknown",
+      "author": "Gaṇapati",
+      "author_slug": "ganapati",
+      "era": "Medieval",
+      "era_slug": "medieval",
       "genre": "Indic",
       "genre_slug": "indic",
       "language": "Kawi",
@@ -223,8 +223,8 @@
       "title": "Kalpabuddha",
       "author": "Unknown",
       "author_slug": "unknown",
-      "era": "Unknown",
-      "era_slug": "unknown",
+      "era": "Medieval",
+      "era_slug": "medieval",
       "genre": "Indic",
       "genre_slug": "indic",
       "language": "Kawi",
@@ -240,8 +240,8 @@
     {
       "slug": "unknown-katyayana-smrti-1e06d2",
       "title": "Kātyāyana Smṛti",
-      "author": "Unknown",
-      "author_slug": "unknown",
+      "author": "Kātyāyana",
+      "author_slug": "katyayana",
       "era": "Ancient",
       "era_slug": "ancient",
       "genre": "Indic",
@@ -259,10 +259,10 @@
     {
       "slug": "unknown-kunjarakarna-dharmakathana-894f4a",
       "title": "Kunjarakarna Dharmakathana",
-      "author": "Unknown",
-      "author_slug": "unknown",
-      "era": "Unknown",
-      "era_slug": "unknown",
+      "author": "Mpu Dusun",
+      "author_slug": "mpu-dusun",
+      "era": "Medieval",
+      "era_slug": "medieval",
       "genre": "Indic",
       "genre_slug": "indic",
       "language": "Kawi",
@@ -278,8 +278,8 @@
     {
       "slug": "unknown-manusmrti-347b76",
       "title": "Manusmṛti",
-      "author": "Unknown",
-      "author_slug": "unknown",
+      "author": "Manu",
+      "author_slug": "manu",
       "era": "Ancient",
       "era_slug": "ancient",
       "genre": "Indic",
@@ -297,8 +297,8 @@
     {
       "slug": "unknown-naradasmrti-7650d2",
       "title": "Nāradasmṛti",
-      "author": "Unknown",
-      "author_slug": "unknown",
+      "author": "Nārada",
+      "author_slug": "narada",
       "era": "Ancient",
       "era_slug": "ancient",
       "genre": "Indic",
@@ -318,8 +318,8 @@
       "title": "Nouveau traité d'économie: VOL I",
       "author": "Charles Dunoyer",
       "author_slug": "charles-dunoyer",
-      "era": "Unknown",
-      "era_slug": "unknown",
+      "era": "19th Century",
+      "era_slug": "19th-century",
       "genre": "Political & Social Theory",
       "genre_slug": "political-social-theory",
       "language": "French",
@@ -337,8 +337,8 @@
       "title": "Nouveau traité d'économie: VOL II",
       "author": "Charles Dunoyer",
       "author_slug": "charles-dunoyer",
-      "era": "Unknown",
-      "era_slug": "unknown",
+      "era": "19th Century",
+      "era_slug": "19th-century",
       "genre": "Political & Social Theory",
       "genre_slug": "political-social-theory",
       "language": "French",
@@ -354,8 +354,8 @@
     {
       "slug": "unknown-nyaya-tilakam-pandulipi-bookny",
       "title": "Nyaya Tilakam Pandulipi",
-      "author": "Unknown",
-      "author_slug": "unknown",
+      "author": "Vihārācārya",
+      "author_slug": "viharacarya",
       "era": "Medieval",
       "era_slug": "medieval",
       "genre": "Academic Studies",
@@ -392,8 +392,8 @@
     {
       "slug": "unknown-parasara-smrti-2259be",
       "title": "Parāśara Smṛti",
-      "author": "Unknown",
-      "author_slug": "unknown",
+      "author": "Parāśara",
+      "author_slug": "parasara",
       "era": "Ancient",
       "era_slug": "ancient",
       "genre": "Indic",
@@ -411,10 +411,10 @@
     {
       "slug": "unknown-san-hyan-kamahayanikan-2a0c19",
       "title": "San Hyan Kamahayanikan",
-      "author": "Unknown",
-      "author_slug": "unknown",
-      "era": "Unknown",
-      "era_slug": "unknown",
+      "author": "Mpu Shri Sambhara Surya Warama",
+      "author_slug": "mpu-shri-sambhara-surya-warama",
+      "era": "Medieval",
+      "era_slug": "medieval",
       "genre": "Indic",
       "genre_slug": "indic",
       "language": "Kawi",
@@ -432,8 +432,8 @@
       "title": "San Hyan Mahajnana",
       "author": "Unknown",
       "author_slug": "unknown",
-      "era": "Unknown",
-      "era_slug": "unknown",
+      "era": "Medieval",
+      "era_slug": "medieval",
       "genre": "Indic",
       "genre_slug": "indic",
       "language": "Kawi",
@@ -451,8 +451,8 @@
       "title": "San Hyan Tattvajnana",
       "author": "Unknown",
       "author_slug": "unknown",
-      "era": "Unknown",
-      "era_slug": "unknown",
+      "era": "Medieval",
+      "era_slug": "medieval",
       "genre": "Indic",
       "genre_slug": "indic",
       "language": "Kawi",
@@ -470,8 +470,8 @@
       "title": "Slokantara",
       "author": "Unknown",
       "author_slug": "unknown",
-      "era": "Unknown",
-      "era_slug": "unknown",
+      "era": "Medieval",
+      "era_slug": "medieval",
       "genre": "Indic",
       "genre_slug": "indic",
       "language": "Kawi",
@@ -601,8 +601,8 @@
     {
       "slug": "unknown-visnu-smrti-27f0d8",
       "title": "Viṣṇu Smṛti",
-      "author": "Unknown",
-      "author_slug": "unknown",
+      "author": "Viṣṇu",
+      "author_slug": "visnu",
       "era": "Ancient",
       "era_slug": "ancient",
       "genre": "Indic",
@@ -620,10 +620,10 @@
     {
       "slug": "unknown-viramitrodaya-d4b632",
       "title": "Vīramitrodaya",
-      "author": "Unknown",
-      "author_slug": "unknown",
-      "era": "Ancient",
-      "era_slug": "ancient",
+      "author": "Mitra Miśra",
+      "author_slug": "mitra-misra",
+      "era": "Medieval",
+      "era_slug": "medieval",
       "genre": "Indic",
       "genre_slug": "indic",
       "language": "Sanskrit",
@@ -641,8 +641,8 @@
       "title": "Vratisasana",
       "author": "Unknown",
       "author_slug": "unknown",
-      "era": "Unknown",
-      "era_slug": "unknown",
+      "era": "Medieval",
+      "era_slug": "medieval",
       "genre": "Indic",
       "genre_slug": "indic",
       "language": "Kawi",
@@ -658,10 +658,10 @@
     {
       "slug": "unknown-vrhaspatitattva-b60b28",
       "title": "Vrhaspatitattva",
-      "author": "Unknown",
-      "author_slug": "unknown",
-      "era": "Unknown",
-      "era_slug": "unknown",
+      "author": "Bṛhaspati",
+      "author_slug": "brhaspati",
+      "era": "Medieval",
+      "era_slug": "medieval",
       "genre": "Indic",
       "genre_slug": "indic",
       "language": "Kawi",
@@ -677,8 +677,8 @@
     {
       "slug": "unknown-yama-smrti-552f8d",
       "title": "Yama Smṛti",
-      "author": "Unknown",
-      "author_slug": "unknown",
+      "author": "Yama",
+      "author_slug": "yama",
       "era": "Ancient",
       "era_slug": "ancient",
       "genre": "Indic",
@@ -696,8 +696,8 @@
     {
       "slug": "unknown-yajnavalkya-smrti-cb88d6",
       "title": "Yājñavalkya Smṛti",
-      "author": "Unknown",
-      "author_slug": "unknown",
+      "author": "Yājñavalkya",
+      "author_slug": "yajnavalkya",
       "era": "Ancient",
       "era_slug": "ancient",
       "genre": "Indic",
@@ -741,30 +741,10 @@
         "cynewulf-juliana-9a2157"
       ]
     },
-    "unknown": {
-      "name": "Unknown",
+    "angirasa": {
+      "name": "Aṅgirasa",
       "works": [
-        "unknown-angirasa-smrti-2bf9d1",
-        "unknown-brhaspati-smrti-0fd070",
-        "unknown-ganapatitattva-66a136",
-        "unknown-kalpabuddha-d760dc",
-        "unknown-katyayana-smrti-1e06d2",
-        "unknown-kunjarakarna-dharmakathana-894f4a",
-        "unknown-manusmrti-347b76",
-        "unknown-naradasmrti-7650d2",
-        "unknown-nyaya-tilakam-pandulipi-bookny",
-        "unknown-old-english-elegies-d5fe9e",
-        "unknown-parasara-smrti-2259be",
-        "unknown-san-hyan-kamahayanikan-2a0c19",
-        "unknown-san-hyan-mahajnana-11c531",
-        "unknown-san-hyan-tattvajnana-1f29bd",
-        "unknown-slokantara-d7a628",
-        "unknown-visnu-smrti-27f0d8",
-        "unknown-viramitrodaya-d4b632",
-        "unknown-vratisasana-d0fe75",
-        "unknown-vrhaspatitattva-b60b28",
-        "unknown-yama-smrti-552f8d",
-        "unknown-yajnavalkya-smrti-cb88d6"
+        "unknown-angirasa-smrti-2bf9d1"
       ]
     },
     "allama-iqbal": {
@@ -773,6 +753,13 @@
         "allama-iqbal-bang-e-dara-part-1-55b25c",
         "allama-iqbal-bang-e-dara-part-2-9bc58c",
         "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      ]
+    },
+    "brhaspati": {
+      "name": "Bṛhaspati",
+      "works": [
+        "unknown-brhaspati-smrti-0fd070",
+        "unknown-vrhaspatitattva-b60b28"
       ]
     },
     "mirza-ghalib": {
@@ -787,11 +774,70 @@
         "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
       ]
     },
+    "ganapati": {
+      "name": "Gaṇapati",
+      "works": [
+        "unknown-ganapatitattva-66a136"
+      ]
+    },
+    "unknown": {
+      "name": "Unknown",
+      "works": [
+        "unknown-kalpabuddha-d760dc",
+        "unknown-old-english-elegies-d5fe9e",
+        "unknown-san-hyan-mahajnana-11c531",
+        "unknown-san-hyan-tattvajnana-1f29bd",
+        "unknown-slokantara-d7a628",
+        "unknown-vratisasana-d0fe75"
+      ]
+    },
+    "katyayana": {
+      "name": "Kātyāyana",
+      "works": [
+        "unknown-katyayana-smrti-1e06d2"
+      ]
+    },
+    "mpu-dusun": {
+      "name": "Mpu Dusun",
+      "works": [
+        "unknown-kunjarakarna-dharmakathana-894f4a"
+      ]
+    },
+    "manu": {
+      "name": "Manu",
+      "works": [
+        "unknown-manusmrti-347b76"
+      ]
+    },
+    "narada": {
+      "name": "Nārada",
+      "works": [
+        "unknown-naradasmrti-7650d2"
+      ]
+    },
     "charles-dunoyer": {
       "name": "Charles Dunoyer",
       "works": [
         "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
         "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      ]
+    },
+    "viharacarya": {
+      "name": "Vihārācārya",
+      "works": [
+        "unknown-nyaya-tilakam-pandulipi-bookny"
+      ]
+    },
+    "parasara": {
+      "name": "Parāśara",
+      "works": [
+        "unknown-parasara-smrti-2259be"
+      ]
+    },
+    "mpu-shri-sambhara-surya-warama": {
+      "name": "Mpu Shri Sambhara Surya Warama",
+      "works": [
+        "unknown-san-hyan-kamahayanikan-2a0c19"
       ]
     },
     "charles-comte": {
@@ -803,6 +849,30 @@
         "charles-comte-traite-de-legislation-vol-iv-bca040",
         "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
         "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      ]
+    },
+    "visnu": {
+      "name": "Viṣṇu",
+      "works": [
+        "unknown-visnu-smrti-27f0d8"
+      ]
+    },
+    "mitra-misra": {
+      "name": "Mitra Miśra",
+      "works": [
+        "unknown-viramitrodaya-d4b632"
+      ]
+    },
+    "yama": {
+      "name": "Yama",
+      "works": [
+        "unknown-yama-smrti-552f8d"
+      ]
+    },
+    "yajnavalkya": {
+      "name": "Yājñavalkya",
+      "works": [
+        "unknown-yajnavalkya-smrti-cb88d6"
       ]
     },
     "johann-gottlieb-fichte": {
@@ -818,9 +888,19 @@
       "works": [
         "cynewulf-andreas-07b573",
         "cynewulf-elene-d2d132",
+        "unknown-ganapatitattva-66a136",
         "cynewulf-juliana-9a2157",
+        "unknown-kalpabuddha-d760dc",
+        "unknown-kunjarakarna-dharmakathana-894f4a",
         "unknown-nyaya-tilakam-pandulipi-bookny",
-        "unknown-old-english-elegies-d5fe9e"
+        "unknown-old-english-elegies-d5fe9e",
+        "unknown-san-hyan-kamahayanikan-2a0c19",
+        "unknown-san-hyan-mahajnana-11c531",
+        "unknown-san-hyan-tattvajnana-1f29bd",
+        "unknown-slokantara-d7a628",
+        "unknown-viramitrodaya-d4b632",
+        "unknown-vratisasana-d0fe75",
+        "unknown-vrhaspatitattva-b60b28"
       ]
     },
     "ancient": {
@@ -833,7 +913,6 @@
         "unknown-naradasmrti-7650d2",
         "unknown-parasara-smrti-2259be",
         "unknown-visnu-smrti-27f0d8",
-        "unknown-viramitrodaya-d4b632",
         "unknown-yama-smrti-552f8d",
         "unknown-yajnavalkya-smrti-cb88d6"
       ]
@@ -850,23 +929,9 @@
       "name": "19th Century",
       "works": [
         "mirza-ghalib-diwan-e-ghalib-74ed4c",
-        "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
-      ]
-    },
-    "unknown": {
-      "name": "Unknown",
-      "works": [
-        "unknown-ganapatitattva-66a136",
-        "unknown-kalpabuddha-d760dc",
-        "unknown-kunjarakarna-dharmakathana-894f4a",
+        "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
         "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
-        "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
-        "unknown-san-hyan-kamahayanikan-2a0c19",
-        "unknown-san-hyan-mahajnana-11c531",
-        "unknown-san-hyan-tattvajnana-1f29bd",
-        "unknown-slokantara-d7a628",
-        "unknown-vratisasana-d0fe75",
-        "unknown-vrhaspatitattva-b60b28"
+        "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
       ]
     },
     "enlightenment": {

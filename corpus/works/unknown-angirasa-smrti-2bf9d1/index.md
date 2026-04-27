@@ -2,7 +2,7 @@
 id: "2bf9d185-fab9-4e14-8c4f-84c42941a581"
 slug: "unknown-angirasa-smrti-2bf9d1"
 title: Āṅgirasa Smṛti
-author:
+author: Aṅgirasa
   name: Unknown
   biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
   nationality: Various

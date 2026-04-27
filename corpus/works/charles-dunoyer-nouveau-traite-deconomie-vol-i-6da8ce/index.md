@@ -8,7 +8,7 @@ author:
   birth_year: 1786
   death_year: 1862
   nationality: French
-era: Unknown
+era: 19th Century
 genre: "Political & Social Theory"
 language: French
 language_direction: ltr

@@ -2,7 +2,7 @@
 id: "0fd070b6-7576-40df-80fc-09d746aba2b9"
 slug: "unknown-brhaspati-smrti-0fd070"
 title: Bṛhaspati Smṛti
-author:
+author: Bṛhaspati
   name: Unknown
   biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
   nationality: Various

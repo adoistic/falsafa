@@ -2,11 +2,11 @@
 id: "b60b2844-522d-4c27-a114-38462c21128e"
 slug: "unknown-vrhaspatitattva-b60b28"
 title: Vrhaspatitattva
-author:
+author: Bṛhaspati
   name: Unknown
   biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
   nationality: Various
-era: Unknown
+era: Medieval
 genre: Indic
 language: Kawi
 language_direction: ltr

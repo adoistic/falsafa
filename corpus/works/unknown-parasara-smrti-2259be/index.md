@@ -2,7 +2,7 @@
 id: "2259be0c-3492-4281-a86e-070c4e4b70da"
 slug: "unknown-parasara-smrti-2259be"
 title: Parāśara Smṛti
-author:
+author: Parāśara
   name: Unknown
   biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
   nationality: Various

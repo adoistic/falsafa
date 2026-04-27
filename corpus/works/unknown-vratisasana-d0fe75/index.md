@@ -6,7 +6,7 @@ author:
   name: Unknown
   biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
   nationality: Various
-era: Unknown
+era: Medieval
 genre: Indic
 language: Kawi
 language_direction: ltr

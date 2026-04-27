@@ -2,7 +2,7 @@
 id: "cb88d69f-9925-4f49-8f76-486f5d2b8ffe"
 slug: "unknown-yajnavalkya-smrti-cb88d6"
 title: Yājñavalkya Smṛti
-author:
+author: Yājñavalkya
   name: Unknown
   biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
   nationality: Various

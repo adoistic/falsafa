@@ -2,7 +2,7 @@
 id: "book-nyaya-tilakam"
 slug: "unknown-nyaya-tilakam-pandulipi-bookny"
 title: Nyaya Tilakam Pandulipi
-author:
+author: Vihārācārya
   name: Unknown
   biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
   nationality: Various

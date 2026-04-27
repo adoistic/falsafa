@@ -2,7 +2,7 @@
 id: "347b76fe-b295-40be-b4bf-7819a122bbd4"
 slug: "unknown-manusmrti-347b76"
 title: Manusmṛti
-author:
+author: Manu
   name: Unknown
   biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
   nationality: Various

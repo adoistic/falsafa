@@ -2,11 +2,11 @@
 id: "2a0c1902-79ec-45d1-84f8-1f26a4b9732a"
 slug: "unknown-san-hyan-kamahayanikan-2a0c19"
 title: San Hyan Kamahayanikan
-author:
+author: Mpu Shri Sambhara Surya Warama
   name: Unknown
   biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
   nationality: Various
-era: Unknown
+era: Medieval
 genre: Indic
 language: Kawi
 language_direction: ltr

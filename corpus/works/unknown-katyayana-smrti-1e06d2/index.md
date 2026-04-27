@@ -2,7 +2,7 @@
 id: "1e06d241-3517-4d81-bbc9-91d312e1b8cc"
 slug: "unknown-katyayana-smrti-1e06d2"
 title: Kātyāyana Smṛti
-author:
+author: Kātyāyana
   name: Unknown
   biography: Works of unknown or collectively attributed authorship, often representing cultural traditions passed down through generations.
   nationality: Various
