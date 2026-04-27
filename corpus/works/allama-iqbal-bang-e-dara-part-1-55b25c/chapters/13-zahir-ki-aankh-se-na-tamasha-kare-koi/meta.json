@@ -8,7 +8,7 @@
   "layouts_in_variants": [
     "verse"
   ],
-  "default_variant": "translation.md",
+  "default_variant": "transliteration.md",
   "variants": [
     {
       "file": "original.md",
@@ -23,26 +23,14 @@
       "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/ghazals/07.htm"
     },
     {
-      "file": "translation.md",
-      "content_type": "translation",
+      "file": "transliteration.md",
+      "content_type": "transliteration",
       "variant_id": "7b08f58c-67e1-4f1a-813b-1bf5788d90e3",
       "language": "english",
       "source_language": "Urdu",
       "script": "latin",
       "word_count": 131,
       "paragraph_count": 1,
-      "has_image": false,
-      "source_url": null
-    },
-    {
-      "file": "translation-2.md",
-      "content_type": "translation",
-      "variant_id": "c5077b04-5ae6-4c48-b114-46b9eb12e51d",
-      "language": "english",
-      "source_language": "Urdu",
-      "script": "empty",
-      "word_count": 0,
-      "paragraph_count": 0,
       "has_image": false,
       "source_url": null
     }

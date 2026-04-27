@@ -8,7 +8,7 @@
   "layouts_in_variants": [
     "verse"
   ],
-  "default_variant": "translation.md",
+  "default_variant": "translation-2.md",
   "variants": [
     {
       "file": "original.md",
@@ -23,8 +23,8 @@
       "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/04.htm"
     },
     {
-      "file": "translation.md",
-      "content_type": "translation",
+      "file": "transliteration.md",
+      "content_type": "transliteration",
       "variant_id": "f5c736b4-ec90-4849-9290-5c7513b844a5",
       "language": "english",
       "source_language": "Urdu",

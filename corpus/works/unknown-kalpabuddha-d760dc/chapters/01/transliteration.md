@@ -1,19 +1,19 @@
 ---
-work_id: "d760dc3f-ae0d-49bc-9dc7-27283bb52921"
-work_slug: "unknown-kalpabuddha-d760dc"
+work_id: d760dc3f-ae0d-49bc-9dc7-27283bb52921
+work_slug: unknown-kalpabuddha-d760dc
 work_title: Kalpabuddha
 author_name: Unknown
 chapter_number: 1
 chapter_title: Chapter 1
 chapter_slug: 01
-variant_id: "c719833f-1aa6-4b0b-beb8-2373c8150a0b"
+variant_id: c719833f-1aa6-4b0b-beb8-2373c8150a0b
 content_type: transliteration
 layout: prose
 language: Kawi
 source_language: Kawi
 language_direction: ltr
 script: latin
-word_count: 351
+word_count: 73
 estimated_read_time: 2
 transliterator: thothica
 ---
@@ -21,27 +21,3 @@ transliterator: thothica
 ### Paragraph 1
 
 nihan haji nira bhaṭāra hyaṅ buddha, kayatnaka mahopadeśa ikā, rĕṅön salvir niṅ mantra, bhaṭāra buddha sira hana riṅ mahāpralaya, dumadi havak nira, sira ta matmahan bhaṭāra pañcatathāgata, śarīranāmabheda, kapva apadudvan rūpanira, bodhyagrī mudrānira, śāśvata jñānanira, cakra sañjatanira, riṅ sahavati ṅaran iṅ kaḍatvanira, siṅhātutuṅgaṅanira, sira bharālī satvavajrī, sira bharālī dharmavajrī, sira bharālī karmavajrī, sira ta saha devī amarivṛtta riṅ sira, muṅguh pva sira niṅ śarīra, siṅ jro niṅ pusuh pusuh, pinakasthānanira.
-
-### Paragraph 2
-
-sira bhaṭāra akṣobhya, muṅguh riṅ pūrva, kṛṣṇa varṇanira, sira bharālī locanā devīnira, hū.m mantranira, bhūsparśa mudrānira, ādarśana jñānanira, vajra sañjatanira, riṅ abhirati ṅaran iṅ kasvarganira, gajah tutuṅgaṅanira, bhaṭāra vajrarāja, bhaṭāra vajrarāga, hyaṅ vajrasādhu, bhaṭāra vajradharādi, saṅ amarivṛtta ri sira, muṅguh pva sira riṅ śarīra, riṅ jro niṅ paruparu pinakasthānanira.
-
-### Paragraph 3
-
-sira bhaṭāra ratnasambhava, muṅguh riṅ dakṣiṇa, pīta varṇanira, sira bharālī māmakī devīnira, tra.m mantranira, ākāśamata jñānanira, kapāla sañjatanira, riṅ jro niṅ limpa pinakasthānanira.
-
-### Paragraph 4
-
-sira bhaṭāra amitābha, muṅguh riṅ paścima, rakta varṇanira, sira bharālī pāṇḍaravāsinī devīnira, hrih mantranira, pratavekṣaṇa jñānanira, dhyāna mudrānira, nāgapāśa sañjatanira, riṅ sukhavati kasvarganira, sira bharāla vajradharma, bhaṭāra vajratīkṣṇa, bhaṭāra vajraketu, bhaṭāra vajrabhāsa, saṅ amarivṛtta ri sira, muṅguh pva sira niṅ śarīra, ri jro hati pinakasthānanira.
-
-### Paragraph 5
-
-sira bhaṭāra amoghasiddha, muṅguh riṅ uttara, viśva varṇanira, sira bharālī tārā devīnira, a.h mantranira, abhaya mudrānira, kṛtānuṣṭhāna jñānanira, riṅ kusumita ṅaran iṅ kasvarganira, garuḍa tutuṅgaṅanira, sira bhaṭāra vajrakarma, bhaṭāra vajrarakṣa, [bhaṭāra vajrayakṣa,] bhaṭāra varjasandhi saṅ amarivṛtta riṅ sira, muṅguh pva sira riṅ śarīra niṅ jro hampū pinakasthānanira.
-
-### Paragraph 5
-
-kunĕṅ pva bhaṭāra pañcatathāgata, mulih riṅ lokadhātūnira, hana riṅ śarīranta sira maṅke, sira katmahan pañcajñāna, pañcajñāna ṅaranya, cakṣuh, śrota, ghrāṇa, jihvā, hṛdaya, cakṣuh ṅa mata, śrota ṅa taliṅa, ghrāṇa ṅa iruṅ, jihvā ṅa caṅkĕm, hṛdaya ṅa hati, tayika sinaṅguh pañcendriya, ṅa kunaṅ ta devata niṅ pañcendriya, ṅa bhaṭāra akṣobhya muṅguh riṅ mata, bhaṭāra ratnasambhava muṅguh riṅ taliṅa, bhaṭāra amitābha muṅgviṅ iruṅ, bhaṭāra amoghasiddhi muṅguh ri caṅkĕm, sira pinakapaṅrasa bhaṭāra vairocana, muṅguh ri pupuh pupuh, sira pinakaṅĕnaṅĕn, irika ta sahadevīnira sovaṅ sovaṅ, yatika sinaṅguh saṅ hyaṅ pañcātma ṅaranya, pinakāvak.
-
-### Colophon
-
-|| 0 || kalpabuddha iti, paramarahasya || 0 ||

@@ -8,7 +8,7 @@
   "layouts_in_variants": [
     "verse"
   ],
-  "default_variant": "translation.md",
+  "default_variant": "translation-2.md",
   "variants": [
     {
       "file": "original.md",
@@ -23,8 +23,8 @@
       "source_url": null
     },
     {
-      "file": "translation.md",
-      "content_type": "translation",
+      "file": "transliteration.md",
+      "content_type": "transliteration",
       "variant_id": "71792424-d3e3-4b17-bbcd-77e846cbb9c1",
       "language": "english",
       "source_language": "Urdu",

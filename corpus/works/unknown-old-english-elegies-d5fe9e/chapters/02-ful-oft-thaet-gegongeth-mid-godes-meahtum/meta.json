@@ -9,7 +9,7 @@
     "verse",
     "prose"
   ],
-  "default_variant": "translation.md",
+  "default_variant": "translation-2.md",
   "variants": [
     {
       "file": "original.md",
@@ -24,8 +24,8 @@
       "source_url": "https://sacred-texts.com/neu/ascp/a03_12.htm"
     },
     {
-      "file": "translation.md",
-      "content_type": "translation",
+      "file": "transliteration.md",
+      "content_type": "transliteration",
       "variant_id": "19eba879-dab3-4cbf-b8ef-75ce76a47643",
       "language": "english",
       "source_language": "old_english",

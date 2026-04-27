@@ -8,7 +8,7 @@
   "layouts_in_variants": [
     "verse"
   ],
-  "default_variant": "translation.md",
+  "default_variant": "translation-2.md",
   "variants": [
     {
       "file": "original.md",
@@ -23,8 +23,8 @@
       "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part01/ghazals/06.htm"
     },
     {
-      "file": "translation.md",
-      "content_type": "translation",
+      "file": "transliteration.md",
+      "content_type": "transliteration",
       "variant_id": "06a2e066-b661-40a6-9801-5eff5c42179e",
       "language": "english",
       "source_language": "Urdu",

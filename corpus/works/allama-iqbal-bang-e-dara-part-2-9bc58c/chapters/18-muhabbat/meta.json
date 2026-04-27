@@ -8,7 +8,7 @@
   "layouts_in_variants": [
     "verse"
   ],
-  "default_variant": "translation.md",
+  "default_variant": "transliteration.md",
   "variants": [
     {
       "file": "original.md",
@@ -23,20 +23,8 @@
       "source_url": "https://www.allamaiqbal.com/works/poetry/urdu/bang/text/part02/01.htm"
     },
     {
-      "file": "translation.md",
-      "content_type": "translation",
-      "variant_id": "9528e6c0-dd4a-41e0-b857-c2ff57585b28",
-      "language": "english",
-      "source_language": "Urdu",
-      "script": "empty",
-      "word_count": 0,
-      "paragraph_count": 0,
-      "has_image": false,
-      "source_url": null
-    },
-    {
-      "file": "translation-2.md",
-      "content_type": "translation",
+      "file": "transliteration.md",
+      "content_type": "transliteration",
       "variant_id": "edebc225-1330-49e4-b50b-c3497967981b",
       "language": "english",
       "source_language": "Urdu",
