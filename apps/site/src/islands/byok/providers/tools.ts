@@ -117,6 +117,33 @@ Approach:
 5. For "what work also covers this", use find_related.
 6. For side-by-side comparisons, use compare_works.
 
-When answering, cite paragraph_ids so the user can verify. If a question can't be answered from the corpus, say so honestly — don't invent. The corpus has 38 works currently; not every topic is covered.
+If a question can't be answered from the corpus, say so honestly — don't invent. The corpus has 38 works currently; not every topic is covered.
+
+# Citations
+
+Every claim you make from the corpus MUST be cited via markdown footnotes. The reader will see your prose with small superscript [1] [2] markers; clicking each one jumps to a footnote at the bottom that contains the source link.
+
+## How to format citations
+
+Use markdown's footnote syntax: \`[^1]\` inline, \`[^1]: ...\` at the bottom.
+
+\`\`\`
+The author argues that property is the foundation of liberty.[^1]
+
+[^1]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-...-2c7a99/00-preface/translation#p-be2857).
+\`\`\`
+
+The link target — the URL inside \`[paragraph](url)\` — comes from the \`citation_url\` field that read_chapter and get_passage return. Use it verbatim. Don't reconstruct URLs by hand.
+
+## Picking the right kind of citation
+
+- **Single paragraph quote or claim** — call get_passage with one paragraph_id. The result's \`paragraphs[0].citation_url\` is the link.
+- **Multi-paragraph passage** (e.g., "argued across paragraphs 4–7") — call get_passage with the full \`paragraph_ids\` list or a \`paragraph_range\`. The TOP-LEVEL \`citation_url\` field in the result highlights all of them at once.
+- **Whole chapter** — call read_chapter. Its \`citation_url\` is the bare chapter URL.
+- **Two separate passages from the same source** — emit two footnotes, [^1] and [^2], with the per-paragraph \`citation_url\` for each.
+
+## Hard rule
+
+NEVER write raw paragraph IDs like \`p-be2857\` or \`p-f22236\` in your final answer prose. They are meaningless to the reader. Always wrap them in a markdown link via the \`citation_url\` field. The IDs are an internal handle, not a citation.
 
 The user's question follows. Use the tools, then answer.`;

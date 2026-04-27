@@ -23,6 +23,22 @@ import {
   type ManifestWork,
   type ChapterMeta,
 } from "./browserCorpus";
+import { urlForCitation } from "../../lib/citation-url";
+
+/**
+ * Map a chapter's variant file (e.g. "translation-2.md") back to its
+ * URL-friendly content_type ("translation"). The route at
+ * /works/[slug]/[chapter]/[variant] uses content_type, not file
+ * basename — they usually match but a few chapters have files like
+ * `translation-2.md` whose content_type is still "translation".
+ *
+ * Falls back to the file basename if the variant isn't in the meta —
+ * the URL would 404, but at least it's a deterministic value.
+ */
+function variantContentTypeFor(meta: ChapterMeta, variantFile: string): string {
+  const v = meta.variants.find((vv) => vv.file === variantFile);
+  return v?.content_type ?? variantFile.replace(/\.md$/, "");
+}
 
 // ── Tool dispatcher ────────────────────────────────────────────────────
 
@@ -152,9 +168,18 @@ async function readChapter(
 ): Promise<{
   work_slug: string;
   chapter_number: number;
+  chapter_slug: string;
   variant: string;
   title: string;
   body: string;
+  /**
+   * Bare chapter URL — the model should drop this in markdown footnotes
+   * so readers can click through to the source. Format:
+   *   /works/{work}/{chapter}/{variant}
+   * For paragraph-anchored citations, prefer get_passage which returns
+   * a URL with #p-x or ?paragraphs= already attached.
+   */
+  citation_url: string;
 }> {
   if (!args.work_slug) throw new Error("read_chapter: missing required arg work_slug");
   if (typeof args.chapter_number !== "number")
@@ -164,12 +189,19 @@ async function readChapter(
     args.chapter_number,
     args.variant,
   );
+  const variantCT = variantContentTypeFor(meta, variantFile);
   return {
     work_slug: args.work_slug,
     chapter_number: meta.chapter_number,
-    variant: variantFile.replace(/\.md$/, ""),
+    chapter_slug: meta.chapter_slug,
+    variant: variantCT,
     title: meta.title,
     body,
+    citation_url: urlForCitation({
+      workSlug: args.work_slug,
+      chapterSlug: meta.chapter_slug,
+      variant: variantCT,
+    }),
   };
 }
 
@@ -186,8 +218,21 @@ interface GetPassageArgs {
 async function getPassage(args: GetPassageArgs): Promise<{
   work_slug: string;
   chapter_number: number;
+  chapter_slug: string;
   variant: string;
-  paragraphs: Array<{ paragraph_id: string; index: number; text: string }>;
+  paragraphs: Array<{
+    paragraph_id: string;
+    index: number;
+    text: string;
+    /** Per-paragraph deep link — single-paragraph citation URL.
+     *  Drop this directly into a markdown footnote like
+     *  `[^1]: ... See [paragraph](url)`. */
+    citation_url: string;
+  }>;
+  /** Aggregate URL highlighting ALL returned paragraphs. Use this when
+   *  the answer references the whole passage as one citation rather
+   *  than per-paragraph. */
+  citation_url: string;
   source: "sidecar" | "body-split";
 }> {
   if (!args.work_slug) throw new Error("get_passage: missing required arg work_slug");
@@ -199,6 +244,7 @@ async function getPassage(args: GetPassageArgs): Promise<{
     ? meta.variants.find((v) => v.content_type === args.variant)?.file
     : meta.default_variant;
   if (!variantFile) throw new Error(`variant not found for ${args.work_slug}/${args.chapter_number}`);
+  const variantCT = variantContentTypeFor(meta, variantFile);
 
   // Prefer the precomputed paragraphs.json sidecar — it has stable
   // paragraph_ids the model can cite back to. Fall back to splitting
@@ -230,11 +276,41 @@ async function getPassage(args: GetPassageArgs): Promise<{
     selected = records.slice(0, 8);
   }
 
+  // Decorate each paragraph with its single-paragraph deep link.
+  // body-split fallback paragraph_ids look like "work/c1/p3" rather than
+  // "p-xxxxxx" — those won't match a chapter anchor, so emit a bare
+  // chapter URL for those instead of a broken hash.
+  const paragraphs = selected.map((r) => {
+    const isStableId = r.paragraph_id.startsWith("p-");
+    return {
+      ...r,
+      citation_url: urlForCitation({
+        workSlug: args.work_slug!,
+        chapterSlug: meta.chapter_slug,
+        variant: variantCT,
+        paragraphIds: isStableId ? [r.paragraph_id] : undefined,
+      }),
+    };
+  });
+
+  // Aggregate URL: highlight every selected paragraph, scroll to first.
+  const stableIds = selected
+    .map((r) => r.paragraph_id)
+    .filter((id) => id.startsWith("p-"));
+  const aggregateCitationUrl = urlForCitation({
+    workSlug: args.work_slug,
+    chapterSlug: meta.chapter_slug,
+    variant: variantCT,
+    paragraphIds: stableIds.length > 0 ? stableIds : undefined,
+  });
+
   return {
     work_slug: args.work_slug,
     chapter_number: meta.chapter_number,
-    variant: variantFile.replace(/\.md$/, ""),
-    paragraphs: selected,
+    chapter_slug: meta.chapter_slug,
+    variant: variantCT,
+    paragraphs,
+    citation_url: aggregateCitationUrl,
     source,
   };
 }

@@ -27,6 +27,7 @@
     "ai": "^6.0.168",
     "astro": "^5.0.0",
     "marked": "^18.0.2",
+    "marked-footnote": "^1.4.0",
     "preact": "^10.29.1",
     "typescript": "^5.7.0",
     "zod": "^4.3.6"

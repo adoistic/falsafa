@@ -810,6 +810,88 @@
   border-radius: 3px;
 }
 
+/* ── Footnote citations (marked-footnote extension) ────────────────
+ * The model formats citations as [^1] inline + [^1]: ... at the bottom.
+ * marked-footnote renders the inline as a <sup><a> superscript and
+ * collects definitions into a <section class="footnotes"> at the end.
+ *
+ * Visual goal: keep the body prose readable, make footnote markers
+ * distinct but not loud, and give the footnote list a visible boundary
+ * so it reads as a citation block rather than continuation text. */
+
+.byok-md sup a[data-footnote-ref] {
+  font-size: 0.75em;
+  font-weight: 600;
+  color: var(--accent);
+  border: 0;
+  padding: 0 2px;
+  text-decoration: none;
+}
+
+.byok-md sup a[data-footnote-ref]::before { content: "["; }
+.byok-md sup a[data-footnote-ref]::after  { content: "]"; }
+
+.byok-md sup a[data-footnote-ref]:hover,
+.byok-md sup a[data-footnote-ref]:focus-visible {
+  background: color-mix(in oklab, var(--accent) 15%, transparent);
+  border-radius: 2px;
+  outline: none;
+}
+
+.byok-md .footnotes {
+  margin-top: var(--s-6);
+  padding-top: var(--s-4);
+  border-top: 1px solid var(--rule);
+  font-size: 14px;
+  color: var(--ink-muted);
+}
+
+/* Hide the "Footnotes" sr-only heading visually — the rule + the list
+   numbering convey the section already, and the heading only adds noise. */
+.byok-md .footnotes .sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
+}
+
+.byok-md .footnotes ol {
+  margin: 0;
+  padding-left: var(--s-5);
+}
+
+.byok-md .footnotes li {
+  margin-bottom: var(--s-2);
+  line-height: 1.5;
+}
+
+.byok-md .footnotes li::marker {
+  color: var(--accent);
+  font-weight: 600;
+}
+
+.byok-md .footnotes li > p {
+  margin: 0;
+  display: inline;
+}
+
+.byok-md a[data-footnote-backref] {
+  margin-left: var(--s-1);
+  color: var(--ink-muted);
+  border: 0;
+  text-decoration: none;
+  font-size: 0.9em;
+}
+
+.byok-md a[data-footnote-backref]:hover {
+  color: var(--accent);
+}
+
 /* Inline variant — used in the thinking log; tighter margins */
 .byok-md-inline p {
   margin: 0 0 var(--s-2);
