@@ -1,0 +1,16 @@
+{
+  "answer": "Three texts in the corpus carry explicit cosmogonies — narrative or doctrinal accounts of how the world came to be:\n\n1. Manusmṛti (unknown-manusmrti-347b76), chapter 1 — the most fully developed cosmogony in the corpus. Mn_1.5–1.13 narrate the world's emergence from primordial darkness: 'This universe existed as darkness, unperceived, without distinctive marks ... wholly asleep on all sides' (Mn_1.5, p-61df11), then the Self-existent One manifests himself, casts his seed in the waters which become the golden egg from which Brahma is born (Mn_1.6–1.9, p-93cef0 → p-153021), and the egg is split to make heaven and earth (Mn_1.12, p-cd6713).\n\n2. Viṣṇu Smṛti (unknown-visnu-smrti-27f0d8), chapter 1 — opens directly with the cosmogonic moment in the Varāha-avatāra register: 'When the night of Brahma had passed, and the Lotus-born had awakened, Vishnu, desiring to create beings, and knowing the Earth was submerged in water' (Vi_1.1, p-88086c) → Viṣṇu takes the Boar form and lifts the Earth (Vi_1.2, p-bb3692). This is parallel to Manu but with the Vaishnava emphasis on the divine sport of cosmic re-emergence rather than first creation.\n\n3. Vṛhaspatitattva (unknown-vrhaspatitattva-b60b28), chapter 1 — the Old Javanese tattva text frames the entire teaching around Īśvara as the ultimate cause ('the scripture of His worship, which concerns His own being as the ultimate cause', p-012b81), and the body of the text walks through the unfolding of tattvas; this is cosmogony in doctrinal-ontological mode rather than narrative.\n\nThe three together cover the corpus's range: Manu = narrative cosmogony, Viṣṇu = mytho-poetic re-creation, Vṛhaspatitattva = ontological emanation.",
+  "tool_calls": [
+    {"name": "get_passage", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 4}}, "result_summary": "Confirmed Manu ch.1 opens with cosmogony framing"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_range": {"start": 4, "end": 12}}, "result_summary": "Mn_1.5–1.12 are the cosmogonic verses"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 4}}, "result_summary": "Vi_1.1–1.2 open with Varaha cosmogony"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-vrhaspatitattva-b60b28", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 4}}, "result_summary": "Confirmed Iśvara-as-cause framing"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-61df11"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-93cef0"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-153021"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 1, "paragraph_id": "p-88086c"},
+    {"work_slug": "unknown-vrhaspatitattva-b60b28", "chapter_number": 1, "paragraph_id": "p-012b81"}
+  ]
+}

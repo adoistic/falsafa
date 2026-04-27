@@ -1,0 +1,13 @@
+{
+  "answer": "Manusmṛti chapter 8 distinguishes verbal from physical assault and assigns distinct penalties for a non-Brahmin who attacks a Brahmin.\n\nVerbal assault (vāk-pāruṣya):\n- Mn_8.270 (p-e26690): 'A man of a single birth who assails the twice-born with harsh speech shall have his tongue cut out, for he is of low origin.'\n- Mn_8.271 (p-943f24): 'If he mentions their name and caste with malice, an iron nail, ten fingers long and glowing hot, shall be thrust into his mouth.'\n- Mn_8.272 (p-950712): 'If he arrogantly gives religious instruction to Brahmanas, the king shall have hot oil poured into his mouth and ear.'\n\nPhysical assault (daṇḍa-pāruṣya):\n- Mn_8.279 (p-526528): 'With whatever limb a low-born man should injure a superior, that very limb of his shall be cut off; this is the ordinance of Manu.'\n- Mn_8.280 (p-c0dabc): 'He who raises his hand or a stick deserves to have his hand cut out; he who strikes in anger with his foot deserves to have his foot cut off.'\n\nSo the precise penalty for a non-Brahmin who strikes a Brahmin is severance of the offending limb (Mn_8.279), specifically the hand for striking with the hand or with a stick and the foot for striking with the foot (Mn_8.280). For verbal aggression by the same offender, the penalties are mutilation graded by the form of the speech: tongue (8.270), heated iron nail in the mouth (8.271), or hot oil poured into mouth and ear (8.272).",
+  "tool_calls": [
+    {"name": "get_passage", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 8, "paragraph_range": {"start": 230, "end": 255}}, "result_summary": "Located Mn_8.270, 271, 272 (verbal) and Mn_8.279, 280 (physical) penalties"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 8, "paragraph_id": "p-e26690"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 8, "paragraph_id": "p-943f24"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 8, "paragraph_id": "p-950712"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 8, "paragraph_id": "p-526528"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 8, "paragraph_id": "p-c0dabc"}
+  ]
+}

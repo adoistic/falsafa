@@ -1,0 +1,14 @@
+{
+  "answer": "Ghalib's pre-eternal moment is the matla of ghazal 130 (Diwan-E-Ghalib): 'The Primal Radiance sought a form for its own grace, / And found its destined advent in your form and face.' (p-0cc4ef). The pact here is metaphysical decree: tajalli — the divine self-manifestation — chooses form, and the lover/poet is on the receiving end of that prior choosing. Ghalib's stance is one of receptive acknowledgment; the soul is already inscribed by a covenant it did not negotiate.\n\nIqbal's response is 'Sarguzasht-e-Adam' (Bang-e-Dara Part 1, ch.37): 'Come, hear from me the story of my exile's way; / The tale of the First Covenant I let fall away.' (p-7c0f77). The covenant is not a thing one stands inside but a thing the conscious self deliberately steps out of. The poem then traces Adam's restless reincarnations across history — Sinai, Hira, the Cross, India, Greece, Newton, Galileo — as the working out of that exit. The covenant is reframed from a binding past-promise into a starting point for action.\n\nThe move from Ghalib to Iqbal is from passive recipient of tajalli's prior decree to active agent who breaks the prior pact in order to make history. Ghalib's resignation ('I am the form chosen by Primal Radiance') becomes Iqbal's vocation ('I am the one who let the First Covenant fall away'). What Ghalib treats as the closing of the cosmic argument, Iqbal treats as its opening sentence.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "alast"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "covenant"}, "result_summary": "Found Iqbal Sarguzasht-e-Adam ch.37"},
+    {"name": "search_corpus", "args": {"query": "primal"}, "result_summary": "Found Ghalib ch.130 'Primal Radiance' matla"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 37, "variant": "translation"}, "result_summary": "Iqbal's First Covenant verse at p-7c0f77 is the matla"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 130, "variant": "translation"}, "result_summary": "Ghalib's tajalli/Primal Radiance verse at p-0cc4ef is the matla"}
+  ],
+  "citations": [
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 130, "paragraph_id": "p-0cc4ef"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 37, "paragraph_id": "p-7c0f77"}
+  ]
+}

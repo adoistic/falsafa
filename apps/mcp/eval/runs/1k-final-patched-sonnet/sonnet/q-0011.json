@@ -1,0 +1,11 @@
+{
+  "answer": "The list spans two verses, Yj_1.4 and Yj_1.5: 'Manu, Atri, Viṣṇu, Hārīta, Yājñavalkya, Uśanas, Aṅgiras, Yama, Āpastamba, Saṃvarta, Kātyāyana, and Bṛhaspati, // Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, and Gautama, Śātātapa, and Vasiṣṭha are the promulgators of the Dharmaśāstras.' (Yājñavalkya Smṛti, ch.1, paragraphs p-0f4ad0 and p-95ef53). The twenty named in order are: Manu, Atri, Viṣṇu, Hārīta, Yājñavalkya, Uśanas, Aṅgiras, Yama, Āpastamba, Saṃvarta, Kātyāyana, Bṛhaspati, Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, Gautama, Śātātapa, and Vasiṣṭha.",
+  "tool_calls": [
+    {"name": "list_chapters", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6"}, "result_summary": "Confirmed 3 chapters; ch.1 has translation variant"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 15}}, "result_summary": "Yj_1.4 + Yj_1.5 list the twenty promulgators ending with Vasiṣṭha"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-0f4ad0"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-95ef53"}
+  ]
+}
