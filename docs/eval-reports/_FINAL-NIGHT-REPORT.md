@@ -267,6 +267,49 @@ known scorer-artifact pattern showing up on roughly 1 in 8 discovery
 questions where the agent's expanded answer space exceeds the
 expected_works list.
 
+## The wave-3 orchestrator postscript (also invalidated, but useful)
+
+A wave-3 orchestrator dispatched much earlier in the night
+(before either patch existed) just completed: 34 questions, 33/34
+mechanical pass.
+
+That orchestrator also discovered a useful technique worth surfacing
+in the protocol doc: when nested Agent-tool dispatch isn't allowed,
+sub-agents can be spawned via headless CLI:
+
+```bash
+claude -p --model sonnet --permission-mode bypassPermissions
+```
+
+Each invocation is a fresh, isolated Claude session with the same
+MCP attached (via `~/.claude.json`). For paper-grade orchestration
+that wants a single coordinator process running thousands of
+questions, this is the right primitive. The orchestrator dispatched
+in 5 batches × 8 parallel headless agents and finished 34 questions
+in ~35 minutes wall.
+
+The wave-3 prompts at `/tmp/wave3-q-*.txt` were written with the
+pre-patch `buildSubagentPrompt()` (old anti-cheat list, no
+`eval/questions-revised-1000.json` exclusion). Under the same rigor
+we applied to pilot + waves 1+2, this run is **invalidated for
+paper purposes**. Files preserved under
+`apps/mcp/eval/runs/_INVALIDATED-pre-anti-cheat-patch/1k-wave3-sonnet/`
+for audit.
+
+Notably: even though this run used pre-patched prompts, it produced
+**zero verse-marker-as-id citations** (corroborating evidence that the
+MCP `read_chapter` patch held — agents who hit a freshly-spawned MCP
+process saw the new `[p-xxxxxx]` markers regardless of which prompt
+generated their session).
+
+The orchestrator also flagged a small operational issue worth
+adding to TODOs: one sub-agent (q-0902) wrote unescaped quote
+characters inside its JSON `answer` field, breaking parse. The
+orchestrator fixed it with a regex pass before scoring, but the
+real fix is to ask agents to emit their JSON via a `JSON.stringify`
+equivalent rather than hand-writing it. Worth adding a sentence to
+the response-format section of `buildSubagentPrompt`.
+
 ## Commits tonight
 
 - `7a2e98c` — Sonnet judge on pilot
