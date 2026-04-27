@@ -1,177 +1,166 @@
 # Falsafa
 
-A premium reading platform for translated philosophical and classical texts,
-plus an open-source MCP engine so any LLM (Claude, ChatGPT, Hermes, etc.) can
-query the corpus as a knowledge resource.
+A reading site and an open-source MCP server over the same translated corpus
+of philosophical and classical texts. Built by [Adnan](https://meetadnan.com).
+Free, public, MIT.
 
-> Free, public, open-source. Built by [Adnan](https://meetadnan.com).
+The fastest way in:
 
-## What this is
+```bash
+npx -y @falsafa/mcp
+```
 
-Two artifacts that share one corpus:
+That's the librarian. Eight tools (list, read, search, cite, compare),
+zero API keys, zero state, zero inference cost on our side. Karpathy-flavored:
+the MCP is a librarian, not a second LLM. Your model does the reasoning.
 
-1. **A static reading site** at the editorial-quality bar of NYRB / LRB / Aeon.
-   38 works, 1,673 chapters, ~4.7M tokens of translated, transliterated, and
-   original-language text. Three chapter layouts: prose, verse, and manuscript.
-   Reader's notebook (highlights, notes, doubts) stored locally in the browser
-   with portable export to any major LLM platform.
+## Install in your daily LLM (30 seconds)
 
-2. **An open-source MCP server** (`@falsafa/mcp`) that exposes the corpus as
-   tools to any MCP-aware LLM. Karpathy-flavored: a librarian, not a second
-   LLM. Eight tools (list_works, list_chapters, get_metadata, read_chapter,
-   get_passage, search_corpus, find_related, compare_works). Zero API keys,
-   zero state, zero inference cost. Distributed via npm.
+### Claude Desktop / Claude Code
 
-## Status
+Add to `~/Library/Application Support/Claude/claude_desktop_config.json`
+(or run `claude mcp add falsafa npx -y @falsafa/mcp`):
 
-Greenfield. Plan locked. Scaffolding starts now.
+```json
+{
+  "mcpServers": {
+    "falsafa": { "command": "npx", "args": ["-y", "@falsafa/mcp"] }
+  }
+}
+```
 
-- [Design document](docs/design.md) — full architecture, schema, MCP tool spec
-- [Test plan](docs/eng-review-test-plan.md) — coverage diagram + 16-case MCP eval suite
-- [DESIGN.md](DESIGN.md) — visual identity (typography, color, spacing, states)
-- [TODOS.md](TODOS.md) — V2 backlog and content workstreams
+Restart. The Falsafa tools show up in the tool list. Ask "what works does
+Cynewulf have?" and the model calls `list_works({ author: "cynewulf" })`.
 
-## Repo layout (target)
+### Cursor / Codex / any stdio MCP client
+
+```bash
+npx -y @falsafa/mcp
+```
+
+Point your client at that command. See `apps/mcp/README.md` for the full
+tool reference and example interactions.
+
+## What's in the corpus
+
+Numbers from `corpus/manifest.json` (regenerated on every convert):
+
+| | Count |
+|---|---|
+| Works | 38 |
+| Authors | 22 |
+| Logical chapters | 836 |
+| Variant entries (translation, transliteration, original) | 2,089 |
+| Languages | Old English, Sanskrit, Urdu, Kawi, French, German |
+| Eras | Ancient, Medieval, Early Modern, 19th C, 20th C |
+
+Cynewulf's Old English Christian poems. Iqbal's Bang-E-Dara. Ghalib and
+Zauq's Diwans. Sanskrit smṛti texts. Comte and Fichte. Each work ships with
+the original-language source, a Latin-script transliteration where it makes
+sense, and Thothica's English translation. Every paragraph has a stable
+content-derived ID (`p-xxxxxx`) so citations survive reformatting.
+
+## Try it without installing anything
+
+The browser-bundled MCP runs end-to-end at `falsafa.ai/try` (ships at
+launch). Bring your own OpenAI, Anthropic, OpenRouter, or Gemini key, paste
+it, ask anything. The same tool calls fire client-side, against the same
+corpus, with paragraph-anchored citations that link back to the reader.
+Key never leaves the browser. Source under `apps/site/src/islands/byok/`.
+Pre-launch: `cd apps/site && bun run dev`, then visit `/try`.
+
+## Repo layout
 
 ```
 falsafa/
-├── corpus/                     # markdown source of truth (~25MB)
-│   ├── manifest.json           # catalog: works, authors, eras, genres
-│   ├── works/{era}/{author}/{slug}/
-│   │   ├── index.md            # work metadata + TOC
-│   │   ├── cover.webp          # AI-generated cover
-│   │   ├── chapters/NN-{slug}.md
-│   │   └── paragraphs.json     # stable paragraph IDs for citation
-│   └── home/                   # featured.yaml, curated-paths.yaml, click-prompts.yaml
+├── corpus/             # markdown source of truth, manifest, paragraph index
 ├── apps/
-│   ├── site/                   # Astro 5 reading site → Vercel
-│   └── mcp/                    # Bun + TypeScript MCP server → npm
-├── packages/
-│   └── schema/                 # shared Zod types
-├── scripts/
-│   ├── corpus-audit.ts         # Phase 0 — data quality pass
-│   ├── convert.ts              # Phase 1 — JSON → Markdown
-│   ├── cross-link.ts           # build-time TF-IDF + structural cross-links
-│   └── generate-images.ts      # Phase 4 — Replicate Flux dev
-├── DESIGN.md
-├── TODOS.md
-├── docs/
-└── works.json                  # original Postgres export (archived)
+│   ├── site/           # Astro 5 reading site + /try BYOK demo
+│   ├── mcp/            # @falsafa/mcp, stdio MCP server (Bun + TS)
+│   ├── pipeline/       # `npx @falsafa/pipeline ingest` (in progress)
+│   └── baseline/       # hybrid RAG baseline for the eval comparison
+├── eval/               # 1,000-question audited pool (Agents A/B/C)
+├── scripts/            # convert, audit, cross-link, image-gen
+├── docs/designs/       # locked plans (Perseus launch, BYOK slice)
+└── TODOS.md            # deferred items + remote MCP gate
 ```
 
-## Quick start
+## Eval
+
+`apps/mcp/eval/` runs 44 cases across needle quotes, vague themes, factual
+lookups, citation precision, comparative reasoning, edge cases, and
+adversarial negatives. Results land in `apps/mcp/eval/runs/`.
+
+Last Haiku run: 44/44 pass, 389/396 points. Sonnet judge resolves every
+cited paragraph_id back to source. The full audited 1,000-question pool
+sits at `eval/questions-revised-1000.json`; the launch eval explorer at
+`falsafa.ai/eval` will browse it case-by-case against a hybrid RAG baseline.
+
+## Status
+
+Launch phase. Plan locked at
+[`docs/designs/falsafa-perseus-launch.md`](docs/designs/falsafa-perseus-launch.md).
+Eleven artifacts on the launch list:
+
+1. Writeup
+2. Repo (this)
+3. `falsafa.ai/try` BYOK live demo (built, undeployed)
+4. `falsafa.ai/eval` eval explorer
+5. `falsafa.ai/thesis` why no vector DB
+6. `falsafa.ai/numbers` by-the-numbers
+7. `falsafa.ai/perseus` Perseus showcase
+8. `npx @falsafa/pipeline ingest <archive>` published to npm
+9. gstack Skill: `gstack skills install falsafa-methodology`
+10. arXiv preprint
+11. PR back to PerseusDL
+
+Phase 1 (corpus + MCP) and Phase 2 (BYOK demo at /try, end-to-end
+paragraph-anchored citations) are in. Remote MCP backend (claude.ai
+Connector + ChatGPT GPT) is gated on `/office-hours` then
+`/plan-eng-review`; see the entry at the top of `TODOS.md`.
+
+## Run it locally
 
 ```bash
-# Install
 bun install
 
-# Phase 0: corpus audit (no API key needed)
+# audit + convert (no API key needed)
 bun run audit
-
-# Phase 1: convert works.json → corpus/ markdown
 bun run convert
 
-# Phase 2: dev the MCP server (no API key needed)
+# MCP server, stdio
 cd apps/mcp && bun run dev
 
-# Phase 4: cover imagery (needs OPENROUTER_API_KEY in .env)
-echo "OPENROUTER_API_KEY=sk-or-..." > .env
-bun run images                  # full pipeline: background → elements → composite
-bun run images --background     # just regenerate the shared base background
-bun run images --elements       # just regenerate per-work foreground motifs
-bun run images --composite      # just composite (uses existing background + elements)
-bun run images --only <slug>    # restrict to one work
-bun run images --force          # ignore caches
-bun run images --dry-run        # print prompts, don't call API
+# reading site + /try BYOK demo
+cd apps/site && bun run dev
+
+# MCP eval suite (ANTHROPIC_API_KEY for Haiku, optional Sonnet judge)
+cd apps/mcp && bun run eval
 ```
 
-## Cover imagery — agentic pipeline
-
-Falsafa covers are produced by a five-stage agentic pipeline with cross-vendor
-critique. Every cover gets a watercolor prompt drafted, critiqued by a
-different model, refined, and rendered. Every stage's input + output is
-persisted to `cover.audit.json` for full reproducibility.
-
-```
-For each work:
-  ┌─────────────────────────────────────────────────────────────────┐
-  │  STAGE 1  Context        load metadata + first-chapter excerpt   │
-  │                          + series anchor (palette/mood)          │
-  │           (no LLM)                                                │
-  ├─────────────────────────────────────────────────────────────────┤
-  │  STAGE 2  Draft          claude-sonnet-4.6  json_schema          │
-  │                          composes a watercolor prompt: subject,  │
-  │                          palette (real pigment names), composition,│
-  │                          watercolor treatment, full paragraph    │
-  ├─────────────────────────────────────────────────────────────────┤
-  │  STAGE 3  Critique       gpt-5.5  json_schema  CROSS-VENDOR      │
-  │                          finds AI-slop, hedging, vague subject,  │
-  │                          watercolor-as-label, palette drift.     │
-  │                          gate: any critical issue → regenerate.  │
-  │                          (Pattern adapted from gstack /codex.)   │
-  ├─────────────────────────────────────────────────────────────────┤
-  │  STAGE 4  Decide         claude-sonnet-4.6  json_schema          │
-  │                          accepts/rejects each suggestion with    │
-  │                          reasoning, emits final prompt           │
-  ├─────────────────────────────────────────────────────────────────┤
-  │  STAGE 5  Image          gpt-5.4-image-2  3:2 @ 2K               │
-  │                          renders the final prompt → cover.webp   │
-  ├─────────────────────────────────────────────────────────────────┤
-  │  STAGE 6  Audit          full I/O of every stage saved to        │
-  │                          cover.audit.json — replayable forever   │
-  └─────────────────────────────────────────────────────────────────┘
-```
-
-**Why cross-vendor critique:** the drafter (Anthropic) and critic (OpenAI) are
-different models from different labs. When they disagree, you get genuine
-fresh perspective on what's wrong with the prompt. When they agree, signal is
-much stronger than self-review. Same pattern gstack uses for `/codex review`
-of Claude-authored code.
-
-**Series-aware cohesion:** works are grouped into series via `lib/series.ts`
-(Cynewulf trilogy, Iqbal Bang-E-Dara parts, Comte volumes, Sanskrit smṛti,
-Kawi tattva, etc). Each series has a palette + mood + watercolor-treatment
-anchor in `style-guide.json` that the drafter follows. Siblings read as
-related; different series look genuinely different.
-
-**Reproducibility:** `cover.audit.json` per work captures every stage's I/O.
-Bumping `version` in `style-guide.json` invalidates all audits and forces
-re-run. The same inputs always produce the same audit (modulo LLM sampling).
-
-**Iteration:** edit the master aesthetic, series anchors, or system prompts
-in `style-guide.json` and re-run with `--force`. Use `--dry-run` to see the
-final prompt without spending an image-gen API call (saves stages 1-4 to
-`cover.audit.draft.json`).
-
-**Cost & time:** ~$0.11 per cover (3 LLM calls + 1 image gen), ~4 minutes per
-cover, ~$4 and ~1 hour for the full 38-work catalog at concurrency 3.
+Cover imagery is a separate five-stage agentic pipeline: draft, cross-vendor
+critique, decide, render, audit. See `scripts/generate-images.ts` and
+`style-guide.json` for the per-series anchors. Roughly $0.11 and 4 minutes
+per cover.
 
 ## License
 
-MIT. See [LICENSE](LICENSE).
-
-The corpus content (`works.json` and the generated `corpus/` directory) is
-released as a public good. Translations and transliterations are produced by
-[Thothica](https://thothica.com), an AI translation company.
+MIT. Translations and transliterations produced by
+[Thothica](https://thothica.com) and released as a public good with the
+rest of the corpus.
 
 ## Acknowledgments
 
-- This work is supported by a grant from
-  [Emergent Ventures India](https://www.mercatus.org/emergent-ventures)
-  ([15th cohort announcement](https://marginalrevolution.com/marginalrevolution/2025/12/emergent-ventures-india-15th-cohort.html)).
-- Thothica's translation and curation pipeline is built on frontier large
-  language models (Anthropic's Claude, OpenAI's GPT, Google's Gemini, and
-  open-weights models via OpenRouter). The translations and transliterations
-  shipped in this corpus are the output of that pipeline. Without those
-  models, Thothica could not have produced this catalog at this scale.
-- Karpathy's [vector-DB-less RAG gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
-  is the philosophical anchor for the MCP design.
-- This site and the MCP server are built with [Claude Code](https://claude.com/claude-code)
-  and the [gstack](https://github.com/garrytan/gstack) toolkit, which made it
-  possible to ship a full plan + design + implementation in a single weekend.
+Karpathy's [vector-DB-less RAG gist](https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f)
+is the philosophical anchor for the MCP.
+[Emergent Ventures India](https://www.mercatus.org/emergent-ventures)
+([15th cohort](https://marginalrevolution.com/marginalrevolution/2025/12/emergent-ventures-india-15th-cohort.html))
+funded the work. Built with [Claude Code](https://claude.com/claude-code)
+and the [gstack](https://github.com/garrytan/gstack) toolkit.
 
 ## Contributing
 
-Greenfield. The plan is locked at the design level (see `docs/design.md`).
-Open issues for bugs, content corrections, or content contributions
-(additional translated works that fit the catalog).
+Open issues for bugs, content corrections, or works that fit the catalog.
+Pre-launch work follows the roadmap in `TODOS.md`.
+</content>
+</invoke>

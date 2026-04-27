@@ -1,0 +1,732 @@
+{
+  "run_dir": "apps/mcp/eval/runs/multi-model-20260427-230126/codex",
+  "total_cases": 44,
+  "total_pass": 4,
+  "total_points": 36,
+  "total_max": 396,
+  "by_category": {
+    "needle: specific quote": {
+      "pass": 1,
+      "total": 8,
+      "pts": 9,
+      "maxPts": 72
+    },
+    "needle: vague thematic": {
+      "pass": 0,
+      "total": 6,
+      "pts": 0,
+      "maxPts": 54
+    },
+    "factual lookup": {
+      "pass": 0,
+      "total": 5,
+      "pts": 0,
+      "maxPts": 45
+    },
+    "citation precision": {
+      "pass": 1,
+      "total": 5,
+      "pts": 9,
+      "maxPts": 45
+    },
+    "cross-tradition comparison": {
+      "pass": 1,
+      "total": 4,
+      "pts": 9,
+      "maxPts": 36
+    },
+    "multi-step reasoning": {
+      "pass": 0,
+      "total": 4,
+      "pts": 0,
+      "maxPts": 36
+    },
+    "negative / hallucination guard": {
+      "pass": 1,
+      "total": 5,
+      "pts": 9,
+      "maxPts": 45
+    },
+    "edge / error handling": {
+      "pass": 0,
+      "total": 3,
+      "pts": 0,
+      "maxPts": 27
+    },
+    "era / filter bounded": {
+      "pass": 0,
+      "total": 4,
+      "pts": 0,
+      "maxPts": 36
+    }
+  },
+  "per_case": [
+    {
+      "id": "needle-quote-andreas-thanes",
+      "category": "needle: specific quote",
+      "factual": 3,
+      "hallucination": 3,
+      "citation": 3,
+      "total": 9,
+      "max": 9,
+      "pass": true,
+      "missing": [],
+      "hallucinated": [],
+      "notes": "PERFECT"
+    },
+    {
+      "id": "needle-quote-ghalib-place-no-one-known",
+      "category": "needle: specific quote",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Ghalib",
+        "Diwan-E-Ghalib",
+        "168"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "needle-quote-iqbal-piety",
+      "category": "needle: specific quote",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Iqbal",
+        "Bang-E-Dara"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "needle-quote-manu-sages",
+      "category": "needle: specific quote",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Manu",
+        "Manusm"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "needle-quote-yajnavalkya-yogis",
+      "category": "needle: specific quote",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Yājñavalkya",
+        "Yajnavalkya"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "needle-quote-visnu-boar",
+      "category": "needle: specific quote",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Vi",
+        "Vishnu",
+        "Viṣṇu"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "needle-quote-kunjarakarna-six-enemies",
+      "category": "needle: specific quote",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Kunjarakarna",
+        "Mpu Dusun"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "needle-quote-comte-introduction",
+      "category": "needle: specific quote",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Comte",
+        "Traité de Législation"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "needle-theme-kingship",
+      "category": "needle: vague thematic",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Manu",
+        "Kātyāyana"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "needle-theme-exile",
+      "category": "needle: vague thematic",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Old English",
+        "Elegies"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "needle-theme-divine",
+      "category": "needle: vague thematic",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "needle-theme-courage",
+      "category": "needle: vague thematic",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "needle-theme-debt",
+      "category": "needle: vague thematic",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Bṛhaspati",
+        "Kātyāyana"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "needle-theme-european-political-economy",
+      "category": "needle: vague thematic",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Comte",
+        "Dunoyer"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "factual-cynewulf-works",
+      "category": "factual lookup",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Andreas",
+        "Elene",
+        "Juliana"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "factual-corpus-counts",
+      "category": "factual lookup",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "38",
+        "Medieval",
+        "Ancient"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "factual-comte-volumes",
+      "category": "factual lookup",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Législation",
+        "Propriété"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "factual-manusmrti-chapters",
+      "category": "factual lookup",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "12"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "factual-iqbal-bang-e-dara-parts",
+      "category": "factual lookup",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "citation-andreas-opening-exact",
+      "category": "citation precision",
+      "factual": 3,
+      "hallucination": 3,
+      "citation": 3,
+      "total": 9,
+      "max": 9,
+      "pass": true,
+      "missing": [],
+      "hallucinated": [],
+      "notes": "PERFECT"
+    },
+    {
+      "id": "citation-manu-1-1",
+      "category": "citation precision",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "sages",
+        "Manu",
+        "concentrated",
+        "honored"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "citation-ghalib-168-couplet",
+      "category": "citation precision",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "place",
+        "alone"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "citation-iqbal-bang-1-1",
+      "category": "citation precision",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "piety",
+        "enmity"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "citation-andreas-original-text",
+      "category": "citation precision",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Hwæt",
+        "we"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "comparative-cynewulf-iqbal-divine",
+      "category": "cross-tradition comparison",
+      "factual": 3,
+      "hallucination": 3,
+      "citation": 3,
+      "total": 9,
+      "max": 9,
+      "pass": true,
+      "missing": [],
+      "hallucinated": [],
+      "notes": "PERFECT"
+    },
+    {
+      "id": "comparative-dharma-east-west",
+      "category": "cross-tradition comparison",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "dharma"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "comparative-ghalib-zauq-style",
+      "category": "cross-tradition comparison",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Ghalib",
+        "Zauq"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "comparative-related-andreas",
+      "category": "cross-tradition comparison",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "multistep-mention-divine-wordcount",
+      "category": "multi-step reasoning",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "multistep-three-variant-works",
+      "category": "multi-step reasoning",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "multistep-medieval-philosophy-shortest",
+      "category": "multi-step reasoning",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "multistep-cynewulf-trilogy-themes",
+      "category": "multi-step reasoning",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Andreas",
+        "Elene",
+        "Juliana"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "negative-tamil",
+      "category": "negative / hallucination guard",
+      "factual": 3,
+      "hallucination": 3,
+      "citation": 3,
+      "total": 9,
+      "max": 9,
+      "pass": true,
+      "missing": [],
+      "hallucinated": [],
+      "notes": "PERFECT"
+    },
+    {
+      "id": "negative-greek-philosophy",
+      "category": "negative / hallucination guard",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "no"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "negative-arabic-original",
+      "category": "negative / hallucination guard",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "no"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "negative-modern-fiction",
+      "category": "negative / hallucination guard",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "no"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "negative-quantum-mechanics",
+      "category": "negative / hallucination guard",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "no"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "edge-out-of-range-chapter",
+      "category": "edge / error handling",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "does not exist"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "edge-invalid-language",
+      "category": "edge / error handling",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "no"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "edge-empty-search",
+      "category": "edge / error handling",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "no"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "filter-era-medieval",
+      "category": "era / filter bounded",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "filter-language-sanskrit",
+      "category": "era / filter bounded",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Manu",
+        "Yājñavalkya",
+        "Smṛti"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "filter-author-iqbal",
+      "category": "era / filter bounded",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [
+        "Bang-E-Dara"
+      ],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    },
+    {
+      "id": "filter-content-type-original",
+      "category": "era / filter bounded",
+      "factual": 0,
+      "hallucination": 0,
+      "citation": 0,
+      "total": 0,
+      "max": 9,
+      "pass": false,
+      "missing": [],
+      "hallucinated": [],
+      "notes": "MISSING_RESULT_FILE"
+    }
+  ]
+}

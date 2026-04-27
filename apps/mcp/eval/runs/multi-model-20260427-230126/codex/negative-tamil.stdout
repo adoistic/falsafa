@@ -1,0 +1,22 @@
+I could not complete Step A because this session’s filesystem is read-only, and direct writes to `apps/mcp/eval/runs/multi-model-20260427-230126/codex/negative-tamil.json` were denied by the sandbox. The required JSON is below.
+
+```json
+{
+  "answer": "There are no works in Tamil in the Falsafa corpus.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Tamil"
+      },
+      "result_summary": "Returned count 0 with no works."
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Returned 38 works; languages present are Old English, Sanskrit, Urdu, French, Kawi, and German, with no Tamil entries."
+    }
+  ],
+  "citations": []
+}
+```

@@ -1,0 +1,243 @@
+{
+  "answer": "Cynewulf’s Andreas approaches human action as something explicitly ordered, enabled, and validated by the divine. In cynewulf-andreas-07b573 chapter 1, the poem opens by saying the apostles’ lots are handed out by the Lord, then shows Matthew praying for help and receiving a direct divine answer, and Andrew being personally commanded to go rescue him (paragraphs p-868413, p-26403d, p-bdbda7, p-4d1e78). Even when Andrew hesitates, the poem frames effective action as obedience to God’s command and as dependent on God’s power; later, Andrew’s prayer and God’s decree produce the flood miracle, after which the Mermedonians conclude that the true Maker sent him and that they must obey (paragraphs p-2e50c1, p-839aab, p-0609a7). In other words, Andreas presents human agency as heroic but fundamentally subordinate to, and empowered by, direct divine intervention.\n\nBang-E-Dara treats the relationship more inwardly and dialogically. In allama-iqbal-bang-e-dara-part-1-55b25c chapter 3, the speaker urges the human being to look for the Beloved’s trace on every path and frames human action as passionate seeking and prayer (paragraphs p-32c00f, p-0071b9). In allama-iqbal-bang-e-dara-part-2-9bc58c chapter 14, man is portrayed as restless, conscious, and burdened by mystery, unlike the rest of creation, which follows its appointed course more simply (paragraphs p-d7ec8e, p-3a62d8, p-3ebd11, p-62d764). In allama-iqbal-bang-e-dara-part-3-cc61e8 chapter 20, the speaker says believers fought, preached, and endured hardship for God’s name, but the chapter turns that record of action into a complaint and petition for renewed divine fire and command (paragraphs p-e1af7a, p-a26ec8, p-e3a437, p-82a0c8, p-847833). So where Andreas stresses obedience to explicit divine command and miracle-backed mission, Bang-E-Dara stresses human longing, historical striving, and an appeal for divine response that will reawaken and redirect human action.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Found Andreas slug cynewulf-andreas-07b573."
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Found Bang-E-Dara split into parts 1, 2, and 3."
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "cynewulf-andreas-07b573",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "topic": "human action and the divine"
+      },
+      "result_summary": "Suggested Andreas chapter 1 and Bang-E-Dara Part 1 chapters 1-3 as relevant pointers."
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Reviewed Part 1 chapter list; noted chapter 3 as a likely fit."
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Reviewed Part 2 chapter list; noted chapter 14 (Insaan) as a likely fit."
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Reviewed Part 3 chapter list; noted chapter 20 (Shikwa) as a likely fit."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "Confirmed Andreas frames apostles’ action as divinely assigned, commanded, and miracle-backed."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 1
+      },
+      "result_summary": "Read comparison suggestion chapter; noted it was less directly useful than later selections."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 3
+      },
+      "result_summary": "Confirmed a pattern of prayerful seeking and perceiving the Beloved’s trace."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14
+      },
+      "result_summary": "Confirmed Iqbal presents man as restless, burdened by mystery, and unlike the rest of creation."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20
+      },
+      "result_summary": "Confirmed Shikwa links human action for God’s name with complaint and petition for renewed divine aid."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 0,
+          "end": 10
+        }
+      },
+      "result_summary": "Captured early Andreas paragraphs with divinely assigned fate, Matthew’s prayer, and Andrew’s command."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 72,
+          "end": 82
+        }
+      },
+      "result_summary": "Captured late Andreas paragraphs with the flood miracle, conversion, and renewed divine instruction."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 3,
+        "paragraph_range": {
+          "start": 0,
+          "end": 3
+        }
+      },
+      "result_summary": "Captured Bang-E-Dara Part 1 chapter 3 passages on prayer and the Beloved’s trace."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14,
+        "paragraph_range": {
+          "start": 0,
+          "end": 10
+        }
+      },
+      "result_summary": "Captured Insaan passages on man’s restlessness, fate, and bitterness."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_range": {
+          "start": 3,
+          "end": 12
+        }
+      },
+      "result_summary": "Captured Shikwa’s account of acting and fighting for God’s name."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_range": {
+          "start": 24,
+          "end": 31
+        }
+      },
+      "result_summary": "Captured Shikwa’s closing petitions for renewed divine command and awakening."
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-868413"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-26403d"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-bdbda7"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-4d1e78"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-839aab"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-0609a7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 3,
+      "paragraph_id": "p-32c00f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 3,
+      "paragraph_id": "p-0071b9"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-d7ec8e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-3ebd11"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-62d764"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-e1af7a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-a26ec8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-e3a437"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-82a0c8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-847833"
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+{
+  "answer": "The exact first 6 lines of Andreas chapter 1 (English translation), from work slug cynewulf-andreas-07b573, chapter 1, paragraph p-868413:\n\nWe have heard of heroes in ages past,\nof twelve true thanes under the turning stars,\nthe Lord's own champions. Their glory lived on\nin the grim struggle where standards clashed.\nTheir lots were laid out as the Lord Himself,\nHeaven's High King, handed them their fates.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "cynewulf"}, "result_summary": "Found cynewulf-andreas-07b573 (Andreas), total_logical_chapters: 1"},
+    {"name": "search_corpus", "args": {"query": "twelve true thanes"}, "result_summary": "Confirmed Andreas ch.1, paragraph p-868413, snippet matches opening"},
+    {"name": "get_passage", "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 6}}, "result_summary": "Retrieved opening paragraph; first 6 lines extracted from p-868413"}
+  ],
+  "citations": [
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-868413"}
+  ]
+}

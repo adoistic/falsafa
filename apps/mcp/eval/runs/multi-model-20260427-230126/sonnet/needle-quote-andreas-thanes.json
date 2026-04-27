@@ -1,0 +1,18 @@
+{
+  "answer": "The passage 'We have heard of heroes in ages past, of twelve true thanes under the turning stars' is from the Old English poem Andreas by Cynewulf, work slug cynewulf-andreas-07b573, Chapter 1 (chapter_number: 1). It is the opening of the poem.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {"query": "twelve true thanes"},
+      "result_summary": "Returned exactly 1 result: work cynewulf-andreas-07b573 (Andreas), chapter 1, paragraph p-868413, with snippet matching the quoted passage."
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 2}},
+      "result_summary": "Confirmed paragraph p-868413 contains the exact opening lines: 'We have heard of heroes in ages past, of twelve true thanes under the turning stars...'"
+    }
+  ],
+  "citations": [
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-868413"}
+  ]
+}

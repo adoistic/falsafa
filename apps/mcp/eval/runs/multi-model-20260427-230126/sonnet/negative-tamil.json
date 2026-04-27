@@ -1,0 +1,16 @@
+{
+  "answer": "There are no Tamil works in the Falsafa corpus. A direct query using list_works with language filter 'Tamil' returned 0 results. A full listing of all 38 works confirms the corpus languages are: Old English, Sanskrit, Urdu, French, German, and Kawi (Old Javanese). Tamil is not represented.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {"language": "Tamil"},
+      "result_summary": "Returned 0 works — no Tamil works in corpus"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Returned all 38 works; languages present are old_english, Sanskrit, Urdu, French, German, Kawi — no Tamil"
+    }
+  ],
+  "citations": []
+}
