@@ -106,4 +106,25 @@ The host's main session has a finite context window. Rules for this run:
 
 - 2026-04-27 23:50 — pilot landed, judge run, report committed (`7a2e98c`)
 - 2026-04-27 23:55 — overnight plan committed
-- (next entries appended as phases complete)
+- 2026-04-28 00:30 — codex CLI rate limit hit (until Apr 29 8:06 PM)
+- 2026-04-28 00:35 — judge harness stdin bug found + fixed (`d7681c9`)
+- 2026-04-28 00:50 — wave 1 dispatched (10 sub-agents, native MCP)
+- 2026-04-28 01:30 — q-0626/q-0951 product findings investigated + queued in TODOS (`94ebb3f`)
+- 2026-04-28 02:00 — wave 1 9/10 results in, all 9 mechanical pass
+- 2026-04-28 02:10 — final commit + briefing (`f012fbe`)
+- 2026-04-28 02:15 — FE scaffold agent still running in background (only `types.ts` written so far)
+
+## Final tonight state
+
+- ✅ Phase A (harnesses): both built + smoke-tested
+- ❌ Phase B (smoke + commit): committed but codex rate-limited
+- ❌ Phase C (full 1000 codex): BLOCKED until Apr 29 8:06 PM
+- ❌ Phase D (judge full 1000): blocked behind C
+- ⏳ Phase E (FE scaffold): in progress, partial (types.ts only)
+- ✅ Phase F (briefing): committed at `_MORNING-BRIEFING.md`
+
+**Combined pass rate across both runs (mechanical):** 15/16 = **94%**.
+**Pilot Sonnet judge:** 6/7 = **89% pts**, 5/7 perfect.
+
+**One MCP fix needed before kicking off full 1000:** paragraph_id
+surfacing in `read_chapter` body output. Spec in TODOS.md.
