@@ -92,7 +92,7 @@ const tools = [
   {
     name: "read_chapter",
     description:
-      "Read the full text of a chapter. Returns the markdown body plus frontmatter metadata. For multilingual works, specify variant ('original', 'transliteration', 'translation') or omit for the default variant. Use this when the user wants to actually see the text.",
+      "Read the full text of a chapter. Returns the markdown body plus frontmatter metadata. **For reasoning, always read the English translation** — that's the default and what the corpus is curated for. Only request 'original' or 'transliteration' when the user explicitly asked to see the source-language text, or when you need exact wording for a direct quotation alongside the English. Do not reason over romanized or original-script text; reason over English and quote in the source script only when the user asked for it.",
     inputSchema: {
       type: "object" as const,
       properties: {
@@ -101,7 +101,7 @@ const tools = [
         variant: {
           type: "string",
           enum: ["original", "transliteration", "translation"],
-          description: "Which language variant to read. Omit for default (translation when present, else original).",
+          description: "Which language variant to read. Omit for the default — the curated English (translation when present, else transliteration, else original-script as last resort). Pass 'original' or 'transliteration' ONLY for source-quotation purposes the user explicitly requested.",
         },
       },
       required: ["work_slug", "chapter_number"],
@@ -110,7 +110,7 @@ const tools = [
   {
     name: "get_passage",
     description:
-      "Get specific paragraphs from a chapter for precise citation. Specify paragraph_ids (stable hashes) or paragraph_range (0-indexed). Returns just the requested paragraphs, not the full chapter. Use this when citing or quoting a specific passage.",
+      "Get specific paragraphs from a chapter for precise citation. Specify paragraph_ids (stable hashes) or paragraph_range (0-indexed). Returns just the requested paragraphs, not the full chapter. **Default variant is English** — use that for reasoning. If the user asked you to quote a verse in its source script (e.g. 'show me the Sanskrit' or 'give me the original Urdu'), call this tool a second time with variant='original' or 'transliteration' to get the matching source-language paragraphs alongside the English.",
     inputSchema: {
       type: "object" as const,
       properties: {
@@ -126,7 +126,11 @@ const tools = [
           required: ["start", "end"],
           description: "0-indexed paragraph range, inclusive on both ends",
         },
-        variant: { type: "string", enum: ["original", "transliteration", "translation"] },
+        variant: {
+          type: "string",
+          enum: ["original", "transliteration", "translation"],
+          description: "Defaults to English. Pass 'original' or 'transliteration' only when the user asked for source-script quotation.",
+        },
       },
       required: ["work_slug", "chapter_number"],
     },
@@ -134,12 +138,12 @@ const tools = [
   {
     name: "search_corpus",
     description:
-      "Search across the corpus for a query. Default scope is 'english' (translations + native English). Use scope='all' to include original-language and transliteration variants. Returns snippets with work, chapter, and paragraph_id for citation.",
+      "Search across the corpus for a query. **Default scope is 'english'** — search runs against translations + native-English variants because English is the natural reasoning surface. Use scope='all' only when the user explicitly asked you to search source-language text (Sanskrit/Urdu/Old English etc.). Returns snippets with work, chapter, and paragraph_id for citation.",
     inputSchema: {
       type: "object" as const,
       properties: {
         query: { type: "string", description: "Search term (literal substring or simple regex)" },
-        scope: { type: "string", enum: ["english", "all"], description: "Default 'english' for translation+native-English content" },
+        scope: { type: "string", enum: ["english", "all"], description: "Default 'english'. Use 'all' only when the user asked to search across original-language/transliteration text." },
         case_sensitive: { type: "boolean", description: "Default false" },
         limit: { type: "number", description: "Max results (default 30)" },
         work_slug: { type: "string", description: "Optionally restrict to a single work" },
@@ -150,12 +154,12 @@ const tools = [
   {
     name: "find_related",
     description:
-      "Find works related to a given work via structural signals (same author, same era, same genre). Use this for discovery — 'what else is like this'. Returns up to 5 related work pointers.",
+      "Find works related to a given work. When `chapter_number` is provided AND the build-time cross-link index is present, returns content-similar chapters from other works (TF-IDF cosine over English bodies) merged with structural matches (same author/era/genre). Without `chapter_number`, falls back to structural-only. Use this for discovery — 'what else is like this'. Returns up to 5 related entries.",
     inputSchema: {
       type: "object" as const,
       properties: {
         work_slug: { type: "string" },
-        chapter_number: { type: "number", description: "Optional — for chapter-specific relatedness (currently structural-only)" },
+        chapter_number: { type: "number", description: "Optional — pass to get content-similar matches for that specific chapter (TF-IDF). Without it, results are structural only." },
         limit: { type: "number", description: "Max results (default 5)" },
       },
       required: ["work_slug"],

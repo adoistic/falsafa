@@ -5,7 +5,7 @@
  * The host LLM does the reasoning.
  */
 
-import { readdirSync, readFileSync, statSync } from "node:fs";
+import { readdirSync, readFileSync, statSync, existsSync } from "node:fs";
 import { join } from "node:path";
 import { Corpus, MCPError, type ChapterMeta, type ChapterVariant, type ManifestWork } from "./corpus.ts";
 
@@ -307,28 +307,136 @@ function escapeRegex(s: string): string {
 // Tool 7: find_related
 // ─────────────────────────────────────────────────────────────────────────
 
+interface CrossLinkEntry {
+  work_slug: string;
+  chapter_slug: string;
+  chapter_number: number;
+  score: number;
+}
+
+interface CrossLinkIndexFile {
+  generated_at: string;
+  method: string;
+  corpus_chapter_count: number;
+  skipped_short_chapters: string[];
+  links: Record<string, CrossLinkEntry[]>;
+}
+
+/**
+ * Lazy, memoized loader for `corpus/cross-links.json`. Returns null when the
+ * file is missing (pre-build, or if the user hasn't run `bun run cross-link`
+ * yet) — `find_related` then falls back to the structural ranking.
+ *
+ * We cache against the corpus root path (a process-stable string) so test
+ * suites that instantiate multiple Corpus objects don't fight each other.
+ */
+const crossLinkCache = new Map<string, CrossLinkIndexFile | null>();
+
+function loadCrossLinks(corpusRoot: string): CrossLinkIndexFile | null {
+  if (crossLinkCache.has(corpusRoot)) return crossLinkCache.get(corpusRoot)!;
+  const path = join(corpusRoot, "cross-links.json");
+  if (!existsSync(path)) {
+    crossLinkCache.set(corpusRoot, null);
+    return null;
+  }
+  try {
+    const raw = readFileSync(path, "utf-8");
+    const parsed = JSON.parse(raw) as CrossLinkIndexFile;
+    crossLinkCache.set(corpusRoot, parsed);
+    return parsed;
+  } catch {
+    // Malformed file → fall back as if it weren't there. Don't crash the MCP.
+    crossLinkCache.set(corpusRoot, null);
+    return null;
+  }
+}
+
+/** Test-only: clear the cross-link cache so a test can swap in a fresh fixture. */
+export function _resetCrossLinkCache(): void {
+  crossLinkCache.clear();
+}
+
 export function find_related(corpus: Corpus, work_slug: string, chapter_number?: number, limit = 5) {
   const work = corpus.findWork(work_slug);
   if (!work) throw new MCPError("WORK_NOT_FOUND", `Work not found: ${work_slug}`);
 
-  // Structural relatedness: same author > same era > same genre > same language.
-  // We don't have build-time TF-IDF cross-links yet (those land in cross-link.ts),
-  // so this is the v0 structural fallback. Returns same-author works first,
-  // then same-era works.
+  // Content-similar matches from the build-time TF-IDF index, when:
+  //   - cross-links.json exists,
+  //   - chapter_number is provided (otherwise we have no chapter to key on),
+  //   - the index has an entry for this chapter (skipped if body was too short).
+  // Each TF-IDF hit becomes a `content_similar` related entry. We dedupe on
+  // work_slug — if the index returns 3 chapters from the same other work,
+  // we surface that work once with its best-scoring chapter pointer.
+  const contentRelated: Array<{
+    work_slug: string;
+    title: string;
+    author: string;
+    era: string;
+    genre: string;
+    relation: "content_similar";
+    chapter_number: number;
+    chapter_slug: string;
+    score: number;
+  }> = [];
+  const contentWorkSlugs = new Set<string>();
+
+  const xlinks = loadCrossLinks(corpus.rootPath);
+  if (xlinks && chapter_number !== undefined) {
+    // Resolve chapter_slug from chapter_number.
+    const chapters = corpus.listChapters(work_slug);
+    const meta = chapters.find((c) => c.chapter_number === chapter_number);
+    if (meta) {
+      const key = `${work_slug}/${meta.chapter_slug}`;
+      const links = xlinks.links[key] ?? [];
+      for (const l of links) {
+        if (contentWorkSlugs.has(l.work_slug)) continue; // dedupe by work
+        const otherWork = corpus.findWork(l.work_slug);
+        if (!otherWork) continue;
+        contentWorkSlugs.add(l.work_slug);
+        contentRelated.push({
+          work_slug: otherWork.slug,
+          title: otherWork.title,
+          author: otherWork.author,
+          era: otherWork.era,
+          genre: otherWork.genre,
+          relation: "content_similar",
+          chapter_number: l.chapter_number,
+          chapter_slug: l.chapter_slug,
+          score: l.score,
+        });
+      }
+    }
+  }
+
+  // Structural relatedness: same author > same era > same genre. Used to fill
+  // out the response up to `limit` when content matches don't fully cover, and
+  // as the sole signal when chapter_number is missing or the chapter wasn't
+  // indexed (empty body, or pre-cross-link build).
   const all = corpus.works().filter((w) => w.slug !== work_slug);
   const sameAuthor = all.filter((w) => w.author === work.author);
   const sameEra = all.filter((w) => w.era === work.era && w.author !== work.author);
   const sameGenre = all.filter(
     (w) => w.genre === work.genre && w.author !== work.author && w.era !== work.era,
   );
-  const ranked = [...sameAuthor, ...sameEra, ...sameGenre].slice(0, limit);
+  const structuralRanked = [...sameAuthor, ...sameEra, ...sameGenre];
 
-  return {
-    work_slug,
-    chapter_number: chapter_number ?? null,
-    method: "structural_v0",
-    note: "Structural fallback (same-author, same-era, same-genre). Build-time TF-IDF cross-links land in scripts/cross-link.ts.",
-    related: ranked.map((w) => ({
+  // Merge: content-similar first (highest signal — actual word overlap), then
+  // structural fillers, skipping any work already represented in content_related.
+  const merged: Array<{
+    work_slug: string;
+    title: string;
+    author: string;
+    era: string;
+    genre: string;
+    relation: "content_similar" | "same_author" | "same_era" | "same_genre";
+    chapter_number?: number;
+    chapter_slug?: string;
+    score?: number;
+  }> = [...contentRelated];
+  for (const w of structuralRanked) {
+    if (merged.length >= limit) break;
+    if (contentWorkSlugs.has(w.slug)) continue;
+    merged.push({
       work_slug: w.slug,
       title: w.title,
       author: w.author,
@@ -336,7 +444,22 @@ export function find_related(corpus: Corpus, work_slug: string, chapter_number?:
       genre: w.genre,
       relation:
         w.author === work.author ? "same_author" : w.era === work.era ? "same_era" : "same_genre",
-    })),
+    });
+  }
+
+  const final = merged.slice(0, limit);
+  const usedContent = contentRelated.length > 0;
+
+  return {
+    work_slug,
+    chapter_number: chapter_number ?? null,
+    method: usedContent ? "tfidf_v1+structural" : "structural_v0",
+    note: usedContent
+      ? "Mix of content-based (TF-IDF cosine over English chapter bodies) and structural fallback."
+      : xlinks
+        ? "Structural fallback (chapter not indexed or chapter_number missing)."
+        : "Structural fallback (cross-links index not built — run `bun run cross-link`).",
+    related: final,
   };
 }
 
