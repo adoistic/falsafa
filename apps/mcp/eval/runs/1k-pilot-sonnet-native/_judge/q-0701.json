@@ -1,0 +1,7 @@
+{
+  "factual_correct": true,
+  "citation_backed": true,
+  "hallucinated": false,
+  "naturalness_1to5": 5,
+  "reasoning": "Both cited paragraph IDs resolve correctly: p-526528 contains Mn_8.279 ('With whatever limb a low-born man should injure a superior, that very limb of his shall be cut off; this is the ordinance of Manu.') and p-c0dabc contains Mn_8.280 ('He who raises his hand or a stick deserves to have his hand cut off; he who strikes in anger with his foot deserves to have his foot cut off.') — both quotes in the agent's answer are verbatim. The answer correctly identifies the precise penalty as limb-amputation (hand for hand/stick, foot for foot), accurately targets the expected work unknown-manusmrti-347b76, and presents the ruling clearly with proper verse attribution."
+}

@@ -1,0 +1,7 @@
+{
+  "factual_correct": true,
+  "citation_backed": false,
+  "hallucinated": true,
+  "naturalness_1to5": 5,
+  "reasoning": "All 8 Angirasa Smriti citations and all 4 Kunjarakarna Dharmakathana citations resolve correctly with near-verbatim or verbatim quotes confirmed. However, two citation failures undermine full backing: (1) p-ff7b52 (Vrhaspatitattva ch.1) resolves but contains Vṛhaspati's opening question about tattvajñāna — it does NOT contain the karma-vāsanā / asafoetida-in-a-pot content the agent attributes to it, meaning the claim is either fabricated or sourced from an uncited paragraph; (2) p-1684bd (Ganapatitattva ch.1) returns an empty passages array and does not resolve at all — it is a hallucinated paragraph_id. The agent also entirely missed the three ground-truth expected works (Manusmrti, Yājñavalkya Smṛti, Ślokāntara), substituting Angirasa Smṛti and Kawi philosophical texts; the substantive content it provides is accurate where citations check out, but the two citation failures (one wrong paragraph, one non-existent id) and one fabricated id constitute hallucination."
+}

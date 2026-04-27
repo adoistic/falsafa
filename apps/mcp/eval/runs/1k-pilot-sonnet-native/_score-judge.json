@@ -1,0 +1,112 @@
+{
+  "run_dir": "apps/mcp/eval/runs/1k-pilot-sonnet-native/sonnet",
+  "judge_dir": "apps/mcp/eval/runs/1k-pilot-sonnet-native/_judge",
+  "judge_model": "claude-sonnet-4.6",
+  "driver": "claude-code-subagent-native-mcp",
+  "total_cases": 7,
+  "total_pass": 6,
+  "total_points": 75,
+  "total_max": 84,
+  "perfect_score": 5,
+  "hallucination_count": 1,
+  "by_axis": {
+    "factual_correct": {
+      "yes": 7,
+      "total": 7
+    },
+    "citation_backed": {
+      "yes": 5,
+      "total": 7
+    },
+    "no_hallucination": {
+      "yes": 6,
+      "total": 7
+    }
+  },
+  "per_question": [
+    {
+      "id": "q-0109",
+      "category": "citation",
+      "total": 12,
+      "max": 12,
+      "pass": true,
+      "factual_correct": true,
+      "citation_backed": true,
+      "hallucinated": false,
+      "naturalness": 5,
+      "reasoning": "Both cited paragraph IDs resolve correctly in the corpus. p-dbd716 (Yj_2.81) contains the exact text 'False witnesses should be punished separately with a fine double the amount in dispute; a Brāhmaṇa, however, is to be banished.' and p-71cfc7 (Yj_2.82) contains the exact text 'He who, having given testimony, later denies it to others, being overcome by darkness, shall be made to pay a fine eight times the amount; a Brāhmaṇa, however, should be banished.' — both quoted verbatim by the agent. The answer correctly identifies the perjury rule section of Yājñavalkya Smṛti chapter 2 and cites the precise relevant verses."
+    },
+    {
+      "id": "q-0313",
+      "category": "comparative",
+      "total": 12,
+      "max": 12,
+      "pass": true,
+      "factual_correct": true,
+      "citation_backed": true,
+      "hallucinated": false,
+      "naturalness": 5,
+      "reasoning": "All 8 cited paragraph IDs resolve correctly against the MCP. Iqbal quotes are verbatim: 'Have you ever, / O Muslim youth, paused for solemn reflection?' and 'you are all talk, they were all action; you are static, they were ever-moving' and 'my heart shatters into fragments' all confirmed in p-365462. Elene epilogue paragraphs (p-d2e607, p-8f8a1b, p-dcbbfe) confirm 'Thus I, old and ready for my journey… I was stained by my deeds, shackled by sins' and the three-part eschatological division verbatim. Juliana paragraphs (p-5df281, p-e769dc, p-1f8ce8) confirm 'I ask every person of humankind… earnestly remember me by my name, / and pray to the Molder' and 'Therefore, dear people, / I wish to teach you… you must fix your foundation' all verbatim. The comparative analysis — that neither author trusts the second person alone, Iqbal hedging with historical lecture and Cynewulf hedging with first-person confessional — is well-supported and accurate. Prose is scholarly, well-organised, and specific throughout."
+    },
+    {
+      "id": "q-0476",
+      "category": "discovery",
+      "total": 12,
+      "max": 12,
+      "pass": true,
+      "factual_correct": true,
+      "citation_backed": true,
+      "hallucinated": false,
+      "naturalness": 5,
+      "reasoning": "All 8 cited paragraph_ids resolve correctly via get_passage. Quotes are verbatim or near-verbatim: p-52b34d has 'His Sufi air was known to all' (agent: 'Sufi air' — exact); p-e4b1ba has 'Whom the Sufi found in the heart's chamber of darkness' (near-verbatim); p-56cae2 has 'My dervish-cloak and prayer-mat are pawned for wine' (verbatim); p-655b56 has 'The lore of Sufi texts' (verbatim). The agent correctly identified all 4 ground-truth works (Bang-e-Dara Part 1, Part 2, Ghalib, Zauq) and added Bang-e-Dara Part 3 as a legitimate fifth with a defensible 'humble dervish' citation — this is a valid discovery, not a hallucination. The negative claim (no Sufi content in Old English, Sanskrit, Kawi, or French/German works) is plausible and consistent with the corpus composition."
+    },
+    {
+      "id": "q-0626",
+      "category": "conceptual",
+      "total": 6,
+      "max": 12,
+      "pass": false,
+      "factual_correct": true,
+      "citation_backed": false,
+      "hallucinated": true,
+      "naturalness": 5,
+      "reasoning": "All 8 Angirasa Smriti citations and all 4 Kunjarakarna Dharmakathana citations resolve correctly with near-verbatim or verbatim quotes confirmed. However, two citation failures undermine full backing: (1) p-ff7b52 (Vrhaspatitattva ch.1) resolves but contains Vṛhaspati's opening question about tattvajñāna — it does NOT contain the karma-vāsanā / asafoetida-in-a-pot content the agent attributes to it, meaning the claim is either fabricated or sourced from an uncited paragraph; (2) p-1684bd (Ganapatitattva ch.1) returns an empty passages array and does not resolve at all — it is a hallucinated paragraph_id. The agent also entirely missed the three ground-truth expected works (Manusmrti, Yājñavalkya Smṛti, Ślokāntara), substituting Angirasa Smṛti and Kawi philosophical texts; the substantive content it provides is accurate where citations check out, but the two citation failures (one wrong paragraph, one non-existent id) and one fabricated id constitute hallucination."
+    },
+    {
+      "id": "q-0701",
+      "category": "specific-obscure",
+      "total": 12,
+      "max": 12,
+      "pass": true,
+      "factual_correct": true,
+      "citation_backed": true,
+      "hallucinated": false,
+      "naturalness": 5,
+      "reasoning": "Both cited paragraph IDs resolve correctly: p-526528 contains Mn_8.279 ('With whatever limb a low-born man should injure a superior, that very limb of his shall be cut off; this is the ordinance of Manu.') and p-c0dabc contains Mn_8.280 ('He who raises his hand or a stick deserves to have his hand cut off; he who strikes in anger with his foot deserves to have his foot cut off.') — both quotes in the agent's answer are verbatim. The answer correctly identifies the precise penalty as limb-amputation (hand for hand/stick, foot for foot), accurately targets the expected work unknown-manusmrti-347b76, and presents the ruling clearly with proper verse attribution."
+    },
+    {
+      "id": "q-0901",
+      "category": "multilingual",
+      "total": 12,
+      "max": 12,
+      "pass": true,
+      "factual_correct": true,
+      "citation_backed": true,
+      "hallucinated": false,
+      "naturalness": 5,
+      "reasoning": "All four paragraph IDs resolve and contain the claimed quotes verbatim: p-47b537 confirms Mn_1.108 ('The rule of conduct is the highest Dharma, declared in both Sruti and Smarta'); p-644d2a confirms the Bang-e-Dara 'A Voice replied...' stanza exactly as quoted; p-acdc07 confirms the Elene passage ('a heavenly herald...who called out his name through the closing darkness'); p-306e06 confirms 'his voice a balm for the leader's bale-sorrows' and 'By this sign, conquer.' The one honest concession — that wahy does not appear verbatim in the corpus and the agent used aawaaz/divine Voice as a functional equivalent — is methodologically sound and explicitly flagged. The audibility verdict (Cynewulf's Elene) is well-argued: the Elene passages make acoustic quality itself operative (herald calls the name in darkness, voice described as a balm), whereas the Manusmrti sruti functions as a textual-juridical category and the Iqbal poem foregrounds dialogue content over sonic texture. Note: the agent used cynewulf-elene-d2d132 rather than the ground-truth cynewulf-andreas-07b573, but Elene is a defensible and arguably superior choice for the revelatio tradition, and the citations fully support the answer."
+    },
+    {
+      "id": "q-0951",
+      "category": "cross-cultural",
+      "total": 9,
+      "max": 12,
+      "pass": true,
+      "factual_correct": true,
+      "citation_backed": false,
+      "hallucinated": false,
+      "naturalness": 5,
+      "reasoning": "The agent's substantive answer is correct and well-argued: it correctly identifies p-be1571 ('One is the eternal God of all creation... He is the noble King') and Mn_1.52 ('When that divine one is awake, then this world is active...') as the strongest cross-translatable cosmic-frame verses, and the analysis of why Mn_1.80's cyclical dissolution frame resists translation into Andreas's once-running linear eschatology is textually accurate. All four Andreas paragraph IDs (p-be1571, p-6384bb, p-60c0a6, p-f3580c) resolve cleanly via get_passage and their quoted text is verbatim. However, all three Manusmrti citations use verse-number labels (Mn_1.52, Mn_1.80, Mn_1.5) as paragraph IDs — these do not resolve via get_passage; the actual IDs are p-946051, p-74d247, and p-61df11 respectively. The quoted text from those verses is present in the corpus and verbatim, but the cited identifiers are non-resolving, so citation_backed is false."
+    }
+  ]
+}

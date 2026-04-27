@@ -1,0 +1,7 @@
+{
+  "factual_correct": true,
+  "citation_backed": true,
+  "hallucinated": false,
+  "naturalness_1to5": 5,
+  "reasoning": "Both cited paragraph IDs resolve correctly in the corpus. p-dbd716 (Yj_2.81) contains the exact text 'False witnesses should be punished separately with a fine double the amount in dispute; a Brāhmaṇa, however, is to be banished.' and p-71cfc7 (Yj_2.82) contains the exact text 'He who, having given testimony, later denies it to others, being overcome by darkness, shall be made to pay a fine eight times the amount; a Brāhmaṇa, however, should be banished.' — both quoted verbatim by the agent. The answer correctly identifies the perjury rule section of Yājñavalkya Smṛti chapter 2 and cites the precise relevant verses."
+}

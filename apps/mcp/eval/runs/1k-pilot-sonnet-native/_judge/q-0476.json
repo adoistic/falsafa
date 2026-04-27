@@ -1,0 +1,7 @@
+{
+  "factual_correct": true,
+  "citation_backed": true,
+  "hallucinated": false,
+  "naturalness_1to5": 5,
+  "reasoning": "All 8 cited paragraph_ids resolve correctly via get_passage. Quotes are verbatim or near-verbatim: p-52b34d has 'His Sufi air was known to all' (agent: 'Sufi air' — exact); p-e4b1ba has 'Whom the Sufi found in the heart's chamber of darkness' (near-verbatim); p-56cae2 has 'My dervish-cloak and prayer-mat are pawned for wine' (verbatim); p-655b56 has 'The lore of Sufi texts' (verbatim). The agent correctly identified all 4 ground-truth works (Bang-e-Dara Part 1, Part 2, Ghalib, Zauq) and added Bang-e-Dara Part 3 as a legitimate fifth with a defensible 'humble dervish' citation — this is a valid discovery, not a hallucination. The negative claim (no Sufi content in Old English, Sanskrit, Kawi, or French/German works) is plausible and consistent with the corpus composition."
+}

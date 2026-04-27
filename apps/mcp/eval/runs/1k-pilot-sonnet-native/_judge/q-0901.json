@@ -1,0 +1,7 @@
+{
+  "factual_correct": true,
+  "citation_backed": true,
+  "hallucinated": false,
+  "naturalness_1to5": 5,
+  "reasoning": "All four paragraph IDs resolve and contain the claimed quotes verbatim: p-47b537 confirms Mn_1.108 ('The rule of conduct is the highest Dharma, declared in both Sruti and Smarta'); p-644d2a confirms the Bang-e-Dara 'A Voice replied...' stanza exactly as quoted; p-acdc07 confirms the Elene passage ('a heavenly herald...who called out his name through the closing darkness'); p-306e06 confirms 'his voice a balm for the leader's bale-sorrows' and 'By this sign, conquer.' The one honest concession — that wahy does not appear verbatim in the corpus and the agent used aawaaz/divine Voice as a functional equivalent — is methodologically sound and explicitly flagged. The audibility verdict (Cynewulf's Elene) is well-argued: the Elene passages make acoustic quality itself operative (herald calls the name in darkness, voice described as a balm), whereas the Manusmrti sruti functions as a textual-juridical category and the Iqbal poem foregrounds dialogue content over sonic texture. Note: the agent used cynewulf-elene-d2d132 rather than the ground-truth cynewulf-andreas-07b573, but Elene is a defensible and arguably superior choice for the revelatio tradition, and the citations fully support the answer."
+}

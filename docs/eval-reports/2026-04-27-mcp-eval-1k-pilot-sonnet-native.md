@@ -14,18 +14,25 @@ the full 1000. The protocol comes from `docs/eng-review-test-plan.md`
 
 ## Headline numbers
 
-| Metric | Value |
-|--------|-------|
-| Sample | 7 stratified (one per category) |
-| Driver | Claude Code sub-agent, native MCP via `~/.claude.json` |
-| Model | Claude Sonnet 4.6 |
-| Mechanical pass (≥50% expected_works overlap) | **6 / 7 (86%)** |
-| Hallucination | 0 / 7 |
-| Average tool calls per question | ~32 |
-| Run id | `1k-pilot-sonnet-native` |
+| Metric | Mechanical scorer | **Sonnet judge (substantive)** |
+|--------|--------|---|
+| Sample | 7 stratified (one per category) | (same) |
+| Driver | Claude Code sub-agent, native MCP via `~/.claude.json` | (same) |
+| Eval model | Claude Sonnet 4.6 | (same) |
+| Judge | regex / token match on `expected_works` | Claude Sonnet 4.6 sub-agent reading + verifying every cited paragraph_id via `mcp__falsafa__get_passage` |
+| Pass | 6 / 7 (86%) | **6 / 7 (86%)** |
+| Total points | – | **75 / 84 (89%)** |
+| Perfect score | – | **5 / 7 (71%)** |
+| Factually correct | – | 7 / 7 (100%) |
+| Citation-backed (every paragraph_id resolves + content matches) | – | 5 / 7 (71%) |
+| Hallucination-free | – | 6 / 7 (86%) |
+| Avg tool calls per question | ~32 | – |
+| Run id | `1k-pilot-sonnet-native` | `1k-pilot-sonnet-native/_judge` |
 
-The one mechanical fail is a **scorer artifact**, not a real fail —
-explained below.
+**The substantive headline is `6/7 PASS, 5/7 perfect, 89% pts on the Sonnet judge`** —
+mechanical and judge agree on pass-rate but the judge surfaced two distinct
+failure modes invisible to substring matching. Both are real product
+findings worth fixing in the MCP / prompt before the full 1000 run.
 
 ## Per-question (mechanical scorer)
 
@@ -39,31 +46,67 @@ explained below.
 | q-0901 | multilingual | medium | ✓ | 2/3 | Manusmrti + Iqbal cited; missed expected Yajnavalkya |
 | q-0951 | cross-cultural | hard | ✓ | 2/2 | Andreas + Manu cosmic-frame verses, with cross-translation analysis |
 
-## The one "fail" — q-0626
+## Per-question (Sonnet judge — substantive)
+
+| Q | Category | Score | factual | citation | hallucination | reason |
+|---|---|---|---|---|---|---|
+| q-0109 | citation | **12/12 🟢** | ✓ | ✓ | ✗ | Yj_2.81 + 2.82 quotes verbatim against `p-dbd716` and `p-71cfc7` |
+| q-0313 | comparative | **12/12 🟢** | ✓ | ✓ | ✗ | All 8 Iqbal/Cynewulf cited paragraphs verified verbatim |
+| q-0476 | discovery | **12/12 🟢** | ✓ | ✓ | ✗ | All 4 expected Sufi-bearing works surfaced; one extra (Bang-e-Dara Part 3) is a defensible discovery |
+| q-0626 | conceptual | **6/12** ✗ | ✓ | ✗ | ✓ | **Real fail.** See below |
+| q-0701 | specific-obscure | **12/12 🟢** | ✓ | ✓ | ✗ | Mn_8.279–280 verbatim against `p-526528` + `p-c0dabc` |
+| q-0901 | multilingual | **12/12 🟢** | ✓ | ✓ | ✗ | All 4 cited paragraphs verbatim; agent used Elene instead of expected Andreas — judge flagged as defensible (Elene fits the audibility question better) |
+| q-0951 | cross-cultural | **9/12** | ✓ | ✗ | ✗ | **Citation-format issue.** See below |
+
+## The two real findings — q-0626 and q-0951
+
+These are the cases the judge surfaced that mechanical scoring missed.
+Both are worth fixing before the full 1000 run.
+
+### q-0626 — fabricated paragraph_id + wrong-paragraph attribution
 
 Question: *"What is 'paap' (sin, demerit) across Sanskrit smritis and
 Old Javanese ethical texts in the corpus?"*
 
-- **Expected:** Manusmrti, Yajnavalkya Smrti, Slokantara.
-- **Cited:** Angirasa Smrti, Kunjarakarna Dharmakathana, Vrhaspatitattva, Ganapatitattva.
+The agent wrote a 1,500-word scholarly comparison anchored on Angirasa
+Smṛti (a real Sanskrit smṛti, valid choice) plus three Kawi (Old
+Javanese) texts. The 8 Angirasa citations and 4 Kunjarakarna citations
+all resolved verbatim. But:
 
-The agent's answer is excellent — a 1,500-word scholarly comparison
-across Sanskrit smriti tradition (Angirasa Smrti's expiation framework
-with the *pariṣad* assembly, the five great sins, Yama's punishment of
-hidden sinners) and Old Javanese ethical literature (Kunjarakarna's
-tripartite anatomy of body/speech/mind sin, Vrhaspatitattva's *vāsanā*
-metaphysics, Ganapatitattva's tantric absolution).
+- `p-1684bd` (Ganapatitattva ch.1) — **does not exist**. Hallucinated id.
+- `p-ff7b52` (Vrhaspatitattva ch.1) — resolves, but contains
+  Vṛhaspati's opening question, **not** the karma-vāsanā / asafoetida
+  doctrine the agent attributed to it.
 
-Every cited work is a Sanskrit smriti or a Kawi (Old Javanese) ethical
-text. The agent picked the works that have the most *substantive* pāpa
-content; the question's `expected_works` picked different but equally
-valid anchors. A Sonnet judge would mark this **factually correct, no
-hallucination, citations valid** — same pattern the Haiku run hit in
-several places.
+This is a real product finding. The model invented one paragraph_id
+and attached substantive content to a paragraph that doesn't contain
+it. The MCP's `read_chapter` may surface paragraph_ids in a way that
+makes them easy to mis-cite — worth checking if the body markdown shows
+ids inline, or if the model is reconstructing them from context.
 
-**Implication for full 1000:** mechanical scoring will under-count
-correctness on roughly 5–15% of cases. The Sonnet judge is required
-for the headline number that goes into the paper.
+### q-0951 — citation-format bug
+
+Question: *"Three traditions, three words for revealed truth: 'sruti'
+in the smritis, 'wahy'..."*
+
+Agent's substantive answer is correct and well-argued. All 4 Cynewulf
+Elene paragraphs (`p-acdc07`, `p-306e06`) verified verbatim. But the
+agent used **verse-number labels** (`Mn_1.52`, `Mn_1.80`, `Mn_1.5`) as
+paragraph_ids instead of the actual hash-style IDs (`p-946051`,
+`p-74d247`, `p-61df11`).
+
+The quotes are real and verbatim in the corpus. The format is wrong.
+This is likely an MCP-side issue: when the model reads a verse-style
+chapter and sees text like "Mn_1.52" inline, it grabs that as the
+"id" instead of the surrounding `p-` hash. Fix candidate: have
+`read_chapter` / `get_passage` more aggressively surface the paragraph
+hash next to the verse number, or strip the verse markers before they
+confuse the model.
+
+**Implication for full 1000:** the judge will catch ~10-15% more
+real product issues than mechanical scoring. Both findings here
+are worth feeding back into MCP improvements before committing
+to a 1,000-question run.
 
 ## Protocol shift — what changed since the 44-case suite
 

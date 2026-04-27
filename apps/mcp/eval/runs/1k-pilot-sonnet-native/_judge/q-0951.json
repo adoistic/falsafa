@@ -1,0 +1,7 @@
+{
+  "factual_correct": true,
+  "citation_backed": false,
+  "hallucinated": false,
+  "naturalness_1to5": 5,
+  "reasoning": "The agent's substantive answer is correct and well-argued: it correctly identifies p-be1571 ('One is the eternal God of all creation... He is the noble King') and Mn_1.52 ('When that divine one is awake, then this world is active...') as the strongest cross-translatable cosmic-frame verses, and the analysis of why Mn_1.80's cyclical dissolution frame resists translation into Andreas's once-running linear eschatology is textually accurate. All four Andreas paragraph IDs (p-be1571, p-6384bb, p-60c0a6, p-f3580c) resolve cleanly via get_passage and their quoted text is verbatim. However, all three Manusmrti citations use verse-number labels (Mn_1.52, Mn_1.80, Mn_1.5) as paragraph IDs — these do not resolve via get_passage; the actual IDs are p-946051, p-74d247, and p-61df11 respectively. The quoted text from those verses is present in the corpus and verbatim, but the cited identifiers are non-resolving, so citation_backed is false."
+}
