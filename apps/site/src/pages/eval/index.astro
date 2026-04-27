@@ -1,0 +1,50 @@
+---
+import Base from "../../layouts/Base.astro";
+import EvalExplorer from "../../islands/eval-explorer/EvalExplorer";
+import "../../styles/eval.css";
+
+// /eval — the Falsafa adversarial eval browser.
+//
+// Loads /eval.json (built by `bun run eval/build-eval-json.ts`) and lets a
+// reader filter, search, and audit any case. Each result deep-links to
+// the cited paragraph in /works/.../#p-x. If eval.json hasn't been built
+// yet the island shows a helpful empty state with the build command.
+//
+// The AUDIT route in the launch top-nav (Base.astro) maps to /audit/.
+// /eval is the deep-link target the explorer lives under per the launch
+// plan deliverable list ("Eval explorer at falsafa.ai/eval"); /audit/
+// remains the editorial landing page that links here. Two URLs, one
+// experience.
+---
+
+<Base
+  title="Eval"
+  description="Browse the Falsafa adversarial eval suite. 1,500+ cases, per-model verdicts, citations that resolve to the paragraph. The audit trail behind the headline numbers."
+  ogImage="/og/eval.png"
+>
+  <article class="eval-page">
+    <header class="eval-page-header">
+      <p class="eval-kicker">Eval</p>
+      <h1>Every claim, browseable.</h1>
+      <p class="eval-lede">
+        The 1,500-case adversarial eval suite, side by side with the Sonnet
+        judge's verdict on each case. Filter by category, difficulty, or
+        model. Click a row to see the answer, the tool-call trace, and the
+        cited paragraphs — every paragraph_id deep-links to the source in
+        the reading site. If a model hallucinated, the judge says so and
+        you can verify by following the citation.
+      </p>
+      <p class="eval-lede-meta">
+        For the methodology, see <a href="/thesis/">/thesis</a>. For a live
+        run with your own key, <a href="/try/">/try</a>. Source for the
+        eval pipeline lives at <code>apps/mcp/eval/</code>.
+      </p>
+    </header>
+
+    {/* client:only — the explorer reads window.location.hash on mount to
+        seed filter state. SSR would diverge from client and break
+        hydration. The cost is a brief skeleton-free flash before the
+        bundle loads (~150ms). Same tradeoff as /try. */}
+    <EvalExplorer client:only="preact" />
+  </article>
+</Base>

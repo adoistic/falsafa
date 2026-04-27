@@ -24,6 +24,7 @@
     "@fontsource/crimson-pro": "^5.0.0",
     "@fontsource/inter": "^5.0.0",
     "@fontsource/source-serif-4": "^5.0.0",
+    "@tanstack/react-virtual": "^3.13.24",
     "ai": "^6.0.168",
     "astro": "^5.0.0",
     "marked": "^18.0.2",

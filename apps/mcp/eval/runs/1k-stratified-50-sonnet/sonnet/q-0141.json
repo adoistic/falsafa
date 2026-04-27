@@ -1,0 +1,12 @@
+{
+  "answer": "Found. 'Parinde Ki Faryad' (A Bird's Lament) is chapter 34 of Bang-E-Dara Part 1 (work slug: allama-iqbal-bang-e-dara-part-1-55b25c). The poem is a caged bird's complaint about lost freedom — longing for the garden, friends in its homeland, and the arrival of spring while it languishes in a dark cage. It ends with a plea to the captor: 'O Captor, I beg you, now make me unbound / I'm voiceless; release me, a blessing you've found.'",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 Iqbal works: Bang-E-Dara Parts 1, 2, 3"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "Found chapter 34 titled 'Parinde Ki Faryad' in Bang-E-Dara Part 1"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 34}, "result_summary": "Full text of the bird's lament confirmed — 10 stanzas of the caged bird's complaint for lost freedom, homeland, and plea for release"},
+    {"name": "get_passage", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 34, "paragraph_range": {"start": 0, "end": 0}}, "result_summary": "Retrieved paragraph ID p-f1e47c for citation"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 34, "paragraph_id": "p-f1e47c"}
+  ]
+}

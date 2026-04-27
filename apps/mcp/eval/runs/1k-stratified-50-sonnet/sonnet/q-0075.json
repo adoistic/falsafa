@@ -1,0 +1,11 @@
+{
+  "answer": "In Traité de la propriété Vol I, chapter 2 ('On liberty considered as a condition of the exercise of all rights, and of the accomplishment of all duties'), Comte writes: 'Civil liberty and political liberty are therefore essential conditions of the exercise of all duties, and consequently of all rights; domestic servitude and political servitude are, on the contrary, their negation and their ruin.' He argues throughout the chapter that liberty is inseparable from the concept of rights and duties: since a slave is treated as a thing rather than a person, slavery destroys the very foundation on which rights — including property rights — depend. He states: 'his liberty can be restricted only insofar as is indispensable to ensure the liberty of others,' and that 'the idea of duty is, in effect, inseparable from the idea of liberty.' The chapter's concluding thesis is that without civil and political liberty, neither duties nor rights (which presuppose property) can be exercised at all. Work slug: charles-comte-traite-de-la-propriete-vol-i-2c7a99, chapter 2.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Comte"}, "result_summary": "Found 6 works by Charles Comte, including charles-comte-traite-de-la-propriete-vol-i-2c7a99"},
+    {"name": "read_chapter", "args": {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99", "chapter_number": 2}, "result_summary": "Full text of chapter 2 retrieved; chapter title is exactly 'On liberty considered as a condition of the exercise of all rights, and of the accomplishment of all duties'"},
+    {"name": "get_passage", "args": {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99", "chapter_number": 2, "paragraph_range": {"start": 22, "end": 25}}, "result_summary": "Retrieved paragraph p-2efb96 with the key sentence: 'Civil liberty and political liberty are therefore essential conditions of the exercise of all duties, and consequently of all rights'"}
+  ],
+  "citations": [
+    {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99", "chapter_number": 2, "paragraph_id": "p-2efb96"}
+  ]
+}
