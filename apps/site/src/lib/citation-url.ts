@@ -19,12 +19,20 @@
  *
  * URL grammar (locked by /plan-eng-review run 2):
  *
- *   • Bare chapter:        /works/{work}/{chapter}/{variant}
- *   • Single paragraph:    /works/{work}/{chapter}/{variant}#p-x
- *   • Multiple paragraphs: /works/{work}/{chapter}/{variant}?paragraphs=p-1,p-2,p-3#p-1
+ *   • Bare chapter:        /works/{work}/{chapter}/{variant}/
+ *   • Single paragraph:    /works/{work}/{chapter}/{variant}/#p-x
+ *   • Multiple paragraphs: /works/{work}/{chapter}/{variant}/?paragraphs=p-1,p-2,p-3#p-1
  *
  *   Multi-paragraph: the query string lists ALL paragraphs to highlight;
  *   the hash names the FIRST one (which is what the browser scrolls to).
+ *
+ *   The trailing slash on the variant segment is required: Astro is
+ *   configured with `trailingSlash: "always"` (apps/site/astro.config.mjs),
+ *   so chapter pages physically live at /works/.../translation/ — fetches
+ *   without the slash 404. The slash MUST come before the `#` or `?`,
+ *   otherwise the browser sends e.g. `/works/.../translation#p-x` which
+ *   strips the hash on the server side and looks up `/works/.../translation`,
+ *   which doesn't exist on disk.
  *
  * Why query string + hash for multi-paragraph:
  *   The browser scrolls to whatever's in the hash for free. We need
@@ -58,7 +66,9 @@ export interface CitationTarget {
  * site is served from a custom domain, a Vercel preview, or localhost.
  */
 export function urlForCitation(target: CitationTarget): string {
-  const base = `/works/${encodeURIComponent(target.workSlug)}/${encodeURIComponent(target.chapterSlug)}/${encodeURIComponent(target.variant)}`;
+  // Trailing slash is required — Astro's `trailingSlash: "always"` config
+  // means /works/.../translation 404s, /works/.../translation/ 200s.
+  const base = `/works/${encodeURIComponent(target.workSlug)}/${encodeURIComponent(target.chapterSlug)}/${encodeURIComponent(target.variant)}/`;
   const ids = (target.paragraphIds ?? []).filter((id) => id && id.startsWith("p-"));
 
   if (ids.length === 0) return base;
