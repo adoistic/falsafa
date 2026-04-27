@@ -1,0 +1,15 @@
+{
+  "answer": "The smṛtis converge on dharma as 'eternal sacred law' but disagree on its texture.\n\n1. Manu (Manusmṛti ch.2) treats dharma as a function of the heart's assent guided by Veda. 'That which is practiced by the learned and the good, who are ever free from hatred and passion, and which is assented to by the heart—know that to be Dharma.' (Mn_2.1, p-c52281). The roots are five: the entire Veda, the Smṛti, the conduct of those who know, the practices of the virtuous, and self-satisfaction (Mn_2.6, p-d70b97). Dharma here is internal coherence between revelation, custom, and conscience.\n\n2. Yājñavalkya (Yj_1.7, p-7d795b) gives a near-parallel five-source list — 'Revelation (the Vedas), tradition (the Smṛtis), the conduct of the virtuous, what is pleasing to one's own self, and desire born of right resolve—this is declared to be the root of dharma' — but adds 'desire born of right resolve' (samyak-saṃkalpa-jaḥ kāmaḥ) as the fifth source. That is, Yājñavalkya makes calibrated intentional desire constitutive of dharma in a way Manu does not. Dharma here is procedural-normative.\n\n3. Viṣṇu Smṛti (ch.2) defines dharma operationally by varṇa-duty: 'And their duties (dharma) are as follows: The duty of a Brāhmaṇa is teaching. The duty of a Kṣatriya is constant practice with arms. The duty of a Vaiśya is the tending of cattle.' (Vi_2.4–2.7, p-b44991 → p-6910e1). Dharma is a per-varṇa role-prescription. Where Manu reasons about dharma's metaphysics and Yājñavalkya about its sources, Viṣṇu just lists the duties.\n\nSynthesis: across the three, dharma names (a) the inner-outer fit between Veda, custom, and conscience (Manu); (b) the five-source authority structure including calibrated desire (Yājñavalkya); (c) the concrete varṇa-duty (Viṣṇu). The same word does very different work — closer to 'sacred order' in Manu, 'normative reasoning' in Yājñavalkya, and 'occupational duty' in Viṣṇu.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "root of dharma"}, "result_summary": "Manu ch.4, ch.12 mentions"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 2, "paragraph_range": {"start": 0, "end": 12}}, "result_summary": "Mn_2.1 + Mn_2.6 = the dharma definition + five-fold root"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 15}}, "result_summary": "Yj_1.7 = five-source root including 'right-resolve desire'"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 2, "paragraph_range": {"start": 0, "end": 10}}, "result_summary": "Vi_2.4-2.7 = varna-duty list as dharma"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 2, "paragraph_id": "p-c52281"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 2, "paragraph_id": "p-d70b97"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-7d795b"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 2, "paragraph_id": "p-b44991"}
+  ]
+}

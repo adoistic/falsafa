@@ -1,8 +1,21 @@
 {
-  "answer": "The list spans two verses, Yj_1.4 and Yj_1.5: 'Manu, Atri, Viṣṇu, Hārīta, Yājñavalkya, Uśanas, Aṅgiras, Yama, Āpastamba, Saṃvarta, Kātyāyana, and Bṛhaspati, // Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, and Gautama, Śātātapa, and Vasiṣṭha are the promulgators of the Dharmaśāstras.' (Yājñavalkya Smṛti, ch.1, paragraphs p-0f4ad0 and p-95ef53). The twenty named in order are: Manu, Atri, Viṣṇu, Hārīta, Yājñavalkya, Uśanas, Aṅgiras, Yama, Āpastamba, Saṃvarta, Kātyāyana, Bṛhaspati, Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, Gautama, Śātātapa, and Vasiṣṭha.",
+  "answer": "The verse is found in Yājñavalkya Smṛti chapter 1, verses Yj_1.4–1.5 (work slug: unknown-yajnavalkya-smrti-cb88d6). The two-verse passage reads:\n\n\"Manu, Atri, Viṣṇu, Hārīta, Yājñavalkya, Uśanas, Aṅgiras,\nYama, Āpastamba, Saṃvarta, Kātyāyana, and Bṛhaspati, // Yj_1.4 //\n\nParāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, and Gautama,\nŚātātapa, and Vasiṣṭha are the promulgators of the Dharmaśāstras. // Yj_1.5 //\"\n\nThe twenty promulgators named are: Manu, Atri, Viṣṇu, Hārīta, Yājñavalkya, Uśanas, Aṅgiras, Yama, Āpastamba, Saṃvarta, Kātyāyana, Bṛhaspati, Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, Gautama, Śātātapa, and Vasiṣṭha (ending with Vasiṣṭha as specified).",
   "tool_calls": [
-    {"name": "list_chapters", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6"}, "result_summary": "Confirmed 3 chapters; ch.1 has translation variant"},
-    {"name": "get_passage", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 15}}, "result_summary": "Yj_1.4 + Yj_1.5 list the twenty promulgators ending with Vasiṣṭha"}
+    {
+      "name": "list_works",
+      "args": {"language": "Sanskrit"},
+      "result_summary": "Found 11 Sanskrit works including unknown-yajnavalkya-smrti-cb88d6 (Yājñavalkya Smṛti, 3 chapters)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1},
+      "result_summary": "Chapter too large; output saved to file. Grep revealed Yj_1.4–1.5 listing the twenty promulgators ending with Vasiṣṭha"
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 15}},
+      "result_summary": "Confirmed paragraph IDs: Yj_1.4 = p-0f4ad0, Yj_1.5 = p-95ef53 with full text of the twenty-promulgator verse"
+    }
   ],
   "citations": [
     {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-0f4ad0"},

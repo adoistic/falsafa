@@ -1,9 +1,12 @@
 {
-  "answer": "The verse is the second couplet of Ghalib's ghazal 168 (Diwan-E-Ghalib): 'A house I'll build of neither wall nor stone, / No neighbor there, no guard, and be alone.' This corresponds to the Urdu sher 'Padosi na ho aur paasban koi na ho' — Ghalib wishes for a dwelling outside society with no neighbour, no companion, no door-keeper.",
+  "answer": "The verse is the second sher (couplet) of the ghazal, found in Diwan-E-Ghalib chapter 168. In transliteration: 'Be-dar-o-deewar sa ek ghar banaya chahiye / Koi humsaya na ho aur pasban koi na ho' — meaning 'A house without door or wall should be built / Let there be no neighbour (humsaya) and no door-keeper/guard (pasban).' The English translation renders it as: 'A house I'll build of neither wall nor stone, / No neighbor there, no guard, and be alone.' This is the verse where Ghalib wishes for a place with no neighbour, no companion (the first sher covers no kindred voice/companion), and no door-keeper.",
   "tool_calls": [
-    {"name": "search_corpus", "args": {"query": "Rahiye aisi jagah"}, "result_summary": "0 results — long phrase failed"},
-    {"name": "search_corpus", "args": {"query": "Rahiye"}, "result_summary": "Located ghazal 168 in Diwan-E-Ghalib via transliteration variant"},
-    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 168, "variant": "translation"}, "result_summary": "Read 3 couplets; the second couplet matches the question"}
+    {"name": "search_corpus", "args": {"query": "neighbour companion door-keeper"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "no neighbour no companion"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"author": "ghalib"}, "result_summary": "Found mirza-ghalib-diwan-e-ghalib-74ed4c with 239 chapters"},
+    {"name": "search_corpus", "args": {"query": "jahan koi na ho"}, "result_summary": "Found chapter 168 titled 'Rahiye ab aisi jagah chal kar jahan koi na ho'"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 168, "variant": "translation"}, "result_summary": "Found 3-stanza translation; second stanza [p-09bdfe] contains 'No neighbor there, no guard, and be alone'"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 168, "variant": "transliteration"}, "result_summary": "Confirmed second couplet: 'Koi humsaya na ho aur pasban koi na ho' (no neighbour, no door-keeper)"}
   ],
   "citations": [
     {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 168, "paragraph_id": "p-09bdfe"}

@@ -1,0 +1,12 @@
+{
+  "answer": "Ghalib (ghazal 1, 'Aa ke meri jaan ko qarar nahin hai') and Zauq (ghazal 1, 'Aankh us pur-jafa se ladti hai') both close with the takhallus, but in contrasting registers.\n\nGhalib's maqta: 'You've sworn an oath, O Ghalib, to give up the wine, / But in your vow, the faith of any prayer is not there.' (p-4304e1). He addresses himself in the second person to point out his own perjury — the takhallus is the punchline of his own ironic self-exposure. He neither praises nor humbles himself; he catches himself out.\n\nZauq's maqta: 'O Zauq, ''tis true that \"war is but deceitful play,\" / And so her glance with pure and practiced guile contends.' (p-c251f5). The takhallus is the tag for a quoted aphorism — Zauq deploys his name as a frame for received wisdom, deferring to a known proverb rather than performing the closing wit himself. The stance is conventional, courtly, modest.\n\nThe contrast: Ghalib uses the maqta as a mirror that catches him in vice; Zauq uses it as a citation slot that hands the closing wit to tradition. Ghalib's irony is at his own expense; Zauq's humility is at the proverb's service.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "zauq"}, "result_summary": "Confirmed Diwan-E-Zauq slug"},
+    {"name": "read_chapter", "args": {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 1, "variant": "translation"}, "result_summary": "12 couplets; final maqta at p-c251f5 quotes 'war is deceitful play'"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 1, "variant": "translation"}, "result_summary": "7 couplets; final maqta at p-4304e1 catches Ghalib in the lie of his wine-vow"}
+  ],
+  "citations": [
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 1, "paragraph_id": "p-4304e1"},
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 1, "paragraph_id": "p-c251f5"}
+  ]
+}

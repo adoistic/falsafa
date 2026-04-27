@@ -1,8 +1,7 @@
 {
-  "driver": "claude-code-subagent-native-mcp-blind",
-  "total_pass": 11,
+  "total_pass": 12,
   "total_judged": 12,
-  "pass_rate": 0.9166666666666666,
+  "pass_rate": 1,
   "by_category": {
     "citation": {
       "pass": 2,
@@ -13,7 +12,7 @@
       "total": 2
     },
     "discovery": {
-      "pass": 1,
+      "pass": 2,
       "total": 2
     },
     "conceptual": {
@@ -33,7 +32,6 @@
       "total": 1
     }
   },
-  "total_citations": 98,
   "verse_label_id_count": 0,
   "per_question": [
     {
@@ -43,9 +41,9 @@
       "pass": true,
       "hits": 1,
       "expected": 1,
-      "citationCount": 1,
-      "nonHashIds": 0,
-      "totalIds": 1
+      "toolCount": 3,
+      "citations": 1,
+      "nonHashIds": 0
     },
     {
       "id": "q-0011",
@@ -54,9 +52,9 @@
       "pass": true,
       "hits": 1,
       "expected": 1,
-      "citationCount": 2,
-      "nonHashIds": 0,
-      "totalIds": 2
+      "toolCount": 2,
+      "citations": 2,
+      "nonHashIds": 0
     },
     {
       "id": "q-0201",
@@ -65,9 +63,9 @@
       "pass": true,
       "hits": 2,
       "expected": 2,
-      "citationCount": 3,
-      "nonHashIds": 0,
-      "totalIds": 3
+      "toolCount": 3,
+      "citations": 2,
+      "nonHashIds": 0
     },
     {
       "id": "q-0202",
@@ -76,20 +74,20 @@
       "pass": true,
       "hits": 2,
       "expected": 2,
-      "citationCount": 3,
-      "nonHashIds": 0,
-      "totalIds": 3
+      "toolCount": 5,
+      "citations": 2,
+      "nonHashIds": 0
     },
     {
       "id": "q-0401",
       "category": "discovery",
       "difficulty": "medium",
-      "pass": false,
-      "hits": 2,
+      "pass": true,
+      "hits": 5,
       "expected": 5,
-      "citationCount": 22,
-      "nonHashIds": 0,
-      "totalIds": 22
+      "toolCount": 5,
+      "citations": 5,
+      "nonHashIds": 0
     },
     {
       "id": "q-0402",
@@ -98,9 +96,9 @@
       "pass": true,
       "hits": 3,
       "expected": 3,
-      "citationCount": 11,
-      "nonHashIds": 0,
-      "totalIds": 11
+      "toolCount": 4,
+      "citations": 5,
+      "nonHashIds": 0
     },
     {
       "id": "q-0551",
@@ -109,9 +107,9 @@
       "pass": true,
       "hits": 3,
       "expected": 3,
-      "citationCount": 20,
-      "nonHashIds": 0,
-      "totalIds": 20
+      "toolCount": 4,
+      "citations": 4,
+      "nonHashIds": 0
     },
     {
       "id": "q-0552",
@@ -120,9 +118,9 @@
       "pass": true,
       "hits": 3,
       "expected": 3,
-      "citationCount": 12,
-      "nonHashIds": 0,
-      "totalIds": 12
+      "toolCount": 4,
+      "citations": 5,
+      "nonHashIds": 0
     },
     {
       "id": "q-0701",
@@ -131,9 +129,9 @@
       "pass": true,
       "hits": 1,
       "expected": 1,
-      "citationCount": 2,
-      "nonHashIds": 0,
-      "totalIds": 2
+      "toolCount": 1,
+      "citations": 5,
+      "nonHashIds": 0
     },
     {
       "id": "q-0851",
@@ -142,9 +140,9 @@
       "pass": true,
       "hits": 3,
       "expected": 3,
-      "citationCount": 3,
-      "nonHashIds": 0,
-      "totalIds": 3
+      "toolCount": 6,
+      "citations": 3,
+      "nonHashIds": 0
     },
     {
       "id": "q-0852",
@@ -153,9 +151,9 @@
       "pass": true,
       "hits": 3,
       "expected": 3,
-      "citationCount": 6,
-      "nonHashIds": 0,
-      "totalIds": 6
+      "toolCount": 3,
+      "citations": 4,
+      "nonHashIds": 0
     },
     {
       "id": "q-0951",
@@ -164,9 +162,9 @@
       "pass": true,
       "hits": 2,
       "expected": 2,
-      "citationCount": 13,
-      "nonHashIds": 0,
-      "totalIds": 13
+      "toolCount": 3,
+      "citations": 5,
+      "nonHashIds": 0
     }
   ]
 }

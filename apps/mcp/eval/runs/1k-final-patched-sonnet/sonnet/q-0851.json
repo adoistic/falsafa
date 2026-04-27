@@ -1,16 +1,57 @@
 {
-  "answer": "Three couplets where 'dard' is doing different work, with what an English-only reader misses each time:\n\n1. Ghalib (Diwan-E-Ghalib, ghazal 209, p-39e8e8). 'Dard-e-dil likhoon kab tak' — translated as: 'How long to write this pain? I must combine, my own, / My wounded fingers with this bloody line, my own.' Here dard is wound-as-script: the literal blood of a cut finger continues to flow until it has done the work of the pen. 'Pain' loses the fact that dard-e-dil is itself a recognised genre-marker (the lover's writ) — and the very thing that licences blood as ink. The English reader sees a metaphor; the Urdu reader sees a genre-conscious poet executing it.\n\n2. Iqbal (Bang-e-Dara Part 1, ghazal 2, p-4466e4). 'Ilaaj-e-dard mein bhi dard ki lazzat pe marta hoon' — translated as: 'In treating anguish, I embrace its pain.' Dard here is what one is dying-for-the-taste-of (lazzat). The cure is itself a reason to relish the malady. 'Pain' loses the insistence that dard has flavour, that it is something one can be a connoisseur of (dard-mand = one who has tasted dard, a sympathiser-by-experience). The English flattens an aesthetic doctrine into a contradiction.\n\n3. Zauq (Diwan-E-Zauq, ghazal 30, p-1a2c4f). 'Miri haqeeqat-e-pur-dard ko kabhi uss se / ba-aah-o-naala na kahwe, ba-chashm-e-tar to kahe' — translated as: 'Not with loud sighs that mimic sorrow's rain, / But with wet eyes is true expression.' Here dard is the substance of one's own truth (haqeeqat-e-pur-dard = the dard-saturated truth of who one is); the issue is not whether to express dard but how — the chashm-e-tar (wet eye) being the licit register, the loud aah-o-naala the illicit one. 'Sorrow' loses the claim that dard is identity, not affect — and that there is a Mughal-court etiquette governing how it ought to be borne.\n\nWhat 'pain' loses across all three: dard is (a) a genre Ghalib writes inside, (b) a flavour Iqbal cultivates, (c) the constitutive matter of selfhood Zauq calibrates the etiquette for. English 'pain' makes all three sound like the same affect.",
+  "answer": "Three couplets where 'dard' does different work:\n\n1. GHALIB — Diwan-E-Ghalib, chapter 26 ('Dard minnat-kash-e-dawa na hua')\nTransliteration (first couplet / matla): \"Dard minnat-kash-e-dawa na hua / Main na achha hua, bura na hua\"\nTranslation: \"My pain would not be indebted to a cure; / I did not heal, nor did my state grow worse.\"\nWhat 'dard' is doing: dard is the grammatical subject and is personified as a willful agent with aristocratic pride. 'Minnat-kash' means 'one who bows in obligation/supplication'. So the pain refuses to demean itself by owing anything to medicine. It has agency, dignity, and refusal. Rendering it simply as 'pain' loses this: 'pain' in English is a sensation you try to relieve; here dard is a sovereign presence that declines cure on its own terms.\nWhat an English-only reader loses: the irony that dard's refusal to be cured is framed as a matter of honor, not failure of treatment. The poem's entire mood — that suffering is a condition the speaker and his dard inhabit together with stubborn fidelity — collapses into 'my pain was not cured', which is merely medical.\n\n2. ZAUQ — Diwan-E-Zauq, chapter 16 ('Ek sadma dard-e-dil se meri jaan par toh hai')\nTransliteration (fifth couplet): \"Hai dard dil mein gar nahin humdard mere paas / Dil-soz koi gar nahin soz-e-jigar toh hai\"\nTranslation: \"There is no friend to share this pain I feel; / A fire burns within my very core, at least.\"\nWhat 'dard' is doing: dard operates here as one half of a relational pair: 'humdard' (literally hum = with/together + dard = pain; i.e., a fellow-sufferer, a sympathizer, a confidant). The couplet turns on the contrast: I have dard in my heart but no humdard nearby. The word 'dard' in this context is not merely a sensation but a social bond — it generates intimacy, the shared state that creates human solidarity. 'Humdard' survives in modern Urdu as the word for a compassionate companion or even a physician. Rendering dard as 'pain' disintegrates the etymological bond with humdard and makes the second word ('humdard') untranslatable except as 'sympathizer', erasing the pun and the logic of the couplet.\nWhat an English-only reader loses: the couplet's whole architecture — the echo between dard and humdard — which makes dard a connective tissue of human empathy, not just private sensation. Without it, the couplet reads as 'I am in pain and alone', instead of 'the very substance of pain, when shared, becomes the thing that binds people; I have the substance but not the companion'.\n\n3. IQBAL — Bang-E-Dara Part 1, chapter 17 ('Dard-e-Ishq')\nTransliteration (first/title couplet): \"Ae Dard-e-ishq! hai gohar-e-aab-daar tu / Na-mehramon mein dekh na ho aashkaar tu\"\nTranslation: \"O, Anguish of Love! A pearl of purest water, you; / Be not revealed to the unworthy view.\"\nWhat 'dard' is doing: the entire poem is an ode addressed to Dard-e-Ishq as a sacred, hidden presence — a pearl too precious for the profane age of rationalism. Dard here is not suffering but a mystical-spiritual faculty, an elevated interior capacity for suffering-as-illumination that distinguishes the spiritually awake from the materially dull. Iqbal warns this dard to hide from the age of critics and science because it belongs to the soul's secret chamber. Dard-e-ishq is thus a treasured, cultivated, quasi-divine inner state, not a pain to be cured or commiserated.\nWhat an English-only reader loses: 'pain of love' or 'anguish of love' both gesture at it, but 'pain' implies something one naturally avoids or remedies. Iqbal's dard-e-ishq is something one guards, protects, and refuses to expose — its hiddenness is its value. The English 'pain' makes the poet's counsel to conceal it sound pathological or merely private; the Urdu makes it sound like spiritual discipline and the preservation of a rare treasure.",
   "tool_calls": [
-    {"name": "search_corpus", "args": {"query": "dard"}, "result_summary": "30 hits — Iqbal-heavy"},
-    {"name": "search_corpus", "args": {"query": "dard-e-dil"}, "result_summary": "Ghalib ch.209 + Iqbal ch.32"},
-    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 209, "variant": "translation"}, "result_summary": "p-39e8e8 = dard-e-dil-likhoon couplet"},
-    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 2, "variant": "translation"}, "result_summary": "p-4466e4 = lazzat-of-dard couplet"},
-    {"name": "read_chapter", "args": {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 30, "variant": "transliteration"}, "result_summary": "Found Zauq haqeeqat-e-pur-dard couplet"},
-    {"name": "read_chapter", "args": {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 30, "variant": "translation"}, "result_summary": "p-1a2c4f = the translation that flattens 'pur-dard' to 'sorrow'"}
+    {
+      "name": "list_works",
+      "args": {"language": "urdu"},
+      "result_summary": "Found 5 Urdu works: Ghalib's Diwan-E-Ghalib, Zauq's Diwan-E-Zauq, Iqbal's Bang-E-Dara Parts 1-3"
+    },
+    {
+      "name": "search_corpus",
+      "args": {"query": "dard", "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "scope": "all"},
+      "result_summary": "Found 10 hits; chapter 26 titled 'Dard minnat-kash-e-dawa na hua' and chapter 27 'Dard se mere' are most relevant"
+    },
+    {
+      "name": "search_corpus",
+      "args": {"query": "dard", "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "scope": "all"},
+      "result_summary": "Found 10 hits; chapter 16 'Ek sadma dard-e-dil se meri jaan par toh hai' most relevant, with 'Hai dard dil mein gar nahin humdard mere paas'"
+    },
+    {
+      "name": "search_corpus",
+      "args": {"query": "dard", "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "scope": "all"},
+      "result_summary": "Found chapter 17 titled 'Dard-e-Ishq' — entire poem addressed to dard-e-ishq as sacred presence"
+    },
+    {
+      "name": "read_chapter",
+      "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 26},
+      "result_summary": "Full translation confirmed: matla 'My pain would not be indebted to a cure' [p-fd05a7]; transliteration shows 'Dard minnat-kash-e-dawa na hua'"
+    },
+    {
+      "name": "read_chapter",
+      "args": {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 16},
+      "result_summary": "Full translation confirmed: [p-17b26b] 'There is no friend to share this pain I feel'; transliteration shows 'Hai dard dil mein gar nahin humdard mere paas'"
+    },
+    {
+      "name": "read_chapter",
+      "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 17},
+      "result_summary": "Full translation confirmed: [p-6d19d8] 'O, Anguish of Love! A pearl of purest water, you'; transliteration shows 'Ae Dard-e-ishq! hai gohar-e-aab-daar tu'"
+    }
   ],
   "citations": [
-    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 209, "paragraph_id": "p-39e8e8"},
-    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 2, "paragraph_id": "p-4466e4"},
-    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 30, "paragraph_id": "p-1a2c4f"}
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 26,
+      "paragraph_id": "p-fd05a7"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 16,
+      "paragraph_id": "p-17b26b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-6d19d8"
+    }
   ]
 }
