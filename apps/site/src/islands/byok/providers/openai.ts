@@ -59,19 +59,51 @@ export async function* streamOpenAI(
     apiKey: args.apiKey,
     baseURL,
     fetch: args.fetch, // tests inject a mock fetch
+    // OpenRouter best practice: identify the calling app via HTTP-Referer
+    // and X-Title. Optional but recommended; without these some OpenRouter
+    // routes default to lower-priority queues. No PII — just the brand.
+    ...(args.provider === "openrouter"
+      ? {
+          headers: {
+            "HTTP-Referer": "https://falsafa.ai",
+            "X-Title": "Falsafa",
+          },
+        }
+      : {}),
   });
 
   const tools = buildFalsafaTools(args.onToolCall);
+  const modelId = args.modelId ?? DEFAULT_MODEL;
 
   let hasOutput = false;
 
   try {
     const result = streamText({
-      model: provider.chat(args.modelId ?? DEFAULT_MODEL),
+      model: provider.chat(modelId),
       system: FALSAFA_SYSTEM_PROMPT,
       prompt: args.question,
       tools,
       abortSignal: args.abortSignal,
+      // OpenRouter prefixes model IDs (e.g. "openai/gpt-5-mini"), but the
+      // AI SDK's reasoning-model detection uses bare-prefix startsWith
+      // checks ("o1", "o3", "o4-mini", "gpt-5"). The prefix breaks the
+      // check, so reasoning models get treated as chat models — the SDK
+      // then sends `system` role + temperature/top_p, which OpenAI rejects
+      // with "Unsupported parameter for this model".
+      //
+      // Detect reasoning models from the prefixed id and force the right
+      // mode via providerOptions. This is the difference between "Claude
+      // works on OpenRouter, GPT-5 doesn't" and "everything works".
+      ...(detectOpenAIReasoningFromAnyId(modelId)
+        ? {
+            providerOptions: {
+              openai: {
+                forceReasoning: true,
+                systemMessageMode: "developer",
+              },
+            },
+          }
+        : {}),
       // Cap at 50 LLM round-trips (each "step" = one model invocation
       // followed by zero-or-more tool executions). Comparative
       // synthesis questions in the live demo routinely need 15-20
@@ -132,6 +164,12 @@ export async function* streamOpenAI(
           return;
 
         case "error":
+          // Dev-only: log the raw provider error to the browser console.
+          // The ErrorBanner gets the polished summary via mapToByokError;
+          // the console gets everything (status, headers, response body).
+          if (typeof console !== "undefined") {
+            console.error("[falsafa byok] stream error:", part.error);
+          }
           yield { kind: "error", error: mapToByokError(part.error, userProvider) };
           return;
 
@@ -148,6 +186,13 @@ export async function* streamOpenAI(
       }
     }
   } catch (err) {
+    // Dev-only diagnostic: dump the raw error so the browser console shows
+    // the upstream provider's actual rejection (parameter name, model id,
+    // reason). The user-facing ErrorBanner only gets a polished summary;
+    // this is the unfiltered debug trail.
+    if (typeof console !== "undefined") {
+      console.error("[falsafa byok] streamOpenAI threw:", err);
+    }
     yield { kind: "error", error: mapToByokError(err, userProvider) };
   }
 }
@@ -160,6 +205,32 @@ export async function* streamOpenAI(
 function inferBaseURL(args: ProviderAdapterArgs): string | undefined {
   if (args.provider === "openrouter") return "https://openrouter.ai/api/v1";
   return undefined; // default openai (which we now reject above anyway)
+}
+
+/**
+ * Detect whether a model id maps to an OpenAI reasoning model, matching
+ * the AI SDK's internal logic but also handling OpenRouter's `openai/`
+ * prefix.
+ *
+ * Why we duplicate this: @ai-sdk/openai's getOpenAILanguageModelCapabilities
+ * uses `modelId.startsWith("o1")` style checks, which fail for
+ * "openai/o1-mini". The result is that reasoning models routed via
+ * OpenRouter get treated as regular chat models — the SDK then sends
+ * `temperature`, `top_p`, and `system` role messages that OpenAI rejects
+ * with "Unsupported parameter for this model".
+ *
+ * The bare-prefix list is kept in sync with the AI SDK's source; if
+ * OpenAI ships new reasoning-model families, add them here too.
+ */
+function detectOpenAIReasoningFromAnyId(modelId: string): boolean {
+  const bare = modelId.replace(/^openai\//, "");
+  // Mirror the AI SDK's check exactly — same prefixes, same exclusions.
+  return (
+    bare.startsWith("o1") ||
+    bare.startsWith("o3") ||
+    bare.startsWith("o4-mini") ||
+    (bare.startsWith("gpt-5") && !bare.startsWith("gpt-5-chat"))
+  );
 }
 
 function mapFinishReason(reason: string | undefined): FinishReason {
