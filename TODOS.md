@@ -243,31 +243,6 @@ era-appropriate. Document the working templates.
 
 ---
 
-## Featured-work rotation strategy (low priority)
-
-**What:** Decide how the home page's featured work changes over time.
-
-**Why:** Without a strategy, the same work appears forever, or it's whatever
-the convert script ranked first. The home page goes stale fast.
-
-**Pros of solving:** Returning visitors see something fresh. Editorial control
-over which work introduces a new visitor.
-
-**Options:**
-- Weekly editorial pick (you choose Sunday for the week)
-- Random on each page load
-- Random per session (sticky for the visit)
-- Algorithmic (least-recently-featured)
-- "Reading path of the month" tied to a curated path
-
-**Trigger:** Pre-launch polish, Phase 5.
-
-**Where to start:** Add `featured: { work_slug: <slug>, until: <date>, intro:
-<copy> }` to a `corpus/home/featured.yaml`. Decide which strategy fits Thothica's
-content cadence.
-
----
-
 ## Held chapter splits — per-variant parser dispatch
 
 **What:** 6 works need their chapter splits done but each variant uses a
@@ -334,33 +309,6 @@ chapters become large enough that `Cmd-F` after the click feels broken.
 result snippets land at the right paragraph.
 
 **Depends on:** V1 ships with chapter-level Pagefind first.
-
----
-
-## Search filters: era, author, language, content_type
-
-**What:** Add filter chips above the search results overlay so a reader can
-constrain a query to "only Sanskrit works" or "only the Indic era" without
-typing it into the query.
-
-**Why:** Pagefind's default UI is a single search box. Power users (researchers,
-serious readers) will want to scope. The data is already on every indexed doc
-(we'll be adding `data-pagefind-filter` attributes on chapter pages anyway for
-result faceting).
-
-**Pros:** Closes the gap between Falsafa search and "real" library catalog
-search. Removes a class of "I know this is in here but I can't find it" failure.
-
-**Cons:** Custom UI on top of Pagefind's stock component (the default `@pagefind/default-ui`
-doesn't handle filters in a polished way). ~200 LOC of custom search overlay.
-
-**Trigger:** Post-launch, when search analytics show >20% of queries are
-era/author-scoped (people typing the era as a search term).
-
-**Where to start:** Pagefind filter docs at `https://pagefind.app/docs/filtering/`.
-Build a thin wrapper around `@pagefind/modular-ui` rather than `@pagefind/default-ui`.
-
-**Depends on:** V1 ships with default Pagefind.
 
 ---
 

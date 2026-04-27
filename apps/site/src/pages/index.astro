@@ -3,19 +3,37 @@ import Base from "../layouts/Base.astro";
 import { manifest, readWorkIndex } from "../lib/corpus";
 
 const m = manifest();
-// Featured: pick the first work that has a cover, prioritize the trilogy
-const featuredCandidates = ["cynewulf-andreas-07b573", ...m.works.map((w) => w.slug)];
-let featured: { work: typeof m.works[0]; cover: string | null } | null = null;
-for (const slug of featuredCandidates) {
-  const w = m.works.find((w) => w.slug === slug);
-  if (!w) continue;
-  const idx = readWorkIndex(w.slug);
-  if (idx?.cover_url) {
-    featured = { work: w, cover: idx.cover_url };
-    break;
-  }
+
+// All works that have a cover image — eligible for the featured slot.
+// We embed the full eligible pool in the page (as JSON), and an inline
+// script picks one at random on every page load. The first pick is also
+// rendered server-side so search engines + no-JS readers see real
+// content instead of a blank slot. A build-time random seed nudges the
+// SSR pick so each new build is fresh too.
+interface FeaturedEntry {
+  slug: string;
+  title: string;
+  author: string;
+  description: string;
+  cover_url: string;
 }
-if (!featured) featured = { work: m.works[0]!, cover: null };
+const featuredPool: FeaturedEntry[] = [];
+for (const w of m.works) {
+  const idx = readWorkIndex(w.slug);
+  if (!idx?.cover_url) continue;
+  featuredPool.push({
+    slug: w.slug,
+    title: w.title,
+    author: w.author,
+    description: w.description,
+    cover_url: idx.cover_url,
+  });
+}
+// Build-time SSR pick: deterministic per build (use the first work in
+// the pool — the inline script will swap on load anyway). Keeping this
+// stable makes Pagefind / SEO snapshots stable across reloads of the
+// same build.
+const ssrPick = featuredPool[0]!;
 
 // Era nodes for the timeline
 const eraOrder = ["Ancient", "Antiquity", "Medieval", "Enlightenment", "19th Century", "20th Century", "Unknown"];
@@ -32,20 +50,54 @@ const eraEntries = eraOrder
   description="A premium reading platform for translated philosophical and classical texts. 38 works, 627 logical chapters, 2-3 language variants each. Free, public, open source."
 >
   <div class="container">
-    <section class="featured">
-      {featured.cover && (
-        <a href={`/works/${featured.work.slug}/`} class="featured-cover">
-          <img src={featured.cover} alt={`Cover for ${featured.work.title}`} />
-        </a>
-      )}
+    <section class="featured" data-featured>
+      <a href={`/works/${ssrPick.slug}/`} class="featured-cover" data-featured-link>
+        <img src={ssrPick.cover_url} alt={`Cover for ${ssrPick.title}`} data-featured-img />
+      </a>
       <div class="featured-text">
         <p class="kicker">Featured reading</p>
-        <h1 class="featured-title">{featured.work.title}</h1>
-        <p class="featured-author">{featured.work.author}</p>
-        <p class="featured-desc">{featured.work.description}</p>
-        <a href={`/works/${featured.work.slug}/`} class="cta">Begin reading →</a>
+        <h1 class="featured-title" data-featured-title>{ssrPick.title}</h1>
+        <p class="featured-author" data-featured-author>{ssrPick.author}</p>
+        <p class="featured-desc" data-featured-desc>{ssrPick.description}</p>
+        <a href={`/works/${ssrPick.slug}/`} class="cta" data-featured-cta>Begin reading →</a>
       </div>
     </section>
+
+    {/* Embedded pool for the on-load random swap. Kept as application/json
+        so it doesn't block parsing and stays out of the global namespace. */}
+    <script type="application/json" id="featured-pool" set:html={JSON.stringify(featuredPool)} />
+
+    <script is:inline>
+      /* Featured-work rotation: pick a different work on every page load.
+         Inline + synchronous so it runs before the browser commits the
+         initial paint, avoiding a flash of the SSR pick. */
+      (function () {
+        var poolNode = document.getElementById("featured-pool");
+        if (!poolNode || !poolNode.textContent) return;
+        var pool;
+        try { pool = JSON.parse(poolNode.textContent); } catch { return; }
+        if (!Array.isArray(pool) || pool.length < 2) return;
+        var pick = pool[Math.floor(Math.random() * pool.length)];
+        var section = document.querySelector("[data-featured]");
+        if (!section) return;
+        var link = section.querySelector("[data-featured-link]");
+        var img = section.querySelector("[data-featured-img]");
+        var title = section.querySelector("[data-featured-title]");
+        var author = section.querySelector("[data-featured-author]");
+        var desc = section.querySelector("[data-featured-desc]");
+        var cta = section.querySelector("[data-featured-cta]");
+        var href = "/works/" + pick.slug + "/";
+        if (link) link.setAttribute("href", href);
+        if (img) {
+          img.setAttribute("src", pick.cover_url);
+          img.setAttribute("alt", "Cover for " + pick.title);
+        }
+        if (title) title.textContent = pick.title;
+        if (author) author.textContent = pick.author;
+        if (desc) desc.textContent = pick.description;
+        if (cta) cta.setAttribute("href", href);
+      })();
+    </script>
 
     <section class="catalog-overview">
       <h2>The catalog</h2>
