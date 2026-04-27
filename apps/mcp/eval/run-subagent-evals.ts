@@ -182,9 +182,10 @@ This is a blind evaluation of the falsafa MCP server. **DO NOT** read or open
 any of the following files — they contain ground-truth answers and reading them
 would invalidate the eval:
 
+- Anything under \`eval/\` at the repo root, especially \`eval/questions-revised-1000.json\`, \`eval/questions-draft-1000.json\`, \`eval/calibration-scores-blind.json\`, \`eval/calibration-report.md\`
 - \`apps/mcp/eval/cases.json\`
 - Anything under \`apps/mcp/eval/results/\`
-- Anything under \`apps/mcp/eval/runs/\`
+- Anything under \`apps/mcp/eval/runs/\` (other agents' results, sample manifests, judge verdicts)
 - Anything under \`docs/eval-reports/\`
 
 You also must not answer from your prior literary knowledge. If you "recognize"
