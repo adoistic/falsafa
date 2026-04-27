@@ -1,0 +1,25 @@
+{
+  "case_id": "needle-theme-exile",
+  "category": "needle: vague thematic",
+  "factual_correctness": 3,
+  "citation_grounding": 2,
+  "hallucination_avoidance": 2,
+  "reasoning_quality": 3,
+  "total": 10,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The answer correctly identifies all major corpus loci for exile (Old English Elegies including The Wanderer, Wife's Lament, and Deor; Iqbal's Bang-E-Dara Parts 1 and 2; Ghalib's Diwan; Cynewulf's Andreas), matching the expected answer's requirement for Old English Elegies. Most cited paragraph IDs resolve verbatim to the claimed content. However, the Andreas section quotes 'You shall for all time extend your anguish... will never be an end to your exile' which is paraphrased/fabricated — the cited paragraph p-f115de contains 'For him a path of exile is fated' but not that specific phrasing, and the devil-anguish passage (p-51b3f4) doesn't use 'exile' explicitly. This is a minor fabrication in one supporting quote, not a hallucinated work.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/needle-theme-exile.json",
+    "Pulled paragraphs p-23cb49, p-97aedc, p-c1cc32 from unknown-old-english-elegies-d5fe9e ch.3 — Wife's Lament exile content confirmed verbatim",
+    "Pulled paragraphs p-9cca5e, p-9462cc from unknown-old-english-elegies-d5fe9e ch.11 — Wanderer exile/kinsmen content confirmed verbatim including 'cruel a companion sorrow is' and 'stripped of my homeland'",
+    "Pulled p-f4425a from allama-iqbal-bang-e-dara-part-1-55b25c ch.40 — 'A captive now, I call my cage a garden bright / This house of exile is my homeland and my light' confirmed verbatim",
+    "Pulled p-57899c from allama-iqbal-bang-e-dara-part-2-9bc58c ch.6 — 'Though I, Iqbal, am far from home... This exile is, just like the pearl's...' confirmed verbatim",
+    "Pulled p-2ec020 from mirza-ghalib-diwan-e-ghalib-74ed4c ch.17 — 'How can I live in exile happily...' confirmed verbatim",
+    "Pulled p-70888d from mirza-ghalib-diwan-e-ghalib-74ed4c ch.122 — 'The wronged exile, returned from sun and dust' confirmed verbatim",
+    "Pulled p-627de1 from mirza-ghalib-diwan-e-ghalib-74ed4c ch.152 — 'With what face, Ghalib, can you claim that exile has you flayed?' confirmed verbatim",
+    "Pulled p-f115de from cynewulf-andreas-07b573 ch.1 — contains 'For him a path of exile is fated, torment laid open' but NOT the quoted phrase 'You shall for all time extend your anguish... never be an end to your exile'; that phrasing is paraphrased/fabricated",
+    "Searched corpus for Andreas 'anguish exile eternal' — found p-51b3f4 (devil/anguish passage) which does not use 'exile' explicitly"
+  ]
+}

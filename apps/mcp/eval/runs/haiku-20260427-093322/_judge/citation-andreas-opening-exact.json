@@ -1,0 +1,19 @@
+{
+  "case_id": "citation-andreas-opening-exact",
+  "category": "citation precision",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "Candidate quoted exactly the first 6 lines of Andreas chapter 1 verbatim. Corpus verification via get_passage on the cited paragraph p-868413 from cynewulf-andreas-07b573 chapter 1 confirms byte-for-byte accuracy. All four expected keywords (heroes, thanes, turning stars, champions) are present.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/citation-andreas-opening-exact.json",
+    "Ran get_passage for work_slug=cynewulf-andreas-07b573, chapter_number=1, paragraph_id=p-868413",
+    "Confirmed candidate's 6-line quote matches lines 1-6 of paragraph p-868413 verbatim",
+    "Confirmed all expected_answer_contains keywords present: heroes, thanes, turning stars, champions"
+  ]
+}

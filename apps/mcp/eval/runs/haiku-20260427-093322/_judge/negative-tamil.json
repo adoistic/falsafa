@@ -1,0 +1,18 @@
+{
+  "case_id": "negative-tamil",
+  "category": "negative / hallucination guard",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly reported zero Tamil works in the corpus. It made three tool calls (list_works by language, search_corpus, list_works full), accurately noted the search_corpus 'Tamil' hit was an English transliteration of a Urdu work (Diwan-E-Ghalib), and did not mention any of the must_not_hallucinate items (Tirukkural, Sangam, Kambar, Tolkappiyam). All claims were independently verified against the live corpus.",
+  "verifications_performed": [
+    "Read candidate answer file: apps/mcp/eval/runs/haiku-20260427-093322/negative-tamil.json",
+    "Ran list_works '{\"language\":\"Tamil\"}' via MCP CLI — confirmed 0 results",
+    "Ran search_corpus '{\"query\":\"Tamil\"}' via MCP CLI — confirmed 1 result, which is an English transliteration snippet from Urdu work Diwan-E-Ghalib (not a Tamil work), matching what the candidate stated"
+  ]
+}

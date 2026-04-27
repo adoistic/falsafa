@@ -1,0 +1,18 @@
+{
+  "case_id": "factual-corpus-counts",
+  "category": "factual lookup",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly identified 38 total works and gave the exact era breakdown (Ancient 9, Medieval 15, Enlightenment 7, 19th Century 4, 20th Century 3), verified by re-running list_works against the live corpus. The per-era example works cited (Manusmrti, Cynewulf poems, Comte's treatises, Ghalib, Iqbal) are all real entries in the corpus. No fabrications detected.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/factual-corpus-counts.json",
+    "Ran list_works {} via MCP CLI and confirmed total count = 38",
+    "Tallied era distribution from live corpus: Ancient 9, Medieval 15, Enlightenment 7, 19th Century 4, 20th Century 3 — matches candidate answer exactly"
+  ]
+}

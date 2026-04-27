@@ -1,0 +1,19 @@
+{
+  "case_id": "citation-andreas-original-text",
+  "category": "citation precision",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly called read_chapter with variant='original' and returned the Old English text opening with 'Hwæt! We gefrunan on fyrndagum...' which matches the corpus verbatim. The forbidden phrase 'heroes in ages past' does not appear anywhere in the answer.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/citation-andreas-original-text.json",
+    "Read corpus/works/cynewulf-andreas-07b573/chapters/01/original.md and confirmed opening 'Hwæt! We gefrunan on fyrndagum twelfe under tunglum tireadige hæleð...' matches the candidate answer verbatim",
+    "Confirmed 'heroes in ages past' (must_not_hallucinate) is absent from both the candidate answer and the original.md corpus file",
+    "Verified citation work_slug=cynewulf-andreas-07b573, chapter_number=1, variant=original resolves to actual Old English content"
+  ]
+}

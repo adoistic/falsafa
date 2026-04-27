@@ -1,0 +1,22 @@
+{
+  "case_id": "comparative-dharma-east-west",
+  "category": "cross-tradition comparison",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "All spot-checked citations resolve correctly: Angirasa Smṛti p-07cb57 contains the exact dharma-as-codanā definition cited; Manusmṛti p-f0b26c (Mn_1.87) confirms varna-duty passage; Fichte ch.2 p-3c8e3d and p-b77ba3 substantiate the commanded-vs-permitted moral law distinction; Charles Comte ch.18 p-06a027 and ch.20 p-e4a7c9 confirm the moral-law-vs-civil-law framework. The comparative synthesis is well-reasoned and grounded in real corpus text, with no fabrications detected.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/comparative-dharma-east-west.json",
+    "Pulled Angirasa Smṛti ch.1 p-07cb57 — confirmed 'Dharma is said to be that which is a scriptural injunction (codanā)' verbatim",
+    "Pulled Manusmṛti ch.1 p-f0b26c — confirmed Mn_1.87 varna-duties passage (protection of creation, duties assigned to those born from mouth/arms/thighs/feet)",
+    "Pulled Fichte ch.2 p-e62dae — confirmed moral law / personhood / freedom passage; answer's characterization is accurate",
+    "Pulled Fichte ch.2 p-3c8e3d and p-b77ba3 — confirmed commanded-vs-permitted moral law distinction with inalienability argument",
+    "Pulled Charles Comte ch.18 p-06a027 — confirmed moral laws as forces inherent in human nature without government intervention",
+    "Pulled Charles Comte ch.20 p-e4a7c9 — confirmed moral laws extend further than civil laws (legislation less extensive than morality)"
+  ]
+}

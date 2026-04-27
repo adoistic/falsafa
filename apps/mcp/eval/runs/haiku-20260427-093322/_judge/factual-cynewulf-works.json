@@ -1,0 +1,19 @@
+{
+  "case_id": "factual-cynewulf-works",
+  "category": "factual lookup",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly identified all 3 Cynewulf works in the corpus (Andreas, Elene, Juliana) with exact work slugs, and did not mention the must_not_hallucinate items (Christ II, Fates of the Apostles) at all. Corpus verification via list_works confirmed exactly these 3 works. The tool call chain (list_works + 3x get_metadata) is sensible and thorough.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/factual-cynewulf-works.json",
+    "Ran list_works {\"author\":\"Cynewulf\"} via MCP CLI and confirmed corpus contains exactly 3 works: Andreas (cynewulf-andreas-07b573), Elene (cynewulf-elene-d2d132), Juliana (cynewulf-juliana-9a2157)",
+    "Confirmed candidate answer lists all 3 works with correct slugs and accurate descriptions",
+    "Confirmed no mention of must_not_hallucinate items Christ II or Fates of the Apostles"
+  ]
+}

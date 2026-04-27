@@ -1,0 +1,17 @@
+{
+  "case_id": "needle-quote-manu-sages",
+  "category": "needle: specific quote",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "Candidate correctly identified X = 'Manu' and the work as Manusmrti (unknown-manusmrti-347b76), Chapter 1. The cited paragraph p-879544 resolves to exactly the quoted text verbatim: 'The great sages, approaching Manu who was seated with a concentrated mind, duly honored him according to custom and spoke these words: // Mn_1.1 //'. No fabrication detected; the tool-call sequence (search_corpus -> read_chapter) is sensible.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/needle-quote-manu-sages.json",
+    "Pulled paragraph p-879544 from unknown-manusmrti-347b76 chapter 1 via get_passage MCP CLI and confirmed quote is verbatim"
+  ]
+}

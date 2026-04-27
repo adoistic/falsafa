@@ -1,0 +1,18 @@
+{
+  "case_id": "filter-author-iqbal",
+  "category": "era / filter bounded",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly identified all 3 Iqbal works in the corpus (Bang-E-Dara Parts 1, 2, 3), with accurate slugs and chapter counts (44, 28, 28). No must_not_hallucinate items (Asrar-e-Khudi, Bal-e-Jibril, Zarb-e-Kalim) were mentioned. The single list_works tool call was the appropriate approach.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/filter-author-iqbal.json",
+    "Ran list_works '{\"author\":\"Allama Iqbal\"}' via MCP CLI and confirmed 3 works returned: Bang-E-Dara Part 1 (44 chapters), Part 2 (28 chapters), Part 3 (28 chapters) — all matching candidate's claims exactly",
+    "Confirmed no hallucinated works: Asrar-e-Khudi, Bal-e-Jibril, Zarb-e-Kalim are absent from both the corpus response and the candidate answer"
+  ]
+}

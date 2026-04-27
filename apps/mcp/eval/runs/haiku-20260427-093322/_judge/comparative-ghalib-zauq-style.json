@@ -1,0 +1,21 @@
+{
+  "case_id": "comparative-ghalib-zauq-style",
+  "category": "cross-tradition comparison",
+  "factual_correctness": 3,
+  "citation_grounding": 2,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 11,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "Both work slugs, chapter numbers, and chapter titles (Ghalib ch.1 'Aa ke meri jaan ko qarar nahin hai'; Zauq ch.1 'Aankh us pur-jafa se ladti hai') are verified correct. The thematic analysis is accurate and grounded in real text: Ghalib's 'is not there' refrain and Zauq's 'contends' refrain are both confirmed by reading the chapters. Citations provide work_slug and chapter_number but omit paragraph_ids (null), so grounding is strong but not pinpoint-precise.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/comparative-ghalib-zauq-style.json",
+    "Called read_chapter for mirza-ghalib-diwan-e-ghalib-74ed4c ch.1 translation — confirmed chapter title 'Aa ke meri jaan ko qarar nahin hai' and 'is not there' refrain throughout",
+    "Called read_chapter for sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 ch.1 translation — confirmed chapter title 'Aankh us pur-jafa se ladti hai' and 'contends' refrain throughout",
+    "Verified candidate's specific claims: eye vs cruelty, soul vs fate, candle vs wind, Death vs cure — all present verbatim in Zauq ch.1",
+    "Verified Ghalib imagery of wine/vow/faith, lovers' hearts, rose/spring — all present in Ghalib ch.1",
+    "No paragraph_ids provided in citations (null) — docking one point on citation_grounding"
+  ]
+}

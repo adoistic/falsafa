@@ -1,0 +1,19 @@
+{
+  "case_id": "multistep-medieval-philosophy-shortest",
+  "category": "multi-step reasoning",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "All three MCP calls were verified: Medieval+Philosophy returns 0 works, Medieval-only returns exactly 15 works with genres Literature/Indic/Academic Studies, and Philosophy-only returns exactly 2 Enlightenment-era Charles Comte volumes (27 and 28 chapters). The candidate correctly concluded the question cannot be answered as posed because no Medieval Philosophy works exist in the corpus. No fabrication detected.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/multistep-medieval-philosophy-shortest.json",
+    "Ran list_works(era=Medieval, genre=Philosophy) via MCP CLI — confirmed 0 results",
+    "Ran list_works(era=Medieval) via MCP CLI — confirmed 15 works with genres Literature (4), Indic (10), Academic Studies (1)",
+    "Ran list_works(genre=Philosophy) via MCP CLI — confirmed 2 works, both Enlightenment-era Charles Comte Traité de la propriété Vol I (27 chapters) and Vol II (28 chapters)"
+  ]
+}

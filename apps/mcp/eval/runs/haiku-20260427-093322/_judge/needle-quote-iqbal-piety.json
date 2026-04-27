@@ -1,0 +1,18 @@
+{
+  "case_id": "needle-quote-iqbal-piety",
+  "category": "needle: specific quote",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "Candidate correctly identified the work as 'Bang-E-Dara Part 1' by Allama Iqbal, chapter 1 ('Ajab waa'iz ki deen-daari hai ya Rabb'). The cited paragraph p-5edbd3 was pulled from the corpus and confirmed verbatim: 'What wondrous piety, for all to see, / He holds the entire world in enmity.' No must-not-hallucinate authors (Ghalib, Zauq, Cynewulf) were mentioned.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/needle-quote-iqbal-piety.json",
+    "Called read_chapter for allama-iqbal-bang-e-dara-part-1-55b25c chapter 1 variant=translation — confirmed full text opens with the quoted lines",
+    "Called get_passage for paragraph p-5edbd3 — resolved verbatim to 'What wondrous piety, for all to see,\\nHe holds the entire world in enmity.'"
+  ]
+}

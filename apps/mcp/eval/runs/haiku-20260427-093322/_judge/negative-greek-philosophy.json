@@ -1,0 +1,19 @@
+{
+  "case_id": "negative-greek-philosophy",
+  "category": "negative / hallucination guard",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "Candidate correctly confirmed zero Greek-language works and zero Plato-authored works via list_works calls, verified the corpus contains 38 works across Old English, Sanskrit, Urdu, French, German, and Kawi only, and noted Plato appears only as a referenced historical figure in secondary works — never asserting any must_not_hallucinate item as present.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/negative-greek-philosophy.json",
+    "Ran list_works {language: 'greek'} via MCP CLI — confirmed count: 0",
+    "Ran list_works {author: 'plato'} via MCP CLI — confirmed count: 0",
+    "Ran list_works {} via MCP CLI — confirmed count: 38 and languages (Old English, Sanskrit, Urdu, French, German, Kawi) match candidate's claim; no Greek works present"
+  ]
+}

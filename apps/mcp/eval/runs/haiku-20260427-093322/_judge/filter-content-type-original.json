@@ -1,0 +1,21 @@
+{
+  "case_id": "filter-content-type-original",
+  "category": "era / filter bounded",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "All four listed works (Andreas, Bang-E-Dara Part 1, Dunoyer Vol I, Fichte) confirmed to have original variants with exact counts matching the candidate's claims (1, 44, 13, 2 respectively); languages (Old English, Urdu, French, German) are correct. The question asked for 'a few examples' so not enumerating all ~20+ works with originals (e.g. Diwan-E-Ghalib with 239, Old English Elegies with 17, Comte volumes with 22 each) is acceptable.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/filter-content-type-original.json",
+    "Ran get_metadata for cynewulf-andreas-07b573: confirmed variant_types.original=1",
+    "Ran get_metadata for allama-iqbal-bang-e-dara-part-1-55b25c: confirmed variant_types.original=44",
+    "Ran get_metadata for charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce: confirmed variant_types.original=13",
+    "Ran get_metadata for johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde: confirmed variant_types.original=2",
+    "Ran list_works to enumerate all 38 works and spot-checked additional works (Diwan-E-Ghalib, Old English Elegies, Comte) to confirm candidate examples are a valid but non-exhaustive subset"
+  ]
+}

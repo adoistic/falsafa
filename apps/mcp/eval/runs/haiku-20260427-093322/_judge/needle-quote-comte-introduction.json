@@ -1,0 +1,20 @@
+{
+  "case_id": "needle-quote-comte-introduction",
+  "category": "needle: specific quote",
+  "factual_correctness": 1,
+  "citation_grounding": 2,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 2,
+  "total": 8,
+  "max": 12,
+  "pass": true,
+  "verdict": "BORDERLINE",
+  "rationale": "The candidate correctly identified Charles Comte (not Auguste Comte, avoiding the key hallucination trap) and its quote is verbatim from the cited work (Traité de la propriété Vol I, chapter 0 PRÉFACE). However, the question targets 'Traité de Législation' (confirmed by expected_answer_contains), not 'Traité de la propriété' — so the work identification is wrong. The citation is internally consistent (the slug + chapter 0 do contain the quoted sentence), but it grounds the wrong answer. Reasoning quality is partially sound: the candidate found both works, but picked the wrong one.",
+  "verifications_performed": [
+    "Read candidate answer file: identified claim about Traité de la propriété Vol I, chapter 0",
+    "Called list_works author=Charles Comte: confirmed both Traité de Législation (4 vols) and Traité de la propriété (2 vols) exist in corpus",
+    "Called read_chapter work_slug=charles-comte-traite-de-la-propriete-vol-i-2c7a99 chapter_number=0: verified candidate's quote is verbatim first sentence of that PRÉFACE",
+    "Called list_chapters work_slug=charles-comte-traite-de-legislation-vol-i-7e62a2: found PRÉFACE at chapter 22",
+    "Called read_chapter work_slug=charles-comte-traite-de-legislation-vol-i-7e62a2 chapter_number=22: confirmed first sentence is 'Men who write on the science of legislation may, in general, be divided into two great classes.' — not what the candidate quoted"
+  ]
+}

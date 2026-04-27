@@ -1,0 +1,18 @@
+{
+  "case_id": "edge-out-of-range-chapter",
+  "category": "edge / error handling",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly identified Andreas (cynewulf-andreas-07b573) as a single-chapter work and stated that chapter 999 does not exist, satisfying the required 'does not exist' phrase. The MCP CLI confirms total_logical_chapters=1 and that a read_chapter call for chapter 999 returns a CHAPTER_OUT_OF_RANGE error. The answer handled the error gracefully with three reasonable tool calls and did not retry or hallucinate.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/edge-out-of-range-chapter.json",
+    "Ran list_works '{\"author\":\"cynewulf\"}' — confirmed Andreas slug cynewulf-andreas-07b573 with total_logical_chapters: 1",
+    "Ran read_chapter '{\"work_slug\":\"cynewulf-andreas-07b573\",\"chapter_number\":999,\"variant\":\"translation\"}' — confirmed CHAPTER_OUT_OF_RANGE error with hint 'Valid chapter numbers: 1'"
+  ]
+}

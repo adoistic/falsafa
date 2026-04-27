@@ -1,0 +1,17 @@
+{
+  "case_id": "factual-comte-volumes",
+  "category": "factual lookup",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly identified 6 volumes: Traité de Législation Vols I–IV and Traité de la propriété Vols I–II. The corpus confirms exactly these 6 works under author 'Charles Comte'. No Auguste Comte hallucination present; no fabricated titles or counts.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/factual-comte-volumes.json",
+    "Ran list_works '{\"author\":\"Charles Comte\"}' via MCP CLI — confirmed 6 works matching the candidate's answer exactly: 4 × Traité de Législation and 2 × Traité de la propriété"
+  ]
+}

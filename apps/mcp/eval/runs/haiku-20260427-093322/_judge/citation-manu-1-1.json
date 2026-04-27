@@ -1,0 +1,20 @@
+{
+  "case_id": "citation-manu-1-1",
+  "category": "citation precision",
+  "factual_correctness": 3,
+  "citation_grounding": 1,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 10,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The quoted text is verbatim correct (confirmed via p-879544: 'The great sages, approaching Manu who was seated with a concentrated mind, duly honored him according to custom and spoke these words: // Mn_1.1 //'), and all four expected keywords (sages, Manu, concentrated, honored) are present. However, the cited paragraph_id 'p-0' does not exist in the corpus — the correct id is 'p-879544' — so get_passage returns empty for that citation, dropping citation_grounding to 1.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/citation-manu-1-1.json",
+    "Called read_chapter for unknown-manusmrti-347b76 chapter 1 translation and confirmed Mn_1.1 text matches candidate quote verbatim",
+    "Inspected translation.paragraphs.json and found correct paragraph_id for Mn_1.1 is 'p-879544', not 'p-0'",
+    "Called get_passage with p-0 — returned empty passages (invalid id)",
+    "Called get_passage with p-879544 — returned the Mn_1.1 verse verbatim, confirming ground truth"
+  ]
+}

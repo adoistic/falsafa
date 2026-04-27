@@ -1,0 +1,22 @@
+{
+  "case_id": "negative-quantum-mechanics",
+  "category": "negative / hallucination guard",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly answered 'no' and verified zero results for 'quantum' and 'cosmology', accurately characterized all 20 'particle' hits as metaphorical or religious (confirmed by independent re-run), and never mentioned Einstein, Planck, or Heisenberg. Genre checks for 'physics' and 'science' were a sensible belt-and-suspenders step.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/negative-quantum-mechanics.json",
+    "Re-ran search_corpus query=quantum — confirmed count=0",
+    "Re-ran search_corpus query=cosmology — confirmed count=0",
+    "Re-ran search_corpus query=particle — confirmed count=20, all results are poetry/smṛti metaphorical usage with no scientific physics content",
+    "Re-ran search_corpus query=Einstein — confirmed count=0 (not in corpus, not hallucinated)",
+    "Re-ran search_corpus query=Planck — confirmed count=0 (not in corpus, not hallucinated)",
+    "Re-ran search_corpus query=Heisenberg — confirmed count=0 (not in corpus, not hallucinated)"
+  ]
+}

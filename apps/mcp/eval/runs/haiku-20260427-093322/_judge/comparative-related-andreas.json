@@ -1,0 +1,21 @@
+{
+  "case_id": "comparative-related-andreas",
+  "category": "cross-tradition comparison",
+  "factual_correctness": 3,
+  "citation_grounding": 0,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 9,
+  "max": 12,
+  "pass": false,
+  "verdict": "FAIL",
+  "rationale": "All factual claims verified: Cynewulf authored Elene (cynewulf-elene-d2d132) and Juliana (cynewulf-juliana-9a2157), both Medieval Old English Advanced verse works; Old English Elegies ch.9 is indeed 'Resignation' (unknown-old-english-elegies-d5fe9e). Tool chain (list_works → find_related → get_metadata) is well-reasoned. However, expects_citation=true and citations=[] — no paragraph-level citations were provided in the citations field, which is required by the rubric (score 0 on citation_grounding). Total=9 but fails the 'no axis=0' condition.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/comparative-related-andreas.json",
+    "Ran list_works {author:cynewulf} — confirmed 3 Cynewulf works: Andreas, Elene, Juliana with correct slugs",
+    "Ran list_works {language:old_english} — confirmed unknown-old-english-elegies-d5fe9e exists with 17 chapters",
+    "Ran read_chapter for unknown-old-english-elegies-d5fe9e ch.9 — confirmed chapter_title is 'Resignation'",
+    "Ran get_metadata for cynewulf-elene-d2d132 — confirmed Medieval, Old English, Advanced, verse layout, Saint Helena / True Cross description matches candidate answer",
+    "Citations array is empty despite expects_citation=true"
+  ]
+}

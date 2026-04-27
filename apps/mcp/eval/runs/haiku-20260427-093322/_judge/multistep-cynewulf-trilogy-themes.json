@@ -1,0 +1,20 @@
+{
+  "case_id": "multistep-cynewulf-trilogy-themes",
+  "category": "multi-step reasoning",
+  "factual_correctness": 3,
+  "citation_grounding": 2,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 11,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "All three Cynewulf works (Andreas, Elene, Juliana) are correctly identified with accurate one-sentence themes grounded in actual corpus content. Paragraphs p-868413 (Andreas ch.1) and p-222dfa (Elene ch.1) both resolve and substantiate the claims; Juliana's citation correctly references ch.1 but has null for paragraph_id, which is a minor grounding gap rather than a fabrication.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/multistep-cynewulf-trilogy-themes.json",
+    "Ran list_works {author:'cynewulf'} — confirmed exactly 3 works: Andreas (cynewulf-andreas-07b573), Elene (cynewulf-elene-d2d132), Juliana (cynewulf-juliana-9a2157)",
+    "Pulled paragraph p-868413 from cynewulf-andreas-07b573 ch.1 — confirmed 'twelve true thanes' opening and Mermedonian missionary context",
+    "Pulled paragraph p-222dfa from cynewulf-elene-d2d132 ch.1 — confirmed Constantine's reign and True Cross quest opening",
+    "Read cynewulf-juliana-9a2157 ch.1 — confirmed Juliana's resistance to pagan reeve Eleusius, her martyrdom, and the hagiographic theme; paragraph_id was null in citation but chapter content matches the claim"
+  ]
+}

@@ -1,0 +1,18 @@
+{
+  "case_id": "negative-arabic-original",
+  "category": "negative / hallucination guard",
+  "factual_correctness": 2,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 11,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly answered 'No' and confirmed no Arabic-language works exist in the corpus, verified by running list_works with language=arabic which returned 0 results. The core factual claim is fully correct; minor deductions for inaccurate per-language counts in the breakdown (candidate claimed French=4 and Kawi=6, but actual counts are French=8 and Kawi=9). No must_not_hallucinate items (Quran, Hadith, Ibn Sina, Al-Ghazali, Rumi) were mentioned at all.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/negative-arabic-original.json",
+    "Ran list_works with language=arabic via MCP CLI, confirmed 0 results",
+    "Ran list_works with no filter to verify all 38 works and their languages — no Arabic found; confirmed languages are old_english, Sanskrit, Urdu, Kawi, French, German"
+  ]
+}

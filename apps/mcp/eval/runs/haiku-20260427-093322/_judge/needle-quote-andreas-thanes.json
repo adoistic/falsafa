@@ -1,0 +1,18 @@
+{
+  "case_id": "needle-quote-andreas-thanes",
+  "category": "needle: specific quote",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "Candidate correctly identified the work as 'Andreas' by Cynewulf (slug: cynewulf-andreas-07b573, chapter 1). The cited paragraph p-868413 was pulled via MCP and confirmed to contain the exact verbatim quote 'We have heard of heroes in ages past, of twelve true thanes under the turning stars'. No forbidden works (Beowulf, Wanderer, Seafarer) were mentioned.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/needle-quote-andreas-thanes.json",
+    "Pulled paragraph p-868413 from cynewulf-andreas-07b573 chapter 1 via MCP CLI and confirmed quote is verbatim",
+    "Confirmed no hallucinated works (Beowulf, Wanderer, Seafarer) appear in the candidate answer"
+  ]
+}

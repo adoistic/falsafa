@@ -1,0 +1,22 @@
+{
+  "case_id": "needle-theme-kingship",
+  "category": "needle: vague thematic",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "Both required works (Manusmṛti Ch. 7 and Kātyāyana Smṛti Ch. 2) are correctly identified with accurate chapter numbers; Kātyāyana Ch. 2 is confirmed titled 'The Duties of a King' within its body. All five cited paragraph IDs resolve to real paragraphs that substantiate the claims. 'Arthashastra' appears only as a text referenced inside a Naradasmrti corpus paragraph, not as an asserted corpus member — no hallucination.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/needle-theme-kingship.json",
+    "Pulled paragraph p-ed41e6 from unknown-katyayana-smrti-1e06d2 Ch. 2 — confirmed it exists and is within a chapter titled 'The Duties of a King' (verified via read_chapter body)",
+    "Pulled paragraph p-0952cb from unknown-manusmrti-347b76 Ch. 7 — confirmed it exists and discusses appointing ministers (kingship content)",
+    "Pulled paragraph p-d8a012 from unknown-brhaspati-smrti-0fd070 Ch. 1 — confirmed the dharma-tree / king-as-trunk metaphor",
+    "Pulled paragraph p-b28206 from unknown-naradasmrti-7650d2 Ch. 1 — confirmed text references Dharmashastra and Arthashastra as external texts in legal context; candidate description accurate",
+    "Pulled paragraph p-eabeb6 from unknown-viramitrodaya-d4b632 Ch. 1 — confirmed colophon describes work as 'sole abode of dharma and artha'; citation weakest but present and not fabricated",
+    "Verified no must_not_hallucinate items (Arthashastra as corpus work, Kautilya, Machiavelli) are asserted as corpus members"
+  ]
+}

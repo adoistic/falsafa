@@ -1,0 +1,19 @@
+{
+  "case_id": "filter-era-medieval",
+  "category": "era / filter bounded",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "Candidate used list_works with era=Medieval, correctly retrieved all 15 works, and listed them with matching slugs, titles, and authors. The prose summary groups them by tradition accurately; the minor phrasing 'Old English Elegies (5 works)' is slightly misleading (it is 1 collection work, not 5 distinct entries) but does not constitute a factual error since the citation correctly records it as a single work. No fabricated works or authors detected.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/filter-era-medieval.json",
+    "Ran list_works {\"era\":\"Medieval\"} via mcp-cli.ts and confirmed count=15 matching the candidate's result_count=15",
+    "Cross-checked all 15 slugs in candidate citations against corpus response — all slugs, titles, and authors match exactly",
+    "Confirmed no extra or missing works (notes mentioned ~15, corpus returns exactly 15)"
+  ]
+}

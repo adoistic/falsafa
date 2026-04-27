@@ -1,0 +1,21 @@
+{
+  "case_id": "needle-quote-visnu-boar",
+  "category": "needle: specific quote",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly identified Viṣṇu Smṛti (work slug: unknown-visnu-smrti-27f0d8), Chapter 1 as the source. The quoted text ('Took on the auspicious form of the Boar, delighting in sport in the water, as in previous cosmic ages, And lifted up the Earth.') is verbatim from Vi_1.2 in the chapter. Paragraphs Vi_1.10 and Vi_1.11 likewise confirm the Earth sinking into the cosmic ocean and being lifted on Vishnu's tusk — all three paragraph IDs exist and contain exactly what the answer claims.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/needle-quote-visnu-boar.json",
+    "Called read_chapter for unknown-visnu-smrti-27f0d8 chapter 1 and confirmed full chapter body",
+    "Verified Vi_1.2 contains the verbatim quote about the Boar form lifting the Earth",
+    "Verified Vi_1.10 contains the passage about Earth sinking into the single cosmic ocean",
+    "Verified Vi_1.11 contains the passage about lifting Earth on the tip of Vishnu's tusk",
+    "Confirmed work slug, chapter number, and all three paragraph IDs are correct"
+  ]
+}

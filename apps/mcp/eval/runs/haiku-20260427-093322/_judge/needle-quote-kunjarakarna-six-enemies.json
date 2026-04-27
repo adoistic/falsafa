@@ -1,0 +1,18 @@
+{
+  "case_id": "needle-quote-kunjarakarna-six-enemies",
+  "category": "needle: specific quote",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly identified the work as Kunjarakarna Dharmakathana by Mpu Dusun, cited work_slug unknown-kunjarakarna-dharmakathana-894f4a, chapter 1, paragraph p-979379. Pulling p-979379 from the corpus confirms the quoted passage is verbatim, including all four lines and the dharma-śūnyatā phrasing.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/needle-quote-kunjarakarna-six-enemies.json",
+    "Called get_passage for work_slug unknown-kunjarakarna-dharmakathana-894f4a, chapter 1, paragraph p-979379 — confirmed quote is verbatim",
+    "Called get_metadata for work_slug unknown-kunjarakarna-dharmakathana-894f4a — confirmed author is Mpu Dusun, title is Kunjarakarna Dharmakathana"
+  ]
+}

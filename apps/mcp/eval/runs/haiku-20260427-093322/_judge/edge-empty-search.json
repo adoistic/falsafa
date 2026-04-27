@@ -1,0 +1,17 @@
+{
+  "case_id": "edge-empty-search",
+  "category": "edge / error handling",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly reports zero results for all four search_corpus calls (combined query plus each individual nonsense term). Re-running search_corpus confirmed 0 results. No fabricated matches or hallucinated chapters were introduced.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/edge-empty-search.json",
+    "Ran search_corpus with query 'xyzzy plugh frobnicate' via MCP CLI — confirmed 0 results"
+  ]
+}

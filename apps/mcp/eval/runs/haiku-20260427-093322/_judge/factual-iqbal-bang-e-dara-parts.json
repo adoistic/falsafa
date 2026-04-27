@@ -1,0 +1,18 @@
+{
+  "case_id": "factual-iqbal-bang-e-dara-parts",
+  "category": "factual lookup",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly identifies Bang-E-Dara as 3 separate works (Part 1, 2, 3), each with the correct chapter counts (44, 28, 28) and the correct publication year (1924). All three work slugs are real and resolve to the claimed chapter totals, verified via list_works and directory listing.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/factual-iqbal-bang-e-dara-parts.json",
+    "Ran list_works {\"author\":\"iqbal\"} via MCP CLI — confirmed 3 works with slugs allama-iqbal-bang-e-dara-part-1-55b25c (44 chapters), allama-iqbal-bang-e-dara-part-2-9bc58c (28 chapters), allama-iqbal-bang-e-dara-part-3-cc61e8 (28 chapters)",
+    "Verified directory-level chapter counts via ls on each corpus/works/*/chapters/ folder — counts 44, 28, 28 match exactly"
+  ]
+}

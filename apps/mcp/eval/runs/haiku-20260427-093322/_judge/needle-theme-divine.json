@@ -1,0 +1,23 @@
+{
+  "case_id": "needle-theme-divine",
+  "category": "needle: vague thematic",
+  "factual_correctness": 3,
+  "citation_grounding": 1,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 10,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The answer correctly identifies 3 works from 3 distinct traditions (Urdu/Iqbal Bang-e-Dara, Sanskrit/Manusmrti, Old English/Elene) and characterizes each tradition's conception of the divine faithfully — quotes were verified as verbatim in the corpus text. However, all four cited paragraph_ids are fabricated sequential IDs (p-001, p-016) that do not exist; actual corpus IDs are hash-based (e.g. p-5edbd3). The paragraph IDs resolve to empty passages, so citation grounding is only partial credit since the work_slug and chapter_number are correct and the quoted text genuinely appears in those chapters.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/needle-theme-divine.json",
+    "Called get_passage for allama-iqbal-bang-e-dara-part-1-55b25c ch1 p-001 — returned empty passages (ID does not exist)",
+    "Called get_passage for allama-iqbal-bang-e-dara-part-1-55b25c ch16 p-016 — returned empty passages (ID does not exist)",
+    "Called read_chapter for allama-iqbal-bang-e-dara-part-1-55b25c ch1 — confirmed quoted line 'The very source that gives the night its dark, Is where the star receives its shining spark' is verbatim",
+    "Called read_chapter for allama-iqbal-bang-e-dara-part-1-55b25c ch16 — confirmed quoted lines 'O God, may my life be like a candle's flare' and 'My God! Protect me from all that is wrong, And guide me on the righteous path' are verbatim",
+    "Called read_chapter for unknown-manusmrti-347b76 ch1 — confirmed quoted lines 'the divine Self-existent One, himself unmanifest, manifesting this universe with the great elements' (Mn_1.6) and 'He who is beyond the grasp of the senses, who is subtle, unmanifest, and eternal, who is the soul of all beings and inconceivable' (Mn_1.7) are verbatim",
+    "Called read_chapter for cynewulf-elene-d2d132 ch1 — confirmed 'a shining spirit appeared in his sleep, a heavenly herald', 'the Lord of Hosts', 'the Wielder of Mights', and 'the Glory-King' all appear in text",
+    "Read translation.paragraphs.json for Bang-e-Dara ch1 — actual IDs are hash-based (p-5edbd3, p-f652bc, etc.), confirming p-001 is fabricated"
+  ]
+}

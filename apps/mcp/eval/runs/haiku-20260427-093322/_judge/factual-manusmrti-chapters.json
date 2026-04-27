@@ -1,0 +1,19 @@
+{
+  "case_id": "factual-manusmrti-chapters",
+  "category": "factual lookup",
+  "factual_correctness": 3,
+  "citation_grounding": 2,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 11,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly identified 12 chapters for Manusmṛti and accurately described Chapter 1 as the creation narrative (sages approaching Manu, the Self-existent One manifesting the cosmos, creation of Brahma, various beings, four varnas, declaration of Dharma) — all verified against the corpus. The citation resolves correctly at the work_slug and chapter_number level; the paragraph_id 'p-1' did not directly resolve via get_passage (the chapter uses verse-embedded IDs like Mn_1.1), but the overall citation is grounded since the chapter content fully supports every claim made.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/factual-manusmrti-chapters.json",
+    "Ran list_works with author='Manu' — confirmed 1 work: unknown-manusmrti-347b76 with total_logical_chapters=12",
+    "Ran read_chapter for work_slug=unknown-manusmrti-347b76, chapter_number=1, variant=translation — confirmed 119 paragraphs, 3360 words, creation cosmogony content, four varnas, Dharma declaration matching candidate's description",
+    "Ran get_passage for paragraph_id='p-1' — returned empty passages array (ID format mismatch); chapter-level citation is still valid and substantiates all claims"
+  ]
+}

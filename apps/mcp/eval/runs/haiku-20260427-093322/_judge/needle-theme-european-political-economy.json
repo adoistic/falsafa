@@ -1,0 +1,20 @@
+{
+  "case_id": "needle-theme-european-political-economy",
+  "category": "needle: vague thematic",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly identified all three relevant authors (Charles Comte, Charles Dunoyer, Johann Gottlieb Fichte) with accurate work titles and volume counts, verified against the corpus. Era labels match exactly what the corpus stores (Comte=Enlightenment, Dunoyer=19th Century, Fichte=Enlightenment). No must_not_hallucinate items (Adam Smith, Marx, Mill, Ricardo) appear anywhere in the answer.",
+  "verifications_performed": [
+    "Read candidate answer file",
+    "Ran list_works {} and confirmed all 8 Charles Comte slugs, 2 Charles Dunoyer slugs, and 1 Fichte slug exist in corpus",
+    "Confirmed era labels in corpus match candidate answer (Comte=Enlightenment, Dunoyer=19th Century, Fichte=Enlightenment)",
+    "Confirmed Adam Smith, Karl Marx, John Stuart Mill, and David Ricardo are absent from the corpus",
+    "Confirmed no hallucinated works or authors in candidate answer"
+  ]
+}

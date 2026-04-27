@@ -1,0 +1,19 @@
+{
+  "case_id": "citation-iqbal-bang-1-1",
+  "category": "citation precision",
+  "factual_correctness": 3,
+  "citation_grounding": 1,
+  "hallucination_avoidance": 2,
+  "reasoning_quality": 3,
+  "total": 9,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The answer correctly identifies chapter 1 of Bang-E-Dara Part 1 and quotes the opening couplet verbatim ('What wondrous piety, for all to see, / He holds the entire world in enmity.') as confirmed in the corpus (paragraph p-5edbd3). However, the cited paragraph_id 'p-1-opening' is fabricated — it does not resolve via get_passage; the actual ID is p-5edbd3. Since the textual content is accurate but the paragraph_id is invented, citation_grounding is penalized to 1 and hallucination_avoidance to 2.",
+  "verifications_performed": [
+    "Read candidate answer at apps/mcp/eval/runs/haiku-20260427-093322/citation-iqbal-bang-1-1.json",
+    "Called read_chapter for work_slug=allama-iqbal-bang-e-dara-part-1-55b25c chapter_number=1 variant=translation — confirmed opening couplet matches the candidate quote verbatim",
+    "Called get_passage with paragraph_id='p-1-opening' — returned empty passages array, confirming the cited paragraph_id does not exist",
+    "Read translation.paragraphs.json directly — confirmed real opening paragraph has id='p-5edbd3' with text matching the quote"
+  ]
+}

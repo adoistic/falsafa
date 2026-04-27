@@ -1,0 +1,18 @@
+{
+  "case_id": "needle-quote-yajnavalkya-yogis",
+  "category": "needle: specific quote",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "Candidate correctly identified X as Yājñavalkya and the work as Yājñavalkya Smṛti. The cited paragraph p-97f0a4 in chapter 1 of unknown-yajnavalkya-smrti-cb88d6 contains the verbatim opening verse matching the user's query. No hallucinated authors (Manu, Vishnu, Yama) were mentioned.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/needle-quote-yajnavalkya-yogis.json",
+    "Pulled paragraph p-97f0a4 from unknown-yajnavalkya-smrti-cb88d6 chapter 1 via get_passage and confirmed the quote is verbatim: 'Having honored Yājñavalkya, the lord of yogis, the sages spoke: Declare to us in their entirety the dharma of the varṇas, the life-stages, and the others. // Yj_1.1 //'",
+    "Confirmed no must_not_hallucinate terms (Manu, Vishnu, Yama) appear in the answer"
+  ]
+}

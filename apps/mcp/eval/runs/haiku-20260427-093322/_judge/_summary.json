@@ -1,0 +1,506 @@
+{
+  "run_dir": "apps/mcp/eval/runs/haiku-20260427-093322",
+  "cases_judged": 44,
+  "pass": 43,
+  "perfect": 32,
+  "points": 504,
+  "max": 528,
+  "by_category": {
+    "negative / hallucination guard": {
+      "pass": 5,
+      "total": 5,
+      "pts": 59,
+      "maxPts": 60
+    },
+    "era / filter bounded": {
+      "pass": 4,
+      "total": 4,
+      "pts": 48,
+      "maxPts": 48
+    },
+    "factual lookup": {
+      "pass": 5,
+      "total": 5,
+      "pts": 59,
+      "maxPts": 60
+    },
+    "citation precision": {
+      "pass": 5,
+      "total": 5,
+      "pts": 55,
+      "maxPts": 60
+    },
+    "needle: specific quote": {
+      "pass": 8,
+      "total": 8,
+      "pts": 92,
+      "maxPts": 96
+    },
+    "edge / error handling": {
+      "pass": 3,
+      "total": 3,
+      "pts": 36,
+      "maxPts": 36
+    },
+    "cross-tradition comparison": {
+      "pass": 3,
+      "total": 4,
+      "pts": 43,
+      "maxPts": 48
+    },
+    "multi-step reasoning": {
+      "pass": 4,
+      "total": 4,
+      "pts": 44,
+      "maxPts": 48
+    },
+    "needle: vague thematic": {
+      "pass": 6,
+      "total": 6,
+      "pts": 68,
+      "maxPts": 72
+    }
+  },
+  "per_case": [
+    {
+      "id": "needle-quote-comte-introduction",
+      "cat": "needle: specific quote",
+      "factual": 1,
+      "cite": 2,
+      "halluc": 3,
+      "reasoning": 2,
+      "total": 8,
+      "verdict": "BORDERLINE"
+    },
+    {
+      "id": "comparative-related-andreas",
+      "cat": "cross-tradition comparison",
+      "factual": 3,
+      "cite": 0,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 9,
+      "verdict": "FAIL"
+    },
+    {
+      "id": "multistep-three-variant-works",
+      "cat": "multi-step reasoning",
+      "factual": 1,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 2,
+      "total": 9,
+      "verdict": "BORDERLINE"
+    },
+    {
+      "id": "citation-iqbal-bang-1-1",
+      "cat": "citation precision",
+      "factual": 3,
+      "cite": 1,
+      "halluc": 2,
+      "reasoning": 3,
+      "total": 9,
+      "verdict": "PASS"
+    },
+    {
+      "id": "citation-manu-1-1",
+      "cat": "citation precision",
+      "factual": 3,
+      "cite": 1,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 10,
+      "verdict": "PASS"
+    },
+    {
+      "id": "needle-theme-exile",
+      "cat": "needle: vague thematic",
+      "factual": 3,
+      "cite": 2,
+      "halluc": 2,
+      "reasoning": 3,
+      "total": 10,
+      "verdict": "PASS"
+    },
+    {
+      "id": "needle-theme-divine",
+      "cat": "needle: vague thematic",
+      "factual": 3,
+      "cite": 1,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 10,
+      "verdict": "PASS"
+    },
+    {
+      "id": "negative-arabic-original",
+      "cat": "negative / hallucination guard",
+      "factual": 2,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 11,
+      "verdict": "PASS"
+    },
+    {
+      "id": "comparative-ghalib-zauq-style",
+      "cat": "cross-tradition comparison",
+      "factual": 3,
+      "cite": 2,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 11,
+      "verdict": "PASS"
+    },
+    {
+      "id": "factual-manusmrti-chapters",
+      "cat": "factual lookup",
+      "factual": 3,
+      "cite": 2,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 11,
+      "verdict": "PASS"
+    },
+    {
+      "id": "comparative-cynewulf-iqbal-divine",
+      "cat": "cross-tradition comparison",
+      "factual": 3,
+      "cite": 2,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 11,
+      "verdict": "PASS"
+    },
+    {
+      "id": "multistep-cynewulf-trilogy-themes",
+      "cat": "multi-step reasoning",
+      "factual": 3,
+      "cite": 2,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 11,
+      "verdict": "PASS"
+    },
+    {
+      "id": "negative-tamil",
+      "cat": "negative / hallucination guard",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "filter-era-medieval",
+      "cat": "era / filter bounded",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "factual-iqbal-bang-e-dara-parts",
+      "cat": "factual lookup",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "citation-ghalib-168-couplet",
+      "cat": "citation precision",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "needle-quote-iqbal-piety",
+      "cat": "needle: specific quote",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "edge-invalid-language",
+      "cat": "edge / error handling",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "comparative-dharma-east-west",
+      "cat": "cross-tradition comparison",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "factual-corpus-counts",
+      "cat": "factual lookup",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "multistep-mention-divine-wordcount",
+      "cat": "multi-step reasoning",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "negative-modern-fiction",
+      "cat": "negative / hallucination guard",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "needle-quote-kunjarakarna-six-enemies",
+      "cat": "needle: specific quote",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "needle-quote-yajnavalkya-yogis",
+      "cat": "needle: specific quote",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "edge-out-of-range-chapter",
+      "cat": "edge / error handling",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "filter-language-sanskrit",
+      "cat": "era / filter bounded",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "needle-quote-visnu-boar",
+      "cat": "needle: specific quote",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "citation-andreas-original-text",
+      "cat": "citation precision",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "needle-theme-european-political-economy",
+      "cat": "needle: vague thematic",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "citation-andreas-opening-exact",
+      "cat": "citation precision",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "needle-theme-debt",
+      "cat": "needle: vague thematic",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "needle-quote-andreas-thanes",
+      "cat": "needle: specific quote",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "multistep-medieval-philosophy-shortest",
+      "cat": "multi-step reasoning",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "factual-cynewulf-works",
+      "cat": "factual lookup",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "edge-empty-search",
+      "cat": "edge / error handling",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "negative-greek-philosophy",
+      "cat": "negative / hallucination guard",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "filter-content-type-original",
+      "cat": "era / filter bounded",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "needle-theme-kingship",
+      "cat": "needle: vague thematic",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "negative-quantum-mechanics",
+      "cat": "negative / hallucination guard",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "needle-theme-courage",
+      "cat": "needle: vague thematic",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "needle-quote-manu-sages",
+      "cat": "needle: specific quote",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "needle-quote-ghalib-place-no-one-known",
+      "cat": "needle: specific quote",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "factual-comte-volumes",
+      "cat": "factual lookup",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    },
+    {
+      "id": "filter-author-iqbal",
+      "cat": "era / filter bounded",
+      "factual": 3,
+      "cite": 3,
+      "halluc": 3,
+      "reasoning": 3,
+      "total": 12,
+      "verdict": "PASS"
+    }
+  ]
+}

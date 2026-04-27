@@ -1,0 +1,21 @@
+{
+  "case_id": "multistep-three-variant-works",
+  "category": "multi-step reasoning",
+  "factual_correctness": 1,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 2,
+  "total": 9,
+  "max": 12,
+  "pass": true,
+  "verdict": "BORDERLINE",
+  "rationale": "The candidate correctly identified 7 works with all 3 variants, but the corpus actually has 9 such works — Bang-E-Dara Part 1 (allama-iqbal-bang-e-dara-part-1-55b25c, variant_types: original=44, translation=43, transliteration=44) and Bang-E-Dara Part 2 (allama-iqbal-bang-e-dara-part-2-9bc58c, variant_types: original=28, translation=27, transliteration=28) were both omitted. The brief's notes explicitly state 'Iqbal Bang-E-Dara parts have all 3', making this a meaningful factual gap. The reasoning chain was sensible (get_metadata per work), but the candidate apparently checked only Part 3 and missed Parts 1 and 2.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/multistep-three-variant-works.json",
+    "Ran list_works '{}' and computed variants/chapters ratio for all 38 works — found 9 works at ratio=3.0",
+    "Ran get_metadata for allama-iqbal-bang-e-dara-part-1-55b25c — confirmed variant_types: {original: 44, translation: 43, transliteration: 44}",
+    "Ran get_metadata for allama-iqbal-bang-e-dara-part-2-9bc58c — confirmed variant_types: {original: 28, transliteration: 28, translation: 27}",
+    "Ran read_chapter on Bang-E-Dara Part 1 chapter 1 — confirmed available_variants: [original, translation, transliteration]",
+    "Confirmed Sanskrit smritis (e.g. Manusmrti) have only 2 variants: {translation, transliteration} — no original-script — so not 3-variant works"
+  ]
+}

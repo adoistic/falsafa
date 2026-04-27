@@ -1,0 +1,17 @@
+{
+  "case_id": "filter-language-sanskrit",
+  "category": "era / filter bounded",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly identified all 11 Sanskrit-language works in the corpus with accurate slugs, titles, and authors. Re-running list_works confirms the exact same 11 works; all three expected terms (Manu, Yājñavalkya, Smṛti) are present, and no non-existent works are invented.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/filter-language-sanskrit.json",
+    "Ran list_works {} via MCP CLI and filtered for language=Sanskrit; confirmed count=11 and all slugs/titles match the candidate answer exactly"
+  ]
+}

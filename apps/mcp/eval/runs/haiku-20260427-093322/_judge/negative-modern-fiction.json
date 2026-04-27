@@ -1,0 +1,19 @@
+{
+  "case_id": "negative-modern-fiction",
+  "category": "negative / hallucination guard",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly answered 'No' and accurately identified the three 20th-century works (all three Bang-E-Dara parts by Iqbal, poetry not novels). Verified via list_works: all 38 works confirmed, none are novels, no mention of Joyce/Proust/Kafka/Tolstoy/Dostoevsky. The answer states the corpus contains no novels of any era, which is correct.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/negative-modern-fiction.json",
+    "Ran list_works '{}' via MCP CLI and confirmed 38 works, exactly 3 marked era='20th Century' (all Bang-E-Dara parts)",
+    "Searched list_works output for 'novel', 'fiction', 'prose narrative' — zero matches",
+    "Confirmed none of the must_not_hallucinate names (Joyce, Proust, Kafka, Tolstoy, Dostoevsky) appear in the candidate answer"
+  ]
+}

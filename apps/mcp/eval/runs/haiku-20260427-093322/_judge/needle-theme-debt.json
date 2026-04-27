@@ -1,0 +1,21 @@
+{
+  "case_id": "needle-theme-debt",
+  "category": "needle: vague thematic",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly identified Bṛhaspati Smṛti as the work with the most detailed debt treatment, naming the dedicated '1.10 The Recovery of Debt' section with subsections on interest types, pledges, and sureties, and correctly acknowledged Kātyāyana Smṛti as also covering debt (chapters 45–53 confirmed in corpus). All 5 cited paragraph IDs resolved exactly to the claimed section headers in Bṛhaspati Smṛti ch.1. The '24 of 30 search results for debt' claim matched exactly. Minor off-by-one on surety split (claimed 16/14, actual 15/15) is negligible and does not change the conclusion.",
+  "verifications_performed": [
+    "Read candidate answer file apps/mcp/eval/runs/haiku-20260427-093322/needle-theme-debt.json",
+    "Pulled all 5 cited paragraphs (p-bfcdde, p-b34290, p-4b56da, p-694e65, p-8df117) from unknown-brhaspati-smrti-0fd070 ch.1 — all resolved to claimed debt-section headers/verses",
+    "Ran search_corpus {query:'debt'} and confirmed 24/30 results from Bṛhaspati Smṛti (exact match)",
+    "Ran search_corpus {query:'surety'} — found 15 Bṛhaspati + 15 Kātyāyana (candidate claimed 16/14, negligible discrepancy)",
+    "Ran list_works and confirmed Kātyāyana Smṛti (unknown-katyayana-smrti-1e06d2) is present in corpus",
+    "Browsed Kātyāyana Smṛti chapters 44–53 and confirmed debt-related chapters exist (interest, recovery of debt, pledge, sureties), supporting the comparative claim that Bṛhaspati has more comprehensive coverage"
+  ]
+}

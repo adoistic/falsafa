@@ -1,0 +1,19 @@
+{
+  "case_id": "needle-quote-ghalib-place-no-one-known",
+  "category": "needle: specific quote",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly identified Mirza Ghalib's Diwan-E-Ghalib (work slug mirza-ghalib-diwan-e-ghalib-74ed4c), chapter 168, titled 'Rahiye ab aisi jagah chal kar jahan koi na ho'. Paragraph p-3a3448 was pulled via MCP CLI and contains the exact verbatim lines requested. No hallucinated authors (Iqbal, Zauq) appear in the answer.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/needle-quote-ghalib-place-no-one-known.json",
+    "Pulled paragraph p-3a3448 from mirza-ghalib-diwan-e-ghalib-74ed4c chapter 168 via MCP CLI get_passage",
+    "Confirmed paragraph text is verbatim: 'Let's find a place where no one else is known, and be alone. No kindred voice, no soul to call my own, and be alone.'",
+    "Confirmed no mention of must_not_hallucinate items (Iqbal, Zauq) in the answer"
+  ]
+}

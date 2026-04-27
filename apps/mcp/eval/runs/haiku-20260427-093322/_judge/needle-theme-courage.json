@@ -1,0 +1,21 @@
+{
+  "case_id": "needle-theme-courage",
+  "category": "needle: vague thematic",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "All five cited paragraphs were pulled from the corpus and every quote snippet is verbatim. The answer correctly identifies courage passages from three distinct traditions (Old English Andreas, Urdu Iqbal and Ghalib, Sanskrit Manusmṛti), satisfying the cross-tradition requirement. Tool-call reasoning is coherent and systematic: the candidate searched broadly, then drilled into specific works and paragraphs.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/needle-theme-courage.json",
+    "Pulled p-c1cb54 from cynewulf-andreas-07b573 ch.1 — quote 'the resolute champion, spurred on by courage' confirmed verbatim",
+    "Pulled p-ee0ccd from allama-iqbal-bang-e-dara-part-1-55b25c ch.38 — quote 'Courage is the staff of those who master statecraft's design' confirmed verbatim",
+    "Pulled p-251ce8 from unknown-manusmrti-347b76 ch.8 — quote 'Kings who…fight with their utmost power without turning their backs, go to heaven' confirmed verbatim",
+    "Pulled p-523a9f from allama-iqbal-bang-e-dara-part-3-cc61e8 ch.7 (Falsafa-e-Gham) — quote 'When Courage, our great guide, from all desire has turned aside' confirmed verbatim",
+    "Pulled p-8b8083 from mirza-ghalib-diwan-e-ghalib-74ed4c ch.121 — quote 'The sweat from courage's stallion is a flood that leaves the saddle overthrown' confirmed verbatim"
+  ]
+}

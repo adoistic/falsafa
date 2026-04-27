@@ -1,0 +1,18 @@
+{
+  "case_id": "edge-invalid-language",
+  "category": "edge / error handling",
+  "factual_correctness": 3,
+  "citation_grounding": 3,
+  "hallucination_avoidance": 3,
+  "reasoning_quality": 3,
+  "total": 12,
+  "max": 12,
+  "pass": true,
+  "verdict": "PASS",
+  "rationale": "The candidate correctly called list_works with language=Klingon, received 0 results, and reported there are no Klingon works in the corpus. The listed actual corpus languages (Old English, Sanskrit, Urdu, French, German, Kawi) exactly match what list_works '{}' returns. Klingon is mentioned only as a denial, never fabricated as an existing language.",
+  "verifications_performed": [
+    "Read candidate answer file at apps/mcp/eval/runs/haiku-20260427-093322/edge-invalid-language.json",
+    "Ran list_works '{\"language\":\"Klingon\"}' via MCP CLI — confirmed 0 works returned",
+    "Ran list_works '{}' via MCP CLI and extracted distinct languages: French, German, Kawi, Sanskrit, Urdu, old_english — matches the six languages the candidate listed"
+  ]
+}
