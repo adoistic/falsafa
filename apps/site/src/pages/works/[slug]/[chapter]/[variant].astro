@@ -9,6 +9,7 @@ import {
   readChapterVariant,
   readWorkIndex,
   type ContentType,
+  type ChapterVariantContent,
 } from "../../../../lib/corpus";
 
 export const getStaticPaths = (() => {
@@ -39,8 +40,14 @@ const chapters = listChapters(workSlug);
 const chapterIndex = chapters.findIndex((c) => c.chapter_slug === chapterSlug);
 const prev = chapterIndex > 0 ? chapters[chapterIndex - 1] : null;
 const next = chapterIndex < chapters.length - 1 ? chapters[chapterIndex + 1] : null;
+// Single-chapter works (e.g. Cynewulf's Andreas/Elene/Juliana, the Comte
+// volumes) carry no meaningful chapter title — the chapter IS the work. So
+// the reader page drops the "Chapter 1" h1 and the work-title sub-link, and
+// suppresses the prev/next/contents footer (no neighbors, and the
+// work-detail page is now ToC-less anyway).
+const isSingleChapter = chapters.length === 1;
 
-function bylineFor(v: typeof variant) {
+function bylineFor(v: ChapterVariantContent) {
   if (v.frontmatter.translator) return { verb: "Translated by", who: "Thothica" };
   if (v.frontmatter.transliterator) return { verb: "Transliterated by", who: "Thothica" };
   if (v.frontmatter.curator) return { verb: "Curated by", who: "Thothica" };
@@ -68,8 +75,12 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
 ---
 
 <Reader
-  title={`${variant.meta.chapter_title} · ${work.title}`}
-  description={`${work.title} by ${work.author} — chapter ${variant.meta.chapter_number}, ${variantType}`}
+  title={isSingleChapter ? work.title : `${variant.meta.chapter_title} · ${work.title}`}
+  description={
+    isSingleChapter
+      ? `${work.title} by ${work.author} — ${variantType}`
+      : `${work.title} by ${work.author} — chapter ${variant.meta.chapter_number}, ${variantType}`
+  }
   ogImage={idx?.cover_url ?? undefined}
   layout={variant.meta.layout}
 >
@@ -80,10 +91,24 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
   )}
 
   <header class="reader-header">
-    <p class="work-title">
-      <a href={`/works/${work.slug}/`}>{work.title}</a>
+    {!isSingleChapter && (
+      <p class="work-title">
+        <a href={`/works/${work.slug}/`} data-pagefind-meta="work">{work.title}</a>
+      </p>
+    )}
+    <h1 data-pagefind-meta="title">{isSingleChapter ? work.title : displayChapterTitle}</h1>
+    {isSingleChapter && <span data-pagefind-meta="work" hidden>{work.title}</span>}
+    {/* Hidden pagefind filter facets — extracted at build time, drive the
+        author/era/language chips in the search dialog. Filter VALUE is
+        the human-readable label (matches manifest); chip rendering shows
+        the same string back. Source language uses --source not --display
+        because some works are English-translated-from-X. */}
+    <span data-pagefind-filter={`era:${work.era}`} hidden>{work.era}</span>
+    <span data-pagefind-filter={`author:${work.author}`} hidden>{work.author}</span>
+    <span data-pagefind-filter={`language:${work.language}`} hidden>{work.language}</span>
+    <p class="author">
+      <a href={`/authors/${work.author_slug}/`}>{work.author}</a>
     </p>
-    <h1>{displayChapterTitle}</h1>
     {byline && (
       <p class="byline">
         {byline.verb}{" "}
@@ -97,24 +122,26 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
 
   <ChapterBody body={variant.body} frontmatter={variant.frontmatter} />
 
-  <footer class="reader-footer">
-    {prev ? (
-      <a class="nav-link" href={`/works/${work.slug}/${prev.chapter_slug}/${variant.variant.content_type}/`}>
-        ← Previous
-        <strong>{prev.chapter_title}</strong>
-      </a>
-    ) : <span />}
+  {!isSingleChapter && (
+    <footer class="reader-footer">
+      {prev ? (
+        <a class="nav-link" href={`/works/${work.slug}/${prev.chapter_slug}/${variant.variant.content_type}/`}>
+          ← Previous
+          <strong>{prev.chapter_title}</strong>
+        </a>
+      ) : <span />}
 
-    <a class="nav-link" href={`/works/${work.slug}/`} style="text-align: center">
-      Contents
-      <strong>{work.title}</strong>
-    </a>
-
-    {next ? (
-      <a class="nav-link" href={`/works/${work.slug}/${next.chapter_slug}/${variant.variant.content_type}/`} style="text-align: right">
-        Next →
-        <strong>{next.chapter_title}</strong>
+      <a class="nav-link" href={`/works/${work.slug}/`} style="text-align: center">
+        Contents
+        <strong>{work.title}</strong>
       </a>
-    ) : <span />}
-  </footer>
+
+      {next ? (
+        <a class="nav-link" href={`/works/${work.slug}/${next.chapter_slug}/${variant.variant.content_type}/`} style="text-align: right">
+          Next →
+          <strong>{next.chapter_title}</strong>
+        </a>
+      ) : <span />}
+    </footer>
+  )}
 </Reader>

@@ -22,8 +22,59 @@ const variantLabels: Record<string, string> = {
   transliteration: "Romanized",
   original: "Original",
 };
+
+// Single-chapter works (Cynewulf trilogy, the still-unsplit smṛtis, the
+// Sundanese tattvas, Fichte) have no meaningful table of contents — the
+// chapter IS the work. The work-detail page is redundant: just bounce
+// the user straight to the chapter reader, honoring their localStorage
+// variant preference (translation/transliteration/original) when present,
+// else falling back to the chapter's default (English when available).
+const isSingleChapter = chapters.length === 1;
+const onlyChapter = chapters[0];
+const onlyChapterDefaultVariant = onlyChapter?.variants.find((v) => v.file === onlyChapter.default_variant);
+const onlyChapterDefaultType = onlyChapterDefaultVariant?.content_type ?? "translation";
+const onlyChapterAvailable = onlyChapter?.variants.map((v) => v.content_type) ?? [];
+const redirectTo = isSingleChapter && onlyChapter
+  ? `/works/${work.slug}/${onlyChapter.chapter_slug}/${onlyChapterDefaultType}/`
+  : null;
 ---
 
+{isSingleChapter && redirectTo && onlyChapter ? (
+  /* Redirect page: a single-chapter work has no work-detail surface worth
+     rendering — the chapter IS the work. We bounce the user to the chapter
+     reader, honoring their localStorage variant preference. The script
+     fires synchronously during HTML parsing, before any paint, so the user
+     never sees the chrome. <noscript> renders a plain link as fallback. */
+  <Base title={work.title} description={work.description} ogImage={idx?.cover_url ?? undefined}>
+    <script
+      is:inline
+      define:vars={{
+        slug: work.slug,
+        chapter: onlyChapter.chapter_slug,
+        defaultType: onlyChapterDefaultType,
+        available: onlyChapterAvailable,
+        fallback: redirectTo,
+      }}
+    >
+      (function () {
+        try {
+          var pref = localStorage.getItem("falsafa-variant-pref");
+          var target = pref && available.indexOf(pref) >= 0 ? pref : defaultType;
+          location.replace("/works/" + slug + "/" + chapter + "/" + target + "/");
+        } catch (e) {
+          location.replace(fallback);
+        }
+      })();
+    </script>
+    <noscript>
+      <div class="container">
+        <p style="padding: 2rem 0;">
+          <a href={redirectTo}>Read {work.title} →</a>
+        </p>
+      </div>
+    </noscript>
+  </Base>
+) : (
 <Base
   title={work.title}
   description={work.description}
@@ -37,9 +88,13 @@ const variantLabels: Record<string, string> = {
     )}
 
     <header class="work-header">
-      <p class="era">{work.era} · {work.language}</p>
+      <p class="era">
+        <a href={`/eras/${work.era_slug}/`}>{work.era}</a> · {work.language}
+      </p>
       <h1>{work.title}</h1>
-      <p class="author">{work.author}</p>
+      <p class="author">
+        <a href={`/authors/${work.author_slug}/`}>{work.author}</a>
+      </p>
       {work.description && <p class="description">{work.description}</p>}
 
       <div class="meta-grid">
@@ -67,9 +122,6 @@ const variantLabels: Record<string, string> = {
     <section class="chapters">
       <h2>Chapters</h2>
 
-      {/* Reading-variant picker for works that ship multiple variants.
-          The user's choice is saved to localStorage so chapter pages and
-          this list stay in sync. */}
       {variantTypes.length > 1 && (
         <nav class="variant-picker" data-work-slug={work.slug} aria-label="Reading variant">
           <span class="variant-picker-label">Read as</span>
@@ -118,7 +170,10 @@ const variantLabels: Record<string, string> = {
         const buttons = picker ? picker.querySelectorAll("button[data-variant]") : [];
 
         function applyVariant(v) {
-          // Update chapter links to use the chosen variant when available
+          // Rewrite every chapter link in the ToC to point at the chosen
+          // variant (when that variant exists for the chapter), and update
+          // pill state. Single-chapter works don't render this script —
+          // they auto-redirect from the work URL.
           for (const a of document.querySelectorAll(".chapter-list a[data-chapter-slug]")) {
             const available = (a.getAttribute("data-available-variants") || "").split(",");
             const target = available.includes(v) ? v : a.getAttribute("data-default-variant");
@@ -126,7 +181,6 @@ const variantLabels: Record<string, string> = {
             const work = picker ? picker.getAttribute("data-work-slug") : a.getAttribute("href").split("/")[2];
             a.setAttribute("href", `/works/${work}/${slug}/${target}/`);
           }
-          // Update pill state
           for (const b of buttons) {
             b.setAttribute("aria-pressed", b.getAttribute("data-variant") === v ? "true" : "false");
           }
@@ -146,6 +200,7 @@ const variantLabels: Record<string, string> = {
     </script>
   </div>
 </Base>
+)}
 
 <style>
   .container {
@@ -181,6 +236,17 @@ const variantLabels: Record<string, string> = {
     margin: 0 0 var(--s-3);
   }
 
+  .work-header .era a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.15s ease;
+  }
+
+  .work-header .era a:hover {
+    border-bottom-color: currentColor;
+  }
+
   .work-header h1 {
     font-family: var(--font-display);
     font-size: var(--fs-h1);
@@ -196,6 +262,18 @@ const variantLabels: Record<string, string> = {
     color: var(--ink-muted);
     font-size: var(--fs-h3);
     margin: 0 0 var(--s-6);
+  }
+
+  .work-header .author a {
+    color: inherit;
+    text-decoration: none;
+    border-bottom: 1px solid transparent;
+    transition: border-color 0.15s ease, color 0.15s ease;
+  }
+
+  .work-header .author a:hover {
+    color: var(--ink);
+    border-bottom-color: var(--rule);
   }
 
   .work-header .description {

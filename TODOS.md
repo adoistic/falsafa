@@ -268,6 +268,134 @@ content cadence.
 
 ---
 
+## Held chapter splits — per-variant parser dispatch
+
+**What:** 6 works need their chapter splits done but each variant uses a
+different marker syntax — the current orchestrator binds one parser per
+work, which can't handle this. We need per-variant parser dispatch.
+
+**Affected works:**
+
+| Work | Translation pattern | Transliteration / original pattern |
+|------|--------------------|-----------------------------------|
+| Bṛhaspati Smṛti | `## Chapter N:` markdown | `// Brh_chapter,section.verse //` (3-part) |
+| Kātyāyana Smṛti | `## ` markdown (80 sections) | `// K_NNN //` (sequential, no chapter index) |
+| Kunjarakarna Dharmakathana | `## Canto N` markdown | numbered verses (`1.`, `2.`) under `Canto N.` lines |
+| Vīramitrodaya | `### [...]` markdown | `{MV-S_N}` curly tokens + `// N //` numeric verses |
+| Aṅgirasa Smṛti | phantom translator-added markers (`Ang_11.x` cross-refs) | clean `// Ang_1.N //` |
+| Nāradasmṛti | `(Nar. M1.1)` parenthesized format | clean `// Nar_1.N //` |
+
+**Why deferred:** the existing splitter (`scripts/chapter-splitting/lib/orchestrator.ts`)
+takes one `parseFunc` per work. To handle these we need either:
+(a) per-variant parseFunc dispatch (parser keyed on `(work_slug, variant_filename)`),
+or (b) a more general marker-detection system that tries multiple parsers and picks
+the one with the best variant agreement.
+
+**Impact:** until fixed, these 6 works ship as single-chapter (Cynewulf-style
+title-page redirect). Reading is fine; URL anchors for annotations will need to
+move once the splits land. **This is a real annotation-blocker for these 6 works.**
+Annotations on the other ~32 works are unaffected.
+
+**Where to start:** extend `ParseFunc` in `lib/orchestrator.ts` to accept a
+`filename` (already passes it) and dispatch via a per-variant config map in the
+TYPE_C entry. The variant-level parsers needed:
+- 3-part TYPE_A regex variant (`Brh_C,S.V`) — extension of `lib/parser.ts`
+- Sequential-no-chapter regex (`K_NNN`) — synthetic chapter from sequence
+- Bracketed-section parser (`[saṃvatsara…]`) — like markdown headings but with `[` delim
+- Inline citation filter for Aṅgirasa (translator's `Ang_11.x` cross-refs)
+- Parenthesized format parser (`(Nar. M1.1)`) for Nāradasmṛti translation
+
+**Trigger:** before annotations ship. URL stability matters most when there's a
+notebook full of highlighted passages anchored to specific chapter slugs.
+
+**Depends on:** orchestrator API change in `lib/orchestrator.ts` (small).
+
+---
+
+## Paragraph-level Pagefind upgrade
+
+**What:** Re-index Pagefind at paragraph granularity instead of chapter granularity,
+so a search for "courage" returns the *paragraph* that contains it, not just the
+chapter. Hits scroll-spy to a fragment anchor on click.
+
+**Why:** Chapter-level indexing is the V1 default — fewer docs, smaller index
+(~1MB vs ~5–10MB at paragraph granularity), simpler URL routing (no fragment
+anchors). It works, but it forces the user to skim a chapter for the passage
+that matched. For the long Comte volumes (28 chapters × ~5,000 words), this is a
+real friction.
+
+**Trigger:** When user feedback or session analytics show readers giving up on
+search results that point to a chapter without a fragment anchor. Or when annotated
+chapters become large enough that `Cmd-F` after the click feels broken.
+
+**Where to start:** Pagefind has first-class subdivision support. Mark the
+`<article>` body with `data-pagefind-body` and individual paragraphs with
+`data-pagefind-meta`. Add fragment anchors in `ChapterBody.astro` so clicks on
+result snippets land at the right paragraph.
+
+**Depends on:** V1 ships with chapter-level Pagefind first.
+
+---
+
+## Search filters: era, author, language, content_type
+
+**What:** Add filter chips above the search results overlay so a reader can
+constrain a query to "only Sanskrit works" or "only the Indic era" without
+typing it into the query.
+
+**Why:** Pagefind's default UI is a single search box. Power users (researchers,
+serious readers) will want to scope. The data is already on every indexed doc
+(we'll be adding `data-pagefind-filter` attributes on chapter pages anyway for
+result faceting).
+
+**Pros:** Closes the gap between Falsafa search and "real" library catalog
+search. Removes a class of "I know this is in here but I can't find it" failure.
+
+**Cons:** Custom UI on top of Pagefind's stock component (the default `@pagefind/default-ui`
+doesn't handle filters in a polished way). ~200 LOC of custom search overlay.
+
+**Trigger:** Post-launch, when search analytics show >20% of queries are
+era/author-scoped (people typing the era as a search term).
+
+**Where to start:** Pagefind filter docs at `https://pagefind.app/docs/filtering/`.
+Build a thin wrapper around `@pagefind/modular-ui` rather than `@pagefind/default-ui`.
+
+**Depends on:** V1 ships with default Pagefind.
+
+---
+
+## Embeddings-based cross-link upgrade
+
+**What:** Replace the build-time TF-IDF cross-link index with embeddings-based
+similarity (sentence-transformer or OpenAI ada-002 over chapter summaries),
+producing semantically richer "see also" links.
+
+**Why:** TF-IDF over ~750 docs is enough for V1 — it catches keyword overlap and
+delivers reasonable cross-tradition matches. But it misses paraphrases (e.g.,
+"the divine" in Iqbal vs. "godhead" in Cynewulf). Embeddings would catch these.
+
+**Pros:** Better cross-tradition find_related results. The MCP tool becomes
+substantially more interesting for comparative questions ("what does each
+tradition say about X?").
+
+**Cons:** Build-time dependency on an embedding model (either bundled MiniLM
+~80MB binary, or a paid API call per chapter). Embeddings index re-generates
+on every corpus change. Quality is hard to evaluate — bad embeddings produce
+worse results than no cross-links.
+
+**Trigger:** Corpus crosses ~5K chapters, OR find_related becomes a primary
+discovery surface that justifies the model dependency, OR a user complains
+about cross-tradition discovery quality.
+
+**Where to start:** Bun + @huggingface/transformers running MiniLM-L6-v2 locally.
+Compute one embedding per chapter (~768 dims), pairwise cosine, write the same
+`corpus/cross-links.json` shape so MCP doesn't need to change.
+
+**Depends on:** V1 ships with TF-IDF cross-link first (so we have a baseline to
+compare against).
+
+---
+
 ## RSS feed for new chapters / works
 
 **What:** Build-time RSS generation, exposed at `/feed.xml`, listing recent

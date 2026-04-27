@@ -53,11 +53,20 @@ const eraEntries = eraOrder
         {m.counts.works} works across {m.counts.eras} eras, {m.counts.languages} languages,
         {m.counts.authors} authors. Translations and transliterations by Thothica.
       </p>
-      <div class="era-strip">
+      <div
+        class="era-strip"
+        role="list"
+        style={`--era-count: ${eraEntries.length}`}
+      >
         {eraEntries.map((e) => (
-          <a href={`/works/?era=${e.slug}`} class="era-node">
+          <a
+            href={`/eras/${e.slug}/`}
+            class="era-node"
+            role="listitem"
+            aria-label={`${e.label}: ${e.count} ${e.count === 1 ? "work" : "works"}`}
+          >
+            <span class="era-count">{e.count}</span>
             <span class="era-label">{e.label}</span>
-            <span class="era-count">{e.count} {e.count === 1 ? "work" : "works"}</span>
           </a>
         ))}
       </div>
@@ -177,38 +186,75 @@ const eraEntries = eraOrder
     margin: 0 0 var(--s-12);
   }
 
+  /* Era strip — a typographic timeline. Each cell is a clickable era,
+     showing the work count as a display-serif anchor and the era name as
+     a small-caps label below. Top + bottom rules tie the row together
+     like an editorial axis; no boxes, no clutter. */
   .era-strip {
     display: grid;
-    grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
-    gap: var(--s-3);
+    grid-template-columns: repeat(var(--era-count, 6), minmax(0, 1fr));
+    gap: var(--s-6) var(--s-4);
     margin-bottom: var(--s-8);
+    padding: var(--s-8) 0;
+    border-top: 1px solid var(--rule);
+    border-bottom: 1px solid var(--rule);
+  }
+
+  @media (max-width: 720px) {
+    .era-strip {
+      grid-template-columns: repeat(3, minmax(0, 1fr));
+    }
+  }
+
+  @media (max-width: 420px) {
+    .era-strip {
+      grid-template-columns: repeat(2, minmax(0, 1fr));
+    }
   }
 
   .era-node {
     display: flex;
     flex-direction: column;
-    padding: var(--s-4) var(--s-6);
-    border: 1px solid var(--rule);
+    align-items: flex-start;
     color: var(--ink);
-    transition: border-color 0.2s ease, background 0.2s ease;
-  }
-
-  .era-node:hover {
-    border-color: var(--accent);
-    background: rgba(138, 58, 46, 0.04);
-  }
-
-  .era-label {
-    font-family: var(--font-display);
-    font-size: var(--fs-h3);
-    font-weight: 600;
-    margin-bottom: var(--s-1);
+    text-decoration: none;
   }
 
   .era-count {
+    font-family: var(--font-display);
+    font-size: var(--fs-h2);
+    font-weight: 700;
+    line-height: 0.95;
+    letter-spacing: -0.02em;
+    color: var(--ink);
+    margin-bottom: var(--s-2);
+    transition: color 0.2s ease;
+  }
+
+  .era-label {
     font-family: var(--font-sans);
-    font-size: 13px;
+    font-size: 11px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
     color: var(--ink-muted);
+    line-height: 1.2;
+    transition: color 0.2s ease;
+  }
+
+  .era-node:hover .era-count,
+  .era-node:focus-visible .era-count {
+    color: var(--accent);
+  }
+
+  .era-node:hover .era-label,
+  .era-node:focus-visible .era-label {
+    color: var(--ink);
+  }
+
+  .era-node:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 6px;
   }
 
   .all-works-link {

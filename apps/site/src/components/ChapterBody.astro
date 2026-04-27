@@ -38,9 +38,20 @@ const html = await marked.parse(cleanBody(body), {
   breaks: false, // honor markdown blank-line semantics, not single-newline-as-break
   gfm: true,
 });
+
+// Only English translation variants are indexed by Pagefind. Transliterations
+// (romanized) and originals (source script) are quote-only material and would
+// pollute the search corpus with romanized noise.
+const indexable = frontmatter.content_type === "translation";
 ---
 
-<div class="reader-body" set:html={html} />
+{
+  indexable ? (
+    <div class="reader-body" data-pagefind-body set:html={html} />
+  ) : (
+    <div class="reader-body" set:html={html} />
+  )
+}
 
 {
   frontmatter.source_url && (

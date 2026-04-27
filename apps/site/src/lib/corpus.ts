@@ -129,10 +129,19 @@ export function findWork(slug: string): ManifestWork | undefined {
 // Chapters
 // ─────────────────────────────────────────────────────────────────────────
 
+/**
+ * Per-work chapter list cache. Populated once per process — fine for
+ * `astro build` (one-shot) but stale-prone for `astro dev` because Astro's
+ * HMR doesn't re-import this module when corpus/.../meta.json changes on
+ * disk (those aren't Vite-tracked source modules). Bypassing the cache in
+ * dev keeps file rewrites (e.g. scripts/reclassify-variants.ts) visible
+ * without a server restart.
+ */
 const _chapterCache = new Map<string, ChapterMeta[]>();
+const IS_DEV = import.meta.env?.DEV === true;
 
 export function listChapters(workSlug: string): ChapterMeta[] {
-  if (_chapterCache.has(workSlug)) return _chapterCache.get(workSlug)!;
+  if (!IS_DEV && _chapterCache.has(workSlug)) return _chapterCache.get(workSlug)!;
   const chaptersDir = join(CORPUS_ROOT, "works", workSlug, "chapters");
   if (!existsSync(chaptersDir)) return [];
   const entries = readdirSync(chaptersDir).filter((e) =>
@@ -146,7 +155,7 @@ export function listChapters(workSlug: string): ChapterMeta[] {
     })
     .filter((m): m is ChapterMeta => m !== null)
     .sort((a, b) => a.chapter_number - b.chapter_number);
-  _chapterCache.set(workSlug, metas);
+  if (!IS_DEV) _chapterCache.set(workSlug, metas);
   return metas;
 }
 

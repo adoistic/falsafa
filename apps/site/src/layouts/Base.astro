@@ -4,6 +4,7 @@
  * (size / density / theme), and the editorial site chrome.
  */
 import "../styles/global.css";
+import SearchDialog from "../components/SearchDialog.astro";
 
 interface Props {
   title: string;
@@ -52,8 +53,17 @@ const fullTitle = title === siteName ? title : `${title} · ${siteName}`;
       <nav>
         <a href="/works/">Works</a>
         <a href="/about/">About</a>
+        <button id="search-trigger" type="button" class="search-trigger" aria-label="Search Falsafa (press / or ⌘K)">
+          <svg aria-hidden="true" width="14" height="14" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round">
+            <circle cx="11" cy="11" r="7"></circle>
+            <line x1="21" y1="21" x2="16.65" y2="16.65"></line>
+          </svg>
+          <span>Search</span>
+        </button>
       </nav>
     </header>
+
+    <SearchDialog />
 
     <main id="main">
       <slot />
@@ -70,5 +80,7 @@ const fullTitle = title === siteName ? title : `${title} · ${siteName}`;
         <a href="https://github.com/adoistic/falsafa">GitHub</a>.
       </div>
     </footer>
+
+    {/* Search dialog wiring lives inside SearchDialog.astro (mounted above). */}
   </body>
 </html>

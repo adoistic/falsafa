@@ -10,9 +10,10 @@
     "prebuild": "bun run scripts/prepare-covers.ts",
     "prepare-covers": "bun run scripts/prepare-covers.ts",
     "dev": "astro dev",
-    "build": "astro build",
+    "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
-    "check": "astro check"
+    "check": "astro check",
+    "search:build": "astro build && pagefind --site dist && rm -rf public/pagefind && cp -r dist/pagefind public/pagefind"
   },
   "dependencies": {
     "@astrojs/check": "^0.9.0",
@@ -22,5 +23,8 @@
     "astro": "^5.0.0",
     "marked": "^18.0.2",
     "typescript": "^5.7.0"
+  },
+  "devDependencies": {
+    "pagefind": "^1.5.2"
   }
 }

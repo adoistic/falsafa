@@ -1,0 +1,137 @@
+---
+import type { GetStaticPaths } from "astro";
+import Base from "../../layouts/Base.astro";
+import WorkCardGrid from "../../components/WorkCardGrid.astro";
+import { manifest } from "../../lib/corpus";
+
+export const getStaticPaths = (() => {
+  const m = manifest();
+  return Object.entries(m.eras).map(([slug, info]) => ({
+    params: { slug },
+    props: { eraSlug: slug, eraName: info.name, workSlugs: info.works },
+  }));
+}) satisfies GetStaticPaths;
+
+const { eraSlug, eraName, workSlugs } = Astro.props;
+const m = manifest();
+
+const eraWorks = workSlugs
+  .map((s) => m.works.find((w) => w.slug === s))
+  .filter((w): w is NonNullable<typeof w> => w !== undefined);
+
+const totalChapters = eraWorks.reduce((acc, w) => acc + w.total_logical_chapters, 0);
+const languagesSet = new Set(eraWorks.map((w) => w.language));
+const languages = [...languagesSet];
+
+// Short editorial intros, one per era. Kept tight — a placeholder
+// adds noise; specifics earn their place. "Unknown" gets a candid
+// note rather than a fabricated period.
+const eraIntros: Record<string, string> = {
+  ancient:
+    "Texts from the deep past — Sanskrit smṛtis and dharma literature whose composition predates the medieval period.",
+  medieval:
+    "Works composed roughly between the 6th and 15th centuries — Anglo-Saxon Christian poetry and South Asian manuscript traditions.",
+  enlightenment:
+    "European thought from the long 18th century — political theory, jurisprudence, and the rights of conscience.",
+  "19th-century":
+    "Urdu poetry of the late Mughal twilight — ghazals from Delhi at the moment a tradition turns elegiac.",
+  "20th-century":
+    "Allama Iqbal's Bang-e-Dara — the call that summoned a new poetic register out of Urdu.",
+};
+
+const intro = eraIntros[eraSlug] ?? null;
+const description = `${eraWorks.length} ${eraWorks.length === 1 ? "work" : "works"} from the ${eraName} era in the Falsafa catalog.`;
+---
+
+<Base title={eraName} description={description}>
+  <div class="container">
+    <header class="page-header">
+      <p class="kicker">Era</p>
+      <h1>{eraName}</h1>
+      {intro && <p class="lede">{intro}</p>}
+
+      <dl class="meta-grid">
+        <div>
+          <dt>Works</dt>
+          <dd>{eraWorks.length}</dd>
+        </div>
+        <div>
+          <dt>Chapters</dt>
+          <dd>{totalChapters}</dd>
+        </div>
+        {languages.length > 0 && (
+          <div>
+            <dt>{languages.length === 1 ? "Language" : "Languages"}</dt>
+            <dd>{languages.join(", ")}</dd>
+          </div>
+        )}
+      </dl>
+    </header>
+
+    <WorkCardGrid works={eraWorks} />
+  </div>
+</Base>
+
+<style>
+  .container {
+    max-width: 1240px;
+    margin: 0 auto;
+    padding: var(--s-12) var(--s-8) var(--s-24);
+  }
+
+  .page-header {
+    max-width: 70ch;
+    margin: 0 0 var(--s-16);
+  }
+
+  .kicker {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin: 0 0 var(--s-2);
+  }
+
+  h1 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h1);
+    font-weight: 700;
+    margin: 0 0 var(--s-3);
+    letter-spacing: -0.02em;
+  }
+
+  .lede {
+    font-family: var(--font-display);
+    font-style: italic;
+    color: var(--ink-muted);
+    font-size: var(--fs-h3);
+    line-height: 1.4;
+    margin: 0 0 var(--s-8);
+  }
+
+  .meta-grid {
+    display: grid;
+    grid-template-columns: repeat(auto-fit, minmax(140px, 1fr));
+    gap: var(--s-4);
+    padding-top: var(--s-6);
+    border-top: 1px solid var(--rule);
+    font-family: var(--font-sans);
+    margin: 0;
+  }
+
+  .meta-grid dt {
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.08em;
+    color: var(--ink-muted);
+    margin-bottom: var(--s-1);
+  }
+
+  .meta-grid dd {
+    font-size: var(--fs-body);
+    margin: 0;
+    color: var(--ink);
+  }
+</style>
