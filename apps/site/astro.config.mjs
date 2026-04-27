@@ -5,7 +5,7 @@ import preact from "@astrojs/preact";
 // View transitions for the "feels like a single document" reading experience.
 // Preact powers the interactive launch islands (BYOK demo, eval explorer).
 export default defineConfig({
-  site: "https://falsafa.app",
+  site: "https://falsafa.ai",
   output: "static",
   trailingSlash: "always",
   integrations: [preact()],

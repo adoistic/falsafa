@@ -4,7 +4,7 @@
  * Per /plan-eng-review run 2 + design Q1 (hybrid), the BYOK demo's tool
  * calls go through an HTTP-wrapped Falsafa MCP server. In development
  * that's http://localhost:3001 running apps/mcp behind a tiny HTTP
- * adapter. At launch it'll be https://mcp.falsafa.app.
+ * adapter. At launch it'll be https://mcp.falsafa.ai.
  *
  * The base URL is read from the page-level config (window.__FALSAFA_MCP_URL)
  * which the /try Astro page sets at build time. Falls back to the dev URL

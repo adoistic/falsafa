@@ -51,11 +51,11 @@ The launch artifact is no longer "writeup + repo + demo URL." It's:
 
 1. **Writeup** (the launch essay, with concrete numbers, no AI tells)
 2. **Repo** (Falsafa monorepo: site, MCP, pipeline, eval suite, Skill, preprint sources)
-3. **Live demo URL** at falsafa.app/try (BYOK, OpenRouter+Anthropic+Gemini, static fallback, deep links)
-4. **Eval explorer** at falsafa.app/eval (browseable adversarial cases vs hybrid RAG)
-5. **"Why no vector DB" explainer** at falsafa.app/thesis (visual, chart-driven)
-6. **By-the-numbers** at falsafa.app/numbers (audit trail with source-data deep links)
-7. **Perseus showcase** at falsafa.app/perseus (reading site landing page)
+3. **Live demo URL** at falsafa.ai/try (BYOK, OpenRouter+Anthropic+Gemini, static fallback, deep links)
+4. **Eval explorer** at falsafa.ai/eval (browseable adversarial cases vs hybrid RAG)
+5. **"Why no vector DB" explainer** at falsafa.ai/thesis (visual, chart-driven)
+6. **By-the-numbers** at falsafa.ai/numbers (audit trail with source-data deep links)
+7. **Perseus showcase** at falsafa.ai/perseus (reading site landing page)
 8. **Pipeline package** published to npm: `npx @falsafa/pipeline ingest <archive>`
 9. **gstack Skill** published in gstack's distribution: `gstack skills install falsafa-methodology`
 10. **arXiv preprint** with sections compiled from result-milestone Markdown files

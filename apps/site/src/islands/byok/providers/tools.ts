@@ -5,7 +5,7 @@
  * `execute` calls the injected onToolCall callback, which the BYOK island
  * routes to either:
  *  - browser-bundled tool implementations (Q1 option A), or
- *  - a remote MCP server at mcp.falsafa.app (Q1 option B / C in production)
+ *  - a remote MCP server at mcp.falsafa.ai (Q1 option B / C in production)
  *
  * Tool descriptions are copied verbatim from apps/mcp/src/index.ts so the
  * model sees the same prompt regardless of which dispatch path runs.

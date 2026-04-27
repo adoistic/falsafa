@@ -15,10 +15,10 @@ The BYOK demo flow is: user types question → LLM streams response → LLM emit
 | Option | What it means | Trade-off |
 |---|---|---|
 | **A. Browser-bundled tools** | Re-implement all 8 librarian tools in client-side TypeScript. Corpus markdown fetched from `/corpus/...` static URLs on the same origin. The MCP server (apps/mcp) ships unchanged for stdio clients. | ✅ No new infra. ✅ Phase 2 ships standalone. ❌ Demo doesn't actually use the same MCP server marketing claims. ❌ Tool implementations diverge from `apps/mcp/src/tools.ts` over time. |
-| **B. Remote MCP at `mcp.falsafa.app`** | Build an HTTP/SSE wrapper around the existing MCP server. BYOK browser → provider → tool call → browser fetches `https://mcp.falsafa.app/tools/search_corpus` → result. | ✅ Same MCP, one source of truth. ✅ Needed for ChatGPT/Gemini connector launches anyway. ❌ Phase 2 depends on remote-MCP infra being deployed first. ❌ CORS + auth surface area. |
-| **C. Hybrid: develop local, deploy remote** | Phase 2 builds the BYOK client against a parameterized `MCP_BASE_URL`. In dev: `http://localhost:3001` running `apps/mcp` over HTTP. At launch: `https://mcp.falsafa.app`. Build the HTTP wrapper on `apps/mcp` as a parallel work item. | ✅ Phase 2 and remote-MCP unblock each other, both ship. ✅ Single tool-implementation source. ❌ Two simultaneous work streams. |
+| **B. Remote MCP at `mcp.falsafa.ai`** | Build an HTTP/SSE wrapper around the existing MCP server. BYOK browser → provider → tool call → browser fetches `https://mcp.falsafa.ai/tools/search_corpus` → result. | ✅ Same MCP, one source of truth. ✅ Needed for ChatGPT/Gemini connector launches anyway. ❌ Phase 2 depends on remote-MCP infra being deployed first. ❌ CORS + auth surface area. |
+| **C. Hybrid: develop local, deploy remote** | Phase 2 builds the BYOK client against a parameterized `MCP_BASE_URL`. In dev: `http://localhost:3001` running `apps/mcp` over HTTP. At launch: `https://mcp.falsafa.ai`. Build the HTTP wrapper on `apps/mcp` as a parallel work item. | ✅ Phase 2 and remote-MCP unblock each other, both ship. ✅ Single tool-implementation source. ❌ Two simultaneous work streams. |
 
-**Recommendation: C.** The remote MCP is on the launch critical path regardless (ChatGPT/Gemini connectors require it). Phase 2 develops against `localhost:3001` running `apps/mcp` with a thin HTTP wrapper. By launch, point at the deployed `mcp.falsafa.app`. One config line.
+**Recommendation: C.** The remote MCP is on the launch critical path regardless (ChatGPT/Gemini connectors require it). Phase 2 develops against `localhost:3001` running `apps/mcp` with a thin HTTP wrapper. By launch, point at the deployed `mcp.falsafa.ai`. One config line.
 
 ### Q2 — Tool-call rendering during streaming
 
@@ -241,7 +241,7 @@ user clicks Submit
                  ├─→ reducer dispatch (FIRST_CHUNK / TEXT_DELTA / TOOL_CALL_START / etc.)
                  ├─→ on TOOL_CALL_START: mcpClient.invoke(name, args)
                  │    ├─→ (Q1: A) browser-bundled tool runs locally
-                 │    └─→ (Q1: B) fetch https://mcp.falsafa.app/tools/<name>
+                 │    └─→ (Q1: B) fetch https://mcp.falsafa.ai/tools/<name>
                  ├─→ tool result returned to provider via SDK's tool-result mechanism
                  └─→ on TEXT_DELTA: useStreaming buffers, rAF schedules render
        └─→ on DONE: reducer transitions to SUCCESS / NO-RESULT-FOUND / PARTIAL

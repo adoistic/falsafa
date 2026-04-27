@@ -1,6 +1,6 @@
 # Falsafa eval suite
 
-The 1,500-case adversarial eval used by the `/eval` explorer on falsafa.app and by CI for regression detection.
+The 1,500-case adversarial eval used by the `/eval` explorer on falsafa.ai and by CI for regression detection.
 
 ## Layout
 

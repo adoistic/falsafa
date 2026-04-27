@@ -514,7 +514,7 @@ attribution and bidirectional cross-links to its source work.
 
 ## Distribution Plan
 
-- **Reading site:** `falsafa.app` (or chosen domain) on Vercel.
+- **Reading site:** `falsafa.ai` (or chosen domain) on Vercel.
 - **MCP server:** `@falsafa/mcp` on npm. README has Claude Desktop /
   Cursor / Codex install snippets.
 - **Corpus:** the GitHub repo itself is the corpus. Anyone can clone
@@ -528,7 +528,7 @@ attribution and bidirectional cross-links to its source work.
 
 ## Open Questions
 
-1. **Final domain.** Is `falsafa.app` available / wanted? Other?
+1. **Final domain.** Is `falsafa.ai` available / wanted? Other?
 2. **License granularity** — confirming CC BY-SA 4.0 for texts is right
    for Thothica's public-good release.
 3. **Image hosting threshold** — if generated images push the repo over
