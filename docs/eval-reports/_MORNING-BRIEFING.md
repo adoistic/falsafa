@@ -4,8 +4,8 @@ The night you handed me. Here's what landed and what's queued.
 
 ## TL;DR
 
-**16 questions tested across all 7 categories of the 1,000-question
-adversarial pool. 15/16 mechanical pass (94%), 6/7 substantive
+**17 questions tested across all 7 categories of the 1,000-question
+adversarial pool. 16/17 mechanical pass (94%), 6/7 substantive
 (Sonnet judge with citation resolution, 89% pts on the pilot subset).
 Two real product findings about MCP paragraph_id surfacing — fix
 queued in TODOS.md.**
@@ -19,7 +19,7 @@ moment the limit resets the run is one command away.
 | Run | Driver | Sample | Mechanical | Judge |
 |---|---|---|---|---|
 | Pilot (`1k-pilot-sonnet-native`) | Claude Sonnet sub-agent, native MCP | 7 stratified | 6/7 (86%) | **6/7 PASS, 5/7 perfect, 89% pts** |
-| Wave 1 (`1k-stratified-50-sonnet`) | Claude Sonnet sub-agent, native MCP | 9 of planned 10 stratified | 9/9 (100%) | not yet judged (host context budget) |
+| Wave 1 (`1k-stratified-50-sonnet`) | Claude Sonnet sub-agent, native MCP | 10 stratified | 10/10 (100%) | not yet judged (host context budget) |
 | Codex smoke (`1k-codex-smoke-*`) | codex CLI / GPT-5 | 3 + 3 | 6/6 ok | judge driver had a bug — fixed in `judge-1000.ts` |
 
 Total unique 1k-pool questions tested: **16** (deduped — 9 from wave 1
@@ -32,11 +32,11 @@ were unique, 7 from pilot were unique).
 | citation | 3 | 3 | clean |
 | comparative | 3 | 3 | clean |
 | conceptual | 3 | 2 | q-0626 was the judge-only fail (fabricated paragraph_id) |
-| discovery | 2 | 2 | q-0476 + q-0431 |
+| discovery | 3 | 3 | q-0476, q-0431, q-0401 |
 | specific-obscure | 2 | 2 | clean |
 | multilingual | 2 | 2 | q-0901 used Elene instead of expected Andreas, judge ruled defensible |
 | cross-cultural | 1 | 1 | clean |
-| **Total** | **16** | **15** | **94%** |
+| **Total** | **17** | **16** | **94%** |
 
 ## Two real product findings (queued in TODOS.md)
 

@@ -2,8 +2,8 @@
   "run_dir": "apps/mcp/eval/runs/1k-stratified-50-sonnet/sonnet",
   "driver": "claude-code-subagent-native-mcp",
   "model": "claude-sonnet-4.6",
-  "total_pass": 9,
-  "total_judged": 9,
+  "total_pass": 10,
+  "total_judged": 10,
   "pass_rate": 1,
   "by_category": {
     "citation": {
@@ -19,8 +19,8 @@
       "total": 2
     },
     "discovery": {
-      "pass": 1,
-      "total": 1
+      "pass": 2,
+      "total": 2
     },
     "specific-obscure": {
       "pass": 1,
@@ -129,6 +129,34 @@
         "allama-iqbal-bang-e-dara-part-3-cc61e8"
       ],
       "toolCount": 11
+    },
+    {
+      "id": "q-0401",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 3,
+      "expected": 5,
+      "citedWorks": [
+        "unknown-old-english-elegies-d5fe9e",
+        "unknown-kunjarakarna-dharmakathana-894f4a",
+        "unknown-visnu-smrti-27f0d8",
+        "unknown-ganapatitattva-66a136",
+        "unknown-san-hyan-kamahayanikan-2a0c19",
+        "unknown-san-hyan-tattvajnana-1f29bd",
+        "unknown-vrhaspatitattva-b60b28",
+        "unknown-manusmrti-347b76",
+        "unknown-angirasa-smrti-2bf9d1",
+        "unknown-slokantara-d7a628"
+      ],
+      "expectedWorks": [
+        "unknown-manusmrti-347b76",
+        "unknown-yajnavalkya-smrti-cb88d6",
+        "unknown-san-hyan-kamahayanikan-2a0c19",
+        "unknown-old-english-elegies-d5fe9e",
+        "cynewulf-juliana-9a2157"
+      ],
+      "toolCount": 18
     },
     {
       "id": "q-0431",
