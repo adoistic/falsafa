@@ -1,0 +1,802 @@
+[
+  {
+    "id": "q-0001",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "What does Ghalib's ghazal 'Aah ko chahiye ik umr asar hote tak' say about the time it takes for a sigh to take effect?",
+    "rationale": "Tests whether Falsafa can locate the title-line ghazal in Diwan-e-Ghalib and pull the opening couplet about the lifespan of a sigh.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0002",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Which couplet in Ghalib's 'Koi ummeed bar nahin aati' is most famous for the line about hopelessness?",
+    "rationale": "Should land on chapter 115 of Diwan-e-Ghalib and quote the matla.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0003",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find the verse in Ghalib's 'Rahiye ab aisi jagah chal kar jahan koi na ho' where he wishes for a place with no neighbour, no companion, and no door-keeper.",
+    "rationale": "Tests passage-level retrieval inside ghazal 168 — should return the specific stanza, not just the chapter.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0004",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Quote Iqbal's opening lines from 'Himalaya' that address the mountain as the rampart of Hindustan.",
+    "rationale": "Should retrieve chapter 25 of Bang-e-Dara Part 1 and cite the opening couplet.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0005",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Shikwa', show me the verse where the speaker complains directly to God about the fate of Muslims.",
+    "rationale": "Tests retrieval inside Bang-e-Dara Part 3 chapter 20, the famous complaint poem.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-3-cc61e8"]
+  },
+  {
+    "id": "q-0006",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Locate the passage in Manusmriti chapter 1 where Manu describes the cosmic egg splitting into heaven and earth.",
+    "rationale": "Tests Sanskrit smriti citation. The verse is around Mn_1.12-1.13 — Falsafa should pull the exact paragraph.",
+    "expected_works": ["unknown-manusmrti-347b76"]
+  },
+  {
+    "id": "q-0007",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "What does The Wanderer say about the mead-hall and lost kinsmen?",
+    "rationale": "Old English Elegies chapter 11 — should pull the lament passage about searching for a giver of treasure.",
+    "expected_works": ["unknown-old-english-elegies-d5fe9e"]
+  },
+  {
+    "id": "q-0008",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Cite the line in 'The Wanderer' where Wyrd is called wholly steadfast.",
+    "rationale": "Tests precise retrieval of a single line; the phrase 'Wyrd is wholly steadfast' is a famous Old English crux.",
+    "expected_works": ["unknown-old-english-elegies-d5fe9e"]
+  },
+  {
+    "id": "q-0009",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Ghalib's 'Dil hi to hai na sang o khisht', find the couplet that compares the heart to neither stone nor brick.",
+    "rationale": "Tests location of the matla of ghazal 33 in Diwan-e-Ghalib.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0010",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Show me Iqbal's 'Bachay ki Dua' — what is the child praying for?",
+    "rationale": "Bang-e-Dara Part 1 chapter 16. Famous children's prayer; tests basic chapter retrieval.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0011",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Quote the verse from Yajnavalkya Smriti chapter 1 that lists the twenty promulgators of the Dharmasastras, ending with Vasiṣṭha.",
+    "rationale": "Tests precise citation of Yj_1.4–1.5; the answer requires correctly listing all the named sages.",
+    "expected_works": ["unknown-yajnavalkya-smrti-cb88d6"]
+  },
+  {
+    "id": "q-0012",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "What does Ghalib's matla 'Hazaaron khwahishein aisi' say about each desire being capable of taking a life?",
+    "rationale": "Tests retrieval of one of Ghalib's most-quoted opening couplets.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0013",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find the line in Iqbal's 'Tarana-e-Milli' that begins 'Cheen-o-Arab hamara, Hindostan hamara'.",
+    "rationale": "Bang-e-Dara Part 3 chapter 23 — iconic line; tests whether Falsafa pulls the right opening couplet.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-3-cc61e8"]
+  },
+  {
+    "id": "q-0014",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Zauq's ghazal 'Ek sadma dard-e-dil se meri jaan par toh hai', cite the maqta — does Zauq sign his name?",
+    "rationale": "Tests whether Falsafa can locate the closing couplet of a specific Zauq ghazal and confirm the takhallus.",
+    "expected_works": ["sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"]
+  },
+  {
+    "id": "q-0015",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Locate the passage in Cynewulf's Elene where Helena interrogates the Jews about the location of the True Cross.",
+    "rationale": "Tests deep retrieval inside the single-chapter Elene. The interrogation is a structural pivot of the poem.",
+    "expected_works": ["cynewulf-elene-d2d132"]
+  },
+  {
+    "id": "q-0016",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Cynewulf's Juliana say in the scene where Juliana confronts the demon in prison?",
+    "rationale": "The demon-interrogation is the famous setpiece of Juliana — tests whether Falsafa surfaces that section.",
+    "expected_works": ["cynewulf-juliana-9a2157"]
+  },
+  {
+    "id": "q-0017",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Andreas, find the moment when the cannibal Mermedonians are first described.",
+    "rationale": "Tests retrieval of the inciting setting passage in Cynewulf's Andreas.",
+    "expected_works": ["cynewulf-andreas-07b573"]
+  },
+  {
+    "id": "q-0018",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Quote Ghalib's couplet about the heart being a piece of meat for the eyes' beak — which ghazal is it from?",
+    "rationale": "Tests metaphor retrieval. The 'paara-e-gosht' image is recognizable and traceable to a specific ghazal.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0019",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me the verse in Iqbal's 'Khitab ba Jawanan-e-Islam' where he addresses Muslim youth directly about their ancestors.",
+    "rationale": "Bang-e-Dara Part 3 chapter 13 — should pull the central exhortation.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-3-cc61e8"]
+  },
+  {
+    "id": "q-0020",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Manusmriti chapter 1, what is the etymology Manu offers for the name 'Narayana'?",
+    "rationale": "Tests verse-level citation of Mn_1.10 (waters as 'naraah', sons of Nara, hence Narayana).",
+    "expected_works": ["unknown-manusmrti-347b76"]
+  },
+  {
+    "id": "q-0021",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "What does Ghalib's 'Naqsh faryadi hai kis ki shokhi-e-tahreer ka' open with?",
+    "rationale": "Famous opening of the Diwan; tests whether Falsafa pulls the matla cleanly.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0022",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find the couplet in Ghalib where he says even a sheet of paper is the complainant of an artist's mischief.",
+    "rationale": "Tests semantic retrieval of the second line of the same matla — the paper-as-complainant image is the second hemistich.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0023",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Maa ka Khwab', what does the mother dream about her child?",
+    "rationale": "Bang-e-Dara Part 1 chapter 29; tests narrative retrieval of a short poem.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0024",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Iqbal's 'Sayed ki Loh-e-Turbat' inscribe on the gravestone?",
+    "rationale": "Bang-e-Dara Part 1 chapter 38; the title literally means 'Sir Sayed's Tomb-Tablet'. Tests epigraphic retrieval.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0025",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Quote the section in Visnu Smriti chapter 2 that lists the duties of a king toward his subjects.",
+    "rationale": "Tests deep navigation in a 100-chapter Sanskrit text. Should land on the rajadharma material.",
+    "expected_works": ["unknown-visnu-smrti-27f0d8"]
+  },
+  {
+    "id": "q-0026",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find Iqbal's lines in 'Zuhd aur Rindi' where the ascetic and the wine-drinker are juxtaposed.",
+    "rationale": "Bang-e-Dara Part 1 chapter 44 closes the volume — tests retrieval of a thematically central poem.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0027",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "What does Ghalib's 'Dil-e-naadaan tujhe hua kya hai' ask the foolish heart?",
+    "rationale": "Ghazal 36 — one of Ghalib's most quoted refrains. Tests basic citation.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0028",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Hindustani Bachon ka Qaumi Geet', what oath do the children sing?",
+    "rationale": "Bang-e-Dara Part 1 chapter 26; the 'Children's National Song'. Tests precise retrieval of refrain.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0029",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Locate the line in The Wanderer that says 'A weary mind cannot withstand Wyrd, nor a troubled heart offer any help.'",
+    "rationale": "Tests exact-string retrieval at line level inside the elegy.",
+    "expected_works": ["unknown-old-english-elegies-d5fe9e"]
+  },
+  {
+    "id": "q-0030",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Ghalib's 'Hai bas ke har ek unke ishaare mein nishaan aur' say about every gesture of the beloved?",
+    "rationale": "Tests retrieval of a famous Ghalib couplet about the beloved's gestures and the world being other than what it appears.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0031",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me Iqbal's lines in 'Falsafa-e-Gham' on the philosophy of sorrow.",
+    "rationale": "Bang-e-Dara Part 3 chapter 7. Title literally translates as 'Philosophy of Grief'. Tests retrieval of a thematically core piece.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-3-cc61e8"]
+  },
+  {
+    "id": "q-0032",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Ghalib, find the couplet that compares life's lesson to the dust of the road.",
+    "rationale": "Open-ended metaphor query — should locate one of several close candidates.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0033",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "What does Ghalib say in 'Ishq par zor nahin'?",
+    "rationale": "One of Ghalib's most-quoted lines about love being beyond control. Tests fragment-to-passage retrieval.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0034",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Shama aur Shair', what does the candle say to the poet?",
+    "rationale": "Bang-e-Dara Part 3 chapter 19; tests dialogic retrieval inside a dialogue-poem.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-3-cc61e8"]
+  },
+  {
+    "id": "q-0035",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Quote the verse in Manusmriti chapter 12 on transmigration where the soul takes the form of an insect or a worm.",
+    "rationale": "Manu chapter 12 deals with rebirth and karmic descent. Tests fine-grained retrieval inside a long final book.",
+    "expected_works": ["unknown-manusmrti-347b76"]
+  },
+  {
+    "id": "q-0036",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Ghalib's 'Ye na thi hamari qismat' say about meeting the beloved?",
+    "rationale": "Famous ghazal on missed unions. Tests title-to-content retrieval.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0037",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Show me Iqbal's 'Aaftab' — the poem invoking the sun.",
+    "rationale": "Bang-e-Dara Part 1 chapter 14. Tests title-based chapter retrieval.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0038",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Saqaliya' (Sicily), what historical lament does the poet voice?",
+    "rationale": "Bang-e-Dara Part 2 chapter 21 — Iqbal's elegy for lost Muslim Sicily. Tests title-to-history retrieval.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-2-9bc58c"]
+  },
+  {
+    "id": "q-0039",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Iqbal's 'Goristan-e-Shahi' say about the royal cemetery?",
+    "rationale": "Bang-e-Dara Part 3 chapter 9; the 'royal graveyard' poem. Tests image retrieval of mausoleum decay.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-3-cc61e8"]
+  },
+  {
+    "id": "q-0040",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Find the passage in Comte's Traité de Législation Vol I where he distinguishes a despotic regime from a regime of law.",
+    "rationale": "Vol I chapter 13 'Distinction entre un regime arbitraire et un regime…'. Tests French-language chapter retrieval.",
+    "expected_works": ["charles-comte-traite-de-legislation-vol-i-7e62a2"]
+  },
+  {
+    "id": "q-0041",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Comte's Traité de la propriété Vol I, what does chapter 4 argue about the occupation of things?",
+    "rationale": "Vol I chapter 4 'De l'occupation des choses' — central to Comte's theory of how property arises.",
+    "expected_works": ["charles-comte-traite-de-la-propriete-vol-i-2c7a99"]
+  },
+  {
+    "id": "q-0042",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me the section in Dunoyer's Nouveau traité d'économie Vol I on the influence of race on liberty.",
+    "rationale": "Vol I chapter 2 'Influence de la race sur la liberte'. Tests French chapter retrieval and the 19th-century race-and-liberty argument.",
+    "expected_works": ["charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"]
+  },
+  {
+    "id": "q-0043",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Quote Fichte's argument in Zurückforderung der Denkfreiheit on why freedom of thought cannot be granted by princes — it can only be reclaimed.",
+    "rationale": "The title of the pamphlet itself ('reclamation of freedom of thought from the princes of Europe') points to this thesis. Tests German-language retrieval.",
+    "expected_works": ["johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"]
+  },
+  {
+    "id": "q-0044",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Iqbal's 'Insaan' (in Bang-e-Dara Part 2) say about the human being?",
+    "rationale": "Disambiguation test — both Part 2 and Part 3 have an 'Insaan' poem. Falsafa should pick the Part 2 chapter 14.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-2-9bc58c"]
+  },
+  {
+    "id": "q-0045",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Distinguish what Iqbal's two 'Insaan' poems (Bang-e-Dara Part 2 chapter 14 and Part 3 chapter 12) say differently about humanity.",
+    "rationale": "Tests duplicate-title disambiguation and within-author comparison.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-2-9bc58c", "allama-iqbal-bang-e-dara-part-3-cc61e8"]
+  },
+  {
+    "id": "q-0046",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "What does Ghalib's matla 'Bazicha-e-atfal hai duniya mere aage' compare the world to?",
+    "rationale": "Famous ghazal opening — world as a children's playground. Tests classic-line retrieval.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0047",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Subah ka Sitara' (Morning Star), what does the speaker say about Venus?",
+    "rationale": "Bang-e-Dara Part 1 chapter 42. Tests astronomical-figure retrieval.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0048",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find the passage in Iqbal's 'Parinde ki Faryad' where the caged bird laments.",
+    "rationale": "Bang-e-Dara Part 1 chapter 34 — 'The Bird's Lament'. Famous Iqbal piece on captivity.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0049",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me Iqbal's 'Sarguzasht-e-Adam' — the autobiography of Adam.",
+    "rationale": "Bang-e-Dara Part 1 chapter 37. Mythopoetic poem on the human-historical condition.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0050",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "In Yajnavalkya Smriti chapter 1, locate the verses on the four ashramas (life-stages) of a Brahmin.",
+    "rationale": "Tests passage retrieval inside an 11,500-word chapter. The ashrama-vyavastha is a core dharma topic.",
+    "expected_works": ["unknown-yajnavalkya-smrti-cb88d6"]
+  },
+  {
+    "id": "q-0051",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Quote Iqbal's lines in 'Bilad-e-Islamiya' on the cities of Islam.",
+    "rationale": "Bang-e-Dara Part 3 chapter 2 — geographic-political meditation. Tests retrieval of an explicitly named topic.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-3-cc61e8"]
+  },
+  {
+    "id": "q-0052",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "What does Ghalib's 'Ghum khaane mein boodaa hai dil' open with about the heart's dwelling in sorrow?",
+    "rationale": "Tests retrieval of a poignant matla on the heart inhabiting grief.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0053",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me where Ghalib speaks of the unfaithful beloved as having no equal in the world.",
+    "rationale": "Open semantic retrieval — Ghalib makes this jab in several places. Should produce candidate passages.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0054",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Find the verse in Visnu Smriti where the proper times for ritual bathing are enumerated.",
+    "rationale": "Tests purification-ritual retrieval inside a 100-chapter dharma text.",
+    "expected_works": ["unknown-visnu-smrti-27f0d8"]
+  },
+  {
+    "id": "q-0055",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Tujh ko duzdida nigahi yeh sikha di kis ne', who taught the beloved the art of stolen glances?",
+    "rationale": "Bang-e-Dara Part 2 chapter 26. Classical ghazal trope; tests Iqbal's rare ghazal-form output.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-2-9bc58c"]
+  },
+  {
+    "id": "q-0056",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Quote Ghalib's matla on the night of separation lasting until judgment day.",
+    "rationale": "Tests fuzzy retrieval to ghazal 03 'Aah ko chahiye ik umr asar hote tak' — the line about hijr-e-shab.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0057",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Dard-e-Ishq' (Bang-e-Dara Part 1 chapter 17), how is the pain of love characterised?",
+    "rationale": "Tests retrieval of a foundational early Iqbal piece on the metaphysics of love-suffering.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0058",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me the verse in Iqbal's 'Ek Makra aur Makhi' where the spider lures the fly.",
+    "rationale": "Bang-e-Dara Part 1 chapter 20. Iqbal's adaptation of Mary Howitt — tests fable retrieval.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0059",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Iqbal's 'Ek Pahar aur Gilehri' (mountain and squirrel) teach?",
+    "rationale": "Bang-e-Dara Part 1 chapter 21. Famous didactic short poem; tests fable-with-moral retrieval.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0060",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Quote the matla of Ghalib's 'Mehrbaan ho ke bula lo mujhe chaaho jis waqt'.",
+    "rationale": "Tests retrieval of a famous Ghalib couplet about being summoned by the beloved.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0061",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Locate Iqbal's 'Kinaar-e-Ravi' — the poem on the bank of the Ravi river.",
+    "rationale": "Bang-e-Dara Part 1 chapter 28. River-meditation poem.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0062",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "In Naradasmriti, find the verses on the 18 titles of law (vyavahara-padas).",
+    "rationale": "Narada's classic taxonomy of legal titles. Tests dharma-text retrieval on a specific legal taxonomy.",
+    "expected_works": ["unknown-naradasmrti-7650d2"]
+  },
+  {
+    "id": "q-0063",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Zauq's 'Layi hayaat aaye, qaza le chali chale' say about life and death?",
+    "rationale": "One of Zauq's most-quoted couplets. Tests whether Falsafa can locate a partial first-line query.",
+    "expected_works": ["sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"]
+  },
+  {
+    "id": "q-0064",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "What does Ghalib's 'Ghum-e-hasti ka asad kis se ho juz marg ilaaj' say is the only cure for the sorrow of existence?",
+    "rationale": "Famous closing couplet of ghazal 3 about the candle burning till morning. Tests citation under partial first-line.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0065",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me Iqbal's 'Wataniyat' — the poem where he criticizes territorial nationalism.",
+    "rationale": "Bang-e-Dara Part 3 chapter 25. Critique of nationalism is a major Iqbal theme — tests title-to-thesis retrieval.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-3-cc61e8"]
+  },
+  {
+    "id": "q-0066",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In 'Larkiyan parh rahi hain Angrezi' (Bang-e-Dara Part 3 chapter 27), what does Iqbal observe about girls learning English?",
+    "rationale": "Tests retrieval of a satirical Iqbal piece on colonial education.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-3-cc61e8"]
+  },
+  {
+    "id": "q-0067",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Quote the line from the Old English poem 'Welund him be wurman wraeces cunnade' that names the smith Welund.",
+    "rationale": "This is Deor — referenced by its incipit. Tests whether Falsafa recognizes the convention of naming Old English poems by first lines.",
+    "expected_works": ["unknown-old-english-elegies-d5fe9e"]
+  },
+  {
+    "id": "q-0068",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find Widsith's catalog — what tribes does the speaker claim to have visited?",
+    "rationale": "Old English Elegies chapter 14. Widsith is a famous catalog poem.",
+    "expected_works": ["unknown-old-english-elegies-d5fe9e"]
+  },
+  {
+    "id": "q-0069",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In the Old English Elegies, locate the riddling poem 'Wraetlic is thes wealstan' on the ruined city.",
+    "rationale": "Old English Elegies chapter 16 — The Ruin. Tests incipit-based retrieval.",
+    "expected_works": ["unknown-old-english-elegies-d5fe9e"]
+  },
+  {
+    "id": "q-0070",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Quote Ghalib's matla 'Kab woh sunta hai kahani meri'.",
+    "rationale": "Tests direct title-to-couplet retrieval for ghazal 102.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0071",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Iqbal's 'Mauj-e-Darya' (river-wave) say about the wave's restlessness?",
+    "rationale": "Bang-e-Dara Part 1 chapter 31. Metaphysical reading of motion.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0072",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me Iqbal's 'Shama o Parwana' — the candle and the moth.",
+    "rationale": "Bang-e-Dara Part 1 chapter 41. Persian-Urdu archetype of the moth and the flame.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0073",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "In Comte's Traité de Législation Vol I chapter 5, what laws does Comte say men are subject to by their physical organisation?",
+    "rationale": "Tests French-language retrieval of a specific chapter argument about biological constraints on legislation.",
+    "expected_works": ["charles-comte-traite-de-legislation-vol-i-7e62a2"]
+  },
+  {
+    "id": "q-0074",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Comte argue in chapter 8 of Traité de Législation Vol I about positive religion as the foundation of legislation?",
+    "rationale": "Specific chapter retrieval inside Comte's critique of theocratic foundations.",
+    "expected_works": ["charles-comte-traite-de-legislation-vol-i-7e62a2"]
+  },
+  {
+    "id": "q-0075",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Quote Comte in Traité de la propriété Vol I chapter 2 on liberty as a condition of property.",
+    "rationale": "Comte's central thesis: property follows from liberty. Tests retrieval of foundational chapter.",
+    "expected_works": ["charles-comte-traite-de-la-propriete-vol-i-2c7a99"]
+  },
+  {
+    "id": "q-0076",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Comte's chapter on the deforestation of mountains (Traité de la propriété Vol I chapter 13), what political-economic argument does he make?",
+    "rationale": "Tests retrieval of a niche but specific 19th-century environmental-economic argument.",
+    "expected_works": ["charles-comte-traite-de-la-propriete-vol-i-2c7a99"]
+  },
+  {
+    "id": "q-0077",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Show me Iqbal's 'Hindostan Hamara' — the song about India being our homeland.",
+    "rationale": "Tests title-to-poem retrieval for one of Iqbal's most-anthologised pieces (also a national anthem candidate).",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0078",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find Iqbal's poem 'Ram' in Bang-e-Dara Part 3 — what does he say about the figure of Ram?",
+    "rationale": "Iqbal's Hindu-Muslim syncretist piece on Lord Ram. Politically interesting; tests cross-religious-figure retrieval.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-3-cc61e8"]
+  },
+  {
+    "id": "q-0079",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Swami Ram Tirath' (Bang-e-Dara Part 2 chapter 23), what tribute does he pay to the Hindu sage?",
+    "rationale": "Tests another Iqbal cross-religious tribute. Famous for its ecumenicism.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-2-9bc58c"]
+  },
+  {
+    "id": "q-0080",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Quote Ghalib's couplet 'Hain aur bhi duniya mein sukhanwar bahut achhe' about other poets being good but Ghalib's style being other.",
+    "rationale": "Famous self-laudatory couplet. Tests retrieval of a specific takhallus-style assertion.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0081",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Ghalib's 'Hum ko maaloom hai jannat ki haqeeqat lekin', what does he say about the reality of paradise?",
+    "rationale": "Famous skeptical couplet. Tests semantic-paraphrase retrieval.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0082",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me where Ghalib uses the phrase 'rang-e-mai-khana' (the colour of the wine-house).",
+    "rationale": "Tests phrase-level retrieval through Ghalib's many wine-house images.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0083",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Find the chapter in Visnu Smriti that prescribes the punishment for a Brahmin's theft.",
+    "rationale": "Tests caste-graded penal-law retrieval inside a 100-chapter Sanskrit text. Genuinely thorny because the rule is split across sections.",
+    "expected_works": ["unknown-visnu-smrti-27f0d8"]
+  },
+  {
+    "id": "q-0084",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Manusmriti chapter 7, what does Manu say about the king's duty in war?",
+    "rationale": "Manu chapter 7 is the classic raja-dharma chapter. Tests standard subject-to-chapter retrieval.",
+    "expected_works": ["unknown-manusmrti-347b76"]
+  },
+  {
+    "id": "q-0085",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Manu chapter 9 prescribe about the duties of husband and wife?",
+    "rationale": "Tests retrieval of the family-law chapter. Heavily quoted in modern commentary.",
+    "expected_works": ["unknown-manusmrti-347b76"]
+  },
+  {
+    "id": "q-0086",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Quote Iqbal's lines about the eagle and the sparrow.",
+    "rationale": "Iqbal's shaheen imagery is recurrent. Tests motif retrieval — Falsafa should surface candidates from across Bang-e-Dara.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c", "allama-iqbal-bang-e-dara-part-2-9bc58c", "allama-iqbal-bang-e-dara-part-3-cc61e8"]
+  },
+  {
+    "id": "q-0087",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Locate the verse in 'The Wanderer' that describes the lord's body being 'covered by the earth's darkness'.",
+    "rationale": "Tests exact-phrase retrieval. The metaphor is from translation-2.md and is one of the elegy's pivots.",
+    "expected_works": ["unknown-old-english-elegies-d5fe9e"]
+  },
+  {
+    "id": "q-0088",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Visal' (Bang-e-Dara Part 2 chapter 27), what is said about union with the beloved?",
+    "rationale": "Tests retrieval of the explicit union-poem. Disambiguates from numerous adjacent love poems.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-2-9bc58c"]
+  },
+  {
+    "id": "q-0089",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me Iqbal's 'Tanhai' — the poem on solitude.",
+    "rationale": "Bang-e-Dara Part 2 chapter 25. Tests literal title retrieval.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-2-9bc58c"]
+  },
+  {
+    "id": "q-0090",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "What does Ghalib's 'Mohabbat mein nahin hai farq jeenay aur marnay ka' say about the lover's indifference to life and death?",
+    "rationale": "One of Ghalib's most-quoted couplets. Tests retrieval of an aphoristic assertion.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0091",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Yajnavalkya Smriti chapter 1, where does he describe the dharma of the householder (grhastha)?",
+    "rationale": "Tests passage retrieval inside Yajnavalkya's long opening chapter on conduct.",
+    "expected_works": ["unknown-yajnavalkya-smrti-cb88d6"]
+  },
+  {
+    "id": "q-0092",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Show me Iqbal's 'Bacha aur Shama' — the child and the candle.",
+    "rationale": "Bang-e-Dara Part 1 chapter 15. Tests title-to-poem retrieval.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0093",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Jugnu' (firefly), what does the firefly's small light teach?",
+    "rationale": "Bang-e-Dara Part 1 chapter 27. Iqbal's khudi-microcosm reading of the firefly.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0094",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Iqbal's 'Mehr-e-Roshan' say about the bright sun?",
+    "rationale": "Bang-e-Dara Part 1 chapter 32. Distinguishes from 'Aaftab'.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0095",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me 'Ehd-e-Tifli' — Iqbal's poem of childhood memory.",
+    "rationale": "Bang-e-Dara Part 1 chapter 19. Famous nostalgic piece.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0096",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Quote Ghalib's couplet that begins 'Rah-rau ki manzil hai aur na karwaan kahin' (the wayfarer has neither a destination nor a caravan).",
+    "rationale": "Tests retrieval of an obscure but real Ghalib couplet on solitary wandering.",
+    "expected_works": ["mirza-ghalib-diwan-e-ghalib-74ed4c"]
+  },
+  {
+    "id": "q-0097",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Husn o Ishq', what is the relationship he draws between beauty and love?",
+    "rationale": "Bang-e-Dara Part 2 chapter 13. The classical husn/ishq dialectic.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-2-9bc58c"]
+  },
+  {
+    "id": "q-0098",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Iqbal's 'Haqeeqat-e-Husn' (the reality of beauty) argue about beauty's metaphysical source?",
+    "rationale": "Bang-e-Dara Part 2 chapter 12. Companion-piece to Husn o Ishq.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-2-9bc58c"]
+  },
+  {
+    "id": "q-0099",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Quote Iqbal's 'Sare jahan se achha Hindostan hamara'.",
+    "rationale": "Most famous line from the children's song. Tests anthem-line retrieval.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-1-55b25c"]
+  },
+  {
+    "id": "q-0100",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find the line in 'Tarana-e-Milli' where Iqbal calls the Muslim community a single body.",
+    "rationale": "Bang-e-Dara Part 3 chapter 23. Tests political-theological assertion retrieval.",
+    "expected_works": ["allama-iqbal-bang-e-dara-part-3-cc61e8"]
+  }
+]
