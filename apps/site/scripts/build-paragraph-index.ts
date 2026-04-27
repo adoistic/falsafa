@@ -50,7 +50,13 @@ interface IndexEntry {
   work: string;
   /** Chapter slug — directory name under corpus/works/<work>/chapters/. */
   chapter: string;
-  /** Variant key — filename minus ".md" (e.g. "original", "translation"). */
+  /**
+   * Variant key — the variant's `content_type` from meta.json (e.g.
+   * "original", "translation", "transliteration"). This is what the
+   * /works/[slug]/[chapter]/[variant] route accepts, NOT the file
+   * basename. They usually match, but a few chapters have a file like
+   * `translation-2.md` whose content_type is still "translation".
+   */
   variant: string;
 }
 
@@ -58,6 +64,10 @@ interface ParagraphsFileEntry {
   id: string;
   offset?: number;
   text?: string;
+}
+
+interface ChapterMeta {
+  variants: { file: string; content_type: string }[];
 }
 
 const index: Record<string, IndexEntry> = {};
@@ -79,11 +89,33 @@ for (const workSlug of readdirSync(worksRoot)) {
     if (!statSync(chapterDir).isDirectory()) continue;
     chaptersScanned++;
 
+    // Read meta.json to map file basenames → content_types. The URL
+    // route uses content_type; we MUST key the index that way so the
+    // citation-url helper can build a working /works/.../variant link.
+    const metaPath = join(chapterDir, "meta.json");
+    const fileBasenameToContentType = new Map<string, string>();
+    if (existsSync(metaPath)) {
+      try {
+        const meta = JSON.parse(readFileSync(metaPath, "utf8")) as ChapterMeta;
+        for (const v of meta.variants ?? []) {
+          if (v.file && v.content_type) {
+            fileBasenameToContentType.set(v.file.replace(/\.md$/, ""), v.content_type);
+          }
+        }
+      } catch (err) {
+        console.warn(`build-paragraph-index: failed to read meta.json in ${chapterSlug}: ${err}`);
+        // Fall back to assuming basename === content_type below.
+      }
+    }
+
     for (const file of readdirSync(chapterDir)) {
       if (!file.endsWith(".paragraphs.json")) continue;
 
-      // "original.paragraphs.json" → variant "original"
-      const variant = file.replace(/\.paragraphs\.json$/, "");
+      // "original.paragraphs.json" → file basename "original"
+      const fileBasename = file.replace(/\.paragraphs\.json$/, "");
+      // Map to content_type (the URL slug). Fall back to basename if
+      // meta.json was missing or unreadable — same string in 99% of cases.
+      const variant = fileBasenameToContentType.get(fileBasename) ?? fileBasename;
 
       let entries: ParagraphsFileEntry[];
       try {
