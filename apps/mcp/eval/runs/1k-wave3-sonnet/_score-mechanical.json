@@ -1,0 +1,343 @@
+{
+  "total_pass": 33,
+  "total_judged": 34,
+  "pass_rate": 0.9705882352941176,
+  "by_category": {
+    "citation": {
+      "pass": 10,
+      "total": 10
+    },
+    "comparative": {
+      "pass": 9,
+      "total": 9
+    },
+    "conceptual": {
+      "pass": 4,
+      "total": 5
+    },
+    "discovery": {
+      "pass": 5,
+      "total": 5
+    },
+    "specific-obscure": {
+      "pass": 2,
+      "total": 2
+    },
+    "multilingual": {
+      "pass": 2,
+      "total": 2
+    },
+    "cross-cultural": {
+      "pass": 1,
+      "total": 1
+    }
+  },
+  "per_question": [
+    {
+      "id": "q-0005",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 4
+    },
+    {
+      "id": "q-0041",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 3
+    },
+    {
+      "id": "q-0076",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 3
+    },
+    {
+      "id": "q-0111",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 5
+    },
+    {
+      "id": "q-0142",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 6
+    },
+    {
+      "id": "q-0175",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 6
+    },
+    {
+      "id": "q-0015",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 6
+    },
+    {
+      "id": "q-0073",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 2
+    },
+    {
+      "id": "q-0138",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 9
+    },
+    {
+      "id": "q-0002",
+      "category": "citation",
+      "difficulty": "easy",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 4
+    },
+    {
+      "id": "q-0203",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "toolCount": 5
+    },
+    {
+      "id": "q-0247",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "toolCount": 7
+    },
+    {
+      "id": "q-0282",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 7
+    },
+    {
+      "id": "q-0314",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "toolCount": 7
+    },
+    {
+      "id": "q-0343",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "toolCount": 10
+    },
+    {
+      "id": "q-0372",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "toolCount": 11
+    },
+    {
+      "id": "q-0204",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "toolCount": 4
+    },
+    {
+      "id": "q-0227",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 2,
+      "expected": 4,
+      "toolCount": 11
+    },
+    {
+      "id": "q-0266",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 4
+    },
+    {
+      "id": "q-0552",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 3,
+      "toolCount": 8
+    },
+    {
+      "id": "q-0582",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": false,
+      "hits": 1,
+      "expected": 4,
+      "toolCount": 14
+    },
+    {
+      "id": "q-0611",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 6
+    },
+    {
+      "id": "q-0642",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 8
+    },
+    {
+      "id": "q-0671",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 3,
+      "toolCount": 13
+    },
+    {
+      "id": "q-0402",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 3,
+      "toolCount": 12
+    },
+    {
+      "id": "q-0432",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "toolCount": 14
+    },
+    {
+      "id": "q-0461",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "toolCount": 12
+    },
+    {
+      "id": "q-0492",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 3,
+      "toolCount": 13
+    },
+    {
+      "id": "q-0521",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 4,
+      "expected": 4,
+      "toolCount": 15
+    },
+    {
+      "id": "q-0702",
+      "category": "specific-obscure",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 9
+    },
+    {
+      "id": "q-0777",
+      "category": "specific-obscure",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "toolCount": 3
+    },
+    {
+      "id": "q-0852",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "toolCount": 8
+    },
+    {
+      "id": "q-0902",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "toolCount": 12
+    },
+    {
+      "id": "q-0952",
+      "category": "cross-cultural",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "toolCount": 10
+    }
+  ]
+}

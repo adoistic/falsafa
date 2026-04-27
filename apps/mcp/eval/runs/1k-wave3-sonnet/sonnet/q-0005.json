@@ -1,0 +1,13 @@
+{
+  "answer": "In Iqbal's 'Shikwa' (Bang-e-Dara Part 3, chapter 20, work slug: allama-iqbal-bang-e-dara-part-3-cc61e8), the most direct complaint to God about the fate of Muslims appears in two adjacent stanzas. The first (paragraph p-20fc7c) draws the sharpest contrast: after cataloguing other nations — sinners, the proud, the lazy, those who ignore God's name entirely — the speaker turns the accusation on God directly: 'But all Your blessings fall upon the houses of the foe, / While on the wretched Muslims falls the lightning's fiery blow.' The second key stanza (p-d1e7fe) presses the grievance further with explicit rhetorical questions addressed to God: 'Why is the wealth of this world now so scarce for Muslim hands? / Your power is the one that has no limits, no demands. / ... We face the taunts of strangers, disgrace, and poverty; / Is this the prize for those who gave their very lives for Thee?' Together, these stanzas form the heart of the shikwa — the Muslims served God faithfully while others did not, yet the faithful are punished and the faithless prosper. The tone is boldly accusatory but framed within a devotional address.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 Bang-e-Dara parts by Allama Iqbal"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "Found 'Shikwa' at chapter 20"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "variant": "translation"}, "result_summary": "Read full Shikwa translation — 32 paragraphs, identified complaint stanzas"},
+    {"name": "get_passage", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "paragraph_range": {"start": 0, "end": 31}}, "result_summary": "Retrieved all paragraph IDs; identified p-20fc7c and p-d1e7fe as the core complaint verses"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "paragraph_id": "p-20fc7c"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "paragraph_id": "p-d1e7fe"}
+  ]
+}

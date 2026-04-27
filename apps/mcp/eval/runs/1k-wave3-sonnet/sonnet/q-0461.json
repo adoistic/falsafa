@@ -1,0 +1,35 @@
+{
+  "answer": "Four works in the corpus contain narrative miracle scenes:\n\n1. **Andreas** (cynewulf-andreas-07b573, ch. 1): The richest source of narrative miracles in the corpus. Includes: a stone idol leaping from the wall and speaking to testify about Christ (p-60c0a6); Abraham, Isaac, and Jacob raised from their graves by divine command (p-bb7698); prison guards dying and a door opening at the Holy Spirit's touch (p-74e29a); weapons melting like wax to protect an innocent boy (p-36273e); Andrew commanding a marble column to send forth a great flood to punish the Mermedonians (p-2e50c1); young men drowned in that flood raised back to life (p-0609a7); and Andrew's own wounds miraculously healed overnight (p-997c80).\n\n2. **Juliana** (cynewulf-juliana-9a2157, ch. 1): A demon enters Juliana's locked prison cell in angel form (p-a370d7); a voice speaks from heaven commanding her to seize him (p-28b423); she holds the demon captive and interrogates him (p-5f858b); an angel scatters a fire set to kill her (p-3a01e6); she survives boiling lead unharmed while 75 heathens are burned (p-3a01e6).\n\n3. **Elene** (cynewulf-elene-d2d132, ch. 1): An angel appears in Constantine's dream, shows him the glowing Cross, and declares 'By this sign, conquer' (p-acdc07, p-306e06) — a narrative vision miracle that leads directly to his military victory.\n\n4. **Kunjarakarna Dharmakathana** (unknown-kunjarakarna-dharmakathana-894f4a, ch. 1): On the tenth night in hell, Pūrṇavijaya's meditation miraculously shatters the cauldron of punishment, which transforms into a jeweled lotus pond; the sword-tree becomes a Pārijāta laden with gems; all of Yama's weapons crumble to dust; and the entire hell is transformed into a celestial court — to the astonishment of the god Yamādhipa himself (p-1353c8, p-5cee32, p-3f3237, p-b97926).\n\nThe remaining works (Sanskrit Smṛtis, French political theory, Urdu poetry, German pamphlet, Kawi doctrinal texts) contain at most passing references to miracles but no sustained narrative miracle scenes.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Retrieved all 38 works; identified Cynewulf hagiographic poems (Andreas, Juliana, Elene) and Kawi narratives (Kunjarakarna Dharmakathana) as prime candidates for miracle scenes"},
+    {"name": "search_corpus", "args": {"query": "miracle"}, "result_summary": "18 results, mostly passing references to 'miracle' in Iqbal, Ghalib, and French political theory — none narrative scenes. Confirms no miracle narratives in those works."},
+    {"name": "search_corpus", "args": {"query": "Andrew"}, "result_summary": "10 results, all in Andreas ch.1 and Juliana ch.1, confirming these are the main narrative hagiographic works"},
+    {"name": "read_chapter", "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1}, "result_summary": "Full text confirmed; Andreas ch.1 is a 12,387-word poem with numerous miracle scenes"},
+    {"name": "get_passage", "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_range": {"start": 40, "end": 60}}, "result_summary": "Confirmed miracle scenes: stone statue speaks (p-60c0a6), patriarchs raised (p-bb7698), guards die and door opens (p-74e29a), weapons melt (p-36273e)"},
+    {"name": "get_passage", "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_range": {"start": 60, "end": 82}}, "result_summary": "Confirmed more miracles: marble column sends flood (p-2e50c1), drowned youths raised (p-0609a7), Andrew healed (p-997c80), blood-trail blooms (p-a0e8df)"},
+    {"name": "get_passage", "args": {"work_slug": "cynewulf-elene-d2d132", "chapter_number": 1, "paragraph_range": {"start": 3, "end": 12}}, "result_summary": "Confirmed Constantine's angelic vision of the Cross in a dream (p-acdc07, p-306e06) — narrative miracle scene"},
+    {"name": "get_passage", "args": {"work_slug": "cynewulf-juliana-9a2157", "chapter_number": 1, "paragraph_range": {"start": 20, "end": 44}}, "result_summary": "Confirmed Juliana's miracle scenes: demon seized by maiden, angel scatters fire, she survives boiling lead (p-a370d7, p-28b423, p-3a01e6)"},
+    {"name": "search_corpus", "args": {"query": "transformed"}, "result_summary": "Key hit in Kunjarakarna Dharmakathana: 'The cauldron was shattered, its fire died, transformed into a jeweled lotus pond' (p-1353c8) and similar (p-b97926) — narrative miracle scene"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_range": {"start": 150, "end": 180}}, "result_summary": "Confirmed Kunjarakarna miracle: Purnavijaya's meditation shatters hell cauldron (p-1353c8), sword-tree transforms (p-5cee32), Yama's weapons crumble (p-3f3237)"},
+    {"name": "search_corpus", "args": {"query": "fire did not burn"}, "result_summary": "One hit in Manusmrti ch.8 (Vatsa fire trial, p-803bc3) but this is a brief legal precedent reference, not a narrated scene"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-san-hyan-kamahayanikan-2a0c19", "chapter_number": 1}, "result_summary": "Doctrinal Tantric Buddhist text — no narrative miracle scenes; only instructional content and metaphorical references"}
+  ],
+  "citations": [
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-60c0a6"},
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-bb7698"},
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-74e29a"},
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-36273e"},
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-2e50c1"},
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-0609a7"},
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-997c80"},
+    {"work_slug": "cynewulf-juliana-9a2157", "chapter_number": 1, "paragraph_id": "p-a370d7"},
+    {"work_slug": "cynewulf-juliana-9a2157", "chapter_number": 1, "paragraph_id": "p-28b423"},
+    {"work_slug": "cynewulf-juliana-9a2157", "chapter_number": 1, "paragraph_id": "p-3a01e6"},
+    {"work_slug": "cynewulf-elene-d2d132", "chapter_number": 1, "paragraph_id": "p-acdc07"},
+    {"work_slug": "cynewulf-elene-d2d132", "chapter_number": 1, "paragraph_id": "p-306e06"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-1353c8"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-5cee32"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-3f3237"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-b97926"}
+  ]
+}

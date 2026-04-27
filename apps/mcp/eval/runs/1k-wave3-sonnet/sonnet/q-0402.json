@@ -1,0 +1,26 @@
+{
+  "answer": "Four texts in the corpus contain explicit cosmogonies (creation accounts):\n\n1. **Manusmṛti** (`unknown-manusmrti-347b76`, ch. 1) — The most detailed cosmogony in the corpus. Verses 1.5–1.80 describe the universe as primordial darkness, the divine Self-existent One (Svayambhū) manifesting and dispelling darkness, creating the waters, casting his seed to form a golden egg, Brahma being born from it, and then the sequential creation of gods, elements, creatures, the four varnas, cosmic cycles (yugas, manvantaras), and the dissolution and re-creation of the world.\n\n2. **Viṣṇu Smṛti** (`unknown-visnu-smrti-27f0d8`, ch. 1) — Opens with a cosmogonic hymn: after the night of Brahma has passed and the Lotus-born awakens, Vishnu takes the form of the Boar and lifts the Earth from the primordial waters. The chapter embeds this re-creation narrative within a hymn of Vishnu's cosmic attributes.\n\n3. **Gaṇapatitattva** (`unknown-ganapatitattva-66a136`, ch. 1) — Contains an explicit Śaiva cosmogony in dialogue form. Īśvara (Śiva) explains to Gaṇapati: from Oṃkāra emerges the bindu; from the bindu emerge the five divine Selves (Brahmā, Viṣṇu, Rudra, Īśvara, Sadāśiva); from them emerge the five subtle elements (sound, touch, form, taste, scent); from those emerge the gross elements (ether, air, light, water, earth); and from those, the full cosmos — land, seas, sun, moon, stars, wind, plants, and animals — followed by the creation of human beings.\n\n4. **San Hyan Tattvajnana** (`unknown-san-hyan-tattvajnana-1f29bd`, ch. 1) — A Kawi (Old Javanese) Śaiva-Sāṃkhya text that contains cosmogonic passages. It describes Sadāśivatattva creating 'the entire world' including all deities and the five elements; then the meeting of Pradhāna and Puruṣa generating the triguṇas and citta; and later the cosmic egg (aṇḍabhuvana) made of the five mahābhūtas, enclosing the seven upper and seven lower worlds. The cosmogony is embedded in a philosophical treatise on the tattvas rather than presented as a standalone narrative.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Listed all 38 works in corpus to identify candidates likely to contain cosmogonies"},
+    {"name": "search_corpus", "args": {"query": "cosmic egg"}, "result_summary": "Found cosmic egg in San Hyan Tattvajnana ch.1, Vīramitrodaya ch.1, and Vrhaspatitattva ch.1"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1}, "result_summary": "Confirmed detailed cosmogony in ch.1: primordial darkness, Self-existent One, waters, golden egg, Brahma, creation of all beings"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-san-hyan-tattvajnana-1f29bd", "chapter_number": 1}, "result_summary": "Confirmed cosmological/cosmogonic content: Sadāśivatattva creates entire world, cosmic egg (aṇḍabhuvana), Pradhāna+Puruṣa generating cosmos"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-ganapatitattva-66a136", "chapter_number": 1}, "result_summary": "Confirmed explicit cosmogony: Oṃkāra → bindu → five divine Selves → five subtle elements → gross elements → full cosmos"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 1}, "result_summary": "Confirmed cosmogonic opening: Vishnu-as-Boar lifts Earth from primordial waters after night of Brahma"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-vrhaspatitattva-b60b28", "chapter_number": 1}, "result_summary": "No explicit cosmogony; text is about karma, vāsanā, and different birth-states"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1}, "result_summary": "No cosmogony; Buddhist narrative poem about dharma teaching"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 1}, "result_summary": "Mentions mahāpralaya briefly; describes the five Buddhas (Pañcatathāgata) and their attributes — not an explicit cosmogony"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 9}, "result_summary": "Resignation poem: references God shaping heaven and earth but not a cosmogonic narrative"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 1}, "result_summary": "No cosmogony; about dharma for the Kali yuga"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1}, "result_summary": "No cosmogony; introduces dharma and the sources of sacred law"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-61df11"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-93cef0"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-153021"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 1, "paragraph_id": "p-88086c"},
+    {"work_slug": "unknown-ganapatitattva-66a136", "chapter_number": 1, "paragraph_id": "p-f03790"},
+    {"work_slug": "unknown-ganapatitattva-66a136", "chapter_number": 1, "paragraph_id": "p-b07fcd"},
+    {"work_slug": "unknown-san-hyan-tattvajnana-1f29bd", "chapter_number": 1, "paragraph_id": "p-314d51"}
+  ]
+}

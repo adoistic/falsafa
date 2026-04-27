@@ -1,0 +1,14 @@
+{
+  "answer": "Iqbal's 'Ek Makra aur Makhi' (The Spider and the Fly) is found in Bang-E-Dara Part 1 (work slug: allama-iqbal-bang-e-dara-part-1-55b25c), chapter 20. It is a narrative fable poem in which a spider tries to lure a fly into his web-home with hospitality and flattery. The fly initially refuses, recognizing the trap ('those who climb your stair are seen no more'), but the spider's flattery — praising her diamond eyes, her crowned head, her beauty and song — eventually softens her. She relents ('To break a heart—that's not what I am for'), flies closer, and the spider pounces and devours her. The moral is a sharp warning against flattery (khushamad): 'The world is slave to flattery's own creed.' The poem is available in Urdu original, English translation, and Roman-Urdu transliteration.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "makra makhi"}, "result_summary": "0 results — Urdu terms not indexed in English search scope"},
+    {"name": "list_works", "args": {"author": "iqbal"}, "result_summary": "Found 3 works: Bang-E-Dara Part 1, 2, 3"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "Chapter 20 is 'Ek Makra aur Makhi' with original, translation, transliteration variants"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 20, "variant": "original"}, "result_summary": "Full Urdu text retrieved — 5 paragraphs, 438 words"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 20, "variant": "translation"}, "result_summary": "Full English translation retrieved — spider-fly fable with flattery moral"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 20, "variant": "transliteration"}, "result_summary": "Full Roman-Urdu transliteration retrieved"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 20, "paragraph_id": null}
+  ]
+}

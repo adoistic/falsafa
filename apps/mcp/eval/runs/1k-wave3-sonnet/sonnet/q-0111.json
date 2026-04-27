@@ -1,0 +1,13 @@
+{
+  "answer": "The line is: 'Where has the horse gone? Where has the warrior gone? Where the treasure-giver?' — found in The Wanderer (chapter 11 of 'Old English Elegies', work slug: unknown-old-english-elegies-d5fe9e). In the corpus translation, 'the rider' of the traditional formulation is rendered as 'the warrior'. The full ubi sunt passage reads: 'Where has the horse gone? Where has the warrior gone? Where the treasure-giver? / Where have the feast-benches gone? Where are the hall-joys? / Alas, the bright cup! Alas, the mailed warrior! / Alas, the prince's pride! How that time has passed, / grown dark under night's helm, as if it never were!'",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "where has the horse gone where the rider"}, "result_summary": "No direct hit for The Wanderer; auto-fallback to tokens rider/horse/gone across unrelated works"},
+    {"name": "list_works", "args": {}, "result_summary": "Found 'Old English Elegies' (unknown-old-english-elegies-d5fe9e), a collection of 17 Old English elegiac poems"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e"}, "result_summary": "Chapter 11 is titled 'The Wanderer'"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "variant": "translation"}, "result_summary": "Confirmed the ubi sunt passage: 'Where has the horse gone? Where has the warrior gone? Where the treasure-giver?'"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "paragraph_range": {"start": 1, "end": 2}}, "result_summary": "Confirmed paragraph_id p-9462cc contains the horse/warrior/treasure-giver lines"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "paragraph_id": "p-9462cc"}
+  ]
+}

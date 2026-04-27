@@ -1,0 +1,24 @@
+{
+  "answer": "Manu chapter 4 (unknown-manusmrti-347b76, ch.4) opens the snātaka code at Mn_4.13 and covers travel companions at Mn_4.140: 'One should not travel too early, nor too late, nor when the sun is at its zenith; one should not go with an unknown person, nor alone, nor with Shudras.' The parallel in Viṣṇu Smṛti is chapter 63 (unknown-visnu-smrti-27f0d8, ch.63), which lists travel rules. Viṣṇu 63.2–9 closely echoes Manu on timing and companions: don't journey alone (Vi_63.2), not with unrighteous men (Vi_63.3), not with vṛṣalas/low-caste (Vi_63.4), not with enemies (Vi_63.5), not very early (Vi_63.6), not very late (Vi_63.7), not at twilights (Vi_63.8), not at midday (Vi_63.9). On the specific 'meeting a stranger' topic, the two texts diverge in one notable direction: Manu explicitly bans traveling with an unknown person (any stranger, regardless of character), while Viṣṇu does not have this blanket prohibition — Viṣṇu instead specifies the forbidden categories as unrighteous men, low-caste, and enemies. This means Viṣṇu is more permissive than Manu on the unknown-companion rule: an unknown but righteous, non-low-caste, non-enemy person could in principle accompany you under Viṣṇu's code, but Manu would bar this. So Viṣṇu does NOT rule against what Manu permits; rather, Manu is more restrictive here than Viṣṇu. Additionally, Viṣṇu adds two rules with no parallel in Manu chapter 4: (1) omen rules — turn back if you encounter a madman, drunk, dwarf, mendicant, shaven-headed man, or person wearing reddish-brown garments at the start of a journey (Vi_63.33–35); and (2) a right-of-way rule — the snātaka must give the path on the road to old men, burden-carriers, kings, other snātakas, women, sick persons, bridegrooms, and chariot-riders, with the king pre-eminent among these and the Vedic graduate to be honored by the king (Vi_63.50). Manu chapter 4 has no counterpart to either of these Viṣṇu additions. In sum, Viṣṇu does not contradict Manu on the stranger-meeting rules; Manu is the stricter text (banning unknown companions absolutely), and Viṣṇu supplements with omen and right-of-way rules that Manu omits.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Identified Manusmrti slug: unknown-manusmrti-347b76 and Vishnu Smriti slug: unknown-visnu-smrti-27f0d8"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-manusmrti-347b76"}, "result_summary": "Manusmrti has 12 chapters; chapter 4 confirmed"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-visnu-smrti-27f0d8"}, "result_summary": "Vishnu Smriti has 100 chapters"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 4}, "result_summary": "Full Manu ch.4 snātaka rules; Mn_4.13 intro; Mn_4.140 travel-companion rule: not with unknown person, alone, or Shudras"},
+    {"name": "compare_works", "args": {"work_slug_a": "unknown-manusmrti-347b76", "work_slug_b": "unknown-visnu-smrti-27f0d8", "topic": "snataka rules"}, "result_summary": "Returned only generic ch.1-3 pointers; not useful for finding parallel"},
+    {"name": "find_related", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 4}, "result_summary": "Returned Yajnavalkya ch.1 and Manu ch.2 as most similar; no Vishnu chapter"},
+    {"name": "search_corpus", "args": {"query": "snataka stranger"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "snataka vow conduct"}, "result_summary": "0 results"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 71}, "result_summary": "Vishnu ch.71 is the main snātaka conduct chapter parallel to much of Manu 4; covers dress, prohibitions, speech, etc. — but no travel-companion rules"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 63}, "result_summary": "Vishnu ch.63 is the travel-rules chapter: Vi_63.2-9 match Manu 4.140 on companions and timing; Vi_63.33-37 add omen rules for turning back; Vi_63.50 adds right-of-way rule"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 4, "paragraph_id": "p-4c50dc"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 63, "paragraph_id": "p-af3980"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 63, "paragraph_id": "p-5f55b7"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 63, "paragraph_id": "p-788438"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 63, "paragraph_id": "p-90c7bb"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 63, "paragraph_id": "p-a70a92"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 63, "paragraph_id": "p-0b5003"}
+  ]
+}

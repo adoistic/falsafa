@@ -1,0 +1,15 @@
+{
+  "answer": "The shared rule examined here is the inheritance right of the kshetraja (field-born) son when an aurasa (own-born, legitimate) son also exists.\n\nManu's rule (Manusmriti, chapter 9, Mn_9.162–9.165): Manu acknowledges both the aurasa and kshetraja as co-heirs. The aurasa is the primary master of the estate, but he is required by Dharma to give the kshetraja a sixth or fifth part of the paternal wealth when dividing (Mn_9.164). Both sons are thus statutory co-inheritors of the paternal estate, even when the aurasa is present.\n\nYajnavalkya's rule (Yajnavalkya Smriti, chapter 2, Yj_2.128 and Yj_2.132): Yajnavalkya ranks the twelve son-types in strict hierarchy: aurasa first, putrikasuta (son of an appointed daughter) second, kshetraja third. The governing rule is Yj_2.132: 'Among these, in the absence of a preceding one, each succeeding one is the giver of the funeral offering and the taker of a share.' This means the kshetraja only takes a share when there is no aurasa (and no putrikasuta). If an aurasa exists, the kshetraja inherits nothing.\n\nVerdict: Yajnavalkya tightens Manu. Manu grants the kshetraja a mandatory fractional share (1/6 to 1/5 of the estate) even when an aurasa exists alongside him. Yajnavalkya's strict hierarchical principle cuts the kshetraja out entirely the moment an aurasa is present — a direct restriction of the partial co-inheritance Manu had provided.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Confirmed both unknown-manusmrti-347b76 (12 chapters) and unknown-yajnavalkya-smrti-cb88d6 (3 chapters) are in the corpus"},
+    {"name": "search_corpus", "args": {"query": "son inheritance property"}, "result_summary": "0 results — Sanskrit smriti chapters not indexed with English inheritance keywords"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9}, "result_summary": "Full text retrieved; inheritance section found at Mn_9.103–9.190 covering partition rules, the twelve sons, and kshetraja's fractional share at Mn_9.162–9.165"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2}, "result_summary": "Full text retrieved; Division of Heritage section (Yj_2.114–2.149) found with twelve-sons hierarchy at Yj_2.128–2.132 and the 'absence of preceding one' rule at Yj_2.132"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_range": {"start": 130, "end": 155}}, "result_summary": "Retrieved paragraph IDs for Yj_2.127 (p-3d46e3), Yj_2.128 (p-735439), Yj_2.132 (p-168ba7), Yj_2.133 (p-8e72ee)"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": null},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_id": "p-735439"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_id": "p-168ba7"}
+  ]
+}

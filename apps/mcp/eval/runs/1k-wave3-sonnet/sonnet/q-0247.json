@@ -1,0 +1,18 @@
+{
+  "answer": "Manu's line is at Mn_9.3 (unknown-manusmrti-347b76, ch. 9, para p-233021): 'Her father protects her in childhood, her husband protects her in youth, and her sons protect her in old age; a woman is never fit for independence.' The parallel Yajnavalkya rule is Yj_1.85 (unknown-yajnavalkya-smrti-cb88d6, ch. 1, para p-04adc1): 'The father protects a maiden, the husband protects her after marriage, and the sons in old age; in their absence, her kinsmen do. A woman is never fit for independence.' Yajnavalkya softens Manu rather than endorsing or diverging from him outright. He uses the exact same closing formula ('a woman is never fit for independence') but inserts a critical addition: 'in their absence, her kinsmen do.' Manu's triad — father, husband, sons — is closed; Yajnavalkya's opens a fourth tier of kinsmen as fallback guardians, relaxing the exclusivity of the three-male chain. On property specifically: Manu (Mn_9.199) bars women from spending even their own wealth without the husband's permission. Yajnavalkya, by contrast, elaborately defines strīdhana — women's own property — across Yj_2.143–2.148 (ch. 2, paras p-418cd5 ff.), specifying six sources (gifts from father, mother, husband, brother, at the nuptial fire, and on supersession) and their distinct inheritance destinies. He also restricts women from freely disposing of property (Yj_2.175, para p-9ef7b5), but frames it symmetrically alongside sons ('except for a wife or son'), not as a targeted subordination. The net effect: Yajnavalkya inherits Manu's formula verbatim but cushions it — more guardians, a more elaborated and protected sphere of women's own property, and restrictions framed as family-preservation rather than purely gendered control.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Found both unknown-manusmrti-347b76 (Manusmrti, 12 chapters) and unknown-yajnavalkya-smrti-cb88d6 (Yajnavalkya Smrti, 3 chapters) in corpus"},
+    {"name": "search_corpus", "args": {"query": "woman never independent"}, "result_summary": "0 results — phrase not exact match in index"},
+    {"name": "search_corpus", "args": {"query": "woman independent guardian"}, "result_summary": "0 results — needed to read chapters directly"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9}, "result_summary": "Found Mn_9.3: 'a woman is never fit for independence' (father/husband/sons triad) and Mn_9.199: women cannot spend own wealth without husband's permission"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_range": {"start": 0, "end": 10}}, "result_summary": "Confirmed para ID p-233021 for Mn_9.3"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1}, "result_summary": "Found Yj_1.85: same 'never fit for independence' formula but with added 'in their absence, her kinsmen do' — para p-04adc1"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2}, "result_summary": "Found strīdhana provisions Yj_2.143–2.148 (para p-418cd5 ff.) and Yj_2.175 (para p-9ef7b5) on restrictions on women giving away property"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-233021"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-04adc1"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_id": "p-418cd5"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_id": "p-9ef7b5"}
+  ]
+}

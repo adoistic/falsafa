@@ -1,0 +1,14 @@
+{
+  "answer": "In San Hyan Mahajnana (work slug: unknown-san-hyan-mahajnana-11c531, chapter 1), the specific passage defining what mahajnana (great knowledge) consists in is at verse 84 and its prose commentary (paragraphs [p-6436d4] and [p-ced8e1]). The Sanskrit verse [p-6436d4] states: 'In the great wisdom is the great secret, eternally in all states of being. The manifest and the unmanifest are to be abandoned; this is called the upadeśa.' The prose commentary [p-ced8e1] elaborates: 'This jñāna is called the great wisdom (mahājñāna), the culmination of the secret, eternally present in all states of being. The vyakta (the manifest) and the avyakta (the unmanifest), they must be abandoned. That is what is called the upadeśa.' Thus mahajnana consists in the great secret (mahāguhya) that is eternally present in all states of being, and its teaching (upadeśa) consists in abandoning both the manifest (vyakta) and the unmanifest (avyakta). The following verses (85–86) add that it is the 'great tattva, the highest of tattvas,' and that 'Shiva is situated in the ātma-liṅga, and in the void within the void.'",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Found 38 works; identified 'unknown-san-hyan-mahajnana-11c531' as the target"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-san-hyan-mahajnana-11c531", "chapter_number": 1, "variant": "translation"}, "result_summary": "Retrieved full English translation (178 paragraphs). Searched for 'great wisdom' and found key definitional passages at verses 84–87"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-san-hyan-mahajnana-11c531", "chapter_number": 1, "variant": "transliteration"}, "result_summary": "Confirmed Kawi text: [p-3f1bbc] 'ikaṅ jñāna mahājñāna ṅaranya / putus niṅ guhya / nitya hananya riṅ sarvvabhāva kabeh / ikaṅ vyakta / avyakta / ya teka haryyakna / ya ta upadeśa ṅaranya' corresponds to the key definitional passage"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-san-hyan-mahajnana-11c531", "chapter_number": 1, "paragraph_id": "p-6436d4"},
+    {"work_slug": "unknown-san-hyan-mahajnana-11c531", "chapter_number": 1, "paragraph_id": "p-ced8e1"},
+    {"work_slug": "unknown-san-hyan-mahajnana-11c531", "chapter_number": 1, "paragraph_id": "p-14360c"},
+    {"work_slug": "unknown-san-hyan-mahajnana-11c531", "chapter_number": 1, "paragraph_id": "p-f7e6ce"}
+  ]
+}

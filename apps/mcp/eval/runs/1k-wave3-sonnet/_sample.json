@@ -1,0 +1,626 @@
+[
+  {
+    "id": "q-0005",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Shikwa', show me the verse where the speaker complains directly to God about the fate of Muslims.",
+    "rationale": "Tests retrieval inside Bang-e-Dara Part 3 chapter 20, the famous complaint poem.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ]
+  },
+  {
+    "id": "q-0041",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Comte's Traité de la propriété Vol I, what does chapter 4 argue about the occupation of things?",
+    "rationale": "Vol I chapter 4 'De l'occupation des choses' — central to Comte's theory of how property arises.",
+    "expected_works": [
+      "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+    ]
+  },
+  {
+    "id": "q-0076",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Comte's chapter on the deforestation of mountains (Traité de la propriété Vol I chapter 13), what political-economic argument does he make?",
+    "rationale": "Tests retrieval of a niche but specific 19th-century environmental-economic argument.",
+    "expected_works": [
+      "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+    ]
+  },
+  {
+    "id": "q-0111",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Quote the line in 'The Wanderer' that asks 'where has the horse gone? where the rider?'",
+    "rationale": "The 'Hwaer cwom mearg, hwaer cwom mago' ubi sunt passage is one of the most famous in Old English. Tests if Falsafa pulls the precise lines.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0142",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me Iqbal's 'Ek Makra aur Makhi' — the spider and the fly.",
+    "rationale": "Bang-e-Dara Part 1 ch. 20. A children's-fable poem.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 3,
+      "insight_value": 3,
+      "naturalness": 5,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0175",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find the section in Vrhaspatitattva that defines the relationship of cetana (consciousness) and acetana (the unconscious).",
+    "rationale": "Vrhaspatitattva is a Saiva Old Javanese tattva text; cetana-acetana is its core dyad.",
+    "expected_works": [
+      "unknown-vrhaspatitattva-b60b28"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0015",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Locate the passage in Cynewulf's Elene where Helena interrogates the Jews about the location of the True Cross.",
+    "rationale": "Tests deep retrieval inside the single-chapter Elene. The interrogation is a structural pivot of the poem.",
+    "expected_works": [
+      "cynewulf-elene-d2d132"
+    ]
+  },
+  {
+    "id": "q-0073",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "In Comte's Traité de Législation Vol I chapter 5, what laws does Comte say men are subject to by their physical organisation?",
+    "rationale": "Tests French-language retrieval of a specific chapter argument about biological constraints on legislation.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-i-7e62a2"
+    ]
+  },
+  {
+    "id": "q-0138",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "In Zauq's diwan, locate the maqta where he names himself in connection to the Mughal court of Bahadur Shah.",
+    "rationale": "Zauq was court poet to Bahadur Shah Zafar. Tests if Falsafa can locate maqtas with patronage references rather than just by ghazal title.",
+    "expected_works": [
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0002",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Which couplet in Ghalib's 'Koi ummeed bar nahin aati' is most famous for the line about hopelessness?",
+    "rationale": "Should land on chapter 115 of Diwan-e-Ghalib and quote the matla.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ]
+  },
+  {
+    "id": "q-0203",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Manu and Yajnavalkya both rule on a son's inheritance of property. Find one rule each treats and decide whether Yajnavalkya is tightening Manu, relaxing him, or sidestepping him.",
+    "rationale": "Cross-text inheritance comparison forced to a tightening/relaxing/sidestep call.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0247",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Manu and Yajnavalkya both treat women's autonomy in property. The famous Manu line is that 'a woman is never independent'. Find that line, then find Yajnavalkya's parallel rule. Does Yajnavalkya endorse, soften, or quietly diverge from it?",
+    "rationale": "Cross-text women's-autonomy comparison anchored on Manu's famous line.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0282",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Take two of Ghalib's couplets on the heart and contrast them. He uses dil more than 200 times across the diwan. Find an example where dil is precious and one where dil is disposable.",
+    "rationale": "Within-author motif self-comparison. Tests if Falsafa can construct a meaningful contrast pair.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0314",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Take Iqbal's 'Sayed ki Loh-e-Turbat' (Sir Sayed's tomb-inscription) and Old English 'The Wanderer' on lost lords. Both elegise a leader. How do the elegies differ?",
+    "rationale": "Cross-tradition tomb-elegy comparison.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0343",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Manu's book 4 sets out the snātaka's life; Viṣṇu's parallel chapter does the same. Pull each rule on a single specific topic — say, what to do when meeting a stranger — and decide whether Viṣṇu rules against what Manu permits.",
+    "rationale": "Cross-text snataka-rule comparison anchored on a single topic.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0372",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Iqbal's 'Bilad-e-Islamiya' is a city catalogue; Manu's chapter 1 contains a catalogue of created beings; Visnu's chapters 4-10 hold catalogues of duties. Compare the rhetorical use of catalogue in each.",
+    "rationale": "Cross-tradition catalogue-rhetoric comparison.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0204",
+    "category": "comparative",
+    "difficulty": "hard",
+    "prompt": "Manu, Yajnavalkya, and Visnu all treat the question of the king's ministers. Lay out where each places this discussion and how the lists of qualifications differ.",
+    "rationale": "Three-way smriti synthesis. Tests deep cross-text retrieval and comparative organisation.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0227",
+    "category": "comparative",
+    "difficulty": "hard",
+    "prompt": "Trace Comte's argument across Volumes I to IV of the Traité de Législation: where does the argument become specifically about slavery, and at what point does it leave the abstract for the historical case studies?",
+    "rationale": "Tests volume-by-volume reading of a long argument. Vol IV is where slavery dominates.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "charles-comte-traite-de-legislation-vol-iv-bca040"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0266",
+    "category": "comparative",
+    "difficulty": "hard",
+    "prompt": "Iqbal in 'Shikwa' addresses God with grievance. In 'Falsafa-e-Gham' he philosophises grief. How does the rhetorical move differ?",
+    "rationale": "Two poems by the same poet on suffering, in different rhetorical modes (apostrophe vs. exposition).",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0552",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "How is 'karma' framed across the smriti corpus? Where does action become consequence?",
+    "rationale": "Cross-text concept synthesis. Manu ch. 12, Yajnavalkya ch. 3, Visnu Smriti.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0582",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'wisdom' (sapientia, viveka, prajna) mean across the philosophical / didactic texts in the corpus?",
+    "rationale": "Cross-tradition concept synthesis.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "unknown-manusmrti-347b76",
+      "unknown-slokantara-d7a628",
+      "unknown-kalpabuddha-d760dc"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0611",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'aaina' (mirror) for Ghalib?",
+    "rationale": "Within-poet concept analysis. Aaina is one of Ghalib's most-worked metaphors.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0642",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'tarbiyat' (formation, education) for Iqbal? Where does the concept appear directly?",
+    "rationale": "Within-author concept analysis. 'Taleem aur Iske Nataaij' is one direct site.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0671",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'kama' (desire) in the smriti corpus? Where is it permitted, where rebuked?",
+    "rationale": "Cross-text concept analysis on the third purusartha.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0402",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which texts in the corpus contain explicit cosmogonies (creation accounts)?",
+    "rationale": "Tests broad discovery. Manusmriti ch. 1 most explicit; Visnu Smriti has parallel material; tattva texts may also contain cosmogonic passages.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8",
+      "unknown-vrhaspatitattva-b60b28"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0432",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus are explicitly addressed to a national or communal 'we'?",
+    "rationale": "Iqbal's anthems ('Tarana-e-Hindi', 'Tarana-e-Milli', 'Wataniyat'); possibly Cynewulf in homiletic mode.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0461",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus contain narrative miracle scenes?",
+    "rationale": "Cynewulf's Andreas (storm-miracle, raising of the dead), Elene (raising the dead to test the cross), Juliana (fire-tortures she survives).",
+    "expected_works": [
+      "cynewulf-andreas-07b573",
+      "cynewulf-elene-d2d132",
+      "cynewulf-juliana-9a2157"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0492",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus contain reflection on writing as an act (the scribe, the inscription)?",
+    "rationale": "Cynewulf's runic signatures; Iqbal's 'Sayed ki Loh-e-Turbat' (tomb inscription); Old English 'The Ruin' (inscribed stones).",
+    "expected_works": [
+      "cynewulf-elene-d2d132",
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0521",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus address questions of personal moral discipline?",
+    "rationale": "Manu chs. 2-6 (asramas); Yajnavalkya ch. 1; Visnu Smriti throughout; Iqbal's khudi exhortations.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0702",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "What does Manusmriti chapter 11 prescribe as expiation for accidentally killing a cat?",
+    "rationale": "Tests retrieval of a precise minor-offense rule. Mn 11.131-11.142 area lists penances for killing various animals.",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0777",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In San Hyan Mahajnana, find the specific passage describing what 'mahajnana' (great knowledge) consists in.",
+    "rationale": "Tests retrieval of the title-defining passage.",
+    "expected_works": [
+      "unknown-san-hyan-mahajnana-11c531"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0852",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "If a translator had to pick one English word for 'dharma' and stick with it across Manu, Yājñavalkya, and Viṣṇu, where would the choice break down most painfully? Show three passages where 'duty', 'law', or 'virtue' each picks up only one corner of what the smriti is doing.",
+    "rationale": "Forces concrete passage-level demonstration of dharma's untranslatability.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0902",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "'Liberté' in Comte and 'aazadi' in Iqbal both name freedom, but the freedom each is fighting for is different. Pull the strongest formulation on each side, and say what each speaker would consider an unmet condition for it.",
+    "rationale": "Cross-language freedom-vocabulary comparison anchored on unmet-condition.",
+    "expected_works": [
+      "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0952",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Iqbal's khudi insists that the self is not given by birth — it is built. Manu's varna-dharma insists that the self's social location is given. Pin the specific Iqbal verse where khudi most strongly claims this and the specific Manu verse where varna most strongly claims its opposite, then say which is the harder doctrine to hold honestly.",
+    "rationale": "Forces specific verses from each side and a value judgment.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  }
+]
