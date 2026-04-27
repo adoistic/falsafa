@@ -30,10 +30,22 @@ const CHIPS = [
   {/* Page-level CSP: connect-src locks down to the four supported provider
       hosts + same-origin (the corpus markdown lives under /corpus/* on
       this site). No third-party JS, no remote MCP server.
-      Per /plan-eng-review run 2 Issue 2.3 (P0 security hardening). */}
+      Per /plan-eng-review run 2 Issue 2.3 (P0 security hardening).
+
+      script-src includes 'unsafe-eval' specifically because the
+      browser-bundled MCP's search_corpus tool dynamically loads
+      /pagefind/pagefind.js via `new Function()` — that's the standard
+      Pagefind-in-a-framework integration pattern (Astro's dev server
+      blocks /public/ dynamic imports; Vite's static analyzer follows
+      everything else). The actual security guarantee here is
+      `connect-src` which is locked to the LLM provider hosts — that's
+      what prevents an XSS from exfiltrating the user's API key.
+      `unsafe-eval` lets compiled-in-runtime code execute (Pagefind has
+      its own bundle) but doesn't grant network reach.
+  */}
   <meta
     http-equiv="Content-Security-Policy"
-    content={`default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://api.openai.com https://api.anthropic.com https://generativelanguage.googleapis.com https://openrouter.ai;`}
+    content={`default-src 'self'; script-src 'self' 'unsafe-inline' 'unsafe-eval'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://api.openai.com https://api.anthropic.com https://generativelanguage.googleapis.com https://openrouter.ai;`}
     slot="head"
   />
 
