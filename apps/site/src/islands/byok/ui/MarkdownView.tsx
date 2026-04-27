@@ -14,10 +14,15 @@
  * (raw `<script>` becomes literal text) without DOMPurify for now.
  */
 
-import { useMemo } from "preact/hooks";
+import { useEffect, useMemo, useState } from "preact/hooks";
 import type { JSX } from "preact";
 import { Marked } from "marked";
 import markedFootnote from "marked-footnote";
+import {
+  hasNakedParagraphIds,
+  loadParagraphIndex,
+  applyParagraphLinkify,
+} from "./defensive-linkify";
 
 /**
  * Module-scoped marked instance. We construct it once and reuse across
@@ -49,15 +54,47 @@ interface Props {
 }
 
 export default function MarkdownView({ text, inline }: Props): JSX.Element {
-  const html = useMemo(() => {
+  // First pass: render markdown to HTML synchronously. Cheap and runs
+  // every keystroke during streaming; no async dependency.
+  const baseHtml = useMemo(() => {
     try {
       const parsed = md.parse(text);
       return typeof parsed === "string" ? parsed : "";
     } catch {
-      // If marked chokes on partial input, fall back to raw text
       return escapeHtml(text);
     }
   }, [text]);
+
+  // Second pass (defensive linkifier): if the rendered HTML contains
+  // naked "p-xxxxxx" tokens despite the system prompt forbidding them,
+  // lazy-load the paragraph-index phone book and rewrite each one as a
+  // chapter link. Most answers won't trigger this — fast path returns
+  // baseHtml unchanged.
+  const [linkifiedHtml, setLinkifiedHtml] = useState<string | null>(null);
+  useEffect(() => {
+    // Reset on each input change so a previous answer's linkified
+    // version doesn't leak into the new render.
+    setLinkifiedHtml(null);
+
+    if (!hasNakedParagraphIds(baseHtml)) return;
+
+    let cancelled = false;
+    void (async () => {
+      const index = await loadParagraphIndex();
+      if (cancelled || !index) return;
+      const rewritten = applyParagraphLinkify(baseHtml, index);
+      // No-op short-circuit: if the linkifier didn't actually replace
+      // anything (every naked ID was unknown), don't trigger a re-render.
+      if (rewritten !== baseHtml) {
+        setLinkifiedHtml(rewritten);
+      }
+    })();
+    return () => {
+      cancelled = true;
+    };
+  }, [baseHtml]);
+
+  const html = linkifiedHtml ?? baseHtml;
 
   return (
     <div

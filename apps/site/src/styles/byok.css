@@ -892,6 +892,21 @@
   color: var(--accent);
 }
 
+/* Defensive linkifier — when the model leaks a raw "p-xxxxxx" into
+ * prose despite the system prompt forbidding it, the runtime rewrites
+ * it as a chapter link with this class. Render in mono so it's
+ * recognisable as an ID-style link rather than free prose. */
+.byok-md a.byok-defensive-link {
+  font-family: var(--font-mono);
+  font-size: 0.85em;
+  color: var(--ink-muted);
+  border-bottom: 1px dotted currentColor;
+  padding-bottom: 0;
+}
+.byok-md a.byok-defensive-link:hover {
+  color: var(--accent);
+}
+
 /* Inline variant — used in the thinking log; tighter margins */
 .byok-md-inline p {
   margin: 0 0 var(--s-2);
