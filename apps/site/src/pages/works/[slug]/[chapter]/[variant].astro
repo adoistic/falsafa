@@ -120,7 +120,13 @@ const displayChapterTitle = softTitleCase(variant.meta.chapter_title);
     <VariantSwitcher meta={variant.meta} workSlug={work.slug} current={variantType as ContentType} />
   </header>
 
-  <ChapterBody body={variant.body} frontmatter={variant.frontmatter} />
+  <ChapterBody
+    body={variant.body}
+    frontmatter={variant.frontmatter}
+    workSlug={workSlug}
+    chapterSlug={chapterSlug}
+    variantFile={variant.variant.file}
+  />
 
   {!isSingleChapter && (
     <footer class="reader-footer">

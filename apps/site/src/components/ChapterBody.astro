@@ -4,17 +4,30 @@
  * blockquotes, emphasis — all the standard CommonMark constructs. We pass it
  * through `marked` (~30KB, pure-ESM) and inject the resulting HTML.
  *
+ * Each top-level block also gets an id="p-xxx" attribute injected based on
+ * the chapter's *.paragraphs.json sidecar, so citation URLs from the BYOK
+ * demo (#p-x or ?paragraphs=p-1,p-2,p-3#p-1) can scroll to and highlight
+ * specific paragraphs. When no sidecar is present, blocks render without
+ * IDs — the page still works, just without citation anchors.
+ *
  * Layout-specific styling lives in reader.css; this component is layout-agnostic.
  */
-import { marked } from "marked";
-import type { ChapterFrontmatter } from "../lib/corpus";
+import { readParagraphSidecar, type ChapterFrontmatter } from "../lib/corpus";
+import { renderMarkdownWithParagraphIds } from "../lib/inject-paragraph-ids";
 
 interface Props {
   body: string;
   frontmatter: ChapterFrontmatter;
+  /** Slugs needed to find the matching sidecar. Optional — when absent
+   *  (older callers, ad-hoc render contexts) we render without IDs. */
+  workSlug?: string;
+  chapterSlug?: string;
+  /** The variant's `file` field (e.g. "translation.md"). Needed to
+   *  pick the correct sidecar (`translation.paragraphs.json`). */
+  variantFile?: string;
 }
 
-const { body, frontmatter } = Astro.props;
+const { body, frontmatter, workSlug, chapterSlug, variantFile } = Astro.props;
 
 // Strip leading boilerplate that pollutes some chapters: a leading line equal
 // to the work title, a leading "===" rule, redundant Source: lines, the
@@ -34,10 +47,12 @@ function cleanBody(raw: string): string {
   return s.trim();
 }
 
-const html = await marked.parse(cleanBody(body), {
-  breaks: false, // honor markdown blank-line semantics, not single-newline-as-break
-  gfm: true,
-});
+const cleaned = cleanBody(body);
+const sidecar =
+  workSlug && chapterSlug && variantFile
+    ? readParagraphSidecar(workSlug, chapterSlug, variantFile)
+    : [];
+const html = renderMarkdownWithParagraphIds(cleaned, sidecar);
 
 // Only English translation variants are indexed by Pagefind. Transliterations
 // (romanized) and originals (source script) are quote-only material and would
