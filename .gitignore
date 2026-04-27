@@ -38,6 +38,10 @@ logs/
 corpus/.audit/
 corpus/**/assets/*.tmp.png
 corpus/**/.cache/
+# paragraph-index.json: ~8 MB phone book mapping every paragraph_id → work/chapter/variant.
+# Built by apps/site/scripts/build-paragraph-index.ts at predev/prebuild time.
+# Used by the BYOK defensive linkifier (lazy-fetched on demand).
+corpus/paragraph-index.json
 
 # Chapter-splitting backups (kept locally for rollback after splits)
 corpus/.staging-split/

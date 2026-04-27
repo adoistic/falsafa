@@ -6,10 +6,11 @@
   "description": "Falsafa reading site — Astro 5, editorial typography, watercolor covers, polymorphic chapter renderer (prose / verse / manuscript).",
   "license": "MIT",
   "scripts": {
-    "predev": "bun run scripts/prepare-covers.ts && bun run scripts/prepare-corpus.ts",
-    "prebuild": "bun run scripts/prepare-covers.ts && bun run scripts/prepare-corpus.ts",
+    "predev": "bun run scripts/prepare-covers.ts && bun run scripts/prepare-corpus.ts && bun run scripts/build-paragraph-index.ts",
+    "prebuild": "bun run scripts/prepare-covers.ts && bun run scripts/prepare-corpus.ts && bun run scripts/build-paragraph-index.ts",
     "prepare-covers": "bun run scripts/prepare-covers.ts",
     "prepare-corpus": "bun run scripts/prepare-corpus.ts",
+    "build-paragraph-index": "bun run scripts/build-paragraph-index.ts",
     "dev": "astro dev",
     "build": "astro build && pagefind --site dist",
     "preview": "astro preview",
