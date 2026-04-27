@@ -1,0 +1,164 @@
+{
+  "run_dir": "apps/mcp/eval/runs/1k-stratified-50-sonnet/sonnet",
+  "driver": "claude-code-subagent-native-mcp",
+  "model": "claude-sonnet-4.6",
+  "total_pass": 8,
+  "total_judged": 8,
+  "pass_rate": 1,
+  "by_category": {
+    "citation": {
+      "pass": 2,
+      "total": 2
+    },
+    "comparative": {
+      "pass": 2,
+      "total": 2
+    },
+    "conceptual": {
+      "pass": 2,
+      "total": 2
+    },
+    "specific-obscure": {
+      "pass": 1,
+      "total": 1
+    },
+    "multilingual": {
+      "pass": 1,
+      "total": 1
+    }
+  },
+  "per_question": [
+    {
+      "id": "q-0003",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citedWorks": [
+        "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      ],
+      "expectedWorks": [
+        "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      ],
+      "toolCount": 7
+    },
+    {
+      "id": "q-0039",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citedWorks": [
+        "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      ],
+      "expectedWorks": [
+        "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      ],
+      "toolCount": 3
+    },
+    {
+      "id": "q-0201",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citedWorks": [
+        "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      ],
+      "expectedWorks": [
+        "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      ],
+      "toolCount": 14
+    },
+    {
+      "id": "q-0244",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citedWorks": [
+        "unknown-old-english-elegies-d5fe9e"
+      ],
+      "expectedWorks": [
+        "unknown-old-english-elegies-d5fe9e"
+      ],
+      "toolCount": 4
+    },
+    {
+      "id": "q-0551",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 3,
+      "citedWorks": [
+        "unknown-angirasa-smrti-2bf9d1",
+        "unknown-manusmrti-347b76",
+        "unknown-yajnavalkya-smrti-cb88d6",
+        "unknown-parasara-smrti-2259be"
+      ],
+      "expectedWorks": [
+        "unknown-manusmrti-347b76",
+        "unknown-yajnavalkya-smrti-cb88d6",
+        "unknown-visnu-smrti-27f0d8"
+      ],
+      "toolCount": 11
+    },
+    {
+      "id": "q-0581",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 2,
+      "citedWorks": [
+        "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      ],
+      "expectedWorks": [
+        "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      ],
+      "toolCount": 11
+    },
+    {
+      "id": "q-0776",
+      "category": "specific-obscure",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citedWorks": [
+        "unknown-san-hyan-tattvajnana-1f29bd"
+      ],
+      "expectedWorks": [
+        "unknown-san-hyan-tattvajnana-1f29bd"
+      ],
+      "toolCount": 3
+    },
+    {
+      "id": "q-0851",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "citedWorks": [
+        "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "allama-iqbal-bang-e-dara-part-1-55b25c"
+      ],
+      "expectedWorks": [
+        "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "allama-iqbal-bang-e-dara-part-1-55b25c"
+      ],
+      "toolCount": 13
+    }
+  ]
+}

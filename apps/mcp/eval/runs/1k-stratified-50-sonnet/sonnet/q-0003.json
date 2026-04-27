@@ -1,0 +1,15 @@
+{
+  "answer": "The verse appears in the second stanza of chapter 168 ('Rahiye ab aisi jagah chal kar jahan koi na ho') of Diwan-E-Ghalib (work slug: mirza-ghalib-diwan-e-ghalib-74ed4c). In the English translation it reads: 'A house I'll build of neither wall nor stone, / No neighbor there, no guard, and be alone.' This corresponds to the Urdu line beginning 'Be-dar-o-deewar sa ek ghar banaya' — a house without door or wall, with no neighbour (hamsaya), no companion, and no door-keeper/guard.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "neighbour companion door-keeper"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "no neighbour no companion"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"author": "Ghalib"}, "result_summary": "Found mirza-ghalib-diwan-e-ghalib-74ed4c with 239 chapters"},
+    {"name": "search_corpus", "args": {"query": "door-keeper gatekeeper"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "jahan koi na ho"}, "result_summary": "Found chapter 168: Rahiye ab aisi jagah chal kar jahan koi na ho"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 168, "variant": "translation"}, "result_summary": "Three-stanza translation; second stanza: 'A house I'll build of neither wall nor stone, / No neighbor there, no guard, and be alone.'"},
+    {"name": "get_passage", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 168, "paragraph_range": {"start": 0, "end": 2}}, "result_summary": "Second stanza paragraph ID: p-09bdfe"}
+  ],
+  "citations": [
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 168, "paragraph_id": "p-09bdfe"}
+  ]
+}

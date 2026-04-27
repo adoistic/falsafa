@@ -1,0 +1,11 @@
+{
+  "answer": "In 'Goristan-e-Shahi' (The Royal Graveyard), Iqbal meditates on a royal cemetery as a place of profound melancholy, historical reflection, and philosophical reckoning. The poem opens with an atmospheric nighttime scene — clouded skies, dim moonlight, silent trees, and a star gazing down at the ruins. The cemetery is described as a once-mighty fortress now buried under the weight of ages, 'a graveyard for the tumults of the past.' The royal tombs are treated as dust of high degree, a 'fallen nation's final treasury,' so glorious that the gazing eye fears to blink. Iqbal reflects on the kings who lie there — those of grand ambition, before whose gates 'once bowed the very sky' — and asks whether this silent end is all their statecraft deserved. He universalises the theme: Caesar's glory, a Khan's decree, all must yield to Death; the grave is the harvest that all kings must reap. The poem then broadens into an elegy for civilisations — Egypt, Babylon, Persia, Greece, Rome — all wiped from history, and the Muslim too, described as 'a cloud of March, that rose and rained, and did not last.' The cemetery becomes a symbol of this universal cycle of rise and fall. Yet the poem ends on a note of guarded hope: the poet's community still carries pearls of grief and lightning within it — 'this cloud can make the desert dust a rose' — and though the age of their kings has passed, a 'dawn of beauty still becomes their fate.' The royal graveyard thus serves both as a lament for vanished Muslim imperial glory and as a spur to renewed vitality.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "iqbal"}, "result_summary": "Found 3 Iqbal works: Bang-E-Dara Parts 1, 2, 3"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "Found 'Goristan-e-Shahi' as chapter 9 of Bang-E-Dara Part 3"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 9, "variant": "translation"}, "result_summary": "Full English translation retrieved — 59 paragraphs covering the royal graveyard themes"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 9, "paragraph_id": null}
+  ]
+}

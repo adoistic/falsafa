@@ -1,0 +1,29 @@
+{
+  "answer": "Both poems are Old English elegies found in unknown-old-english-elegies-d5fe9e — 'The Wanderer' at chapter 11 and 'Soul and Body II' at chapter 10 — and both grapple with what survives (or doesn't survive) bodily death, but they reach very different answers.\n\n'The Wanderer' (ch. 11) is concerned primarily with the survival of memory and meaning rather than the soul's literal afterlife. The wanderer is a living exile whose lord is dead, and the poem dwells on how nothing earthly endures: hall-warriors, treasure-givers, feasts — all vanish. The famous 'Ubi sunt' passage ('Where has the horse gone? Where the warrior? Where the treasure-giver?') frames earthly existence as wholly transient. The poem concedes that this middle-earth 'droops and decays' every day. What survives the body, in the wanderer's experience, is grief and the persistent ghost of memory — dreamlike visions of the dead lord that dissolve at waking. The only positive survival is located outside the human frame entirely: in the closing lines, the poem turns to God — 'stability stands' for us in the Father in heaven. The body leaves behind ruined walls 'stained with serpent-shapes'; the person leaves behind sorrow in others. Earthly identity does not survive; only divine grace offers continuity.\n\n'Soul and Body II' (ch. 10) takes the question far more literally and dramatically. Here the soul returns to the rotting corpse every seven nights for three hundred winters and harangues it. The poem's central conceit is that the soul survives the body — it is explicitly sent from God, dwelling in the body during life, and separated at death. After death, the soul retains identity, speech, and moral memory. The body, by contrast, is utterly obliterated: the tongue torn in ten pieces, eyes eaten, bones disjointed, the worm Glutton presiding. The body literally cannot respond. The soul blames the body for prioritising fleshly pleasure over spiritual nourishment and warns that on Doomsday both will be rejoined and forced to answer together for their shared sins.\n\nCompared directly: 'The Wanderer' treats survival after death as spiritually possible (through God's grace) but experientially absent — the dead are simply gone, leaving only ruins and mourning. The soul's fate is gestured at but not dramatised. 'Soul and Body II', by contrast, dramatises the soul's survival as the poem's entire engine: the soul is lively, angry, articulate, morally aware, and explicitly awaiting resurrection and judgment. The body is what is utterly destroyed and silenced. Where 'The Wanderer' is elegiac and resigned — grief is the proof of loss — 'Soul and Body II' is eschatological and accusatory: the soul survives precisely to hold the body accountable. Both poems end by pointing toward divine judgment as the final frame, but 'The Wanderer' treats that turn as consolation for earthly loss, while 'Soul and Body II' treats it as the threatened reckoning that gives the soul's survival its moral weight.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Found 38 works; identified 'Old English Elegies' (unknown-old-english-elegies-d5fe9e) as the relevant collection"
+    },
+    {
+      "name": "list_chapters",
+      "args": {"work_slug": "unknown-old-english-elegies-d5fe9e"},
+      "result_summary": "17 chapters listed; 'Soul and Body II' = ch. 10, 'The Wanderer' = ch. 11"
+    },
+    {
+      "name": "read_chapter",
+      "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 10, "variant": "translation"},
+      "result_summary": "Full translation of Soul and Body II retrieved — soul harangues rotting corpse, blames body for fleshly sin, warns of Doomsday reckoning"
+    },
+    {
+      "name": "read_chapter",
+      "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "variant": "translation"},
+      "result_summary": "Full translation of The Wanderer retrieved — exile mourns dead lord, ubi sunt meditation on earthly transience, closes with stability in God"
+    }
+  ],
+  "citations": [
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 10, "paragraph_id": null},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "paragraph_id": null}
+  ]
+}

@@ -5,6 +5,70 @@ during the review and are explicitly NOT V1 scope. Each is captured with enough
 context that someone picking it up in 3 months understands the motivation and
 where to start.
 
+## MCP fix: surface paragraph_id hashes in `read_chapter` body output
+
+**What:** When the MCP's `read_chapter` returns a chapter body, include the
+paragraph_id hash inline with each paragraph (e.g. on the same line as a
+verse marker, or as a leading `[p-xxxxxx]` token) so the agent reading
+the body can cite by hash without guessing.
+
+**Why (root cause):** The Sonnet judge on the 1k-pool pilot (run
+`1k-pilot-sonnet-native`) caught two paragraph_id failures:
+
+- **q-0626** invented the id `p-1684bd` for Ganapatitattva ch. 1. The MCP
+  returns `passages: []` for it — the id literally doesn't exist. The
+  agent fabricated it because nothing in the chapter body surfaced real
+  paragraph_ids.
+- **q-0951** used `Mn_1.52` as the citation id instead of the real
+  `p-946051`. The Manusmrti body has inline verse markers (`// Mn_1.52 //`)
+  but no paragraph_id hashes at all. The agent took the most prominent
+  inline marker and used it as the id. Quotes were verbatim; ids didn't
+  resolve.
+
+This is the same class of failure the Haiku run flagged
+(`citation-iqbal-bang-1-1` invented `p-1-opening`, `manu-1-1` invented
+`p-0`). Confirmed at the 1k-pool level by two independent cases.
+
+**Pros:** Eliminates a whole class of hallucination. Agents stop having
+to remember paragraph_ids across tool calls — the body itself self-cites.
+Improves substantive judge pass rate by an estimated 5–15%.
+
+**Cons:** Slightly noisier chapter body (one extra token per paragraph).
+Risks confusing agents that copy-paste body content into final answers
+without stripping the markers.
+
+**Where to fix:** `apps/mcp/src/tools.ts` in the `read_chapter` and
+`get_passage` body builders. Inject the paragraph_id from the sidecar
+when emitting each paragraph. Keep verse markers as-is. Format candidates:
+
+```
+[p-7c19ab] Verse text here. // Mn_1.52 //
+```
+
+or
+
+```
+{p-7c19ab} The great sages, approaching Manu... // Mn_1.1 //
+```
+
+Decide the visual marker (`[...]`, `{...}`, leading sigil) when
+implementing. Bracketed convention reads better and matches the existing
+inline footnote style in MCP results.
+
+**Trigger:** Before the full 1,000-question codex run kicks off. The
+codex run won't be a useful paper artifact while this class of failure
+is uncorrected.
+
+**Where to start:** `apps/mcp/src/tools.ts`. The `read_chapter` and
+`get_passage` implementations already load the paragraphs sidecar
+(it's how `get_passage` works at all) — surface it in the body too.
+Add a unit test that confirms a `read_chapter` body contains every
+paragraph_id from the sidecar.
+
+**Depends on:** nothing.
+
+---
+
 ## Remote MCP deployment for installable surfaces (Claude.ai / ChatGPT / Gemini)
 
 **Status:** NOT STARTED. Process gate: requires `/office-hours` first

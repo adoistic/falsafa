@@ -1,0 +1,13 @@
+{
+  "answer": "In San Hyan Tattvajnana (work slug: unknown-san-hyan-tattvajnana-1f29bd), chapter 1, the verse on the relation of pradhana (primordial nature) to Siva appears as a Sanskrit couplet in paragraphs p-a9c453 and p-e48a3e:\n\n\"śakaṭopamaṃ pradhānaṃ puruṣo vṛṣabhopamah / īśasārathisaṃyuktaṃ jagat bhramitacakravat //\"\n\nTranslation (given in paragraph p-80ea49): Pradhānatattva is likened to a cart. The ātmā (Puruṣa) is likened to an ox. Īśa (Lord Īśvara, i.e., Śiva) is likened to the charioteer, who urges the ātmā to pull the cart. The world (jagat) is likened to the wheel of a mill, turning and rolling through the realms of deities, humans, and triyak, caused by good and evil karma.\n\nThe verse establishes that pradhāna is the inert vehicle (cart), while Śiva in His aspect as Īśa/Īśvara is the active charioteer who drives the whole cosmic process — pradhāna does not move on its own but is set in motion by the Lord.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Found work 'San Hyan Tattvajnana' with slug 'unknown-san-hyan-tattvajnana-1f29bd', 1 chapter, Kawi language"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-san-hyan-tattvajnana-1f29bd", "chapter_number": 1}, "result_summary": "Retrieved full chapter (114 paragraphs, 16092 words); searched body text for 'pradhāna' — found Sanskrit verse at lines 96-98 of body and explanation following"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-san-hyan-tattvajnana-1f29bd", "chapter_number": 1, "paragraph_range": {"start": 40, "end": 55}}, "result_summary": "Confirmed paragraph IDs: p-a9c453 (first line of verse), p-e48a3e (second line of verse), p-80ea49 (prose explanation with Śiva as charioteer)"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-san-hyan-tattvajnana-1f29bd", "chapter_number": 1, "paragraph_id": "p-a9c453"},
+    {"work_slug": "unknown-san-hyan-tattvajnana-1f29bd", "chapter_number": 1, "paragraph_id": "p-e48a3e"},
+    {"work_slug": "unknown-san-hyan-tattvajnana-1f29bd", "chapter_number": 1, "paragraph_id": "p-80ea49"}
+  ]
+}
