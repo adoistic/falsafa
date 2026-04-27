@@ -121,7 +121,11 @@ export default function ByokDemo({ chips = FALLBACK_CHIPS }: Props): JSX.Element
           disabled={inFlight}
         />
 
+        {/* key={state.provider} forces a fresh component instance on provider
+            switch so the per-provider cached model list and any open
+            combobox state reset cleanly. */}
         <ModelPicker
+          key={state.provider}
           provider={state.provider}
           apiKey={state.apiKey}
           value={state.modelId}
