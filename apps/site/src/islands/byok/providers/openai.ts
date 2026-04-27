@@ -72,9 +72,14 @@ export async function* streamOpenAI(
       prompt: args.question,
       tools,
       abortSignal: args.abortSignal,
-      // Allow up to ~10 tool-use rounds before stopping. Falsafa workflows
-      // typically use 2-5 tools per answer; 10 is generous insurance.
-      stopWhen: ({ steps }) => steps.length >= 10,
+      // Cap at 25 LLM round-trips (each "step" = one model invocation
+      // followed by zero-or-more tool executions). Comparative
+      // synthesis questions in the live demo routinely need 15-20
+      // round-trips: discover the corpus, search for terms across
+      // traditions, read the most-promising chapters, then cite at
+      // paragraph level. The Stop-generating button gives the user
+      // direct control if the model wants to keep going.
+      stopWhen: ({ steps }) => steps.length >= 25,
     });
 
     for await (const part of result.fullStream) {
@@ -230,27 +235,90 @@ export function mapToByokError(err: unknown, provider: Provider): ByokError {
   };
 }
 
-/** Pull a human-readable message out of an AI SDK error structure. */
+/**
+ * Pull a human-readable message out of an AI SDK error structure. Tries hard
+ * to surface the actual upstream provider error rather than a wrapper one
+ * (e.g., OpenRouter's "Provider returned error" wraps the real Anthropic
+ * error in `error.metadata.raw`).
+ */
 function extractApiMessage(err: unknown): string | undefined {
   if (typeof err !== "object" || err === null) return undefined;
   const e = err as Record<string, unknown>;
-  // Common shapes: { message: "..." }, { error: { message: "..." } },
-  // { responseBody: '{"error":{"message":"..."}}' }, etc.
-  if (typeof e["message"] === "string") return e["message"];
+
+  // Look at responseBody first — that's where OpenRouter et al put the
+  // structured upstream error. Walk the object to find the deepest
+  // human-readable string.
   const responseBody = e["responseBody"];
   if (typeof responseBody === "string") {
     try {
-      const parsed = JSON.parse(responseBody) as { error?: { message?: string } };
-      if (parsed.error?.message) return parsed.error.message;
+      const parsed = JSON.parse(responseBody) as Record<string, unknown>;
+      const deep = findDeepestMessage(parsed);
+      if (deep) return deep;
     } catch {
-      /* not JSON; fall through */
+      /* not JSON */
     }
-    return responseBody.slice(0, 200);
+    return responseBody.slice(0, 400);
   }
+
+  // Fall back to top-level message.
+  if (typeof e["message"] === "string") return e["message"] as string;
+
+  // Walk cause chain.
   const cause = e["cause"];
   if (cause && typeof cause === "object") {
     const cm = (cause as Record<string, unknown>)["message"];
     if (typeof cm === "string") return cm;
+  }
+  return undefined;
+}
+
+/**
+ * Recursive walk to find the most informative message string. Prefers
+ * `metadata.raw` (OpenRouter's upstream-provider passthrough) > `error.message` >
+ * `message` > any string field that looks descriptive.
+ */
+function findDeepestMessage(obj: unknown, depth = 0): string | undefined {
+  if (depth > 4 || obj === null || obj === undefined) return undefined;
+  if (typeof obj === "string") return obj.length > 0 ? obj : undefined;
+  if (typeof obj !== "object") return undefined;
+
+  const o = obj as Record<string, unknown>;
+
+  // OpenRouter wraps the upstream error here:
+  //   { error: { code: 400, message: "Provider returned error",
+  //              metadata: { raw: "<upstream JSON or text>", provider_name: "Anthropic" } } }
+  // Surface metadata.raw first, with the wrapper message and provider name as context.
+  const error = o["error"];
+  if (error && typeof error === "object") {
+    const eo = error as Record<string, unknown>;
+    const meta = eo["metadata"];
+    if (meta && typeof meta === "object") {
+      const m = meta as Record<string, unknown>;
+      const raw = m["raw"];
+      const providerName = typeof m["provider_name"] === "string" ? m["provider_name"] : undefined;
+      let upstreamMsg: string | undefined;
+      if (typeof raw === "string") {
+        try {
+          const parsedRaw = JSON.parse(raw);
+          upstreamMsg = findDeepestMessage(parsedRaw, depth + 1) ?? raw.slice(0, 300);
+        } catch {
+          upstreamMsg = raw.slice(0, 300);
+        }
+      }
+      if (upstreamMsg) {
+        return providerName ? `[${providerName}] ${upstreamMsg}` : upstreamMsg;
+      }
+    }
+    // Fall through: error.message
+    if (typeof eo["message"] === "string") return eo["message"] as string;
+  }
+
+  if (typeof o["message"] === "string") return o["message"] as string;
+
+  // Last resort: scan strings.
+  for (const v of Object.values(o)) {
+    const found = findDeepestMessage(v, depth + 1);
+    if (found && found.length > 5) return found;
   }
   return undefined;
 }
