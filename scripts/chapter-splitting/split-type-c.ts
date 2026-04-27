@@ -16,6 +16,7 @@
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
 import { parseProseHeadings, type ProseHeadingConfig } from "./lib/parser-prose-heading.ts";
+import { parseBracketedSections, type BracketedSectionConfig } from "./lib/parser-bracketed-section.ts";
 import { parseArgs, processWork, type ParseFunc } from "./lib/orchestrator.ts";
 
 const ROOT = resolve(import.meta.dir, "..", "..");
@@ -23,65 +24,120 @@ const CORPUS = resolve(ROOT, "corpus");
 const DISCOVERY_PATH = resolve(import.meta.dir, "discovery.json");
 
 // ─────────────────────────────────────────────────────────────────────────
-// Per-work heading configs
+// Per-work / per-variant parser configs
 // ─────────────────────────────────────────────────────────────────────────
 //
-// Each entry encodes "what heading shape opens a chapter in this work."
-// Kept here, not in discovery.json, because these are translator-specific
-// editorial decisions, not facts about the source corpus.
+// Each work declares a parser config either GLOBALLY (same parser for all
+// variants — the simple case) or PER-VARIANT (variants use different
+// marker syntaxes — Sanskrit smṛti translations vs Old Javanese / romanized
+// transliterations of the same work). Per-variant dispatch is keyed on
+// filename ("translation.md", "transliteration.md", etc.).
 
-const TYPE_C_CONFIGS: Record<string, ProseHeadingConfig> = {
-  // Bṛhaspati: ## Chapter N: <title> opens each chapter (22 ## total but
-  // only the "Chapter N" ones are real boundaries; the others are
-  // mis-leveled subsections like "## 1.10 The Recovery of Debt").
+type VariantParser =
+  | { kind: "prose-heading"; config: ProseHeadingConfig }
+  | { kind: "bracketed-section"; config: BracketedSectionConfig };
+
+interface TypeCWorkConfig {
+  /** Single-parser config used for every variant when no per-variant
+   *  override exists. */
+  default?: VariantParser;
+  /** Per-variant override — { "transliteration.md": <parser>, ... }. */
+  perVariant?: Record<string, VariantParser>;
+  /** Override the no-empty-chapter validator threshold for this work.
+   *  Default 20 chars; lower (or 0) when source has heading-only sections. */
+  minContentChars?: number;
+}
+
+const TYPE_C_CONFIGS: Record<string, TypeCWorkConfig> = {
+  // Bṛhaspati: HELD — translation has 2 chapters (## Chapter N), but the
+  // transliteration source only carries Brh_1,*.* markers (chapter 1
+  // only). Asymmetric variants need validator relaxation we don't have.
+  // Kept here for future when source data covers chapter 2 too.
   "unknown-brhaspati-smrti-0fd070": {
-    depth: 2,
-    pattern: /^Chapter\s+\d+/i,
+    default: { kind: "prose-heading", config: { depth: 2, pattern: /^Chapter\s+\d+/i } },
   },
   // Kalpabuddha: ### Paragraph N (7 numbered paragraphs, no other ###).
   "unknown-kalpabuddha-d760dc": {
-    depth: 3,
-    pattern: /^Paragraph\s+\d+/i,
+    default: { kind: "prose-heading", config: { depth: 3, pattern: /^Paragraph\s+\d+/i } },
   },
-  // Kātyāyana: 80 flat ## sections, no Chapter wrapper, no other depth.
+  // Kātyāyana: per-variant dispatch. Translation has 80 flat ## sections.
+  // Transliteration has 80 [<sanskrit-name>] bracketed lines marking the
+  // same 80 sections. Both produce the same chapter sequence (1..80) —
+  // the bracket text doesn't drive numbering, the order does. Lower the
+  // empty-chapter threshold to 5 because section 48 is a heading-only
+  // section in the source (translation: "## The Recovery of Debt", 23
+  // chars; transliteration: "[ṛṇoddharaṇaṃ]", 14 chars) — the heading
+  // IS the content for that section.
   "unknown-katyayana-smrti-1e06d2": {
-    depth: 2,
+    perVariant: {
+      "translation.md": { kind: "prose-heading", config: { depth: 2 } },
+      "transliteration.md": { kind: "bracketed-section", config: {} },
+    },
+    minContentChars: 5,
   },
-  // Kunjarakarna: ## Canto N (34 cantos). Discovery counted 34, source
-  // also has them but no other ## at that depth.
+  // Kunjarakarna: HELD — translation Canto 8–41, transliteration Canto
+  // 1–41. Translation is partial (missing cantos 1–7). Cross-variant
+  // chapter sets disagree by design; needs source-data alignment, not
+  // engineering.
   "unknown-kunjarakarna-dharmakathana-894f4a": {
-    depth: 2,
-    pattern: /^Canto\s+\d+/i,
+    default: { kind: "prose-heading", config: { depth: 2, pattern: /^Canto\s+\d+/i } },
   },
-  // Vīramitrodaya: ### [<determination>] (70 of these).
+  // Vīramitrodaya: HELD — translation has 70 ### [...] sections,
+  // transliteration has 270 {MV-S_N} curly tokens + 2 brackets. Different
+  // granularity, no clean alignment.
   "unknown-viramitrodaya-d4b632": {
-    depth: 3,
-    pattern: /^\[/,
+    default: { kind: "prose-heading", config: { depth: 3, pattern: /^\[/ } },
   },
   // Fichte: each variant has 3 ## sections but the first IS the work
   // title (German: "## Zurückforderung..."; English: "## Reclaiming
   // Freedom of Thought..."). Skip the title; keep Preface + Speech (= 2
   // chapters). Both languages start with the work-title repeat.
   "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde": {
-    depth: 2,
-    skipPattern: /^(?:Reclaiming\s+Freedom\s+of\s+Thought|Zurückforderung\s+der\s+Denkfreiheit)/i,
+    default: {
+      kind: "prose-heading",
+      config: {
+        depth: 2,
+        skipPattern: /^(?:Reclaiming\s+Freedom\s+of\s+Thought|Zurückforderung\s+der\s+Denkfreiheit)/i,
+      },
+    },
   },
 };
 
 // ─────────────────────────────────────────────────────────────────────────
-// Build a parser bound to the per-work config
+// Build a per-variant parser using the work + filename
 // ─────────────────────────────────────────────────────────────────────────
+
+function runVariantParser(parser: VariantParser, body: string) {
+  if (parser.kind === "prose-heading") {
+    return parseProseHeadings(body, parser.config);
+  }
+  if (parser.kind === "bracketed-section") {
+    return parseBracketedSections(body, parser.config);
+  }
+  throw new Error(`Unknown variant parser kind: ${(parser as { kind: string }).kind}`);
+}
 
 function makeParseFunc(slug: string): ParseFunc {
   const config = TYPE_C_CONFIGS[slug];
   if (!config) {
     throw new Error(`No TYPE_C config registered for slug: ${slug}. Add an entry to TYPE_C_CONFIGS in split-type-c.ts.`);
   }
-  return (body, _filename) => {
-    const markers = parseProseHeadings(body, config);
+  return (body, filename) => {
+    const variantParser = config.perVariant?.[filename] ?? config.default;
+    if (!variantParser) {
+      return {
+        native_prefix: "Ch",
+        native_markers: [],
+        citation_markers: [],
+        marker_position: "before_chapter",
+        notes: [`no parser registered for variant ${filename} on ${slug}`],
+        ...(config.minContentChars !== undefined ? { min_content_chars: config.minContentChars } : {}),
+      };
+    }
+    const markers = runVariantParser(variantParser, body);
     const notes: string[] = [];
     if (markers.length === 0) {
-      notes.push(`no markdown headings matched config (depth=${config.depth}${config.pattern ? `, pattern=${config.pattern}` : ""})`);
+      notes.push(`no markers detected by ${variantParser.kind} parser`);
     }
     return {
       native_prefix: "Ch",
@@ -89,6 +145,7 @@ function makeParseFunc(slug: string): ParseFunc {
       citation_markers: [],
       marker_position: "before_chapter",
       notes,
+      ...(config.minContentChars !== undefined ? { min_content_chars: config.minContentChars } : {}),
     };
   };
 }

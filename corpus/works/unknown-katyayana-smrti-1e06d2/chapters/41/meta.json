@@ -1,0 +1,38 @@
+{
+  "work_slug": "unknown-katyayana-smrti-1e06d2",
+  "work_title": "Kātyāyana Smṛti",
+  "chapter_number": 41,
+  "chapter_title": "Chapter 41",
+  "chapter_slug": "41",
+  "layout": "prose",
+  "layouts_in_variants": [
+    "prose"
+  ],
+  "default_variant": "translation.md",
+  "variants": [
+    {
+      "file": "translation.md",
+      "content_type": "translation",
+      "variant_id": "29584e1c-39d6-4dd0-9f08-8443d4a1662f",
+      "language": "english",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 235,
+      "paragraph_count": 9,
+      "has_image": false,
+      "source_url": null
+    },
+    {
+      "file": "transliteration.md",
+      "content_type": "transliteration",
+      "variant_id": "a40759cf-e65a-421e-bb4e-8ca9877e22da",
+      "language": "Sanskrit",
+      "source_language": "Sanskrit",
+      "script": "latin",
+      "word_count": 126,
+      "paragraph_count": 17,
+      "has_image": false,
+      "source_url": null
+    }
+  ]
+}

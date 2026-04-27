@@ -243,47 +243,47 @@ era-appropriate. Document the working templates.
 
 ---
 
-## Held chapter splits — per-variant parser dispatch
+## Held chapter splits — content-team data alignment (4 works)
 
-**What:** 6 works need their chapter splits done but each variant uses a
-different marker syntax — the current orchestrator binds one parser per
-work, which can't handle this. We need per-variant parser dispatch.
+**Status:** the engineering side is done. The remaining held cases need
+**source-data alignment** by the corpus team, not engineering. The
+splitter now supports per-variant parser dispatch (`scripts/chapter-splitting/split-type-c.ts`
+TYPE_C_CONFIGS keyed by `(slug, filename)` with `prose-heading` /
+`bracketed-section` parser kinds). What's left is a content problem:
+the variants disagree about what the chapters ARE, and the engineering
+can't paper over that without misrepresenting the source.
 
-**Affected works:**
+**Affected works and the specific data mismatch:**
 
-| Work | Translation pattern | Transliteration / original pattern |
-|------|--------------------|-----------------------------------|
-| Bṛhaspati Smṛti | `## Chapter N:` markdown | `// Brh_chapter,section.verse //` (3-part) |
-| Kātyāyana Smṛti | `## ` markdown (80 sections) | `// K_NNN //` (sequential, no chapter index) |
-| Kunjarakarna Dharmakathana | `## Canto N` markdown | numbered verses (`1.`, `2.`) under `Canto N.` lines |
-| Vīramitrodaya | `### [...]` markdown | `{MV-S_N}` curly tokens + `// N //` numeric verses |
-| Aṅgirasa Smṛti | phantom translator-added markers (`Ang_11.x` cross-refs) | clean `// Ang_1.N //` |
-| Nāradasmṛti | `(Nar. M1.1)` parenthesized format | clean `// Nar_1.N //` |
+| Work | Translation | Other variants | Mismatch |
+|------|-------------|----------------|----------|
+| **Vīramitrodaya** | 70 `### [...]` markdown sections | 270 `{MV-S_N}` curly tokens + 2 `[name]` brackets | Different granularity. Translation slices by determination; transliteration by individual sūtras. No 1:1 mapping exists in the source. |
+| **Kunjarakarna Dharmakathana** | Cantos 8–41 (34 chapters) | Cantos 1–41 (41 chapters) | Translation is partial — Cantos 1–7 not translated. Splitting both produces disjoint chapter sets. |
+| **Nāradasmṛti** | `(Nar. M1.1)` parenthesized M-prefix | `Nar_1.N` chapter.verse | Different numbering schemes. M1, M2, M3 in translation map to … unknown … sections in transliteration. Need a translator's concordance to align. |
+| **Bṛhaspati Smṛti** | 2 `## Chapter N` chapters | `Brh_1,*` only (chapter 1 only) | Transliteration source covers only chapter 1. Splitting translation to 2 chapters is fine; transliteration would only attach to chapter 1. **Asymmetric.** Current splitter requires symmetric variant coverage; relaxing this is engineering work but the underlying source is also genuinely partial. |
 
-**Why deferred:** the existing splitter (`scripts/chapter-splitting/lib/orchestrator.ts`)
-takes one `parseFunc` per work. To handle these we need either:
-(a) per-variant parseFunc dispatch (parser keyed on `(work_slug, variant_filename)`),
-or (b) a more general marker-detection system that tries multiple parsers and picks
-the one with the best variant agreement.
+**Aṅgirasa Smṛti** is OFF this list — it's already correctly single-chapter.
+The translation has phantom `Ang_11.x` and `Ang_12.x` cross-reference markers
+(translator-added pointers to other smṛtis), but after filtering those out
+the real content is one chapter, matching the transliteration. The
+single-chapter redirect handles it cleanly.
 
-**Impact:** until fixed, these 6 works ship as single-chapter (Cynewulf-style
-title-page redirect). Reading is fine; URL anchors for annotations will need to
-move once the splits land. **This is a real annotation-blocker for these 6 works.**
-Annotations on the other ~32 works are unaffected.
+**Where to start (content):** for each work above, get a paragraph-by-paragraph
+concordance from the translator team that maps source-language chapter/verse
+boundaries to translation chapter/section boundaries. Once that exists, we
+can split.
 
-**Where to start:** extend `ParseFunc` in `lib/orchestrator.ts` to accept a
-`filename` (already passes it) and dispatch via a per-variant config map in the
-TYPE_C entry. The variant-level parsers needed:
-- 3-part TYPE_A regex variant (`Brh_C,S.V`) — extension of `lib/parser.ts`
-- Sequential-no-chapter regex (`K_NNN`) — synthetic chapter from sequence
-- Bracketed-section parser (`[saṃvatsara…]`) — like markdown headings but with `[` delim
-- Inline citation filter for Aṅgirasa (translator's `Ang_11.x` cross-refs)
-- Parenthesized format parser (`(Nar. M1.1)`) for Nāradasmṛti translation
+**Where to start (engineering):** if Bṛhaspati's asymmetric case becomes a
+priority, the splitter can be relaxed to allow variant subset relations
+(translation has chapters {1, 2}; transliteration has {1} — that's allowed
+because {1} ⊆ {1, 2}). The staging write already handles partial coverage; only
+`validateAcrossVariants` enforces strict equality. Add an `allowAsymmetricVariants`
+flag plumbed through processWork → validatePlan.
 
-**Trigger:** before annotations ship. URL stability matters most when there's a
-notebook full of highlighted passages anchored to specific chapter slugs.
-
-**Depends on:** orchestrator API change in `lib/orchestrator.ts` (small).
+**Impact:** until each work gets its mismatch resolved, it ships as a
+single-chapter title-page redirect. Annotations on these 4 works will need
+URL migration when the split eventually lands. The other ~34 works are
+unaffected and ready for annotation anchoring.
 
 ---
 

@@ -52,6 +52,13 @@ export interface PerVariantInput {
   native_prefix: string;
   native_markers: VerseMarker[];
   slices: ChapterSlice[];
+  /** Minimum characters of visible (whitespace-collapsed) content per
+   *  chapter slice. Defaults to 20 — appropriate for TYPE_A verse-marker
+   *  splits where any chapter shorter than that suggests a slicer bug.
+   *  Lower (e.g. 0 or 5) for TYPE_C prose-heading splits where the source
+   *  may legitimately have heading-only sections (Kātyāyana ch.48 in both
+   *  variants). */
+  min_content_chars?: number;
 }
 
 export function validateVariant(input: PerVariantInput): ValidationReport {
@@ -145,13 +152,16 @@ export function validateVariant(input: PerVariantInput): ValidationReport {
   }
 
   // ── 7. no-empty-chapter ────────────────────────────────────────────────
-  for (const slice of slices) {
-    if (collapseWhitespace(slice.content).length < 20) {
-      issues.push({
-        validator: "no-empty-chapter",
-        severity: "error",
-        message: `[${variant_label}] chapter ${slice.chapter} content is suspiciously short (< 20 visible chars)`,
-      });
+  const minContentChars = input.min_content_chars ?? 20;
+  if (minContentChars > 0) {
+    for (const slice of slices) {
+      if (collapseWhitespace(slice.content).length < minContentChars) {
+        issues.push({
+          validator: "no-empty-chapter",
+          severity: "error",
+          message: `[${variant_label}] chapter ${slice.chapter} content is suspiciously short (< ${minContentChars} visible chars)`,
+        });
+      }
     }
   }
 

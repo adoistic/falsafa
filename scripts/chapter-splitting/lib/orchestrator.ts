@@ -61,6 +61,10 @@ export interface ParseResult {
   marker_position: MarkerPosition;
   /** Diagnostic notes to print during summary (e.g. "dropped N implausible"). */
   notes?: string[];
+  /** Override the no-empty-chapter validator threshold for this variant.
+   *  Defaults to 20 chars; pass a lower value (or 0 to disable) when the
+   *  source legitimately contains heading-only sections. */
+  min_content_chars?: number;
 }
 
 export type ParseFunc = (body: string, filename: string) => ParseResult;
@@ -77,6 +81,8 @@ export interface VariantPlan {
   marker_position: MarkerPosition;
   notes: string[];
   slices: ChapterSlice[];
+  /** Per-variant override for the no-empty-chapter threshold. */
+  min_content_chars?: number;
 }
 
 export interface WorkPlan {
@@ -228,6 +234,7 @@ export function planWork(slug: string, opts: PlanWorkOptions): WorkPlan {
       marker_position: result.marker_position,
       notes: result.notes ?? [],
       slices,
+      ...(result.min_content_chars !== undefined ? { min_content_chars: result.min_content_chars } : {}),
     });
   }
 
@@ -279,6 +286,7 @@ export function validatePlan(plan: WorkPlan): { ok: boolean; issues: ValidationI
       native_prefix: v.native_prefix,
       native_markers: v.native_markers,
       slices: v.slices,
+      ...(v.min_content_chars !== undefined ? { min_content_chars: v.min_content_chars } : {}),
     });
     allIssues.push(...r.issues);
   }
