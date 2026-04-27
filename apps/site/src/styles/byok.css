@@ -1,0 +1,472 @@
+/**
+ * BYOK demo island styles. Scoped to the .byok-demo container.
+ *
+ * Aesthetic: matches the editorial register of the rest of the site.
+ * Minimal, typography-driven, no card chrome. The form fields and
+ * action buttons inherit from the design tokens defined in tokens.css.
+ */
+
+.byok-demo {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-10);
+  font-family: var(--font-sans);
+}
+
+/* ── Form layout ─────────────────────────────────────────────────────── */
+
+.byok-form {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-8);
+}
+
+.byok-label {
+  display: block;
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--ink-muted);
+  margin: 0 0 var(--s-2);
+}
+
+.byok-help {
+  font-size: 13px;
+  color: var(--ink-muted);
+  margin: var(--s-2) 0 0;
+  line-height: 1.5;
+}
+
+.byok-input {
+  width: 100%;
+  padding: var(--s-3) var(--s-4);
+  font: inherit;
+  font-size: 15px;
+  color: var(--ink);
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+}
+
+.byok-input:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+  border-color: transparent;
+}
+
+.byok-input-textarea {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  line-height: 1.6;
+  resize: vertical;
+  min-height: 96px;
+}
+
+/* ── Key input row ────────────────────────────────────────────────────── */
+
+.byok-key-row {
+  display: flex;
+  gap: var(--s-3);
+  align-items: stretch;
+}
+
+.byok-input-key {
+  flex: 1;
+  font-family: var(--font-mono);
+  letter-spacing: 0.05em;
+}
+
+.byok-key-meta {
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s-4) var(--s-6);
+  align-items: baseline;
+  margin-top: var(--s-3);
+}
+
+.byok-checkbox {
+  display: inline-flex;
+  gap: var(--s-2);
+  align-items: center;
+  font-size: 13px;
+  color: var(--ink);
+  cursor: pointer;
+}
+
+.byok-checkbox input {
+  accent-color: var(--accent);
+}
+
+/* ── Provider picker (ARIA radiogroup) ───────────────────────────────── */
+
+.byok-providers {
+  border: 0;
+  padding: 0;
+  margin: 0;
+}
+
+.byok-providers > .byok-label {
+  /* legend — keep it on its own line */
+  margin-bottom: var(--s-3);
+}
+
+.byok-provider-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(160px, 1fr));
+  gap: var(--s-3);
+}
+
+.byok-provider {
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  gap: var(--s-1);
+  padding: var(--s-3) var(--s-4);
+  background: var(--paper);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  cursor: pointer;
+  font: inherit;
+  text-align: left;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.byok-provider:hover {
+  border-color: var(--ink);
+}
+
+.byok-provider.is-active {
+  border-color: var(--accent);
+  background: rgba(138, 58, 46, 0.04);
+}
+
+.byok-provider:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.byok-provider-name {
+  font-weight: 600;
+  font-size: 14px;
+  color: var(--ink);
+}
+
+.byok-provider.is-active .byok-provider-name {
+  color: var(--accent);
+}
+
+.byok-provider-hint {
+  font-size: 12px;
+  color: var(--ink-muted);
+  font-family: var(--font-mono);
+}
+
+/* ── Question input + chips ──────────────────────────────────────────── */
+
+.byok-chips {
+  margin-top: var(--s-4);
+}
+
+.byok-chips-label {
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--ink-muted);
+  margin: 0 0 var(--s-3);
+}
+
+.byok-chips-list {
+  list-style: none;
+  margin: 0;
+  padding: 0;
+  display: flex;
+  flex-wrap: wrap;
+  gap: var(--s-2);
+}
+
+.byok-chip {
+  font: inherit;
+  font-size: 13px;
+  color: var(--ink);
+  background: transparent;
+  border: 1px solid var(--rule);
+  border-radius: 999px;
+  padding: var(--s-1) var(--s-3);
+  cursor: pointer;
+  transition: border-color 0.15s ease, color 0.15s ease;
+}
+
+.byok-chip:hover {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.byok-chip:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.byok-question-actions {
+  display: flex;
+  gap: var(--s-3);
+  align-items: center;
+  margin-top: var(--s-4);
+}
+
+/* ── Buttons ─────────────────────────────────────────────────────────── */
+
+.byok-button {
+  font: inherit;
+  font-size: 14px;
+  font-weight: 500;
+  padding: var(--s-2) var(--s-5);
+  border: 1px solid var(--rule);
+  background: var(--paper);
+  color: var(--ink);
+  cursor: pointer;
+  border-radius: 2px;
+  transition: background 0.15s ease, color 0.15s ease, border-color 0.15s ease;
+}
+
+.byok-button:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: 1px;
+}
+
+.byok-button:disabled {
+  opacity: 0.5;
+  cursor: not-allowed;
+}
+
+.byok-button-primary {
+  background: var(--ink);
+  color: var(--paper);
+  border-color: var(--ink);
+}
+
+.byok-button-primary:hover:not(:disabled) {
+  background: var(--accent);
+  border-color: var(--accent);
+}
+
+.byok-button-stop {
+  border-color: var(--accent);
+  color: var(--accent);
+}
+
+.byok-button-stop:hover {
+  background: var(--accent);
+  color: var(--paper);
+}
+
+.byok-button-ghost {
+  background: transparent;
+  color: var(--ink-muted);
+  border-color: var(--rule);
+}
+
+.byok-button-ghost:hover {
+  color: var(--accent);
+  border-color: var(--accent);
+}
+
+/* ── Streaming output ────────────────────────────────────────────────── */
+
+.byok-output {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-6);
+  padding: var(--s-6) 0;
+  border-top: 1px solid var(--rule);
+}
+
+.byok-output-pending {
+  display: flex;
+  align-items: center;
+  gap: var(--s-3);
+  color: var(--ink-muted);
+  font-size: 14px;
+}
+
+.byok-spinner {
+  width: 14px;
+  height: 14px;
+  border: 2px solid var(--rule);
+  border-top-color: var(--accent);
+  border-radius: 50%;
+  animation: byok-spin 0.7s linear infinite;
+}
+
+@keyframes byok-spin {
+  to { transform: rotate(360deg); }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .byok-spinner {
+    animation: none;
+  }
+}
+
+.byok-toolcalls {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-3);
+}
+
+.byok-toolcall {
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: var(--s-3) var(--s-4);
+  background: rgba(0, 0, 0, 0.02);
+}
+
+.byok-toolcall.is-pending {
+  border-color: var(--accent);
+}
+
+.byok-toolcall-head {
+  display: flex;
+  justify-content: space-between;
+  align-items: baseline;
+  gap: var(--s-3);
+}
+
+.byok-toolcall-name {
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--ink);
+  font-weight: 600;
+}
+
+.byok-toolcall-status {
+  font-size: 12px;
+  color: var(--ink-muted);
+  font-family: var(--font-mono);
+}
+
+.byok-toolcall-body {
+  margin-top: var(--s-2);
+}
+
+.byok-toolcall-body summary {
+  font-size: 12px;
+  color: var(--ink-muted);
+  cursor: pointer;
+  user-select: none;
+}
+
+.byok-toolcall-section {
+  margin-top: var(--s-3);
+}
+
+.byok-toolcall-section-label {
+  font-size: 11px;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--ink-muted);
+  margin: 0 0 var(--s-1);
+}
+
+.byok-toolcall-pre {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  line-height: 1.5;
+  white-space: pre-wrap;
+  word-break: break-word;
+  margin: 0;
+  color: var(--ink);
+  max-height: 240px;
+  overflow: auto;
+}
+
+.byok-output-text {
+  font-family: var(--font-body);
+  font-size: 16px;
+  line-height: 1.6;
+  color: var(--ink);
+  white-space: pre-wrap;
+}
+
+.byok-status {
+  display: inline-flex;
+  gap: var(--s-2);
+  align-items: center;
+  font-size: 13px;
+  color: var(--ink-muted);
+  margin: 0;
+  font-family: var(--font-sans);
+}
+
+.byok-status-streaming {
+  color: var(--accent);
+}
+
+.byok-status-dot {
+  width: 8px;
+  height: 8px;
+  background: currentColor;
+  border-radius: 50%;
+  animation: byok-pulse 1.2s ease-in-out infinite;
+}
+
+@keyframes byok-pulse {
+  0%, 100% { opacity: 0.3; }
+  50% { opacity: 1; }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .byok-status-dot {
+    animation: none;
+    opacity: 1;
+  }
+}
+
+/* ── Error banner ────────────────────────────────────────────────────── */
+
+.byok-error {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-4);
+  padding: var(--s-5);
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  background: rgba(0, 0, 0, 0.02);
+}
+
+@media (min-width: 640px) {
+  .byok-error {
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+  }
+}
+
+.byok-error-block {
+  border-color: var(--accent);
+  background: rgba(138, 58, 46, 0.06);
+}
+
+.byok-error-text {
+  flex: 1;
+}
+
+.byok-error-title {
+  font-weight: 600;
+  font-size: 14px;
+  margin: 0 0 var(--s-1);
+  color: var(--ink);
+}
+
+.byok-error-message {
+  font-size: 13px;
+  color: var(--ink-muted);
+  line-height: 1.5;
+  margin: 0;
+}
+
+.byok-error-actions {
+  display: flex;
+  gap: var(--s-2);
+}

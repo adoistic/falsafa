@@ -1,15 +1,118 @@
 ---
 import Base from "../../layouts/Base.astro";
-import ComingSoon from "../../components/ComingSoon.astro";
+import ByokDemo from "../../islands/byok/ByokDemo";
+import "../../styles/byok.css";
+
+// Twelve hand-picked question chips covering the eval categories. The
+// curation pool grows in Phase 3 once the eval explorer ships and we
+// can sample from the audited 1,000-question pool.
+const CHIPS = [
+  "What does Ghalib's couplet 168 say about the lover and the beloved?",
+  "Compare Iqbal's 'Khudi' with Cynewulf's 'Dryhten' as conceptions of the self.",
+  "Which works in the corpus discuss the soul's journey after death?",
+  "Show me where Manu Smriti talks about the duties of a king.",
+  "Find a moment where two traditions in the corpus say something near-identical about suffering.",
+  "What's the original Urdu word that gets rendered as 'union' in the English translations?",
+  "How does Cynewulf's Andreas frame heroic Christianity?",
+  "Where does Fichte's Vocation of Man treat the question of agency?",
+  "Quote the opening lines of Iqbal's 'Himalaya'.",
+  "Which authors in the corpus write about poetry itself?",
+  "Trace the metaphor of the lamp across Ghalib's ghazals.",
+  "Compare the Sanskrit and Anglo-Saxon framings of cosmic order.",
+];
+
+// MCP base URL: configured via PUBLIC_FALSAFA_MCP_URL Vite env var.
+// In dev, defaults to http://localhost:3001 (the apps/mcp HTTP wrapper).
+// At launch, points at https://mcp.falsafa.app.
+const MCP_URL = import.meta.env.PUBLIC_FALSAFA_MCP_URL ?? "http://localhost:3001";
 ---
 
 <Base
   title="Try"
-  description="Bring your own API key. Run Falsafa's MCP server live, with Claude or GPT or Gemini, and watch the tool calls in real time."
+  description="Run Falsafa live with your own API key. Watch the librarian tools execute against the corpus in real time. Your key stays in your browser; calls go straight to your provider."
 >
-  <ComingSoon
-    kicker="Try"
-    title="Run Falsafa live with your own key"
-    blurb="Pick a model, paste an API key, ask anything about the corpus. The MCP server runs the actual librarian tools and you see every call as it happens."
+  {/* Page-level CSP: connect-src locks down to the four supported provider
+      hosts + the Falsafa MCP server. No third-party JS allowed.
+      Per /plan-eng-review run 2 Issue 2.3 (P0 security hardening). */}
+  <meta
+    http-equiv="Content-Security-Policy"
+    content={`default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://api.openai.com https://api.anthropic.com https://generativelanguage.googleapis.com https://openrouter.ai ${MCP_URL};`}
+    slot="head"
   />
+
+  {/* Pass MCP URL into the runtime via window injection. The mcpClient
+      reads window.__FALSAFA_MCP_URL with PUBLIC_FALSAFA_MCP_URL fallback. */}
+  <script is:inline define:vars={{ MCP_URL }}>
+    window.__FALSAFA_MCP_URL = MCP_URL;
+  </script>
+
+  <article class="try-page">
+    <header class="try-header">
+      <p class="kicker">Try</p>
+      <h1>Run Falsafa live with your own key</h1>
+      <p class="lede">
+        Pick a provider, paste your API key, ask anything about the corpus.
+        The MCP librarian tools run against the actual Falsafa corpus and
+        every tool call shows up below in real time. Your key stays in
+        your browser; calls go straight to your provider.
+      </p>
+    </header>
+
+    <ByokDemo client:load chips={CHIPS} />
+
+    <footer class="try-foot">
+      <p>
+        Want to use the same MCP from Claude Desktop or Cursor? See the
+        <a href="https://github.com/adoistic/falsafa#mcp">README</a>.
+      </p>
+    </footer>
+  </article>
 </Base>
+
+<style>
+  .try-page {
+    max-width: 70ch;
+    margin: 0 auto;
+    padding: var(--s-12) var(--s-6) var(--s-24);
+  }
+
+  .try-header {
+    margin-bottom: var(--s-12);
+  }
+
+  .kicker {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin: 0 0 var(--s-2);
+  }
+
+  h1 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h1);
+    font-weight: 700;
+    letter-spacing: -0.02em;
+    margin: 0 0 var(--s-4);
+  }
+
+  .lede {
+    font-family: var(--font-display);
+    font-style: italic;
+    color: var(--ink-muted);
+    font-size: var(--fs-h3);
+    line-height: 1.5;
+    margin: 0;
+  }
+
+  .try-foot {
+    margin-top: var(--s-12);
+    padding-top: var(--s-6);
+    border-top: 1px solid var(--rule);
+    font-family: var(--font-sans);
+    font-size: 13px;
+    color: var(--ink-muted);
+  }
+</style>

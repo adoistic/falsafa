@@ -56,6 +56,11 @@ const isActive = (item: NavItem) => path === item.href || path.startsWith(item.m
         /* localStorage unavailable, fall through to defaults */
       }
     </script>
+
+    {/* Named slot for page-specific <head> content: meta tags, page-level
+        CSP, page-specific link rels, etc. Used by /try to inject a
+        page-scoped Content-Security-Policy. */}
+    <slot name="head" />
   </head>
 
   <body>
