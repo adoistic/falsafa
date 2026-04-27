@@ -1,0 +1,229 @@
+[
+  {
+    "id": "q-0003",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find the verse in Ghalib's 'Rahiye ab aisi jagah chal kar jahan koi na ho' where he wishes for a place with no neighbour, no companion, and no door-keeper.",
+    "rationale": "Tests passage-level retrieval inside ghazal 168 — should return the specific stanza, not just the chapter.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ]
+  },
+  {
+    "id": "q-0011",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Quote the verse from Yajnavalkya Smriti chapter 1 that lists the twenty promulgators of the Dharmasastras, ending with Vasiṣṭha.",
+    "rationale": "Tests precise citation of Yj_1.4–1.5; the answer requires correctly listing all the named sages.",
+    "expected_works": [
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ]
+  },
+  {
+    "id": "q-0201",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "How do Ghalib and Zauq each handle the maqta — the signature couplet? Pick one ghazal each and contrast their self-naming styles.",
+    "rationale": "Tests cross-author maqta retrieval and comparison. Both poets name themselves but in distinct registers (Ghalib's irony vs. Zauq's humility).",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0202",
+    "category": "comparative",
+    "difficulty": "hard",
+    "prompt": "Iqbal and Ghalib both write about the pre-eternal pact ('alast'). Find the key passage in each and explain how Iqbal reframes Ghalib's resignation into action.",
+    "rationale": "Tests doctrinal-thread retrieval across two Urdu poets a generation apart. The 'alast' moment is a hinge concept.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0401",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus discuss the soul's journey after death?",
+    "rationale": "Tests broad discovery across philosophy of death. Should land Manusmriti ch. 12, Yajnavalkya ch. 3, San Hyan Kamahayanikan, perhaps Cynewulf's Juliana, Old English 'Soul and Body II'.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-san-hyan-kamahayanikan-2a0c19",
+      "unknown-old-english-elegies-d5fe9e",
+      "cynewulf-juliana-9a2157"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0402",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which texts in the corpus contain explicit cosmogonies (creation accounts)?",
+    "rationale": "Tests broad discovery. Manusmriti ch. 1 most explicit; Visnu Smriti has parallel material; tattva texts may also contain cosmogonic passages.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8",
+      "unknown-vrhaspatitattva-b60b28"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0551",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'dharma' mean across the Sanskrit smriti tradition? Synthesise from at least three texts.",
+    "rationale": "Tests cross-text concept synthesis. Manu, Yajnavalkya, Visnu give different shadings.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0552",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "How is 'karma' framed across the smriti corpus? Where does action become consequence?",
+    "rationale": "Cross-text concept synthesis. Manu ch. 12, Yajnavalkya ch. 3, Visnu Smriti.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0701",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Manusmriti chapter 8, what is the precise penalty for a non-Brahmin who strikes a Brahmin?",
+    "rationale": "Mn 8.270-8.272 area. Tests precise verse-level retrieval inside the vyavahara chapter.",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0851",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "Find a couplet in Ghalib, one in Zauq, and one in Iqbal where the word 'dard' is doing different work. Mark for each what an English-only reader would lose if 'dard' were rendered simply as 'pain'.",
+    "rationale": "Cross-poet word-sense check on dard, anchored on what English flattens.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0852",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "If a translator had to pick one English word for 'dharma' and stick with it across Manu, Yājñavalkya, and Viṣṇu, where would the choice break down most painfully? Show three passages where 'duty', 'law', or 'virtue' each picks up only one corner of what the smriti is doing.",
+    "rationale": "Forces concrete passage-level demonstration of dharma's untranslatability.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0951",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Andreas frames the world as a stage on which Christ's order overrides pagan disorder. Manu's opening book frames it as the cyclical unfolding of dharma. Find the verses on each side that most directly state the cosmic frame — which would survive translation into the other's idiom?",
+    "rationale": "Cross-tradition cosmological comparison anchored on the strongest framing-verse from each side.",
+    "expected_works": [
+      "cynewulf-andreas-07b573",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  }
+]

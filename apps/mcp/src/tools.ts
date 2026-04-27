@@ -138,6 +138,17 @@ export function read_chapter(
   variant?: "original" | "transliteration" | "translation",
 ) {
   const { meta, variant: v, body, frontmatter } = corpus.readChapter(work_slug, chapter_number, variant);
+  // Annotate body with paragraph_id markers so the model can cite by hash
+  // instead of guessing from inline verse markers like `// Mn_1.52 //`.
+  // Pre-fix two known failure modes from the eval (q-0626 + q-0951):
+  //   1. agent invents a `p-xxxxxx` id because the body doesn't surface
+  //      one anywhere it can see;
+  //   2. agent uses the verse marker (`Mn_1.52`) as the citation id —
+  //      quotes are verbatim but the id doesn't resolve.
+  // The sidecar's `offset` field is byte-relative to this same `body`
+  // string (verified end-to-end in build-paragraph-index.ts).
+  const paragraphs = corpus.readParagraphs(work_slug, chapter_number, v.file);
+  const annotatedBody = annotateBodyWithParagraphIds(body, paragraphs);
   return {
     work_slug,
     work_title: meta.work_title,
@@ -155,8 +166,40 @@ export function read_chapter(
     source_url: v.source_url,
     available_variants: meta.variants.map((vv) => vv.content_type),
     frontmatter,
-    body,
+    body: annotatedBody,
   };
+}
+
+/**
+ * Inject `[p-xxxxxx] ` prefixes at each paragraph's offset in the body.
+ * If the sidecar is empty (no per-paragraph index), returns the body
+ * unchanged. Offsets that fall outside the body are silently skipped —
+ * those paragraphs lose annotation but the body stays intact.
+ *
+ * The marker format `[p-xxxxxx]` matches the convention already used in
+ * the BYOK demo's defensive linkifier (apps/site/src/islands/byok/ui/
+ * defensive-linkify.ts), so a paragraph_id surfaced here flows
+ * unchanged through the model into a citation.
+ */
+function annotateBodyWithParagraphIds(
+  body: string,
+  paragraphs: { id: string; offset: number; text: string }[],
+): string {
+  if (paragraphs.length === 0) return body;
+  // Sort by offset ascending. The sidecar usually arrives sorted but we
+  // don't trust that.
+  const sorted = [...paragraphs].sort((a, b) => a.offset - b.offset);
+  let out = "";
+  let cursor = 0;
+  for (const p of sorted) {
+    if (typeof p.offset !== "number" || p.offset < cursor) continue;
+    if (p.offset > body.length) break;
+    out += body.slice(cursor, p.offset);
+    out += `[${p.id}] `;
+    cursor = p.offset;
+  }
+  out += body.slice(cursor);
+  return out;
 }
 
 // ─────────────────────────────────────────────────────────────────────────
