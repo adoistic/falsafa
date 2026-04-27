@@ -25,7 +25,7 @@ import {
   saveModel,
 } from "./storage";
 import { loadAdapter } from "./providers";
-import { createMcpClient, makeOnToolCall } from "./mcpClient";
+import { dispatchTool } from "./browserTools";
 import { DEFAULT_MODEL_BY_PROVIDER } from "./models";
 import KeyInput from "./ui/KeyInput";
 import ProviderPicker from "./ui/ProviderPicker";
@@ -181,8 +181,10 @@ async function runStream(
 ): Promise<void> {
   try {
     const stream = await loadAdapter(provider);
-    const mcp = createMcpClient();
-    const onToolCall = makeOnToolCall(mcp);
+    // Browser-bundled MCP dispatch: tool calls run directly in the page
+    // against /corpus/* static URLs. No server hop, no CORS, no key
+    // beyond what the user already typed for the LLM provider.
+    const onToolCall = dispatchTool;
 
     let firstChunkSeen = false;
     for await (const evt of stream({

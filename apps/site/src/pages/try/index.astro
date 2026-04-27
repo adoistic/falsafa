@@ -21,10 +21,6 @@ const CHIPS = [
   "Compare the Sanskrit and Anglo-Saxon framings of cosmic order.",
 ];
 
-// MCP base URL: configured via PUBLIC_FALSAFA_MCP_URL Vite env var.
-// In dev, defaults to http://localhost:3001 (the apps/mcp HTTP wrapper).
-// At launch, points at https://mcp.falsafa.ai.
-const MCP_URL = import.meta.env.PUBLIC_FALSAFA_MCP_URL ?? "http://localhost:3001";
 ---
 
 <Base
@@ -32,19 +28,14 @@ const MCP_URL = import.meta.env.PUBLIC_FALSAFA_MCP_URL ?? "http://localhost:3001
   description="Run Falsafa live with your own API key. Watch the librarian tools execute against the corpus in real time. Your key stays in your browser; calls go straight to your provider."
 >
   {/* Page-level CSP: connect-src locks down to the four supported provider
-      hosts + the Falsafa MCP server. No third-party JS allowed.
+      hosts + same-origin (the corpus markdown lives under /corpus/* on
+      this site). No third-party JS, no remote MCP server.
       Per /plan-eng-review run 2 Issue 2.3 (P0 security hardening). */}
   <meta
     http-equiv="Content-Security-Policy"
-    content={`default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://api.openai.com https://api.anthropic.com https://generativelanguage.googleapis.com https://openrouter.ai ${MCP_URL};`}
+    content={`default-src 'self'; script-src 'self' 'unsafe-inline'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self'; connect-src 'self' https://api.openai.com https://api.anthropic.com https://generativelanguage.googleapis.com https://openrouter.ai;`}
     slot="head"
   />
-
-  {/* Pass MCP URL into the runtime via window injection. The mcpClient
-      reads window.__FALSAFA_MCP_URL with PUBLIC_FALSAFA_MCP_URL fallback. */}
-  <script is:inline define:vars={{ MCP_URL }}>
-    window.__FALSAFA_MCP_URL = MCP_URL;
-  </script>
 
   <article class="try-page">
     <header class="try-header">

@@ -1,0 +1,421 @@
+/**
+ * Browser-side implementations of the 8 Falsafa MCP librarian tools.
+ *
+ * Each function takes the same args shape as apps/mcp/src/tools.ts
+ * (so the LLM sees identical contracts whether it's calling stdio MCP
+ * or this browser-bundled version) and returns the same JSON shape.
+ *
+ * Search uses Pagefind (already built into the site for the global
+ * search bar). Cross-link discovery uses the precomputed cross-links.json.
+ *
+ * No network roundtrips except same-origin fetches of static corpus
+ * files. Fits the static-deployment model exactly.
+ */
+
+import {
+  loadManifest,
+  loadWorkIndex,
+  listChapterMetas,
+  getChapterMeta,
+  readChapterBody,
+  readParagraphs,
+  loadCrossLinks,
+  type ManifestWork,
+  type ChapterMeta,
+} from "./browserCorpus";
+
+// ── Tool dispatcher ────────────────────────────────────────────────────
+
+/**
+ * Single entry point — the BYOK demo's `onToolCall` callback dispatches
+ * here. Maps tool name to the implementation, runs it, and returns
+ * JSON-serializable output. Throws on unknown tool names or runtime
+ * errors so the AI SDK can surface them to the model as tool errors.
+ */
+export async function dispatchTool(name: string, args: unknown): Promise<unknown> {
+  const argsObj = (args ?? {}) as Record<string, unknown>;
+  switch (name) {
+    case "list_works":
+      return listWorks(argsObj);
+    case "list_chapters":
+      return listChapters(argsObj);
+    case "get_metadata":
+      return getMetadata(argsObj);
+    case "read_chapter":
+      return readChapter(argsObj);
+    case "get_passage":
+      return getPassage(argsObj);
+    case "search_corpus":
+      return searchCorpus(argsObj);
+    case "find_related":
+      return findRelated(argsObj);
+    case "compare_works":
+      return compareWorks(argsObj);
+    default:
+      throw new Error(`Unknown Falsafa tool: ${name}`);
+  }
+}
+
+// ── list_works ─────────────────────────────────────────────────────────
+
+interface ListWorksArgs {
+  author?: string;
+  era?: string;
+  language?: string;
+  genre?: string;
+}
+
+async function listWorks(args: ListWorksArgs): Promise<{ works: Array<Pick<ManifestWork, "slug" | "title" | "author" | "era" | "language" | "genre" | "total_logical_chapters">> }> {
+  const manifest = await loadManifest();
+  const filters = {
+    author: norm(args.author),
+    era: norm(args.era),
+    language: norm(args.language),
+    genre: norm(args.genre),
+  };
+  const works = manifest.works
+    .filter((w) => {
+      if (filters.author && !norm(w.author).includes(filters.author) && norm(w.author_slug) !== filters.author)
+        return false;
+      if (filters.era && norm(w.era) !== filters.era && norm(w.era_slug) !== filters.era)
+        return false;
+      if (filters.language && norm(w.language) !== filters.language && norm(w.language_slug) !== filters.language)
+        return false;
+      if (filters.genre && norm(w.genre) !== filters.genre && norm(w.genre_slug) !== filters.genre)
+        return false;
+      return true;
+    })
+    .map((w) => ({
+      slug: w.slug,
+      title: w.title,
+      author: w.author,
+      era: w.era,
+      language: w.language,
+      genre: w.genre,
+      total_logical_chapters: w.total_logical_chapters,
+    }));
+  return { works };
+}
+
+// ── list_chapters ──────────────────────────────────────────────────────
+
+interface ListChaptersArgs {
+  work_slug?: string;
+}
+
+async function listChapters(
+  args: ListChaptersArgs,
+): Promise<{
+  work_slug: string;
+  chapters: Array<{ chapter_number: number; title: string; default_variant: string; variants: string[] }>;
+}> {
+  if (!args.work_slug) throw new Error("list_chapters: missing required arg work_slug");
+  const metas = await listChapterMetas(args.work_slug);
+  return {
+    work_slug: args.work_slug,
+    chapters: metas.map((m) => ({
+      chapter_number: m.chapter_number,
+      title: m.title,
+      default_variant: m.default_variant,
+      variants: m.variants.map((v) => v.content_type),
+    })),
+  };
+}
+
+// ── get_metadata ───────────────────────────────────────────────────────
+
+interface GetMetadataArgs {
+  work_slug?: string;
+}
+
+async function getMetadata(
+  args: GetMetadataArgs,
+): Promise<{ work: ManifestWork; index: string }> {
+  if (!args.work_slug) throw new Error("get_metadata: missing required arg work_slug");
+  const manifest = await loadManifest();
+  const work = manifest.works.find((w) => w.slug === args.work_slug);
+  if (!work) throw new Error(`work not found: ${args.work_slug}`);
+  const indexMd = await loadWorkIndex(args.work_slug);
+  return { work, index: extractIndexProse(indexMd) };
+}
+
+// ── read_chapter ───────────────────────────────────────────────────────
+
+interface ReadChapterArgs {
+  work_slug?: string;
+  chapter_number?: number;
+  variant?: "original" | "transliteration" | "translation";
+}
+
+async function readChapter(
+  args: ReadChapterArgs,
+): Promise<{
+  work_slug: string;
+  chapter_number: number;
+  variant: string;
+  title: string;
+  body: string;
+}> {
+  if (!args.work_slug) throw new Error("read_chapter: missing required arg work_slug");
+  if (typeof args.chapter_number !== "number")
+    throw new Error("read_chapter: missing required arg chapter_number");
+  const { meta, body, variantFile } = await readChapterBody(
+    args.work_slug,
+    args.chapter_number,
+    args.variant,
+  );
+  return {
+    work_slug: args.work_slug,
+    chapter_number: meta.chapter_number,
+    variant: variantFile.replace(/\.md$/, ""),
+    title: meta.title,
+    body,
+  };
+}
+
+// ── get_passage ────────────────────────────────────────────────────────
+
+interface GetPassageArgs {
+  work_slug?: string;
+  chapter_number?: number;
+  paragraph_ids?: string[];
+  paragraph_range?: [number, number];
+  variant?: "original" | "transliteration" | "translation";
+}
+
+async function getPassage(args: GetPassageArgs): Promise<{
+  work_slug: string;
+  chapter_number: number;
+  variant: string;
+  paragraphs: Array<{ paragraph_id: string; index: number; text: string }>;
+}> {
+  if (!args.work_slug) throw new Error("get_passage: missing required arg work_slug");
+  if (typeof args.chapter_number !== "number")
+    throw new Error("get_passage: missing required arg chapter_number");
+
+  const meta = await getChapterMeta(args.work_slug, args.chapter_number);
+  const variantFile = args.variant
+    ? meta.variants.find((v) => v.content_type === args.variant)?.file
+    : meta.default_variant;
+  if (!variantFile) throw new Error(`variant not found for ${args.work_slug}/${args.chapter_number}`);
+
+  const records = await readParagraphs(args.work_slug, args.chapter_number, variantFile);
+
+  let selected: typeof records = [];
+  if (args.paragraph_ids && args.paragraph_ids.length > 0) {
+    const set = new Set(args.paragraph_ids);
+    selected = records.filter((r) => set.has(r.paragraph_id));
+  } else if (args.paragraph_range) {
+    const [start, end] = args.paragraph_range;
+    selected = records.filter((r) => r.index >= start && r.index <= end);
+  } else {
+    // No selector → return first 8 paragraphs as a sensible default.
+    selected = records.slice(0, 8);
+  }
+
+  return {
+    work_slug: args.work_slug,
+    chapter_number: meta.chapter_number,
+    variant: variantFile.replace(/\.md$/, ""),
+    paragraphs: selected,
+  };
+}
+
+// ── search_corpus ──────────────────────────────────────────────────────
+// Uses Pagefind (already built for the site's global search). The Pagefind
+// index lives at /pagefind/pagefind.js; we lazy-load it on first call.
+
+interface SearchCorpusArgs {
+  query?: string;
+  limit?: number;
+}
+
+interface PagefindResultItem {
+  id: string;
+  data: () => Promise<{
+    url: string;
+    excerpt: string;
+    meta?: { title?: string };
+    filters?: Record<string, string[]>;
+  }>;
+}
+
+interface PagefindAPI {
+  search(query: string): Promise<{ results: PagefindResultItem[] }>;
+}
+
+let pagefindPromise: Promise<PagefindAPI | null> | null = null;
+
+async function loadPagefind(): Promise<PagefindAPI | null> {
+  if (pagefindPromise) return pagefindPromise;
+  pagefindPromise = (async () => {
+    try {
+      // Astro's dev server blocks dynamic-imports of /public/ files, and
+      // Vite's static analysis tries to resolve absolute paths at build
+      // time. Hide the import behind new Function() so neither layer
+      // sees it. This is the pattern Pagefind itself recommends.
+      const dynImport = new Function(
+        "url",
+        "return import(/* @vite-ignore */ url)",
+      ) as (url: string) => Promise<PagefindAPI>;
+      const mod = await dynImport("/pagefind/pagefind.js");
+      return mod;
+    } catch {
+      return null;
+    }
+  })();
+  return pagefindPromise;
+}
+
+async function searchCorpus(args: SearchCorpusArgs): Promise<{
+  query: string;
+  total: number;
+  results: Array<{
+    work_slug: string | null;
+    chapter_number: number | null;
+    title: string | null;
+    url: string;
+    excerpt: string;
+  }>;
+}> {
+  const query = (args.query ?? "").trim();
+  if (!query) throw new Error("search_corpus: missing required arg query");
+  const limit = Math.max(1, Math.min(args.limit ?? 8, 25));
+
+  const pf = await loadPagefind();
+  if (!pf) {
+    return {
+      query,
+      total: 0,
+      results: [],
+    };
+  }
+
+  const out = await pf.search(query);
+  const top = out.results.slice(0, limit);
+  const results = await Promise.all(
+    top.map(async (r) => {
+      const data = await r.data();
+      const { workSlug, chapterNumber } = parseChapterUrl(data.url);
+      return {
+        work_slug: workSlug,
+        chapter_number: chapterNumber,
+        title: data.meta?.title ?? null,
+        url: data.url,
+        excerpt: data.excerpt,
+      };
+    }),
+  );
+  return { query, total: out.results.length, results };
+}
+
+function parseChapterUrl(url: string): {
+  workSlug: string | null;
+  chapterNumber: number | null;
+} {
+  // Pagefind returns site URLs like "/works/<slug>/<chapter>/" or
+  // "/works/<slug>/". Extract slug + chapter from the path.
+  const m = url.match(/\/works\/([^/]+)(?:\/([^/]+))?\/?$/);
+  if (!m) return { workSlug: null, chapterNumber: null };
+  const workSlug = m[1] ?? null;
+  const chapterTok = m[2];
+  if (!chapterTok) return { workSlug, chapterNumber: null };
+  const num = parseInt(chapterTok, 10);
+  return { workSlug, chapterNumber: Number.isNaN(num) ? null : num };
+}
+
+// ── find_related ───────────────────────────────────────────────────────
+
+interface FindRelatedArgs {
+  work_slug?: string;
+  chapter_number?: number;
+  limit?: number;
+}
+
+async function findRelated(args: FindRelatedArgs): Promise<{
+  source: { work_slug: string; chapter_number: number | null };
+  related: Array<{ work_slug: string; chapter_number: number; score: number; title?: string }>;
+}> {
+  if (!args.work_slug) throw new Error("find_related: missing required arg work_slug");
+  const limit = Math.max(1, Math.min(args.limit ?? 5, 20));
+
+  const links = (await loadCrossLinks()) as Record<
+    string,
+    Array<{ target: string; score: number; chapter_number?: number; title?: string }>
+  >;
+
+  // Look up by exact work or work+chapter key. The cross-links.json
+  // emitted by scripts/cross-link.ts uses keys like "work_slug" or
+  // "work_slug:chapter_number" — try both.
+  const chapterKey =
+    args.chapter_number !== undefined
+      ? `${args.work_slug}:${args.chapter_number}`
+      : null;
+  const list = (chapterKey && links[chapterKey]) || links[args.work_slug] || [];
+
+  const related = list.slice(0, limit).map((entry) => {
+    const [tslug, tchap] = entry.target.split(":");
+    return {
+      work_slug: tslug ?? entry.target,
+      chapter_number: tchap ? parseInt(tchap, 10) : entry.chapter_number ?? 0,
+      score: entry.score,
+      title: entry.title,
+    };
+  });
+
+  return {
+    source: {
+      work_slug: args.work_slug,
+      chapter_number: args.chapter_number ?? null,
+    },
+    related,
+  };
+}
+
+// ── compare_works ──────────────────────────────────────────────────────
+// Returns metadata + a small sample of chapter pointers from each work.
+// The host LLM does the actual comparison reasoning.
+
+interface CompareWorksArgs {
+  work_slug_a?: string;
+  work_slug_b?: string;
+  topic?: string;
+}
+
+async function compareWorks(args: CompareWorksArgs): Promise<{
+  topic: string | null;
+  a: { work: ManifestWork; chapters: ChapterMeta[] };
+  b: { work: ManifestWork; chapters: ChapterMeta[] };
+}> {
+  if (!args.work_slug_a || !args.work_slug_b)
+    throw new Error("compare_works: missing required args work_slug_a and work_slug_b");
+
+  const manifest = await loadManifest();
+  const a = manifest.works.find((w) => w.slug === args.work_slug_a);
+  const b = manifest.works.find((w) => w.slug === args.work_slug_b);
+  if (!a) throw new Error(`work_slug_a not found: ${args.work_slug_a}`);
+  if (!b) throw new Error(`work_slug_b not found: ${args.work_slug_b}`);
+
+  const aChapters = await listChapterMetas(args.work_slug_a);
+  const bChapters = await listChapterMetas(args.work_slug_b);
+
+  // No topic-aware filtering yet; LLM picks chapters from the lists.
+  // Passing the first 6 chapters of each as an opinionated pointer
+  // sample. (Topic search lands when search_corpus + filtering matures.)
+  return {
+    topic: args.topic ?? null,
+    a: { work: a, chapters: aChapters.slice(0, 6) },
+    b: { work: b, chapters: bChapters.slice(0, 6) },
+  };
+}
+
+// ── helpers ────────────────────────────────────────────────────────────
+
+function norm(s?: string): string {
+  return (s ?? "").toLowerCase().trim().replace(/\s+/g, "-");
+}
+
+const INDEX_FRONTMATTER_RE = /^---\r?\n[\s\S]*?\r?\n---\r?\n/;
+function extractIndexProse(md: string): string {
+  return md.replace(INDEX_FRONTMATTER_RE, "").trim();
+}

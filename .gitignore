@@ -46,6 +46,10 @@ corpus/.staging-split/
 # (apps/site/public/covers/ is copied from corpus/works/*/cover.webp at build time
 # via prepare-covers.ts; do not check it in)
 apps/site/public/covers/
+# (apps/site/public/corpus is a symlink to ../../../corpus generated at
+# build time by prepare-corpus.ts so the browser-bundled MCP tools can
+# fetch corpus markdown via static URLs; do not check it in)
+apps/site/public/corpus
 
 # OpenRouter / Replicate API keys (must never be in repo)
 .openrouter
