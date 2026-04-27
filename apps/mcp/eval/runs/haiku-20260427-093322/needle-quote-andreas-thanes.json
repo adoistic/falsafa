@@ -1,0 +1,31 @@
+{
+  "answer": "The quote 'We have heard of heroes in ages past, of twelve true thanes under the turning stars' is from Andreas by Cynewulf, Chapter 1 (work slug: cynewulf-andreas-07b573, chapter number: 1).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "twelve true thanes"
+      },
+      "result_summary": "Found 1 match in cynewulf-andreas-07b573 chapter 1, with snippet confirming the exact opening lines"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 0,
+          "end": 5
+        }
+      },
+      "result_summary": "Confirmed paragraph p-868413 contains the full quote: 'We have heard of heroes in ages past, of twelve true thanes under the turning stars, the Lord's own champions...'"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-868413"
+    }
+  ]
+}

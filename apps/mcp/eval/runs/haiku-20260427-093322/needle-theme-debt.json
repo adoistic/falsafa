@@ -1,0 +1,21 @@
+{
+  "answer": "The Bṛhaspati Smṛti (unknown-brhaspati-smrti-0fd070) has the most detailed treatment of legal procedures around debt. The text contains an entire dedicated section (1.10: 'The Recovery of Debt') with multiple subsections covering: (1) the consideration of interest rates (1.10.1), (2) six different kinds of interest—bodily, periodical, compound, stipulated, crest-interest, and interest from enjoyment (1.10.2), (3) pledges and mortgages (1.10.6), and (4) sureties and their obligations (1.10.7). The text also discusses loan documents, debt instruments, witness testimony in debt cases, and the legal procedures for debt recovery. While other Sanskrit Smṛti texts like the Kātyāyana Smṛti address debt-related matters, they do so with less comprehensive coverage. The Bṛhaspati Smṛti's single chapter contains 1,220 paragraphs of detailed legal exposition, with approximately 24 of the top 30 search results for 'debt' coming from this work alone.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "legal procedure"}, "result_summary": "30 results, primarily from Bṛhaspati Smṛti Chapter 1, covering legal procedures and debt-related disputes"},
+    {"name": "search_corpus", "args": {"query": "interest"}, "result_summary": "30 results, all from Bṛhaspati Smṛti, with extensive coverage of different kinds of interest (bodily, periodical, compound, stipulated, crest-interest, interest from enjoyment)"},
+    {"name": "search_corpus", "args": {"query": "pledge"}, "result_summary": "30 results, ~25 from Bṛhaspati Smṛti with detailed sections on pledges and mortgages"},
+    {"name": "search_corpus", "args": {"query": "surety"}, "result_summary": "30 results, 16 from Bṛhaspati Smṛti and 14 from Kātyāyana Smṛti, covering four kinds of sureties"},
+    {"name": "search_corpus", "args": {"query": "mortgage"}, "result_summary": "17 results, 7 from Bṛhaspati Smṛti with discussion of mortgages as pledges"},
+    {"name": "search_corpus", "args": {"query": "debt"}, "result_summary": "30 results, 24 from Bṛhaspati Smṛti, including extensive coverage of debt recovery procedures"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-brhaspati-smrti-0fd070"}, "result_summary": "Bṛhaspati Smṛti contains 1 chapter with 1,220 paragraphs"},
+    {"name": "get_metadata", "args": {"work_slug": "unknown-brhaspati-smrti-0fd070"}, "result_summary": "Bṛhaspati Smṛti: 1 logical chapter, 32,934 words, focused on legal procedures and disputes"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1, "paragraph_range": {"start": 150, "end": 200}}, "result_summary": "Confirmed extensive legal procedure content including sections on summons, sureties, and debt-related lawsuits"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1, "paragraph_id": "p-bfcdde"},
+    {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1, "paragraph_id": "p-b34290"},
+    {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1, "paragraph_id": "p-4b56da"},
+    {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1, "paragraph_id": "p-694e65"},
+    {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1, "paragraph_id": "p-8df117"}
+  ]
+}

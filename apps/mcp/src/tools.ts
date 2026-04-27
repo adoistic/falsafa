@@ -222,28 +222,125 @@ export interface SearchOptions {
   work_slug?: string;
 }
 
-export function search_corpus(corpus: Corpus, query: string, options: SearchOptions = {}) {
-  if (!query || !query.trim()) {
-    return { query, scope: options.scope ?? "english", count: 0, results: [] };
-  }
-  const scope = options.scope ?? "english";
-  const limit = options.limit ?? 30;
-  const re = new RegExp(escapeRegex(query), options.case_sensitive ? "g" : "gi");
-  const root = corpus.rootPath;
-  const results: Array<{
-    work_slug: string;
-    work_title: string;
-    chapter_number: number;
-    chapter_title: string;
-    chapter_slug: string;
-    variant: string;
-    language: string;
-    snippet: string;
-    paragraph_id: string | null;
-  }> = [];
+interface SearchHit {
+  work_slug: string;
+  work_title: string;
+  chapter_number: number;
+  chapter_title: string;
+  chapter_slug: string;
+  variant: string;
+  language: string;
+  snippet: string;
+  paragraph_id: string | null;
+  /** When auto-fallback is used, which of the fallback tokens matched in this hit. */
+  matched_tokens?: string[];
+}
 
-  const works = options.work_slug
-    ? corpus.works().filter((w) => w.slug === options.work_slug)
+/**
+ * High-frequency English stopwords + filler that should never be the
+ * "distinctive" token of a query when we auto-fallback to per-token
+ * scanning. Kept small on purpose — overly aggressive stopword removal
+ * loses too much.
+ */
+const QUERY_STOPWORDS = new Set([
+  "the","and","of","to","a","in","that","is","was","for","it","with","as",
+  "his","her","be","by","on","not","this","but","are","from","or","have",
+  "an","they","which","one","you","were","all","she","there","would",
+  "their","we","him","been","has","when","who","will","more","no","if",
+  "out","do","what","so","up","into","your","about","just","should",
+  "could","may","might","shall","must","said","says","say","i","me","my",
+  "yes","also","very","like","such","than","then","now","then",
+]);
+
+/** Document-frequency index: lowercase token → number of distinct
+ *  English chapters that contain it. Built lazily on first query.
+ *  Used by distinctiveTokens to rank candidates by true rarity, not
+ *  just length. The corpus is small (~750 English chapters), so the
+ *  index fits in memory and builds in <500ms. */
+let _dfIndex: Map<string, number> | null = null;
+let _dfTotalChapters = 0;
+
+function buildDfIndex(corpus: Corpus): Map<string, number> {
+  const root = corpus.rootPath;
+  const df = new Map<string, number>();
+  let chapters = 0;
+  for (const work of corpus.works()) {
+    for (const meta of corpus.listChapters(work.slug)) {
+      for (const v of meta.variants) {
+        if (v.content_type !== "translation" && v.language !== "english") continue;
+        const filePath = join(root, "works", work.slug, "chapters", meta.chapter_slug, v.file);
+        const raw = readFileSync(filePath, "utf-8");
+        const bodyStart = raw.indexOf("\n---") + 4;
+        const body = raw.slice(bodyStart).toLowerCase();
+        const tokensInChapter = new Set<string>();
+        for (const m of body.matchAll(/[a-z'][a-z']+/g)) {
+          const t = m[0]!;
+          if (t.length >= 3) tokensInChapter.add(t);
+        }
+        for (const t of tokensInChapter) {
+          df.set(t, (df.get(t) ?? 0) + 1);
+        }
+        chapters++;
+      }
+    }
+  }
+  _dfTotalChapters = chapters;
+  return df;
+}
+
+function getDfIndex(corpus: Corpus): Map<string, number> {
+  if (!_dfIndex) _dfIndex = buildDfIndex(corpus);
+  return _dfIndex;
+}
+
+/** Tokenize a query into "distinctive" tokens, ranked by inverse-document-
+ *  frequency over the corpus. Mid-sentence capitalization (proper-noun
+ *  signal — "Boar", "Earth") gets a small bonus. Stopwords stripped. */
+function distinctiveTokens(query: string, corpus: Corpus): string[] {
+  const df = getDfIndex(corpus);
+  const N = Math.max(1, _dfTotalChapters);
+  const rx = /[A-Za-z][A-Za-z']+/g;
+  const seen = new Set<string>();
+  const candidates: Array<{ token: string; idf: number; capitalized: boolean }> = [];
+  let firstWord = true;
+  for (const m of query.matchAll(rx)) {
+    const raw = m[0]!;
+    const lower = raw
+      .toLowerCase()
+      .normalize("NFD")
+      .replace(/[\u0300-\u036f]/g, "");
+    if (lower.length < 3 || QUERY_STOPWORDS.has(lower) || seen.has(lower)) {
+      firstWord = false;
+      continue;
+    }
+    seen.add(lower);
+    // Tokens not in the index are MAXIMALLY rare — give them a high IDF.
+    const docFreq = df.get(lower) ?? 0.5;
+    const idf = Math.log((N + 1) / (docFreq + 0.5));
+    const capitalized = /^[A-Z]/.test(raw) && !firstWord;
+    candidates.push({ token: lower, idf, capitalized });
+    firstWord = false;
+  }
+  // Rank: capitalized proper nouns first (small bonus), then by IDF desc.
+  candidates.sort((a, b) => {
+    if (a.capitalized !== b.capitalized) return a.capitalized ? -1 : 1;
+    return b.idf - a.idf;
+  });
+  return candidates.map((c) => c.token);
+}
+
+/** Internal: scan the corpus for a regex pattern, collect hits. */
+function scanCorpus(
+  corpus: Corpus,
+  re: RegExp,
+  scope: "english" | "all",
+  limit: number,
+  workSlugFilter?: string,
+): SearchHit[] {
+  const root = corpus.rootPath;
+  const results: SearchHit[] = [];
+  const works = workSlugFilter
+    ? corpus.works().filter((w) => w.slug === workSlugFilter)
     : corpus.works();
 
   outer: for (const work of works) {
@@ -267,14 +364,14 @@ export function search_corpus(corpus: Corpus, query: string, options: SearchOpti
         for (const m of matches) {
           if (results.length >= limit) break outer;
           const matchOffset = m.index ?? 0;
-          // Snippet: ~80 chars around the match
           const start = Math.max(0, matchOffset - 80);
           const end = Math.min(body.length, matchOffset + (m[0]?.length ?? 0) + 80);
           let snippet = body.slice(start, end).trim().replace(/\s+/g, " ");
           if (start > 0) snippet = "..." + snippet;
           if (end < body.length) snippet = snippet + "...";
-          // Find paragraph_id by offset
-          const para = paragraphs.find((p) => p.offset <= matchOffset && matchOffset < p.offset + p.text.length + 2);
+          const para = paragraphs.find(
+            (p) => p.offset <= matchOffset && matchOffset < p.offset + p.text.length + 2,
+          );
           results.push({
             work_slug: work.slug,
             work_title: work.title,
@@ -288,6 +385,64 @@ export function search_corpus(corpus: Corpus, query: string, options: SearchOpti
           });
         }
       }
+    }
+  }
+  return results;
+}
+
+export function search_corpus(corpus: Corpus, query: string, options: SearchOptions = {}) {
+  if (!query || !query.trim()) {
+    return { query, scope: options.scope ?? "english", count: 0, results: [] };
+  }
+  const scope = options.scope ?? "english";
+  const limit = options.limit ?? 30;
+  const re = new RegExp(escapeRegex(query), options.case_sensitive ? "g" : "gi");
+  const results = scanCorpus(corpus, re, scope, limit, options.work_slug);
+
+  // Auto-fallback: when the literal-substring query returned 0 hits and
+  // the query is >5 words long, retry with the 3 most-distinctive tokens
+  // scanned per-chapter, ranked by how many tokens hit. This catches the
+  // "LLM searched the entire long quote and one comma off" failure mode
+  // without requiring the LLM to know better.
+  const wordCount = query.trim().split(/\s+/).length;
+  if (results.length === 0 && wordCount > 5) {
+    const tokens = distinctiveTokens(query, corpus).slice(0, 3);
+    if (tokens.length > 0) {
+      // Per-token scan. Aggregate by (work_slug, chapter_slug, variant)
+      // and rank chapters by how many tokens matched, then by total hits.
+      const perTokenHits = new Map<string, { hit: SearchHit; tokens: Set<string>; total: number }>();
+      for (const tok of tokens) {
+        const tokRe = new RegExp("\\b" + escapeRegex(tok), "gi");
+        const tokResults = scanCorpus(corpus, tokRe, scope, limit * 3, options.work_slug);
+        for (const h of tokResults) {
+          const key = `${h.work_slug}|${h.chapter_slug}|${h.variant}`;
+          const existing = perTokenHits.get(key);
+          if (existing) {
+            existing.tokens.add(tok);
+            existing.total += 1;
+          } else {
+            perTokenHits.set(key, { hit: h, tokens: new Set([tok]), total: 1 });
+          }
+        }
+      }
+      const ranked = [...perTokenHits.values()]
+        .sort((a, b) => b.tokens.size - a.tokens.size || b.total - a.total)
+        .slice(0, limit);
+      const fallbackResults = ranked.map((r) => ({
+        ...r.hit,
+        matched_tokens: [...r.tokens],
+      }));
+      return {
+        query,
+        scope,
+        count: fallbackResults.length,
+        results: fallbackResults,
+        auto_fallback: {
+          reason: "literal substring of long query yielded 0 hits; retried with distinctive tokens",
+          tokens_used: tokens,
+          original_word_count: wordCount,
+        },
+      };
     }
   }
 

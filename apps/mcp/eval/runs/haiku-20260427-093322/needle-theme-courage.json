@@ -1,0 +1,87 @@
+{
+  "answer": "The corpus contains rich discussions of courage across multiple traditions: (1) In the Old English tradition, Cynewulf's Andreas (chapter 1) depicts courage as essential to performing heroic deeds, with passages describing characters acting with courage despite threats and suffering, and where God instructs Andreas to 'perform deeds of courage' and not shy from the multitude. (2) In the Urdu tradition, Allama Iqbal's Bang-E-Dara Part 1, Chapter 38 ('Sayed Ki Loh-e-Turbat') teaches that 'Courage is the staff of those who master statecraft's design,' emphasizing courage as necessary for statesmen. Bang-E-Dara Part 3, Chapter 7 ('Falsafa-e-Gham') discusses Courage as a great guide that provides light in dark times. (3) In the Sanskrit tradition, Manusmṛti Chapter 8 extensively addresses warrior courage and dharma, including the principle that kings must not turn back in battle and that warriors who fight without turning back go to heaven. (4) Mirza Ghalib's Diwan-E-Ghalib Chapter 121 uses metaphor to describe courage's exhausting power, referring to 'the sweat from courage's stallion.'",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {"query": "courage"},
+      "result_summary": "Found 30 results across multiple traditions: Old English (Andreas, Elene, Juliana), Urdu (Iqbal Bang-E-Dara Parts 1 & 3, Ghalib Diwan-E-Ghalib, Zauq), Sanskrit (Manusmṛti), and French (Dunoyer)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {"query": "deeds of courage"},
+      "result_summary": "Found 2 results, both in Cynewulf's Andreas ch.1: God instructing Andreas to perform deeds of courage, and enemies threatening to use deeds of courage against him"
+    },
+    {
+      "name": "read_chapter",
+      "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "variant": "translation"},
+      "result_summary": "Confirmed Old English Andreas contains multiple passages on courage in battle and heroic action"
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_range": {"start": 45, "end": 50}},
+      "result_summary": "Located passage where character goes into city 'spurred on by courage' and performs heroic deeds"
+    },
+    {
+      "name": "search_corpus",
+      "args": {"query": "shrink from speaking"},
+      "result_summary": "Found 1 result in Allama Iqbal Bang-E-Dara Part 1 ch.38 about courage and statecraft"
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 38, "paragraph_range": {"start": 8, "end": 12}},
+      "result_summary": "Confirmed passage: 'Courage is the staff of those who master statecraft's design' and discussion of not shrinking from speaking truth"
+    },
+    {
+      "name": "list_chapters",
+      "args": {"work_slug": "unknown-manusmrti-347b76"},
+      "result_summary": "Manusmṛti has 12 chapters; Sanskrit dharma text includes extensive treatment of warrior courage"
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 8, "paragraph_range": {"start": 0, "end": 30}},
+      "result_summary": "Located multiple Sanskrit passages on warrior dharma and courage: 'Not turning back in battles...the highest means of welfare for kings' and 'Kings who...fight with their utmost power without turning their backs, go to heaven'"
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "paragraph_range": {"start": 0, "end": 6}},
+      "result_summary": "Located Falsafa-e-Gham ('Philosophy of Sorrow') passage describing Courage as a great guide in dark times"
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 121, "paragraph_range": {"start": 0, "end": 1}},
+      "result_summary": "Located Ghalib's metaphorical treatment: 'The sweat from courage's stallion is a flood that leaves the saddle overthrown'"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-c1cb54",
+      "quote_snippet": "the resolute champion, spurred on by courage, the man strong of spirit, true to his Maker"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-ee0ccd",
+      "quote_snippet": "Courage is the staff of those who master statecraft's design"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-251ce8",
+      "quote_snippet": "Kings who, seeking to slay one another in battle, fight with their utmost power without turning their backs, go to heaven"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-523a9f",
+      "quote_snippet": "When Courage, our great guide, from all desire has turned aside"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 121,
+      "paragraph_id": "p-8b8083",
+      "quote_snippet": "The sweat from courage's stallion is a flood that leaves the saddle overthrown"
+    }
+  ]
+}

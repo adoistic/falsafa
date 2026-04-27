@@ -1,0 +1,31 @@
+{
+  "answer": "A reader who loved Andreas (a Cynewulf work about Saint Andrew's missionary journey among the Mermedonians) would most strongly enjoy Elene (cynewulf-elene-d2d132, chapter 1) and Juliana (cynewulf-juliana-9a2157, chapter 1). Both are by the same author Cynewulf and share similar characteristics: they are Medieval Old English hagiographic poems featuring Christian saints, employ the same verse layout, and combine spiritual devotion with narrative drama. Elene tells of Saint Helena's discovery of the True Cross, while Juliana describes a saint's resistance to pagan pressure and martyrdom. All three works are Advanced-difficulty Medieval Christian narrative poetry. A secondary recommendation would be Old English Elegies (unknown-old-english-elegies-d5fe9e, chapter 9: 'Resignation'), which shares Medieval era and literary genre but with lower content similarity (0.3768 score). The stronger recommendations (Elene and Juliana) are based on TF-IDF content similarity (scores 0.5787 and 0.5561 respectively), indicating significant thematic and linguistic overlap with Andreas.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {"author": "cynewulf"},
+      "result_summary": "Found 3 Cynewulf works including Andreas (cynewulf-andreas-07b573)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {"work_slug": "cynewulf-andreas-07b573"},
+      "result_summary": "Andreas has 1 chapter with verse layout and 3 variants"
+    },
+    {
+      "name": "find_related",
+      "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1},
+      "result_summary": "Found 5 related chapters: Elene (0.5787), Juliana (0.5561), Old English Elegies ch.9 (0.3768), and two Medieval era works (Gaṇapatitattva, Kalpabuddha)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {"work_slug": "cynewulf-elene-d2d132"},
+      "result_summary": "Elene: Medieval Old English verse hagiography about Saint Helena and the True Cross by Cynewulf"
+    },
+    {
+      "name": "get_metadata",
+      "args": {"work_slug": "cynewulf-juliana-9a2157"},
+      "result_summary": "Juliana: Medieval Old English verse hagiography about Saint Juliana's martyrdom by Cynewulf"
+    }
+  ],
+  "citations": []
+}

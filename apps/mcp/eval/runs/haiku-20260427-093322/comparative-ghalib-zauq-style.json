@@ -1,0 +1,63 @@
+{
+  "answer": "Both Ghalib and Zauq were 19th-century Urdu ghazal poets, but their styles differ markedly. In Ghalib's first ghazal 'Aa ke meri jaan ko qarar nahin hai' (Diwan-E-Ghalib, ch. 1), the dominant theme is philosophical absence and emptiness. His poetic device centers on negation—the refrain 'is not there' becomes a meditation on loss, absence of comfort, the absence of faith, the missing rose. His imagery is more abstract and introspective: he explores wine as spiritual intoxication, faith in prayer, and the inner turmoil of the lover. In contrast, Zauq's first ghazal 'Aankh us pur-jafa se ladti hai' (Diwan-E-Zauq, ch. 1) centers on dynamic conflict and contention. His refrain 'contends' emphasizes active struggle: the eye contends with cruelty, the soul contends with fate, the candle contends with wind, Death contends with every cure. Zauq's imagery is more concrete and observable—flames, lashes, glances, sword-drops. While Ghalib's philosophy is one of yearning and absence, Zauq's is one of struggle and resistance. Ghalib uses absence to question existence itself, whereas Zauq uses conflict to dramatize the clash of forces in the world. Both explore love and loss, but Ghalib does so through metaphysical emptiness while Zauq does so through vivid, ongoing battle.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Found Mirza Ghalib's Diwan-E-Ghalib with 239 chapters"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Found Sheikh Ibrahim Zauq's Diwan-E-Zauq with 60 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed first 8 chapters of Ghalib's work"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "Listed first 8 chapters of Zauq's work"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read Ghalib's ch. 1 'Aa ke meri jaan ko qarar nahin hai' - theme of absence and negation"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read Zauq's ch. 1 'Aankh us pur-jafa se ladti hai' - theme of conflict and contention"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 1,
+      "paragraph_id": null
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 1,
+      "paragraph_id": null
+    }
+  ]
+}

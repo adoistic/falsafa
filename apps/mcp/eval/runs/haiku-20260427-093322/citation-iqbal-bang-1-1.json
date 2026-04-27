@@ -1,0 +1,11 @@
+{
+  "answer": "The first chapter of Iqbal's Bang-E-Dara Part 1 is titled \"Ajab waa'iz ki deen-daari hai ya Rabb\" (Work slug: allama-iqbal-bang-e-dara-part-1-55b25c, Chapter 1). The chapter is a critique of the preacher's sanctimonious piety and the mysteries of human existence. The opening couplet in English translation is: \"What wondrous piety, for all to see, / He holds the entire world in enmity.\"",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "iqbal"}, "result_summary": "Found 3 works by Iqbal, including Bang-E-Dara Part 1 with slug allama-iqbal-bang-e-dara-part-1-55b25c"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "Listed 44 chapters, Chapter 1 is 'Ajab waa'iz ki deen-daari hai ya Rabb'"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 1, "variant": "translation"}, "result_summary": "Read Chapter 1 English translation with opening couplet: 'What wondrous piety, for all to see, / He holds the entire world in enmity.'"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 1, "paragraph_id": "p-1-opening"}
+  ]
+}

@@ -1,0 +1,28 @@
+{
+  "answer": "The original Old English text of the opening of Andreas (cynewulf-andreas-07b573, chapter 1) begins with the iconic invocation:\n\n'Hwæt! We gefrunan      on fyrndagum twelfe under tunglum      tireadige hæleð, þeodnes þegnas.      No hira þrym alæg camprædenne þonne cumbol hneotan,\n    5  syððan hie gedældon,      swa him dryhten sylf, heofona heahcyning, hlyt getæhte. þæt wæron mære      men ofer eorðan, frome folctogan      ond fyrdhwate, rofe rincas,      þonne rond ond hand\n   10  on herefelda      helm ealgodon, on meotudwange.      Wæs hira Matheus sum, se mid Iudeum ongan      godspell ærest wordum writan      wundorcræfte. þam halig god      hlyt geteode\n   15  ut on þæt igland      þær ænig þa git ellþeodigra      eðles ne mihte blædes brucan.      Oft him bonena hand on herefelda      hearde gesceode. Eal wæs þæt mearcland      morðre bewunden,'\n\nThis is the source text exactly as written in Old English (Latin script), sourced from https://sacred-texts.com/neu/ascp/a02_01.htm.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Found three works by Cynewulf, including Andreas (cynewulf-andreas-07b573)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "original"
+      },
+      "result_summary": "Retrieved the full Old English original text of Andreas chapter 1, opening with 'Hwæt! We gefrunan on fyrndagum...'"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "variant": "original"
+    }
+  ]
+}

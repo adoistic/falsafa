@@ -1,0 +1,44 @@
+{
+  "answer": "Works with original-language variants: (1) Andreas by Cynewulf (Old English) - 1 original variant; (2) Bang-E-Dara Part 1 by Allama Iqbal (Urdu) - 44 original variants; (3) Nouveau traité d'économie: VOL I by Charles Dunoyer (French) - 13 original variants; (4) Zurückforderung der Denkfreiheit von den Fürsten Europens by Johann Gottlieb Fichte (German) - 2 original variants.",
+  "tool_calls": [
+    {
+      "tool": "list_works",
+      "description": "Retrieved list of 38 available works with basic metadata"
+    },
+    {
+      "tool": "get_metadata",
+      "work_slug": "cynewulf-andreas-07b573",
+      "variant_types": {
+        "original": 1,
+        "translation": 1,
+        "transliteration": 1
+      }
+    },
+    {
+      "tool": "get_metadata",
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "variant_types": {
+        "original": 44,
+        "translation": 43,
+        "transliteration": 44
+      }
+    },
+    {
+      "tool": "get_metadata",
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "variant_types": {
+        "original": 13,
+        "translation": 13
+      }
+    },
+    {
+      "tool": "get_metadata",
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "variant_types": {
+        "original": 2,
+        "translation": 2
+      }
+    }
+  ],
+  "citations": []
+}

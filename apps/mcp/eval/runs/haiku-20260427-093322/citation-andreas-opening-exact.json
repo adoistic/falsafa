@@ -1,0 +1,29 @@
+{
+  "answer": "We have heard of heroes in ages past,\nof twelve true thanes under the turning stars,\nthe Lord's own champions. Their glory lived on\nin the grim struggle where standards clashed.\nTheir lots were laid out as the Lord Himself,\nHeaven's High King, handed them their fates.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Found 38 works in corpus, including cynewulf-andreas-07b573 (Andreas by Cynewulf)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 0,
+          "end": 6
+        }
+      },
+      "result_summary": "Retrieved first 7 paragraphs of Andreas chapter 1. First paragraph contains the opening lines of the poem."
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-868413"
+    }
+  ]
+}

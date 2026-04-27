@@ -1,0 +1,47 @@
+{
+  "answer": "The phrase 'six heroic enemies within' appears in the Kunjarakarna Dharmakathana by Mpu Dusun (Kawi language, Medieval era). The passage describes a steadfast practitioner warring against internal vices through austerities and vows. Full context: 'The steadfast one, seeking battle on the field of austerities and vows, warring against the six heroic enemies within, / His battle-array is the quality of truth in meditation; his chariot, the practice of compassion and more. / The sacred hand-gestures are his banner, the lion's roar his chanted spell, the supreme bow his inconceivable contemplation; / The highest arrow is enlightenment-wisdom, annihilating the foe, bearing the fruit of dharma-śūnyatā.' Work slug: unknown-kunjarakarna-dharmakathana-894f4a, Chapter 1.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "six heroic enemies"
+      },
+      "result_summary": "Found exact phrase in Kunjarakarna Dharmakathana, ch.1, paragraph p-979379"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Retrieved full chapter containing quote in context"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 1,
+          "end": 50
+        }
+      },
+      "result_summary": "Located exact paragraph p-979379 with surrounding context"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "Confirmed work details: author Mpu Dusun, Kawi language, Medieval era"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-979379"
+    }
+  ]
+}

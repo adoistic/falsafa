@@ -1,0 +1,11 @@
+{
+  "answer": "The corpus contains 11 works whose source language is Sanskrit: (1) Āṅgirasa Smṛti by Aṅgirasa (unknown-angirasa-smrti-2bf9d1), (2) Bṛhaspati Smṛti by Bṛhaspati (unknown-brhaspati-smrti-0fd070), (3) Kātyāyana Smṛti by Kātyāyana (unknown-katyayana-smrti-1e06d2), (4) Manusmṛti by Manu (unknown-manusmrti-347b76), (5) Nāradasmṛti by Nārada (unknown-naradasmrti-7650d2), (6) Nyaya Tilakam Pandulipi by Vihārācārya (unknown-nyaya-tilakam-pandulipi-bookny), (7) Parāśara Smṛti by Parāśara (unknown-parasara-smrti-2259be), (8) Viṣṇu Smṛti by Viṣṇu (unknown-visnu-smrti-27f0d8), (9) Vīramitrodaya by Mitra Miśra (unknown-viramitrodaya-d4b632), (10) Yama Smṛti by Yama (unknown-yama-smrti-552f8d), and (11) Yājñavalkya Smṛti by Yājñavalkya (unknown-yajnavalkya-smrti-cb88d6).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Retrieved all 38 works in corpus; identified 11 with language: Sanskrit"
+    }
+  ],
+  "citations": []
+}

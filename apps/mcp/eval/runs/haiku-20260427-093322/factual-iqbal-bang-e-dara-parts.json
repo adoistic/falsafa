@@ -1,0 +1,26 @@
+{
+  "answer": "Bang-E-Dara is structured as three separate works in the corpus, not one work. Part 1 contains 44 ghazals/chapters, Part 2 contains 28 ghazals/chapters, and Part 3 contains 28 ghazals/chapters. All three parts were published in 1924 by Allama Iqbal.",
+  "tool_calls": [
+    {
+      "tool": "list_works",
+      "query": "{\"author\":\"iqbal\"}"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "work_title": "Bang-E-Dara Part 1",
+      "total_logical_chapters": 44
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "work_title": "Bang-E-Dara Part 2",
+      "total_logical_chapters": 28
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "work_title": "Bang-E-Dara Part 3",
+      "total_logical_chapters": 28
+    }
+  ]
+}

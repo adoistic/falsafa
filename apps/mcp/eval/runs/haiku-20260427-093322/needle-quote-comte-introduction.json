@@ -1,0 +1,11 @@
+{
+  "answer": "The work is Traité de la propriété (Treatise on Property), Volume I, by Charles Comte, published in 1834. The first sentence of the introduction (preface) is: \"Had the work I publish today been brought to light four or five years ago, the time at which I intended for it to appear, I would have had no need, before entering upon the subject, to address my readers directly to observe that it was the continuation of another treatise I published in 1826 and 1827.\"",
+  "tool_calls": [
+    {"name": "list_works", "args": {"language": "French"}, "result_summary": "Found 8 French works, including Charles Comte's Traité de Législation and Traité de la propriété"},
+    {"name": "list_chapters", "args": {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"}, "result_summary": "Confirmed Vol. I has a PRÉFACE at chapter 0"},
+    {"name": "read_chapter", "args": {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99", "chapter_number": 0}, "result_summary": "Retrieved full preface text with opening sentence"}
+  ],
+  "citations": [
+    {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99", "chapter_number": 0}
+  ]
+}

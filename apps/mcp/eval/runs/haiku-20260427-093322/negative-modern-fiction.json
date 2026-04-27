@@ -1,0 +1,32 @@
+{
+  "answer": "No. The Falsafa corpus contains three 20th-century works—all parts of Allama Iqbal's Bang-E-Dara (1924)—but they are poetry collections, not novels. All 38 works in the corpus are poetry, classical texts (smṛti, laws, philosophy), or historical essays. No novels of any era are present in the corpus.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Retrieved all 38 works in corpus; identified 3 works marked as era='20th Century': allama-iqbal-bang-e-dara-part-1-55b25c, allama-iqbal-bang-e-dara-part-2-9bc58c, allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Confirmed Bang-E-Dara Part 1 is poetry collection (layout='verse'); description explicitly states 'collection of Urdu poetry'"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Confirmed Bang-E-Dara Part 2 is poetry collection (layout='verse'); 28 chapters all verse"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Confirmed Bang-E-Dara Part 3 is poetry collection (layout='verse'); 28 chapters all verse"
+    }
+  ],
+  "citations": []
+}

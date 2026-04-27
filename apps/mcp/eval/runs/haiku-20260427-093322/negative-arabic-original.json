@@ -1,0 +1,16 @@
+{
+  "answer": "No. The corpus does not contain any works originally written in Arabic. The corpus contains 38 works across these languages: Old English (4 works), Sanskrit (10 works), Urdu (5 works), Kawi/Old Javanese (6 works), French (4 works), and German (1 work). Arabic does not appear in the language metadata of any work.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Retrieved all 38 works with language metadata. Languages present: old_english, Sanskrit, Urdu, Kawi, French, German. No Arabic."
+    },
+    {
+      "name": "list_works",
+      "args": {"language": "arabic"},
+      "result_summary": "Filtered for Arabic language returned 0 results, confirming no Arabic-language works in corpus."
+    }
+  ],
+  "citations": []
+}

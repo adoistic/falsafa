@@ -1,0 +1,84 @@
+{
+  "answer": "Seven works in the corpus ship with all three variants (original-script, romanized transliteration, and English translation): 1) Andreas (cynewulf-andreas-07b573), 2) Bang-E-Dara Part 3 (allama-iqbal-bang-e-dara-part-3-cc61e8), 3) Diwan-E-Ghalib (mirza-ghalib-diwan-e-ghalib-74ed4c), 4) Diwan-E-Zauq (sheikh-ibrahim-zauq-diwan-e-zauq-0fa798), 5) Elene (cynewulf-elene-d2d132), 6) Juliana (cynewulf-juliana-9a2157), and 7) Old English Elegies (unknown-old-english-elegies-d5fe9e).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed all 38 works with total_logical_chapters and total_variant_entries counts"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Discovered variant_types structure: {original, translation, transliteration} counts per work"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Confirmed Andreas has 1 chapter with all 3 variant types (original=1, translation=1, transliteration=1)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Confirmed Bang-E-Dara Part 3 has 28 chapters with all 3 variant types"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Confirmed Diwan-E-Ghalib has 239 chapters with all 3 variant types"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "Confirmed Diwan-E-Zauq has 60 chapters with all 3 variant types"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Confirmed Elene has 1 chapter with all 3 variant types"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Confirmed Juliana has 1 chapter with all 3 variant types"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Confirmed Old English Elegies has 17 chapters with all 3 variant types"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "variant": "original"
+      },
+      "result_summary": "Verified chapter 1 has available_variants=[original, transliteration, translation]"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "Verified chapter 1 has available_variants=[original, translation, transliteration]"
+    }
+  ],
+  "citations": []
+}

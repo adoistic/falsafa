@@ -1,0 +1,11 @@
+{
+  "answer": "The corpus contains 3 works by Allama Iqbal, all from his Bang-E-Dara collection (The Call of the Marching Bell), published in 1924 in Urdu: (1) Bang-E-Dara Part 1 (slug: allama-iqbal-bang-e-dara-part-1-55b25c) with 44 chapters, (2) Bang-E-Dara Part 2 (slug: allama-iqbal-bang-e-dara-part-2-9bc58c) with 28 chapters, and (3) Bang-E-Dara Part 3 (slug: allama-iqbal-bang-e-dara-part-3-cc61e8) with 28 chapters.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {"author": "Allama Iqbal"},
+      "result_summary": "Found 3 works: all three parts of Bang-E-Dara (1924), all in Urdu with total 100 chapters across all parts"
+    }
+  ],
+  "citations": []
+}

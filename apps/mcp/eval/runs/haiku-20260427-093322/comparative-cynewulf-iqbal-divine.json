@@ -1,0 +1,147 @@
+{
+  "answer": "Cynewulf's Andreas and Iqbal's Bang-E-Dara present fundamentally different models of human action and divine relationship. In Andreas (cynewulf-andreas-07b573, Chapter 1), human action is entirely dependent on and subordinate to divine command. Andrew receives direct orders from God (p-4d1e78): 'You must go now, and chart a journey... to the land of the man-eaters, Mermedonia.' When Andrew expresses doubt about his ability to accomplish the journey without treasures or knowledge (p-944879), God responds with reassurance that the path is easy for 'a hero who serves me' (p-c4d450). Throughout the narrative, divine agency actively manifests: God disguises himself as a shipman (p-24dbdc), calms storms through miraculous intervention (p-f66b6a), and ultimately carries out the rescue of Matthew through Andrew as His instrument. Andrew's role is obedient execution—he does not initiate but responds to divine command, and his heroism consists in faithful compliance despite obstacles. The poem repeatedly emphasizes that God 'holds the power of life' and orchestrates all events (p-f3580c).\n\nIn contrast, Iqbal's Bang-E-Dara Part 1 emphasizes human striving, passion, and inner spiritual agency within a divine framework. Chapter 3 (03-gulzar-e-hast-o-bud-na-begana-waar-dekh) addresses the human condition with imagery of active seeking: 'If passion for true vision has laid your spirit bare, / On every path, the Beloved's sacred trace is laid with care.' This framing reverses Andreas's model—the divine does not command specific actions but rather leaves traces for the passionate human soul to discover. Chapter 4 (04-jinhein-main-dhoondta-tha-aasmanon-mein-zameenon-m) explicitly celebrates the human heart's role: 'Those I went searching for in the heavens and on the earth, / I found them dwelling in the shadowed chamber of my heart.' The divine is internalized and activated through human seeking and spiritual intensity. In Chapter 5 (05-kahoon-kya-aarzoo-e-be-dili-mujh-ko-kahan-tak-hai), the speaker claims agency through suffering and effort: 'My market's only splendor is the trade of loss and pain,' and 'In love's own garden, nightingale, to be silent is to die; / For life itself is bound by the ritual of pain.' Here human action—particularly the struggle and sacrifice of love—is not commanded but essential to spiritual realization. Where Andreas depicts divine will as directive and externally imposed, Iqbal presents it as a resonance the awakened human soul must actively pursue and embody.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Found 3 works by Cynewulf including Andreas"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Found 3 works by Iqbal including Bang-E-Dara Parts 1, 2, 3"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "cynewulf-andreas-07b573",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "topic": "divine action and human agency"
+      },
+      "result_summary": "Returned relevant chapters: Andreas Ch. 1, Bang-E-Dara Chs. 1-3"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 0,
+          "end": 10
+        }
+      },
+      "result_summary": "Opening of Andreas: presentation of divine command structure and hero submission"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 10,
+          "end": 30
+        }
+      },
+      "result_summary": "Divine command to Andrew and Andrew's hesitation; God's reassurance and provision of ship"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 30,
+          "end": 50
+        }
+      },
+      "result_summary": "Divine miracles, protection, and active intervention; Andrew's role as obedient executor"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Chapter on strange style and heartfelt pain; emphasis on personal struggle and agency"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Theme of inner seeking and passion discovering the Beloved's trace"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Heart as locus of divine discovery; reversal of outer/inner seeking; human agency emphasized"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Human suffering, effort, and spiritual striving as essential to realization"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-4d1e78"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-944879"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-c4d450"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-24dbdc"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-f66b6a"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-f3580c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 3,
+      "paragraph_id": null
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": null
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 5,
+      "paragraph_id": null
+    }
+  ]
+}

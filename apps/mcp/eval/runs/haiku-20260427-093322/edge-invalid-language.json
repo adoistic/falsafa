@@ -1,0 +1,13 @@
+{
+  "answer": "There are no works in Klingon in the corpus. The Falsafa corpus contains works in the following languages: Old English, Sanskrit, Urdu, French, German, and Kawi (Old Javanese). Klingon is not an available language.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Klingon"
+      },
+      "result_summary": "Returned 0 works. Empty result."
+    }
+  ],
+  "citations": []
+}

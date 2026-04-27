@@ -138,11 +138,23 @@ const tools = [
   {
     name: "search_corpus",
     description:
-      "Search across the corpus for a query. **Default scope is 'english'** — search runs against translations + native-English variants because English is the natural reasoning surface. Use scope='all' only when the user explicitly asked you to search source-language text (Sanskrit/Urdu/Old English etc.). Returns snippets with work, chapter, and paragraph_id for citation.",
+      "Search across the corpus for a query. **Default scope is 'english'** — search runs against translations + native-English variants because English is the natural reasoning surface. Use scope='all' only when the user explicitly asked you to search source-language text (Sanskrit/Urdu/Old English etc.). Returns snippets with work, chapter, and paragraph_id for citation.\n\n" +
+      "**HOW TO QUERY (read this carefully):**\n" +
+      "Multiple words in a query are AND — *all* words must appear in the same chapter. Stemming is automatic (running ↔ ran). NO regex, NO placeholders like 'X' or '(.*?)' — pass plain words.\n\n" +
+      "**For needle-in-haystack** (matching a quoted passage to its source):\n" +
+      "1. Pick a **distinctive 2-3 word phrase** from the quote — proper nouns, rare nouns, or unusual collocations. Avoid common words like 'the', 'and', 'we', 'have'.\n" +
+      "2. Search that phrase. If you get 1-3 hits, you've likely found it.\n" +
+      "3. If you get 0 hits, try a *different* short phrase from the same quote — the user's wording may be close but not exact, so committing to one phrase that doesn't match is a dead end.\n" +
+      "4. Don't search the entire long sentence — Pagefind requires every word to be present, and minor paraphrases will fail.\n\n" +
+      "**Worked examples:**\n" +
+      "- Quote: 'We have heard of heroes in ages past, of twelve true thanes' → search 'twelve true thanes' or 'turning stars', NOT the full sentence.\n" +
+      "- Quote: 'Boar to lift up a submerged Earth' → search 'Boar' alone (rare word in this corpus), or 'submerged Earth'. Don't search 'Boar avatar' — 'avatar' may not be in the translation.\n" +
+      "- Quote contains a placeholder X: substitute distinctive *other* words from the surrounding context, never the literal letter 'X'.\n\n" +
+      "**Auto-fallback:** if your query has more than 5 words and returns 0 results, the server automatically retries with the 3 rarest tokens from your query and reports that fallback in the response. Look at the `auto_fallback` field of the response.",
     inputSchema: {
       type: "object" as const,
       properties: {
-        query: { type: "string", description: "Search term (literal substring or simple regex)" },
+        query: { type: "string", description: "Search term — distinctive 2-3 words is best. Plain text, no regex. Multiple words are AND." },
         scope: { type: "string", enum: ["english", "all"], description: "Default 'english'. Use 'all' only when the user asked to search across original-language/transliteration text." },
         case_sensitive: { type: "boolean", description: "Default false" },
         limit: { type: "number", description: "Max results (default 30)" },

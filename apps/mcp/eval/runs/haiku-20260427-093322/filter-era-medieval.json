@@ -1,0 +1,105 @@
+{
+  "answer": "Medieval-era philosophical and religious works in the corpus: (1) Anglo-Saxon Christian literature by Cynewulf (Andreas, Elene, Juliana) and Old English Elegies (5 works), focusing on hagiography and spiritual themes; (2) Sanskrit philosophical texts including Nyaya Tilakam Pandulipi (logic/philosophy, 1300) by Vihārācārya and Vīramitrodaya by Mitra Miśra; (3) Indic Buddhist and philosophical texts in Kawi language (Kalpabuddha, Kunjarakarna Dharmakathana, San Hyan texts, Gaṇapatitattva, Slokantara, Vratisasana, Vrhaspatitattva).",
+  "tool_calls": [
+    {
+      "tool": "list_works",
+      "params": {
+        "era": "Medieval"
+      },
+      "result_count": 15
+    }
+  ],
+  "citations": [
+    {
+      "slug": "cynewulf-andreas-07b573",
+      "title": "Andreas",
+      "author": "Cynewulf",
+      "era": "Medieval"
+    },
+    {
+      "slug": "cynewulf-elene-d2d132",
+      "title": "Elene",
+      "author": "Cynewulf",
+      "era": "Medieval"
+    },
+    {
+      "slug": "cynewulf-juliana-9a2157",
+      "title": "Juliana",
+      "author": "Cynewulf",
+      "era": "Medieval"
+    },
+    {
+      "slug": "unknown-old-english-elegies-d5fe9e",
+      "title": "Old English Elegies",
+      "author": "Unknown",
+      "era": "Medieval"
+    },
+    {
+      "slug": "unknown-nyaya-tilakam-pandulipi-bookny",
+      "title": "Nyaya Tilakam Pandulipi",
+      "author": "Vihārācārya",
+      "era": "Medieval",
+      "published_year": 1300
+    },
+    {
+      "slug": "unknown-viramitrodaya-d4b632",
+      "title": "Vīramitrodaya",
+      "author": "Mitra Miśra",
+      "era": "Medieval"
+    },
+    {
+      "slug": "unknown-kalpabuddha-d760dc",
+      "title": "Kalpabuddha",
+      "author": "Unknown",
+      "era": "Medieval"
+    },
+    {
+      "slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "title": "Kunjarakarna Dharmakathana",
+      "author": "Mpu Dusun",
+      "era": "Medieval"
+    },
+    {
+      "slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "title": "San Hyan Kamahayanikan",
+      "author": "Mpu Shri Sambhara Surya Warama",
+      "era": "Medieval"
+    },
+    {
+      "slug": "unknown-san-hyan-mahajnana-11c531",
+      "title": "San Hyan Mahajnana",
+      "author": "Unknown",
+      "era": "Medieval"
+    },
+    {
+      "slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "title": "San Hyan Tattvajnana",
+      "author": "Unknown",
+      "era": "Medieval"
+    },
+    {
+      "slug": "unknown-ganapatitattva-66a136",
+      "title": "Gaṇapatitattva",
+      "author": "Gaṇapati",
+      "era": "Medieval"
+    },
+    {
+      "slug": "unknown-slokantara-d7a628",
+      "title": "Slokantara",
+      "author": "Unknown",
+      "era": "Medieval"
+    },
+    {
+      "slug": "unknown-vratisasana-d0fe75",
+      "title": "Vratisasana",
+      "author": "Unknown",
+      "era": "Medieval"
+    },
+    {
+      "slug": "unknown-vrhaspatitattva-b60b28",
+      "title": "Vrhaspatitattva",
+      "author": "Bṛhaspati",
+      "era": "Medieval"
+    }
+  ]
+}

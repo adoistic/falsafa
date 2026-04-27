@@ -1,0 +1,11 @@
+{
+  "answer": "Verse Mn_1.1 of Manusmrti says in English: \"The great sages, approaching Manu who was seated with a concentrated mind, duly honored him according to custom and spoke these words:\"",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "manu"}, "result_summary": "Found Manusmrti (unknown-manusmrti-347b76) by Manu"},
+    {"name": "get_metadata", "args": {"work_slug": "unknown-manusmrti-347b76"}, "result_summary": "Confirmed work has 12 chapters in verse layout"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "variant": "translation"}, "result_summary": "Retrieved Chapter 1 English translation containing verse Mn_1.1"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-0"}
+  ]
+}
