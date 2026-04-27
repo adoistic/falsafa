@@ -369,3 +369,47 @@
   text-decoration: underline;
   text-decoration-style: dotted;
 }
+
+/* ── Citation highlight (paragraph anchored from a BYOK answer) ────────
+ * When a chapter URL has #p-xxx or ?paragraphs=p-1,p-2,p-3#p-1, the
+ * inline script in Reader.astro adds .falsafa-cited to each matched
+ * paragraph element. The styles here do two things:
+ *
+ *   1. A bright initial flash that decays over ~2.5s — draws the eye
+ *      to the cited passage when the reader lands on the page.
+ *   2. A persistent left-edge accent rule that stays as long as the
+ *      class is on the element — so the reader can still tell at a
+ *      glance which paragraph(s) the citation pointed at, even after
+ *      the flash fades.
+ *
+ * scroll-margin-top keeps the top of the cited element clear of any
+ * fixed header when the browser scrolls to it.
+ *
+ * prefers-reduced-motion: skip the flash animation but keep the
+ * persistent indicator. */
+
+.falsafa-cited {
+  position: relative;
+  scroll-margin-top: var(--s-8);
+  /* Subtle persistent left-edge accent. */
+  border-left: 3px solid var(--accent);
+  padding-left: var(--s-3);
+  margin-left: calc(-1 * var(--s-3) - 3px);
+  /* Flash animation — fades a tinted background to none over 2.5s. */
+  animation: falsafa-citation-flash 2.5s ease-out 1;
+}
+
+@keyframes falsafa-citation-flash {
+  0% {
+    background-color: color-mix(in oklab, var(--accent) 22%, transparent);
+  }
+  100% {
+    background-color: transparent;
+  }
+}
+
+@media (prefers-reduced-motion: reduce) {
+  .falsafa-cited {
+    animation: none;
+  }
+}

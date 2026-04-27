@@ -58,4 +58,57 @@ const { title, description, ogImage, layout } = Astro.props;
       }
     })();
   </script>
+
+  {/* Paragraph-citation highlight: when the URL has #p-xxx or
+      ?paragraphs=p-1,p-2,p-3#p-1, find the matching elements injected
+      by ChapterBody, apply a flash-and-persist highlight, and scroll
+      to the first one. Re-runs on hashchange so in-page citation
+      links work without a full reload. */}
+  <script>
+    import { parseCitationUrl } from "../lib/citation-url";
+
+    function applyCitationHighlight() {
+      const parsed = parseCitationUrl(location.href);
+      if (!parsed || parsed.paragraphIds.length === 0) {
+        // Clear any prior highlights when navigating away from a citation.
+        document
+          .querySelectorAll(".falsafa-cited")
+          .forEach((el) => el.classList.remove("falsafa-cited"));
+        return;
+      }
+
+      // Clear stale highlights first (handles successive #p-x → #p-y in
+      // the same page session).
+      document
+        .querySelectorAll(".falsafa-cited")
+        .forEach((el) => el.classList.remove("falsafa-cited"));
+
+      // Apply highlight to every cited paragraph.
+      for (const pid of parsed.paragraphIds) {
+        // CSS.escape isn't strictly needed for "p-{hex}" but is safe.
+        const el = document.getElementById(pid);
+        if (el) el.classList.add("falsafa-cited");
+      }
+
+      // Scroll to the target (which the browser would do for #p-x
+      // anyway, but for the multi-paragraph case the URL hash is just
+      // the FIRST id, and we want a smooth scroll).
+      if (parsed.scrollTarget) {
+        const target = document.getElementById(parsed.scrollTarget);
+        if (target) {
+          // Use rAF so the highlight class is applied before we scroll —
+          // some browsers offset the scroll based on the element's
+          // computed style, and the persistent border-left would shift
+          // layout if applied after the scroll calculation.
+          requestAnimationFrame(() => {
+            target.scrollIntoView({ behavior: "smooth", block: "start" });
+          });
+        }
+      }
+    }
+
+    // Run on initial load and on every hash change.
+    applyCitationHighlight();
+    window.addEventListener("hashchange", applyCitationHighlight);
+  </script>
 </Base>
