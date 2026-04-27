@@ -52,6 +52,8 @@ export interface Manifest {
 export interface ChapterMeta {
   chapter_number: number;
   chapter_slug: string;
+  /** The on-disk meta.json field is `chapter_title`. We carry it as `title` too for code that prefers the shorter name. */
+  chapter_title: string;
   title: string;
   default_variant: string; // e.g. "translation.md"
   variants: Array<{
@@ -111,37 +113,77 @@ export async function loadWorkIndex(slug: string): Promise<string> {
 }
 
 /**
- * List all chapter metadata for a work. Falls back to scanning chapter
- * dirs 01..total_logical_chapters since the per-work index doesn't always
- * carry full chapter metadata in the form we need.
+ * List all chapter metadata for a work.
+ *
+ * Chapter directories on disk are named one of two ways depending on the
+ * work shape:
+ *   - Single-chapter works: `chapters/01/` (no title slug)
+ *   - Multi-chapter works: `chapters/01-{title-slug}/` (title slug appended)
+ *
+ * The browser can't list directories, so we discover the actual chapter
+ * directory names by parsing the work's index.md, which contains a markdown
+ * list of links like:
+ *   01. [Title](./chapters/01-some-title-slug/) — verse, 3 variants
+ *
+ * From those links we extract the real directory names, then fetch
+ * meta.json for each.
  */
 export async function listChapterMetas(slug: string): Promise<ChapterMeta[]> {
   const cached = cache.chapterMeta.get(slug);
   if (cached) return cached;
 
-  // Need total chapter count from manifest.
-  const manifest = await loadManifest();
-  const work = manifest.works.find((w) => w.slug === slug);
-  if (!work) {
-    throw new Error(`work not in manifest: ${slug}`);
+  const indexMd = await loadWorkIndex(slug);
+  const dirs = extractChapterDirs(indexMd);
+
+  // Fall back to numeric padding if index parsing yields nothing
+  // (defensive — should never happen with current corpus shape).
+  if (dirs.length === 0) {
+    const manifest = await loadManifest();
+    const work = manifest.works.find((w) => w.slug === slug);
+    const total = work?.total_logical_chapters ?? 0;
+    for (let i = 1; i <= total; i++) {
+      dirs.push(String(i).padStart(2, "0"));
+    }
   }
 
   const metas: ChapterMeta[] = [];
-  for (let i = 1; i <= work.total_logical_chapters; i++) {
-    const chapterSlug = String(i).padStart(2, "0");
+  for (const dir of dirs) {
     try {
-      const meta = await fetchJson<ChapterMeta>(
-        `/corpus/works/${slug}/chapters/${chapterSlug}/meta.json`,
+      const raw = await fetchJson<Record<string, unknown>>(
+        `/corpus/works/${slug}/chapters/${dir}/meta.json`,
       );
+      // Normalize the meta.json shape so callers can rely on `title` even
+      // though the on-disk schema uses `chapter_title`.
+      const title = (raw["chapter_title"] as string) ?? (raw["title"] as string) ?? `Chapter ${raw["chapter_number"] ?? "?"}`;
+      const meta: ChapterMeta = {
+        chapter_number: Number(raw["chapter_number"] ?? 0),
+        chapter_slug: (raw["chapter_slug"] as string) ?? dir,
+        chapter_title: title,
+        title,
+        default_variant: (raw["default_variant"] as string) ?? "translation.md",
+        variants: (raw["variants"] as ChapterMeta["variants"]) ?? [],
+      };
       metas.push(meta);
-    } catch (err) {
-      // Some works may have non-zero-padded slugs or other quirks.
-      // Skip silently and continue.
-      continue;
+    } catch {
+      // Skip silently and continue — a missing meta.json shouldn't kill
+      // the whole list.
     }
   }
   cache.chapterMeta.set(slug, metas);
   return metas;
+}
+
+/** Parse markdown chapter links from a work's index.md. */
+function extractChapterDirs(md: string): string[] {
+  // Matches `[Title](./chapters/01-some-slug/)` or `[Title](./chapters/01/)`.
+  const re = /\]\(\.\/chapters\/([^/)\s]+)\/?\)/g;
+  const out: string[] = [];
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(md))) {
+    const dir = m[1];
+    if (dir && !out.includes(dir)) out.push(dir);
+  }
+  return out;
 }
 
 export async function getChapterMeta(
