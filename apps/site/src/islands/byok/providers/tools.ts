@@ -62,12 +62,18 @@ export function buildFalsafaTools(onToolCall: OnToolCall): ToolSet {
 
     get_passage: tool({
       description:
-        "Get specific paragraphs from a chapter for precise citation. Specify paragraph_ids (stable hashes) or paragraph_range (0-indexed). Returns just the requested paragraphs, not the full chapter. Default variant is English; use 'original' or 'transliteration' if the user asked for source-language text.",
+        "Get specific paragraphs from a chapter for precise citation. Specify paragraph_ids (stable hashes) or paragraph_range as a 2-element array [start, end] (0-indexed, inclusive). Returns just the requested paragraphs, not the full chapter. Default variant is English; use 'original' or 'transliteration' if the user asked for source-language text.",
       inputSchema: z.object({
         work_slug: z.string(),
         chapter_number: z.number().int(),
         paragraph_ids: z.array(z.string()).optional(),
-        paragraph_range: z.tuple([z.number().int(), z.number().int()]).optional(),
+        // NOT z.tuple([...]) — tuples compile to JSON Schema 2020-12
+        // `prefixItems`, which Google's GenerateContent API and Azure/OpenAI
+        // strict validators reject (Google: "missing field `items`"; Azure:
+        // "not of type 'object', 'boolean'"). A uniform-items array with
+        // length 2 produces a schema that every OpenRouter-routed provider
+        // accepts. Runtime shape is identical: [start, end].
+        paragraph_range: z.array(z.number().int()).length(2).optional(),
         variant: z.enum(["translation", "original", "transliteration"]).optional(),
       }),
       execute: async (args) => onToolCall("get_passage", args),

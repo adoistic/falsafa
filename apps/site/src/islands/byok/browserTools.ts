@@ -211,7 +211,8 @@ interface GetPassageArgs {
   work_slug?: string;
   chapter_number?: number;
   paragraph_ids?: string[];
-  paragraph_range?: [number, number];
+  /** 2-element [start, end] array, 0-indexed, inclusive. Schema enforces length 2. */
+  paragraph_range?: number[];
   variant?: "original" | "transliteration" | "translation";
 }
 
