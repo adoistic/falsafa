@@ -1,0 +1,95 @@
+{
+  "answer": "The exact phrase `shauq-e-faraawan` does not surface verbatim in the corpus search results, so I cannot claim a direct match. But the closest attested Ghalib formulation in the corpus is that overflowing longing is the lover’s intense, excessive desire in beholding the beloved: in `mirza-ghalib-diwan-e-ghalib-74ed4c`, chapter 90, Ghalib is translated as seeing the beloved with an \"endless, burning longing.\" A second corroborating passage in chapter 55 defines longing as so vast that the heart is too narrow to contain it. So, within the corpus, for Ghalib overflowing longing is an overfull, consuming desire that exceeds the heart’s capacity and shapes the lover’s gaze toward the beloved.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Ghalib"
+      },
+      "result_summary": "1 work found: `mirza-ghalib-diwan-e-ghalib-74ed4c`."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "overflowing longing",
+        "scope": "english",
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "limit": 20
+      },
+      "result_summary": "0 hits."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shauq faraawan",
+        "scope": "all",
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "limit": 20
+      },
+      "result_summary": "0 hits."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "burning longing",
+        "scope": "english",
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "limit": 20
+      },
+      "result_summary": "1 hit: chapter 90 (`Jahan tera naqsh-e-qadam dekhte hain`)."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 90
+      },
+      "result_summary": "Confirmed the translation line: \"With what an endless, burning longing you we see.\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 90,
+        "variant": "transliteration"
+      },
+      "result_summary": "Matched the corresponding transliteration line: `Tujhe kis tamanna se hum dekhte hain`."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 90,
+        "paragraph_range": {
+          "start": 3,
+          "end": 3
+        }
+      },
+      "result_summary": "Retrieved paragraph `p-625c71` with the chapter 90 longing line."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 55,
+        "paragraph_range": {
+          "start": 0,
+          "end": 1
+        }
+      },
+      "result_summary": "Retrieved paragraph `p-ef3ccc`, where longing is too large for the heart."
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 90,
+      "paragraph_id": "p-625c71"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 55,
+      "paragraph_id": "p-ef3ccc"
+    }
+  ]
+}

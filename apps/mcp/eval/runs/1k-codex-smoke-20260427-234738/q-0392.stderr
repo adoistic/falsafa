@@ -1,0 +1,214 @@
+OpenAI Codex v0.120.0 (research preview)
+--------
+workdir: /Users/siraj/falsafa
+model: gpt-5.4
+provider: openai
+approval: never
+sandbox: danger-full-access
+reasoning effort: none
+reasoning summaries: none
+session id: 019dd029-438d-73c0-bdbd-c465a2266d86
+--------
+user
+# Falsafa MCP Eval — Case: q-0392 (BLIND)
+
+## Anti-cheat (read first)
+
+You are answering a corpus-discovery question with **only** the Falsafa MCP attached. You must not:
+- Read `/Users/siraj/falsafa/eval/questions-revised-1000.json` or any other file under `/Users/siraj/falsafa/eval/`
+- Read anything under `/Users/siraj/falsafa/apps/mcp/eval/cases.json`, `results/`, `runs/`, or `docs/eval-reports/`
+- Read the Falsafa repo source code or git history
+- Answer from your prior literary knowledge — if you "recognize" a quote, you still have to find it via the MCP
+
+If you cannot find the answer using the MCP tools, the correct response is to report that plainly. **Do not fabricate** works, authors, quotes, or chapter numbers the MCP did not surface.
+
+## The question
+
+Iqbal addresses Sayyid Ahmed Khan's tomb (Sayed ki Loh-e-Turbat) and the figure of an unnamed Brahman. How does the apostrophe-strategy differ from one to the other?
+
+## Tools available
+
+You have the Falsafa MCP server attached natively. Eight tools are available:
+
+- mcp__falsafa__list_works(filter)         — list works, filter by author/era/language/genre
+- mcp__falsafa__list_chapters(work_slug)   — list chapters of a work
+- mcp__falsafa__get_metadata(work_slug)    — full work metadata
+- mcp__falsafa__read_chapter(work_slug, chapter_number, variant?)  — read full chapter
+- mcp__falsafa__get_passage(work_slug, chapter_number, paragraph_ids? | paragraph_range?)
+- mcp__falsafa__search_corpus(query, scope? = "english")  — full-text search; AND-of-words; pick distinctive 2-3 word phrases
+- mcp__falsafa__find_related(work_slug, chapter_number?)  — TF-IDF cross-link
+- mcp__falsafa__compare_works(work_slug_a, work_slug_b, topic)
+
+Search strategy notes (for needle-in-haystack):
+- Multi-word queries are AND across chapters. Pick a distinctive 2-3 word phrase.
+- Long-query auto-fallback retries with the 3 rarest tokens; check the auto_fallback field.
+- The corpus has Old English, Sanskrit, Urdu, French, German, Kawi. NO Tamil, Greek, Arabic, Chinese.
+
+## What to do
+
+1. Read the question.
+2. Use the Falsafa MCP tools to navigate the corpus and find the answer. Call them natively (e.g. `mcp__falsafa__search_corpus({ query: "twelve true thanes" })`).
+3. Output your structured response as instructed below.
+
+## Response format (REQUIRED)
+
+Output a single fenced ```json``` block as the LAST thing in your message. Shape:
+
+```json
+{
+  "answer": "...your final answer in plain English. Cite work slugs and chapter numbers; if the answer is \"not in corpus\", say so plainly without inventing.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "twelve true thanes"}, "result_summary": "1 hit: Andreas ch.1"},
+    {"name": "get_passage", "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1}, "result_summary": "Confirmed opening matches"}
+  ],
+  "citations": [
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-868413"}
+  ]
+}
+```
+
+The harness post-extracts the LAST fenced ```json block from your stdout (run dir: `apps/mcp/eval/runs/1k-codex-smoke-20260427-234738`),
+so make sure the closing block is well-formed JSON. Do NOT wrap it in any other fences. Stay focused — don't ramble.
+codex
+I’m locating the two poems in the corpus first, then I’ll read the relevant chapters to compare how each addresses its figure directly.
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/list_works started
+mcp: falsafa/list_works (completed)
+codex
+I found the Brahman poem in `Bang-E-Dara Part 1`; now I’m locating `Sayed ki Loh-e-Turbat` and then reading both texts in English translation to compare the address-pattern directly.
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+codex
+I’ve identified the two Iqbal chapters: `36` for the Brahman poem and `38` for `Sayed Ki Loh-e-Turbat`. I’m reading the English translation of each now so the comparison stays grounded in the corpus text rather than the transliteration alone.
+mcp: falsafa/read_chapter started
+mcp: falsafa/read_chapter (completed)
+mcp: falsafa/read_chapter started
+mcp: falsafa/read_chapter (completed)
+codex
+The contrast is already visible: chapter 38 uses a mediated apostrophe, where the tomb/epitaph speaks through Sayyid to a generic reformer-reader, while chapter 36 speaks straight to “O Brahmin” as a live interlocutor and then shifts into “let us.” I’m pulling the paragraph IDs now so the final answer can cite the exact passages.
+mcp: falsafa/get_passage started
+mcp: falsafa/get_passage (completed)
+mcp: falsafa/get_passage started
+mcp: falsafa/get_passage (completed)
+codex
+```json
+{
+  "answer": "In both poems Iqbal uses apostrophe, but the target and rhetorical setup differ sharply. In `allama-iqbal-bang-e-dara-part-1-55b25c`, chapter 36, the poem opens with a direct second-person address to a living interlocutor: “O Brahmin...” The Brahman is an explicit addressee, first challenged, then drawn into a shared project through repeated inclusive imperatives like “Come, let us...”; the apostrophe moves from confrontation to attempted communion. In the same work, chapter 38 (`Sayed Ki Loh-e-Turbat`), the address is more mediated and exemplary: the poem is an epitaph, so the speaking position is ventriloquized through Sayyid Ahmed Khan’s tomb/voice. It addresses a generalized “you” (“O you...”), then turns into admonitions for anyone who would teach, write, or govern. So the Brahman poem is a face-to-face dialogic apostrophe to a named religious other, while `Sayed Ki Loh-e-Turbat` is a posthumous, inscriptional apostrophe that speaks from the tomb to a broader reformist reader or public figure.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Iqbal"
+      },
+      "result_summary": "Found 3 Iqbal works in the corpus, including `allama-iqbal-bang-e-dara-part-1-55b25c`."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahman",
+        "scope": "english",
+        "limit": 20
+      },
+      "result_summary": "Located the Brahman poem in `allama-iqbal-bang-e-dara-part-1-55b25c`, chapter 36."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Turbat",
+        "scope": "english",
+        "limit": 20
+      },
+      "result_summary": "Located `Sayed Ki Loh-e-Turbat` in `allama-iqbal-bang-e-dara-part-1-55b25c`, chapter 38."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Confirmed direct address to “O Brahmin” and the shift to inclusive “Come, let us...” rhetoric."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 38,
+        "variant": "translation"
+      },
+      "result_summary": "Confirmed epitaph form, mediated tomb-voice, and generalized admonitory address to “O you...” and to teachers/statesmen/writers."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "paragraph_range": {
+          "start": 0,
+          "end": 8
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Retrieved paragraph IDs for the full Brahman poem."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 38,
+        "paragraph_range": {
+          "start": 0,
+          "end": 14
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Retrieved paragraph IDs for the full `Sayed Ki Loh-e-Turbat` poem."
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-752d60"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-3a582d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-3ab597"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-f55cb3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-7a6aba"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-ee0ccd"
+    }
+  ]
+}
+```
+tokens used
+26,535

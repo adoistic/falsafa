@@ -1,0 +1,59 @@
+[
+  {
+    "id": "q-0341",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Comte's chapters arguing against religion as the foundation of legislation (Vol I ch. 8) and against legislation grounded in scripture (ch. 9) form a cluster. What's the cumulative claim?",
+    "rationale": "Within-volume cluster reading.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-i-7e62a2"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0679",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'shauq-e-faraawan' (overflowing longing) for Ghalib?",
+    "rationale": "Within-poet specific-phrase analysis.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 20,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0392",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Iqbal addresses Sayyid Ahmed Khan's tomb (Sayed ki Loh-e-Turbat) and the figure of an unnamed Brahman. How does the apostrophe-strategy differ from one to the other?",
+    "rationale": "Within-author rhetorical-mode comparison.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  }
+]

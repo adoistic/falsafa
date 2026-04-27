@@ -1,0 +1,937 @@
+{
+  "answer": "Using only the Falsafa MCP, I found passages mentioning wine, liquor, beer/mead, drunkenness, or intoxication in these works and chapters: cynewulf-andreas-07b573 ch.1; cynewulf-juliana-9a2157 ch.1; unknown-old-english-elegies-d5fe9e chs.2 and 17; allama-iqbal-bang-e-dara-part-1-55b25c chs.4, 5, 9, 17, 18, 23, 28, 32, 36, 40, 44; allama-iqbal-bang-e-dara-part-2-9bc58c chs.3, 4, 5, 8, 11, 14, 26, 28; allama-iqbal-bang-e-dara-part-3-cc61e8 chs.4, 7, 11, 14, 17, 20, 25; mirza-ghalib-diwan-e-ghalib-74ed4c chs.1, 2, 6, 7, 9, 21, 59, 77, 124, 155, 156, 165, 176, 191, 213, 214, 232; sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 chs.1, 4, 52, 60; unknown-kunjarakarna-dharmakathana-894f4a ch.1; unknown-slokantara-d7a628 ch.1; unknown-vratisasana-d0fe75 ch.1; unknown-san-hyan-tattvajnana-1f29bd ch.1; unknown-manusmrti-347b76 chs.4, 5, 6, 7, 8, 9, 12; unknown-parasara-smrti-2259be ch.10; unknown-yajnavalkya-smrti-cb88d6 ch.2; unknown-angirasa-smrti-2bf9d1 ch.1; unknown-katyayana-smrti-1e06d2 chs.11 and 33; unknown-brhaspati-smrti-0fd070 ch.1; unknown-visnu-smrti-27f0d8 ch.51; charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce intro, chs.1, 5, 6, 12; charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03 chs.14, 15, 16, 18, 19; charles-comte-traite-de-legislation-vol-i-7e62a2 chs.2, 6, 7, 15, 18, 19, 20, 21; charles-comte-traite-de-legislation-vol-ii-20331d chs.6, 14, 15, 18; charles-comte-traite-de-legislation-vol-iii-ca589a chs.28, 31, 38; charles-comte-traite-de-legislation-vol-iv-bca040 chs.21 and 23. The `citations` array lists the passage-level paragraph IDs surfaced by the MCP searches.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wine",
+        "scope": "english",
+        "limit": 50
+      },
+      "result_summary": "50 hits across Andreas, Iqbal, Ghalib, and others; many explicit wine passages."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intoxication",
+        "scope": "english",
+        "limit": 50
+      },
+      "result_summary": "15 hits, especially Slokantara, Vratisasana, Manusmrti, Parasara Smrti, Yajnavalkya Smrti, and Kunjarakarna."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "drunk",
+        "scope": "english",
+        "limit": 50
+      },
+      "result_summary": "50 hits; after filtering false positives like 'drunk milk', relevant hits remained in poetry, Old English, and legal texts."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "drunken",
+        "scope": "english",
+        "limit": 50
+      },
+      "result_summary": "41 hits; added drunkenness/drunken-friends/drunken-eye passages and prose uses of drunkenness."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liquor",
+        "scope": "english",
+        "limit": 50
+      },
+      "result_summary": "50 hits; many legal passages explicitly about drinking liquor or liquor-sellers."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mead",
+        "scope": "english",
+        "limit": 50
+      },
+      "result_summary": "35 hits; relevant alcohol hits in Andreas and Old English Elegies, many other hits were unrelated 'meadow/mead-hall' contexts."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "drunkard",
+        "scope": "english",
+        "limit": 50
+      },
+      "result_summary": "4 hits; relevant in Ghalib, Katyayana Smrti, Manusmrti, and Visnu Smrti."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "drunkenness",
+        "scope": "english",
+        "limit": 50
+      },
+      "result_summary": "28 hits; especially useful for Dunoyer, Comte, Old English Elegies, San Hyan Tattvajnana, and Ghalib."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "beer",
+        "scope": "english",
+        "limit": 50
+      },
+      "result_summary": "35 hits; relevant in Andreas, Juliana, Old English Elegies, and a few prose/manufacturing passages."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intemperance",
+        "scope": "english",
+        "limit": 50
+      },
+      "result_summary": "34 hits; added many prose discussions closely tied to drunkenness/intoxication in Dunoyer and Comte."
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ba1f68"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-72e9c3"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-2f5cb6"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ecb179"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-74e29a"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-e5ccfa"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-15a5a2"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-8ce9c2"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 2,
+      "paragraph_id": "p-8fec5e"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 2,
+      "paragraph_id": "p-0494b4"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 17,
+      "paragraph_id": "p-9f5431"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-6a25c9"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 5,
+      "paragraph_id": "p-9e1491"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 9,
+      "paragraph_id": "p-dce5e7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-f1ab57"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-6ebcbf"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 18,
+      "paragraph_id": "p-4cc8e8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 23,
+      "paragraph_id": "p-0876d6"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-04d031"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 32,
+      "paragraph_id": "p-459f88"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-959af2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 40,
+      "paragraph_id": "p-2de137"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-f39e58"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 3,
+      "paragraph_id": "p-75cfc5"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 4,
+      "paragraph_id": "p-dde86f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 5,
+      "paragraph_id": "p-445c2f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 8,
+      "paragraph_id": "p-5acdfe"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 11,
+      "paragraph_id": "p-92ab59"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-3ebd11"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-18d11b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 26,
+      "paragraph_id": "p-1e12d1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 28,
+      "paragraph_id": "p-9368f5"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-2b22cf"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-fdd24f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-700ae9"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-402bfb"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-141d8d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-e436cc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 11,
+      "paragraph_id": "p-f1396d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 14,
+      "paragraph_id": "p-2d9eb1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 17,
+      "paragraph_id": "p-31f356"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-56fa40"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-847833"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-79b1e9"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 1,
+      "paragraph_id": "p-564520"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 1,
+      "paragraph_id": "p-4304e1"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 2,
+      "paragraph_id": "p-6cadea"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 6,
+      "paragraph_id": "p-ec8295"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 7,
+      "paragraph_id": "p-01951e"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 9,
+      "paragraph_id": "p-6919d2"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 21,
+      "paragraph_id": "p-09d09c"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 59,
+      "paragraph_id": "p-818da3"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 77,
+      "paragraph_id": "p-236777"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 124,
+      "paragraph_id": "p-d01bbb"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 155,
+      "paragraph_id": "p-356068"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 156,
+      "paragraph_id": "p-8490cd"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 165,
+      "paragraph_id": "p-e2622a"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 176,
+      "paragraph_id": "p-5db051"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 191,
+      "paragraph_id": "p-3674a0"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 213,
+      "paragraph_id": "p-fd96ef"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 214,
+      "paragraph_id": "p-c1c175"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 232,
+      "paragraph_id": "p-7418de"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 1,
+      "paragraph_id": "p-c2eca2"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 4,
+      "paragraph_id": "p-f5a7e8"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 52,
+      "paragraph_id": "p-fae54d"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 52,
+      "paragraph_id": "p-6b4b5a"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 60,
+      "paragraph_id": "p-bbd4c0"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-386a1b"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-9b3159"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-3e53e7"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-05622a"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-0130ba"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-c72dfe"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-e0e34a"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-2f72a4"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-cb2803"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-3b5e27"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-fa887d"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-82f144"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-1955c6"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 4,
+      "paragraph_id": "p-cb9e1d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 5,
+      "paragraph_id": "p-376b2c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-89d810"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-701061"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-4f790e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-29f6da"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-3e6ead"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-961cc5"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-77c6f2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-a0210c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-836f38"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-665a11"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-8246b0"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-0604dd"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-d24880"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-7b28f0"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-5e5b34"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-b68029"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-54935a"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-d87471"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-b8b795"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-70af17"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 10,
+      "paragraph_id": "p-2c6714"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-ce1229"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-e96653"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-cafcb4"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 11,
+      "paragraph_id": "p-a0b028"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 33,
+      "paragraph_id": "p-04d254"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-c1303d"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-85fb8b"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-d2ebb5"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-b39fb0"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-e0e470"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-6085c0"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-ad91d2"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-32a24e"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-11d86f"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-82bf03"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-efaa24"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 0,
+      "paragraph_id": "p-b6ad3c"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 1,
+      "paragraph_id": "p-ed4810"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 5,
+      "paragraph_id": "p-a1cee0"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 5,
+      "paragraph_id": "p-e1fa55"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 5,
+      "paragraph_id": "p-08de67"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 6,
+      "paragraph_id": "p-df8e71"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 6,
+      "paragraph_id": "p-c29818"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 6,
+      "paragraph_id": "p-7b6b0b"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 6,
+      "paragraph_id": "p-594be7"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 12,
+      "paragraph_id": "p-829579"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 14,
+      "paragraph_id": "p-485c20"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 14,
+      "paragraph_id": "p-4931af"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 15,
+      "paragraph_id": "p-82578c"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 16,
+      "paragraph_id": "p-949e8d"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 16,
+      "paragraph_id": "p-78e243"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 16,
+      "paragraph_id": "p-a10324"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 18,
+      "paragraph_id": "p-5cd433"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 18,
+      "paragraph_id": "p-f3bc5b"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 19,
+      "paragraph_id": "p-184cd5"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 2,
+      "paragraph_id": "p-8811cb"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 2,
+      "paragraph_id": "p-9c5de2"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 2,
+      "paragraph_id": "p-5cbde3"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 2,
+      "paragraph_id": "p-854a0b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 6,
+      "paragraph_id": "p-cd3628"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 7,
+      "paragraph_id": "p-4a334b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 15,
+      "paragraph_id": "p-004df5"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 18,
+      "paragraph_id": "p-1d2900"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 18,
+      "paragraph_id": "p-f896fb"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 19,
+      "paragraph_id": "p-863200"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 20,
+      "paragraph_id": "p-af024d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 21,
+      "paragraph_id": "p-bbb09b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 21,
+      "paragraph_id": "p-be1798"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 21,
+      "paragraph_id": "p-d8902c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 6,
+      "paragraph_id": "p-e928e4"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 6,
+      "paragraph_id": "p-4fbd41"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 14,
+      "paragraph_id": "p-61e536"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 15,
+      "paragraph_id": "p-b410fc"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 18,
+      "paragraph_id": "p-e8a1ee"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 28,
+      "paragraph_id": "p-7003e3"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 31,
+      "paragraph_id": "p-bfbf39"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 38,
+      "paragraph_id": "p-184de9"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 21,
+      "paragraph_id": "p-d6c965"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-acaaed"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-c2defd"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-1b3935"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-3d26e1"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-bc3a9b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-1566a8"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-61fa53"
+    }
+  ]
+}

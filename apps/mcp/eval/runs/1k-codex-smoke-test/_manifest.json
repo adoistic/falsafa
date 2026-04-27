@@ -1,0 +1,23 @@
+{
+  "timestamp": "2026-04-27T18:21:40.607Z",
+  "git_sha": "7a2e98c8f1a992e3a6f6bd4dec36238b73babfb0",
+  "driver": "codex",
+  "codex_version": "codex-cli 0.120.0",
+  "model": "(codex default)",
+  "concurrency": 3,
+  "input": "eval/questions-revised-1000.json",
+  "out": "apps/mcp/eval/runs/1k-codex-smoke-test",
+  "sample": null,
+  "stratified": null,
+  "filters": {
+    "category": null,
+    "difficulty": null
+  },
+  "resume": false,
+  "question_count": 3,
+  "question_ids": [
+    "q-0955",
+    "q-0411",
+    "q-0650"
+  ]
+}

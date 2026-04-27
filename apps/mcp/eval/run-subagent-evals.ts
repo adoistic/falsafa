@@ -98,6 +98,81 @@ corpus: Old English, Sanskrit, Urdu, French, German, Kawi (Old Javanese). NO Tam
 Arabic, Chinese, etc.
 `.trim();
 
+/**
+ * Native-MCP variant of the prompt for sessions that have the falsafa MCP
+ * attached directly (Claude Code sub-agents inheriting `~/.claude.json`,
+ * codex CLI sessions inheriting `~/.codex/config.toml`). Drops the Bash/CLI
+ * wrapper guidance — the agent calls `mcp__falsafa__*` tools natively.
+ *
+ * `runDir` is a path RELATIVE to the repo root (e.g. `apps/mcp/eval/runs/1k-codex-stamp/codex`).
+ * The prompt only USES the path as a hint for Step A — the actual file write
+ * is the agent's responsibility (sub-agent) or post-extraction (codex).
+ */
+export function buildNativeMcpPrompt(
+  c: { id: string; prompt: string },
+  runDir: string,
+): string {
+  return `# Falsafa MCP Eval — Case: ${c.id} (BLIND)
+
+## Anti-cheat (read first)
+
+You are answering a corpus-discovery question with **only** the Falsafa MCP attached. You must not:
+- Read \`/Users/siraj/falsafa/eval/questions-revised-1000.json\` or any other file under \`/Users/siraj/falsafa/eval/\`
+- Read anything under \`/Users/siraj/falsafa/apps/mcp/eval/cases.json\`, \`results/\`, \`runs/\`, or \`docs/eval-reports/\`
+- Read the Falsafa repo source code or git history
+- Answer from your prior literary knowledge — if you "recognize" a quote, you still have to find it via the MCP
+
+If you cannot find the answer using the MCP tools, the correct response is to report that plainly. **Do not fabricate** works, authors, quotes, or chapter numbers the MCP did not surface.
+
+## The question
+
+${c.prompt}
+
+## Tools available
+
+You have the Falsafa MCP server attached natively. Eight tools are available:
+
+- mcp__falsafa__list_works(filter)         — list works, filter by author/era/language/genre
+- mcp__falsafa__list_chapters(work_slug)   — list chapters of a work
+- mcp__falsafa__get_metadata(work_slug)    — full work metadata
+- mcp__falsafa__read_chapter(work_slug, chapter_number, variant?)  — read full chapter
+- mcp__falsafa__get_passage(work_slug, chapter_number, paragraph_ids? | paragraph_range?)
+- mcp__falsafa__search_corpus(query, scope? = "english")  — full-text search; AND-of-words; pick distinctive 2-3 word phrases
+- mcp__falsafa__find_related(work_slug, chapter_number?)  — TF-IDF cross-link
+- mcp__falsafa__compare_works(work_slug_a, work_slug_b, topic)
+
+Search strategy notes (for needle-in-haystack):
+- Multi-word queries are AND across chapters. Pick a distinctive 2-3 word phrase.
+- Long-query auto-fallback retries with the 3 rarest tokens; check the auto_fallback field.
+- The corpus has Old English, Sanskrit, Urdu, French, German, Kawi. NO Tamil, Greek, Arabic, Chinese.
+
+## What to do
+
+1. Read the question.
+2. Use the Falsafa MCP tools to navigate the corpus and find the answer. Call them natively (e.g. \`mcp__falsafa__search_corpus({ query: "twelve true thanes" })\`).
+3. Output your structured response as instructed below.
+
+## Response format (REQUIRED)
+
+Output a single fenced \`\`\`json\`\`\` block as the LAST thing in your message. Shape:
+
+\`\`\`json
+{
+  "answer": "...your final answer in plain English. Cite work slugs and chapter numbers; if the answer is \\"not in corpus\\", say so plainly without inventing.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "twelve true thanes"}, "result_summary": "1 hit: Andreas ch.1"},
+    {"name": "get_passage", "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1}, "result_summary": "Confirmed opening matches"}
+  ],
+  "citations": [
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-868413"}
+  ]
+}
+\`\`\`
+
+The harness post-extracts the LAST fenced \`\`\`json block from your stdout (run dir: \`${runDir}\`),
+so make sure the closing block is well-formed JSON. Do NOT wrap it in any other fences. Stay focused — don't ramble.`;
+}
+
 export function buildSubagentPrompt(c: EvalCase, runId: string): string {
   return `# Falsafa MCP Eval — Case: ${c.id} (BLIND)
 

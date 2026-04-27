@@ -1,0 +1,111 @@
+```json
+{
+  "answer": "In `charles-comte-traite-de-legislation-vol-i-7e62a2`, chapters 8 and 9 together argue that morality and legislation should not be grounded in any positive religion or sectarian creed, because that makes law depend on disputed and perishable beliefs, empowers priestly domination, obstructs inquiry, and arrests civilization (ch. 8). The positive alternative in ch. 9 is that legislation must be studied and judged by observed consequences: laws should be evaluated by their effects on human welfare at large, while the science of legislation should proceed empirically, from facts and their connections, rather than from revelation, dogma, or even an a priori moral imperative. So the cumulative claim is: good legislation rests on reasoned observation of what promotes the greatest human good, not on scripture or the exclusive authority of religion.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Comte"
+      },
+      "result_summary": "Found 6 Charles Comte works, including `charles-comte-traite-de-legislation-vol-i-7e62a2`."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "foundation legislation religion",
+        "scope": "english",
+        "limit": 10
+      },
+      "result_summary": "0 hits."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "scripture legislation",
+        "scope": "english",
+        "limit": 10
+      },
+      "result_summary": "0 hits."
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Confirmed ch. 8 is on religion as exclusive foundation of morals/laws; ch. 9 is on utility and well-understood interest."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 8
+      },
+      "result_summary": "Chapter argues that making religion the exclusive basis of morality/law suppresses intelligence, entrenches error, and harms progress."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 9
+      },
+      "result_summary": "Chapter argues that legislation should be judged by effects on human welfare and studied as a science of facts, not prescriptions."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 8,
+        "paragraph_range": {
+          "start": 20,
+          "end": 32
+        }
+      },
+      "result_summary": "Extracted key closing passages rejecting religion as the exclusive basis of morality/law and endorsing observation."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 9,
+        "paragraph_range": {
+          "start": 6,
+          "end": 29
+        }
+      },
+      "result_summary": "Extracted passages defining legislation in terms of effects on the human race and science as exposition of facts."
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-e92cbf"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-9adf2c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-d59d51"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 9,
+      "paragraph_id": "p-5ad19d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 9,
+      "paragraph_id": "p-45fc4e"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 9,
+      "paragraph_id": "p-dd557a"
+    }
+  ]
+}
+```

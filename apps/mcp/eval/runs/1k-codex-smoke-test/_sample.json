@@ -1,0 +1,65 @@
+[
+  {
+    "id": "q-0955",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Comte argues that ancient slavery shaped — and distorted — the legal categories that came after it. Manu's book 8 sets out rules for slaves alongside other legal subjects without comment. Take Comte's strongest line on slavery's downstream effects and ask whether Manu's casual integration of slaves into procedure is the kind of thing Comte was warning about.",
+    "rationale": "Forces the candidate to extract a specific Comte line and test it against Manu's actual treatment.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0411",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every passage in the corpus that mentions wine or intoxication.",
+    "rationale": "Tests motif-search across diverse corpus. Will pull Ghalib, Zauq, Iqbal heavily. Maybe smriti's prayascittas for surapana.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0650",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'danda' (the rod, royal punishment) across Manusmriti chapter 7 and parallel chapters in Visnu and Yajnavalkya?",
+    "rationale": "Cross-text concept synthesis on state authority.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  }
+]

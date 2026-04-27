@@ -1,0 +1,239 @@
+OpenAI Codex v0.120.0 (research preview)
+--------
+workdir: /Users/siraj/falsafa
+model: gpt-5.4
+provider: openai
+approval: never
+sandbox: danger-full-access
+reasoning effort: none
+reasoning summaries: none
+session id: 019dd029-438d-7a20-8187-c30ed59d7111
+--------
+user
+# Falsafa MCP Eval — Case: q-0679 (BLIND)
+
+## Anti-cheat (read first)
+
+You are answering a corpus-discovery question with **only** the Falsafa MCP attached. You must not:
+- Read `/Users/siraj/falsafa/eval/questions-revised-1000.json` or any other file under `/Users/siraj/falsafa/eval/`
+- Read anything under `/Users/siraj/falsafa/apps/mcp/eval/cases.json`, `results/`, `runs/`, or `docs/eval-reports/`
+- Read the Falsafa repo source code or git history
+- Answer from your prior literary knowledge — if you "recognize" a quote, you still have to find it via the MCP
+
+If you cannot find the answer using the MCP tools, the correct response is to report that plainly. **Do not fabricate** works, authors, quotes, or chapter numbers the MCP did not surface.
+
+## The question
+
+What is 'shauq-e-faraawan' (overflowing longing) for Ghalib?
+
+## Tools available
+
+You have the Falsafa MCP server attached natively. Eight tools are available:
+
+- mcp__falsafa__list_works(filter)         — list works, filter by author/era/language/genre
+- mcp__falsafa__list_chapters(work_slug)   — list chapters of a work
+- mcp__falsafa__get_metadata(work_slug)    — full work metadata
+- mcp__falsafa__read_chapter(work_slug, chapter_number, variant?)  — read full chapter
+- mcp__falsafa__get_passage(work_slug, chapter_number, paragraph_ids? | paragraph_range?)
+- mcp__falsafa__search_corpus(query, scope? = "english")  — full-text search; AND-of-words; pick distinctive 2-3 word phrases
+- mcp__falsafa__find_related(work_slug, chapter_number?)  — TF-IDF cross-link
+- mcp__falsafa__compare_works(work_slug_a, work_slug_b, topic)
+
+Search strategy notes (for needle-in-haystack):
+- Multi-word queries are AND across chapters. Pick a distinctive 2-3 word phrase.
+- Long-query auto-fallback retries with the 3 rarest tokens; check the auto_fallback field.
+- The corpus has Old English, Sanskrit, Urdu, French, German, Kawi. NO Tamil, Greek, Arabic, Chinese.
+
+## What to do
+
+1. Read the question.
+2. Use the Falsafa MCP tools to navigate the corpus and find the answer. Call them natively (e.g. `mcp__falsafa__search_corpus({ query: "twelve true thanes" })`).
+3. Output your structured response as instructed below.
+
+## Response format (REQUIRED)
+
+Output a single fenced ```json``` block as the LAST thing in your message. Shape:
+
+```json
+{
+  "answer": "...your final answer in plain English. Cite work slugs and chapter numbers; if the answer is \"not in corpus\", say so plainly without inventing.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "twelve true thanes"}, "result_summary": "1 hit: Andreas ch.1"},
+    {"name": "get_passage", "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1}, "result_summary": "Confirmed opening matches"}
+  ],
+  "citations": [
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-868413"}
+  ]
+}
+```
+
+The harness post-extracts the LAST fenced ```json block from your stdout (run dir: `apps/mcp/eval/runs/1k-codex-smoke-20260427-234738`),
+so make sure the closing block is well-formed JSON. Do NOT wrap it in any other fences. Stay focused — don't ramble.
+codex
+I’m searching the corpus for Ghalib and the phrase behind “shauq-e-faraawan,” then I’ll verify the relevant passage directly in the surfaced chapter.
+mcp: falsafa/list_works started
+mcp: falsafa/list_works (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+codex
+The direct phrase search returned nothing, so I’m broadening to distinctive nearby terms around `shauq` inside Ghalib’s corpus entry and then reading the matching chapter.
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+codex
+I have Ghalib’s `Diwan-E-Ghalib`; now I’m checking variant spellings of `faraawan` and nearby renderings in translation to pin the exact line rather than infer from a different poem.
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+codex
+I’m checking whether the corpus indexed the Urdu script directly; if so, that’s the safest route to the exact `shauq-e-faraawan` line and its English rendering.
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+codex
+I don’t have an exact lexical hit for `faraawan`, so I’m reading the strongest candidate translations where longing is rendered as excessive or boundless, starting with the most explicit one.
+mcp: falsafa/read_chapter started
+mcp: falsafa/read_chapter (completed)
+mcp: falsafa/read_chapter started
+mcp: falsafa/read_chapter (completed)
+mcp: falsafa/read_chapter started
+mcp: falsafa/read_chapter (completed)
+codex
+I found a likely rendering where longing is explicitly “endless” in the English. I’m matching it against the Urdu/transliteration in the same chapter so the answer stays grounded in the corpus.
+mcp: falsafa/read_chapter started
+mcp: falsafa/read_chapter (completed)
+mcp: falsafa/read_chapter started
+mcp: falsafa/read_chapter (completed)
+mcp: falsafa/get_passage started
+mcp: falsafa/get_passage (completed)
+codex
+I have one strong hit, but I’m checking for any closer rendering in the corpus where Ghalib’s longing is described as boundless or excessive, to avoid anchoring on the wrong couplet.
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+mcp: falsafa/search_corpus started
+mcp: falsafa/search_corpus (completed)
+codex
+I have the likely main couplet and one corroborating poem that defines longing as larger than the heart itself. I’m pulling the precise passages for a compact answer with citations.
+mcp: falsafa/get_passage started
+mcp: falsafa/get_passage (completed)
+mcp: falsafa/get_passage started
+mcp: falsafa/get_passage (completed)
+codex
+```json
+{
+  "answer": "The exact phrase `shauq-e-faraawan` does not surface verbatim in the corpus search results, so I cannot claim a direct match. But the closest attested Ghalib formulation in the corpus is that overflowing longing is the lover’s intense, excessive desire in beholding the beloved: in `mirza-ghalib-diwan-e-ghalib-74ed4c`, chapter 90, Ghalib is translated as seeing the beloved with an \"endless, burning longing.\" A second corroborating passage in chapter 55 defines longing as so vast that the heart is too narrow to contain it. So, within the corpus, for Ghalib overflowing longing is an overfull, consuming desire that exceeds the heart’s capacity and shapes the lover’s gaze toward the beloved.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Ghalib"
+      },
+      "result_summary": "1 work found: `mirza-ghalib-diwan-e-ghalib-74ed4c`."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "overflowing longing",
+        "scope": "english",
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "limit": 20
+      },
+      "result_summary": "0 hits."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shauq faraawan",
+        "scope": "all",
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "limit": 20
+      },
+      "result_summary": "0 hits."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "burning longing",
+        "scope": "english",
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "limit": 20
+      },
+      "result_summary": "1 hit: chapter 90 (`Jahan tera naqsh-e-qadam dekhte hain`)."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 90
+      },
+      "result_summary": "Confirmed the translation line: \"With what an endless, burning longing you we see.\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 90,
+        "variant": "transliteration"
+      },
+      "result_summary": "Matched the corresponding transliteration line: `Tujhe kis tamanna se hum dekhte hain`."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 90,
+        "paragraph_range": {
+          "start": 3,
+          "end": 3
+        }
+      },
+      "result_summary": "Retrieved paragraph `p-625c71` with the chapter 90 longing line."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 55,
+        "paragraph_range": {
+          "start": 0,
+          "end": 1
+        }
+      },
+      "result_summary": "Retrieved paragraph `p-ef3ccc`, where longing is too large for the heart."
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 90,
+      "paragraph_id": "p-625c71"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 55,
+      "paragraph_id": "p-ef3ccc"
+    }
+  ]
+}
+```
+tokens used
+42,891

@@ -1,0 +1,54 @@
+{
+  "timestamp_end": "2026-04-27T18:21:47.638Z",
+  "counts": {
+    "ok": 0,
+    "failed": 3,
+    "skipped": 0,
+    "total": 3
+  },
+  "total_wall_ms": 7008,
+  "total_wall_min": 0.12,
+  "by_category": {
+    "cross-cultural": {
+      "ok": 0,
+      "failed": 1,
+      "skipped": 0
+    },
+    "discovery": {
+      "ok": 0,
+      "failed": 1,
+      "skipped": 0
+    },
+    "conceptual": {
+      "ok": 0,
+      "failed": 1,
+      "skipped": 0
+    }
+  },
+  "by_difficulty": {
+    "hard": {
+      "ok": 0,
+      "failed": 1,
+      "skipped": 0
+    },
+    "medium": {
+      "ok": 0,
+      "failed": 2,
+      "skipped": 0
+    }
+  },
+  "failures": [
+    {
+      "id": "q-0955",
+      "reason": "codex exit 1"
+    },
+    {
+      "id": "q-0411",
+      "reason": "codex exit 1"
+    },
+    {
+      "id": "q-0650",
+      "reason": "codex exit 1"
+    }
+  ]
+}

@@ -1,0 +1,31 @@
+{
+  "timestamp_end": "2026-04-27T18:19:02.132Z",
+  "counts": {
+    "ok": 3,
+    "failed": 0,
+    "skipped": 0,
+    "total": 3
+  },
+  "total_wall_ms": 83809,
+  "total_wall_min": 1.4,
+  "by_category": {
+    "comparative": {
+      "ok": 2,
+      "failed": 0,
+      "skipped": 0
+    },
+    "conceptual": {
+      "ok": 1,
+      "failed": 0,
+      "skipped": 0
+    }
+  },
+  "by_difficulty": {
+    "medium": {
+      "ok": 3,
+      "failed": 0,
+      "skipped": 0
+    }
+  },
+  "failures": []
+}

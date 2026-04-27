@@ -1,0 +1,184 @@
+{
+  "answer": "Across `unknown-manusmrti-347b76` chapter 7, `danda` is presented as the king’s divinely grounded power of punishment and social order: it is created by the Lord as Brahma’s own radiance and as Dharma itself; it protects all beings, keeps the world in order through fear, and must be applied with due consideration, otherwise it destroys everything (`unknown-manusmrti-347b76`, ch. 7, esp. Mn_7.14-19, 22, 25-31). In the parallel material from `unknown-visnu-smrti-27f0d8` chapter 3, `danda` is the dark, red-eyed rod of justice under which subjects prosper when the ruler judges well; the chapter emphasizes proportionate, just punishment and that no one is exempt if they depart from their own dharma (`unknown-visnu-smrti-27f0d8`, ch. 3, Vi_3.91-95). In `unknown-yajnavalkya-smrti-cb88d6` chapter 1, the parallel treatment makes `danda` both a political expedient (`daṇḍa` as force, the last of the four expedients) and, more importantly, Brahma-created punishment for disciplining the wicked; it may be wielded only by a truthful, pure, wise, well-assisted king, and just punishment brings heaven, fame, and victory, while unjust punishment destroys them. Yajnavalkya also specifies its forms: censure, verbal rebuke, fine, and corporal punishment, to be imposed according to offense and circumstance (`unknown-yajnavalkya-smrti-cb88d6`, ch. 1, Yj_1.346, 354-357, 367-368).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Manu"
+      },
+      "result_summary": "Found `unknown-manusmrti-347b76`."
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Viṣṇu"
+      },
+      "result_summary": "Found `unknown-visnu-smrti-27f0d8`."
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Yājñavalkya"
+      },
+      "result_summary": "Found `unknown-yajnavalkya-smrti-cb88d6`."
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "limit": 5
+      },
+      "result_summary": "Suggested content parallels in `unknown-visnu-smrti-27f0d8` ch. 3 and `unknown-yajnavalkya-smrti-cb88d6` ch. 1."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "Confirmed the main `danda` discussion in Mn_7.14-31."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 3
+      },
+      "result_summary": "Confirmed the parallel rod-of-justice passage in Vi_3.91-95."
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Confirmed the king-duty section with `daṇḍa` as force and as punishment in Yj_1.346, 354-357, 367-368."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_range": {
+          "start": 13,
+          "end": 30
+        }
+      },
+      "result_summary": "Retrieved Mn_7.14-31 with paragraph ids for the core definition and conditions of `danda`."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 3,
+        "paragraph_range": {
+          "start": 90,
+          "end": 95
+        }
+      },
+      "result_summary": "Retrieved Vi_3.91-95 with paragraph ids for just and proportionate punishment and the red-eyed rod of justice."
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "inflict punishment on the wicked",
+        "scope": "english",
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "limit": 10
+      },
+      "result_summary": "Found Yj_1.354, linking punishment to Brahma-created dharma."
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-ff5556",
+          "p-b01dfa",
+          "p-8b92a6",
+          "p-5494db"
+        ]
+      },
+      "result_summary": "Retrieved Yj_1.354, 355, 357, and 367 for the definition, proper wielder, outcomes of just/unjust punishment, and forms of punishment."
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-73f910"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-48dedc"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-6458d4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-32b6e6"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-7ac93f"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-39e88d"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 3,
+      "paragraph_id": "p-91ffbf"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 3,
+      "paragraph_id": "p-f4b9d0"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 3,
+      "paragraph_id": "p-07ab9c"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 3,
+      "paragraph_id": "p-636919"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-20d31d"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-ff5556"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-b01dfa"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-8b92a6"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-5494db"
+    }
+  ]
+}

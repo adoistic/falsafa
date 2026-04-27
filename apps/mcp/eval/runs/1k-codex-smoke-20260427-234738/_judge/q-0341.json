@@ -1,0 +1,10 @@
+{
+  "factual_correct": false,
+  "citation_backed": false,
+  "hallucinated": false,
+  "naturalness_1to5": 1,
+  "reasoning": "judge dispatch failed: codex exec exited 1: OpenAI Codex v0.120.0 (research preview)\n--------\nworkdir: /Users/siraj/falsafa\nmodel: gpt-5.4\nprovider: openai\napproval: never\nsandbox: danger-full-access\nreasoning effort: none\nreasoning summaries: none\nsession id: 019dd02c-aabd-7b21-93e2-846975859f79\n--------\nuser\n# Falsafa MCP eval — JUDGE pass on question q-0341\n\nYou are an independent judge for the Falsafa MCP. A different LLM acted as a librarian and\nproduced the answer below. Your job: decide whether the answer is **substantively correct**,\nnot just shape-correct, and return ONE fenced ```json verdict.\n\n## The question\n\n- id: q-0341\n- ",
+  "judge_model": "codex/gpt-5-codex",
+  "judge_duration_ms": 0,
+  "error": "codex exec exited 1: OpenAI Codex v0.120.0 (research preview)\n--------\nworkdir: /Users/siraj/falsafa\nmodel: gpt-5.4\nprovider: openai\napproval: never\nsandbox: danger-full-access\nreasoning effort: none\nreasoning summaries: none\nsession id: 019dd02c-aabd-7b21-93e2-846975859f79\n--------\nuser\n# Falsafa MCP eval — JUDGE pass on question q-0341\n\nYou are an independent judge for the Falsafa MCP. A different LLM acted as a librarian and\nproduced the answer below. Your job: decide whether the answer is **substantively correct**,\nnot just shape-correct, and return ONE fenced ```json verdict.\n\n## The question\n\n- id: q-0341\n- "
+}
