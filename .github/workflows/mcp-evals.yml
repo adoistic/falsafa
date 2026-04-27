@@ -1,0 +1,113 @@
+name: MCP Black-Box Evals
+
+# Triggers on PRs to main that touch the MCP server.
+# Per docs/eng-review-test-plan.md §"MCP Black-Box Eval Suite", this is a
+# blocking gate when EVALS_REQUIRED=true is set as a repo variable AND the
+# OPENROUTER_API_KEY secret is available. External contributor PRs (no key)
+# get a non-blocking skip with a warning comment.
+
+on:
+  pull_request:
+    branches: [main]
+    paths:
+      - "apps/mcp/**"
+      - "corpus/**"
+      - ".github/workflows/mcp-evals.yml"
+
+permissions:
+  contents: read
+  pull-requests: write # for posting the summary comment
+
+jobs:
+  evals:
+    name: Run black-box evals (16 cases)
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Setup Bun
+        uses: oven-sh/setup-bun@v2
+        with:
+          bun-version: latest
+
+      - name: Install MCP deps
+        working-directory: apps/mcp
+        run: bun install --frozen-lockfile || bun install
+
+      - name: Detect gating
+        id: gate
+        env:
+          EVALS_REQUIRED: ${{ vars.EVALS_REQUIRED }}
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+        run: |
+          if [ "${EVALS_REQUIRED}" = "true" ] && [ -n "${OPENROUTER_API_KEY}" ]; then
+            echo "mode=blocking" >> "$GITHUB_OUTPUT"
+          elif [ -n "${OPENROUTER_API_KEY}" ]; then
+            echo "mode=advisory" >> "$GITHUB_OUTPUT"
+          else
+            echo "mode=skip" >> "$GITHUB_OUTPUT"
+          fi
+
+      - name: Skip notice (no key)
+        if: steps.gate.outputs.mode == 'skip'
+        run: |
+          echo "OPENROUTER_API_KEY secret not set; skipping evals."
+          echo "External contributor PRs are intentionally not blocked."
+
+      - name: Run evals
+        if: steps.gate.outputs.mode != 'skip'
+        id: run_evals
+        working-directory: apps/mcp
+        env:
+          OPENROUTER_API_KEY: ${{ secrets.OPENROUTER_API_KEY }}
+          EVALS_REQUIRED: ${{ steps.gate.outputs.mode == 'blocking' && 'true' || 'false' }}
+          EVAL_MODEL: ${{ vars.EVAL_MODEL || 'anthropic/claude-sonnet-4.5' }}
+          JUDGE_MODEL: ${{ vars.JUDGE_MODEL || 'anthropic/claude-opus-4.5' }}
+        run: |
+          set +e
+          bun run eval | tee eval/results/last-run.log
+          echo "exit_code=$?" >> "$GITHUB_OUTPUT"
+
+      - name: Upload eval artifacts
+        if: steps.gate.outputs.mode != 'skip' && always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: mcp-eval-results
+          path: |
+            apps/mcp/eval/results/
+
+      - name: Post summary comment
+        if: steps.gate.outputs.mode != 'skip' && always()
+        env:
+          GH_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+          PR_NUMBER: ${{ github.event.pull_request.number }}
+          GATE_MODE: ${{ steps.gate.outputs.mode }}
+          EXIT_CODE: ${{ steps.run_evals.outputs.exit_code }}
+        run: |
+          BODY_FILE=$(mktemp)
+          {
+            echo "## MCP Black-Box Eval Results (${GATE_MODE})"
+            echo ""
+            if [ "${EXIT_CODE}" = "0" ]; then
+              echo "All 16 cases passed."
+            else
+              echo "One or more cases failed. See log below."
+            fi
+            echo ""
+            echo "<details><summary>Run log (last 200 lines)</summary>"
+            echo ""
+            echo '```'
+            tail -n 200 apps/mcp/eval/results/last-run.log || echo "(log missing)"
+            echo '```'
+            echo ""
+            echo "</details>"
+          } > "$BODY_FILE"
+          gh pr comment "$PR_NUMBER" --body-file "$BODY_FILE" || echo "comment failed (likely fork PR; ok)"
+
+      - name: Fail job if blocking and evals failed
+        if: steps.gate.outputs.mode == 'blocking' && steps.run_evals.outputs.exit_code != '0'
+        run: |
+          echo "Blocking mode: evals failed (exit ${{ steps.run_evals.outputs.exit_code }})"
+          exit 1

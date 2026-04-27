@@ -1,0 +1,155 @@
+{
+  "version": "1",
+  "generated_for": "docs/eng-review-test-plan.md §MCP Black-Box Eval Suite",
+  "notes": "16 cases from the test plan, verbatim. Each case is a fresh LLM context with ONLY the falsafa MCP attached. expected_tool_calls is checked loosely (any-of for category 1; partial-match acceptable). expected_answer_contains drives the judge's factual check. must_not_hallucinate is the negative guard — listed strings MUST NOT appear in the answer.",
+  "cases": [
+    {
+      "id": "factual-cynewulf",
+      "category": "factual lookup",
+      "prompt": "What works did Cynewulf write? Use the falsafa tools to find out.",
+      "expected_tool_calls": ["list_works"],
+      "expected_answer_contains": ["Andreas", "Elene", "Juliana"],
+      "expects_citation": false,
+      "notes": "Cynewulf has exactly three works in the corpus. The LLM should call list_works with author='cynewulf' (or scan list_works and filter)."
+    },
+    {
+      "id": "cross-text-dharma",
+      "category": "cross-text discovery",
+      "prompt": "Where in the corpus is the concept of dharma discussed? Cite specific works and chapters.",
+      "expected_tool_calls": ["search_corpus"],
+      "expected_answer_contains": ["dharma"],
+      "expects_citation": true,
+      "notes": "search_corpus('dharma') should return hits across the Sanskrit smṛti corpus (Manusmṛti, Yājñavalkya Smṛti, etc.). Answer must cite at least one work + chapter."
+    },
+    {
+      "id": "author-comparison-cynewulf-iqbal",
+      "category": "author comparison",
+      "prompt": "Compare how Cynewulf and Allama Iqbal treat the divine. Use the corpus to back up your comparison with at least one chapter pointer from each author.",
+      "expected_tool_calls": ["compare_works", "list_works", "search_corpus", "read_chapter", "get_metadata"],
+      "expected_answer_contains": ["Cynewulf", "Iqbal", "divine"],
+      "expects_citation": true,
+      "notes": "Loose tool match: any of compare_works / search_corpus / list_works counts. The answer should reference at least one chapter from each author (Andreas/Elene/Juliana on the Cynewulf side; Bang-E-Dara on the Iqbal side)."
+    },
+    {
+      "id": "citation-precision-andreas-courage",
+      "category": "citation precision",
+      "prompt": "Quote me a passage about courage from Andreas. Include a chapter number and a paragraph_id.",
+      "expected_tool_calls": ["search_corpus", "get_passage", "read_chapter"],
+      "expected_answer_contains": ["Andreas"],
+      "expects_citation": true,
+      "notes": "Must produce at least one literal quote AND a chapter number. paragraph_id is the gold-standard citation form. The judge checks that the quoted text actually appears in Andreas (no fabrication)."
+    },
+    {
+      "id": "onboarding-old-english",
+      "category": "onboarding discovery",
+      "prompt": "What is a good first work to read for someone new to Old English literature? Use the corpus to recommend.",
+      "expected_tool_calls": ["list_works", "get_metadata"],
+      "expected_answer_contains": ["Old English"],
+      "expects_citation": false,
+      "notes": "There are 4 Old English works: Andreas, Elene, Juliana (all Advanced) and Old English Elegies (Intermediate). The Elegies is the most accessible entry point. The LLM should either name Elegies OR justify a Cynewulf pick by some other criterion — judge for reasoning quality."
+    },
+    {
+      "id": "negative-tamil",
+      "category": "negative case",
+      "prompt": "Find me works in Tamil from the falsafa corpus.",
+      "expected_tool_calls": ["list_works"],
+      "expected_answer_contains": ["no", "0"],
+      "must_not_hallucinate": ["Tirukkural", "Kambar", "Tamil work"],
+      "expects_citation": false,
+      "notes": "Tamil is NOT in the corpus (only old_english, sanskrit, urdu, kawi, french, german). The LLM must report empty cleanly. must_not_hallucinate fails if the answer claims any specific Tamil work."
+    },
+    {
+      "id": "cross-language-iqbal-andreas",
+      "category": "cross-language reasoning",
+      "prompt": "Find passages from Allama Iqbal that resonate with the opening of Andreas (the heroic frame). Quote both sides.",
+      "expected_tool_calls": ["read_chapter", "search_corpus", "find_related", "get_passage"],
+      "expected_answer_contains": ["Andreas", "Iqbal"],
+      "expects_citation": true,
+      "notes": "Cross-language reasoning across Old English and Urdu (via translation). Tool path: read Andreas opening, then search for thematically resonant Iqbal passages. Answer must quote from both sides."
+    },
+    {
+      "id": "difficulty-sanskrit-accessible",
+      "category": "difficulty-aware retrieval",
+      "prompt": "Show me the most accessible Sanskrit work in the falsafa corpus.",
+      "expected_tool_calls": ["list_works"],
+      "expected_answer_contains": ["Sanskrit"],
+      "must_not_hallucinate": ["Beginner"],
+      "expects_citation": false,
+      "notes": "No Sanskrit work is rated 'Beginner'. The accessible tier is 'Intermediate' (10 works). The Advanced one is Nyaya Tilakam Pandulipi — the LLM should NOT pick that. Judge: did the LLM filter by language=Sanskrit, then pick a non-Advanced one? must_not_hallucinate guards against inventing a Beginner Sanskrit work."
+    },
+    {
+      "id": "content-type-original-only",
+      "category": "content-type-aware retrieval",
+      "prompt": "Show me works in their original language only — i.e. works where the corpus has the source-language text (not just a translation).",
+      "expected_tool_calls": ["list_works", "list_chapters", "get_metadata"],
+      "expected_answer_contains": ["original"],
+      "expects_citation": false,
+      "notes": "All 38 works have an original variant per the manifest, but the LLM should explore variant types via get_metadata or list_chapters. Judge for whether it correctly described variant_types and returned a non-empty list."
+    },
+    {
+      "id": "translation-thothica-only",
+      "category": "translation-aware retrieval",
+      "prompt": "Which works in the falsafa corpus have Thothica translations? Show me a few examples.",
+      "expected_tool_calls": ["list_works", "get_metadata", "list_chapters"],
+      "expected_answer_contains": ["translation"],
+      "expects_citation": false,
+      "notes": "Most non-English works have a Thothica translation variant. The LLM should sample a few works and show the translation variant. The thothica_role field on each work signals this."
+    },
+    {
+      "id": "era-bounded-medieval-philosophy",
+      "category": "era-bounded query",
+      "prompt": "What philosophical works exist in the corpus from the medieval period?",
+      "expected_tool_calls": ["list_works"],
+      "expected_answer_contains": ["medieval"],
+      "expects_citation": false,
+      "notes": "Strict genre=Philosophy + era=Medieval is empty in the corpus (Philosophy works are Enlightenment-era Comte). The LLM should either report empty OR surface adjacent medieval Indic/Academic-Studies works as 'philosophical' — judge for honesty about scope. must_not_hallucinate guards against inventing a medieval Philosophy work."
+    },
+    {
+      "id": "genre-bounded-literature",
+      "category": "genre-bounded query",
+      "prompt": "List all literary works in the falsafa corpus.",
+      "expected_tool_calls": ["list_works"],
+      "expected_answer_contains": ["Andreas", "Elene", "Juliana"],
+      "expects_citation": false,
+      "notes": "genre=Literature gives 8 works: 3 Cynewulf + 3 Iqbal Bang-E-Dara + Ghalib + Zauq + Old English Elegies. Loose check — at least the Cynewulf trio should appear."
+    },
+    {
+      "id": "multi-step-divine-wordcount",
+      "category": "multi-step reasoning",
+      "prompt": "Of all works in the corpus that mention the word 'divine,' which one has the highest total word count? Show your work.",
+      "expected_tool_calls": ["search_corpus", "get_metadata", "list_chapters"],
+      "expected_answer_contains": ["divine", "word"],
+      "expects_citation": true,
+      "notes": "Requires search_corpus('divine') -> dedupe to works -> get_metadata for each -> compare word counts. Multi-step. Judge for whether the LLM actually computed the answer (not 'I would do X')."
+    },
+    {
+      "id": "edge-out-of-range",
+      "category": "edge: out-of-range",
+      "prompt": "Show me chapter 999 of Andreas (cynewulf-andreas-07b573).",
+      "expected_tool_calls": ["read_chapter"],
+      "expected_answer_contains": ["not", "out of range"],
+      "must_not_hallucinate": ["chapter 999"],
+      "expects_citation": false,
+      "notes": "Andreas does not have 999 chapters. read_chapter must return CHAPTER_OUT_OF_RANGE and the LLM must surface the error gracefully without fabricating a chapter 999."
+    },
+    {
+      "id": "edge-invalid-filter",
+      "category": "edge: invalid filter",
+      "prompt": "List works in the language called 'martian' from the falsafa corpus.",
+      "expected_tool_calls": ["list_works"],
+      "expected_answer_contains": ["no", "0", "empty"],
+      "must_not_hallucinate": ["martian work", "Mars literature"],
+      "expects_citation": false,
+      "notes": "'Martian' is not a corpus language. list_works({language:'martian'}) returns count=0. The LLM should report cleanly."
+    },
+    {
+      "id": "citation-fidelity-andreas-opening",
+      "category": "citation fidelity",
+      "prompt": "Give me the exact opening line of Andreas in English. Quote it byte-accurate.",
+      "expected_tool_calls": ["read_chapter", "get_passage"],
+      "expected_answer_contains": ["We have heard of heroes in ages past"],
+      "expects_citation": true,
+      "notes": "The Andreas English translation chapter 1 opens: 'We have heard of heroes in ages past,'. The LLM must reproduce this verbatim — small typos fail the fidelity axis."
+    }
+  ]
+}
