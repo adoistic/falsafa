@@ -1,0 +1,24 @@
+{
+  "answer": "In Manusmriti chapter 8, the penalty for a non-Brahmin (low-born man) who strikes a Brahmin (a superior) is the mutilation of the very limb used to commit the assault. The general rule (Mn_8.279) states: 'With whatever limb a low-born man should injure a superior, that very limb of his shall be cut off; this is the ordinance of Manu.' The specific application (Mn_8.280) elaborates: 'He who raises his hand or a stick deserves to have his hand cut off; he who strikes in anger with his foot deserves to have his foot cut off.' In short, the precise penalty is amputation of the offending limb — hand (if struck with hand or stick) or foot (if struck with foot). Work slug: unknown-manusmrti-347b76, chapter 8, verses Mn_8.279–Mn_8.280.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {"language": "Sanskrit"},
+      "result_summary": "Found Manusmriti with slug unknown-manusmrti-347b76, 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {"query": "raises hand stick deserves foot cut", "work_slug": "unknown-manusmrti-347b76"},
+      "result_summary": "1 hit in Manusmriti ch.8, paragraph p-c0dabc, containing Mn_8.280 text about hand/foot amputation"
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 8, "paragraph_range": {"start": 233, "end": 243}},
+      "result_summary": "Confirmed Mn_8.279 (p-526528) and Mn_8.280 (p-c0dabc): limb-for-limb amputation rule for low-born striking a superior"
+    }
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 8, "paragraph_id": "p-526528"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 8, "paragraph_id": "p-c0dabc"}
+  ]
+}

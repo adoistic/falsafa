@@ -1,0 +1,25 @@
+{
+  "answer": "Four works in the corpus contain references to specifically Sufi or Sufi-adjacent practices:\n\n1. **allama-iqbal-bang-e-dara-part-1-55b25c**, chapter 44 ('Zuhd aur Rindi'): Directly names a cleric with a 'Sufi air' and engages the classical Sufi-adjacent tension between zuhd (ascetic piety) and rindi (spiritual libertinism / wine-mysticism).\n\n2. **allama-iqbal-bang-e-dara-part-2-9bc58c**, chapter 20 ('Salimi'): References 'the Sufi' who found the divine in the heart's chamber of darkness — a core Sufi inward-contemplation practice.\n\n3. **allama-iqbal-bang-e-dara-part-3-cc61e8**, chapter 4 ('Dil se jo baat nikalti hai asar rakhti hai'): Uses the figure of the 'humble dervish' (wandering Sufi mendicant) as a spiritual-political type.\n\n4. **mirza-ghalib-diwan-e-ghalib-74ed4c**: Multiple chapters reference the dervish figure and Sufi-adjacent imagery — the 'wandering dervish' (ch. 36), the dervish-cloak and prayer-mat pawned for wine (ch. 83, the classic rind trope of antinomian Sufi mysticism), and the begging bowl of the dervish (ch. 158).\n\n5. **sheikh-ibrahim-zauq-diwan-e-zauq-0fa798**: Two chapters — ch. 49 ('Voh kaun hai...') explicitly names 'ilm-e-tasawwuf' (the science of Sufism) and 'Sufi texts', and ch. 25 ('Kab haq-parast zahid-e-jannat-parast hai') defines the true Dervish against the false zahid (ascetic), which is a core Sufi ethical distinction.\n\nNo other works in the corpus (Old English poems, Sanskrit Smritis, Kawi texts, French political economy, German political pamphlet) contain Sufi or Sufi-adjacent references.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Sufi"}, "result_summary": "4 hits across 3 works: Bang-E-Dara Part 1 ch.44, Bang-E-Dara Part 2 ch.20, Diwan-E-Zauq ch.49 (x2 variants)"},
+    {"name": "search_corpus", "args": {"query": "dervish"}, "result_summary": "5 hits across 3 works: Bang-E-Dara Part 3 ch.4, Diwan-E-Ghalib ch.36/83/158, Diwan-E-Zauq ch.25"},
+    {"name": "search_corpus", "args": {"query": "dervish whirling"}, "result_summary": "0 hits"},
+    {"name": "search_corpus", "args": {"query": "fana annihilation divine"}, "result_summary": "0 hits"},
+    {"name": "search_corpus", "args": {"query": "tasawwuf mysticism"}, "result_summary": "0 hits — term appears in original/transliteration only"},
+    {"name": "search_corpus", "args": {"query": "mystic ecstasy union"}, "result_summary": "0 hits"},
+    {"name": "search_corpus", "args": {"query": "zahid ascetic piety hypocrisy"}, "result_summary": "0 hits"},
+    {"name": "list_works", "args": {}, "result_summary": "38 works total; Sufi-relevant works are the Urdu poetry works (Iqbal x3, Ghalib, Zauq)"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "44 chapters; ch.44 is 'Zuhd aur Rindi' — confirmed Sufi-adjacent theme in title"},
+    {"name": "list_chapters", "args": {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"}, "result_summary": "60 chapters; ch.25 slug 'kab-haq-parast-zahid-e-jannat-parast-hai' and ch.49 confirmed"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 44, "paragraph_id": "p-52b34d"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 20, "paragraph_id": "p-e4b1ba"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 4, "paragraph_id": "p-819a53"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 36, "paragraph_id": "p-70f710"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 83, "paragraph_id": "p-56cae2"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 158, "paragraph_id": "p-280a13"},
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 25, "paragraph_id": "p-e44bc0"},
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 49, "paragraph_id": "p-655b56"}
+  ]
+}

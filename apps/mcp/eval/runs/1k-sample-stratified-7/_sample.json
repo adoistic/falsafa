@@ -1,0 +1,144 @@
+[
+  {
+    "id": "q-0109",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find the verse in Yajnavalkya Smriti chapter 2 on the procedure for a witness who has lied in court.",
+    "rationale": "Yj ch. 2 is vyavahara (legal procedure). The witness-perjury rules are a specific subsection; tests precise navigation.",
+    "expected_works": [
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 3,
+      "naturalness": 4,
+      "total": 20,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0313",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Iqbal's 'Khitāb ba Jawānān-e-Islām' uses the second person to demand action; Cynewulf's epilogues do the same. Pull each address. Does either author trust the second-person to do the work, or do they hedge by also explaining?",
+    "rationale": "Cross-author address comparison forced to trust-the-second-person question.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "cynewulf-elene-d2d132"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0476",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus contain reference to specifically Sufi (or Sufi-adjacent) practices?",
+    "rationale": "Ghalib's couplets engaging Persian Sufi tropes; Zauq's; Iqbal's mystic poems.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0626",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'paap' (sin, demerit) across Sanskrit smritis and Old Javanese ethical texts?",
+    "rationale": "Cross-tradition concept synthesis on a moral category.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-slokantara-d7a628"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0701",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Manusmriti chapter 8, what is the precise penalty for a non-Brahmin who strikes a Brahmin?",
+    "rationale": "Mn 8.270-8.272 area. Tests precise verse-level retrieval inside the vyavahara chapter.",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0901",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "Three traditions, three words for revealed truth: 'sruti' in the smritis, 'wahy' in Iqbal's Urdu, 'revelatio' implicit in Cynewulf. Pull one operative passage for each. Which of the three places the most weight on the audibility of the revelation?",
+    "rationale": "Cross-tradition revelation-vocabulary triangulation forced to audibility test.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "cynewulf-andreas-07b573"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0951",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Andreas frames the world as a stage on which Christ's order overrides pagan disorder. Manu's opening book frames it as the cyclical unfolding of dharma. Find the verses on each side that most directly state the cosmic frame — which would survive translation into the other's idiom?",
+    "rationale": "Cross-tradition cosmological comparison anchored on the strongest framing-verse from each side.",
+    "expected_works": [
+      "cynewulf-andreas-07b573",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  }
+]
