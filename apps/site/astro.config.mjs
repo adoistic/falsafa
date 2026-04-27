@@ -26,5 +26,23 @@ export default defineConfig({
         allow: ["../.."],
       },
     },
+    optimizeDeps: {
+      // The AI SDK and provider packages are only imported inside
+      // lazy-loaded BYOK provider adapters (src/islands/byok/providers/*.ts).
+      // Vite's auto-discovery can drop them from the optimizer cache when
+      // an unrelated dep gets added (e.g., installing marked-footnote
+      // triggered a re-scan that produced a cache without these), causing
+      // the dev server to serve the lazy adapter with rewritten import URLs
+      // (`/node_modules/.vite/deps/@ai-sdk_openai.js?v=...`) that 404.
+      // The user sees: "Failed to fetch dynamically imported module".
+      // Pinning them in `include` forces pre-bundling on every start.
+      include: [
+        "@ai-sdk/openai",
+        "ai",
+        "marked",
+        "marked-footnote",
+        "zod",
+      ],
+    },
   },
 });
