@@ -5,6 +5,88 @@ during the review and are explicitly NOT V1 scope. Each is captured with enough
 context that someone picking it up in 3 months understands the motivation and
 where to start.
 
+## Remote MCP deployment for installable surfaces (Claude.ai / ChatGPT / Gemini)
+
+**Status:** NOT STARTED. Process gate: requires `/office-hours` first
+to pressure-test the product/positioning, then `/plan-eng-review` to
+lock the architecture, before any code lands.
+
+**What:** Make Falsafa installable as a remote MCP server on the three
+major LLM client surfaces. Today `apps/mcp/` is stdio-only (works for
+Claude Desktop, Cursor, Codex via local `npx @falsafa/mcp`). To reach
+end-users on claude.ai web, ChatGPT, and Gemini we need a remote
+HTTP-transport MCP backend running at a stable public URL.
+
+**Why:** The launch plan locked Approach A —
+> single remote MCP backend serves all three LLM surfaces (claude.ai,
+> ChatGPT, Gemini) plus Claude Desktop / Code via stdio adapter where
+> applicable.
+>
+> Launch order: GPT Store first → claude.ai connector → Gemini Gem.
+
+— but no concrete tracking item existed for the implementation. The BYOK
+demo at /try is great for HN scroll-readers; the remote MCP is what
+turns Falsafa into a *capability* a reader can install into their daily
+LLM and keep using.
+
+**Process gate (do this first, before writing code):**
+1. **`/office-hours`** — pressure-test the product question. Is "MCP
+   server installable on three LLM platforms" the right shape, or
+   should we lead with one surface and prove demand before fanning
+   out? What does the install moment feel like for each platform?
+   Where does the user get stuck? What's the metric of success
+   (installs? uses-per-week? citation-clicks back to falsafa.ai?).
+2. **`/plan-eng-review`** — lock the architecture. Hosting choice
+   (Cloudflare Worker vs Vercel Edge vs fly.io), transport
+   (StreamableHTTP vs SSE vs both), corpus access (bundled vs
+   fetched from falsafa.ai vs R2), auth (none / static key / OAuth),
+   shared-types refactor (`apps/_corpus-types/` from existing TODOS),
+   per-surface integration shape (REST + OpenAPI for ChatGPT GPT Store
+   today, native MCP later when OpenAI's rollout matures), DNS
+   (`mcp.falsafa.ai` subdomain), observability, rate limiting.
+
+**Approximate scope (subject to eng review):**
+
+| Surface | Today | Path |
+|---|---|---|
+| Claude Desktop / Cursor / Codex | Works locally via stdio | `npm publish @falsafa/mcp` |
+| Claude.ai web Connectors | Not connected | HTTP MCP transport + deploy + register URL |
+| ChatGPT Custom GPT / GPT Store | Not connected | OpenAPI 3.x spec → REST routes → Custom GPT → Store submission |
+| Gemini Gem | Not connected | Wait for Google MCP rollout (deferred) |
+
+**Pros:** Falsafa stops being "look at this site" and becomes "use this
+in your daily LLM." Each install is a recurring touchpoint. Compounds
+adoption — users in their LLM are pre-qualified for the methodology
+case the launch artifact makes.
+
+**Cons:** Crosses the "no backend, no state" line that BYOK preserves.
+We become responsible for uptime, abuse handling, observability. Cost
+is near-zero on Cloudflare's free tier at launch traffic, but the
+operational burden isn't zero.
+
+**Trigger:** After the BYOK demo at /try is fully tested and shipped.
+Office hours first, then eng review, then implementation. Not before.
+
+**Where to start (after the process gates clear):**
+- `apps/mcp/src/index.ts` is the existing stdio entry. Add an alternate
+  `apps/mcp/src/http.ts` entry that wires `StreamableHTTPServerTransport`.
+- Cloudflare Worker scaffold under `apps/mcp-worker/` (or wherever the
+  eng review lands the package layout).
+- Corpus access: same code path the BYOK browser tools use — fetch
+  from `falsafa.ai/corpus/*`. No re-bundling.
+- DNS: add `mcp.falsafa.ai` CNAME to the Worker.
+- ChatGPT path: small script to generate OpenAPI 3.x from the existing
+  zod schemas in `apps/site/src/islands/byok/providers/tools.ts`.
+
+**Depends on:**
+- Phase 2 of launch plan ships first (BYOK demo, eval explorer,
+  thesis explainer). Remote MCP is part of the same launch but
+  follows the demo because the demo proves the tools work.
+- `/office-hours` and `/plan-eng-review` complete first. No code
+  before those gates clear.
+
+---
+
 ## Per-chapter imagery decision-point
 
 **What:** Decide whether `/works/{slug}/{chapter}` pages need AI-generated art or
