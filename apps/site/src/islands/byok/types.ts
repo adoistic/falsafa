@@ -102,6 +102,21 @@ export interface ToolCall {
 }
 
 /**
+ * One entry in the chronological streaming timeline. The model's text
+ * output and its tool calls arrive interleaved across the stream — this
+ * preserves the order so the UI can show "model thinks → calls tool →
+ * sees result → thinks more → calls another tool → final answer" exactly
+ * as it happens.
+ *
+ * For tool entries, the `id` references into state.toolCalls for the
+ * full ToolCall data. Keeping the timeline thin means appending a single
+ * entry per arrival is O(1).
+ */
+export type TimelineEntry =
+  | { kind: "text"; text: string }
+  | { kind: "tool-call"; id: string };
+
+/**
  * The complete state of a BYOK session. One of these exists at any time
  * inside the ByokDemo island; the reducer transitions between them.
  *
@@ -125,6 +140,14 @@ export interface BYOKState {
   output: string;
   /** Tool calls in chronological order. */
   toolCalls: ToolCall[];
+  /**
+   * Chronological log of text + tool-call arrivals, interleaved as they
+   * stream in. Used by the UI to render the model's "thinking" — its
+   * commentary between tool calls — alongside the tool calls themselves.
+   * The final entry, if it's a long enough text after the last tool, is
+   * the model's synthesized answer.
+   */
+  timeline: TimelineEntry[];
   /** Final error if status is one of the error states. */
   error: ByokError | null;
   /** AbortController for the active request. Allows the Stop button to cancel. */

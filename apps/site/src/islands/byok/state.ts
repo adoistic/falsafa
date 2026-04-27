@@ -33,6 +33,7 @@ import type {
   BYOKState,
   ByokError,
   Provider,
+  TimelineEntry,
   ToolCall,
 } from "./types";
 
@@ -53,6 +54,7 @@ export function initialState(seed?: Partial<BYOKState>): BYOKState {
     modelId: "anthropic/claude-sonnet-4.5",
     output: "",
     toolCalls: [],
+    timeline: [],
     error: null,
     abortController: null,
     ...seed,
@@ -127,6 +129,7 @@ export function reducer(state: BYOKState, action: BYOKAction): BYOKState {
         status: "submitting",
         output: "",
         toolCalls: [],
+        timeline: [],
         error: null,
         abortController: action.abortController,
       };
@@ -160,6 +163,7 @@ export function reducer(state: BYOKState, action: BYOKAction): BYOKState {
         status: "setup",
         output: "",
         toolCalls: [],
+        timeline: [],
         error: null,
         abortController: null,
       };
@@ -169,9 +173,28 @@ export function reducer(state: BYOKState, action: BYOKAction): BYOKState {
       if (state.status !== "submitting") return state;
       return { ...state, status: "streaming" };
 
-    case "TEXT_DELTA":
+    case "TEXT_DELTA": {
       if (state.status !== "streaming") return state;
-      return { ...state, output: state.output + action.delta };
+      // Append to last text entry if it's adjacent (no tool-call intervened),
+      // otherwise start a new text entry. This keeps the timeline a clean
+      // chronological sequence of "model said this, then called tool, then
+      // said this, then called tool, ..." with no fragmentation.
+      const last = state.timeline[state.timeline.length - 1];
+      let timeline: TimelineEntry[];
+      if (last && last.kind === "text") {
+        timeline = [
+          ...state.timeline.slice(0, -1),
+          { kind: "text", text: last.text + action.delta },
+        ];
+      } else {
+        timeline = [...state.timeline, { kind: "text", text: action.delta }];
+      }
+      return {
+        ...state,
+        output: state.output + action.delta,
+        timeline,
+      };
+    }
 
     case "TOOL_CALL_START": {
       if (state.status !== "streaming") return state;
@@ -183,7 +206,11 @@ export function reducer(state: BYOKState, action: BYOKAction): BYOKState {
         startedAt: Date.now(),
         endedAt: null,
       };
-      return { ...state, toolCalls: [...state.toolCalls, newCall] };
+      return {
+        ...state,
+        toolCalls: [...state.toolCalls, newCall],
+        timeline: [...state.timeline, { kind: "tool-call", id: action.id }],
+      };
     }
 
     case "TOOL_CALL_ARG_DELTA": {
