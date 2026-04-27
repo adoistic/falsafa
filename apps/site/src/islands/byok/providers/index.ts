@@ -9,6 +9,9 @@
 import type { NormalizedEvent, Provider } from "../types";
 
 export interface ProviderAdapterArgs {
+  /** Which provider this call is for. Threaded through so error messages
+   * carry the actual user-facing label (OpenRouter vs OpenAI). */
+  provider: Provider;
   apiKey: string;
   question: string;
   abortSignal: AbortSignal;

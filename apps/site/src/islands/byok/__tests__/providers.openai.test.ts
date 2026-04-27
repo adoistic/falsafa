@@ -105,7 +105,7 @@ describe("streamOpenAI: happy path", () => {
     ];
 
     const events = await collect(
-      streamOpenAI({
+      streamOpenAI({ provider: "openrouter",
         apiKey: "sk-test-fake",
         question: "What does Ghalib say about love?",
         abortSignal: new AbortController().signal,
@@ -152,7 +152,7 @@ describe("streamOpenAI: happy path", () => {
     ];
 
     const events = await collect(
-      streamOpenAI({
+      streamOpenAI({ provider: "openrouter",
         apiKey: "sk-test-fake",
         question: "ask something niche",
         abortSignal: new AbortController().signal,
@@ -195,7 +195,7 @@ describe("streamOpenAI: happy path", () => {
     ];
 
     const events = await collect(
-      streamOpenAI({
+      streamOpenAI({ provider: "openrouter",
         apiKey: "sk-test-fake",
         question: "anything",
         abortSignal: new AbortController().signal,
@@ -295,7 +295,7 @@ describe("streamOpenAI: abort signal", () => {
 
     // The generator yields and ends without erroring out the test.
     const events = await collect(
-      streamOpenAI({
+      streamOpenAI({ provider: "openrouter",
         apiKey: "sk-test-fake",
         question: "anything",
         abortSignal: ac.signal,

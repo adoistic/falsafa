@@ -17,7 +17,7 @@
 import { createOpenAI } from "@ai-sdk/openai";
 import { streamText } from "ai";
 import type { ProviderAdapterArgs } from "./index";
-import type { ByokError, FinishReason, NormalizedEvent } from "../types";
+import type { ByokError, FinishReason, NormalizedEvent, Provider } from "../types";
 import { buildFalsafaTools, FALSAFA_SYSTEM_PROMPT } from "./tools";
 
 const DEFAULT_MODEL = "gpt-5.4-mini";
@@ -27,10 +27,32 @@ const DEFAULT_MODEL = "gpt-5.4-mini";
  *
  * Yields NormalizedEvent values that the BYOK reducer consumes. Provider-
  * specific shapes never escape this function.
+ *
+ * NOTE: OpenAI's API does NOT allow POST /v1/chat/completions from a
+ * browser (CORS-blocked). OpenAI direct will fail with a synthetic
+ * "provider-not-browser-supported" error before the SDK even tries to
+ * fetch. The recommended path for GPT models is OpenRouter, which
+ * proxies the same providers with proper CORS.
  */
 export async function* streamOpenAI(
   args: ProviderAdapterArgs,
 ): AsyncGenerator<NormalizedEvent, void, void> {
+  const userProvider = args.provider; // "openai" | "openrouter" — threaded through for error labeling
+
+  // Pre-flight: OpenAI direct doesn't work from a browser. Surface a clear
+  // error instead of letting the user see "Failed to fetch" with no clue.
+  if (userProvider === "openai") {
+    yield {
+      kind: "error",
+      error: {
+        kind: "provider-not-browser-supported",
+        provider: "openai",
+        suggestedAlternative: "openrouter",
+      },
+    };
+    return;
+  }
+
   const baseURL = inferBaseURL(args);
 
   const provider = createOpenAI({
@@ -102,7 +124,7 @@ export async function* streamOpenAI(
           return;
 
         case "error":
-          yield { kind: "error", error: mapToByokError(part.error, "openai") };
+          yield { kind: "error", error: mapToByokError(part.error, userProvider) };
           return;
 
         case "abort":
@@ -118,24 +140,18 @@ export async function* streamOpenAI(
       }
     }
   } catch (err) {
-    yield { kind: "error", error: mapToByokError(err, "openai") };
+    yield { kind: "error", error: mapToByokError(err, userProvider) };
   }
 }
 
 /**
  * OpenRouter routes through `https://openrouter.ai/api/v1` with an
- * OpenAI-compatible API. Detection: if the user's key starts with
- * `sk-or-`, route to OpenRouter. (Heuristic; UI also lets user pick
- * provider explicitly.)
+ * OpenAI-compatible API. We branch on the explicit provider field
+ * (set by the BYOK island) rather than guessing from key prefix.
  */
 function inferBaseURL(args: ProviderAdapterArgs): string | undefined {
-  // If the caller explicitly intends openrouter, the BYOK island sets
-  // provider="openrouter" before loading; we can't see that here, so we
-  // rely on the key prefix as a fallback signal.
-  if (args.apiKey.startsWith("sk-or-")) {
-    return "https://openrouter.ai/api/v1";
-  }
-  return undefined; // default openai
+  if (args.provider === "openrouter") return "https://openrouter.ai/api/v1";
+  return undefined; // default openai (which we now reject above anyway)
 }
 
 function mapFinishReason(reason: string | undefined): FinishReason {
@@ -159,7 +175,7 @@ function mapFinishReason(reason: string | undefined): FinishReason {
  * Convert any error (provider error, fetch error, AbortError) into a
  * ByokError. The reducer's switch is exhaustive on these.
  */
-export function mapToByokError(err: unknown, provider: "openai"): ByokError {
+export function mapToByokError(err: unknown, provider: Provider): ByokError {
   // Aborted by user → caller handles this via the USER_ABORT action; if it
   // bubbles as an error we treat it as partial-tool-use-abort.
   if (err instanceof DOMException && err.name === "AbortError") {
@@ -172,28 +188,71 @@ export function mapToByokError(err: unknown, provider: "openai"): ByokError {
 
   // AI SDK wraps HTTP errors with `statusCode` on the cause.
   const status = extractStatus(err);
+  const apiMessage = extractApiMessage(err);
+
   if (status === 401 || status === 403) {
-    return { kind: "invalid-key", provider, status };
+    return { kind: "invalid-key", provider, status, message: apiMessage };
   }
   if (status === 429) {
-    return { kind: "rate-limited", provider, retryAfterMs: extractRetryAfter(err) };
+    return {
+      kind: "rate-limited",
+      provider,
+      retryAfterMs: extractRetryAfter(err),
+      message: apiMessage,
+    };
+  }
+  // Other HTTP statuses (400, 404, 500, etc.) surface their actual message.
+  if (typeof status === "number") {
+    return {
+      kind: "other",
+      provider,
+      status,
+      message: apiMessage ?? `${provider} returned HTTP ${status}`,
+    };
   }
 
   // Network/fetch errors.
   if (err instanceof TypeError && err.message.includes("fetch")) {
     return {
       kind: "network-disconnect",
+      provider,
       cause: "fetch-error",
       underlying: err.message,
     };
   }
 
-  // Generic fall-through.
+  // Generic fall-through — preserve whatever message we have.
   return {
     kind: "network-disconnect",
+    provider,
     cause: "fetch-error",
     underlying: formatUnknown(err),
   };
+}
+
+/** Pull a human-readable message out of an AI SDK error structure. */
+function extractApiMessage(err: unknown): string | undefined {
+  if (typeof err !== "object" || err === null) return undefined;
+  const e = err as Record<string, unknown>;
+  // Common shapes: { message: "..." }, { error: { message: "..." } },
+  // { responseBody: '{"error":{"message":"..."}}' }, etc.
+  if (typeof e["message"] === "string") return e["message"];
+  const responseBody = e["responseBody"];
+  if (typeof responseBody === "string") {
+    try {
+      const parsed = JSON.parse(responseBody) as { error?: { message?: string } };
+      if (parsed.error?.message) return parsed.error.message;
+    } catch {
+      /* not JSON; fall through */
+    }
+    return responseBody.slice(0, 200);
+  }
+  const cause = e["cause"];
+  if (cause && typeof cause === "object") {
+    const cm = (cause as Record<string, unknown>)["message"];
+    if (typeof cm === "string") return cm;
+  }
+  return undefined;
 }
 
 function extractStatus(err: unknown): number | undefined {

@@ -38,10 +38,11 @@ export type FinishReason = "stop" | "length" | "tool" | "error";
  * reducer.
  */
 export type ByokError =
-  | { kind: "invalid-key"; provider: Provider; status: 401 | 403 }
-  | { kind: "rate-limited"; provider: Provider; retryAfterMs?: number }
+  | { kind: "invalid-key"; provider: Provider; status: 401 | 403; message?: string }
+  | { kind: "rate-limited"; provider: Provider; retryAfterMs?: number; message?: string }
   | {
       kind: "network-disconnect";
+      provider: Provider;
       cause: "fetch-aborted" | "fetch-error";
       underlying?: string;
     }
@@ -50,7 +51,26 @@ export type ByokError =
       reason: "user-stopped" | "token-cap" | "mid-stream-error";
       partialOutput: string;
     }
-  | { kind: "no-result-found"; finishReason: string };
+  | { kind: "no-result-found"; finishReason: string }
+  | {
+      /**
+       * The provider's API doesn't allow direct calls from a browser
+       * (CORS blocked). OpenAI is the canonical case: their /v1/models
+       * endpoint has CORS but POST /v1/chat/completions does not.
+       * The fix for the user is to use OpenRouter, which proxies the
+       * same providers with browser-friendly CORS.
+       */
+      kind: "provider-not-browser-supported";
+      provider: Provider;
+      suggestedAlternative: "openrouter";
+    }
+  | {
+      /** Catch-all when the provider returns a status we don't have a specific kind for. */
+      kind: "other";
+      provider: Provider;
+      status?: number;
+      message: string;
+    };
 
 /** Status of the BYOK request lifecycle. The 9 states from the eng review. */
 export type Status =

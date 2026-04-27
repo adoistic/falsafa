@@ -14,7 +14,7 @@
 import { useEffect, useReducer, useState } from "preact/hooks";
 import type { JSX } from "preact";
 import { initialState, reducer, canSubmit, PROVIDERS } from "./state";
-import type { Provider, BYOKAction } from "./types";
+import type { Provider, BYOKAction, BYOKState } from "./types";
 import {
   loadKey,
   saveKey,
@@ -52,15 +52,23 @@ const FALLBACK_CHIPS = [
 
 export default function ByokDemo({ chips = FALLBACK_CHIPS }: Props): JSX.Element {
   const [state, dispatch] = useReducer(reducer, undefined, () => {
-    const storedProvider = (loadProvider() as Provider) ?? "openai";
     const storedKey = loadKey();
+    const storedProvider = loadProvider() as Provider | null;
     const storedModel = loadModel();
-    return initialState({
-      apiKey: storedKey ?? "",
-      provider: storedProvider,
-      modelId: storedModel ?? DEFAULT_MODEL_BY_PROVIDER[storedProvider],
-      rememberKey: !!storedKey,
-    });
+    // Build the seed: anything stored wins, otherwise fall through to the
+    // defaults baked into initialState (currently OpenRouter + Claude
+    // Sonnet 4.5, since OpenRouter is the only provider that supports
+    // browser-direct chat completions for everyone).
+    const seed: Partial<BYOKState> = {};
+    if (storedKey) seed.apiKey = storedKey;
+    if (storedKey) seed.rememberKey = true;
+    if (storedProvider) {
+      seed.provider = storedProvider;
+      seed.modelId = storedModel ?? DEFAULT_MODEL_BY_PROVIDER[storedProvider];
+    } else if (storedModel) {
+      seed.modelId = storedModel;
+    }
+    return initialState(seed);
   });
   const [hasStored, setHasStored] = useState(() => !!loadKey());
 
@@ -87,6 +95,7 @@ export default function ByokDemo({ chips = FALLBACK_CHIPS }: Props): JSX.Element
     const ac = new AbortController();
     dispatch({ type: "SUBMIT", abortController: ac });
     void runStream(state.provider, {
+      provider: state.provider,
       apiKey: state.apiKey,
       modelId: state.modelId,
       question: state.question,
@@ -176,6 +185,7 @@ export default function ByokDemo({ chips = FALLBACK_CHIPS }: Props): JSX.Element
 async function runStream(
   provider: Provider,
   args: {
+    provider: Provider;
     apiKey: string;
     modelId: string;
     question: string;
@@ -192,6 +202,7 @@ async function runStream(
 
     let firstChunkSeen = false;
     for await (const evt of stream({
+      provider: args.provider,
       apiKey: args.apiKey,
       modelId: args.modelId,
       question: args.question,
@@ -209,6 +220,7 @@ async function runStream(
       type: "ERROR",
       error: {
         kind: "network-disconnect",
+        provider: args.provider,
         cause: "fetch-error",
         underlying: err instanceof Error ? err.message : String(err),
       },

@@ -36,15 +36,21 @@ import type {
   ToolCall,
 } from "./types";
 
-/** Initial state. Caller can override `apiKey` and `modelId` from localStorage. */
+/** Initial state. Caller can override `apiKey` and `modelId` from localStorage.
+ *
+ * Default provider is OpenRouter — it's the only provider that supports
+ * full browser-direct chat completions and gives access to every major
+ * model (GPT, Claude, Gemini, Llama, ...) under one key. OpenAI direct
+ * is in the picker but pre-flight rejects with a clear message because
+ * their API blocks browser CORS for chat completions. */
 export function initialState(seed?: Partial<BYOKState>): BYOKState {
   return {
     status: "setup",
     apiKey: "",
     rememberKey: true,
     question: "",
-    provider: "openai",
-    modelId: "gpt-5.4-mini",
+    provider: "openrouter",
+    modelId: "anthropic/claude-sonnet-4.5",
     output: "",
     toolCalls: [],
     error: null,
@@ -66,6 +72,15 @@ function statusForError(error: ByokError): BYOKState["status"] {
       return "partial-tool-use-abort";
     case "no-result-found":
       return "no-result-found";
+    case "provider-not-browser-supported":
+      // CORS-blocked provider: same recovery affordance as invalid-key
+      // (user has to switch provider). Reuse the invalid-key terminal status.
+      return "invalid-key";
+    case "other":
+      // Unmapped HTTP errors (400, 404, 500, etc.) — no specific terminal
+      // status, so route through network-disconnect for the recovery flow
+      // (Start over button).
+      return "network-disconnect";
   }
 }
 

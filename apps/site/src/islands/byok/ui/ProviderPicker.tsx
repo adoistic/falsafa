@@ -17,10 +17,10 @@ interface Option {
 }
 
 const OPTIONS: Option[] = [
-  { value: "openai", label: "OpenAI", hint: "GPT-5.x, sk-... key" },
-  { value: "openrouter", label: "OpenRouter", hint: "Any model, sk-or-... key" },
-  { value: "anthropic", label: "Anthropic", hint: "Claude, sk-ant-... key" },
-  { value: "google", label: "Google", hint: "Gemini, AI... key" },
+  { value: "openrouter", label: "OpenRouter", hint: "Any model · sk-or-... key" },
+  { value: "anthropic", label: "Anthropic", hint: "Claude · sk-ant-... key" },
+  { value: "google", label: "Google", hint: "Gemini · AI... key" },
+  { value: "openai", label: "OpenAI", hint: "browser blocked — use OpenRouter" },
 ];
 
 interface Props {

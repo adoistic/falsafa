@@ -44,31 +44,54 @@ interface Description {
   severity: "warn" | "block";
 }
 
+function humanizeProvider(p: string): string {
+  switch (p) {
+    case "openai":
+      return "OpenAI";
+    case "openrouter":
+      return "OpenRouter";
+    case "anthropic":
+      return "Anthropic";
+    case "google":
+      return "Google";
+    default:
+      return p;
+  }
+}
+
 function describe(error: ByokError): Description {
   switch (error.kind) {
-    case "invalid-key":
+    case "invalid-key": {
+      const p = humanizeProvider(error.provider);
+      const detail = error.message ? ` ${p} said: "${error.message}".` : "";
       return {
         title: "Your API key didn't work.",
-        message: `Provider: ${error.provider}. Status ${error.status}. Check the key, or switch providers.`,
+        message: `Status ${error.status} from ${p}.${detail} Check the key, or switch providers.`,
         primaryLabel: "Edit and retry",
         primaryAction: "retry",
         severity: "block",
       };
-    case "rate-limited":
+    }
+    case "rate-limited": {
+      const p = humanizeProvider(error.provider);
+      const wait = error.retryAfterMs
+        ? `Try again in about ${Math.ceil(error.retryAfterMs / 1000)}s.`
+        : "Wait a moment and try again.";
+      const detail = error.message ? ` ${p} said: "${error.message}".` : "";
       return {
         title: "Rate limited.",
-        message: error.retryAfterMs
-          ? `Provider: ${error.provider}. Try again in about ${Math.ceil(error.retryAfterMs / 1000)}s.`
-          : `Provider: ${error.provider}. Wait a moment and try again.`,
+        message: `${p} is throttling you.${detail} ${wait}`,
         primaryLabel: "Retry",
         primaryAction: "retry",
         severity: "warn",
       };
+    }
     case "network-disconnect":
       return {
         title: "Lost connection.",
-        message:
-          "The stream stopped before finishing. Resume isn't available — start over with the same question if you want.",
+        message: error.underlying
+          ? `The stream stopped: "${error.underlying}". Resume isn't available — start over with the same question if you want.`
+          : "The stream stopped before finishing. Resume isn't available — start over with the same question if you want.",
         primaryLabel: "Start over",
         primaryAction: "retry",
         severity: "warn",
@@ -99,5 +122,25 @@ function describe(error: ByokError): Description {
         primaryAction: "new-question",
         severity: "warn",
       };
+    case "provider-not-browser-supported":
+      return {
+        title: `${humanizeProvider(error.provider)} doesn't allow direct browser calls.`,
+        message:
+          "Their API blocks CORS for chat completions. Switch to OpenRouter — your sk-or-... key works for every OpenAI model plus Claude, Gemini, Llama, and 300+ more.",
+        primaryLabel: "Edit and retry",
+        primaryAction: "retry",
+        severity: "block",
+      };
+    case "other": {
+      const p = humanizeProvider(error.provider);
+      const status = error.status ? ` (HTTP ${error.status})` : "";
+      return {
+        title: `${p} error${status}.`,
+        message: error.message,
+        primaryLabel: "Edit and retry",
+        primaryAction: "retry",
+        severity: "warn",
+      };
+    }
   }
 }
