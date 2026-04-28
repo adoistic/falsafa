@@ -86,6 +86,13 @@ interface OutResult {
   tool_calls: ToolCall[];
   citations: Citation[];
   duration_ms: number;
+  /**
+   * Build-time mechanical scoring: does the answer mention each
+   * expected_work slug or its title? Lets the explorer show honest
+   * pass/fail rates before the Sonnet judge layer runs. The judge
+   * (when present) overrides this.
+   */
+  mechanical_pass?: boolean;
   judge?: {
     factual_correct: boolean;
     citation_backed: boolean;
@@ -94,6 +101,25 @@ interface OutResult {
     reasoning: string;
     judge_model: string;
   };
+}
+
+function computeMechanicalPass(answer: string, expectedWorks: string[]): boolean {
+  if (expectedWorks.length === 0) return true; // no expectation = trivially passes
+  const lower = answer.toLowerCase();
+  // Pass if every expected work-slug (or its last token, e.g. "manusmrti" from
+  // "unknown-manusmrti-347b76") appears in the answer text. Slug match is
+  // strict; token match catches answers that name the work in human prose.
+  for (const slug of expectedWorks) {
+    const slugLower = slug.toLowerCase();
+    if (lower.includes(slugLower)) continue;
+    // Try a meaningful token from the slug — drop the leading "unknown-" if
+    // present, drop the trailing 6-char hash, take the longest middle token.
+    const tokens = slug.replace(/^unknown-/, "").split("-").filter((t) => t.length > 3 && !/^[0-9a-f]{6}$/.test(t));
+    const longest = tokens.sort((a, b) => b.length - a.length)[0];
+    if (longest && lower.includes(longest.toLowerCase())) continue;
+    return false;
+  }
+  return true;
 }
 
 const REPO_ROOT = resolve(import.meta.dir, "..");
@@ -232,9 +258,30 @@ function resolveRuns(includes: string[]): ResolvedRun[] {
   if (!existsSync(RUNS_ROOT)) {
     throw new Error(`No runs directory at ${RUNS_ROOT}`);
   }
-  const allDirs = readdirSync(RUNS_ROOT).filter((d) =>
-    statSync(join(RUNS_ROOT, d)).isDirectory(),
-  );
+  // Always exclude quarantined / pre-paper-grade runs:
+  //   _INVALIDATED-*    — pre-anti-cheat-patch results, not blind, must not ship
+  //   *-NOT-BLIND       — known protocol violations
+  //   1k-codex-smoke*   — pre-patch smoke tests, superseded
+  //   multi-model-*     — pre-patch 4-case named smoke (not 1000-question pool)
+  //   1k-rerun-*        — single-case rerun smokes (not statistically meaningful)
+  //   haiku-*           — pre-patch small-N runs
+  // These are real directories on disk for audit trail, but they're not the
+  // results we want readers to browse.
+  const isQuarantined = (d: string) =>
+    d.startsWith("_INVALIDATED") ||
+    d.includes("NOT-BLIND") ||
+    d.startsWith("1k-codex-smoke") ||
+    d.startsWith("multi-model-") ||
+    d.startsWith("1k-rerun-") ||
+    d.startsWith("haiku-");
+  const allDirs = readdirSync(RUNS_ROOT).filter((d) => {
+    if (isQuarantined(d)) return false;
+    try {
+      return statSync(join(RUNS_ROOT, d)).isDirectory();
+    } catch {
+      return false;
+    }
+  });
   const matchingDirs =
     includes.length === 0
       ? allDirs
@@ -295,6 +342,26 @@ function matchGlob(name: string, pattern: string): boolean {
 function loadResults(run: ResolvedRun): Map<string, OutResult> {
   const map = new Map<string, OutResult>();
   if (!existsSync(run.resultsDir)) return map;
+
+  // Load per-case mechanical pass from `_score-mechanical.json` if present.
+  // Look in both the run-root and the model subdir — orchestrator runs put it
+  // at the root, older runs at the model dir.
+  const scoreCandidates = [
+    join(dirname(run.resultsDir), "_score-mechanical.json"),
+    join(run.resultsDir, "_score-mechanical.json"),
+  ];
+  const passById = new Map<string, boolean>();
+  for (const sp of scoreCandidates) {
+    const score = loadJson<{ per_question?: Array<{ id?: string; pass?: boolean }> }>(sp);
+    if (!score?.per_question) continue;
+    for (const pq of score.per_question) {
+      if (typeof pq?.id === "string" && typeof pq?.pass === "boolean") {
+        passById.set(pq.id, pq.pass);
+      }
+    }
+    if (passById.size > 0) break;
+  }
+
   for (const file of readdirSync(run.resultsDir)) {
     if (!file.endsWith(".json")) continue;
     if (file.startsWith("_")) continue;
@@ -307,6 +374,8 @@ function loadResults(run: ResolvedRun): Map<string, OutResult> {
       citations: Array.isArray(raw.citations) ? raw.citations : [],
       duration_ms: typeof raw.duration_ms === "number" ? raw.duration_ms : 0,
     };
+    // Prefer the score file's per-case pass (matches /numbers headline).
+    if (passById.has(id)) out.mechanical_pass = passById.get(id);
     if (run.judgeDir) {
       const judgePath = join(run.judgeDir, file);
       const j = loadJson<RawJudge>(judgePath);
@@ -364,6 +433,12 @@ function main() {
         };
         c = { ...seed, results: {} };
         cases.set(id, c);
+      }
+      // Stamp mechanical_pass from the case's expected_works. This is the
+      // build-time fallback so the explorer renders honest pass rates before
+      // the Sonnet judge layer fills in the structured verdicts.
+      if (result.mechanical_pass === undefined) {
+        result.mechanical_pass = computeMechanicalPass(result.answer, c.expected_works);
       }
       c.results[run.modelId] = result;
     }

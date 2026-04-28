@@ -49,6 +49,8 @@ export interface EvalCaseResult {
   tool_calls: EvalToolCall[];
   citations: EvalCitation[];
   duration_ms: number;
+  /** Build-time mechanical pass: did the agent's answer mention every expected_work? */
+  mechanical_pass?: boolean;
   judge?: EvalJudge;
 }
 
@@ -71,14 +73,23 @@ export interface EvalJson {
 }
 
 /**
- * Derived a "pass" verdict for a single (case, model) pair.
+ * Derived "pass" verdict for a single (case, model) pair.
  *
- * Mirrors the score-judge.ts threshold: factual_correct AND citation_backed
- * AND not hallucinated. When the judge is missing we return null rather
- * than guessing — the UI renders that as a neutral dash, not a fail.
+ * Precedence (most-specific first):
+ *   1. Sonnet judge verdict if present (factual_correct AND citation_backed AND not hallucinated).
+ *   2. Build-time mechanical pass — did the answer mention every expected_work?
+ *   3. null when neither signal is available, rendered as "—" in the UI.
+ *
+ * Mechanical-pass is the honest fallback while the judge layer is partial.
+ * /numbers and /thesis use the same per-run aggregate; this brings the
+ * per-case explorer in line with them.
  */
 export function passOf(result: EvalCaseResult | undefined): boolean | null {
-  if (!result || !result.judge) return null;
-  const j = result.judge;
-  return j.factual_correct && j.citation_backed && !j.hallucinated;
+  if (!result) return null;
+  if (result.judge) {
+    const j = result.judge;
+    return j.factual_correct && j.citation_backed && !j.hallucinated;
+  }
+  if (typeof result.mechanical_pass === "boolean") return result.mechanical_pass;
+  return null;
 }

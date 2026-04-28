@@ -85,28 +85,47 @@ const languageNames = [...new Set(manifest.works.map((w) => w.language))]
   .map((l) => (l === "old_english" ? "Old English" : l.charAt(0).toUpperCase() + l.slice(1)))
   .sort();
 
-// Try to read the latest paper-grade eval score so the EVAL section is live,
-// not stale-mocked. If the score file doesn't exist (pre-data state) the
-// section gracefully shows "forthcoming".
+// Aggregate eval scores live from any post-patch run dir. Skips quarantined
+// runs (`_INVALIDATED-*`, `*-NOT-BLIND`) and pre-anti-cheat smokes. Walks one
+// level deep too so per-model subdirs (`sonnet/`, `opus/`) compose. New
+// batches show up automatically — no allow-list to maintain.
 function readLatestEval(): { pass: number | null; total: number | null; rate: number | null; verseLabels: number | null; totalCitations: number | null } {
-  const candidates = [
-    "1k-final-patched-sonnet",
-    "1k-orchestrated-batch2",
-    "1k-orchestrated-200",
-  ];
-  // Aggregate across all paper-grade post-patch runs we can find.
+  const runsRoot = join(CORPUS, "..", "apps/mcp/eval/runs");
+  if (!existsSync(runsRoot)) {
+    return { pass: null, total: null, rate: null, verseLabels: null, totalCitations: null };
+  }
   let pass = 0, total = 0, citations = 0, verseLabels = 0, found = false;
-  for (const dir of candidates) {
-    const path = join(CORPUS, "..", "apps/mcp/eval/runs", dir, "_score-mechanical.json");
-    if (!existsSync(path)) continue;
+  function isExcluded(dir: string): boolean {
+    return dir.startsWith("_INVALIDATED") || dir.includes("NOT-BLIND") || dir.startsWith("1k-codex-smoke");
+  }
+  function ingest(scorePath: string) {
+    if (!existsSync(scorePath)) return;
     try {
-      const j = JSON.parse(readFileSync(path, "utf-8"));
-      pass += j.total_pass ?? 0;
-      total += j.total_judged ?? 0;
-      citations += j.total_citations ?? 0;
-      verseLabels += j.verse_label_id_count ?? 0;
+      const j = JSON.parse(readFileSync(scorePath, "utf-8"));
+      pass += Number(j.total_pass ?? 0);
+      total += Number(j.total_judged ?? 0);
+      citations += Number(j.total_citations ?? 0);
+      verseLabels += Number(j.verse_label_id_count ?? 0);
       found = true;
-    } catch { /* ignore */ }
+    } catch { /* skip */ }
+  }
+  for (const d of readdirSync(runsRoot)) {
+    if (isExcluded(d)) continue;
+    const runDir = join(runsRoot, d);
+    try {
+      if (!statSync(runDir).isDirectory()) continue;
+    } catch { continue; }
+    // Score at run root (orchestrator-1 layout).
+    ingest(join(runDir, "_score-mechanical.json"));
+    // Per-model subdirs (orchestrator layout).
+    try {
+      for (const sub of readdirSync(runDir)) {
+        const subPath = join(runDir, sub);
+        try {
+          if (statSync(subPath).isDirectory()) ingest(join(subPath, "_score-mechanical.json"));
+        } catch { /* skip */ }
+      }
+    } catch { /* skip */ }
   }
   if (!found || total === 0) return { pass: null, total: null, rate: null, verseLabels: null, totalCitations: null };
   return { pass, total, rate: pass / total, verseLabels, totalCitations: citations };
