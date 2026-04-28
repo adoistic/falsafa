@@ -1,0 +1,228 @@
+/**
+ * /numbers page styles. Editorial register matching /eval — same kicker /
+ * headline / lede / lede-meta pattern. Tables read like a paper appendix.
+ *
+ * Inherits design tokens from tokens.css.
+ */
+
+/* ── Page shell ──────────────────────────────────────────────────────── */
+
+.numbers-page {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: var(--s-12) var(--s-6) var(--s-24);
+}
+
+.numbers-header {
+  max-width: 64ch;
+  margin-bottom: var(--s-12);
+}
+
+.numbers-kicker {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+  margin: 0 0 var(--s-2);
+}
+
+.numbers-header h1 {
+  font-family: var(--font-display);
+  font-size: var(--fs-h1);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 var(--s-4);
+  line-height: 1.05;
+}
+
+.numbers-lede {
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--ink-muted);
+  font-size: var(--fs-h3);
+  line-height: 1.5;
+  margin: 0 0 var(--s-3);
+}
+
+.numbers-lede-meta {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  color: var(--ink-muted);
+  margin: 0;
+}
+
+.numbers-lede-meta code {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  background: rgba(0, 0, 0, 0.04);
+  padding: 1px 4px;
+  border-radius: 2px;
+}
+
+.numbers-lede-meta a,
+.numbers-section a {
+  color: var(--accent);
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 1px;
+}
+
+/* ── Sections ────────────────────────────────────────────────────────── */
+
+.numbers-section {
+  margin: 0 0 var(--s-12);
+}
+
+.numbers-section h2 {
+  font-family: var(--font-display);
+  font-size: var(--fs-h2);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin: 0 0 var(--s-5);
+  color: var(--ink);
+}
+
+.numbers-section p {
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.65;
+  color: var(--ink);
+  max-width: 64ch;
+  margin: 0 0 var(--s-3);
+}
+
+.numbers-section code {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  background: rgba(0, 0, 0, 0.04);
+  padding: 1px 4px;
+  border-radius: 2px;
+}
+
+.numbers-note {
+  font-style: italic;
+  color: var(--ink-muted);
+  font-size: 13px !important;
+  max-width: 64ch;
+}
+
+/* ── Top-line stat grid ──────────────────────────────────────────────── */
+
+.numbers-grid {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: var(--s-4) var(--s-6);
+  margin: 0 0 var(--s-5);
+  padding: 0;
+}
+
+.numbers-stat {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-1);
+  padding: var(--s-3) 0;
+  border-top: 1px solid var(--rule);
+}
+
+.numbers-stat dt {
+  font-family: var(--font-display);
+  font-size: 36px;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+  font-feature-settings: "tnum";
+}
+
+.numbers-stat dd {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  color: var(--ink-muted);
+  line-height: 1.4;
+  margin: 0;
+}
+
+.numbers-stat dd a {
+  color: var(--ink-muted);
+  border-bottom-color: var(--ink-muted);
+}
+
+.numbers-stat dd a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+/* ── Tables ──────────────────────────────────────────────────────────── */
+
+.numbers-table {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--font-body);
+  font-size: 14px;
+  margin: 0 0 var(--s-3);
+}
+
+.numbers-table thead th {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-muted);
+  text-align: left;
+  padding: var(--s-2) var(--s-3) var(--s-2) 0;
+  border-bottom: 2px solid var(--rule);
+}
+
+.numbers-table thead th.num,
+.numbers-table tbody td.num {
+  text-align: right;
+  font-feature-settings: "tnum";
+}
+
+.numbers-table tbody td {
+  padding: var(--s-3) var(--s-3) var(--s-3) 0;
+  border-bottom: 1px solid var(--rule);
+  color: var(--ink);
+  vertical-align: top;
+}
+
+.numbers-table tbody td a {
+  color: var(--ink);
+  border-bottom: 1px dotted var(--ink-muted);
+  padding-bottom: 0;
+}
+
+.numbers-table tbody td a:hover {
+  color: var(--accent);
+  border-bottom-color: var(--accent);
+}
+
+.numbers-table tbody tr:hover td {
+  background: rgba(0, 0, 0, 0.02);
+}
+
+/* ── Provenance ──────────────────────────────────────────────────────── */
+
+.numbers-section-provenance {
+  margin-top: var(--s-12);
+  padding-top: var(--s-8);
+  border-top: 1px solid var(--rule);
+}
+
+.numbers-section-provenance h2 {
+  font-size: var(--fs-h3);
+}
+
+/* ── Responsive ──────────────────────────────────────────────────────── */
+
+@media (max-width: 640px) {
+  .numbers-page { padding: var(--s-8) var(--s-4) var(--s-16); }
+  .numbers-header h1 { font-size: 36px; }
+  .numbers-lede { font-size: 18px; }
+  .numbers-stat dt { font-size: 28px; }
+  .numbers-table { font-size: 13px; }
+  .numbers-table thead th,
+  .numbers-table tbody td { padding-right: var(--s-2); }
+}
