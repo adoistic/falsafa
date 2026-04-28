@@ -1,14 +1,22 @@
 ---
 /**
- * /numbers — the audit trail for every figure that shows up in the
- * launch essay or the preprint. Static, builds at site-build time
- * from corpus/manifest.json plus a filesystem walk for paragraph
- * counts and word totals.
+ * /numbers — "Falsafa by the numbers" editorial spread.
  *
- * No JS island. Every row deep-links to the underlying record.
+ * Design: variant A approved at
+ * ~/.gstack/projects/falsafa/designs/perseus-launch-20260427/06-stats-page/.
+ * Magazine 'In Numbers' rubric — big terracotta display-serif numbers,
+ * sans-serif labels, small italic source-data deep-links, lots of white
+ * space. NYT 'In Numbers' / FT special-report register.
  *
- * Spec: launch plan deliverable #6 ("Falsafa by the numbers — every
- * claim in the writeup deep-links to its source row").
+ * Implementation: CSS-native editorial typography. (The approved spec
+ * mentioned chenglou/pretext as the framework, but eng review run-2 §1.1
+ * rejected pretext for the current launch surfaces because it's
+ * browser-only at runtime; CSS-native is the locked fallback.)
+ *
+ * Sections from the spec: CORPUS / ERAS / EVAL / BENCHMARK vs HYBRID RAG /
+ * BUILD. Honest where data isn't yet there: the BENCHMARK section shows
+ * structure with "forthcoming" placeholders since apps/baseline/ is not
+ * yet built.
  */
 import Base from "../../layouts/Base.astro";
 import { readFileSync, readdirSync, existsSync, statSync } from "node:fs";
@@ -16,26 +24,16 @@ import { join } from "node:path";
 import { CORPUS_ROOT } from "../../lib/corpus";
 import "../../styles/numbers.css";
 
-// CORPUS_ROOT resolves correctly post-bundling because lib/corpus.ts uses
-// import.meta.url from a stable source location. Re-deriving from this
-// page's own __dirname breaks once Astro chunks the module.
 const CORPUS = CORPUS_ROOT;
 
 interface ManifestWork {
   slug: string;
   title: string;
   author: string;
-  author_slug: string;
-  era: string;
-  era_slug: string;
-  genre: string;
-  genre_slug: string;
   language: string;
   language_slug: string;
   total_logical_chapters: number;
   total_variant_entries: number;
-  published_year: number | null;
-  difficulty: string | null;
 }
 interface Manifest {
   generated_at: string;
@@ -46,14 +44,12 @@ interface Manifest {
 
 const manifest: Manifest = JSON.parse(readFileSync(join(CORPUS, "manifest.json"), "utf-8"));
 
-// Filesystem walk: total paragraphs across all variant sidecars + total
-// words from chapter meta.json's variant.word_count summed.
-function walkChapters(): { totalParagraphs: number; totalWords: number; totalChapterFiles: number } {
+// Filesystem walk for paragraph + word totals.
+function walkChapters() {
   let totalParagraphs = 0;
   let totalWords = 0;
-  let totalChapterFiles = 0;
   const worksDir = join(CORPUS, "works");
-  if (!existsSync(worksDir)) return { totalParagraphs: 0, totalWords: 0, totalChapterFiles: 0 };
+  if (!existsSync(worksDir)) return { totalParagraphs, totalWords };
   for (const slug of readdirSync(worksDir)) {
     const chaptersDir = join(worksDir, slug, "chapters");
     if (!existsSync(chaptersDir) || !statSync(chaptersDir).isDirectory()) continue;
@@ -62,12 +58,9 @@ function walkChapters(): { totalParagraphs: number; totalWords: number; totalCha
       if (!statSync(chapterDir).isDirectory()) continue;
       const metaPath = join(chapterDir, "meta.json");
       if (existsSync(metaPath)) {
-        totalChapterFiles++;
         try {
           const meta = JSON.parse(readFileSync(metaPath, "utf-8"));
-          for (const v of meta.variants ?? []) {
-            totalWords += Number(v.word_count ?? 0);
-          }
+          for (const v of meta.variants ?? []) totalWords += Number(v.word_count ?? 0);
         } catch { /* ignore */ }
       }
       for (const f of readdirSync(chapterDir)) {
@@ -79,241 +72,249 @@ function walkChapters(): { totalParagraphs: number; totalWords: number; totalCha
       }
     }
   }
-  return { totalParagraphs, totalWords, totalChapterFiles };
+  return { totalParagraphs, totalWords };
 }
 
 const fsStats = walkChapters();
 const totalLogicalChapters = manifest.works.reduce((s, w) => s + w.total_logical_chapters, 0);
 const totalVariantEntries = manifest.works.reduce((s, w) => s + w.total_variant_entries, 0);
 
-function humaniseLang(slug: string): string {
-  if (slug === "old_english") return "Old English";
-  return slug.charAt(0).toUpperCase() + slug.slice(1);
+// Languages list for the ERAS section's caption (mirrors the variant A mockup
+// where the languages were enumerated under the "languages" stat).
+const languageNames = [...new Set(manifest.works.map((w) => w.language))]
+  .map((l) => (l === "old_english" ? "Old English" : l.charAt(0).toUpperCase() + l.slice(1)))
+  .sort();
+
+// Try to read the latest paper-grade eval score so the EVAL section is live,
+// not stale-mocked. If the score file doesn't exist (pre-data state) the
+// section gracefully shows "forthcoming".
+function readLatestEval(): { pass: number | null; total: number | null; rate: number | null; verseLabels: number | null; totalCitations: number | null } {
+  const candidates = [
+    "1k-final-patched-sonnet",
+    "1k-orchestrated-batch2",
+    "1k-orchestrated-200",
+  ];
+  // Aggregate across all paper-grade post-patch runs we can find.
+  let pass = 0, total = 0, citations = 0, verseLabels = 0, found = false;
+  for (const dir of candidates) {
+    const path = join(CORPUS, "..", "apps/mcp/eval/runs", dir, "_score-mechanical.json");
+    if (!existsSync(path)) continue;
+    try {
+      const j = JSON.parse(readFileSync(path, "utf-8"));
+      pass += j.total_pass ?? 0;
+      total += j.total_judged ?? 0;
+      citations += j.total_citations ?? 0;
+      verseLabels += j.verse_label_id_count ?? 0;
+      found = true;
+    } catch { /* ignore */ }
+  }
+  if (!found || total === 0) return { pass: null, total: null, rate: null, verseLabels: null, totalCitations: null };
+  return { pass, total, rate: pass / total, verseLabels, totalCitations: citations };
 }
 
-type LangRow = { language: string; languageSlug: string; works: number; chapters: number; variants: number };
-const byLanguage: LangRow[] = (() => {
-  const buckets = new Map<string, LangRow>();
-  for (const w of manifest.works) {
-    const key = w.language_slug;
-    const row = buckets.get(key) ?? {
-      language: humaniseLang(w.language),
-      languageSlug: key,
-      works: 0,
-      chapters: 0,
-      variants: 0,
-    };
-    row.works += 1;
-    row.chapters += w.total_logical_chapters;
-    row.variants += w.total_variant_entries;
-    buckets.set(key, row);
-  }
-  return [...buckets.values()].sort((a, b) => b.works - a.works);
-})();
-
-type EraRow = { era: string; eraSlug: string; works: number; chapters: number };
-const byEra: EraRow[] = (() => {
-  const buckets = new Map<string, EraRow>();
-  for (const w of manifest.works) {
-    const row = buckets.get(w.era_slug) ?? { era: w.era, eraSlug: w.era_slug, works: 0, chapters: 0 };
-    row.works += 1;
-    row.chapters += w.total_logical_chapters;
-    buckets.set(w.era_slug, row);
-  }
-  return [...buckets.values()].sort((a, b) => b.works - a.works);
-})();
-
-const largestWorks = [...manifest.works]
-  .sort((a, b) => b.total_logical_chapters - a.total_logical_chapters)
-  .slice(0, 10);
+const evalStats = readLatestEval();
 
 function formatDate(iso: string): string {
   try {
     const d = new Date(iso);
-    return d.toLocaleDateString("en-GB", { day: "numeric", month: "short", year: "numeric" });
-  } catch {
-    return iso;
-  }
+    return d.toLocaleDateString("en-GB", { day: "numeric", month: "long", year: "numeric" });
+  } catch { return iso; }
 }
-
 const fmt = (n: number) => n.toLocaleString("en-US");
+const wordsHuman = `${(fsStats.totalWords / 1_000_000).toFixed(2)}M`;
 ---
 
 <Base
-  title="Numbers"
-  description="The audit trail for every figure in the Falsafa launch essay and preprint. 38 works, 836 logical chapters, 76,303 paragraphs — every count linked to its source."
+  title="Falsafa by the numbers"
+  description="Every claim in the Falsafa launch deep-links to its source. Audit anything."
   ogImage="/og/numbers.png"
 >
-  <article class="numbers-page">
-    <header class="numbers-header">
-      <p class="numbers-kicker">By the numbers</p>
-      <h1>Every figure with a source.</h1>
-      <p class="numbers-lede">
-        What's actually in the corpus. Every count below is computed at
-        site-build time from <code>corpus/manifest.json</code> and a
-        filesystem walk over the per-chapter sidecars. Each row deep-links
-        to the work or filter page it describes. The launch essay and the
-        preprint cite this page; if a number disagrees with one printed
-        elsewhere, this is the canonical source.
-      </p>
-      <p class="numbers-lede-meta">
-        Manifest generated <strong>{formatDate(manifest.generated_at)}</strong>
-        {" "}· source <code>{manifest.source}</code>
-        {" "}·{" "}
-        <a href="https://github.com/adoistic/falsafa/blob/main/corpus/manifest.json">raw JSON</a>
+  <article class="in-numbers">
+    <header class="in-numbers-header">
+      <h1>
+        <span class="apos" aria-hidden="true">&lsquo;</span>Falsafa by the numbers
+      </h1>
+      <p class="in-numbers-lede">
+        Every claim in the launch writeup deep-links to its source. Audit anything.
       </p>
     </header>
 
-    <section class="numbers-section">
-      <h2>Top line</h2>
-      <dl class="numbers-grid">
-        <div class="numbers-stat">
-          <dt>{fmt(manifest.counts.works)}</dt>
-          <dd><a href="/works/">works</a></dd>
-        </div>
-        <div class="numbers-stat">
-          <dt>{fmt(manifest.counts.authors)}</dt>
-          <dd>authors</dd>
-        </div>
-        <div class="numbers-stat">
-          <dt>{fmt(manifest.counts.languages)}</dt>
-          <dd>source languages</dd>
-        </div>
-        <div class="numbers-stat">
-          <dt>{fmt(manifest.counts.eras)}</dt>
-          <dd>eras</dd>
-        </div>
-        <div class="numbers-stat">
-          <dt>{fmt(manifest.counts.genres)}</dt>
-          <dd>genres</dd>
-        </div>
-        <div class="numbers-stat">
-          <dt>{fmt(totalLogicalChapters)}</dt>
-          <dd>logical chapters</dd>
-        </div>
-        <div class="numbers-stat">
-          <dt>{fmt(totalVariantEntries)}</dt>
-          <dd>variant entries (translation, transliteration, original)</dd>
-        </div>
-        <div class="numbers-stat">
-          <dt>{fmt(fsStats.totalParagraphs)}</dt>
-          <dd>cited paragraphs (with stable hash IDs)</dd>
-        </div>
-        <div class="numbers-stat">
-          <dt>~{fmt(Math.round(fsStats.totalWords / 1000))}K</dt>
-          <dd>words across all variants ({fmt(fsStats.totalWords)} exactly)</dd>
-        </div>
-      </dl>
-      <p class="numbers-note">
-        "Logical chapter" counts canonical chapters — Bang-e-Dara has 44
-        logical ghazals in Part 1, even though each appears as three
-        variant entries (English, transliteration, Urdu). "Variant entries"
-        counts every individual file that ships in the build.
-      </p>
-    </section>
+    <div class="in-numbers-grid">
 
-    <section class="numbers-section">
-      <h2>By source language</h2>
-      <table class="numbers-table">
-        <thead>
-          <tr>
-            <th>Language</th>
-            <th class="num">Works</th>
-            <th class="num">Logical chapters</th>
-            <th class="num">Variant entries</th>
-          </tr>
-        </thead>
-        <tbody>
-          {byLanguage.map((row) => (
-            <tr>
-              <td>
-                <a href={`/works/?language=${row.languageSlug}`}>{row.language}</a>
-              </td>
-              <td class="num">{fmt(row.works)}</td>
-              <td class="num">{fmt(row.chapters)}</td>
-              <td class="num">{fmt(row.variants)}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    </section>
+      {/* ── CORPUS ─────────────────────────────────────────────── */}
+      <section class="in-numbers-section in-numbers-section-corpus">
+        <h2>Corpus</h2>
+        <div class="in-numbers-row">
+          <div class="stat">
+            <div class="stat-num">{fmt(manifest.counts.works)}</div>
+            <p class="stat-label">total works</p>
+            <p class="stat-source">
+              <a href="/works/">deep-links to the catalogue</a>
+            </p>
+          </div>
+          <div class="stat">
+            <div class="stat-num">{fmt(fsStats.totalWords)}</div>
+            <p class="stat-label">total words across all variants</p>
+            <p class="stat-source">
+              <a href="https://github.com/adoistic/falsafa/blob/main/corpus/manifest.json">view raw manifest</a>
+            </p>
+          </div>
+        </div>
+      </section>
 
-    <section class="numbers-section">
-      <h2>By era</h2>
-      <table class="numbers-table">
-        <thead>
-          <tr>
-            <th>Era</th>
-            <th class="num">Works</th>
-            <th class="num">Logical chapters</th>
-          </tr>
-        </thead>
-        <tbody>
-          {byEra.map((row) => (
-            <tr>
-              <td>
-                <a href={`/eras/${row.eraSlug}/`}>{row.era}</a>
-              </td>
-              <td class="num">{fmt(row.works)}</td>
-              <td class="num">{fmt(row.chapters)}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
-    </section>
+      {/* ── ERAS ───────────────────────────────────────────────── */}
+      <section class="in-numbers-section in-numbers-section-eras">
+        <h2>Eras &amp; languages</h2>
+        <div class="in-numbers-row">
+          <div class="stat">
+            <div class="stat-num">{fmt(manifest.counts.languages)}</div>
+            <p class="stat-label stat-label-uppercase">{languageNames.join(", ")}</p>
+            <p class="stat-source">
+              <a href="/works/">view languages</a>
+            </p>
+          </div>
+          <div class="stat">
+            <div class="stat-num">{fmt(manifest.counts.eras)}</div>
+            <p class="stat-label">eras spanned</p>
+            <p class="stat-source">
+              <a href="/eras/">view era index</a>
+            </p>
+          </div>
+        </div>
+      </section>
 
-    <section class="numbers-section">
-      <h2>Largest works (by chapter count)</h2>
-      <table class="numbers-table">
-        <thead>
-          <tr>
-            <th>Work</th>
-            <th>Author</th>
-            <th class="num">Chapters</th>
-            <th class="num">Variants</th>
-          </tr>
-        </thead>
-        <tbody>
-          {largestWorks.map((w) => (
-            <tr>
-              <td>
-                <a href={`/works/${w.slug}/`}>{w.title}</a>
-              </td>
-              <td>
-                <a href={`/authors/${w.author_slug}/`}>{w.author}</a>
-              </td>
-              <td class="num">{fmt(w.total_logical_chapters)}</td>
-              <td class="num">{fmt(w.total_variant_entries)}</td>
-            </tr>
-          ))}
-        </tbody>
-      </table>
-      <p class="numbers-note">
-        See <a href="/works/">all {manifest.counts.works} works</a> in the
-        catalogue.
-      </p>
-    </section>
+      {/* ── EVAL ───────────────────────────────────────────────── */}
+      <section class="in-numbers-section in-numbers-section-eval">
+        <h2>Eval</h2>
+        <div class="in-numbers-row">
+          <div class="stat">
+            <div class="stat-num">
+              {evalStats.total !== null ? fmt(evalStats.total) : "—"}
+            </div>
+            <p class="stat-label">cases run, paper-grade post-patch</p>
+            <p class="stat-source">
+              <a href="/eval/">view raw eval JSON</a>
+            </p>
+          </div>
+          <div class="stat">
+            <div class="stat-num">
+              {evalStats.rate !== null ? `${Math.round(evalStats.rate * 100)}%` : "—"}
+            </div>
+            <p class="stat-label">mechanical pass rate</p>
+            <p class="stat-source">
+              <a href="/eval/">view raw eval JSON</a>
+            </p>
+          </div>
+        </div>
+        <div class="in-numbers-row">
+          <div class="stat">
+            <div class="stat-num">
+              {evalStats.totalCitations !== null ? fmt(evalStats.totalCitations) : "—"}
+            </div>
+            <p class="stat-label">paragraph citations resolved against the corpus</p>
+            <p class="stat-source">
+              <a href="/eval/">audit each one</a>
+            </p>
+          </div>
+          <div class="stat">
+            <div class="stat-num">
+              {evalStats.verseLabels !== null ? fmt(evalStats.verseLabels) : "—"}
+            </div>
+            <p class="stat-label">verse-marker hallucinations (target: 0)</p>
+            <p class="stat-source">
+              <a href="https://github.com/adoistic/falsafa/blob/main/docs/designs/eval-protocol.md">why this matters</a>
+            </p>
+          </div>
+        </div>
+        <p class="in-numbers-section-note">
+          Sample size is small (post-anti-cheat-patch). Full 1,000-question codex
+          run plus Sonnet judge land next.
+        </p>
+      </section>
 
-    <section class="numbers-section numbers-section-provenance">
-      <h2>Provenance</h2>
+      {/* ── BENCHMARK vs HYBRID RAG ────────────────────────────── */}
+      <section class="in-numbers-section in-numbers-section-benchmark">
+        <h2>Benchmark <span class="vs">vs</span> hybrid RAG</h2>
+        <div class="in-numbers-row in-numbers-row-benchmark">
+          <div class="stat-pair">
+            <p class="stat-pair-label">Citation-validity rate</p>
+            <div class="stat-pair-row">
+              <span class="stat-pair-label-cell">Falsafa</span>
+              <span class="stat-num stat-num-pair">forthcoming</span>
+            </div>
+            <div class="stat-pair-row">
+              <span class="stat-pair-label-cell">Hybrid</span>
+              <span class="stat-num stat-num-pair">forthcoming</span>
+            </div>
+          </div>
+          <div class="stat-pair">
+            <p class="stat-pair-label">p95 latency</p>
+            <div class="stat-pair-row">
+              <span class="stat-pair-label-cell">Falsafa</span>
+              <span class="stat-num stat-num-pair">forthcoming</span>
+            </div>
+            <div class="stat-pair-row">
+              <span class="stat-pair-label-cell">Hybrid</span>
+              <span class="stat-num stat-num-pair">forthcoming</span>
+            </div>
+          </div>
+          <div class="stat-pair">
+            <p class="stat-pair-label">One-time embedding cost</p>
+            <div class="stat-pair-row">
+              <span class="stat-pair-label-cell">Falsafa</span>
+              <span class="stat-num stat-num-pair">$0</span>
+            </div>
+            <div class="stat-pair-row">
+              <span class="stat-pair-label-cell">Hybrid</span>
+              <span class="stat-num stat-num-pair">forthcoming</span>
+            </div>
+          </div>
+        </div>
+        <p class="in-numbers-section-note">
+          Hybrid RAG baseline (<code>apps/baseline/</code>) is in development.
+          Falsafa's approach reads markdown directly through MCP tools, so
+          there are no embeddings to compute. Hybrid figures land when the
+          baseline runs against the same 1,000-question pool.
+        </p>
+      </section>
+
+      {/* ── BUILD ──────────────────────────────────────────────── */}
+      <section class="in-numbers-section in-numbers-section-build">
+        <h2>Build</h2>
+        <div class="in-numbers-row in-numbers-row-build">
+          <div class="stat">
+            <div class="stat-num">{fmt(totalLogicalChapters)}</div>
+            <p class="stat-label">logical chapters</p>
+            <p class="stat-source">
+              <a href="https://github.com/adoistic/falsafa/blob/main/corpus/manifest.json">view manifest</a>
+            </p>
+          </div>
+          <div class="stat">
+            <div class="stat-num">{fmt(totalVariantEntries)}</div>
+            <p class="stat-label">variant entries (translation, transliteration, original)</p>
+            <p class="stat-source">
+              <a href="https://github.com/adoistic/falsafa/blob/main/corpus/manifest.json">view manifest</a>
+            </p>
+          </div>
+          <div class="stat">
+            <div class="stat-num">{fmt(fsStats.totalParagraphs)}</div>
+            <p class="stat-label">cited paragraphs with stable hash IDs</p>
+            <p class="stat-source">
+              <a href="https://github.com/adoistic/falsafa/tree/main/corpus/works">view corpus tree</a>
+            </p>
+          </div>
+        </div>
+      </section>
+
+    </div>
+
+    <footer class="in-numbers-footer">
       <p>
-        Every work in the corpus carries author attribution, era, source
-        language, and where applicable translator or transliterator credit
-        in its frontmatter. Translations and transliterations are by
-        Thothica unless the frontmatter names a different source. The
-        canonical record per work lives at
-        <code>corpus/works/&lt;slug&gt;/index.md</code>; per chapter it's
-        <code>corpus/works/&lt;slug&gt;/chapters/&lt;n&gt;/meta.json</code>.
+        Manifest generated <strong>{formatDate(manifest.generated_at)}</strong>
+        {" "}· source <code>{manifest.source}</code>
+        {" "}·{" "}
+        <a href="https://github.com/adoistic/falsafa">repo</a>
       </p>
-      <p>
-        The 1,000-question adversarial eval suite at
-        <a href="/eval/">/eval</a> tests whether the corpus is navigable
-        through the Falsafa MCP without prior knowledge. Methodology and
-        reproduction recipe at
-        <a href="https://github.com/adoistic/falsafa/blob/main/docs/designs/eval-protocol.md">
-          docs/designs/eval-protocol.md
-        </a>.
-      </p>
-    </section>
+    </footer>
   </article>
 </Base>

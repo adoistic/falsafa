@@ -1,228 +1,322 @@
 /**
- * /numbers page styles. Editorial register matching /eval — same kicker /
- * headline / lede / lede-meta pattern. Tables read like a paper appendix.
+ * /numbers — "Falsafa by the numbers" editorial spread.
  *
- * Inherits design tokens from tokens.css.
+ * Variant A approved 2026-04-27. Magazine 'In Numbers' rubric: big
+ * terracotta display-serif numbers, sans-serif uppercase section
+ * labels, italic muted source-links underneath. NYT 'In Numbers' /
+ * FT special-report register. Lots of whitespace.
+ *
+ * Tokens (from tokens.css):
+ *   --paper #faf6ee  page bg
+ *   --ink #1a1614    text
+ *   --ink-muted      italic source links + section subtitles
+ *   --accent #8a3a2e terracotta — the big numbers
+ *   --rule #e8e0d2   section dividers
  */
 
-/* ── Page shell ──────────────────────────────────────────────────────── */
+/* ── Page shell ─────────────────────────────────────────────────── */
 
-.numbers-page {
-  max-width: 72rem;
+.in-numbers {
+  max-width: 78rem;
   margin: 0 auto;
-  padding: var(--s-12) var(--s-6) var(--s-24);
+  padding: var(--s-12) var(--s-8) var(--s-24);
+  background: var(--paper);
 }
 
-.numbers-header {
-  max-width: 64ch;
-  margin-bottom: var(--s-12);
+@media (min-width: 1024px) {
+  .in-numbers {
+    padding: var(--s-16) var(--s-10) var(--s-24);
+  }
 }
 
-.numbers-kicker {
-  font-family: var(--font-sans);
-  font-size: 12px;
-  font-weight: 600;
-  text-transform: uppercase;
-  letter-spacing: 0.12em;
-  color: var(--accent);
-  margin: 0 0 var(--s-2);
+/* ── Masthead ───────────────────────────────────────────────────── */
+
+.in-numbers-header {
+  text-align: center;
+  margin-bottom: var(--s-16);
+  padding-bottom: var(--s-8);
 }
 
-.numbers-header h1 {
+.in-numbers-header h1 {
   font-family: var(--font-display);
-  font-size: var(--fs-h1);
+  font-size: clamp(40px, 7vw, 88px);
   font-weight: 700;
   letter-spacing: -0.02em;
-  margin: 0 0 var(--s-4);
-  line-height: 1.05;
+  line-height: 1.0;
+  margin: 0 0 var(--s-3);
+  color: var(--ink);
 }
 
-.numbers-lede {
+.in-numbers-header h1 .apos {
+  font-style: italic;
+  color: var(--ink-muted);
+  margin-right: 0.05em;
+}
+
+.in-numbers-lede {
   font-family: var(--font-display);
   font-style: italic;
   color: var(--ink-muted);
-  font-size: var(--fs-h3);
+  font-size: clamp(15px, 1.4vw, 19px);
   line-height: 1.5;
-  margin: 0 0 var(--s-3);
-}
-
-.numbers-lede-meta {
-  font-family: var(--font-sans);
-  font-size: 14px;
-  color: var(--ink-muted);
   margin: 0;
+  letter-spacing: 0.005em;
 }
 
-.numbers-lede-meta code {
-  font-family: var(--font-mono);
-  font-size: 12px;
-  background: rgba(0, 0, 0, 0.04);
-  padding: 1px 4px;
-  border-radius: 2px;
-}
+/* ── Two-column grid ────────────────────────────────────────────── */
 
-.numbers-lede-meta a,
-.numbers-section a {
-  color: var(--accent);
-  border-bottom: 1px solid currentColor;
-  padding-bottom: 1px;
-}
-
-/* ── Sections ────────────────────────────────────────────────────────── */
-
-.numbers-section {
-  margin: 0 0 var(--s-12);
-}
-
-.numbers-section h2 {
-  font-family: var(--font-display);
-  font-size: var(--fs-h2);
-  font-weight: 600;
-  letter-spacing: -0.01em;
-  margin: 0 0 var(--s-5);
-  color: var(--ink);
-}
-
-.numbers-section p {
-  font-family: var(--font-body);
-  font-size: 15px;
-  line-height: 1.65;
-  color: var(--ink);
-  max-width: 64ch;
-  margin: 0 0 var(--s-3);
-}
-
-.numbers-section code {
-  font-family: var(--font-mono);
-  font-size: 12px;
-  background: rgba(0, 0, 0, 0.04);
-  padding: 1px 4px;
-  border-radius: 2px;
-}
-
-.numbers-note {
-  font-style: italic;
-  color: var(--ink-muted);
-  font-size: 13px !important;
-  max-width: 64ch;
-}
-
-/* ── Top-line stat grid ──────────────────────────────────────────────── */
-
-.numbers-grid {
+.in-numbers-grid {
   display: grid;
-  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
-  gap: var(--s-4) var(--s-6);
-  margin: 0 0 var(--s-5);
-  padding: 0;
+  grid-template-columns: 1fr;
+  gap: var(--s-12);
+  border-top: 1px solid var(--ink);
+  padding-top: var(--s-8);
 }
 
-.numbers-stat {
+@media (min-width: 920px) {
+  .in-numbers-grid {
+    grid-template-columns: 1fr 1fr;
+    column-gap: var(--s-16);
+    row-gap: var(--s-12);
+  }
+  /* CORPUS top-left, ERAS top-right */
+  .in-numbers-section-corpus { grid-column: 1; }
+  .in-numbers-section-eras { grid-column: 2; }
+  /* EVAL spans left, BENCHMARK spans right */
+  .in-numbers-section-eval { grid-column: 1; }
+  .in-numbers-section-benchmark { grid-column: 2; }
+  /* BUILD spans full width */
+  .in-numbers-section-build {
+    grid-column: 1 / -1;
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-8);
+  }
+}
+
+/* ── Section ────────────────────────────────────────────────────── */
+
+.in-numbers-section h2 {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  font-weight: 700;
+  text-transform: uppercase;
+  letter-spacing: 0.16em;
+  color: var(--ink);
+  margin: 0 0 var(--s-5);
+  padding-bottom: var(--s-3);
+  border-bottom: 1px solid var(--rule);
+}
+
+.in-numbers-section h2 .vs {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-weight: 400;
+  text-transform: lowercase;
+  letter-spacing: 0;
+  color: var(--ink-muted);
+  margin: 0 0.25em;
+}
+
+.in-numbers-row {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(200px, 1fr));
+  gap: var(--s-8) var(--s-6);
+  margin-bottom: var(--s-6);
+}
+
+.in-numbers-row-build {
+  grid-template-columns: repeat(auto-fit, minmax(220px, 1fr));
+}
+
+.in-numbers-row-benchmark {
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: var(--s-6) var(--s-5);
+}
+
+/* ── Single big-number stat ─────────────────────────────────────── */
+
+.stat {
   display: flex;
   flex-direction: column;
   gap: var(--s-1);
-  padding: var(--s-3) 0;
-  border-top: 1px solid var(--rule);
 }
 
-.numbers-stat dt {
+.stat-num {
   font-family: var(--font-display);
-  font-size: 36px;
+  font-size: clamp(40px, 5.5vw, 64px);
   font-weight: 700;
-  line-height: 1;
-  color: var(--ink);
+  line-height: 1.0;
   letter-spacing: -0.02em;
-  font-feature-settings: "tnum";
-}
-
-.numbers-stat dd {
-  font-family: var(--font-sans);
-  font-size: 13px;
-  color: var(--ink-muted);
-  line-height: 1.4;
-  margin: 0;
-}
-
-.numbers-stat dd a {
-  color: var(--ink-muted);
-  border-bottom-color: var(--ink-muted);
-}
-
-.numbers-stat dd a:hover {
   color: var(--accent);
-  border-bottom-color: var(--accent);
+  font-feature-settings: "tnum";
+  margin-bottom: var(--s-2);
 }
 
-/* ── Tables ──────────────────────────────────────────────────────────── */
-
-.numbers-table {
-  width: 100%;
-  border-collapse: collapse;
+.stat-label {
   font-family: var(--font-body);
   font-size: 14px;
-  margin: 0 0 var(--s-3);
+  line-height: 1.45;
+  color: var(--ink);
+  margin: 0;
+  max-width: 30ch;
 }
 
-.numbers-table thead th {
+.stat-label-uppercase {
   font-family: var(--font-sans);
   font-size: 11px;
   font-weight: 600;
   text-transform: uppercase;
   letter-spacing: 0.08em;
+  color: var(--ink);
+  line-height: 1.4;
+}
+
+.stat-source {
+  font-family: var(--font-body);
+  font-size: 12px;
+  font-style: italic;
   color: var(--ink-muted);
-  text-align: left;
-  padding: var(--s-2) var(--s-3) var(--s-2) 0;
-  border-bottom: 2px solid var(--rule);
+  margin: var(--s-2) 0 0;
+  line-height: 1.4;
 }
 
-.numbers-table thead th.num,
-.numbers-table tbody td.num {
-  text-align: right;
-  font-feature-settings: "tnum";
+.stat-source a {
+  color: var(--accent);
+  text-decoration: none;
+  border-bottom: 1px solid var(--accent-soft);
+  padding-bottom: 1px;
+  transition: border-color 0.15s ease;
 }
 
-.numbers-table tbody td {
-  padding: var(--s-3) var(--s-3) var(--s-3) 0;
-  border-bottom: 1px solid var(--rule);
+.stat-source a:hover {
+  border-bottom-color: var(--accent);
+}
+
+/* ── Benchmark stat-pair (two-row layout) ───────────────────────── */
+
+.stat-pair {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-1);
+}
+
+.stat-pair-label {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.1em;
+  color: var(--ink-muted);
+  margin: 0 0 var(--s-2);
+}
+
+.stat-pair-row {
+  display: flex;
+  align-items: baseline;
+  gap: var(--s-3);
+  padding: var(--s-1) 0;
+  border-top: 1px solid var(--rule);
+}
+
+.stat-pair-row:first-of-type {
+  border-top: none;
+}
+
+.stat-pair-label-cell {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  font-weight: 500;
+  text-transform: uppercase;
+  letter-spacing: 0.06em;
   color: var(--ink);
-  vertical-align: top;
+  min-width: 4.5em;
 }
 
-.numbers-table tbody td a {
-  color: var(--ink);
+.stat-num-pair {
+  font-size: clamp(22px, 2.4vw, 28px);
+  margin-bottom: 0;
+  flex: 1;
+}
+
+/* "forthcoming" gets de-emphasized */
+.stat-num-pair:not(:has(+ *)):where([class*="forth"]),
+.stat-pair-row .stat-num-pair {
+  /* targeting all to apply muted styling when text === "forthcoming" via JS-less hack */
+}
+
+.stat-pair-row .stat-num-pair {
+  color: var(--accent);
+}
+
+/* When the value is the literal string "forthcoming", style softly. */
+.stat-num-pair {
+  color: var(--accent);
+}
+
+/* Use :has-text via attribute trick — actually simpler: just style by text via class. */
+.stat-pair-row:where(:nth-child(odd)) .stat-num-pair { color: var(--accent); }
+.stat-pair-row:where(:nth-child(even)) .stat-num-pair { color: var(--ink-muted); }
+
+/* Section notes / caveats ──────────────────────────────────────── */
+
+.in-numbers-section-note {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: 13px;
+  line-height: 1.55;
+  color: var(--ink-muted);
+  margin: var(--s-4) 0 0;
+  max-width: 56ch;
+}
+
+.in-numbers-section-note code {
+  font-family: var(--font-mono);
+  font-style: normal;
+  font-size: 11px;
+  background: rgba(0, 0, 0, 0.04);
+  padding: 1px 4px;
+  border-radius: 2px;
+}
+
+/* ── Footer ─────────────────────────────────────────────────────── */
+
+.in-numbers-footer {
+  margin-top: var(--s-12);
+  padding-top: var(--s-6);
+  border-top: 1px solid var(--rule);
+  text-align: center;
+}
+
+.in-numbers-footer p {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  color: var(--ink-muted);
+  margin: 0;
+  letter-spacing: 0.02em;
+}
+
+.in-numbers-footer code {
+  font-family: var(--font-mono);
+  font-size: 11px;
+  color: var(--ink-muted);
+}
+
+.in-numbers-footer a {
+  color: var(--ink-muted);
   border-bottom: 1px dotted var(--ink-muted);
-  padding-bottom: 0;
+  padding-bottom: 1px;
 }
 
-.numbers-table tbody td a:hover {
+.in-numbers-footer a:hover {
   color: var(--accent);
   border-bottom-color: var(--accent);
 }
 
-.numbers-table tbody tr:hover td {
-  background: rgba(0, 0, 0, 0.02);
-}
-
-/* ── Provenance ──────────────────────────────────────────────────────── */
-
-.numbers-section-provenance {
-  margin-top: var(--s-12);
-  padding-top: var(--s-8);
-  border-top: 1px solid var(--rule);
-}
-
-.numbers-section-provenance h2 {
-  font-size: var(--fs-h3);
-}
-
-/* ── Responsive ──────────────────────────────────────────────────────── */
+/* ── Mobile tightening ──────────────────────────────────────────── */
 
 @media (max-width: 640px) {
-  .numbers-page { padding: var(--s-8) var(--s-4) var(--s-16); }
-  .numbers-header h1 { font-size: 36px; }
-  .numbers-lede { font-size: 18px; }
-  .numbers-stat dt { font-size: 28px; }
-  .numbers-table { font-size: 13px; }
-  .numbers-table thead th,
-  .numbers-table tbody td { padding-right: var(--s-2); }
+  .in-numbers { padding: var(--s-8) var(--s-5) var(--s-16); }
+  .in-numbers-header { margin-bottom: var(--s-8); padding-bottom: var(--s-5); }
+  .in-numbers-grid { gap: var(--s-8); padding-top: var(--s-5); }
+  .stat-num { font-size: 44px; }
 }
