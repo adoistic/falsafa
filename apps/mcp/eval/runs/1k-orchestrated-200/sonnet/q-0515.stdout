@@ -1,0 +1,31 @@
+```json
+{
+  "answer": "Multiple works in the corpus contain ritual prescriptions for purification, almost all of them Sanskrit Dharmaśāstra (Smṛti) texts and related commentaries:\n\n1. **Āṅgirasa Smṛti** (unknown-angirasa-smrti-2bf9d1, ch. 1) — The most extensive treatment: prescriptions for ritual impurity from birth (sūtaka) and death (āśauca/mṛtāśauca), specific penances (prāyaścitta) for transgressions (e.g., Prājāpatya, Taptakṛcchra, Cāndrāyaṇa penances), and rules declaring bathing as the supreme purifier in all impurity situations.\n\n2. **Manusmṛti** (unknown-manusmrti-347b76, chs. 1, 2, 4, 6, 12) — Prescribes purifying saṃskāras from conception onward (ch. 2), impurity rules from birth and death and how to become pure by touching water (ch. 6), purifying objects at śrāddha rites (ch. 4), and fire-oblations and mantras for purifying hidden sins (ch. 12).\n\n3. **Parāśara Smṛti** (unknown-parasara-smrti-2259be, chs. 1, 3, 4, 7, 8, 9) — Includes a dedicated Section on Penance (Prāyaścittakāṇḍam, ch. 4), a section explicitly titled 'Purification of Things' (dravyaśuddhiḥ, ch. 7), sūtaka rules for birth and death (ch. 3), and expiation rules for harming cattle (ch. 9).\n\n4. **Viṣṇu Smṛti** (unknown-visnu-smrti-27f0d8, chs. 19–22) — Prescribes bathing with sesame paste at the end of the āśauca period (ch. 19), penance after eating during another's āśauca (ch. 22), and specific lengths of impurity by varṇa.\n\n5. **Yājñavalkya Smṛti** (unknown-yajnavalkya-smrti-cb88d6, ch. 1) — Contains a section explicitly on 'Purification of Things' (dravyaśuddhiprakaraṇam), prescribing purification procedures for gold, silver, conch shells, water vessels, and sacrificial cups.\n\n6. **Vīramitrodaya** (unknown-viramitrodaya-d4b632, ch. 1) — Prescribes ablutions with a vow (taking sandalwood paste on a tablet) and discusses śuddhi (purity) in ritual contexts.\n\n7. **Slokantara** (unknown-slokantara-d7a628, ch. 1) — Briefly prescribes śuddhi as morning bathing to purify the body, alongside sun-worship and prayer.\n\n8. **Kātyāyana Smṛti** (unknown-katyayana-smrti-1e06d2, ch. 64) — Mentions sacred and purifying bathing places and rules about polluting them.\n\nThe Old English, French, German, and Urdu works in the corpus do not contain ritual purification prescriptions. The Kawi works do not surface explicit purification prescriptions in translation.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "ritual purification"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "purification washing"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {}, "result_summary": "38 works listed; identified Sanskrit Smṛti texts as prime candidates"},
+    {"name": "search_corpus", "args": {"query": "purify"}, "result_summary": "30 results across Āṅgirasa Smṛti, Kātyāyana Smṛti, Manusmṛti, Nāradasmṛti, Parāśara Smṛti, Kunjarakarna Dharmakathana"},
+    {"name": "search_corpus", "args": {"query": "purity"}, "result_summary": "30 results; heavy concentration in Āṅgirasa Smṛti (ritual impurity/āśauca), Manusmṛti, Parāśara Smṛti"},
+    {"name": "search_corpus", "args": {"query": "śuddhi"}, "result_summary": "7 results: Parāśara Smṛti ch. 7, Slokantara ch. 1, Vīramitrodaya ch. 1, Yājñavalkya Smṛti ch. 1"},
+    {"name": "search_corpus", "args": {"query": "prāyaścitta"}, "result_summary": "30 results: Āṅgirasa Smṛti ch. 1 and Parāśara Smṛti chs. 1, 4, 9"},
+    {"name": "search_corpus", "args": {"query": "dravyaśuddhi"}, "result_summary": "2 results: Parāśara Smṛti ch. 7 and Yājñavalkya Smṛti ch. 1"},
+    {"name": "search_corpus", "args": {"query": "āśauca"}, "result_summary": "30 results: Āṅgirasa Smṛti ch. 1, Manusmṛti ch. 6, Parāśara Smṛti ch. 3, Viṣṇu Smṛti chs. 19–22"},
+    {"name": "search_corpus", "args": {"query": "perform ablutions"}, "result_summary": "1 result: Vīramitrodaya ch. 1"},
+    {"name": "search_corpus", "args": {"query": "sūtaka"}, "result_summary": "30 results: Āṅgirasa Smṛti ch. 1, Manusmṛti ch. 6, Parāśara Smṛti ch. 3"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-angirasa-smrti-2bf9d1", "chapter_number": 1, "paragraph_id": "p-862583"},
+    {"work_slug": "unknown-angirasa-smrti-2bf9d1", "chapter_number": 1, "paragraph_id": "p-d769c5"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 2, "paragraph_id": "p-3cd4c5"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 6, "paragraph_id": "p-89d810"},
+    {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 4, "paragraph_id": "p-29037c"},
+    {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 7, "paragraph_id": "p-6a5d03"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 22, "paragraph_id": "p-2be678"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-9623ef"},
+    {"work_slug": "unknown-viramitrodaya-d4b632", "chapter_number": 1, "paragraph_id": "p-96ff52"},
+    {"work_slug": "unknown-slokantara-d7a628", "chapter_number": 1, "paragraph_id": "p-6edade"},
+    {"work_slug": "unknown-katyayana-smrti-1e06d2", "chapter_number": 64, "paragraph_id": "p-152671"}
+  ]
+}
+```

@@ -1,0 +1,36 @@
+```json
+{
+  "answer": "Several works in the corpus discuss rules for offering hospitality to a guest (atithi). The most detailed treatment is in the Manusmṛti (unknown-manusmrti-347b76), chapters 3 and 4, which prescribes: honoring guests is the 'sacrifice to men' (one of the five great daily sacrifices); a householder must give an arriving atithi a seat and water; guests should be fed before the householder eats; a guest who arrives at sunset must not be turned away; and failing to honor guests brings sin. The Parāśara Smṛti (unknown-parasara-smrti-2259be), chapter 1, similarly mandates hospitality to the atithi alongside the Vaiśvadeva rite, and warns that those who exclude the atithi from hospitality go to hell. The Yājñavalkya Smṛti (unknown-yajnavalkya-smrti-cb88d6), chapter 1, lists 'hospitality to guests' as one of the mahāyajñas (great sacrifices) incumbent on the householder. The Āṅgirasa Smṛti (unknown-angirasa-smtp-2bf9d1), chapter 1, also mentions the worship of the guest (atithi) as a ritual duty and instructs that food should be accepted and given to one's guru, fire, and guests. Outside the Sanskrit Smritis, Kunjarakarna Dharmakathana (unknown-kunjarakarna-dharmakathana-894f4a, chapter 1) portrays a virtuous couple whose 'faith in guests was great,' illustrating hospitality as a dharmic virtue in the Kawi tradition.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "guest hospitality rules"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "entertaining a guest"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "host guest duties"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "welcoming visitors"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "guest food drink"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "offer hospitality"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "receive a guest"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "stranger arrived"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {}, "result_summary": "38 works listed; identified Sanskrit Smritis as most likely candidates"},
+    {"name": "search_corpus", "args": {"query": "atithi guest"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "feed the stranger"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "honor guest"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "hospitality"}, "result_summary": "13 results across Parāśara Smṛti ch.1, Yājñavalkya Smṛti chs.1-2, Āṅgirasa Smṛti ch.1 (atithi worship), Manusmṛti ch.3-4, and Traité de Législation vols II-IV (descriptive, not prescriptive)"},
+    {"name": "search_corpus", "args": {"query": "guest"}, "result_summary": "30 results; confirmed Manusmṛti ch.4 has most detailed prescriptive rules (seat, water, food, sunset rule, sacrifice to men); Parāśara Smṛti ch.1 on hell-punishment for excluding atithi; Yājñavalkya Smṛti ch.1 on mahāyajñas; Āṅgirasa Smṛti ch.1 on atithi worship; Kunjarakarna Dharmakathana ch.1 on faith in guests"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 4, "paragraph_range": {"start": 0, "end": 10}}, "result_summary": "Confirmed Manusmṛti ch.4 covers the five great sacrifices including honoring of guests (Mn_3.70-72)"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 4, "paragraph_id": "p-0f3d0c"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 4, "paragraph_id": "p-8dccef"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 4, "paragraph_id": "p-de0b29"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 4, "paragraph_id": "p-bdf3a3"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 4, "paragraph_id": "p-f62342"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 3, "paragraph_id": "p-0c3bc7"},
+    {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 1, "paragraph_id": "p-40daa2"},
+    {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 1, "paragraph_id": "p-c8d49b"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-76e5e9"},
+    {"work_slug": "unknown-angirasa-smrti-2bf9d1", "chapter_number": 1, "paragraph_id": "p-b4c044"},
+    {"work_slug": "unknown-angirasa-smrti-2bf9d1", "chapter_number": 1, "paragraph_id": "p-18f27a"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-da7ae6"}
+  ]
+}
+```

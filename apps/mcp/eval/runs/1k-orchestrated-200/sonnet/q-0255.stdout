@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "Using couplets found in the corpus:\n\n**Ghalib couplet on wine** (Diwan-E-Ghalib, chapter 1, p-4304e1): \"You've sworn an oath, O Ghalib, to give up the wine, / But in your vow, the faith of any prayer is not there.\" Also (chapter 2, p-6cadea): \"The Saqi's pride has cured my thirst that drank the oceans dry; / the pulse of wine, the flask's sweet burden, is not within.\"\n\n**Zauq couplet on wine** (Diwan-E-Zauq, chapter 37, p-c2396a): \"The flask's song rose, a gurgling, sweet acclaim; / Bring wine, O Sāqi, my resolve went up in flame.\" Also (chapter 58, p-8b86a8): \"How long must I plead, Cup-bearer, for wine? Then bring it near! / If not the wine, then soak a kebab in it, and grant it here.\"\n\n**Difference in how each treats intoxication:**\n\nGhalib's intoxication is philosophical and self-ironizing. His wine couplets turn inward: the maqta of chapter 1 is a wry self-indictment — he has sworn off wine, yet the oath carries no genuine conviction. Intoxication here is not just a physical pleasure but an irresolvable existential condition, something the self cannot actually renounce. In chapter 2, even the Saqi's pride paradoxically satisfies the thirst that wine should satisfy — wine is metaphysically displaced. Ghalib uses wine to stage paradoxes about will, desire, and the impossibility of self-mastery.\n\nZauq's intoxication is social, sensory, and celebratory. Chapter 37 opens with the gurgling sound of the flask rising in the assembly (mehfil), wine dissolving resolve pleasurably. Chapter 58 is an impatient, direct plea to the cup-bearer — bring wine, or at minimum soak a kebab in it. There is no philosophical weight or self-irony; intoxication is the natural center of communal pleasure. In chapter 1, wine appears as the personified \"Daughter of the Vine\" with a rebel spirit that contends against the righteous — wine as festive transgression, not existential condition.\n\nIn short: Ghalib turns wine inward into a metaphysical puzzle about vow, desire, and the self; Zauq keeps wine outward as convivial pleasure and sensory delight in the gathering.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Ghalib"}, "result_summary": "Found mirza-ghalib-diwan-e-ghalib-74ed4c, 239 chapters"},
+    {"name": "list_works", "args": {"author": "Zauq"}, "result_summary": "Found sheikh-ibrahim-zauq-diwan-e-zauq-0fa798, 60 chapters"},
+    {"name": "search_corpus", "args": {"query": "wine intoxication"}, "result_summary": "0 results — search index not returning hits for multi-word queries"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 1}, "result_summary": "Found wine couplets: p-564520 (heaven for wine), p-4304e1 (sworn oath to give up wine, no faith in vow)"},
+    {"name": "read_chapter", "args": {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 1}, "result_summary": "Found p-5873d0: 'Daughter of the Vine' rebel spirit against the righteous"},
+    {"name": "list_chapters", "args": {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"}, "result_summary": "60 chapters; noted wine-explicit titles: ch37, ch46, ch58"},
+    {"name": "read_chapter", "args": {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 37}, "result_summary": "p-c2396a: flask's gurgling song, wine dissolves resolve — convivial/sensory"},
+    {"name": "read_chapter", "args": {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 58}, "result_summary": "p-8b86a8: impatient plea to cup-bearer for wine; p-da35db: lost in drink, boundless kisses"},
+    {"name": "read_chapter", "args": {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 46}, "result_summary": "Rind (wine-drinker) vs zahid (ascetic) — leave the drunkard alone to his pain"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 2}, "result_summary": "p-6cadea: Saqi's pride cures thirst, wine/flask absent — paradoxical displacement of intoxication"},
+    {"name": "compare_works", "args": {"work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c", "work_slug_b": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "topic": "wine intoxication"}, "result_summary": "Returned only first few chapters alphabetically; no direct wine chapter pointers"}
+  ],
+  "citations": [
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 1, "paragraph_id": "p-4304e1"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 1, "paragraph_id": "p-564520"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 2, "paragraph_id": "p-6cadea"},
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 37, "paragraph_id": "p-c2396a"},
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 58, "paragraph_id": "p-8b86a8"},
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 1, "paragraph_id": "p-5873d0"}
+  ]
+}
+```

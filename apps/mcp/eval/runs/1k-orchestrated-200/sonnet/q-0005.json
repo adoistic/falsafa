@@ -1,0 +1,13 @@
+{
+  "answer": "Shikwa ('The Complaint') is chapter 20 of Bang-E-Dara Part 3 (work slug: allama-iqbal-bang-e-dara-part-3-cc61e8). The poem is structured as a direct address to God throughout, but the verses that most sharply and explicitly complain about the fate of Muslims are clustered in the middle section. The most direct complaint about Muslim suffering compared to the flourishing of non-believers appears in paragraph p-20fc7c:\n\n'There are other nations, and among them sinners you can find,\nThere are the humble, and the ones drunk with their pride of mind.\nThere are the lazy, heedless, and the clever of their kind,\nAnd hundreds more who from Your very name are disinclined.\nBut all Your blessings fall upon the houses of the foe,\nWhile on the wretched Muslims falls the lightning's fiery blow.'\n\nThis is immediately amplified in the next stanza (p-c09121), where the speaker reports that even the idols in temples gloat at the Muslims' decline, and challenges God: 'The unbelievers mock us now—do You feel this or not? / The Creed of Your own Oneness—have You utterly forgot?'\n\nA third highly direct stanza (p-d1e7fe) intensifies the reproach: 'Why is the wealth of this world now so scarce for Muslim hands? / Your power is the one that has no limits, no demands. / ... We face the taunts of strangers, disgrace, and poverty; / Is this the prize for those who gave their very lives for Thee?'\n\nTaken together, these stanzas constitute the speaker's central direct complaint to God: after centuries of sacrifice and service in God's name, Muslims are now impoverished, mocked, and abandoned while non-believers prosper—a perceived divine injustice the speaker boldly lays before God.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 Bang-e-Dara works by Allama Iqbal (parts 1, 2, 3)"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "Found Shikwa as chapter 20 of Bang-e-Dara Part 3"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "variant": "translation"}, "result_summary": "Read full Shikwa poem (32 paragraphs). Identified direct complaint verses at p-20fc7c, p-c09121, p-45880c, and p-d1e7fe"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "paragraph_id": "p-20fc7c"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "paragraph_id": "p-c09121"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "paragraph_id": "p-d1e7fe"}
+  ]
+}

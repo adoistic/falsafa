@@ -1,0 +1,17 @@
+```json
+{
+  "answer": "In Iqbal's 'Jugnu' (Bang-e-Dara Part 1, chapter 27), the firefly's small light teaches that even the tiniest light is a trace of Primal (Divine) Beauty — 'Of Primal Beauty, every thing's a trace.' More broadly, the poem uses the firefly to argue that all diverse forms in nature (light, scent, song, shade) are manifestations of a single underlying Unity: 'In all the Many, Unity lies deep; / The firefly's shine is scent the flowers keep.' The firefly's humble glow therefore teaches humility about difference and discourages strife: 'Why then should difference be a cause for strife, / When Eternal Silence hides in all of life?' In short, the firefly's small light is a lesson in the oneness of existence — that even the weakest, most transient light participates in the same divine source as the sun.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "jugnu firefly"}, "result_summary": "0 results — no direct hit"},
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 Bang-e-Dara parts by Allama Iqbal"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "Chapter 27 is titled 'Jugnu'"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 27, "variant": "translation"}, "result_summary": "Full translation of Jugnu retrieved; poem teaches unity of existence through the firefly's light as a trace of Primal Beauty"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 27, "paragraph_id": "p-86d8dc"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 27, "paragraph_id": "p-24c42c"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 27, "paragraph_id": "p-890798"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 27, "paragraph_id": "p-81ff7c"}
+  ]
+}
+```

@@ -1,0 +1,21 @@
+```json
+{
+  "answer": "The poem 'Sare jahan se achha Hindostan hamara' (known as 'Tarana-e-Hindi') is not in the Falsafa corpus. All three parts of Iqbal's Bang-e-Dara are present (Part 1: 44 chapters, Part 2: 28 chapters, Part 3: 28 chapters), but none contains 'Tarana-e-Hindi'. The corpus does contain a related anthem, 'Tarana-e-Milli' (Bang-e-Dara Part 3, chapter 23), which begins 'Cheen o Arab hamara, Hindustaan hamara / Muslim hain hum, watan hai saara jahan hamara' — but that is a different poem. The requested quote cannot be supplied from the corpus.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "sare jahan achha"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 works: Bang-e-Dara Part 1, Part 2, Part 3"},
+    {"name": "search_corpus", "args": {"query": "Hindostan hamara"}, "result_summary": "0 results"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "44 chapters listed; chapter 26 is 'Hindustani Bachon Ka Qaumi Geet' (a different poem with refrain 'Mera watan wohi hai')"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 26, "variant": "transliteration"}, "result_summary": "Confirmed chapter 26 begins 'Chishti ne jis zameen mein...' — not the requested poem"},
+    {"name": "search_corpus", "args": {"query": "tarana hindi"}, "result_summary": "0 results"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"}, "result_summary": "28 chapters, none titled Tarana-e-Hindi"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "28 chapters; chapter 23 is Tarana-e-Milli (different poem)"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 23, "variant": "transliteration"}, "result_summary": "Confirmed Tarana-e-Milli starts 'Cheen o Arab hamara' — different from 'Sare jahan se achha'"},
+    {"name": "search_corpus", "args": {"query": "bulbulein gulistan"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "best all worlds India"}, "result_summary": "0 results"}
+  ],
+  "citations": []
+}
+```
+
+**Not in corpus.** Iqbal's "Tarana-e-Hindi" ("Sare jahan se achha Hindostan hamara") does not appear in any of the three Bang-e-Dara parts indexed in Falsafa. The corpus does have "Tarana-e-Milli" (Part 3, ch. 23) — the companion Muslim-community anthem starting "Cheen o Arab hamara" — but that is a distinct poem.

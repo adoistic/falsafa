@@ -1,0 +1,24 @@
+```json
+{
+  "answer": "The proper times for ritual bathing are enumerated in Viṣṇu Smṛti, Chapter 64 (work slug: unknown-visnu-smrti-27f0d8), verses Vi_64.6–Vi_64.9. The text states: not at night (Vi_64.6); except when an eclipse is visible (Vi_64.7); not at the twilights (Vi_64.8); and one who is accustomed to bathing in the morning shall bathe after seeing the eastern sky become reddish-tawny (Vi_64.9). Together, these verses enumerate the proper times by prohibition and positive prescription: daytime (not night), not at twilight, morning when the eastern sky reddens, with the special exception that bathing is permitted at night during an eclipse.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Found 38 works including unknown-visnu-smrti-27f0d8 (Viṣṇu Smṛti, 100 chapters)"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-visnu-smrti-27f0d8"}, "result_summary": "Confirmed 100 chapters exist"},
+    {"name": "search_corpus", "args": {"query": "bath"}, "result_summary": "Bathing hits mostly in Āṅgirasa Smṛti; no direct Viṣṇu Smṛti bathing-times hit"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 64}, "result_summary": "Chapter 64 is the main bathing chapter; Vi_64.6–Vi_64.9 enumerate timing: not at night (except eclipse), not at twilight, morning when eastern sky is reddish-tawny"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 63}, "result_summary": "Chapter 63 covers journey rules, not bathing"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 65}, "result_summary": "Chapter 65 covers deity worship after bathing, not bathing times"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 66}, "result_summary": "Chapter 66 covers worship offerings, not bathing times"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 68}, "result_summary": "Chapter 68 covers eating rules including bathing before meals after eclipse"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 22}, "result_summary": "Chapter 22 covers impurity/purification situations requiring bathing, not the proper times enumeration"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 64, "paragraph_id": "p-2fd742"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 64, "paragraph_id": "p-e5b052"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 64, "paragraph_id": "p-6e0371"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 64, "paragraph_id": "p-68d1c0"}
+  ]
+}
+```
+
+The proper times for ritual bathing are found in **Viṣṇu Smṛti, Chapter 64** (`unknown-visnu-smrti-27f0d8`), verses Vi_64.6–Vi_64.9. The text enumerates them as: bathing is not permitted at night (Vi_64.6), except when an eclipse is visible (Vi_64.7); not at the twilights (Vi_64.8); and the morning bather should bathe after seeing the eastern sky become reddish-tawny (Vi_64.9). These four consecutive verses together enumerate the proper (and improper) times for ritual bathing.

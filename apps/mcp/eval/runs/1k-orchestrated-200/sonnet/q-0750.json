@@ -1,0 +1,11 @@
+{
+  "answer": "Yājñavalkya Smṛti 1.66 states: 'One who gives a maiden without disclosing her defects is to be fined the highest amercement. One who abandons a faultless wife is to be punished; one who falsely accuses her is to be fined one hundred.' The rule covers three related obligations: (1) a guardian who conceals a bride's defects faces the maximum legal fine; (2) a husband who abandons a blameless wife is liable to punishment; and (3) a husband who makes false accusations against his wife is fined one hundred (paṇas).",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "yajnavalkya"}, "result_summary": "Found work slug: unknown-yajnavalkya-smrti-cb88d6"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6"}, "result_summary": "Work has 3 chapters; chapter 1 available in translation and transliteration"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_range": {"start": 60, "end": 75}}, "result_summary": "Retrieved verses 1.57–1.72; verse 1.66 found at paragraph id p-1200e1"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-1200e1"}
+  ]
+}

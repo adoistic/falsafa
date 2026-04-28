@@ -1,0 +1,11 @@
+{
+  "answer": "The most famous couplet in this ghazal for hopelessness is the opening matla (first couplet): 'Koi ummeed bar nahin aati / Koi soorat nazar nahin aati' ('No hope I have is ever answered / No way ahead can be uncovered'). This is the radif-setting opening verse that gives the entire ghazal its name — the line 'Koi ummeed bar nahin aati' (No hope comes to fruition) is the defining statement of hopelessness in the poem. Found in Diwan-E-Ghalib, chapter 115 (work slug: mirza-ghalib-diwan-e-ghalib-74ed4c), paragraph p-92c600 in the translation.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "ummeed bar nahin"}, "result_summary": "Found chapter 115 of Diwan-E-Ghalib titled 'Koi ummeed bar nahin aati'"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 115, "variant": "translation"}, "result_summary": "Retrieved full English translation; opening couplet is 'No hope I have is ever answered / No way ahead can be uncovered'"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 115, "variant": "transliteration"}, "result_summary": "Confirmed opening matla: 'Koi ummeed bar nahin aati / Koi soorat nazar nahin aati' — title couplet and most famous for hopelessness"}
+  ],
+  "citations": [
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 115, "paragraph_id": "p-92c600"}
+  ]
+}

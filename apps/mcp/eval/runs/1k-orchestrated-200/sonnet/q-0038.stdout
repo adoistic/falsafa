@@ -1,0 +1,19 @@
+```json
+{
+  "answer": "In 'Saqaliya' (Bang-E-Dara Part 2, chapter 21), Iqbal laments the fall and disappearance of Islamic/Arab civilization from Sicily. He addresses the island as a witness to a lost glory: Sicily was once 'the cradle of that nation's culture' — the Muslim civilization whose warriors shook imperial courts, freed humanity from superstition, and whose Takbir echoed across the sea. Iqbal mourns that this civilization's grave now lies visible on the island, that its tumult is silenced forever. He situates Sicily in a chain of historical grief: just as Hafiz lamented Baghdad and the poet Dagh wept over Jahanabad (Delhi), and Ibn Badrun cried over Granada's fall, so Iqbal inherits the duty of mourning over Sicily — the westernmost ruin of the Muslim world's once-great reach. He presents himself as 'the dust of that caravan for which you [Sicily] were the destination,' and vows to carry Sicily's lament back to Hindustan, weeping there to make others weep too. The core historical lament is the extinction of Muslim civilization's presence in Sicily and the broader Mediterranean, contrasted with the power and transformative force that civilization once wielded.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Sicily Saqaliya"}, "result_summary": "0 results — search fallback did not surface the poem by title"},
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 works: Bang-E-Dara Parts 1, 2, 3"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"}, "result_summary": "Found 'Saqaliya' as chapter 21 in Bang-E-Dara Part 2"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 21, "variant": "translation"}, "result_summary": "Full poem retrieved — laments the fall of Islamic civilization from Sicily, drawing parallels to Baghdad, Jahanabad, and Granada"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 21, "paragraph_id": "p-08760e"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 21, "paragraph_id": "p-82cbe3"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 21, "paragraph_id": "p-02c3ef"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 21, "paragraph_id": "p-83813c"}
+  ]
+}
+```
+
+**'Saqaliya' is Bang-E-Dara Part 2, chapter 21.** The historical lament Iqbal voices is the extinction of Muslim/Arab civilization's presence in Sicily. He weeps before "the grave of Hejazi civilization" — a people who once shook imperial courts, freed humanity from superstition, and whose Takbir rang across the Mediterranean. Sicily was their cultural cradle; now only ruins remain. Iqbal places this grief within a lineage of Islamic historical mourning: Hafiz over Baghdad, Dagh over Delhi (Jahanabad), Ibn Badrun over Granada — and now Iqbal himself, self-described as "the dust of that caravan for which you [Sicily] were the destination," carrying the island's lament back to Hindustan.

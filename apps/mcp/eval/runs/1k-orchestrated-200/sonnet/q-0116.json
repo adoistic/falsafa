@@ -1,0 +1,12 @@
+{
+  "answer": "In 'The Ruin' (chapter 16 of 'Old English Elegies', slug: unknown-old-english-elegies-d5fe9e), the lines describing the bath houses with their hot streams are in paragraph p-dfdbda:\n\n\"Stone courts stood; a stream threw up heat / in a wide surge; a wall enclosed all / within its bright embrace, where the baths were, / hot at their heart. That was a welcome thing. / They let pour then over the grey stone / hot streams [...] / [...] until the round pool grew hot [...]\"",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "bath hot streams"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {}, "result_summary": "Found 38 works; identified 'unknown-old-english-elegies-d5fe9e' as containing The Ruin"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e"}, "result_summary": "Chapter 16 slug starts with 'Wraetlic is thes wealstan' — confirmed as The Ruin"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 16, "variant": "translation"}, "result_summary": "Found bath-house passage in paragraph p-dfdbda: 'Stone courts stood; a stream threw up heat / in a wide surge; a wall enclosed all / within its bright embrace, where the baths were, / hot at their heart...'"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 16, "paragraph_id": "p-dfdbda"}
+  ]
+}

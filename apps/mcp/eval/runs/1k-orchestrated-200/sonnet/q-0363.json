@@ -1,0 +1,20 @@
+{
+  "answer": "The speaker of 'The Ruin' (unknown-old-english-elegies-d5fe9e, ch.16) stands before the most thoroughly past ruin. Here is how you can tell:\n\n1. No living connection to what fell. The Ruin's speaker is a nameless beholder with zero personal or genealogical stake in the destroyed city. The builders are 'in the ground's hard grip, till a hundred generations of people have passed' — the poem explicitly sets the fall in the deep-remote past. The speaker can only observe, never grieve as an heir.\n\n2. Purely archaeological mode. Every sentence is third-person past-tense historical description: 'Bright were the city-halls... death took all the sword-brave men.' There is no first-person 'I', no dreamed-of reunion, no ongoing quest for a replacement patron — just a witness cataloguing ruins.\n\n3. The poem enacts its own subject: the manuscript is physically decayed, leaving multiple [...] lacunae mid-sentence. Even the text is a ruin.\n\nBy contrast, The Wanderer (ch.11) has a speaker still alive in his exile, still dreaming of clasping his dead lord's knees, still searching the sea for 'a giver of treasure' — the loss is recent and its effects actively ongoing. His ruin is not yet past; it is the condition of his present.\n\nAnd in Saqaliya (allama-iqbal-bang-e-dara-part-2-9bc58c, ch.21), Iqbal explicitly identifies himself as an heir: 'To sorrow-fated Iqbal, your mourning was bequeathed' and 'I am but the dust of that caravan for which you were the destination.' He plans to 'carry you as a gift to Hindustan' — the ruin of Muslim Sicily is alive in his consciousness and actively being transmitted. This is the opposite of a thoroughly past ruin.\n\nSo: The Ruin's ruin is most thoroughly past — marked by anonymous spectatorship, a hundred-generation temporal gulf, the absence of any surviving heir, and a poem that is itself fragmentary.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "wanderer exile"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "Saqaliya Sicily"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {}, "result_summary": "Found 38 works; identified 'unknown-old-english-elegies-d5fe9e' and Iqbal's Bang-E-Dara parts"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e"}, "result_summary": "17 chapters; ch.11 = The Wanderer, ch.16 = The Ruin (Wraetlic)"},
+    {"name": "search_corpus", "args": {"query": "Saqaliya"}, "result_summary": "Found Saqaliya at allama-iqbal-bang-e-dara-part-2-9bc58c ch.21"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "variant": "translation"}, "result_summary": "The Wanderer: lone exile still searching for a new lord, dreaming of dead kinsmen; ongoing grief"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 16, "variant": "translation"}, "result_summary": "The Ruin: anonymous observer; builders gone 'a hundred generations'; purely archaeological past-tense; manuscript lacunae"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 21, "variant": "translation"}, "result_summary": "Saqaliya: Iqbal identifies as heir of Muslim Sicily's civilization, carries grief to transmit to Hindustan"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 16, "paragraph_id": "p-d0d2bd"},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 16, "paragraph_id": "p-ba51da"},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "paragraph_id": "p-9462cc"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 21, "paragraph_id": "p-efa635"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 21, "paragraph_id": "p-a060f8"}
+  ]
+}

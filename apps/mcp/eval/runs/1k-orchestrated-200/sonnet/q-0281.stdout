@@ -1,0 +1,20 @@
+```json
+{
+  "answer": "The two central vision-moments point in opposite directions.\n\nIn Iqbal's 'Sair-e-Falak' (Bang-e-Dara Part 3, ch. 18), the speaker ascends through the heavens with Imagination as companion, passes through Paradise (Iram, Tooba's bough, the Houris, the wine-bearing Saqian), then breaks beyond it entirely and perceives a frozen, lightless dark abode. When he asks Surosh what it is, the angel reveals it is Hell — but a Hell emptied of its own fire: its flames are borrowed, brought by the souls themselves from the lives they lived on earth. The central vision-moment is that encounter with the cold void beyond Paradise and Surosh's revelation (paragraphs p-44c8f4 to p-b5be43). What Iqbal is looking for is not Paradise itself but a deeper theological truth: the nature of the soul's self-determined fate, the idea that damnation is not externally imposed but self-generated from one's own earthly choices.\n\nIn The Wanderer (Old English Elegies, ch. 11), the speaker is an exile rowing rime-cold seas, having lost his lord ('gold-friend') to death. His central vision-moment is the dream-vision where, half-asleep, he imagines clasping and kissing his lord, laying hands and head on his knee as in the old hall-days — only to wake again to grey waves, sea-birds, frost, and hail. This is the sharpest disclosure of what he is seeking: a new lord/treasure-giver who will welcome him to the mead-hall and restore fellowship and belonging. The poem closes with the recognition that all earthly wealth, friends, and kinsmen are merely 'loaned', and the only true stability is grace from the Father in heaven (paragraph p-5bdc65). The Wanderer seeks, first, human community and loyal lordship; then, finding all earthly bonds transient, divine consolation.\n\nIn short: Iqbal's speaker journeys cosmically to find a truth about divine justice and self-sovereignty of the soul (Hell's fire is the soul's own); the Wanderer journeys through icy exile to find a new lord and community, and discovers that all such belonging is impermanent — pushing him toward God as the only stable refuge.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Sair-e-Falak"}, "result_summary": "Found Bang-e-Dara Part 3, chapter 18 titled 'Sair-e-Falak'"},
+    {"name": "search_corpus", "args": {"query": "wanderer elegy exile"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {}, "result_summary": "Found 'Old English Elegies' (unknown-old-english-elegies-d5fe9e) with 17 chapters"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 18, "variant": "translation"}, "result_summary": "Full text of Sair-e-Falak: celestial ascent, Paradise, then dark frozen Hell; Surosh reveals Hell's fire is brought by souls from their earthly lives"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e"}, "result_summary": "Chapter 11 is 'The Wanderer'"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "variant": "translation"}, "result_summary": "Full text of The Wanderer: exile seeking a new lord, dream-vision of lost lord, ubi sunt lament, close with seeking grace from God in heaven"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 18, "paragraph_id": "p-44c8f4"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 18, "paragraph_id": "p-9d0a05"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 18, "paragraph_id": "p-b5be43"},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "paragraph_id": "p-9462cc"},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "paragraph_id": "p-5bdc65"}
+  ]
+}
+```

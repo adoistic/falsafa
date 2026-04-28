@@ -1,0 +1,69 @@
+```json
+{
+  "answer": "Both Manu and Yājñavalkya treat the rule governing the kṣetraja son's inheritance share when an aurasa son also exists. Manu (Manusmṛti ch. 9, verses 9.163–164; work_slug: unknown-manusmrti-347b76) acknowledges that aurasa and kṣetraja can co-inherit: the aurasa son is the primary 'master of the paternal wealth,' but he is explicitly obligated to give the kṣetraja a sixth (or fifth) part of the estate as a charitable share. The kṣetraja thus has a guaranteed, if reduced, portion even when an aurasa is present. Yājñavalkya (Yājñavalkya Smṛti ch. 2, verses 2.128 and 2.132; work_slug: unknown-yajnavalkya-smrti-cb88d6) arranges son-types in a strict descending hierarchy (aurasa → putrikāsuta → kṣetraja → …) and at Yj_2.132 declares that only 'in the absence of a preceding one' does each succeeding type become 'the taker of a share.' This means that if an aurasa son exists, the kṣetraja inherits nothing — there is no residual 1/5 or 1/6 charitable share. Verdict: Yājñavalkya tightens Manu. Manu grants the kṣetraja a mandatory fractional share (1/5 or 1/6) even alongside an aurasa; Yājñavalkya's strict substitution hierarchy eliminates the kṣetraja's claim entirely when an aurasa is present.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Found both Manusmṛti (unknown-manusmrti-347b76, 12 chapters) and Yājñavalkya Smṛti (unknown-yajnavalkya-smrti-cb88d6, 3 chapters) in corpus"
+    },
+    {
+      "name": "list_chapters",
+      "args": {"work_slug": "unknown-manusmrti-347b76"},
+      "result_summary": "12 chapters; ch. 9 covers inheritance (dāyavibhāga)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6"},
+      "result_summary": "3 chapters; ch. 2 is On Legal Procedure (vyavahārādhyāya), section 8 covers division of heritage"
+    },
+    {
+      "name": "search_corpus",
+      "args": {"query": "son inheritance property"},
+      "result_summary": "0 results; direct chapter reading used instead"
+    },
+    {
+      "name": "read_chapter",
+      "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9},
+      "result_summary": "Full ch. 9 retrieved. Mn_9.162–165: aurasa and kṣetraja rules. Mn_9.163: aurasa is master of paternal wealth. Mn_9.164: aurasa must give kṣetraja 1/6 or 1/5 of estate. Mn_9.151/9.153: mixed-varna son share ratios."
+    },
+    {
+      "name": "read_chapter",
+      "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2},
+      "result_summary": "Full ch. 2 retrieved. Yj_2.128: lists aurasa, putrikāsuta, kṣetraja in hierarchy. Yj_2.132: 'in the absence of a preceding one, each succeeding one is the taker of a share' — strict substitution hierarchy, kṣetraja excluded when aurasa exists."
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "Mn_9.163"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "Mn_9.164"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "Yj_2.128"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "Yj_2.132"
+    }
+  ]
+}
+```
+
+**Summary of findings:**
+
+The rule chosen is the *kṣetraja* son's inheritance share when an *aurasa* (legitimate) son also exists.
+
+- **Manu** (Manusmṛti ch. 9, Mn_9.163–164): The aurasa is "master of the paternal wealth," but must charitably give the kṣetraja **one-sixth or one-fifth** of the estate. The kṣetraja has a guaranteed (if reduced) share even when an aurasa co-exists.
+
+- **Yājñavalkya** (Yājñavalkya Smṛti ch. 2, Yj_2.128, 2.132): Son-types are listed in strict substitution hierarchy. At Yj_2.132 he states that only "in the absence of a preceding one" does the next type become "the taker of a share." Since the aurasa precedes the kṣetraja in the list, the kṣetraja inherits **nothing** when an aurasa is present.
+
+**Verdict: Yājñavalkya tightens Manu.** Manu preserves a mandatory fractional share for the kṣetraja even alongside a legitimate son; Yājñavalkya's strict exclusion rule removes that entitlement entirely.

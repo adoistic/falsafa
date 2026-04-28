@@ -1,0 +1,11 @@
+{
+  "answer": "The specific historical figure Iqbal names in 'Khitab ba Jawanan-e-Islam' (Bang-e-Dara Part 3, ch. 13) is Darius (Dara / دارا). Iqbal invokes him to remind Muslim youth of their ancestors' glory: 'You were raised in the embrace of love by that very nation which once crushed underfoot the crown upon the head of Darius.' Darius (the Persian king) is named as the historical marker of ancestral conquest — the early Arab Muslims from the desert defeated him, proving the greatness of the youth's forebears. Darius himself is not the exemplary ancestor; he is the conquered adversary whose defeat establishes the ancestors as exemplary. No other specific historical figure is named in this chapter as an exemplary ancestor by name.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 Bang-e-Dara works; Part 3 slug is allama-iqbal-bang-e-dara-part-3-cc61e8"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 13, "variant": "translation"}, "result_summary": "Chapter title confirmed as 'Khitab ba Jawanan-e-Islam'; only named historical figure is Darius (Dara)"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 13, "variant": "original"}, "result_summary": "Urdu original confirms 'تاج سر دارا' (crown on the head of Dara/Darius); no other named historical figure"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 13, "paragraph_id": "p-365462"}
+  ]
+}

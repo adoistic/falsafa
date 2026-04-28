@@ -1,0 +1,12 @@
+{
+  "answer": "Manusmriti 11.131 prescribes that for killing a cat (along with a mongoose, blue jay, frog, dog, iguana, owl, or crow), one should perform 'the vow for the slaying of a Shudra.' That vow (described in 11.130) is: perform the penance for six months, or alternatively give eleven white cows and one bull to a Brahmana. Found in corpus work 'unknown-manusmrti-347b76', chapter 12 (which contains Manusmriti chapter 11 verses), paragraph p-302851.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "killing cat expiation"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {}, "result_summary": "Found Manusmriti as slug 'unknown-manusmrti-347b76' with 12 corpus chapters"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 11, "variant": "translation"}, "result_summary": "Chapter 11 only 6 paragraphs on gifts to Brahmanas — no expiation content"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 12, "variant": "translation"}, "result_summary": "Large chapter (175 paragraphs) containing Manusmriti ch.11 verses. Mn_11.131 [p-302851]: 'For killing a cat, a mongoose, a blue jay, or a frog, and a dog, an iguana, an owl, or a crow, one should perform the vow for the slaying of a Shudra.'"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 12, "paragraph_id": "p-302851"}
+  ]
+}

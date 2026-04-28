@@ -1,0 +1,18 @@
+```json
+{
+  "answer": "The ghazal 'Laayi hayaat aaye, qaza le chali chale' (Diwan-E-Zauq, chapter 32, slug: sheikh-ibrahim-zauq-diwan-e-zauq-0fa798) presents life and death as forces entirely beyond human agency. The opening lines establish the central thesis: 'Life brought us here, then in decay, we pass on by. / We did not choose to come or stay; we simply pass on by.' Life (hayaat) brings us into the world and death (qaza) carries us out — we are passive passengers, not agents.\n\nKey philosophical positions in the poem:\n\n1. **Radical helplessness**: The matlaa (opening couplet) makes explicit that neither arrival nor departure was by our own wish — 'apni khushi na aaye, na apni khushi chale' (neither came of our own pleasure, nor leave of our own pleasure).\n\n2. **Transience even of immortality**: Even a life as long as Khizr's (the prophet of eternal life in Islamic tradition) has a destined hour of death — no life escapes its end.\n\n3. **Life as a poorly played game**: Zauq compares existence to a chess match (bisa'at) in which most make bad moves — life is a contest we are ill-equipped to win.\n\n4. **Futility of worldly attachment**: It is better not to attach one's heart to the world, yet passions make detachment impossible — a note of rueful resignation.\n\n5. **Destiny overrides reason**: 'Your clever plans won't win the day, they'll simply pass on by' — human reason (danish) and scheming cannot alter what fate (qismat) has decreed.\n\n6. **The world abandons everyone**: 'The world helps no one on the way to where we all must die' — the path of annihilation (raah-e-fana) is walked alone; the world is indifferent to our mortality.\n\n7. **Stoic acceptance**: The closing maqta has Zauq himself departing the world's garden, led by passion (hawa-e-shauq), indifferent even to the morning breeze — a model of serene acceptance.\n\nOverall, the ghazal is a meditation on fatalism, impermanence, and stoic surrender: life is a brief, involuntary passage; death is certain and indifferent; wisdom lies not in resisting but in walking on for as long as one can.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Zauq"}, "result_summary": "Found 1 work: sheikh-ibrahim-zauq-diwan-e-zauq-0fa798, 60 chapters"},
+    {"name": "list_chapters", "args": {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"}, "result_summary": "Chapter 32 is titled 'Laayi hayaat aaye qaza le chali chale' — exact match"},
+    {"name": "read_chapter", "args": {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 32, "variant": "translation"}, "result_summary": "8-couplet ghazal on life, death, helplessness, transience, fatalism, and stoic acceptance"},
+    {"name": "read_chapter", "args": {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 32, "variant": "original"}, "result_summary": "Original Urdu confirmed — apni khushi na aaye, na apni khushi chale; raah-e-fana; hawa-e-shauq"}
+  ],
+  "citations": [
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 32, "paragraph_id": "p-c15427"},
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 32, "paragraph_id": "p-cd7b9a"},
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 32, "paragraph_id": "p-e55c17"},
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 32, "paragraph_id": "p-24a0fc"},
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 32, "paragraph_id": "p-e7cc8a"}
+  ]
+}
+```

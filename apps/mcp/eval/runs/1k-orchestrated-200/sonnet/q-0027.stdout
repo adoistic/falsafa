@@ -1,0 +1,13 @@
+```json
+{
+  "answer": "In 'Dil-e-naadaan tujhe hua kya hai' (Diwan-E-Ghalib, chapter 36), Ghalib asks the foolish heart two things in the opening verse: (1) what has come over it / what has led it to this condition ('what's led you to this sway'), and (2) what is the cure or remedy for this deep pain ('what is the healing way'). The refrain 'pray, what is it?' echoes throughout the ghazal, turning the opening address to the heart into a sustained meditation on bewilderment — the heart's affliction, God's silence, the mysteries of creation, and the vagaries of love.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Ghalib"}, "result_summary": "Found one work: mirza-ghalib-diwan-e-ghalib-74ed4c (239 chapters)"},
+    {"name": "list_chapters", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"}, "result_summary": "Found chapter 36 with slug '36-dil-e-naadaan-tujhe-hua-kya-hai'"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 36, "variant": "translation"}, "result_summary": "Full translation retrieved; opening verse asks the heart what has led it to this sway and what the healing is"}
+  ],
+  "citations": [
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 36, "paragraph_id": "p-414b38"}
+  ]
+}
+```

@@ -1,0 +1,22 @@
+```json
+{
+  "answer": "In Ghalib's Diwan-e-Ghalib, husn (beauty) and ishq (love) are held in irresolvable tension: beauty is sovereign, self-sufficient, and indifferent (e.g. ch. 48: 'ghaafil ba-vehm-e-naaz khud-aara' — the beloved absorbed in self-adornment, oblivious to the lover), while love perpetually suffers, yearns, and annihilates itself without arriving anywhere. Ghalib deliberately refuses to declare either superior or complete — the dialectic is the point, and resolution would end the ghazal.\n\nIqbal's 'Husn o Ishq' (Bang-E-Dara Part 2, ch. 13, slug: allama-iqbal-bang-e-dara-part-2-9bc58c) explicitly resolves this in two moves:\n\n1. Symmetrical declaration of completeness — the pivotal line 'Husn kaamil hai tera, ishq hai kaamil mera' (p-0d606e: 'Your Beauty is perfected, and my Love is perfect form') declares BOTH husn and ishq 'kaamil' (complete/perfect) simultaneously. Ghalib never does this — for him one always dominates, subsumes, or eludes the other. Iqbal makes them co-equal.\n\n2. Causal resolution of the dynamic — 'Husn se ishq ki fitrat ko hai tehreek-e-kamaal' (p-7a49e3: 'From Beauty, Love's own nature is spurred toward perfection') explains the mechanism: beauty is not the indifferent sovereign of Ghalib but the active driver (tehreek) that propels love toward its own completion. Love, in turn, is not the helpless supplicant but the 'hangama-e-mehfil' — the very life animating beauty's assembly (p-f8c692). Each completes the other in a directed, teleological movement.\n\nThe final couplet seals it: 'Qaafila ho gaya aasooda-e-manzil mera' (p-0b52e7: 'My caravan has found contentment at its destination') — ishq has ARRIVED. In Ghalib, the caravan never arrives; the journey is endless yearning. Iqbal's resolution is that husn and ishq are not rivals in a hierarchy but twin perfections, mutually constitutive, with a direction and an endpoint.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "iqbal"}, "result_summary": "Found 3 Bang-E-Dara works (Parts 1, 2, 3)"},
+    {"name": "list_works", "args": {"author": "ghalib"}, "result_summary": "Found Diwan-E-Ghalib (239 chapters)"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 13}, "result_summary": "Confirmed chapter title 'Husn o Ishq'; retrieved full translation including key lines on husn and ishq both being kaamil"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 13, "variant": "transliteration"}, "result_summary": "Retrieved Urdu transliteration confirming 'Husn kaamil hai tera, ishq hai kaamil mera' and 'Husn se ishq ki fitrat ko hai tehreek-e-kamaal'"},
+    {"name": "compare_works", "args": {"work_slug_a": "allama-iqbal-bang-e-dara-part-2-9bc58c", "work_slug_b": "mirza-ghalib-diwan-e-ghalib-74ed4c", "topic": "husn ishq beauty love"}, "result_summary": "Returned relevant chapter pointers; Ghalib ch. 195 flagged as most content-similar"},
+    {"name": "find_related", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 13}, "result_summary": "Ghalib ch. 195 is top related chapter by TF-IDF cosine similarity"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 195}, "result_summary": "Ghalib ch. 195 shows lover's helpless state before beauty — exemplifies the unresolved subordination of ishq to husn"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 48}, "result_summary": "Ghalib ch. 48 'ghaafil ba-vehm-e-naaz khud-aara' — beauty preoccupied with self-adornment, indifferent; confirms the unresolved sovereign/supplicant dynamic"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 13, "paragraph_id": "p-0d606e"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 13, "paragraph_id": "p-7a49e3"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 13, "paragraph_id": "p-f8c692"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 13, "paragraph_id": "p-0b52e7"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 48, "paragraph_id": "p-6da204"}
+  ]
+}
+```

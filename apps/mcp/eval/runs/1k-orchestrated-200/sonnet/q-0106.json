@@ -1,0 +1,10 @@
+{
+  "answer": "Viṣṇu Smṛti chapter 22 (work slug: unknown-visnu-smrti-27f0d8) discusses āśauca — ritual impurity arising from birth and death. It covers: (1) the duration of āśauca periods for each varṇa (10 days for Brāhmaṇas, 12 for Rājanyas, 15 for Vaiśyas, 30 for Śūdras); (2) what activities are suspended during āśauca (sacrifices, gift-giving, Vedic study); (3) penances for eating another's āśauca food, varying by the caste combination involved; (4) special cases such as miscarriage, stillbirth, infant death, married women, overlapping impurities, and learning of a death while abroad; (5) categories exempt from āśauca (those killed in battle, by the king, etc.; kings on royal duty; those under a vow; artisans at work); and (6) general bodily purification rules — bathing requirements after contact with corpses, menstruating women, Caṇḍālas, etc., closing with verses on the twelve bodily impurities and the hierarchy of purifiers.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Searched all 38 works; found slug 'unknown-visnu-smrti-27f0d8' for Viṣṇu Smṛti"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 22}, "result_summary": "Retrieved full 94-paragraph chapter on āśauca (ritual impurity from birth/death), purification periods by varṇa, penances for violations, exemptions, and bodily purification rules"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 22, "paragraph_id": "p-07e9ab"}
+  ]
+}

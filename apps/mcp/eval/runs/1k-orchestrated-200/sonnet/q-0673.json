@@ -1,0 +1,19 @@
+{
+  "answer": "In Urdu poetry, 'falak' (فلک) operates as a dual image rooted in classical cosmology: it is simultaneously the literal sky/firmament and a personified agent of fate/destiny. The word derives from the Arabic فَلَك ('orbit,' 'sphere') — the revolving celestial sphere — and because pre-modern cosmology held the heavens to govern earthly affairs through their revolution, falak became a figure for inexorable fate.\n\nThe corpus yields two key examples:\n\n1. **Ghalib, Diwan-e-Ghalib, ch. 8** ('Afsos ke dandaan ka kiya rizq falak ne'): The opening line — 'Alas, what sustenance Fate has made the teeth their prize, / For those who once strung pearls with skillful finger' — renders 'falak' as 'Fate.' Falak here is the cosmic dispenser of rizq (sustenance/lot), a powerful, indifferent agent that allots and withholds. It carries an undertone of complaint: the sky/fate has been cruel or ironically unjust.\n\n2. **Iqbal, Bang-e-Dara Part 3, ch. 18** ('Sair-e-Falak' / 'A Celestial Journey'): Falak is the heavens themselves, the upper cosmic realm traversed by the poet with Imagination as companion — 'My path ascended through the cosmic blue.' The poem also uses 'charakh' (the revolving sphere). Here falak is the literal firmament, the arena of spiritual journey and cosmic vision.\n\nTaken together, falak in the Urdu tradition is a condensed symbol: the sky as the revolving mechanism of fate. It is the dome above that both physically arches overhead and metaphysically controls human fortune — making sky and destiny a single, indivisible image. Poets invoke it to personify cosmic injustice (Ghalib's bitter complaint that fate has cruelly allotted one's portion) or to signify the transcendent spiritual realm the self can rise to pierce (Iqbal's ascent through the falak).",
+  "tool_calls": [
+    {"name": "list_works", "args": {"language": "Urdu"}, "result_summary": "Found 5 Urdu works: Ghalib's Diwan-e-Ghalib, Zauq's Diwan-e-Zauq, Iqbal's Bang-e-Dara Parts 1-3"},
+    {"name": "search_corpus", "args": {"query": "falak sky fate"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "falak firmament"}, "result_summary": "0 results"},
+    {"name": "list_chapters", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"}, "result_summary": "Found ch.8 'Afsos ke dandaan ka kiya rizq falak ne' — falak in title"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "Found ch.18 'Sair-e-Falak' — falak in title"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 8}, "result_summary": "Translation renders falak as 'Fate'; poem laments what fate allotted to teeth (ironically cruel sustenance)"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 8, "variant": "original"}, "result_summary": "Original Urdu confirms 'falak' as agent distributing rizq"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 18}, "result_summary": "Sair-e-Falak = A Celestial Journey; falak is the literal sky/cosmic sphere traversed by the poet with Imagination"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 18, "variant": "original"}, "result_summary": "Original uses 'آسماں' (asman/sky) and 'چرخ' (charakh/revolving sphere) alongside falak"}
+  ],
+  "citations": [
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 8, "paragraph_id": "p-4f06e0"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 18, "paragraph_id": "p-45fa64"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 18, "paragraph_id": "p-7bcfb8"}
+  ]
+}

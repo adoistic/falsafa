@@ -1,0 +1,30 @@
+{
+  "answer": "Several works in the corpus contain sustained reflection on what it is to be young:\n\n1. **Old English Elegies** (unknown-old-english-elegies-d5fe9e): Multiple chapters engage this theme. Chapter 3 (The Wife's Lament) states: \"Ever must a young man be grim of spirit, his heart's thoughts heavy; so too must he hold a cheerful face, though his heart is grieving, an endless sorrow\" — framing youth as a time of forced stoic endurance. Chapter 6 (Maxims I) treats youth as a formative stage requiring guidance: \"One should teach a young man, strengthen and instruct him that he may know well... One should not condemn him in his childhood, before he can prove himself.\" Chapter 11 (The Wanderer) reflects that \"a man cannot become wise, before he has his share of winters in this world-kingdom,\" lamenting the fall of \"the proud young thanes\" to show youth as a state before wisdom.\n\n2. **Bang-E-Dara Part 1** (allama-iqbal-bang-e-dara-part-1-55b25c): Chapter 5 reflects: \"While youth remains, there's joy in sight and pleasure in desire; / Our home's brief joy is but a guest's short stay, and all in vain\" — framing youth as the window of desire and transient joy.\n\n3. **Bang-E-Dara Part 2** (allama-iqbal-bang-e-dara-part-2-9bc58c): Chapter 11 (\"Hah\" / \"The Joy of Today\") is the most sustained meditation on being young in the corpus: \"Ah, Youth! How long can it in hopeful longing burn? That joy is no true joy for which we wait and yearn... For Youth's one creed is 'The Joy of Today,' beyond all strife.\" It argues that Paradise's deferred rewards are alien to the soul of youth, which lives entirely in the present.\n\n4. **Bang-E-Dara Part 3** (allama-iqbal-bang-e-dara-part-3-cc61e8): Chapter 7 (\"Falsafa-e-Gham\") calls youth \"pleasant dreams\" from which sorrow awakens the soul. Chapter 13 (\"Address to the Muslim Youth\") directly addresses young Muslims to reflect on their inheritance and potential. Chapter 22 (\"Taleem aur iske Nataaij\") laments the spiritual cost of the youth's modern education.\n\n5. **Diwan-E-Ghalib** (mirza-ghalib-diwan-e-ghalib-74ed4c): Chapter 35 mourns the loss of youth — \"That fire is missing, and the youth you had before is gone\" — and chapter 95 reflects on how youth shapes expectation in love.\n\nThe richest reflections on the inner experience of being young come from the Old English Elegies (especially chapters 3, 6, and 11) and from Iqbal's Bang-E-Dara trilogy, especially Part 2 chapter 11.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "youth young age"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "days of youth"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "young man"}, "result_summary": "25 results across Andreas, Manusmrti, Old English Elegies, Dunoyer, Comte, Visnu Smrti"},
+    {"name": "search_corpus", "args": {"query": "youth"}, "result_summary": "30 results: Andreas, Angirasa Smrti, Bang-E-Dara Parts 1/2/3, Diwan-E-Ghalib"},
+    {"name": "search_corpus", "args": {"query": "being young"}, "result_summary": "1 result, not thematically relevant"},
+    {"name": "search_corpus", "args": {"query": "young grim spirit"}, "result_summary": "0 results"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 3}, "result_summary": "Wife's Lament — confirmed 'Ever must a young man be grim of spirit' (p-956fe7)"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 11}, "result_summary": "Hah — sustained meditation on Youth's creed of present joy (p-52b7ac, p-3e10ab)"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 13}, "result_summary": "Address to Muslim Youth — direct appeal to young Muslims to reflect on heritage"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7}, "result_summary": "Falsafa-e-Gham — youth described as 'pleasant dreams' from which sorrow awakens the soul (p-141d8d)"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11}, "result_summary": "The Wanderer — 'man cannot become wise before he has his share of winters'; laments fall of proud young thanes"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 6}, "result_summary": "Maxims I — prescriptions for teaching a young man; 'do not condemn him in childhood before he can prove himself' (p-84cf09)"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 5}, "result_summary": "Bang-E-Dara Part 1 ch.5 — 'While youth remains, there's joy in sight and pleasure in desire' (p-35afc3)"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 22}, "result_summary": "Taleem aur iske Nataaij — laments spiritual cost of youth's modern education"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 3, "paragraph_id": "p-956fe7"},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 6, "paragraph_id": "p-84cf09"},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "paragraph_id": "p-9462cc"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 5, "paragraph_id": "p-35afc3"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 11, "paragraph_id": "p-52b7ac"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 11, "paragraph_id": "p-3e10ab"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "paragraph_id": "p-141d8d"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 13, "paragraph_id": "p-365462"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 35, "paragraph_id": "p-9aea8e"}
+  ]
+}

@@ -1,0 +1,13 @@
+{
+  "answer": "In Bang-e-Dara Part 3, chapter 17 ('Ram'), Iqbal presents Ram as the supreme spiritual figure of India (Hindustan/Hind). He says: Hindustan can gaze with pride on Ram's existence, and the wise of vision see him as 'Hind's Spiritual Guide.' Iqbal frames Ram within a celebration of India's spiritual heritage — the chalice of Hind is filled with the wine of truth, its thought scales heaven's heights, and a thousand heaven-born souls have adorned India's name. Ram is described as the 'great Lamp of Light' whose radiance makes even the dusk of Hind brighter than the dawn. Iqbal praises Ram on two dimensions: (1) valor — his courage with the sword was peerless; and (2) spiritual purity — his soul was peerless in purity and loving fire. The overall portrayal is deeply reverential: Ram is India's defining spiritual exemplar, the luminous guide whose character and legacy illuminate the entire subcontinent.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "iqbal"}, "result_summary": "Found three Bang-e-Dara works; Part 3 slug is allama-iqbal-bang-e-dara-part-3-cc61e8"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "Chapter 17 is titled 'Ram'"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 17, "variant": "translation"}, "result_summary": "Full 6-stanza poem retrieved; Ram portrayed as Hind's Spiritual Guide, peerless in valor and purity"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 17, "paragraph_id": "p-f8aace"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 17, "paragraph_id": "p-55f8c1"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 17, "paragraph_id": "p-567e82"}
+  ]
+}

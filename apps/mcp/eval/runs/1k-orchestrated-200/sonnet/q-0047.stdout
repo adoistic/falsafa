@@ -1,0 +1,20 @@
+```json
+{
+  "answer": "In 'Subah Ka Sitara' (Morning Star), the poem is written from the perspective of Venus/the morning star itself — the speaker IS Venus, voicing a sustained lament. Venus says: (1) it forsakes the joy of sun and moon for its duty as herald of the morning; (2) the starry realm holds no delight — 'Far better is earth's lowliness than this great height'; (3) its fate is to 'daily die and live' — dying each dawn as the sun rises; (4) its service and exalted celestial station are worth far less than a dark, silent, obscure fate; (5) it would rather be a pearl gleaming in ocean depths, or a jewel on a queen's crown, or a stone on Solomon's ring — something earthly and intimate — than remain a star; (6) it ultimately wishes to be a tear falling from the eye of a soldier's wife at parting, so that 'in the dust, eternal life I'd find / And show the fire of love to all mankind.' The overarching statement is that Venus finds its celestial splendor hollow and loveless, and yearns for a humble earthly existence filled with genuine human feeling. (Source: allama-iqbal-bang-e-dara-part-1-55b25c, chapter 42)",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Morning Star Venus"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 Bang-e-Dara works by Allama Iqbal"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "Found chapter 42 titled 'Subah Ka Sitara'"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 42, "variant": "translation"}, "result_summary": "Full poem retrieved — Venus speaks in first person lamenting its celestial role, preferring earthly lowliness, wishing to be a pearl, gem, or tear rather than a star"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 42, "paragraph_id": "p-aab796"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 42, "paragraph_id": "p-658448"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 42, "paragraph_id": "p-f7ffd9"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 42, "paragraph_id": "p-17be48"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 42, "paragraph_id": "p-2aceb1"}
+  ]
+}
+```
+
+The poem is a dramatic monologue — Venus/the morning star speaks in first person. The core statement: Venus is the herald of dawn but finds no joy in its celestial role. It laments that its fate is to "daily die and live" (vanishing each morning as the sun rises), considers its exalted station worth less than quiet obscurity, and wishes it were something earthly — a pearl in the sea, a jewel on a throne, or ultimately a tear from a soldier's wife's eye at parting — where it might find "eternal life" by embodying human love rather than cold celestial duty.

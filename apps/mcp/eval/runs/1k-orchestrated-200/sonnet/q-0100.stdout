@@ -1,0 +1,20 @@
+```json
+{
+  "answer": "The corpus contains Tarana-e-Milli as chapter 23 of Bang-E-Dara Part 3 (work slug: allama-iqbal-bang-e-dara-part-3-cc61e8) in three variants (original Urdu, transliteration, and English translation). Having read the complete poem in all variants, there is no line in which Iqbal explicitly calls the Muslim community a 'single body' (ek jism / ek tan or equivalent). The poem's unity theme is carried by lines such as 'Muslim hain hum, watan hai saara jahan hamara' (We are Muslims, the whole world is our homeland) and 'Tauheed ki amanat seenon mein hai hamare' (The trust of One God fills our hearts), but none of these amount to calling the ummah a single body. The specific line asked about does not appear in the corpus text of Tarana-e-Milli.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Tarana-e-Milli"}, "result_summary": "Found chapter 23 of allama-iqbal-bang-e-dara-part-3-cc61e8"},
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Three Iqbal works in corpus: Bang-E-Dara Parts 1, 2, 3"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 23, "variant": "translation"}, "result_summary": "Full English translation — no 'single body' line present"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 23, "variant": "transliteration"}, "result_summary": "Full transliteration — no ek jism / ek tan line present"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 23, "variant": "original"}, "result_summary": "Original Urdu — no single-body formulation present"},
+    {"name": "search_corpus", "args": {"query": "single body Muslim"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "one body believers"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "ek tan ek jism"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "nation like one body"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "body limb pain aches"}, "result_summary": "0 results"}
+  ],
+  "citations": []
+}
+```
+
+The corpus has Tarana-e-Milli in full (all three variants), but no line calling the Muslim community a "single body" appears anywhere in the poem. The unity theme is expressed through "Muslim hain hum, watan hai saara jahan hamara" and similar lines, but the specific "single body" formulation is not present in the corpus text.

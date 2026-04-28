@@ -1,0 +1,11 @@
+{
+  "answer": "Manusmriti 9.62 (paragraph p-94a511) prescribes what becomes of a widow who bears a son by her husband's brother through niyoga: 'when the purpose of the appointment to a widow has been fulfilled according to the rule, they should behave towards each other as a guru and a daughter-in-law.' In other words, once the widow has borne the appointed son, she and the brother-in-law must thereafter treat each other with the formal distance of a daughter-in-law and her father-in-law (guru) — the sexual relationship ends entirely, and any continuation out of lust renders both outcastes (9.63).",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Found Manusmriti slug: unknown-manusmrti-347b76, 12 chapters"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9}, "result_summary": "Chapter 9 has 155 paragraphs; output too large, used targeted passage fetch"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_range": {"start": 58, "end": 70}}, "result_summary": "Found niyoga section Mn_9.59–9.71; Mn_9.62 directly prescribes widow's status after bearing the son"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-94a511"}
+  ]
+}

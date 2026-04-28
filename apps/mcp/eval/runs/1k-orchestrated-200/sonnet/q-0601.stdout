@@ -1,0 +1,37 @@
+```json
+{
+  "answer": "Niyoga is the practice of appointing a woman (typically a widow or a wife whose husband is impotent/absent) to cohabit with a designated male kinsman—usually a brother-in-law (devar) or sapiṇḍa—for the sole purpose of begetting a son to continue the family line. The term literally means 'appointment' or 'delegation.'\n\n**Manu's position (Manusmṛti, ch. 9):** Manu presents a famously self-contradictory stance. At Mn_9.59, he permits niyoga as a last resort when the family line is in danger of extinction: 'desired offspring may be obtained by a woman, through niyoga (the appointment of a wife to bear a son by another), from a brother-in-law or from a sapiṇḍa.' He sets strict ritual conditions: the appointed man must be anointed with ghee, approach her silently at night, and beget only one son (Mn_9.60). If the two behave out of lust beyond the sanctioned purpose, they become outcastes 'as a defiler of a daughter-in-law and a defiler of a guru's bed' (Mn_9.63). Then, strikingly, Manu reverses himself and condemns the practice: 'A widow must not be appointed to another man by the twice-born; for by appointing her to another, they would destroy the eternal Dharma' (Mn_9.64). He asserts that niyoga is 'nowhere mentioned' in the sacred marriage formulas (Mn_9.65), calls it a 'bestial law condemned by the learned twice-born' (Mn_9.66), traces it to the corrupt reign of King Vena (Mn_9.67), and states that 'him the virtuous condemn' who appoints a dead man's widow for offspring (Mn_9.68). Bṛhaspati (Brh_1,25.16) explicitly notes this tension: 'Though stated by Manu, niyoga was forbidden by him himself. Due to the decline of the age, it is impossible for all to perform it according to the rule.'\n\n**Yājñavalkya's position (Yājñavalkya Smṛti, ch. 1):** Yājñavalkya presents a cleaner, more permissive rule without Manu's self-condemnation. At Yj_1.68–69 he states: 'A younger brother, or a Sapiṇḍa or Sagotra, authorized by the elders, for the sake of begetting a son, may approach the childless wife at her fertile period, anointed with ghee. He may approach her until a child is conceived; otherwise, he becomes an outcast. A son born by this rule becomes his kṣetraja son.' Yājñavalkya specifies the same ritual conditions (ghee, fertile period, limited to conception) and the same eligible appointees (younger brother, sapiṇḍa/sagotra), but he does not include any subsequent condemnation of the practice as bestial or a destroyer of eternal dharma.\n\n**Comparison:** Both texts agree on the mechanics—niyoga requires elder authorization, ghee anointing, approach at the fertile period, and produces a kṣetraja son. The critical divergence is evaluative: Manu both permits and condemns niyoga in the same chapter, leaving a textual contradiction that later smṛtikāras such as Bṛhaspati resolved by attributing the practice's impracticability to the Kali Yuga (Brh_1,25.17). Yājñavalkya simply states the permissive rule without the self-condemnation, suggesting a stricter reading that the institution is valid when properly observed. In later legal commentary the Yājñavalkya position was generally taken as the operational rule, while Manu's condemnation was read as applying to niyoga performed out of lust rather than the legitimate, ritualized form.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "niyoga levirate"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {}, "result_summary": "38 works; identified unknown-manusmrti-347b76 (Manusmṛti) and unknown-yajnavalkya-smrti-cb88d6 (Yājñavalkya Smṛti)"},
+    {"name": "search_corpus", "args": {"query": "niyoga"}, "result_summary": "4 results: Bṛhaspati Smṛti ch.1 (×2, paragraphs p-579dc5/p-2a0a87) and Manusmṛti ch.9 (×2, paragraphs p-a1e160/p-5e27f5)"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_range": {"start": 55, "end": 90}}, "result_summary": "Retrieved Mn_9.56–70 with full niyoga passages: Mn_9.59 (permission), Mn_9.60–63 (conditions), Mn_9.64–68 (condemnation)"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_range": {"start": 50, "end": 150}}, "result_summary": "Retrieved Yj_1.51–144; found niyoga passage at Yj_1.68–69 (p-b6655a, p-4e2096): permission with conditions, kṣetraja son"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1, "paragraph_range": {"start": 1000, "end": 1040}}, "result_summary": "Found section 1.25.3 'The Prohibition of niyoga': Brh_1,25.16 (p-2a0a87) noting Manu both stated and forbade niyoga, and Brh_1,25.17 (p-722626) attributing impossibility to Kali Yuga decline"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-a1e160"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-f4dfaf"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-94a511"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-d50ed6"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-f00094"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-5e27f5"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-2aab16"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-509475"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-b6655a"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-4e2096"},
+    {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1, "paragraph_id": "p-2a0a87"},
+    {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1, "paragraph_id": "p-722626"}
+  ]
+}
+```
+
+**Summary of findings:**
+
+- **Niyoga** = the ritual appointment of a widow (or childless wife) to a brother-in-law or sapiṇḍa kinsman, under strict conditions, solely to beget a son when the family line faces extinction. The son produced is called a *kṣetraja* son.
+
+- **Manu** (Manusmṛti 9.59–68): Internally contradictory. Permits niyoga at 9.59–63 under tight rules (ghee, silence, night, one son only), then reverses at 9.64–68, calling it a "bestial law" nowhere sanctioned in Vedic marriage formulas, tracing it to the corrupt reign of King Vena.
+
+- **Yājñavalkya** (Yājñavalkya Smṛti 1.68–69): Cleanly permissive. States the same conditions (younger brother or sapiṇḍa/sagotra, elder authorization, ghee, fertile period, until conception only) without any subsequent self-condemnation.
+
+- **Bṛhaspati** (1.25.16–17) resolves the Manu contradiction explicitly: "Though stated by Manu, niyoga was forbidden by him himself. Due to the decline of the age, it is impossible for all to perform it according to the rule"—attributing its impracticability to the degraded Kali Yuga.

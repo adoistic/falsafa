@@ -1,0 +1,33 @@
+```json
+{
+  "answer": "Multiple works in the corpus engage directly with Brahmin privileges and duties, all of them Dharmaśāstra (smṛti) texts in Sanskrit:\n\n1. **Manusmṛti** (`unknown-manusmrti-347b76`) — the most extensive treatment. Chapter 1 lists Brahmin duties: 'To the Brahmanas he assigned teaching and studying, sacrificing for oneself and sacrificing for others, giving and receiving alms' (Mn_1.88), and asserts sweeping privileges: 'Whatever exists in the world is the property of the Brahmana; by his pre-eminence of birth, the Brahmana is indeed entitled to this all' (Mn_1.100). Chapter 10 adds: 'A Brahmana alone should teach them, not the other two' (Mn_10.1) and 'the Brahmana is the lord of the varnas' (Mn_10.3).\n\n2. **Āṅgirasa Smṛti** (`unknown-angirasa-smrti-2bf9d1`) — Chapter 1 contains a dedicated section titled 'The Brahmin's Right to the Veda,' asserting that a Brahmin alone has the right to recite the Veda (Ang_1.159–160), discusses markers of Brahminhood (top-knot and sacred thread, Ang_1.62–65), and treats the duties of an ascetic 'with the permission of Brahmins' (Ang_1.143–146).\n\n3. **Viṣṇu Smṛti** (`unknown-visnu-smrti-27f0d8`) — Chapter 2 opens with the four varṇas and explicitly states 'The duty of a Brāhmaṇa is teaching' (Vi_2.5), 'For the twice-born, sacrificing for others and studying the Veda are also duties' (Vi_2.9), and 'For a Brāhmaṇa, officiating at sacrifices for others and accepting gifts' as their prescribed livelihood (Vi_2.11).\n\n4. **Parāśara Smṛti** (`unknown-parasara-smrti-2259be`) — Chapter 1 is titled 'The Conduct of the Four Social Classes' (cāturvarṇyācāra); Chapter 2 opens 'A Brāhmaṇa, while engaged in his six duties...' and discusses restrictions on Brahmin agriculture and the proper occupations for a Brahmin.\n\n5. **Yājñavalkya Smṛti** (`unknown-yajnavalkya-smrti-cb88d6`) — Chapter 1 identifies the four varṇas and declares Brahmins (with Kṣatriyas and Vaiśyas) as the twice-born for whom sacramental rites from conception to cremation apply, and discusses student celibacy and conduct largely in the Brahmin frame.\n\nThe Kātyāyana Smṛti (`unknown-katyayana-smrti-1e06d2`) also refers to a king being 'devoted to Brahmins' (K_001), treating Brahmin honor as a royal duty. The Bṛhaspati Smṛti and Nārada Smṛti focus primarily on legal procedure and do not foreground Brahmin privileges as a distinct topic.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Brahmin"}, "result_summary": "30 results, all from Āṅgirasa Smṛti ch.1, confirming heavy Brahmin content including 'The Brahmin's Right to the Veda' section"},
+    {"name": "list_works", "args": {}, "result_summary": "38 works listed; identified multiple Sanskrit smṛti texts as candidates: Manusmṛti, Āṅgirasa Smṛti, Viṣṇu Smṛti, Yājñavalkya Smṛti, Parāśara Smṛti, Kātyāyana Smṛti, Bṛhaspati Smṛti, Nāradasmṛti, Yama Smṛti"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1}, "result_summary": "Mn_1.88: Brahmin duties = teaching, studying, sacrificing, giving/receiving; Mn_1.93, 1.100: Brahmin 'lord of creation,' all property belongs to Brahmin by birth-right"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 10}, "result_summary": "Mn_10.1: Brahmin alone should teach; Mn_10.3: Brahmin is lord of varnas by pre-eminence of origin"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 2}, "result_summary": "Vi_2.5: duty of Brahmin = teaching; Vi_2.9: twice-born sacrifice/study; Vi_2.11: Brahmin livelihood = officiating sacrifices and accepting gifts"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-parasara-smtp-2259be", "chapter_number": 1}, "result_summary": "Chapter titled 'Conduct of the Four Social Classes'; introduces Brahmin six duties framework"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 2}, "result_summary": "Brahmin's six duties mentioned; restrictions on Brahmin agriculture; proper Brahmin livelihood"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1}, "result_summary": "Yj_1.10: four varṇas; Brahmins as twice-born with sacramental rites; conduct chapter frames duties in Brahmin-centric terms"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-katyayana-smrti-1e06d2", "chapter_number": 1}, "result_summary": "K_001: king should be 'devoted to Brahmins' — references Brahmin honored status rather than their internal duties"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1}, "result_summary": "Focuses on legal procedure and king's qualities; does not foreground Brahmin privileges as a dedicated topic"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-naradasmrti-7650d2", "chapter_number": 1}, "result_summary": "Legal procedure focus; Brahmin privileges not a central topic"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-71a5c2"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-cc748e"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-7c0113"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 10, "paragraph_id": "p-4999b4"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 10, "paragraph_id": "p-258a37"},
+    {"work_slug": "unknown-angirasa-smrti-2bf9d1", "chapter_number": 1, "paragraph_id": "p-dd2905"},
+    {"work_slug": "unknown-angirasa-smrti-2bf9d1", "chapter_number": 1, "paragraph_id": "p-d7f44b"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 2, "paragraph_id": "p-354ee5"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 2, "paragraph_id": "p-a6c0a0"},
+    {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 2, "paragraph_id": "p-b04c1d"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-546db5"}
+  ]
+}
+```
+
+Five works engage substantively with Brahmin privileges and duties, all Sanskrit Dharmaśāstra texts: **Manusmṛti** (most extensively, chs. 1 and 10), **Āṅgirasa Smṛti** (ch. 1, including a section explicitly titled "The Brahmin's Right to the Veda"), **Viṣṇu Smṛti** (ch. 2, with terse categorical statements of Brahmin duty and livelihood), **Parāśara Smṛti** (chs. 1–2, framed under "Conduct of the Four Social Classes"), and **Yājñavalkya Smṛti** (ch. 1). The Kātyāyana Smṛti mentions Brahmin reverence as a royal duty but does not address the Brahmin's own duties directly.

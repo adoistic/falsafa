@@ -1,0 +1,30 @@
+```json
+{
+  "answer": "Three operative passages, one per tradition:\n\n1. ŚRUTI in the smritis — Manusmṛti 2.10 (unknown-manusmrti-347b76, ch. 2, paragraph p-4aaac7): \"*Śruti* (the revealed Vedas) should be known as the Veda, and *Smṛti* indeed as the sacred treatises on Dharma; these two are not to be questioned in any matter, for from them Dharma shone forth.\" Supporting frame: Mn_1.4 (p-35908f), where Manu opens transmission with the formula 'Let it be heard.'\n\n2. WAHY in Iqbal's Urdu — Jawab-e-Shikwa (Bang-e-Dara Part 3, ch. 4; allama-iqbal-bang-e-dara-part-3-cc61e8, paragraph p-644d2a): \"A Voice replied: 'Your tale is filled with grief, / Your cup of tears o'erflows beyond belief. / Your frenzied cry has reached the heavens' ear; / How bold the tongue of your wild heart, I hear! / Yet you gave grievance such a graceful art, / You taught a slave to speak with God, heart to heart.'\" Urdu: 'āyī āwāz, gham-angez hai afsāna tera…' The poem also invokes 'Jalwa-e-Toor' (theophany of Sinai, site of divine speech to Moses) and closes with 'Lawh-o-Qalam tere hain' (the Tablet and Pen are yours), spreading revelation across auditory and calligraphic registers.\n\n3. REVELATIO implicit in Cynewulf — Elene, ch. 1 (cynewulf-elene-d2d132, paragraph p-306e06): \"The messenger of glory spoke with majesty, his voice a balm for the leader's bale-sorrows. 'Constantine, king! Cast out your terror, / and fear not this foe, this fearsome war-band. / Look to the heavens, to the Lord of Hosts, / and see this sign, this salvation-token.'\" The angel had already 'called out his name through the closing darkness' (p-acdc07) before the verbal revelation.\n\nWhich places the most weight on audibility?\n\nŚruti in the smritis does, at the deepest conceptual level. The word śruti derives from Sanskrit śru (to hear) and means literally 'that which is heard.' Audibility is not merely the medium — it is definitionally constitutive of what makes something śruti rather than smṛti. Every appeal to śruti as supreme authority (Mn_2.10, Mn_2.13) grounds itself on the heard-ness of the Veda. The transmission frame — 'Let it be heard' (Mn_1.4, Mn_1.60) — positions the text in the auditory register. No other mode of reception (reading, reasoning, writing) can create śruti; only hearing in an unbroken oral lineage authorizes the text as revealed.\n\nCynewulf's passage is the most dramatically rendered auditory event — 'his voice a balm' gives the heavenly voice physical, curative qualities — but the revelation doubles as a visual/inscriptional sign (the cross with written words). Iqbal's wahy opens with 'A Voice came' but closes with the Tablet and Pen, and Islamic theology already recognizes non-auditory modes of wahy. Only śruti collapses its entire authority onto a single modality: sound received by hearing.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "38 works listed; identified Manusmrti, Iqbal Bang-e-Dara parts 1-3, Cynewulf Elene/Andreas/Juliana"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1}, "result_summary": "Found Mn_1.4 'Let it be heard' and Mn_1.108 Śruti/Smārta pairing"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 2, "paragraph_range": {"start": 5, "end": 15}}, "result_summary": "Found Mn_2.10 (p-4aaac7): key śruti operative passage"},
+    {"name": "get_passage", "args": {"work_slug": "cynewulf-elene-d2d132", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 5}}, "result_summary": "Found p-acdc07 (angel calls name) and p-306e06 ('his voice a balm')"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 4}, "result_summary": "Jawab-e-Shikwa: p-644d2a 'A Voice replied'; Jalwa-e-Toor; Lawh-o-Qalam"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 4, "variant": "original"}, "result_summary": "Confirmed Urdu 'āyī āwāz' and 'Jalwa-e-Toor' couplet"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 2, "paragraph_id": "p-4aaac7"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-35908f"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 4, "paragraph_id": "p-644d2a"},
+    {"work_slug": "cynewulf-elene-d2d132", "chapter_number": 1, "paragraph_id": "p-306e06"},
+    {"work_slug": "cynewulf-elene-d2d132", "chapter_number": 1, "paragraph_id": "p-acdc07"}
+  ]
+}
+```
+
+**Summary of findings:**
+
+**Śruti** — Manusmṛti 2.10 (`unknown-manusmrti-347b76`, ch. 2, p-4aaac7): "*Śruti* (the revealed Vedas) should be known as the Veda… for from them Dharma shone forth." The text opens its own transmission with "Let it be heard" (Mn_1.4, p-35908f).
+
+**Wahy** — Jawab-e-Shikwa (`allama-iqbal-bang-e-dara-part-3-cc61e8`, ch. 4, p-644d2a): "A Voice replied: 'Your tale is filled with grief… Your frenzied cry has reached the heavens' ear.'" Urdu: *āyī āwāz*. The poem also invokes *Jalwa-e-Toor* (the Sinai theophany where God spoke to Moses) and closes with *Lawh-o-Qalam* (Tablet and Pen), spreading revelation across auditory and inscriptional registers.
+
+**Revelatio (Cynewulf)** — Elene ch. 1 (`cynewulf-elene-d2d132`, p-306e06): "The messenger of glory spoke with majesty, **his voice a balm** for the leader's bale-sorrows." The angel had already "called out his name through the closing darkness" (p-acdc07), then the vision of the cross with inscribed words follows.
+
+**Which is most auditory?** **Śruti** wins at the conceptual level: the word literally means "that which is heard" — audibility is definitionally constitutive of the category, not merely its medium. Cynewulf's passage is the most dramatically sensory ("voice a balm"), but Elene's revelation also becomes visual/inscriptional. Iqbal's wahy opens with *āyī āwāz* but closes with the Tablet and Pen, and wahy in Islamic theology allows non-auditory modes. Only śruti collapses its entire authority claim onto one channel: sound received by hearing.

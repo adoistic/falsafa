@@ -1,0 +1,16 @@
+{
+  "answer": "Chapter 5 of the Viṣṇu Smṛti (work slug: unknown-visnu-smrti-27f0d8) prescribes the punishment for a Brahmin's theft. The text establishes that no corporal punishment shall be inflicted on a Brāhmaṇa (Vi_5.2); instead, a Brāhmaṇa shall be branded and banished from his country (Vi_5.3). For the specific offense of theft, the branding mark prescribed is the mark of a dog's foot (Vi_5.6).",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Found 38 works including Viṣṇu Smṛti with slug 'unknown-visnu-smrti-27f0d8', 100 chapters"},
+    {"name": "search_corpus", "args": {"query": "Brahmin theft punishment"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "stealing Brahmin penalty"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "Brahmana theft"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "shall be branded"}, "result_summary": "3 results including Viṣṇu Smṛti ch.5 with snippet about no corporal punishment for Brāhmaṇa and branding+banishment"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 5}, "result_summary": "Vi_5.2: no corporal punishment for Brāhmaṇa; Vi_5.3: Brāhmaṇa shall be branded and banished; Vi_5.6: for theft, mark of a dog's foot"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 5, "paragraph_id": "p-8c285b"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 5, "paragraph_id": "p-583b27"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 5, "paragraph_id": "p-8d4644"}
+  ]
+}

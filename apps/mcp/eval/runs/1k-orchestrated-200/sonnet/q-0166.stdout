@@ -1,0 +1,21 @@
+```json
+{
+  "answer": "The passage on the duties of Brahmins in the Kali age is found in Parāśara Smṛti (work slug: unknown-parasara-smrti-2259be), Chapter 1. The chapter opens by establishing that in the Kali yuga only charity (dāna) is supreme (verse 1.23, paragraph p-afd7d9), and that Parāśara's dharmaśāstra is the authoritative text for this age (verse 1.24, paragraph p-121575). It then declares the six daily duties of a Brāhmaṇa: (1) twilight prayers and bathing (sandhyā), (2) recitation of sacred texts (japa), (3) fire offerings (homa), (4) worship of deities, (5) hospitality to guests (atithi), and (6) the Vaiśvadeva ritual offering — as enumerated in verse 1.39 (paragraph p-40daa2). Verse 1.38 (paragraph p-f4eb93) summarizes: 'A Brāhmaṇa who is ever devoted to the six duties, who worships deities and guests, and who eats the remnants of the fire offering, does not perish.' The broader Kali-yuga context (verses 1.22–1.34) explains that dharma differs by age, that in Kali one falls only by committing the sinful act itself (not by mere association), and that the doctrine of Parāśara was conceived specifically for the Brāhmaṇas and the establishment of dharma in this age.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Found 38 works; identified 'unknown-parasara-smrti-2259be' (Parāśara Smṛti, 12 chapters, Sanskrit)"},
+    {"name": "search_corpus", "args": {"query": "Parasara Smriti Kali age"}, "result_summary": "0 results — full-text search returned nothing for this phrase"},
+    {"name": "search_corpus", "args": {"query": "Kali age Brahmin duties"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "Kali yuga prescribed"}, "result_summary": "0 results"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-parasara-smrti-2259be"}, "result_summary": "12 chapters, all titled generically (Chapter 1–12)"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 1}, "result_summary": "Chapter 1 contains the Kali-yuga framing (verses 1.22–1.34) and the six Brahmin duties (verses 1.38–1.39); key paragraphs: p-afd7d9, p-121575, p-f4eb93, p-40daa2"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 1, "paragraph_id": "p-afd7d9"},
+    {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 1, "paragraph_id": "p-121575"},
+    {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 1, "paragraph_id": "p-f4eb93"},
+    {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 1, "paragraph_id": "p-40daa2"}
+  ]
+}
+```
+
+The passage is in **Parāśara Smṛti, Chapter 1** (`unknown-parasara-smrti-2259be`). The chapter frames the entire text as the authoritative dharmaśāstra for the Kali yuga (verses 1.22–1.24), then enumerates the six daily duties of Brahmins (verses 1.38–1.39): twilight prayers/bathing, japa, homa, deity worship, atithi hospitality, and the Vaiśvadeva ritual. The capping verse (1.38, p-f4eb93) states that a Brāhmaṇa devoted to these six duties "does not perish."

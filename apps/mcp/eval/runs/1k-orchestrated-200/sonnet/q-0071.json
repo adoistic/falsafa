@@ -1,0 +1,18 @@
+{
+  "answer": "In Iqbal's 'Mauj-e-Darya' (Bang-e-Dara Part 1, chapter 31), the wave's restlessness is depicted as an intrinsic, tormented condition of its very nature. The wave declares: 'This unquiet heart keeps me in constant torment, / This sacred agony, like quicksilver, is my element.' Its restlessness stems from an insatiable yearning — it finds even the vast ocean shallow ('My name is Wave; to me, the ocean itself seems shallow'), refuses to be trapped by any whirlpool, leaps toward the moon, and dashes against the shore in anguish. The wave is 'a traveler in love with the final goal,' driven by a longing it cannot fully name. Crucially, its restlessness is not mere agitation but spiritual: it flees the 'river's narrow straits' because it is separated from the ocean's vast expanse — the restlessness is the pain of separation from its infinite source.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Mauj-e-Darya wave restless"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 Bang-e-Dara parts by Allama Iqbal"},
+    {"name": "search_corpus", "args": {"query": "river wave darya"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "wave restlessness ocean"}, "result_summary": "0 results"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "Found chapter 31 titled 'Mauj_e_Darya'"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 31, "variant": "translation"}, "result_summary": "Full poem retrieved — 7 paragraphs describing the wave's restless, tormented yearning for the ocean"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 31, "paragraph_id": "p-328ed1"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 31, "paragraph_id": "p-475086"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 31, "paragraph_id": "p-7fe833"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 31, "paragraph_id": "p-4bcd07"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 31, "paragraph_id": "p-2c2ab8"}
+  ]
+}

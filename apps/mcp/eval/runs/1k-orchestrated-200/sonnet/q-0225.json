@@ -1,0 +1,30 @@
+{
+  "answer": "Both Manusmrti (Chapter 1) and Visnu Smriti (Chapter 20) present the same four-yuga sequence — Krita, Treta, Dvapara, and Kali — and agree on the core numerical values and the Manvantara/Kalpa framework, but they differ in presentation, level of detail, and scope.\n\n**Numerical values (identical in both):**\n- Kali = 1,200 divine years\n- Dvapara = 2,400\n- Treta = 3,600\n- Krita = 4,800\n- Total four-yuga cycle = 12,000 divine years\n- 71 four-yuga cycles = 1 Manvantara\n- 1,000 four-yuga cycles = 1 day of Brahma (night equals the same)\n\n**How Manu presents it (Mn_1.69–70):** He specifies that the Krita Yuga's core is 4,000 divine years, with a twilight period (sandhya) of 400 years before and 400 after, then works down by subtracting one thousand (core) and one hundred (twilight) for each successive age. This gives the same totals but foregrounds the internal structure of each yuga with its twilight intervals.\n\n**How Visnu Smriti presents it (Vi_20.6–9):** It states the Kali Yuga as 1,200 divine years first, then defines the others as simple multiples (double, triple, quadruple). There is no mention of twilight periods at all — just the raw totals. The sequence is also stated in ascending order (Kali → Dvapara → Treta → Krita), whereas Manu goes descending (Krita down to Kali).\n\n**Moral and dharmic content:** Manu provides an extensive characterization of how dharma declines across the yugas — four-footed in Krita, losing one foot per age — and specifies that the ruling dharma for each yuga is tapas (Krita), knowledge (Treta), yajna/sacrifice (Dvapara), and giving/dana (Kali). Human lifespan is 400 years in Krita, diminishing by one quarter each age. Visnu Smriti Chapter 20 contains none of this moral characterization; after presenting the time-units it moves directly to reflections on impermanence and death.\n\n**Extended cosmic scale:** Visnu Smriti goes further than Manu by adding a level above Brahma: the 'day of Purusa (the Supreme Being)' is measured by Brahma's entire lifespan (100 Brahma-years), at the end of which comes the mahākalpa (great dissolution). Manu does not extend the hierarchy to the Purusa level.\n\n**Terminology:** Visnu Smriti uses the term 'Catur-yuga' for the four-yuga cycle and 'Kalpa' for 1,000 Catur-yugas = 1 Brahma-day. Manu uses neither of these terms explicitly, referring instead to 'an age of the gods' for the cycle and leaving the Brahma-day unit unnamed beyond the thousand-age formula.\n\nIn summary: the two texts are in full numerical agreement on the four yuga lengths and the Manvantara/Kalpa structure. Manu is richer in moral and dharmic content (the fourfold decline of dharma, the prescribed dharma for each age, lifespans), explains the yuga durations via core years plus twilights, and moves top-down from Krita. Visnu Smriti is terser, skips the twilight analysis and moral decline, presents the sequence bottom-up via multiples of the Kali unit, and extends the cosmic hierarchy one level higher to the Purusa.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Identified both works: unknown-manusmrti-347b76 and unknown-visnu-smrti-27f0d8"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1}, "result_summary": "Found full yuga account in Mn_1.68–86: Krita=4000+twilights, descending by 1000/100 per age; dharma fourfold in Krita; lifespans; dharma for each age"},
+    {"name": "compare_works", "args": {"work_slug_a": "unknown-manusmrti-347b76", "work_slug_b": "unknown-visnu-smrti-27f0d8", "topic": "four ages yugas"}, "result_summary": "Suggested chapters 1-3 for both works"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 1}, "result_summary": "No yuga content — narrative of Vishnu as Boar and Earth goddess seeking dharma instruction"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 2}, "result_summary": "No yuga content — varna duties"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 20}, "result_summary": "Found yuga account Vi_20.1–21: Kali=1200, Dvapara=double, Treta=triple, Krita=quadruple; Catur-yuga=12000; 71 Catur-yugas=Manvantara; 1000=Kalpa=Brahma-day; adds Purusa-day = Brahma lifespan"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-a22081"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-a2767c"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-85c454"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-03b23e"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-fcafde"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-1365cd"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-abd27d"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-8709d8"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 20, "paragraph_id": "p-bcffe3"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 20, "paragraph_id": "p-40c18a"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 20, "paragraph_id": "p-4ac5b0"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 20, "paragraph_id": "p-0c6a44"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 20, "paragraph_id": "p-3dbfee"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 20, "paragraph_id": "p-f69ec1"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 20, "paragraph_id": "p-542dc4"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 20, "paragraph_id": "p-07c03d"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 20, "paragraph_id": "p-518b9d"}
+  ]
+}

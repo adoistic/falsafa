@@ -1,0 +1,28 @@
+```json
+{
+  "answer": "In 'Shikwa' (Bang-E-Dara Part 3, ch. 20), the rhetorical move is performative complaint directed upward — an act of bold apostrophe to God. Iqbal frames the speech self-consciously as transgressive ('Forgive my tongue, but God, I have a grievance to declare'), positioning the Muslim collective as a wronged party presenting a legal petition to the divine court. The argument is structured as a historical quid pro quo: the speaker catalogues Muslims' sacrifices for God's name ('It was we, and we alone, who were Your champions in the fight... we died along the way') and then contrasts this past service with present abandonment ('Is this the prize for those who gave their very lives for Thee?'). The emotion — anger, bewilderment, defiance — is itself deployed as evidence. The mode is dialogic and adversarial: God is directly addressed throughout, implicitly expected to respond.\n\nIn 'Falsafa-e-Gham' (Bang-E-Dara Part 3, ch. 7), the rhetorical move is philosophical distancing. Iqbal steps back from grief altogether to examine its ontological function. There is no direct address to God; the speaker instead makes impersonal, aphoristic observations ('Sorrow is not sorrow, but a silent song of soul'). Grief is reframed as a necessary instrument of spiritual development — it 'polishes' the heart, gives the soul 'wings for flight,' and preserves the beloved through continued presence in memory. The river metaphor (a stream shatters on valley rocks, becomes a thousand pearls, then reforms) performs this logic structurally: fragmentation and sorrow are stages in a larger pattern of reunion. The mode is monologic and consolatory.\n\nThe core rhetorical contrast: in Shikwa, grief is a speech act — it accuses, demands, and awaits reply; the poet wields it outward at God. In Falsafa-e-Gham, grief is a philosophical category — it is accepted, theorized, and transcended; the poet turns it inward as a tool of insight rather than a weapon of address.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "iqbal"}, "result_summary": "Found three Bang-E-Dara parts by Allama Iqbal"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "Found Shikwa at ch.20 and Falsafa-e-Gham at ch.7 in Bang-E-Dara Part 3"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "variant": "translation"}, "result_summary": "Read full Shikwa translation — 32 paragraphs of complaint directed at God, cataloguing Muslim service and present abandonment"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "variant": "translation"}, "result_summary": "Read full Falsafa-e-Gham translation — 7 paragraphs of philosophical meditation on sorrow as spiritual instrument, no direct address to God"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "paragraph_id": "p-efdd0c"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "paragraph_id": "p-7932bc"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "paragraph_id": "p-d1e7fe"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "paragraph_id": "p-141d8d"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "paragraph_id": "p-811039"}
+  ]
+}
+```
+
+Both poems are in **Bang-E-Dara Part 3** (`allama-iqbal-bang-e-dara-part-3-cc61e8`): Shikwa at ch. 20, Falsafa-e-Gham at ch. 7.
+
+**The rhetorical contrast in brief:**
+
+- **Shikwa** — grief as *speech act*. The entire poem is an apostrophe to God: Iqbal pre-emptively asks forgiveness before speaking ("Forgive my tongue, but God, I have a grievance to declare"), then mounts a historical quid pro quo — Muslims bled for Your name, so why are we now abandoned? The mode is dialogic and adversarial; emotion (anger, bewilderment) is itself the argument; God is addressed as a party who owes an answer.
+
+- **Falsafa-e-Gham** — grief as *philosophical object*. There is no direct address to God. The speaker steps back to examine what sorrow *does* ontologically: it polishes the heart, gives the soul wings, preserves the beloved through continued presence. The river metaphor (stream shatters on rocks → thousand pearls → reforms as silver thread) enacts the argument structurally. The mode is monologic and consolatory; grief is accepted, theorized, and transcended rather than wielded as accusation.
+
+In Shikwa, Iqbal wields grief outward — it is a demand directed at the divine. In Falsafa-e-Gham, he turns grief inward — it is a lens for understanding existence.

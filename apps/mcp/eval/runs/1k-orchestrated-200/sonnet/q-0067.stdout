@@ -1,0 +1,19 @@
+```json
+{
+  "answer": "The line that names the smith Welund is the opening line of the poem (known as 'Deor'), found in Old English Elegies, chapter 13: \"Welund him be wurman wræces cunnade,\" — meaning 'Welund knew well the worm's cruel bite' (or: 'Welund experienced misery among snakes/worms'). The name 'Welund' appears as the very first word of the poem.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Listed all 38 works; identified 'unknown-old-english-elegies-d5fe9e' as the collection most likely to contain a Welund poem"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e"}, "result_summary": "Found chapter 13 whose title is 'Welund him be wurman wraeces cunnade,' — the exact poem referenced in the question"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 13, "variant": "original"}, "result_summary": "Confirmed: the poem is 'Deor'; opening line in original Old English is 'Welund him be wurman wræces cunnade,' — Welund is named in the very first word"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 13, "paragraph_id": "p-180e66"}
+  ]
+}
+```
+
+The poem is **Deor** (Old English Elegies, ch. 13). The line naming the smith Welund is the very first line of the poem:
+
+> **Welund him be wurman wræces cunnade,**
+
+"Welund" is the first word — the smith is named right at the opening. The line translates roughly as "Welund knew the worm's misery" / "Welund experienced exile among serpents."

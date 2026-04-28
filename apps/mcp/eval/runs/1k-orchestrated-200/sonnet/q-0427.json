@@ -1,0 +1,38 @@
+{
+  "answer": "Ten works in the corpus specifically mention Greek or Roman antiquity:\n\n1. **cynewulf-elene-d2d132** (Elene, ch. 1) — The poem is set in the Roman era and explicitly refers to Constantine as 'the Caesar commanded, helm of the Romans,' 'lord of the Romans,' and 'king of the Romans.'\n\n2. **charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce** (Nouveau traité d'économie: VOL I, chs 2, 4, 6, 7, 8, 11) — Mentions the Roman empire, Homer and 'the Greeks of Homer,' Aristotle, and Socrates.\n\n3. **charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03** (Nouveau traité d'économie: VOL II, chs 19) — Mentions Aristotle (Greek philosopher), Virgil and Horace (Roman poets).\n\n4. **charles-comte-traite-de-legislation-vol-i-7e62a2** (Traité de Législation: VOL I, chs 1, 2, 9, 10, 11, 15, 17, 19, 22) — Mentions 'ancient peoples of Greece and Rome,' Aristotle, Plato (Greek), Cicero (Roman), Roman law, Roman empire, Roman republic.\n\n5. **charles-comte-traite-de-legislation-vol-ii-20331d** (Traité de Législation: VOL II, chs 2, 14) — Mentions 'ancient peoples of Italy and Greece' and Homer.\n\n6. **charles-comte-traite-de-legislation-vol-iii-ca589a** (Traité de Législation: VOL III, chs 30, 36, 37, 42, 48) — Mentions ancient Greece, 'republics of Greece,' Roman Republic, Roman empire, Roman conquests, Homer, Cicero, Virgil, Horace.\n\n7. **charles-comte-traite-de-legislation-vol-iv-bca040** (Traité de Législation: VOL IV, chs 2–7, 13, 17, 23) — Mentions Roman empire, Roman Republic, Roman senators, Aristotle, Plato, Cicero, Caesar, Pompey, Homer, Virgil.\n\n8. **charles-comte-traite-de-la-propriete-vol-i-2c7a99** (Traité de la propriété: VOL I, chs 1, 7, 9, 12–20) — Mentions Roman law extensively, Aristotle, Plato, Cicero, Roman Republic, Roman empire under Augustus.\n\n9. **charles-comte-traite-de-la-propriete-vol-ii-6beea5** (Traité de la propriété: VOL II, chs 31, 44, 45, 47) — Mentions Roman empire, Aristotle, Virgil.\n\n10. **sheikh-ibrahim-zauq-diwan-e-zauq-0fa798** (Diwan-E-Zauq, ch. 15) — References 'Platos' (the Greek philosopher Plato) in a ghazal.\n\nAll other works in the corpus (Iqbal's Bang-E-Dara, Ghalib's Diwan, Cynewulf's Andreas and Juliana, Old English Elegies, Fichte's Denkfreiheit, and all Sanskrit/Kawi/Indic texts) did not surface specific mentions of Greek or Roman antiquity in English-body searches.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Retrieved all 38 works in the corpus to understand scope"},
+    {"name": "search_corpus", "args": {"query": "Greek Roman"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "ancient Greece"}, "result_summary": "1 result: charles-comte-traite-de-legislation-vol-iii-ca589a ch.48"},
+    {"name": "search_corpus", "args": {"query": "Roman empire"}, "result_summary": "24 results across Dunoyer Vol I, Comte Legislation I–IV, Comte Propriété I–II"},
+    {"name": "search_corpus", "args": {"query": "Athens Greece"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "Rome Romans"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "Aristotle"}, "result_summary": "20 results across Dunoyer Vol I–II, Comte Legislation I and IV, Comte Propriété I–II"},
+    {"name": "search_corpus", "args": {"query": "Roman law"}, "result_summary": "30 results across Comte Legislation I and IV, Comte Propriété I–II"},
+    {"name": "search_corpus", "args": {"query": "Roman Republic"}, "result_summary": "13 results across Comte Legislation I, III–IV, Comte Propriété I"},
+    {"name": "search_corpus", "args": {"query": "Plato"}, "result_summary": "6 results: Zauq ch.15 (Platos), Comte Legislation I chs 9 and 15, Comte Legislation IV ch.3, Comte Propriété I ch.1"},
+    {"name": "search_corpus", "args": {"query": "Cicero"}, "result_summary": "7 results: Comte Legislation I ch.9, Comte Legislation III ch.48, Comte Legislation IV ch.23, Comte Propriété I ch.1"},
+    {"name": "search_corpus", "args": {"query": "Socrates"}, "result_summary": "1 result: Dunoyer Vol I ch.7"},
+    {"name": "search_corpus", "args": {"query": "Virgil"}, "result_summary": "4 results: Dunoyer Vol II ch.19, Comte Legislation III ch.48, Comte Legislation IV ch.23, Comte Propriété II ch.31"},
+    {"name": "search_corpus", "args": {"query": "Homer"}, "result_summary": "8 results: Dunoyer Vol I chs 2, 4, 6, 7; Comte Legislation II ch.2, Comte Legislation III chs 30 and 48, Comte Legislation IV ch.23"},
+    {"name": "search_corpus", "args": {"query": "Horace"}, "result_summary": "4 results: Dunoyer Vol I ch.6, Dunoyer Vol II ch.19, Comte Legislation III ch.42, Comte Propriété II ch.31 (Horaces=Corneille play, not the poet)"},
+    {"name": "search_corpus", "args": {"query": "ancient peoples"}, "result_summary": "14 results confirming Comte Legislation I ch.1 mentions 'ancient peoples of Greece and Rome'"},
+    {"name": "search_corpus", "args": {"query": "Roman senators"}, "result_summary": "3 results: Comte Legislation IV chs 6, 17, 23"},
+    {"name": "search_corpus", "args": {"query": "Roman conquest"}, "result_summary": "1 result: Comte Legislation III ch.37"},
+    {"name": "search_corpus", "args": {"query": "Greek word"}, "result_summary": "2 results: Dunoyer Vol I ch.6, Comte Legislation I ch.22"},
+    {"name": "read_chapter", "args": {"work_slug": "cynewulf-elene-d2d132", "chapter_number": 1}, "result_summary": "Confirmed: 'Constantine ruled, the Caesar commanded, helm of the Romans'; 'lord of the Romans'; 'king of the Romans' — explicit Roman antiquity references"}
+  ],
+  "citations": [
+    {"work_slug": "cynewulf-elene-d2d132", "chapter_number": 1, "paragraph_id": "p-222dfa"},
+    {"work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce", "chapter_number": 2, "paragraph_id": "p-fdb805"},
+    {"work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce", "chapter_number": 4, "paragraph_id": "p-a2c4c0"},
+    {"work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03", "chapter_number": 19, "paragraph_id": "p-6a8b68"},
+    {"work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2", "chapter_number": 1, "paragraph_id": "p-ce366c"},
+    {"work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d", "chapter_number": 14, "paragraph_id": "p-f8951c"},
+    {"work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a", "chapter_number": 48, "paragraph_id": "p-34f05f"},
+    {"work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040", "chapter_number": 23, "paragraph_id": "p-bed00d"},
+    {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99", "chapter_number": 1, "paragraph_id": "p-fcbad4"},
+    {"work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5", "chapter_number": 45, "paragraph_id": "p-5de7c5"},
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 15, "paragraph_id": "p-fa14b5"}
+  ]
+}

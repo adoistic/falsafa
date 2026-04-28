@@ -1,0 +1,15 @@
+{
+  "answer": "In 'Kinaar-e-Ravi' (chapter 28 of Bang-E-Dara Part 1, work slug: allama-iqbal-bang-e-dara-part-1-55b25c), the speaker stands by the banks of the River Ravi at evening and reflects on several intertwined themes: (1) a deep inner melancholy he cannot articulate ('Ask not the state of heart that I within me keep'); (2) a mystical self-dissolution — standing by the river, he no longer knows where he is; (3) the transience of history and empire, as he gazes at the distant minarets of the Mughal (Chughtai) king's tomb and contemplates the palace as a book of lost history; and (4) the immortality of the human soul, symbolized by a boat he watches race across the river — it disappears from sight but does not perish, just as the vessel of human life appears and vanishes in eternity yet is never truly defeated. The poem moves from sensory beauty (the singing river, the wine-stained sky, the sacred atmosphere) to a meditation on impermanence and the soul's enduring journey.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Kinaar-e-Ravi"}, "result_summary": "Found chapter 28 of Bang-E-Dara Part 1 (work slug: allama-iqbal-bang-e-dara-part-1-55b25c)"},
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Confirmed three Iqbal works in corpus, all parts of Bang-E-Dara"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 28, "variant": "translation"}, "result_summary": "Full English translation retrieved — 12 verse paragraphs covering evening at the Ravi, self-dissolution, Mughal ruins, and a boat as metaphor for the soul's journey"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 28, "paragraph_id": "p-70a0dc"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 28, "paragraph_id": "p-7ee613"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 28, "paragraph_id": "p-6b8789"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 28, "paragraph_id": "p-098157"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 28, "paragraph_id": "p-1c94bb"}
+  ]
+}

@@ -1,0 +1,21 @@
+```json
+{
+  "answer": "For Iqbal, 'aql (intellect/reason) is a necessary but limited faculty — cautious, stumbling, and mortal. He characterizes it as 'khajista-pai' (ill-fated, stumbling-footed): in Bang-E-Dara Part 2, ch.2, whose title is the prayer 'Ilahi aql-e-khajista-pai ko zara si deewangi sikha de' ('O God, teach a bit of madness to the ill-fated intellect'), he translates 'aql as 'my cautious, well-trod reason' that is 'obsessed with mending' — forever calculating, patching, unable to reach God on its own. In Part 3, ch.7 (Falsafa-e-Gham), the contrast is made explicit: 'While human Reason fades, Love is the ever-living soul.' 'Aql is mortal and fading; it cannot sustain life or guide the spirit to its ultimate destination.\n\nIshq (love/passionate longing), by contrast, is eternal, active, and transformative. It is the 'ever-living soul' that outlasts reason. In Part 1, ch.17 (Dard-e-Ishq), Iqbal counsels the anguish of love to 'leave the eye of reason in a daze' — ishq operates at a register beyond 'aql's comprehension. The divine madness (deewangi) Iqbal prays for in Part 2, ch.2 is precisely ishq's energy infusing and reanimating the stumbling intellect.\n\nThe two are not simple opposites but have distinct roles: in Part 3, ch.4 ('Dil se jo baat nikalti hai'), Iqbal states: 'Your shield is Reason, Passion is your sword.' 'Aql is the defensive, protective faculty; ishq is the conquering, life-giving force. Ishq has ontological priority — reason shields, but only love truly acts and lives. Iqbal does not dismiss 'aql; he asks God to teach it 'a sacred frenzy,' that is, to be enlivened and directed by ishq. The ideal for Iqbal is 'aql animated by ishq, not 'aql alone.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 works: Bang-E-Dara Parts 1, 2, 3"},
+    {"name": "search_corpus", "args": {"query": "aql ishq"}, "result_summary": "0 results — search does not match Urdu terms in English translations"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"}, "result_summary": "Found ch.2 titled 'Ilahi aql-e-khajista-pai ko zara si deewangi sikha de' — directly about 'aql; and ch.13 Husn o Ishq"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "Found ch.7 Falsafa-e-Gham, ch.4 'Dil se jo baat nikalti hai', ch.13 Khitab ba Jawanan-e-Islam"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 17}, "result_summary": "Dard-e-Ishq: 'leave the eye of reason in a daze' — ishq transcends 'aql"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 2}, "result_summary": "Core 'aql poem: 'O God, to my cautious, well-trod reason, teach a sacred frenzy' — 'aql as khajista-pai (ill-fated intellect) needing deewangi (madness/ishq)"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7}, "result_summary": "Falsafa-e-Gham: 'While human Reason fades, Love is the ever-living soul' — 'aql mortal, ishq eternal"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 4}, "result_summary": "'Dil se jo baat nikalti hai': 'Your shield is Reason, Passion is your sword' — complementary but ishq is the active sword"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 2, "paragraph_id": "p-cdb61d"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "paragraph_id": "p-e693fc"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 17, "paragraph_id": "p-35b0d1"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 4, "paragraph_id": "p-819a53"}
+  ]
+}
+```

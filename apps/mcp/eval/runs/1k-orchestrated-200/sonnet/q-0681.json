@@ -1,0 +1,16 @@
+{
+  "answer": "Not in corpus. The corpus contains only Iqbal's Bang-e-Dara poetry (Parts 1–3) in Urdu with English translations. His philosophical prose — including the Reconstruction of Religious Thought in Islam, where he directly critiques and positions wahdat-ul-wujud (unity of being / philosophical Sufism) — is not present. No MCP search for 'wahdat-ul-wujud', 'unity of being', 'pantheism', 'khudi', 'ego annihilation', 'Ibn Arabi', or related terms returned any relevant result from the Iqbal works in the corpus. Cannot answer this question from the available material.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "wahdat-ul-wujud"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"author": "iqbal"}, "result_summary": "3 works found: Bang-E-Dara Part 1, Part 2, Part 3 — all Urdu poetry"},
+    {"name": "search_corpus", "args": {"query": "unity of being"}, "result_summary": "1 result from Slokantara (Sanskrit), unrelated to Iqbal"},
+    {"name": "search_corpus", "args": {"query": "pantheism Iqbal"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "khudi self annihilation"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "Sufi pantheism ego"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "Ibn Arabi Sufi mysticism"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "wujud existence manifestation"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "mystic ego individuality"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {}, "result_summary": "38 total works — no Iqbal philosophical prose (Reconstruction of Religious Thought in Islam absent)"}
+  ],
+  "citations": []
+}

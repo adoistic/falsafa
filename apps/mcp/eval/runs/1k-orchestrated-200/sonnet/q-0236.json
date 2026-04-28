@@ -1,0 +1,17 @@
+{
+  "answer": "Where Manusmriti chapter 1 grounds legal authority in cosmic creation — Brahma fashions the universe and instructs Manu, giving the law a divine, cosmogonic origin — Yajnavalkya Smriti chapter 1 (work slug: unknown-yajnavalkya-smrti-cb88d6) opens with an entirely different scene and a multi-source theory of authority.\n\n1. Dialogic framing: Sages approach Yajnavalkya (described as 'lord of yogis', residing at Mithilā — a specific earthly place, not a cosmic setting) and ask him to declare the dharmas. Authority is thus located in a human sage-teacher responding to a community of questioners, not in a primordial divine act.\n\n2. Fourteen epistemic sources (Yj_1.3): 'The Purāṇas, Nyāya, Mīmāṃsā, Dharmaśāstra, and the Aṅgas, together with the Vedas, are the fourteen sources of knowledge and of dharma.' Authority is distributed across a canon of texts and disciplines, not concentrated in a single divine promulgation.\n\n3. Lineage of human promulgators (Yj_1.4–5): A list of twenty named sages (Manu, Atri, Viṣṇu, Yājñavalkya himself, Vyāsa, etc.) are named as 'promulgators of the Dharmaśāstras.' Law derives from a recognized human tradition, not from Brahma alone.\n\n4. Four-fold root of dharma (Yj_1.7): 'Revelation (the Vedas), tradition (the Smṛtis), the conduct of the virtuous, what is pleasing to one's own self, and desire born of right resolve — this is declared to be the root of dharma.' Personal conscience and virtuous conduct are included alongside revelation.\n\n5. Consensual validation (Yj_1.9): 'An assembly of four who know the Veda and dharma… or even one who is a supreme knower of the Self — what they declare is dharma.' The learned community and the self-realized individual are both legitimate authorities.\n\nIn sum, Yajnavalkya frames law's authority as pluralistic and tradition-based — grounded in the Vedas plus a recognized canon, a lineage of sages, virtuous community practice, and personal discernment — rather than in a single cosmogonic divine command.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "yajnavalkya"}, "result_summary": "Found one work: unknown-yajnavalkya-smrti-cb88d6, 3 chapters"},
+    {"name": "search_corpus", "args": {"query": "yajnavalkya sages authority"}, "result_summary": "0 results"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1}, "result_summary": "Chapter exists, 385 paragraphs — output too large, used get_passage"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 20}}, "result_summary": "Retrieved opening 20 paragraphs covering Yj_1.1–1.18: sages approach Yajnavalkya at Mithilā, fourteen sources of dharma, list of dharmaśāstra promulgators, four-fold root of dharma, consensual validation by learned assembly"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-97f0a4"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-b83e2e"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-0f4ad0"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-95ef53"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-7d795b"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-684794"}
+  ]
+}

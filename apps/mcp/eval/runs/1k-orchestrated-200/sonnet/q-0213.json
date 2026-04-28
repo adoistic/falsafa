@@ -1,0 +1,22 @@
+{
+  "answer": "Yes — the political imagination shifts decisively between the two anthems, both housed in Bang-e-Dara.\n\n**Tarana-e-Hindi** (catalogued as 'Hindustani Bachon Ka Qaumi Geet', Bang-e-Dara Part 1, ch. 26) imagines the homeland as *territory*. Its refrain — 'This is my homeland, this land of mine' — is geographical and composite: it celebrates Chishti (Sufi), Nanak (Sikh), Tatars, Greeks, Persians, and Arab migrants all finding home in India. The community addressed is 'Hindustani Bachon' (children of Hindustan), cutting across religious lines. The civilizational pride is shared: 'The land that left the wisest Greeks spellbound / Whose arts and knowledge spread the world around.'\n\n**Tarana-e-Milli** (Bang-e-Dara Part 3, ch. 23) demolishes the territorial premise entirely. Its opening couplet announces the reversal: 'From Chin to Arab lands, our story flows / The whole wide world's the home a Muslim knows.' The homeland is now the global *ummah*, not India. The referents are purely Islamic — the Ka'ba ('that House of God'), the crescent as emblem, Andalusia, the Tigris, the 'Prince of Hijaz' (the Prophet). Identity is confessional, not geographic.\n\n**The shift in political imagination**: Tarana-e-Hindi articulates a composite territorial nationalism where India is home to many civilizations. Tarana-e-Milli replaces territory with faith: geography dissolves, and the Muslim community stretching from China to Arabia becomes the only relevant political unit. The earlier poem can accommodate a Sikh saint (Nanak) and Greek civilization; the later poem is constructed around tawhid (One God), the Kaaba, and prophetic lineage — a pan-Islamic solidarity that explicitly transcends and supersedes the subcontinent as category. The chronological placement in Bang-e-Dara (Part 1 vs. Part 3) mirrors Iqbal's own intellectual trajectory from Indian nationalist to theorist of the Muslim ummah.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Tarana-e-Hindi Hindostan"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "Tarana-e-Milli Muslim"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 works: Bang-e-Dara Parts 1, 2, 3"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "44 chapters; ch.26 = 'Hindustani Bachon Ka Qaumi Geet' (Tarana-e-Hindi)"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"}, "result_summary": "28 chapters; no Tarana poems found"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "28 chapters; ch.23 = 'Tarana-e-Milli'"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 26, "variant": "translation"}, "result_summary": "Tarana-e-Hindi: 4 stanzas, refrain 'This is my homeland, this land of mine'; celebrates Chishti, Nanak, Greeks, Persians, Tatars as shared Hindustani heritage"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 23, "variant": "translation"}, "result_summary": "Tarana-e-Milli: 11 couplets; opens 'the whole wide world's the home a Muslim knows'; references Ka'ba, crescent, Andalusia, Tigris, Prince of Hijaz — pan-Islamic ummah replaces territorial homeland"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 26, "paragraph_id": "p-da6786"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 26, "paragraph_id": "p-850e5c"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 26, "paragraph_id": "p-5d32a9"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 26, "paragraph_id": "p-a9f72d"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 23, "paragraph_id": "p-8a4681"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 23, "paragraph_id": "p-72825b"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 23, "paragraph_id": "p-b3f42b"}
+  ]
+}

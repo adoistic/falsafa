@@ -1,0 +1,32 @@
+```json
+{
+  "answer": "Across the Old Javanese Buddhist subcorpus in the corpus (Kalpabuddha, Kunjarakarna Dharmakathana, San Hyan Kamahayanikan), śīla (sīla / sila) is treated most fully in the San Hyan Kamahayanikan (unknown-san-hyan-kamahayanikan-2a0c19, ch. 1), where it is framed as the second of the six perfections (pāramitās): dāna, śīla, kṣānti, vīrya, dhyāna, prajñā.\n\nThe text defines the Perfection of Morality (śīlapāramitā) as: 'The cessation from all that is unskilled, and likewise the engaging in what is skilled — this is the summary of śīla, through the gradations of body, speech, and mind.' The three domains are then elaborated:\n\n• Body (kāya): three foundational precepts — refraining from taking life, refraining from taking what is not given, and refraining from sexual misconduct. Additional body-conduct rules include not being fidgety, not having one's head touched without consecration, and not entering impure houses.\n\n• Speech (vāk): not engaging in false speech, slander, harsh speech, or idle chatter; not disparaging food or others' qualities.\n\n• Mind (citta): not having great passion, aversion, delusion, arrogance, envy, miserliness, anger, greed, or sorrow; having a pure heart, loving all beings, and aspiring to liberate all beings from saṃsāra.\n\nThe summary formula is: 'the firm establishment of the purity of body, speech, and mind is what is called the śīlapāramitā.' Śīla also appears as part of the Ten Perfections (daśapāramitā) when the Four Perfections of loving-kindness (maitrī, karuṇā, muditā, upekṣā) are combined with the six.\n\nThe Kunjarakarna Dharmakathana (unknown-kunjarakarna-dharmakathana-894f4a, ch. 1) does not use the term śīla directly, but it treats the tripartite ethical triad of bodily virtue (producing power), good speech (producing heaven), and a pure contemplative mind (producing liberation), and refers to 'merit from virtue' alongside merit from giving and from contemplation as the three superior forms of merit.\n\nThe Kalpabuddha (unknown-kalpabuddha-d760dc) does not explicitly address śīla across its six chapters. San Hyan Mahajnana and San Hyan Tattvajnana are predominantly Shaiva texts and do not treat śīla as a concept.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"language": "Kawi"}, "result_summary": "Returned 9 Kawi works: Gaṇapatitattva, Kalpabuddha, Kunjarakarna Dharmakathana, San Hyan Kamahayanikan, San Hyan Mahajnana, San Hyan Tattvajnana, Slokantara, Vratisasana, Vrhaspatitattva"},
+    {"name": "search_corpus", "args": {"query": "sila virtue ethical conduct"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "sila precepts"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "moral conduct virtue"}, "result_summary": "0 results"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-san-hyan-kamahayanikan-2a0c19", "chapter_number": 1}, "result_summary": "Large text (14,398 words); contains 6 matches for śīla/sīla — full pāramitā section found"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 1}, "result_summary": "Short chapter (113 words); no sila/virtue content"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1}, "result_summary": "Large text (17,973 words); 5 virtue matches but 0 direct śīla term uses; tripartite virtue triad present"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-san-hyan-mahajnana-11c531", "chapter_number": 1}, "result_summary": "Predominantly Shaiva (24 Shaiva vs 9 Buddhist terms); 0 sila matches"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-san-hyan-tattvajnana-1f29bd", "chapter_number": 1}, "result_summary": "Predominantly Shaiva (34 Shaiva vs 10 Buddhist terms); 0 sila/paramita matches"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-vratisasana-d0fe75", "chapter_number": 1}, "result_summary": "Shaiva text (Pāśupata); mentions śīla 14 times but as Shaiva moral conduct, not Buddhist — excluded from Buddhist subcorpus"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-kalpabuddha-d760dc"}, "result_summary": "6 chapters; all chapters 2-6 searched, 0 sila/virtue matches"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-san-hyan-kamahayanikan-2a0c19", "chapter_number": 1, "paragraph_id": "p-e76e3c"},
+    {"work_slug": "unknown-san-hyan-kamahayanikan-2a0c19", "chapter_number": 1, "paragraph_id": "p-889439"},
+    {"work_slug": "unknown-san-hyan-kamahayanikan-2a0c19", "chapter_number": 1, "paragraph_id": "p-00d9a2"},
+    {"work_slug": "unknown-san-hyan-kamahayanikan-2a0c19", "chapter_number": 1, "paragraph_id": "p-79c7f3"},
+    {"work_slug": "unknown-san-hyan-kamahayanikan-2a0c19", "chapter_number": 1, "paragraph_id": "p-e1e592"},
+    {"work_slug": "unknown-san-hyan-kamahayanikan-2a0c19", "chapter_number": 1, "paragraph_id": "p-638b90"},
+    {"work_slug": "unknown-san-hyan-kamahayanikan-2a0c19", "chapter_number": 1, "paragraph_id": "p-f64214"},
+    {"work_slug": "unknown-san-hyan-kamahayanikan-2a0c19", "chapter_number": 1, "paragraph_id": "p-31f67f"},
+    {"work_slug": "unknown-san-hyan-kamahayanikan-2a0c19", "chapter_number": 1, "paragraph_id": "p-e57cef"},
+    {"work_slug": "unknown-san-hyan-kamahayanikan-2a0c19", "chapter_number": 1, "paragraph_id": "p-7132ca"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-fd4040"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-33b9dc"}
+  ]
+}
+```

@@ -1,0 +1,12 @@
+```json
+{
+  "answer": "The closing couplet (maqta) of Diwan-e-Ghalib chapter 239 (work slug: mirza-ghalib-diwan-e-ghalib-74ed4c) is:\n\n\"From the unseen, these thoughts into my mind are thrown:\nO Ghalib, for my scratching pen makes known\nAn angel's voice, in its own sacred tone.\"",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Ghalib"}, "result_summary": "Found one Ghalib work: mirza-ghalib-diwan-e-ghalib-74ed4c with 239 total chapters"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 239}, "result_summary": "Retrieved full chapter; closing paragraph [p-3e8f37] contains Ghalib's takhallus (signature couplet/maqta)"}
+  ],
+  "citations": [
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 239, "paragraph_id": "p-3e8f37"}
+  ]
+}
+```

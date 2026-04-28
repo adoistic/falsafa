@@ -1,0 +1,31 @@
+```json
+{
+  "answer": "Several works in the corpus discuss the nature of legitimate evidence in a legal dispute, all from the Sanskrit Dharmaśāstra (legal/jurisprudential) tradition:\n\n1. **Kātyāyana Smṛti** (unknown-katyayana-smrti-1e06d2) — the most detailed treatment. Chapter 24 is explicitly titled 'Means of Proof, and Deliberation on their Relative Strength' and defines proof as twofold: divine (ordeals) and human (document, witnesses, possession). It discusses which form of evidence is stronger, when each applies, and how a litigant who abandons a stronger proof loses the right to revert to it. Chapters 25 and 27 continue with documents and possession respectively.\n\n2. **Bṛhaspati Smṛti** (unknown-brhaspati-smrti-0fd070) — Chapter 1 covers the relative strength of means of proof (document, witnesses, possession, divine ordeal), who bears the burden of proof (plaintiff vs. defendant), and when the king himself serves as the last resort means of proof when no other evidence exists.\n\n3. **Nāradasmṛti** (unknown-naradasmrti-7650d2) — Chapter 1 enumerates the three kinds of evidence (written document, witnesses, possession) and discusses sureties and pledges as instruments of proof.\n\n4. **Manusmṛti** (unknown-manusmrti-347b76) — Chapter 8 discusses what kinds of witnesses creditors should appoint in legal proceedings and how they must speak the truth, as well as rules of legal proceedings more broadly.\n\n5. **Yājñavalkya Smṛti** (unknown-yajnavalkya-smrti-cb88d6) — Chapter 2 touches on legal proceedings and invalid acts in evidence.\n\n6. **Yama Smṛti** (unknown-yama-smrti-552f8d) — Chapter 1 specifies categories of persons whose evidence is not valid (associates, the very young and old, those oppressed by the king).",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "legitimate evidence legal dispute"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "witness testimony court"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "evidence proof dispute"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "oath witness"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "legal proceedings"}, "result_summary": "22 results across Brhaspati Smrti, Katyayana Smrti, Manusmrti, Naradasmrti, Yajnavalkya Smrti, and Traite de la propriete Vol II"},
+    {"name": "search_corpus", "args": {"query": "judge judgment law"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "valid evidence"}, "result_summary": "1 result — Yama Smrti ch.1: evidence from associates, very young/old, oppressed is not valid"},
+    {"name": "search_corpus", "args": {"query": "proof document witnesses"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "kinds of evidence"}, "result_summary": "4 results — Katyayana Smrti ch.24 and ch.27, Naradasmrti ch.1: three kinds = document, witnesses, possession"},
+    {"name": "search_corpus", "args": {"query": "admissible proof"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "means of proof"}, "result_summary": "20 results — Brhaspati Smrti ch.1, Katyayana Smrti ch.24/25/27/34/64, Naradasmrti ch.1 — all detailing document/witness/possession/ordeal as means of proof"},
+    {"name": "search_corpus", "args": {"query": "litigant plaintiff burden"}, "result_summary": "0 results"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-katyayana-smrti-1e06d2", "chapter_number": 24, "paragraph_id": "p-a296a2"},
+    {"work_slug": "unknown-katyayana-smrti-1e06d2", "chapter_number": 24, "paragraph_id": "p-d37d5d"},
+    {"work_slug": "unknown-katyayana-smrti-1e06d2", "chapter_number": 27, "paragraph_id": "p-08f972"},
+    {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1, "paragraph_id": "p-3fc358"},
+    {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1, "paragraph_id": "p-c9949f"},
+    {"work_slug": "unknown-naradasmrti-7650d2", "chapter_number": 1, "paragraph_id": "p-a8d0b3"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 8, "paragraph_id": "p-803bc3"},
+    {"work_slug": "unknown-yama-smrti-552f8d", "chapter_number": 1, "paragraph_id": "p-acbcb6"}
+  ]
+}
+```
+
+Six works in the corpus discuss the nature of legitimate evidence in legal disputes, all from the Sanskrit Dharmaśāstra tradition. The **Kātyāyana Smṛti** (ch. 24–27) gives the most systematic treatment, defining proof as divine (ordeals) or human (document, witnesses, possession) and ranking their relative strength. The **Bṛhaspati Smṛti** (ch. 1) covers burden of proof and the king as last-resort evidence. The **Nāradasmṛti** (ch. 1), **Manusmṛti** (ch. 8), **Yājñavalkya Smṛti** (ch. 2), and **Yama Smṛti** (ch. 1) each treat witness qualifications, valid documents, and categories of inadmissible testimony.

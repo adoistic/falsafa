@@ -1,0 +1,16 @@
+```json
+{
+  "answer": "In 'Soul and Body II' (chapter 10 of 'Old English Elegies', work slug: unknown-old-english-elegies-d5fe9e), the soul delivers a lengthy, bitter rebuke to the body it has just departed. It opens: 'Listen, you sluggish thing, you dreary dust! Why did you drag me down, filth of the earth, all withered away, likeness of loam!' The soul accuses the body of having thought nothing of the soul's fate after death, of binding it with 'hard hunger and the torments of hell' through sinful fleshly pleasures, of being 'proud with feasting, sated with wine' while the soul thirsted for God. It charges the body with caring only for wicked pleasures and thus earning hell's torments for them both. It warns that no earthly wealth or adornment can save the body now, that worms will devour it, and that on Judgment Day they will both be made to answer together. The soul even declares it would have been better had the body been born as a beast or worm than to have received baptism and failed — because now both soul and body must forever endure the miseries the body prescribed for them.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "soul body left"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"language": "old_english"}, "result_summary": "Found 4 Old English works including 'Old English Elegies' (unknown-old-english-elegies-d5fe9e)"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e"}, "result_summary": "Chapter 10 is titled 'Soul and Body II'"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 10, "variant": "translation"}, "result_summary": "Full text retrieved; soul's speech begins 'Listen, you sluggish thing, you dreary dust!' and continues with extended rebuke of the body for its sins"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 10, "paragraph_id": "p-34bcc7"},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 10, "paragraph_id": "p-00ea0f"},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 10, "paragraph_id": "p-7f7247"}
+  ]
+}
+```

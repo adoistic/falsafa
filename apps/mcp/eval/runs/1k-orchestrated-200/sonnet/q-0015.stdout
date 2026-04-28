@@ -1,0 +1,19 @@
+```json
+{
+  "answer": "The passage where Helena (Elene) interrogates the Jews about the location of the True Cross is found in Cynewulf's Elene (work slug: cynewulf-elene-d2d132), chapter 1, across several paragraphs. The interrogation sequence begins at paragraph p-534627, where Helena arrives in Jerusalem with a host of warriors to 'test them with questions.' She then summons the wisest Jews (3,000 chosen men — paragraph p-7b1c1f) and delivers a long speech condemning them for rejecting Christ and demanding they reveal what she seeks. They go to council, return with 1,000 men (paragraph p-f5d1f1), are addressed again, reduced to 500, and finally single out one man — Judas — as the one who knows the secret of where the Rood is hidden. Elene then interrogates Judas alone, threatening him with death or demanding he reveal where 'the Rood of the Sky-King remains, holy under the soil.' When Judas refuses or hedges, she has him cast into a dry well for seven nights without food or water, until hunger forces him to confess and agree to lead her to the place where the three crosses are buried. The entire interrogation sequence (from Helena's arrival through Judas's capitulation) occupies the bulk of the poem's single chapter.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "cynewulf"}, "result_summary": "Found 3 Cynewulf works including cynewulf-elene-d2d132 (Elene)"},
+    {"name": "search_corpus", "args": {"query": "Helena interrogates Jews cross"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "hidden cross Jerusalem"}, "result_summary": "0 results"},
+    {"name": "list_chapters", "args": {"work_slug": "cynewulf-elene-d2d132"}, "result_summary": "Elene has 1 chapter with translation, original, and transliteration variants"},
+    {"name": "read_chapter", "args": {"work_slug": "cynewulf-elene-d2d132", "chapter_number": 1, "variant": "translation"}, "result_summary": "Full text of Elene retrieved; identified interrogation sequence across paragraphs p-534627, p-7b1c1f, p-f5d1f1 and following — Helena summons 3,000 then 1,000 then 500 Jews, singles out Judas, and has him imprisoned in a well until he reveals the cross location"}
+  ],
+  "citations": [
+    {"work_slug": "cynewulf-elene-d2d132", "chapter_number": 1, "paragraph_id": "p-534627"},
+    {"work_slug": "cynewulf-elene-d2d132", "chapter_number": 1, "paragraph_id": "p-7b1c1f"},
+    {"work_slug": "cynewulf-elene-d2d132", "chapter_number": 1, "paragraph_id": "p-f5d1f1"}
+  ]
+}
+```
+
+The interrogation passage spans several paragraphs in `cynewulf-elene-d2d132`, chapter 1. Starting at **p-534627**, Helena arrives in Jerusalem and summons the Jews "to test them with questions." At **p-7b1c1f**, she assembles 3,000 chosen men from the Jewish people and harangues them about their rejection of Christ, demanding they tell her what she seeks. The council narrows progressively — 1,000 then 500 men — until, at **p-f5d1f1**, they single out Judas as the one man who knows the secret. Elene interrogates Judas alone, demanding he reveal "where the Rood of the Sky-King remains, holy under the soil." After he evades her, she has him thrown into a dry well for seven nights without food, until hunger breaks his will and he agrees to reveal the location of the buried crosses.

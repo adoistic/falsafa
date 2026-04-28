@@ -1,0 +1,44 @@
+```json
+{
+  "answer": "The corpus contains wine and intoxication mentions across 16 works. Here is a full breakdown by work:\n\n**Diwan-E-Ghalib** (mirza-ghalib-diwan-e-ghalib-74ed4c): The most extensive coverage — wine, tavern (kharabaat), the Saaqi (wine-bearer), drunkenness, and intoxication appear across dozens of chapters including ch.2, 6, 7, 14, 20, 21, 35, 42, 50, 51, 58, 59, 61, 62, 68, 70, 75, 77, 78, 100, 105, 124, 128, 131, 132, 134, 138, 146, 150, 151, 155, 169, 176, 181, 188, 190, 194, 198, 202, 239. Wine here functions as a Sufi metaphor for divine love alongside literal references.\n\n**Bang-E-Dara Part 1** (allama-iqbal-bang-e-dara-part-1-55b25c): ch.4, 5, 9, 17, 18, 23, 25, 28, 32, 36, 40, 43, 44.\n\n**Bang-E-Dara Part 2** (allama-iqbal-bang-e-dara-part-2-9bc58c): ch.3, 4, 5, 8, 11, 14, 16, 26, 28.\n\n**Bang-E-Dara Part 3** (allama-iqbal-bang-e-dara-part-3-cc61e8): ch.4, 7, 11, 18, 20.\n\n**Diwan-E-Zauq** (sheikh-ibrahim-zauq-diwan-e-zauq-0fa798): ch.4, 15, 38, 45, 56, 57.\n\n**Andreas** (cynewulf-andreas-07b573): ch.1 — 'hallowed wine from water' (miracle), 'wine-halls wasted', 'wine-city', 'mead-pouring sorrow', 'heathens slept, drunk on their blood'.\n\n**Old English Elegies** (unknown-old-english-elegies-d5fe9e): ch.1 (mead-hall thane), ch.2 ('mead-bench, ale-soaked warrior, wine-sated man, mead-mad man'), ch.5 ('sipping of mead'), ch.6 ('mead-giving'), ch.7 ('mead-hall'), ch.8 ('mead-halls'; 'mead-joys'), ch.11, 14, 16 (mead-hall).\n\n**Elene** (cynewulf-elene-d2d132): ch.1 — 'in the mead-hall he received treasures'.\n\n**Manusmṛti** (unknown-manusmrti-347b76): ch.7 — 'intoxication' listed among the tenfold vices of kings.\n\n**Parāśara Smṛti** (unknown-parasara-smrti-2259be): ch.10 — woman 'overcome by intoxication or delusion'.\n\n**Slokantara** (unknown-slokantara-d7a628): ch.1 — three causes of intoxication: sura (palm wine), learning, and wealth.\n\n**Vratisasana** (unknown-vratisasana-d0fe75): ch.1 — extensive: intoxication as a moral failure ('from delusion comes intoxication; from intoxication comes envy; from envy comes violence'), as mitigating/aggravating factor in vow violations.\n\n**Yājñavalkya Smṛti** (unknown-yajnavalkya-smrti-cb88d6): ch.2 — 'no punishment for acts done through intoxication, madness'.\n\n**Kunjarakarna Dharmakathana** (unknown-kunjarakarna-dharmakathana-894f4a): ch.1 — 'doubt and intoxication' as causes of broken understanding.\n\n**Nouveau traité d'économie VOL I** (charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce): ch.12 — workers spending wages at the tavern.\n\n**Traité de Législation VOL I** (charles-comte-traite-de-legislation-vol-i-7e62a2): ch.18 — a man spending income in a tavern, used as a moral/economic example.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "wine cup"}, "result_summary": "1 result: Diwan-E-Zauq ch.45"},
+    {"name": "search_corpus", "args": {"query": "drunk intoxicated"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "wine"}, "result_summary": "30 results across Andreas ch.1, Bang-E-Dara Part 1 (ch.4,5,9,17,18,23,28,32,36,40,44), Bang-E-Dara Part 2 (ch.3,4,8,11,14,26,28), Bang-E-Dara Part 3 ch.4, Diwan-E-Zauq ch.45"},
+    {"name": "search_corpus", "args": {"query": "intoxication"}, "result_summary": "15 results across Kunjarakarna Dharmakathana ch.1, Manusmrti ch.7, Parasara Smrti ch.10, Slokantara ch.1, Vratisasana ch.1, Yajnavalkya Smrti ch.2"},
+    {"name": "search_corpus", "args": {"query": "drunk"}, "result_summary": "30 results adding Bang-E-Dara Part 1 ch.25, Part 2 ch.5, Part 3 ch.4/7/11/20, Diwan-E-Ghalib ch.6,7,21,35,51,59,62,75,77,124,131,155"},
+    {"name": "search_corpus", "args": {"query": "tavern"}, "result_summary": "27 results adding Bang-E-Dara Part 1 ch.43, Part 2 ch.5/16, many Diwan-E-Ghalib chapters (21,42,61,68,70,100,131,134,151,169,176,188,194,202,239), Diwan-E-Zauq ch.4/15/38/56/57, Nouveau traite Vol I ch.12, Traite de Legislation Vol I ch.18"},
+    {"name": "search_corpus", "args": {"query": "mead"}, "result_summary": "30 results adding Andreas ch.1 (mead-pouring), Elene ch.1 (mead-hall), Old English Elegies ch.1/2/5/6/7/8/11/14/16"},
+    {"name": "search_corpus", "args": {"query": "Saaqi"}, "result_summary": "30 results confirming extensive Ghalib and Iqbal wine-bearer references"}
+  ],
+  "citations": [
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 6, "paragraph_id": "p-ec8295"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 7, "paragraph_id": "p-01951e"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 21, "paragraph_id": "p-09d09c"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 77, "paragraph_id": "p-236777"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 131, "paragraph_id": "p-36fb2c"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 155, "paragraph_id": "p-356068"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 239, "paragraph_id": "p-7c0f50"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 5, "paragraph_id": "p-9e1491"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 9, "paragraph_id": "p-dce5e7"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 17, "paragraph_id": "p-6ebcbf"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 5, "paragraph_id": "p-445c2f"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "paragraph_id": "p-e436cc"},
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 15, "paragraph_id": "p-d9ab3f"},
+    {"work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798", "chapter_number": 45, "paragraph_id": "p-f6c511"},
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-ba1f68"},
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-e5ccfa"},
+    {"work_slug": "cynewulf-elene-d2d132", "chapter_number": 1, "paragraph_id": "p-8f8a1b"},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 2, "paragraph_id": "p-8fec5e"},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 5, "paragraph_id": "p-8c53e7"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7, "paragraph_id": "p-701061"},
+    {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 10, "paragraph_id": "p-2c6714"},
+    {"work_slug": "unknown-slokantara-d7a628", "chapter_number": 1, "paragraph_id": "p-05622a"},
+    {"work_slug": "unknown-vratisasana-d0fe75", "chapter_number": 1, "paragraph_id": "p-e0e34a"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_id": "p-ce1229"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-386a1b"},
+    {"work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce", "chapter_number": 12, "paragraph_id": "p-16aa9c"},
+    {"work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2", "chapter_number": 18, "paragraph_id": "p-eba43f"}
+  ]
+}
+```

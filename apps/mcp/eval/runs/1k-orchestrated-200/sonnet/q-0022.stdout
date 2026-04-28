@@ -1,0 +1,25 @@
+```json
+{
+  "answer": "The couplet is the opening sher of ghazal 153 in Diwan-E-Ghalib (work slug: mirza-ghalib-diwan-e-ghalib-74ed4c, chapter 153). In transliteration: 'Naqsh faryadi hai kis ki shokhi-e-tehreer ka / Kaaghazi hai pairahan har paikar-e-tasveer ka.' In translation: 'Whose playful script does this whole painted world complain of? / Each figure wears the paper robes a petitioner is made of.' The couplet says the painted figure (naqsh) is the complainant (faryadi) of the artist's mischievous/playful pen (shokhi-e-tehreer), and every figure in the painting wears paper robes (kaaghazi pairahan) — i.e., the painted figures on paper are themselves petitioners/complainants against the artist's mischief.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "sheet of paper complainant"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "paper mischief artist"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"author": "Ghalib"}, "result_summary": "Found mirza-ghalib-diwan-e-ghalib-74ed4c with 239 chapters"},
+    {"name": "search_corpus", "args": {"query": "naqqash"}, "result_summary": "1 result in ch.169, about Farhad carving Shirin — not matching"},
+    {"name": "search_corpus", "args": {"query": "kaaghaz"}, "result_summary": "8 results; ch.153 snippet 'Naqsh faryadi hai kis ki shokhi-e-tehreer ka / Kaaghazi hai pairahan har paikar-e-tasveer ka' matches perfectly"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 153, "variant": "translation"}, "result_summary": "Confirmed: opening couplet translates as 'Whose playful script does this whole painted world complain of? / Each figure wears the paper robes a petitioner is made of.'"}
+  ],
+  "citations": [
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 153, "paragraph_id": "p-0e42b0"}
+  ]
+}
+```
+
+The couplet is the maqta' (opening/radif-establishing sher) of **Diwan-E-Ghalib chapter 153**:
+
+> **Naqsh faryadi hai kis ki shokhi-e-tehreer ka**
+> **Kaaghazi hai pairahan har paikar-e-tasveer ka**
+
+*"Whose playful script does this whole painted world complain of? / Each figure wears the paper robes a petitioner is made of."*
+
+The key: **naqsh** (painted image) is **faryadi** (complainant/petitioner) of the artist's **shokhi-e-tehreer** (mischievous/playful pen), and every figure in a painting wears **kaaghazi pairahan** — "paper robes" — meaning the painted figures on paper are themselves the complainants against the artist's mischief. This is the couplet the question paraphrases.

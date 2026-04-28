@@ -1,0 +1,21 @@
+```json
+{
+  "answer": "Manusmrti (work slug: unknown-manusmrti-347b76) chapter 9 opens by declaring it will set out the eternal laws for man and woman concerning their union and separation. Its main prescriptions on the duties of husband and wife include:\n\n1. **Protection of the wife**: A husband must protect his wife at all times (Mn_9.2–7). A woman is protected by her father in childhood, husband in youth, and sons in old age; she is never fit for independence. By protecting his wife, a man protects his progeny, conduct, family, himself, and his own Dharma.\n\n2. **Household roles**: The husband should employ the wife in the collection and expenditure of wealth, purification, religious duty, cooking, and supervision of household effects (Mn_9.11).\n\n3. **Causes of a woman's ruin**: Drinking, associating with wicked people, separation from her husband, wandering, sleeping too much, and dwelling in another's house are the six causes of a woman's ruin (Mn_9.13).\n\n4. **The wife's cosmic importance**: Women are described as the lights of the house and goddesses of fortune. Offspring, religious duties, service, pleasure, heaven for ancestors, and the continuity of the world are all dependent on the wife (Mn_9.26–28, 9.96).\n\n5. **Wifely fidelity and virtue**: A wife who does not transgress against her husband—controlled in mind, speech, and body—attains her husband's worlds and is called virtuous. Infidelity brings condemnation and sinful rebirth (Mn_9.29–30).\n\n6. **Absence of husband**: A man going abroad must provide his wife with a livelihood. If gone for religious duty, she should await him eight years; for knowledge or fame, six years; for pleasure, three years (Mn_9.74–76).\n\n7. **Supersession of a wife**: A wife who drinks, is cruel, is barren, or speaks unkindly may be superseded by the husband under specified conditions (Mn_9.80–83).\n\n8. **Mutual fidelity as supreme Dharma**: The chapter's summary statement is: 'Mutual fidelity until death—this, in summary, should be known as the highest Dharma for husband and wife' (Mn_9.101). Husband and wife who have performed the marriage rites should always strive not to transgress against each other (Mn_9.102).",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "manu"}, "result_summary": "Found one work: unknown-manusmrti-347b76 (Manusmrti), 12 chapters, Sanskrit"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9}, "result_summary": "Retrieved full chapter 9 (155 paragraphs, 10149 words) covering duties of husband and wife, niyoga, partition/inheritance, and royal duties"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-8ec0cb"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-27f62f"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-76576d"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-7dd274"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-a00cec"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-dc931c"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-6c8c98"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-f9b73c"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-07cdb9"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 9, "paragraph_id": "p-5211c4"}
+  ]
+}
+```

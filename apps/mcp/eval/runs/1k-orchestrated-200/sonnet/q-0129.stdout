@@ -1,0 +1,26 @@
+```json
+{
+  "answer": "The specific couplet described — 'even the mosque's preacher's cup overflows when the wine arrives' — is not found in the Falsafa MCP corpus in that exact form. The corpus contains one work by Ghalib (Diwan-E-Ghalib, mirza-ghalib-diwan-e-ghalib-74ed4c, 239 chapters). Extensive searching across all chapters for واعظ (preacher), ملا (mullah), مسجد (mosque), پیالہ (cup), سرشار (overflowing), and related English translation terms found no couplet matching this description. The closest related couplets are: (1) Chapter 70 [p-408c0c]: 'The tavern's door, O Ghalib, and the preacher's creed? / What common ground could join them? None, we are agreed. / And yet I know, as he went in, I was just stepping out.' (Kahaan maikhane ka darwaza Ghalib aur kahaan waaiz / Par itna jaante hain kal woh jaata tha ke hum nikle) — showing the preacher entering the tavern, but no overflowing cup imagery; and (2) Chapter 130 [p-55e3af]: 'O Preacher, you can't drink it, nor can you pour a taste; / So what's the virtue of your heaven's wine, so chaste?' (Waiz na tum piyo na kisi ko pila sako / Kya baat hai tumhari sharab-e-tahoor ki). The couplet as described is not in the corpus.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "mosque preacher wine"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "sheikh cup wine"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"author": "Ghalib"}, "result_summary": "1 work: Diwan-E-Ghalib (mirza-ghalib-diwan-e-ghalib-74ed4c), 239 chapters"},
+    {"name": "search_corpus", "args": {"query": "preacher cup overflows"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "zahid wine cup"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "wine arrives sheikh"}, "result_summary": "0 results"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 70, "variant": "translation"}, "result_summary": "Found preacher+tavern couplet (ch70, p-408c0c): preacher seen entering tavern, no overflowing cup"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 130, "variant": "translation"}, "result_summary": "Found preacher+wine couplet (ch130, p-55e3af): 'O Preacher, you can't drink it, nor pour a taste' — opposite meaning"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 131, "variant": "translation"}, "result_summary": "Chapter titled 'Masjid ke zer-e-saaya kharabaat chahiye' — beneath mosque's shadow a tavern is needed; no preacher's cup"},
+    {"name": "bulk_original_urdu_search", "args": {"query": "واعظ ملا مسجد پیالہ سرشار across all 239 chapters"}, "result_summary": "Searched all chapters in original Urdu: chapters 70, 130 have واعظ; chapters 131, 191, 194 have مسجد; chapters 6, 41, 183 have سرشار; chapters 24, 106, 198 have پیالہ. No chapter has both preacher+overflowing-cup together in the described context"},
+    {"name": "search_corpus", "args": {"query": "cup brimming wine"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "even the pious wine"}, "result_summary": "0 results"}
+  ],
+  "citations": []
+}
+```
+
+The couplet described — "even the mosque's preacher's cup overflows when the wine arrives" — is **not in the corpus**. I searched all 239 chapters of Diwan-E-Ghalib systematically: every chapter containing واعظ (preacher), ملا (mullah), مسجد (mosque), پیالہ (cup), and سرشار (overflowing) in the original Urdu, plus multiple English translation keyword searches. No couplet combines the imagery of an overflowing cup with the mosque's preacher and the arrival of wine.
+
+The closest couplets found are:
+- **Ch. 70** [p-408c0c]: The preacher is spotted *entering the tavern* as the poet steps out — implying capitulation, but no cup imagery
+- **Ch. 130** [p-55e3af]: "O Preacher, you can't drink it, nor pour a taste" — actually the inverse of the described verse

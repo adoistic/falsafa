@@ -1,0 +1,20 @@
+```json
+{
+  "answer": "Not answerable from the corpus as indexed. Manu chapter 11 in the corpus is severely truncated — it contains only 6 paragraphs (Mn_11.1–11.6) covering gifts to Brahmanas, with no prayascitta (expiation) prescriptions for specific offences. Yajnavalkya chapter 3 is titled 'ON EXPIATION (prāyaścittādhyāya)' and begins with āśauca (ritual impurity), duties in distress, hermit duties, and an extended yoga/metaphysics section, but the chapter has a large internal gap: verse numbers jump from Yj_3.205 to Yj_3.327, omitting the range 206–326 where the specific offence-and-expiation rulings would be found. All targeted searches for relevant terms (brahmin slaying, liquor drinking, gold theft, mahapatakas, Krccha, Chandrayana, prayascitta) returned zero results. Because neither text's expiation prescriptions for specific offences are present in the corpus, no single overlapping offence can be identified and no contrast of prescribed expiations can be drawn from the MCP alone.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Manu"}, "result_summary": "Found Manusmṛti (unknown-manusmrti-347b76), 12 chapters"},
+    {"name": "list_works", "args": {"author": "Yajnavalkya"}, "result_summary": "Found Yājñavalkya Smṛti (unknown-yajnavalkya-smrti-cb88d6), 3 chapters"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 11}, "result_summary": "Only 6 paragraphs (Mn_11.1–11.6), all about gifts to Brahmanas — no prayascitta content"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 3}, "result_summary": "219 paragraphs; chapter titled 'ON EXPIATION' but covers āśauca (Yj_3.1–34), āpad dharma (35–44), vānaprastha (45–55), yati duties + yoga + metaphysics (56–205), then jumps to 327–334; verses 206–326 (the expiation-for-specific-offences section) are absent"},
+    {"name": "search_corpus", "args": {"query": "brahman slaying expiation"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "drinking liquor sura expiation"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "mahapataka great sin atonement"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "prayascitta expiation offence"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "Krccha chandrayana vow penance"}, "result_summary": "0 results"},
+    {"name": "compare_works", "args": {"work_slug_a": "unknown-manusmrti-347b76", "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6", "topic": "prayascitta expiation"}, "result_summary": "Returned chapter pointers only; no specific prayascitta chapter identified for Manu"}
+  ],
+  "citations": []
+}
+```
+
+**Summary:** The corpus cannot support this question. Manu ch.11 (`unknown-manusmrti-347b76`) is truncated to only 6 verses on gift-giving (Mn_11.1–11.6); the prayascitta section never appears. Yajnavalkya ch.3 (`unknown-yajnavalkya-smrti-cb88d6`) is labelled "ON EXPIATION" but has an internal gap — verses 206–326 are missing, which is exactly where the specific offence-and-expiation rulings sit. Every targeted search for expiation content returned zero hits. No overlapping offence with contrasting expiations can be identified from the MCP.

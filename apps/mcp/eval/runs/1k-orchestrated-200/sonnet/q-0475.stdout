@@ -1,0 +1,49 @@
+```json
+{
+  "answer": "Multiple works in the corpus address the question of moral action's reward (karma, recompense), spanning Sanskrit Dharmaśāstra texts, Kawi (Old Javanese) philosophical and narrative texts, and Old English Christian poetry.\n\n**Most explicitly:**\n\n1. **Manusmṛti** (unknown-manusmrti-347b76) — Chapter 12 is the corpus's most explicit treatment of karma. It opens with sages asking about 'the supreme fulfillment of the fruit of actions,' and Bhṛgu explains: 'Action, which springs from the mind, speech, and body, has good and bad results; the states of men, high, low, and middle, are born of their karma.' (Mn_12.3). The chapter systematically maps the three guṇas (sattva, rajas, tamas) to specific rebirths — from gods (sāttvic) to beasts (tāmasic). Chapter 11 (also read as part of this work) specifies penances/consequences for dozens of particular sins.\n\n2. **Vrhaspatitattva** (unknown-vrhaspatitattva-b60b28) — Explicitly discusses karmavāsanā (karmic latency) and recompense: 'The truth of the fruit of karma is indeed endowed with existence, both here and in the hereafter' (p-635a93). It explains that good karma leads to heaven, evil karma leads to hell, and after the fruit is exhausted, one is reborn at the appropriate level.\n\n3. **Kunjarakarna Dharmakathana** (unknown-kunjarakarna-dharmakathana-894f4a) — A Buddhist Kawi narrative in which the rakṣasa Kuñjarakarṇa visits Yama's realm and sees how moral actions determine destiny. Key passage: 'It is impossible not to experience the fruit of one's good and evil deeds. As for happiness and suffering, there is no other source for them. It is from one's own self that they come, following all past karma' (p-50854d). Also discusses three kinds of merit (giving, virtue, contemplation) and their fruits.\n\n4. **Slokantara** (unknown-slokantara-d7a628) — Teaches that meritorious giving yields multiplied divine reward: on ordinary days one returns as 10; during eclipses, 100; at Kanyāgata, 1000; at the end of a yuga, countless (Slo_02). The quality of the recipient also multiplies the reward (Slo_03).\n\n5. **Viṣṇu Smṛti** (unknown-visnu-smrti-27f0d8) — Chapter 43 catalogs 22 named hells and their inhabitants; Chapter 44 lists specific sins and their animal-rebirth consequences (e.g., grain-thief → rat; thief of water → water-bird).\n\n**Also addressing moral recompense as a significant theme:**\n\n6. **Yama Smṛti** (unknown-yama-smrti-552f8d) — Attributed to Yama, the god of moral judgment; prescribes specific penances for specific sins.\n\n7. **Yājñavalkya Smṛti** (unknown-yajnavalkya-smrti-cb88d6) — Chapter 3 (On Expiation / prāyaścittādhyāya) systematically addresses penances for moral violations.\n\n8. **Parāśara Smṛti** (unknown-parasara-smrti-2259be) — Dharmaśāstra for the Kali Yuga addressing dharma, sin, and moral duty.\n\n9. **Āṅgirasa Smṛti** (unknown-angirasa-smrti-2bf9d1) — Discusses prāyaścitta as the prescribed remedy for moral violations.\n\n10. **Old English Elegies** (unknown-old-english-elegies-d5fe9e) — Two elegies address moral recompense in a Christian frame: (a) Soul and Body II (chapter 10) states that 'the spirit takes from God Himself either torment or glory, as that earth-vessel had earned for it before in the world'; (b) Vainglory (chapter 12) contrasts the fate of the proud/sinful (bound for hell-torments) with the humble (ascending to glory): 'their rewards are not alike with the Glory-King.'\n\nWorks in the corpus that do NOT substantially address this theme: French political/legal texts (Dunoyer, Charles Comte), German Fichte pamphlet, Urdu poetry (Iqbal, Ghalib, Zauq), Bṛhaspati Smṛti (legal procedure), Nāradasmṛti (legal procedure), Kātyāyana Smṛti (legal/administrative), and Cynewulf hagiographic poems (divine reward is implicit backdrop, not the systematic subject).",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Retrieved all 38 works in corpus"},
+    {"name": "search_corpus", "args": {"query": "karma recompense reward action"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "reward virtue"}, "result_summary": "2 results in Charles Comte — not relevant"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 12}, "result_summary": "Chapter 12 explicitly about karma: 'states of men, high, low, and middle, are born of their karma' (Mn_12.3). Maps gunas to rebirths, hells, animal states."},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-vrhaspatitattva-b60b28", "chapter_number": 1}, "result_summary": "Explicitly: 'The truth of the fruit of karma is indeed endowed with existence, both here and in the hereafter.' Karmavāsanā discussion."},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1}, "result_summary": "Buddhist Kawi narrative on Yama's realm: 'It is impossible not to experience the fruit of one's good and evil deeds... following all past karma.' (p-50854d)"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-slokantara-d7a628", "chapter_number": 1}, "result_summary": "Meritorious giving yields 10x–countless reward depending on recipient and timing."},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 43}, "result_summary": "22 named hells with duration scaled to severity of sin."},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 44}, "result_summary": "Specific sins → specific animal rebirths."},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-yama-smrti-552f8d", "chapter_number": 1}, "result_summary": "Penances prescribed by Yama for specific sins."},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 3}, "result_summary": "Chapter on Expiation (prāyaścittādhyāya)."},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-parasara-smrti-2259be", "chapter_number": 1}, "result_summary": "Dharmaśāstra for Kali Yuga; dharma and moral consequences."},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-angirasa-smrti-2bf9d1", "chapter_number": 1}, "result_summary": "Prāyaścitta as remedy for moral violations."},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 10}, "result_summary": "Soul and Body II: spirit gets 'torment or glory, as that earth-vessel had earned for it before in the world.'"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 12}, "result_summary": "Vainglory: 'their rewards are not alike with the Glory-King.'"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 12, "paragraph_id": "p-265c29"},
+    {"work_slug": "unknown-vrhaspatitattva-b60b28", "chapter_number": 1, "paragraph_id": "p-635a93"},
+    {"work_slug": "unknown-vrhaspatitattva-b60b28", "chapter_number": 1, "paragraph_id": "p-eae38e"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-50854d"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-f6e5e8"},
+    {"work_slug": "unknown-slokantara-d7a628", "chapter_number": 1, "paragraph_id": "p-2762fd"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 43, "paragraph_id": "p-fc7b11"},
+    {"work_slug": "unknown-visnu-smtp-27f0d8", "chapter_number": 44, "paragraph_id": "p-0990c4"},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 10, "paragraph_id": "p-34bcc7"},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 12, "paragraph_id": "p-946b37"}
+  ]
+}
+```
+
+**10 works address moral action's reward (karma, recompense)**, ranging from explicit to significant treatment:
+
+| Work | Slug | How it addresses the theme |
+|---|---|---|
+| **Manusmṛti** | `unknown-manusmrti-347b76` | Chapter 12 is the corpus's most systematic karma treatise: guṇas → specific rebirths; ch. 11 maps specific sins to penances |
+| **Vrhaspatitattva** | `unknown-vrhaspatitattva-b60b28` | Kawi Śaiva text: explicit karma/karmavāsanā doctrine — good karma → heaven, evil → hell |
+| **Kunjarakarna Dharmakathana** | `unknown-kunjarakarna-dharmakathana-894f4a` | Buddhist Kawi narrative set in Yama's realm: "it is impossible not to experience the fruit of one's good and evil deeds" |
+| **Slokantara** | `unknown-slokantara-d7a628` | Multiplied divine reward for meritorious giving (10×, 100×, 1000×, ∞) |
+| **Viṣṇu Smṛti** | `unknown-visnu-smrti-27f0d8` | Ch. 43 (22 hells, scaled by sin-severity) + ch. 44 (specific sins → specific animal rebirths) |
+| **Yama Smṛti** | `unknown-yama-smrti-552f8d` | Attributed to Yama (god of judgment); penances for specific sins |
+| **Yājñavalkya Smṛti** | `unknown-yajnavalkya-smrti-cb88d6` | Ch. 3 on expiation (prāyaścittādhyāya) |
+| **Parāśara Smṛti** | `unknown-parasara-smrti-2259be` | Dharmaśāstra for Kali Yuga; dharma and moral duty/consequence |
+| **Āṅgirasa Smṛti** | `unknown-angirasa-smrti-2bf9d1` | Prāyaścitta as prescribed response to moral violations |
+| **Old English Elegies** | `unknown-old-english-elegies-d5fe9e` | Soul and Body II (ch. 10): "torment or glory, as that earth-vessel had earned"; Vainglory (ch. 12): different fates for proud vs. humble |

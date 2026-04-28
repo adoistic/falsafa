@@ -1,0 +1,16 @@
+```json
+{
+  "answer": "When Andrew realises that the young helmsman steering the ship was Christ, he speaks directly to God (paragraph [p-775061] of cynewulf-andreas-07b573, chapter 1): 'Now I, Lord God, have understood / that you on the sea-path were not far away, / Glory of kings, when I climbed in the keel, / though I on the wave-journey, Prince of angels, / Giver of grace to souls, could not perceive you. / Be merciful to me now, mighty Maker, / joyful, bright King! I on the brine-stream spoke / a host of words; I know now after / who with honors in that wooden boat / ferried me over the floods.' When Christ then appears before him in person (paragraph [p-ee08ea]), Andrew falls to earth and adds a penitent coda: 'How did I do this, Wielder of men, sinful against myself, Savior of souls, that I, you so good, could not perceive on the path of the waves, where I spoke more of my words before my Maker than I should have?'",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "steering ship Christ"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"author": "cynewulf"}, "result_summary": "Found cynewulf-andreas-07b573, 1 logical chapter"},
+    {"name": "read_chapter", "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "variant": "translation"}, "result_summary": "Full 83-paragraph translation retrieved; found recognition scene in [p-775061] and [p-ee08ea]"}
+  ],
+  "citations": [
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-775061"},
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-ee08ea"}
+  ]
+}
+```
+
+**Summary:** Andrew's recognition unfolds in two moments in *Andreas* (cynewulf-andreas-07b573, ch. 1). First, after his companions describe a dream-vision of him standing before Christ as one of twelve, Andrew addresses God directly ([p-775061]): he confesses he now understands the Lord "was not far away" on the sea-path, that he could not perceive Him in the keel despite speaking many words before his Maker — and closes with praise that mercy from God is always ready for those who seek it. Then when Christ appears visibly before him ([p-ee08ea]), Andrew falls to earth and reproaches himself: he could not recognise "you so good" on the wave-path, and spoke more words before his Maker than he should have.

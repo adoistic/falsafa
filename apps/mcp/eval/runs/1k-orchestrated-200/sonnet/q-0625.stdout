@@ -1,0 +1,16 @@
+```json
+{
+  "answer": "In Manusmṛti chapter 12 (work slug: unknown-manusmrti-347b76), 'guṇa' refers to the three constituent qualities (modes of nature) of the Self that pervade all beings and determine their character, actions, and rebirth. The three guṇas are:\n\n1. **Sattva** (purity/goodness) — equated with knowledge; perceived in the self as joined with pleasure, tranquil and pure-seeming; its characteristics include study of the Veda, tapas, purity, sense-control, Dharma, and contemplation of the Self. The characteristic of sattva is Dharma. Those who are predominantly sāttvic are reborn as gods. (Mn_12.24, 12.26, 12.27, 12.31, 12.37–38, 12.40)\n\n2. **Rajas** (passion) — equated with passion and aversion; perceived as joined with pain and unpleasing to the self, constantly captivating embodied beings; characteristics include taste for action, impatience, improper acts, and indulgence in sense-objects. The characteristic of rajas is worldly gain. Those who are predominantly rājasic are reborn as humans. (Mn_12.24, 12.26, 12.28, 12.32, 12.36–38, 12.40)\n\n3. **Tamas** (darkness/ignorance) — equated with ignorance; perceived as joined with delusion, unmanifest, of the nature of sense-objects, incapable of being reasoned about or known; characteristics include greed, sleep, lack of fortitude, cruelty, atheism, dissolute life, and carelessness. The characteristic of tamas is desire. Those who are predominantly tāmasic are reborn as beasts. (Mn_12.24, 12.26, 12.29, 12.33, 12.35–38, 12.40)\n\nThe chapter states that whichever guṇa predominates in a body at a given time makes that embodied being predominantly of that guṇa (Mn_12.25). The three guṇas also determine cycles of rebirth in ascending order of excellence: tamas → beasts, rajas → men, sattva → gods (Mn_12.40–41). Within each guṇa there are further subdivisions — low, middle, and high tāmasic/rājasic/sāttvic states — that correspond to increasingly elevated beings and rebirths.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "guna constituent quality"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"genre": "dharmashastra"}, "result_summary": "0 results (genre not matching)"},
+    {"name": "list_works", "args": {}, "result_summary": "Found Manusmṛti with slug unknown-manusmrti-347b76, 12 chapters"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 12}, "result_summary": "Retrieved full chapter 12 (175 paragraphs, 11459 words). Found extensive guna discussion in Mn_12.24–12.50 within paragraph p-074f6e."}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 12, "paragraph_id": "p-074f6e"}
+  ]
+}
+```
+
+**Summary:** Manusmṛti chapter 12 (Mn_12.24–50) defines *guṇa* as three constituent qualities of the Self that pervade all beings: **sattva** (knowledge/purity → rebirth as gods), **rajas** (passion/aversion → rebirth as humans), and **tamas** (ignorance/delusion → rebirth as beasts). Whichever guṇa predominates in a being determines its character and rebirth destination, with each guṇa carrying distinct phenomenological markers, behavioral tendencies, and moral characteristics.

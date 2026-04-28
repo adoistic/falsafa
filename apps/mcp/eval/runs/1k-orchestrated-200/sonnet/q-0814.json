@@ -1,0 +1,14 @@
+{
+  "answer": "In Cynewulf's Andreas (work slug: cynewulf-andreas-07b573, chapter 1), Andrew is led to prison in paragraph [p-5d78fc]. After the devil reveals Andrew's identity to the Mermedonians and they seize and bind him ([p-34b202]), he is dragged through the stone-paved streets and scourged the entire day. At evening, the passage reads: 'The people then led their loathed enemy to the prison. He was to Christ, nonetheless, beloved in spirit. His mind was light, holy near his heart, his spirit untiring. When the holy man was under the dark shadow, the courage-hard hero, the livelong night beset with sorrows.' He is subsequently led out for a second day of scourging ([p-17921e]) and then a third ([p-dbf56f]), each time returned to the prison at nightfall. The first leading to prison occurs at the close of paragraph [p-5d78fc].",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "cynewulf"}, "result_summary": "Found Andreas (cynewulf-andreas-07b573), Elene, and Juliana — all single-chapter Old English poems"},
+    {"name": "search_corpus", "args": {"query": "Andrew led prison"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "prison chains fetters"}, "result_summary": "0 results"},
+    {"name": "list_chapters", "args": {"work_slug": "cynewulf-andreas-07b573"}, "result_summary": "Single chapter (chapter 1), available in original, translation, and transliteration"},
+    {"name": "read_chapter", "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "variant": "translation"}, "result_summary": "Full text retrieved (83 paragraphs). Located the prison scene in p-5d78fc: after a day of being dragged through stone-paved streets and scourged, 'The people then led their loathed enemy to the prison.'"}
+  ],
+  "citations": [
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-34b202"},
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-5d78fc"}
+  ]
+}

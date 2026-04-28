@@ -1,0 +1,1391 @@
+{
+  "driver": "claude-cli-headless-orchestrated",
+  "total_pass": 126,
+  "total_judged": 134,
+  "total_dispatched": 136,
+  "pass_rate": 0.9402985074626866,
+  "total_citations": 819,
+  "verse_label_id_count": 4,
+  "by_category": {
+    "citation": {
+      "pass": 39,
+      "total": 40
+    },
+    "comparative": {
+      "pass": 34,
+      "total": 35
+    },
+    "conceptual": {
+      "pass": 15,
+      "total": 18
+    },
+    "discovery": {
+      "pass": 17,
+      "total": 17
+    },
+    "specific-obscure": {
+      "pass": 9,
+      "total": 9
+    },
+    "multilingual": {
+      "pass": 10,
+      "total": 12
+    },
+    "cross-cultural": {
+      "pass": 2,
+      "total": 3
+    }
+  },
+  "per_question": [
+    {
+      "id": "q-0005",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0014",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0022",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0030",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0038",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0047",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0055",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 2,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0063",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0071",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0078",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0085",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 10,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0093",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0100",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 0,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0108",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0114",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0121",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0129",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 0,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0136",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0143",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0151",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 2,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0158",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 2,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0166",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0173",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 6,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0180",
+      "category": "citation",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0015",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0029",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0040",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0045",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0054",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0067",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0083",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0103",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0106",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0116",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0123",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 2,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0138",
+      "category": "citation",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0002",
+      "category": "citation",
+      "difficulty": "easy",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0027",
+      "category": "citation",
+      "difficulty": "easy",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0064",
+      "category": "citation",
+      "difficulty": "easy",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0099",
+      "category": "citation",
+      "difficulty": "easy",
+      "pass": false,
+      "hits": 0,
+      "expected": 1,
+      "citations": 0,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0203",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 4,
+      "nonHashIds": 4
+    },
+    {
+      "id": "q-0216",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 6,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0226",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 2,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0236",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 2,
+      "citations": 6,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0245",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 12,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0255",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 6,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0263",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0273",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 8,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0281",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0290",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0298",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 8,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0305",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 6,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0312",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 6,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0319",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0326",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": false,
+      "hits": 0,
+      "expected": 2,
+      "citations": 0,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0334",
+      "category": "comparative",
+      "missing": true
+    },
+    {
+      "id": "q-0341",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0349",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0356",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0363",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0370",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 11,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0377",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 11,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0384",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "citations": 31,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0391",
+      "category": "comparative",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 8,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0204",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "citations": 6,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0209",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 6,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0213",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 7,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0218",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0225",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 17,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0232",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 10,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0238",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0246",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "citations": 16,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0253",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 10,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0266",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0270",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 8,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0283",
+      "category": "comparative",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 10,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0553",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "citations": 11,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0561",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 4,
+      "expected": 4,
+      "citations": 15,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0569",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "citations": 7,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0577",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": false,
+      "hits": 1,
+      "expected": 3,
+      "citations": 6,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0585",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 13,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0593",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 6,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0601",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 12,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0609",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": false,
+      "hits": 1,
+      "expected": 3,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0617",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "citations": 7,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0625",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0633",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 2,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0641",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0649",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 3,
+      "citations": 15,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0657",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "citations": 12,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0665",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 2,
+      "citations": 9,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0673",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 3,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0681",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": false,
+      "hits": 0,
+      "expected": 2,
+      "citations": 0,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0689",
+      "category": "conceptual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 2,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0403",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 3,
+      "expected": 5,
+      "citations": 8,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0411",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 4,
+      "expected": 4,
+      "citations": 87,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0419",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 3,
+      "citations": 12,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0427",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 11,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0435",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 3,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0443",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 4,
+      "expected": 4,
+      "citations": 8,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0451",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0459",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 4,
+      "expected": 6,
+      "citations": 11,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0467",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 5,
+      "expected": 5,
+      "citations": 9,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0475",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 4,
+      "expected": 5,
+      "citations": 10,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0483",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 3,
+      "citations": 10,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0491",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0499",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 10,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0507",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 2,
+      "citations": 8,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0515",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 3,
+      "expected": 4,
+      "citations": 11,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0523",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 3,
+      "citations": 12,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0531",
+      "category": "discovery",
+      "missing": true
+    },
+    {
+      "id": "q-0539",
+      "category": "discovery",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 3,
+      "citations": 9,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0702",
+      "category": "specific-obscure",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0718",
+      "category": "specific-obscure",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0734",
+      "category": "specific-obscure",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0750",
+      "category": "specific-obscure",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0766",
+      "category": "specific-obscure",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0782",
+      "category": "specific-obscure",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0798",
+      "category": "specific-obscure",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0814",
+      "category": "specific-obscure",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 2,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0830",
+      "category": "specific-obscure",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0853",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0861",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 2,
+      "citations": 1,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0869",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 6,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0877",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 2,
+      "citations": 2,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0885",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": false,
+      "hits": 1,
+      "expected": 3,
+      "citations": 6,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0893",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 2,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0901",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 3,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0909",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 2,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0917",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": false,
+      "hits": 0,
+      "expected": 1,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0925",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 3,
+      "expected": 3,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0933",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 9,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0941",
+      "category": "multilingual",
+      "difficulty": "medium",
+      "pass": true,
+      "hits": 1,
+      "expected": 1,
+      "citations": 3,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0952",
+      "category": "cross-cultural",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 4,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0968",
+      "category": "cross-cultural",
+      "difficulty": "hard",
+      "pass": false,
+      "hits": 1,
+      "expected": 3,
+      "citations": 5,
+      "nonHashIds": 0
+    },
+    {
+      "id": "q-0984",
+      "category": "cross-cultural",
+      "difficulty": "hard",
+      "pass": true,
+      "hits": 2,
+      "expected": 2,
+      "citations": 11,
+      "nonHashIds": 0
+    }
+  ]
+}

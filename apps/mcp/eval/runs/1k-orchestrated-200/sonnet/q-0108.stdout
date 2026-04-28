@@ -1,0 +1,20 @@
+```json
+{
+  "answer": "Yājñavalkya defines the eight forms of marriage in Chapter 1 of the Yājñavalkya Smṛti (work slug: unknown-yajnavalkya-smrti-cb88d6), at verses 58–61 (paragraph IDs p-4ad3d1, p-987352, p-ee4dce, p-f1f83f), within the section titled 'Marriage' (vivāhaprakaraṇam). The eight forms are: (1) Brāhma — a maiden adorned and gifted to an invited groom (Yj_1.58); (2) Daiva — given to a priest officiating at a sacrifice (Yj_1.59); (3) Ārṣa — bride-price of a pair of cattle (Yj_1.59); (4) Kāya (Prājāpatya equivalent) — given with the injunction 'Practice dharma together' (Yj_1.60); (5) Āsura — by payment of wealth (Yj_1.61); (6) Gāndharva — by mutual consent of bride and groom (Yj_1.61); (7) Rākṣasa — by forcible abduction in battle (Yj_1.61); (8) Paiśāca — by deceitful seduction of a sleeping or intoxicated maiden (Yj_1.61).",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Found Yājñavalkya Smṛti with slug unknown-yajnavalkya-smrti-cb88d6, 3 chapters"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6"}, "result_summary": "3 chapters; chapter 1 likely contains dharma/marriage sections"},
+    {"name": "search_corpus", "args": {"query": "eight forms marriage"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "Brahma Daiva Arsha"}, "result_summary": "0 results — search doesn't index transliteration well"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1}, "result_summary": "Found vivāhaprakaraṇam section at Yj_1.58-1.61 defining all eight forms of marriage"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-4ad3d1"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-987352"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-ee4dce"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-f1f83f"}
+  ]
+}
+```
+
+The eight forms of marriage are defined in **Chapter 1** of the Yājñavalkya Smṛti, in the *vivāhaprakaraṇam* (Marriage) section, across verses 58–61. The four "approved" forms (Brāhma, Daiva, Ārṣa, Kāya) are in vv. 58–60, and the four "disapproved" forms (Āsura, Gāndharva, Rākṣasa, Paiśāca) are all packed into v. 61.

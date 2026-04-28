@@ -1,0 +1,19 @@
+{
+  "answer": "The Wanderer's wyrd and Manu's daiva differ fundamentally in how fate relates to human action.\n\n**The Wanderer's wyrd** (Old English Elegies, ch. 11, paragraphs p-9cca5e and p-9462cc):\n- Line: \"Wyrd is wholly steadfast!\" (opening stanza, p-9cca5e)\n- Line: \"A weary mind cannot withstand Wyrd\" (second paragraph, p-9462cc)\nWyrd is absolute and irresistible — it sweeps away lords, earls, and hall-joys alike; you cannot act against it instrumentally. The metaphysics is quasi-providential: wyrd operates under or alongside the Christian God ('the Measurer'), and the poem closes by saying stability exists only with 'the Father in heaven.' Fate here is an opaque, sovereign power that human will cannot partner with or overcome.\n\n**Manu's daiva** (Manusmriti, ch. 8 [Mn_7.205–7.209M], paragraph p-803bc3):\n- Line: \"All this action is dependent on the ordinance of fate and human effort. Of these two, fate is unknowable, but in human effort, action is found.\" (Mn_7.205[206M])\n- Line: \"Even when joined with fate, a thing devoid of human effort is fruitless. Without human effort, a field does not yield its fruit.\" (Mn_7.208M)\nDaiva is dual-causal: it is one of two necessary ingredients alongside purusha-kara (human exertion). Fate provides the enabling/limiting condition; effort is where observable action lives. Daiva without effort yields nothing.\n\n**What each permits:**\n- **Daiva lets you act that wyrd does not:** Under Manu, you can work *with* fate instrumentally — joining effort to fate's ordinance accomplishes purposes. Fate is a partner, not a sovereign. Under wyrd, no such partnership is possible; wyrd is 'wholly steadfast' and cannot be steered or leveraged.\n- **Wyrd lets you do what daiva does not:** The Wanderer's framework permits spiritual transcendence as a genuine response — seeking divine mercy ('the Father in heaven') offers a stability that escapes wyrd altogether. Manu's daiva makes no provision for grace as an escape route; the only sanctioned response is persistent effort ('fortune serves the man who is beginning actions,' Mn_9.300). In the daiva framework, not acting is simply failure.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "wyrd fate wanderer"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "daiva fate manu"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "wyrd"}, "result_summary": "30 results — found wyrd in Andreas, Elene, Juliana, and Old English Elegies"},
+    {"name": "search_corpus", "args": {"query": "daiva"}, "result_summary": "18 results — all daiva results were about marriage rites (Daiva form of marriage), not fate"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e"}, "result_summary": "17 chapters; The Wanderer is chapter 11"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11}, "result_summary": "Full Wanderer text retrieved; key wyrd lines in p-9cca5e and p-9462cc"},
+    {"name": "search_corpus", "args": {"query": "divine fate exertion"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "daiva purusha"}, "result_summary": "0 results"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 8}, "result_summary": "Found key daiva/fate vs human effort passage at Mn_7.205-209M in paragraph p-803bc3: 'fate is unknowable, but in human effort, action is found' and 'a thing devoid of human effort is fruitless'"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "paragraph_id": "p-9cca5e"},
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "paragraph_id": "p-9462cc"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 8, "paragraph_id": "p-803bc3"}
+  ]
+}

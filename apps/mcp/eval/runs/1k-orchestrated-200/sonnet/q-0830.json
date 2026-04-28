@@ -1,0 +1,14 @@
+{
+  "answer": "In the Yājñavalkya Smṛti (work slug: unknown-yajnavalkya-smrti-cb88d6), chapter 2, verse 2.21 does NOT contain a rule on witnesses. It reads: 'In a conflict between two Smṛtis, reason based on custom is stronger in legal matters. But it is the established rule that Dharmaśāstra is more powerful than Arthaśāstra.' The witnesses section (sākṣiprakaraṇam, section 5) begins at verse 2.68 and runs through 2.83. The core rules there state: at least three witnesses are required, of the same caste as the parties; the disqualified include women, children, the aged, gamblers, the intoxicated, the insane, actors, heretics, forgers, enemies, and those with a pecuniary interest; even one witness approved by both parties suffices in cases of adultery, theft, assault, and violence; in a conflict of testimony, the majority prevails, then the more virtuous, then the most virtuous; and false witnesses are fined double the amount in dispute (Brāhmaṇas banished instead). The question's citation of '2.21' for a witnesses rule does not match the verse numbering in the corpus.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "witnesses Yajnavalkya"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"language": "Sanskrit"}, "result_summary": "Found Yājñavalkya Smṛti with slug unknown-yajnavalkya-smrti-cb88d6, 3 chapters"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_range": {"start": 0, "end": 50}}, "result_summary": "Found Yj_2.21: 'In a conflict between two Smṛtis, reason based on custom is stronger in legal matters. But it is the established rule that Dharmaśāstra is more powerful than Arthaśāstra.' — not about witnesses. Witnesses section begins at Yj_2.68."},
+    {"name": "get_passage", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_range": {"start": 50, "end": 120}}, "result_summary": "Confirmed witnesses section (sākṣiprakaraṇam) at Yj_2.68–2.83 covering qualifications, disqualifications, admonitions, conflict resolution, and penalties"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_id": "p-048b9a"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_id": "p-613b70"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_id": "p-18320c"}
+  ]
+}

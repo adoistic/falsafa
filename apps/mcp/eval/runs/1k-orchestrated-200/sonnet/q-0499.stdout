@@ -1,0 +1,29 @@
+```json
+{
+  "answer": "Several Iqbal poems in the corpus (all from Bang-E-Dara Parts 1–3) refer to specific historical Muslim victories or defeats:\n\n1. **Saqaliya** (allama-iqbal-bang-e-dara-part-2-9bc58c, ch. 21) — the clearest poem of historical defeat. It mourns the fall of Muslim Sicily ('the grave of Hejazi civilization'), explicitly laments the fall of Granada ('when heaven laid to waste the splendor of Granada, / A cry of anguish rose from the grieving heart of Ibn Badrun'), and alludes to the fall of Baghdad ('The nightingale of Shiraz raised its lament for Baghdad').\n\n2. **Shikwa** (allama-iqbal-bang-e-dara-part-3-cc61e8, ch. 20) — invokes multiple specific historical victories: 'who was it that tore out Khyber's mighty door?' (Battle of Khaybar, 628 CE); 'Who was it that laid Caesar's city flat upon the floor?' (Byzantine conquests); 'Who was it that extinguished Zoroaster's sacred fire?' (defeat of the Sassanid Persian Empire); 'We called the prayer in Europe's churches' and 'in the Sea of Darkness, rode our horses, wild and free' (Muslim conquest of Spain/Al-Andalus, 711 CE).\n\n3. **Bilad-e-Islamiya** (allama-iqbal-bang-e-dara-part-3-cc61e8, ch. 2) — references the fall of Cordoba ('Its flame went out, and scattered the Shining Nation's assembly'), the fall of Baghdad, and the conquest of Constantinople ('Now an eternal symbol of the Ummah's power and grandeur').\n\n4. **Tarana-e-Milli** (allama-iqbal-bang-e-dara-part-3-cc61e8, ch. 23) — laments the loss of Andalusia: 'O Garden of Andalusia, do you recall the day, / When on your branches high our nest in safety lay?' (referencing the Reconquista/fall of Muslim Spain).\n\n5. **Khitab ba Jawanan-e-Islam** (allama-iqbal-bang-e-dara-part-3-cc61e8, ch. 13) — references the early Muslim victory over Persia: 'the nation which once crushed underfoot the crown upon the head of Darius'.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 works: Bang-E-Dara Part 1 (44 chapters), Part 2 (28 chapters), Part 3 (28 chapters)"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"}, "result_summary": "Identified ch.21 'Saqaliya' (Sicily) as a likely historical poem"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "Identified ch.2 Bilad-e-Islamiya, ch.9 Goristan-e-Shahi, ch.13 Khitab ba Jawanan-e-Islam, ch.20 Shikwa, ch.23 Tarana-e-Milli as candidates"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 21, "variant": "translation"}, "result_summary": "Saqaliya mourns fall of Muslim Sicily, Granada (with Ibn Badrun reference), and Baghdad (Shiraz nightingale lament)"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "variant": "translation"}, "result_summary": "Shikwa lists historical Muslim victories: Khaybar, extinguishing Zoroastrian fire (Persia), Caesar's city (Byzantines), prayer in European churches and riding the Sea of Darkness (conquest of Spain)"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 2, "variant": "translation"}, "result_summary": "Bilad-e-Islamiya references fall of Cordoba, fall of Baghdad, and conquest of Constantinople"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 23, "variant": "translation"}, "result_summary": "Tarana-e-Milli laments loss of Garden of Andalusia (Reconquista/defeat)"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 13, "variant": "translation"}, "result_summary": "Khitab ba Jawanan-e-Islam references crushing Darius's crown (early Muslim victory over Persia)"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 9, "variant": "translation"}, "result_summary": "Goristan-e-Shahi is a general elegy on fallen Muslim dynasties; no specific named battle or event"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 38, "variant": "translation"}, "result_summary": "Sayed Ki Loh-e-Turbat is an epitaph poem with moral advice; no specific historical battle reference"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 21, "paragraph_id": "p-08760e"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 21, "paragraph_id": "p-83813c"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 21, "paragraph_id": "p-02c3ef"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "paragraph_id": "p-ec4443"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 20, "paragraph_id": "p-e1af7a"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 2, "paragraph_id": "p-8c21df"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 2, "paragraph_id": "p-43c1b0"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 2, "paragraph_id": "p-e0bfb3"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 23, "paragraph_id": "p-dea2e4"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 13, "paragraph_id": "p-365462"}
+  ]
+}
+```
