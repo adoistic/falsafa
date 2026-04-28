@@ -1,0 +1,26 @@
+{
+  "answer": "The passage where Kunjarakarna (along with Pūrṇavijaya) receives instruction from Vairocana is found in Kunjarakarna Dharmakathana (work slug: unknown-kunjarakarna-dharmakathana-894f4a), Chapter 1, Cantos 21–23. The instruction begins in Canto 21 where the Sugata/Lord teaches the two ascetics about the precious secret of birth and bids them destroy their defilements. Kunjarakarna then asks for the means to mokṣa, and Vairocana responds through Cantos 22–23 with his core teaching:\n\nCanto 22 (paragraph IDs p-943f15, p-310540, p-deb733): Vairocana teaches that the Lord's body and the disciple's body are one ('you are I'), that the teaching is subtle and difficult to grasp, that one must not choose between Buddhist, Śaiva, or Ṛṣi factions, and that he will reveal a special matter.\n\nCanto 23 (paragraph IDs p-91b160, p-2e95c3, p-e871d0, p-6c6127, p-962d1e): Vairocana explains the unity of all religious traditions — that the five Buddhas, five Kuśika ṛṣis, and five Śaiva monks are all one, that Patañjala is himself, and climactically: 'I, Vairocana, am Buddha-form and Śiva-form, the teacher of the entire world. That is why I am called Lord Teacher, renowned throughout all the world. I alone am the all-pervading, the special, supreme deity in all the universe.' He concludes (p-962d1e): 'In short, my father, do not fail to have a truly pure mind. Do not praise a wicked faction, do not have a desire to grasp anything but peace. May your goal be accomplished, my sons, both of you, and may your hearing of the teaching be fruitful.'",
+  "tool_calls": [
+    {"name": "list_works", "args": {"language": "Kawi"}, "result_summary": "Found 9 Kawi works including unknown-kunjarakarna-dharmakathana-894f4a (Kunjarakarna Dharmakathana by Mpu Dusun, 1 logical chapter)"},
+    {"name": "search_corpus", "args": {"query": "Kunjarakarna Vairocana"}, "result_summary": "0 results — search index does not surface this work's content by name query"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"}, "result_summary": "1 chapter (prose), translation and transliteration variants available"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1}, "result_summary": "Chapter too large (101k chars); saved to file. Grepped for 'Vairocana' — found 3 occurrences: opening invocation (Canto 1), Kunjarakarna's exclamation in Yama's realm (Canto ~13), and the core instruction speech in Cantos 22–23"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 5}}, "result_summary": "Confirmed 349 total paragraphs; got opening paragraph IDs"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_range": {"start": 175, "end": 200}}, "result_summary": "Found Cantos 19–23 with paragraph IDs; confirmed Vairocana's instruction in Canto 22 (p-943f15, p-310540, p-deb733) and Canto 23 (p-91b160, p-2e95c3, p-e871d0, p-6c6127, p-962d1e)"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_range": {"start": 195, "end": 225}}, "result_summary": "Confirmed Canto 23 stanzas 1–5 with paragraph IDs; Vairocana's climactic self-declaration at p-6c6127 and concluding advice at p-962d1e"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-166919"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-690bb0"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-effa9b"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-b5e334"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-943f15"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-310540"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-deb733"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-91b160"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-2e95c3"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-e871d0"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-6c6127"},
+    {"work_slug": "unknown-kunjarakarna-dharmakathana-894f4a", "chapter_number": 1, "paragraph_id": "p-962d1e"}
+  ]
+}
