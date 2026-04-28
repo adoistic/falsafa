@@ -1,0 +1,25 @@
+```json
+{
+  "answer": "The couplet is found in Diwan-E-Ghalib (work slug: mirza-ghalib-diwan-e-ghalib-74ed4c), chapter 60.\n\nTransliteration (closing couplet / maqta):\nHain aur bhi duniya mein sukhan-war bohat achhe\nKehte hain ke 'Ghalib' ka hai andaaz-e-bayaan aur\n\nTranslation:\n\"The world has many poets, it is plain;\nBut they say Ghalib's mode of speech is something else again.\"\n\nGhalib acknowledges that there are many other fine poets in the world, but asserts — through the voice of those who speak of him — that his own style of expression (andaaz-e-bayaan) is altogether different, in a class of its own.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "sukhanwar bahut achhe"}, "result_summary": "0 results — English scope, Urdu text not indexed"},
+    {"name": "search_corpus", "args": {"query": "duniya mein sukhanwar"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"author": "ghalib"}, "result_summary": "Found mirza-ghalib-diwan-e-ghalib-74ed4c with 239 chapters"},
+    {"name": "search_corpus", "args": {"query": "poets good style different"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "sukhanwar achhe"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "hain aur bhi duniya"}, "result_summary": "1 result — Diwan-E-Ghalib chapter 60, transliteration variant; snippet confirmed the full couplet"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 60, "variant": "translation"}, "result_summary": "Confirmed last verse: 'The world has many poets, it is plain; / But they say Ghalib's mode of speech is something else again.'"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 60, "variant": "transliteration"}, "result_summary": "Confirmed closing couplet: 'Hain aur bhi duniya mein sukhan-war bohat achhe / Kehte hain ke Ghalib ka hai andaaz-e-bayaan aur'"}
+  ],
+  "citations": [
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 60, "paragraph_id": "p-312db4"}
+  ]
+}
+```
+
+**Couplet found** in `mirza-ghalib-diwan-e-ghalib-74ed4c`, chapter 60 (the maqta/closing couplet):
+
+> **Hain aur bhi duniya mein sukhan-war bohat achhe**
+> **Kehte hain ke 'Ghalib' ka hai andaaz-e-bayaan aur**
+
+*"The world has many poets, it is plain; / But they say Ghalib's mode of speech is something else again."*

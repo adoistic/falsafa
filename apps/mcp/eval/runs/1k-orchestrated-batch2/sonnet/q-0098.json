@@ -1,0 +1,61 @@
+{
+  "answer": "In 'Haqeeqat-e-Husn' (The Reality of Beauty), found in Bang-E-Dara Part 2, chapter 12 (allama-iqbal-bang-e-dara-part-2-9bc58c, ch. 12), Iqbal argues that beauty's metaphysical source is divine — Beauty itself petitions God — but its existence in the phenomenal world is necessarily transient. God's answer constitutes the metaphysical claim: this world is a 'hall of sight' (tasweer-khaana, a picture-house of appearances) and 'a tale told from non-being's endless night,' meaning the world itself arises from non-being and is constituted by appearances. Because beauty in this world is 'made from the hue of constant change' (rang-e-taghayyur), its reality is inseparable from decline: 'the truly beautiful is that whose reality is passing away' (وہی حسیں ہے حقیقت زوال ہے جس کی). The argument is that beauty's metaphysical ground is God/the eternal, but as it manifests in the phenomenal world — itself born of non-being — beauty is constituted by change and transience. Fading is not beauty's defect but its essential metaphysical truth in the world of appearances. True beauty must fade precisely because it belongs to a realm made of change, not the eternal.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "haqeeqat husn beauty"
+      },
+      "result_summary": "0 results — English search missed Urdu title"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Found 3 Iqbal works: Bang-E-Dara Parts 1, 2, 3"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Found 'Haqeeqat-e-Husn' as chapter 12 of Bang-E-Dara Part 2"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Full English translation: Beauty asks God why it has no eternal life; God answers the world is a hall of sight born of non-being, beauty is made of constant change, so true beauty must fade"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 12,
+        "variant": "original"
+      },
+      "result_summary": "Urdu original confirmed key line: 'وہی حسیں ہے حقیقت زوال ہے جس کی' — that alone is truly beautiful whose reality is decline"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 12,
+      "paragraph_id": "p-5bdd8f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 12,
+      "paragraph_id": "p-d64cba"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 12,
+      "paragraph_id": "p-1a6f4d"
+    }
+  ]
+}

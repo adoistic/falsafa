@@ -1,0 +1,21 @@
+```json
+{
+  "answer": "The two poems deploy starkly different rhetorical strategies shaped by their different addressees and goals.\n\n**'Khitab ba Jawanan-e-Islam'** (Bang-e-Dara Part 3, ch. 13, slug: allama-iqbal-bang-e-dara-part-3-cc61e8): Iqbal addresses a collective audience — the Muslim youth as a group. He speaks from a position above them, as an elder-prophet. The dominant strategy is epideictic shame and exhortation: he paints the glorious past of Muslim civilization (Arabs who crushed Darius, creators of empire, guardians of knowledge) and then contrasts it with the present degradation of the youth ('you are all talk, they were all action; you are static, they were ever-moving'). The poem is elegiac and majestic in register. Its rhetorical goal is to awaken collective Islamic identity by invoking ancestral legacy and making the gap between past greatness and present fall feel unbearable. The final image — Islamic books of learning now found only in Europe — is designed to produce anguish that spurs action. There is no dialogue; Iqbal declaims downward at the youth.\n\n**'Sach Keh Doon Ae Brahman'** (Bang-e-Dara Part 1, ch. 36, slug: allama-iqbal-bang-e-dara-part-1-55b25c): Iqbal addresses a single individual across a religious boundary. He opens with a diplomatic hedge ('if you will not take offense'), establishing peer-to-peer intimacy rather than prophetic authority. The dominant strategy is confessional equivalence: the poet announces he has abandoned both the mosque and the Hindu shrine, placing himself equidistant from Islam and Hinduism, positioning himself as qualified to speak to the Brahmin as fellow spiritual outsider. The poem then pivots from critique to invitation — 'Come, let us lift the veils of otherness,' 'let's create' a new shrine together. The rhetoric is deliberative and syncretic, not exhortatory or shaming. There is no appeal to a glorious past; the focus is entirely on present action and future possibility.\n\n**Key contrasts**: (1) Collective vs. individual addressee. (2) Prophet-above vs. peer-beside relationship with the audience. (3) Shame-and-memory as motivation (Khitab) vs. invitation-and-shared-longing (Brahman). (4) Heavily historicist (ancestors vs. descendants) vs. entirely present-focused. (5) Exhortation to reclaim an identity vs. invitation to dissolve identities into a new shared one.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Khitab Jawanan Islam"}, "result_summary": "0 results — English search did not match Urdu title tokens"},
+    {"name": "search_corpus", "args": {"query": "Sach Keh Doon Brahman"}, "result_summary": "0 results — same issue with Urdu title tokens"},
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "3 works found: Bang-e-Dara Part 1, 2, and 3"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "44 chapters; ch. 36 is 'Sach keh doon ae Brahman'"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"}, "result_summary": "28 chapters; neither target poem found here"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "28 chapters; ch. 13 is 'Khitab ba Jawanan-e-Islam'"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 13, "variant": "translation"}, "result_summary": "Full text of Khitab ba Jawanan-e-Islam retrieved — collective address, epideictic shame, historical contrast"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 36, "variant": "translation"}, "result_summary": "Full text of Sach Keh Doon Ae Brahman retrieved — individual address, confessional-syncretic, deliberative invitation"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 13, "paragraph_id": "p-365462"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 36, "paragraph_id": "p-752d60"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 36, "paragraph_id": "p-5af363"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 36, "paragraph_id": "p-3a582d"}
+  ]
+}
+```

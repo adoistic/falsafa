@@ -1,0 +1,18 @@
+```json
+{
+  "answer": "In chapter 4 ('De l'occupation des choses') of Comte's Traité de la propriété Vol I (work slug: charles-comte-traite-de-la-propriete-vol-i-2c7a99), Comte argues that occupation — the act of taking first possession of a masterless thing with the intention of appropriating it — is not merely a legal convention but a necessity rooted in human nature. His core claims are: (1) The traditional juristic explanation that occupation rights derive from a universal prior-right-renunciation pact among all humans is a fiction ('a veritable chimera'), because such a universal convention is impossible and unintelligible. (2) The real justification for occupation is natural and practical: human industry cannot create matter, only transform it; the raw elements must first be seized by occupation, and without guaranteed exclusive enjoyment for the first occupant, no productive transformation — and thus no property — would ever occur. (3) Occupation is therefore a law of human nature: peoples who leave the earth uncultivated or who adopt full community of goods condemn themselves to stagnation and misery; private appropriation via occupation is the only path to development. (4) Occupation applies to any ownerless thing that can satisfy a need and be exclusively held (animals, land, minerals, found objects on the seashore), but NOT to the open seas, which, like wind and sunlight, cannot be improved or degraded by any occupant and must remain common to all nations for communication and commerce. (5) Comte distinguishes occupation (acquiring something with no master, effective immediately) from possession (which can apply even to already-owned things but requires duration and specific circumstances to confer title). (6) Things whose owner is simply unknown must be returned to the owner or deposited with public authority — they are not 'masterless' and cannot be acquired by occupation.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Comte"}, "result_summary": "Found 6 works by Charles Comte, including charles-comte-traite-de-la-propriete-vol-i-2c7a99 (Traité de la propriété: VOL I, 1834, 27 chapters)"},
+    {"name": "list_chapters", "args": {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"}, "result_summary": "Chapter 4 confirmed as 'De l'occupation des choses'"},
+    {"name": "read_chapter", "args": {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99", "chapter_number": 4, "variant": "translation"}, "result_summary": "Full 33-paragraph English translation retrieved; chapter argues occupation is a law of human nature, critiques the universal-convention theory, limits occupation to ownerless things excluding open seas, and distinguishes occupation from possession"}
+  ],
+  "citations": [
+    {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99", "chapter_number": 4, "paragraph_id": "p-0fc9ed"},
+    {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99", "chapter_number": 4, "paragraph_id": "p-5f2b15"},
+    {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99", "chapter_number": 4, "paragraph_id": "p-7e2792"},
+    {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99", "chapter_number": 4, "paragraph_id": "p-8094b8"},
+    {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99", "chapter_number": 4, "paragraph_id": "p-917e2d"},
+    {"work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99", "chapter_number": 4, "paragraph_id": "p-15da94"}
+  ]
+}
+```

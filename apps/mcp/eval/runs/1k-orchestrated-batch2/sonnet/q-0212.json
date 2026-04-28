@@ -1,0 +1,122 @@
+{
+  "answer": "**Ghalib — Diwan-e-Ghalib, chapter 231 [p-a37ab4]:**\n\n\"O Sāqī, even the stupor of unslaked thirst is measured by one's soul; / If you are a river of wine, I am the long, weary yawn of the shore.\"\n\n(Transliteration: ba-qadr-e-zarf hai saqi khumar-e-tishna-kaami bhi / jo tu darya-e-mai hai toh main khamyaza hoon sahil ka)\n\nThis is the heaviest saqi-couplet in the corpus for Ghalib. The saqi is not asked to pour wine at all — it is summoned to witness a metaphysical truth: even the intoxication produced by mere unslaked thirst (khumar-e-tishna-kaami) is bounded by the soul's own vessel (ba-qadr-e-zarf). If the saqi is an infinite river of wine, the poet is only the shore's exhausted yawn — passive, bounded, unable to absorb what the saqi would give. The saqi is asked to be a cosmic witness to the soul's fundamental capacity-limit. The transaction of the tavern collapses; what remains is an ontological reckoning. Beyond pouring: the saqi is asked to comprehend the incommensurability between divine generosity and the soul's finite vessel.\n\n---\n\n**Iqbal — Bang-e-Dara Part 3, chapter 20 (Shikwa) [p-bd43b7]:**\n\n\"We only live so that Your name may yet on earth remain; / Is it possible the cup-bearer is gone, but cups remain?\"\n\n(Transliteration: Hum to jeete hain ke duniya mein tera naam rahe / Kahin mumkin hai ke saaqi na rahe, jaam rahe!)\n\nThis is the heaviest saqi-couplet for Iqbal. The saqi here is not an individual wine-server — it is the living Muslim ummah itself, the community of devoted believers. The cups (jaam) are the empty religious forms: mosques, prayers, rituals still standing. The question is directed at God as a challenge: can You allow the cups to remain while the cup-bearer — the animating spiritual community — is gone? The saqi is implicitly summoned to remain present, to be the living spirit inside the hollow vessels of religion. Beyond pouring: the saqi is asked to be the soul of an entire civilization, to refuse the death that would leave cups without a cupbearer.\n\n---\n\n**Contrast:** Ghalib's saqi is confronted with a private, intimate metaphysical argument about the soul's bounded nature. Iqbal's saqi is addressed with a public, civilizational summons — to persist as the animating spirit of an entire religious community or render its forms meaningless.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Ghalib"
+      },
+      "result_summary": "Found mirza-ghalib-diwan-e-ghalib-74ed4c (239 chapters)"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Iqbal"
+      },
+      "result_summary": "Found 3 Iqbal works: Bang-e-Dara Parts 1, 2, 3"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saqi"
+      },
+      "result_summary": "21 results across Ghalib (chapters 2, 50, 78, 124, 138, 150, 156, 165, 198, 220, 231) and Iqbal (Bang-e-Dara Parts 2 and 3)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 231,
+        "variant": "translation"
+      },
+      "result_summary": "Found key saqi-couplet: 'O Sāqī, even the stupor of unslaked thirst is measured by one's soul; / If you are a river of wine, I am the long, weary yawn of the shore.' [p-a37ab4]"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 150,
+        "variant": "translation"
+      },
+      "result_summary": "Saqi-couplet: 'From your own molten heart, its cup acquire' — saqi dismissed, self becomes its own saqi [p-ea47f0]"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Saqi's pride has cured ocean-thirst — saqi as healer through denial [p-6cadea]"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 165,
+        "variant": "translation"
+      },
+      "result_summary": "Saqi-e-Kausar (Prophet as eschatological wine-giver) [p-86e9fc]"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Shikwa — found key saqi-couplet: 'Is it possible the cup-bearer is gone, but cups remain?' [p-bd43b7]"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Cupbearer told the age of secret drinking is over; world will become one tavern [p-445c2f]"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Wataniyat: 'The Saqi's ways of grace and wrath are fashioned new' — saqi recast in nationalist age [p-79b1e9]"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_range": {
+          "start": 17,
+          "end": 20
+        }
+      },
+      "result_summary": "Confirmed full context and paragraph ID for Shikwa saqi-couplet"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "transliteration"
+      },
+      "result_summary": "Confirmed Urdu: 'Kahin mumkin hai ke saaqi na rahe, jaam rahe!'"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 231,
+      "paragraph_id": "p-a37ab4"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-bd43b7"
+    }
+  ]
+}

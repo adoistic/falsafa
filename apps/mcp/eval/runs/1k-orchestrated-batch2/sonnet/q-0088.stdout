@@ -1,0 +1,17 @@
+```json
+{
+  "answer": "In 'Visal' (Bang-e-Dara Part 2, chapter 27), union with the beloved transforms the speaker entirely. The poem describes how, after attaining the beloved (symbolized as the flower the Nightingale sought), the speaker's inner turmoil vanishes, and his suffering becomes radiant. Key themes about union: (1) The beloved was finally attained by blessed fate ('that very flower is finally mine'); (2) Union resolves all inner restlessness — 'that turmoil in my soul has vanished from its place'; (3) Love's passion transforms the speaker — 'from passion's heat, my blisters have themselves become the flame'; (4) Union illuminates the self — 'the lustre of this love makes my dark dust a mirror bright, and in it shines the image of my timeless friend's own light'; (5) Paradoxically, union means losing oneself — 'by entering chains, I found my liberty, my home was built upon the wreck of me'; and (6) The beloved's single glance taught surrender and ignited the speaker's heart — 'You cast a single glance, and taught surrender's art, O blessed day, that set a fire to my worthless heart!' Union with the beloved is thus portrayed as a paradoxical state of joyful self-annihilation that brings light, liberty, and completeness.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found Bang-e-Dara Part 2 with slug allama-iqbal-bang-e-dara-part-2-9bc58c"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 27}, "result_summary": "Retrieved 'Visal' — 11 verses about the speaker's union with the beloved (the flower/Nightingale metaphor), describing transformation, self-annihilation, and illumination through union"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 27, "paragraph_id": "p-cade15"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 27, "paragraph_id": "p-553122"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 27, "paragraph_id": "p-ea63e5"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 27, "paragraph_id": "p-3a1ddc"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 27, "paragraph_id": "p-456772"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c", "chapter_number": 27, "paragraph_id": "p-418f98"}
+  ]
+}
+```

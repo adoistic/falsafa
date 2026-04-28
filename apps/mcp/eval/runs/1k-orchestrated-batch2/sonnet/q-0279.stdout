@@ -1,0 +1,28 @@
+```json
+{
+  "answer": "Iqbal's 'Insaan' (Bang-E-Dara Part 3, chapter 12, slug: allama-iqbal-bang-e-dara-part-3-cc61e8) and Manusmṛti chapter 1 (slug: unknown-manusmrti-347b76) give sharply opposed answers to 'what is a human?'\n\nIqbal privileges striving and inner will. The poem contrasts the human with the rest of creation—Narcissus, Pine, every natural thing—which is 'accustomed to submission.' The human alone is 'aflame with striving,' carries 'a yearning for vastness,' and, crucially, possesses the freedom to act: 'If it so chooses, it can change the very form of the garden.' What makes the human distinctive is not origin or social rank but an inalienable, self-directed energy oriented toward the infinite. Wisdom, perception, and potency are attributes of that striving self (khudi), not marks of a station assigned from outside.\n\nManu privileges cosmic placement and dharmic duty. The chapter embeds the human within a hierarchically ordered creation emanating from Brahma. Humans are born from the womb (Mn_1.43), but what truly defines them is their varna position—Brahmana from Brahma's mouth, Kshatriya from his arms, Vaishya from thighs, Shudra from feet (Mn_1.31, 1.87–91)—and the duties assigned at creation. Names, actions, and conditions are set by the Veda at the beginning (Mn_1.21); each being spontaneously enacts what was assigned to it (Mn_1.28–29). The Brahmana is the apex: 'Of the intelligent, men are the best; among men, the Brahmanas are the best' (Mn_1.96), because he embodies Dharma and carries the sacred speech. Humanity is thus a rung in a cosmic order, defined by reception of dharma and fulfillment of prescribed role.\n\nIn short: Iqbal's human is constituted by will—a self that strains toward the infinite against a world of passive submission. Manu's human is constituted by station—a creature whose essential nature is fixed at creation and realized through fulfilling its assigned dharmic place in the cosmic hierarchy.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found three Bang-E-Dara parts; Part 3 slug: allama-iqbal-bang-e-dara-part-3-cc61e8"},
+    {"name": "list_works", "args": {"author": "Manu"}, "result_summary": "Found Manusmṛti, slug: unknown-manusmrti-347b76, 12 chapters"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "Chapter 12 is titled 'Insaan'"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 12, "variant": "translation"}, "result_summary": "Short poem contrasting human striving with passive nature; key lines on yearning, agency, wisdom"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "variant": "translation"}, "result_summary": "Full cosmogony; varna hierarchy from Brahma's body parts; humans defined by dharmic station and assigned actions"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 12, "paragraph_id": "p-cb3c43"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 12, "paragraph_id": "p-2697a9"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 12, "paragraph_id": "p-587d8c"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-13a2db"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-3a6c83"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-fdb716"}
+  ]
+}
+```
+
+**Summary:** The two texts stage a clean dialectic.
+
+- **Iqbal's 'Insaan'** (Part 3, ch. 12) privileges **will and striving**. Everything in nature—the Narcissus, the Pine—submits passively to its condition. The human alone is "aflame with striving," carries "a yearning for vastness," and can *choose* to reshape the world. Humanness is constituted by this unkillable inner drive (khudi) toward the infinite, not by origin or rank.
+
+- **Manu's Manusmṛti ch. 1** privileges **cosmic station and dharmic duty**. Humans are embedded in a creation emanating from Brahma, their varna positions literally carved from his body (Brahmana from mouth, Kshatriya from arms, etc.). Names, actions, and conditions were assigned at the beginning from the Veda; each being spontaneously enacts its assigned role. The Brahmana is the human ideal not because of will but because he most fully embodies Dharma and sacred speech.
+
+The contrast: Iqbal's human *becomes* through striving; Manu's human *is* through station.

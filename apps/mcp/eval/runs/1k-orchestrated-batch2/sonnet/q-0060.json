@@ -1,0 +1,68 @@
+{
+  "answer": "The matla of Ghalib's ghazal 'Mehrbaan ho ke bula lo mujhe chaaho jis waqt' (Diwan-E-Ghalib, chapter 135) is:\n\nمہرباں ہو کے بلا لو مجھے چاہو جس وقت\nمیں گیا وقت نہیں ہوں کہ پھر آ بھی نہ سکوں\n\n(Meherbaan ho ke bula lo mujhe chaaho jis waqt / Main gaya waqt nahin hoon ke phir aa bhi na sakoon)\n\nEnglish translation: 'Be kind, and call me to you when you please; / I am not bygone time, that I cannot return with ease.'",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mehrbaan bula lo"
+      },
+      "result_summary": "0 results — English-only index doesn't match Urdu terms"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Ghalib"
+      },
+      "result_summary": "Found mirza-ghalib-diwan-e-ghalib-74ed4c with 239 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bula lo jis waqt"
+      },
+      "result_summary": "0 results"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "call me whenever you wish"
+      },
+      "result_summary": "0 results"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "239 chapters listed; filtered for 'bula' → chapter 135: meherbaan-ho-ke-bula-lo-mujhe-chaaho-jis-waqt"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 135,
+        "variant": "original"
+      },
+      "result_summary": "Returned full Urdu text; matla is paragraph p-ba3c9f"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 135,
+        "paragraph_range": {
+          "start": 0,
+          "end": 1
+        }
+      },
+      "result_summary": "Confirmed English translation of the matla"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 135,
+      "paragraph_id": "p-ba3c9f"
+    }
+  ]
+}

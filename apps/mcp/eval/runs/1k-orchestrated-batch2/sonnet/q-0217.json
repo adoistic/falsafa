@@ -1,0 +1,60 @@
+{
+  "answer": "Both texts name the same five mahāpātakas in the same order. Manusmṛti (unknown-manusmrti-347b76, ch. 12, verse Mn_11.54, p-961cc5) reads: 'The slaying of a Brahmana, the drinking of liquor, theft, the defiling of a guru's bed—these they call great sins, and also association with them.' Viṣṇu Smṛti (unknown-visnu-smrti-27f0d8, ch. 35, p-6491a0 + p-362000) reads: 'Killing a Brāhmaṇa, drinking liquor, stealing a Brāhmaṇa's gold, and violating a preceptor's bed are great sins. And association with such a person.' Order in both: (1) killing a Brahmin, (2) drinking liquor, (3) theft, (4) violating the teacher's bed, (5) association with such sinners. No sin is dropped, added, or reordered between the two texts. The sole difference is in the specificity of sin 3: Manu uses the generic term 'theft' (steya), while Viṣṇu specifies it as 'stealing a Brāhmaṇa's gold' — identifying both the victim and the stolen object.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mahāpātaka"
+      },
+      "result_summary": "Found Viṣṇu Smṛti ch. 35 and ch. 5 as hits; Manusmṛti not yet located"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Sanskrit"
+      },
+      "result_summary": "Confirmed both unknown-manusmrti-347b76 and unknown-visnu-smrti-27f0d8 are in corpus"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 35
+      },
+      "result_summary": "Viṣṇu ch. 35: killing Brāhmaṇa, drinking liquor, stealing Brāhmaṇa's gold, violating preceptor's bed (Vi_35.1); association (Vi_35.2)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "Corpus ch. 11 covers only Mn_11.1–6 (about gifts); mahāpātaka list not here"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Corpus ch. 12 covers Mn_11.7 onward; grep found Mn_11.54 at p-961cc5: slaying Brahmin, drinking liquor, theft, defiling guru's bed, association"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-961cc5"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 35,
+      "paragraph_id": "p-6491a0"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 35,
+      "paragraph_id": "p-362000"
+    }
+  ]
+}

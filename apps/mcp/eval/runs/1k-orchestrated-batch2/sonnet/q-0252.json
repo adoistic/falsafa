@@ -1,0 +1,19 @@
+{
+  "answer": "In Manusmṛti, the prescription about the king's ministers is at Chapter 7, verse 54 (Mn_7.54, paragraph p-0952cb): 'He should appoint seven or eight ministers who are hereditary, learned in the sacred treatises, brave, skilled in arms, of noble birth, and well-tested.' The Sanskrit reads: 'maulāñ śāstravidaḥ śūrāṃl labdhalakṣān kulodbhavān / sacivān sapta cāṣṭau vā prakurvīta parīkṣitān.' In Viṣṇu Smṛti, the closest parallel is Chapter 3, verse 71 (Vi_3.71, paragraph p-08a9bd): 'And as his assistants in all affairs, men who are pure, not greedy, attentive, and endowed with energy.' Sanskrit: 'śucīn alubdhān avahitān śaktisaṃpannān sarvārtheṣu ca sahāyān.' The wording does NOT match closely. Manu specifies the count explicitly (sapta cāṣṭau vā — seven or eight), and its qualifications emphasize hereditary status, scriptural learning, martial bravery, skill, noble birth, and field-testing. Viṣṇu drops the specific count entirely and instead lists ethical qualities: purity, non-greed, attentiveness, and energetic capacity. In short, Manu gives a precise martial-and-hierarchical formula; Viṣṇu adapts the theme into a brief, ethically-oriented prescription without specifying a number.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "eight ministers king"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {}, "result_summary": "Found Manusmṛti (unknown-manusmrti-347b76) and Viṣṇu Smṛti (unknown-visnu-smrti-27f0d8) in corpus"},
+    {"name": "search_corpus", "args": {"query": "seven or eight ministers"}, "result_summary": "1 result: Manusmṛti ch. 7, paragraph p-0952cb — Mn_7.54"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7}, "result_summary": "Confirmed Mn_7.54: 'He should appoint seven or eight ministers who are hereditary, learned in the sacred treatises, brave, skilled in arms, of noble birth, and well-tested.'"},
+    {"name": "find_related", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7}, "result_summary": "Most content-similar Viṣṇu chapter is ch. 3 (score 0.2857)"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 3}, "result_summary": "Vi_3.71 (p-08a9bd): assistants in all affairs — pure, not greedy, attentive, energetic. No specific count given."},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 3, "variant": "transliteration"}, "result_summary": "Vi_3.71 transliteration: 'śucīn alubdhān avahitān śaktisaṃpannān sarvārtheṣu ca sahāyān'. Vi_3.33 lists the seven constituents of state (svāmin/amātya/durga/kośa/daṇḍa/rāṣṭra/mitra) but does not prescribe eight ministers."},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7, "variant": "transliteration"}, "result_summary": "Mn_7.54 Sanskrit confirmed: 'maulāñ śāstravidaḥ śūrāṃl labdhalakṣān kulodbhavān / sacivān sapta cāṣṭau vā prakurvīta parīkṣitān'"},
+    {"name": "search_corpus", "args": {"query": "ministers hereditary learned brave"}, "result_summary": "0 results — no second occurrence of that qualification cluster"},
+    {"name": "search_corpus", "args": {"query": "appoint seven eight king counselors"}, "result_summary": "0 results — confirmed no further parallel passage in Viṣṇu"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7, "paragraph_id": "p-0952cb"},
+    {"work_slug": "unknown-visnu-smrti-27f0d8", "chapter_number": 3, "paragraph_id": "p-08a9bd"}
+  ]
+}

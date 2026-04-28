@@ -1,0 +1,17 @@
+{
+  "answer": "The passage on the rules governing the eighteen titles of law is found in Nāradasmṛti (work slug: unknown-naradasmrti-7650d2), Chapter 1, at Nar. M1.9 and M1.16–19 (within Mātṛkā 1, the introductory section on legal procedure). Nar. M1.9 first states the overall structure: 'It has eight limbs, eighteen topics, and likewise a hundred branches.' Then Nar. M1.16–19 enumerate all eighteen titles of law: (1) Non-payment of debt, (2) Deposits, (3) Partnership, (4) Resumption of a gift, (5) Refusal to render service after agreeing to it, (6) Non-payment of wages, (7) Sale by one who is not the owner, (8) Non-delivery of a sold article, (9) Rescission of a purchase, (10) Breach of an agreement, (11) Disputes concerning land, (12) The relationship between man and woman, (13) Inheritance, (14) Crimes of violence, (15) Verbal assault, (16) Physical assault, (17) Gambling, and (18) Miscellaneous matters. Nar. M1.20 adds that these eighteen topics subdivide further into one hundred and eight subtopics ('a hundred branches').",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "eighteen titles law"}, "result_summary": "0 results in Naradasmrti; only found Manusmrti ch.8"},
+    {"name": "list_works", "args": {}, "result_summary": "Found Naradasmrti with slug unknown-naradasmrti-7650d2, 1 logical chapter"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-naradasmrti-7650d2", "chapter_number": 1, "variant": "translation"}, "result_summary": "Output too large (171KB); saved to cache. Preview showed Matrka 1 section on legal procedure with mention of eighteen topics at M1.9"},
+    {"name": "search_corpus", "args": {"query": "eighteen titles"}, "result_summary": "2 results in Manusmrti ch.8 only; Naradasmrti uses 'topics' not 'titles'"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-naradasmrti-7650d2", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 30}}, "result_summary": "Confirmed: Nar. M1.9 (p-79e060) mentions eighteen topics; M1.16–19 (p-99f176, p-275489, p-a08b87, p-d12f61) enumerate all eighteen titles of law"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-naradasmrti-7650d2", "chapter_number": 1, "paragraph_id": "p-79e060"},
+    {"work_slug": "unknown-naradasmrti-7650d2", "chapter_number": 1, "paragraph_id": "p-99f176"},
+    {"work_slug": "unknown-naradasmrti-7650d2", "chapter_number": 1, "paragraph_id": "p-275489"},
+    {"work_slug": "unknown-naradasmrti-7650d2", "chapter_number": 1, "paragraph_id": "p-a08b87"},
+    {"work_slug": "unknown-naradasmrti-7650d2", "chapter_number": 1, "paragraph_id": "p-d12f61"}
+  ]
+}

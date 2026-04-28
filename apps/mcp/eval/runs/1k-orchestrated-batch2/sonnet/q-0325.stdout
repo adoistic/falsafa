@@ -1,0 +1,23 @@
+```json
+{
+  "answer": "The comparison cannot be substantiated from the corpus. Regarding Iqbal's 'Tarana-e-Hindi': the corpus does not contain a chapter explicitly titled 'Tarana-e-Hindi' in any Bang-e-Dara part. The closest match is 'Hindustani Bachon Ka Qaumi Geet' (Bang-e-Dara Part 1, chapter 26, slug allama-iqbal-bang-e-dara-part-1-55b25c), which does contain territorial-pride content praising Hindostan as a uniquely blessed land — invoking Chishti, Nanak, the Greeks, Persians, Tatars, and comparing India's peaks to Sinai, with the refrain 'This is my homeland, this land of mine.' Regarding Cynewulf's Andreas: the corpus version (cynewulf-andreas-07b573, chapter 1) does not contain any passage where Andrew speaks with territorial pride about his own land. The poem focuses on Andrew's Christian mission to Mermedonia. Achaia is mentioned only incidentally — once by God rebuking Andrew for his earlier reluctance ('as when in Achaia you made refusal'), and once at the end when Andrew prepares to return there. There is no speech in the corpus where Andrew celebrates or praises his homeland in a manner that could be compared to the territorial patriotism of the Tarana-e-Hindi / Hindustani Bachon Ka Qaumi Geet. The premise of the question — that Andreas contains territorial-pride material 'when Andrew speaks of his land' — is not supported by the corpus.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Tarana-e-Hindi Hindostan"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {"author": "cynewulf"}, "result_summary": "Found cynewulf-andreas-07b573, cynewulf-elene-d2d132, cynewulf-juliana-9a2157"},
+    {"name": "list_works", "args": {"author": "iqbal"}, "result_summary": "Found allama-iqbal-bang-e-dara-part-1-55b25c, part-2, part-3"},
+    {"name": "search_corpus", "args": {"query": "Hindostan hamara"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "sare jahan se accha"}, "result_summary": "0 results"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "44 chapters; chapter 26 is 'Hindustani Bachon Ka Qaumi Geet'"},
+    {"name": "read_chapter", "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1}, "result_summary": "Full Andreas poem (83 paragraphs). Andrew's speech topics: mission to Mermedonia, Christian faith, retelling Jesus's miracles. No territorial-pride speech about his homeland."},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 26}, "result_summary": "Hindustani Bachon Ka Qaumi Geet — territorial praise of India: Chishti, Nanak, Greeks, Persians, Sinai-like peaks, refrain 'This is my homeland, this land of mine'"},
+    {"name": "search_corpus", "args": {"query": "Achaia glory proud"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "Andrew land pride homeland"}, "result_summary": "0 results"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 26, "paragraph_id": "p-da6786"},
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-868413"}
+  ]
+}
+```
+
+**Summary:** The comparison the question sets up cannot be made from the corpus. The 'Tarana-e-Hindi' is not explicitly present under that title — the closest is Bang-e-Dara Part 1, ch.26 ("Hindustani Bachon Ka Qaumi Geet"), which does celebrate Hindostan's glory. But Cynewulf's Andreas (cynewulf-andreas-07b573, ch.1) contains no territorial-pride speech by Andrew about his land. Achaia (his homeland) appears only incidentally in two brief mentions; the poem never has Andrew deliver nationalistic praise of his homeland. The premise of the question is not supported by the corpus.

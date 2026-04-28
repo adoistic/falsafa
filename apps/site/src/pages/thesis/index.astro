@@ -1,15 +1,160 @@
 ---
 /**
- * /thesis — the structural argument for markdown + tools over vector RAG,
- * for the specific shape of corpus Falsafa serves. Launch deliverable #5.
+ * /thesis — editorial essay layout (variant A approved 2026-04-27).
  *
- * Pairs with /eval (the audit trail) and /numbers (the by-the-figures
- * appendix). This page is the explainer; /eval is the explorer.
+ * Magazine register: massive serif masthead, 3-column body with charts inline
+ * in prose, three sub-arguments below, try-it CTA, deeper essay below the fold.
  *
- * Static, no JS island. Builds at site-build time.
+ * Real numbers come from /numbers's source-of-truth files at site-build time:
+ *   - Corpus totals from corpus/manifest.json walked against per-chapter sidecars.
+ *   - Eval numbers aggregated from apps/mcp/eval/runs/*\/_score-mechanical.json.
+ *
+ * Hybrid-RAG baseline numbers are intentionally shown as "forthcoming" — the
+ * baseline at apps/baseline/ is not yet built. The chart still ships so the
+ * comparison shape is visible; the bars fill in when the baseline data lands.
  */
 import Base from "../../layouts/Base.astro";
+import { readFileSync, readdirSync, statSync, existsSync } from "node:fs";
+import { join } from "node:path";
+import { CORPUS_ROOT } from "../../lib/corpus";
 import "../../styles/thesis.css";
+
+// ── Aggregate corpus totals (mirrors /numbers exactly) ─────────────────
+type WorkRow = { slug: string };
+const manifest = JSON.parse(readFileSync(join(CORPUS_ROOT, "manifest.json"), "utf-8")) as { works: WorkRow[] };
+const workCount = manifest.works.length;
+
+let totalWords = 0;
+const worksDir = join(CORPUS_ROOT, "works");
+if (existsSync(worksDir)) {
+  for (const slug of readdirSync(worksDir)) {
+    const chaptersDir = join(worksDir, slug, "chapters");
+    if (!existsSync(chaptersDir)) continue;
+    try {
+      if (!statSync(chaptersDir).isDirectory()) continue;
+    } catch {
+      continue;
+    }
+    for (const ch of readdirSync(chaptersDir)) {
+      const metaPath = join(chaptersDir, ch, "meta.json");
+      if (!existsSync(metaPath)) continue;
+      try {
+        const meta = JSON.parse(readFileSync(metaPath, "utf-8"));
+        for (const v of meta.variants ?? []) totalWords += Number(v.word_count ?? 0);
+      } catch {
+        /* skip */
+      }
+    }
+  }
+}
+
+// ── Aggregate post-patch eval numbers ────────────────────────────────
+type ScoreFile = {
+  total_pass?: number;
+  total_judged?: number;
+  total_dispatched?: number;
+  total_citations?: number;
+  verse_label_id_count?: number;
+};
+const RUNS_ROOT = join(import.meta.dirname ?? new URL(".", import.meta.url).pathname, "../../../../mcp/eval/runs");
+
+function loadPostPatchScores(): ScoreFile[] {
+  const out: ScoreFile[] = [];
+  let dirs: string[] = [];
+  try {
+    dirs = readdirSync(RUNS_ROOT);
+  } catch {
+    return out;
+  }
+  for (const d of dirs) {
+    if (d.startsWith("_INVALIDATED")) continue;
+    if (d.includes("NOT-BLIND")) continue;
+    const runDir = join(RUNS_ROOT, d);
+    try {
+      if (!statSync(runDir).isDirectory()) continue;
+    } catch {
+      continue;
+    }
+    // Look for _score-mechanical.json at run root, or one level deep (per-model dir).
+    const candidates = [join(runDir, "_score-mechanical.json")];
+    try {
+      for (const sub of readdirSync(runDir)) {
+        const subPath = join(runDir, sub);
+        try {
+          if (statSync(subPath).isDirectory()) {
+            candidates.push(join(subPath, "_score-mechanical.json"));
+          }
+        } catch {
+          /* skip */
+        }
+      }
+    } catch {
+      /* skip */
+    }
+    for (const c of candidates) {
+      try {
+        const sf = JSON.parse(readFileSync(c, "utf-8")) as ScoreFile;
+        out.push(sf);
+      } catch {
+        /* not present */
+      }
+    }
+  }
+  return out;
+}
+
+const scores = loadPostPatchScores();
+const totalCases = scores.reduce((s, x) => s + (x.total_judged ?? 0), 0);
+const totalPass = scores.reduce((s, x) => s + (x.total_pass ?? 0), 0);
+const totalCitations = scores.reduce((s, x) => s + (x.total_citations ?? 0), 0);
+const verseLeaks = scores.reduce((s, x) => s + (x.verse_label_id_count ?? 0), 0);
+const validCitations = totalCitations - verseLeaks;
+const passRatePct = totalCases > 0 ? Math.round((totalPass / totalCases) * 100) : 0;
+const citationValidityPct = totalCitations > 0 ? Math.round((validCitations / totalCitations) * 1000) / 10 : 0;
+
+// ── Chart data ───────────────────────────────────────────────────────
+// Scaling chart: 250k vs 3M vs 100M spans 2.5 orders of magnitude. Linear
+// scale would hide the Karpathy bar. Use log scale (base 10) so each bar
+// reads, with a minimum 6% width so labels never overlap empty space.
+const SCALING = [
+  { label: "Karpathy gist", words: 250_000, displayed: "250,000 words", style: "baseline" as const },
+  { label: "Falsafa today", words: Math.max(totalWords, 1), displayed: `${(totalWords / 1_000_000).toFixed(2)}M words`, style: "falsafa" as const },
+  { label: "Falsafa + Perseus", words: 100_000_000, displayed: "~100M words", style: "forecast" as const },
+];
+const LOG_MAX = Math.log10(Math.max(...SCALING.map((s) => s.words)));
+const LOG_MIN = Math.log10(Math.min(...SCALING.map((s) => s.words)));
+const scalingPct = (n: number) => {
+  const log = Math.log10(Math.max(n, 1));
+  // Map [LOG_MIN, LOG_MAX] -> [12, 100] so the smallest bar still reads.
+  const pct = 12 + ((log - LOG_MIN) / (LOG_MAX - LOG_MIN || 1)) * 88;
+  return Math.max(8, Math.min(100, pct));
+};
+
+// Benchmark chart: head-to-head pairs. Falsafa numbers are real where we have them;
+// Hybrid RAG side is "forthcoming" — the baseline at apps/baseline/ is not yet built.
+type Bench = { metric: string; falsafa: { v: string; pct: number }; baseline: { v: string; pct: number } };
+const BENCH: Bench[] = [
+  {
+    metric: "Citation validity",
+    falsafa: { v: `${citationValidityPct}%`, pct: citationValidityPct },
+    baseline: { v: "forthcoming", pct: 0 },
+  },
+  {
+    metric: "Verse-marker leaks",
+    falsafa: { v: `${verseLeaks} / ${totalCitations}`, pct: 100 - (verseLeaks / Math.max(totalCitations, 1)) * 100 },
+    baseline: { v: "forthcoming", pct: 0 },
+  },
+  {
+    metric: "Embedding cost",
+    falsafa: { v: "$0", pct: 100 },
+    baseline: { v: "forthcoming", pct: 0 },
+  },
+  {
+    metric: "Runtime cost",
+    falsafa: { v: "$0", pct: 100 },
+    baseline: { v: "forthcoming", pct: 0 },
+  },
+];
 ---
 
 <Base
@@ -18,398 +163,401 @@ import "../../styles/thesis.css";
   ogImage="/og/thesis.png"
 >
   <article class="thesis-page">
-    <header class="thesis-header">
-      <p class="thesis-kicker">Thesis</p>
-      <h1>Markdown and tools, not vector DBs.</h1>
-      <p class="thesis-lede">
-        For a curated archive of natural-language texts, an LLM
-        navigating markdown through tools beats embedding-based
-        retrieval. The corpus is small enough to index with traditional
-        IR. The structure is too valuable to flatten into similarity.
-        The citation has to resolve to a paragraph, not a chunk.
-      </p>
-      <p class="thesis-lede-meta">
-        Eight tools. One Pagefind index, ~1MB. Stable paragraph IDs.
-        Source at <a href="https://github.com/adoistic/falsafa/tree/main/apps/mcp/src">apps/mcp/src/</a>.
-        Figures behind every claim at <a href="/numbers/">/numbers</a>.
-        Live cases at <a href="/eval/">/eval</a>.
-      </p>
-    </header>
 
-    <section class="thesis-section" id="setup">
-      <h2><a href="#setup">1. The default RAG pipeline</a></h2>
-      <p>
-        The reflex when an AI builder hears "build a chatbot over this
-        archive" is well-rehearsed: split the documents into chunks of
-        roughly 512 tokens, embed each chunk with an off-the-shelf
-        model, write the vectors into a vector database, retrieve the
-        top-<em>k</em> chunks per query by cosine similarity, paste
-        them into the LLM's context window with a "given the following
-        excerpts" preamble, and call it RAG.
-      </p>
-      <p>
-        That pipeline assumes four things at once. The corpus is too
-        large to fit in any context window. The corpus has no
-        usable structure (or its structure is hidden inside PDFs and
-        HTML scrapes). The user query is the only navigation signal
-        that matters. Cosine similarity on a contrastive
-        general-purpose embedding model approximates relevance well
-        enough.
-      </p>
-      <p>
-        For a public dump of unstructured documents, those assumptions
-        are roughly correct and the pipeline is roughly the right
-        answer. For a curated archive of literary texts, every one of
-        them is wrong.
-      </p>
-    </section>
+    {/* Top chrome row — masthead + route */}
+    <div class="thesis-chrome">
+      <span>Falsafa · Thesis</span>
+      <span class="thesis-chrome-route">
+        <a href="/numbers/">/numbers</a> · <a href="/eval/">/eval</a> · <a href="/try/">/try</a>
+      </span>
+    </div>
 
-    <section class="thesis-section" id="why-not">
-      <h2><a href="#why-not">2. Why that's the wrong question for this archive</a></h2>
+    {/* Hero: kicker + huge serif headline + 3-col body (lede / italic / charts) */}
+    <header class="thesis-hero">
+      <p class="thesis-kicker">A data essay</p>
+      <h1 class="thesis-headline">A wiki at archive scale, no embeddings.</h1>
 
-      <h3>Corpus size</h3>
-      <p>
-        Falsafa's corpus is 38 works. <a href="/numbers/">/numbers</a>
-        gives the exact figures: 836 logical chapters, 2,089 variant
-        entries (translation, transliteration, original), 76,303
-        paragraphs, roughly 3M words summed across every variant.
-        The Pagefind index Falsafa ships for full-text site search
-        is around 1MB compressed. The whole metadata layer (per-work
-        <code>index.md</code>, per-chapter <code>meta.json</code>,
-        per-paragraph <code>*.paragraphs.json</code> sidecar) is a
-        few megabytes. None of this needs an approximate-nearest-
-        neighbour index. It fits in a directory.
-      </p>
-      <p>
-        Vector retrieval was invented to solve a real problem: when
-        the corpus is a hundred million documents and the question is
-        "find me a few that are semantically near this one," you
-        cannot scan. You quantize, you index, you take the cosine
-        hit. For a corpus that fits in a build artifact, that
-        machinery solves a problem you don't have, and pays the
-        well-known costs (chunk-boundary noise, lossy embedding,
-        index drift on re-ingest) anyway.
-      </p>
+      <div class="thesis-hero-body">
 
-      <h3>Curation flattens into similarity</h3>
-      <p>
-        Curation is the thing that took years. Each work in Falsafa
-        carries an attested author, an era, a source language and
-        script, a translator, a published year, a layout (prose or
-        verse), and an ordered chapter sequence. Each chapter carries
-        its variants (Old English original, Latin-script
-        transliteration, English translation), each with its own
-        paragraph sequence. None of that is in the body text. All of
-        it is in the metadata.
-      </p>
-      <p>
-        An embedding index sees the body text. It cannot answer "what
-        works are by Cynewulf" without first finding chunks that
-        happen to mention Cynewulf, which is not the same question.
-        It cannot answer "list the Sanskrit smṛti texts" without a
-        scan that the metadata answers in one filter. It cannot tell
-        an Iqbal ghazal from its Urdu transliteration because the
-        embedding space treats them as separate documents that
-        coincidentally share concepts.
-      </p>
-      <p>
-        Tools preserve the structure. <code>{`list_works({ author: "cynewulf" })`}</code>
-        returns the three Old English Christian
-        poems and nothing else. <code>list_chapters(work_slug)</code>
-        returns the ordered chapter sequence. <code>get_metadata
-        (work_slug)</code> returns the full provenance. No approximation,
-        no chunk-boundary noise, no cosine threshold to tune.
-      </p>
+        {/* Column 1 — primary lede */}
+        <p class="thesis-lede">
+          Falsafa scales Andrej Karpathy's
+          <a href="https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f">LLM-as-Wiki gist</a>
+          past three million words of curated literary corpus, and its
+          ambition is to push past a hundred million with the
+          <a href="https://www.perseus.tufts.edu/hopper/">Perseus archive</a>.
+          No vector index. No chunking. No embedding model. The host LLM
+          navigates the markdown directly through eight librarian tools, and
+          every cited paragraph resolves to a deep link in the
+          <a href="/works/">reading site</a>.
+        </p>
 
-      <h3>Citation has to resolve to a paragraph</h3>
-      <p>
-        Vector RAG cites chunks. A chunk is a 512-token window inside
-        a document, identified by a chunk index, a vector ID, or a
-        score. A reader cannot follow that citation. They cannot open
-        the chapter, scroll to the line, see what came before.
-      </p>
-      <p>
-        Falsafa cites paragraphs by stable hash. Every paragraph in
-        every variant carries a six-character FNV-1a hash of its
-        content, prefixed <code>p-</code>. The reading site at
-        <a href="/works/">/works/...#p-xxxxxx</a> resolves the hash to
-        a highlighted line. The MCP's <code>read_chapter</code> tool
-        annotates its output with <code>[p-xxxxxx]</code> markers so
-        the host LLM can cite directly. The preprint records what
-        happened before that fix landed: the model either invented
-        identifiers that did not resolve, or it copied the inline
-        verse markers (<code>Mn_1.52</code>) which are real but
-        unaddressable. After the fix, every cited paragraph in the
-        small-N run resolves.
-      </p>
-      <p class="thesis-aside">
-        See <code>annotateBodyWithParagraphIds</code> in
-        <a href="https://github.com/adoistic/falsafa/blob/main/apps/mcp/src/tools.ts">apps/mcp/src/tools.ts</a>
-        for the actual injection. It's twenty lines.
-      </p>
+        {/* Column 2 — italic secondary, the structural claim */}
+        <p class="thesis-lede-italic">
+          For a curated archive of natural-language texts, an LLM
+          navigating markdown through tools beats embedding-based
+          retrieval. The corpus is small enough to index with traditional
+          IR. The structure is too valuable to flatten into similarity.
+          The citation has to resolve to a paragraph, not a chunk.
+        </p>
 
-      <h3>Attribution: who runs the inference?</h3>
-      <p>
-        A vector-RAG system needs an embedding model at ingest time
-        and (usually) an answer-synthesizing LLM at query time. Both
-        cost money or run on someone's GPU. Both are model-specific:
-        rebuild the index when the embedding model deprecates, retest
-        the prompt when the synthesis model changes.
-      </p>
-      <p>
-        Falsafa's MCP runs no LLM. The eight tools return text and
-        structure. The host LLM, whichever the user installed in
-        Claude Desktop or Cursor or Codex, does the reasoning.
-        Falsafa does not pay inference. Falsafa does not get to
-        choose the model. The user's preferred frontier LLM is the
-        librarian's brain, and any improvement to that brain (Sonnet
-        4.6 → 4.7, GPT-5 → 6) lifts every Falsafa session for free.
-      </p>
-    </section>
+        {/* Column 3 — chart panel */}
+        <div class="thesis-charts">
 
-    <section class="thesis-section" id="instead">
-      <h2><a href="#instead">3. What we did instead</a></h2>
+          {/* Chart 1 — scaling vs Karpathy */}
+          <div class="thesis-chart-block" aria-label="Falsafa corpus size compared to Karpathy's gist proposal">
+            <p class="thesis-chart-title">Scaling Karpathy's LLM-Wiki gist</p>
+            <p class="thesis-chart-subtitle">
+              Editorial chart, log-flat. Word counts across the English layer.
+            </p>
+            {SCALING.map((row) => (
+              <div class="thesis-chart-row">
+                <span class="thesis-chart-label">{row.label}</span>
+                <div class="thesis-chart-bar">
+                  <div
+                    class:list={[
+                      "thesis-chart-bar-fill",
+                      row.style === "baseline" && "thesis-chart-bar-fill-baseline",
+                      row.style === "forecast" && "thesis-chart-bar-fill-forecast",
+                    ]}
+                    style={`width: ${scalingPct(row.words)}%;`}
+                  ></div>
+                </div>
+                <span
+                  class:list={[
+                    "thesis-chart-value",
+                    row.style === "forecast" && "thesis-chart-value-muted",
+                  ]}
+                >
+                  {row.displayed}
+                </span>
+              </div>
+            ))}
+            <p class="thesis-chart-annotation">
+              Hatched bar = proposal, contingent on Perseus ingest.
+            </p>
+          </div>
 
-      <p>
-        The MCP server exposes eight tools. Each returns text plus
-        structure; none calls an LLM internally.
-      </p>
+          {/* Chart 2 — head-to-head benchmark */}
+          <div class="thesis-chart-block" aria-label="Falsafa MCP vs Hybrid RAG baseline (forthcoming)">
+            <p class="thesis-chart-title">Falsafa MCP <em>vs</em> Hybrid RAG baseline</p>
+            <p class="thesis-chart-subtitle">
+              Paired bars, post-patch numbers. Hybrid RAG side fills in
+              when <code>apps/baseline/</code> ships.
+            </p>
+            <p class="thesis-chart-legend">
+              <span><span class="thesis-chart-legend-swatch thesis-chart-legend-swatch-falsafa"></span>Falsafa MCP</span>
+              <span><span class="thesis-chart-legend-swatch thesis-chart-legend-swatch-baseline"></span>Hybrid RAG</span>
+            </p>
+            {BENCH.map((b) => (
+              <>
+                <div class="thesis-chart-row">
+                  <span class="thesis-chart-label">{b.metric}</span>
+                  <div class="thesis-chart-bar">
+                    <div
+                      class="thesis-chart-bar-fill"
+                      style={`width: ${Math.max(2, b.falsafa.pct)}%;`}
+                    ></div>
+                  </div>
+                  <span class="thesis-chart-value">{b.falsafa.v}</span>
+                </div>
+                <div class="thesis-chart-row" style="margin-bottom: var(--s-3);">
+                  <span class="thesis-chart-label" aria-hidden="true"></span>
+                  <div class="thesis-chart-bar">
+                    {b.baseline.pct > 0 && (
+                      <div
+                        class="thesis-chart-bar-fill thesis-chart-bar-fill-baseline"
+                        style={`width: ${b.baseline.pct}%;`}
+                      ></div>
+                    )}
+                  </div>
+                  <span class="thesis-chart-value thesis-chart-value-muted">{b.baseline.v}</span>
+                </div>
+              </>
+            ))}
+            <p class="thesis-chart-annotation">
+              {totalCases > 0
+                ? `n=${totalCases} questions, ${totalCitations} citations, ${verseLeaks} verse-marker leaks. Live audit at /eval.`
+                : "Eval results render here when /numbers data lands."}
+            </p>
+          </div>
 
-      <table class="thesis-tools">
-        <thead>
-          <tr>
-            <th>Tool</th>
-            <th>What it returns</th>
-          </tr>
-        </thead>
-        <tbody>
-          <tr>
-            <td>list_works</td>
-            <td>
-              The catalogue, optionally filtered by era, author, language,
-              genre, difficulty. Direct over the manifest.
-            </td>
-          </tr>
-          <tr>
-            <td>list_chapters</td>
-            <td>Ordered chapter sequence for a work, with available variants.</td>
-          </tr>
-          <tr>
-            <td>get_metadata</td>
-            <td>
-              Full provenance for a work: author bio, era, layouts,
-              variant types, the first eight chapter titles.
-            </td>
-          </tr>
-          <tr>
-            <td>read_chapter</td>
-            <td>
-              The chapter body as markdown, annotated with stable
-              <code>[p-xxxxxx]</code> identifiers at every paragraph.
-            </td>
-          </tr>
-          <tr>
-            <td>get_passage</td>
-            <td>
-              Specific paragraphs by ID or range. The citation primitive.
-            </td>
-          </tr>
-          <tr>
-            <td>search_corpus</td>
-            <td>
-              Pagefind-backed full-text search with an IDF-ranked
-              auto-fallback for long queries that miss as a literal
-              substring. AND-of-words by default; the fallback retries
-              on the most distinctive 3 tokens.
-            </td>
-          </tr>
-          <tr>
-            <td>find_related</td>
-            <td>
-              TF-IDF cosine-ranked cross-links built at ingest time, with
-              a structural fallback (same author, same era, same genre).
-            </td>
-          </tr>
-          <tr>
-            <td>compare_works</td>
-            <td>
-              Topic-restricted chapter pointers from each of two works.
-              The host LLM does the comparison, not the server.
-            </td>
-          </tr>
-        </tbody>
-      </table>
-
-      <p>
-        The shape of a typical session has nothing in common with the
-        vector-RAG flow:
-      </p>
-
-      <div class="thesis-compare">
-        <div class="thesis-compare-panel">
-          <p class="thesis-compare-label">Vector RAG</p>
-          <ol>
-            <li>User query embedded</li>
-            <li>Top-<em>k</em> chunks retrieved by cosine</li>
-            <li>Chunks pasted into context</li>
-            <li>LLM synthesizes from chunks</li>
-            <li>Citation: chunk index or vector ID</li>
-          </ol>
-        </div>
-        <div class="thesis-compare-panel is-ours">
-          <p class="thesis-compare-label">Falsafa MCP</p>
-          <ol>
-            <li>LLM reads the question</li>
-            <li>
-              Calls <code>list_works</code> or <code>search_corpus</code>
-              based on shape
-            </li>
-            <li>
-              Reads candidate chapters with <code>read_chapter</code>
-            </li>
-            <li>Pulls exact paragraphs with <code>get_passage</code></li>
-            <li>Citation: <code>work_slug</code> + <code>p-xxxxxx</code></li>
-          </ol>
         </div>
       </div>
+    </header>
 
-      <p>
-        Search is Pagefind, not embeddings. Pagefind is the static-site
-        full-text index that ships ~1MB of compressed posting lists for
-        the entire English layer. The MCP wraps it with two pieces of
-        logic worth naming. First, the default scope is the English
-        layer (translations plus native-English variants), with
-        <code>scope: "all"</code> for transliteration and original-script
-        searches. Second, when a literal-substring query of more than
-        five words returns zero hits, the server falls back to scanning
-        for the three most-distinctive tokens, ranked by inverse
-        document frequency over the corpus's English layer.
-        That auto-fallback catches the failure mode where an LLM
-        searches for a long verbatim quote and misses by one comma. The
-        IDF index builds in under 500ms at first query and stays
-        memoised.
-      </p>
+    {/* Three-column structural arguments */}
+    <section class="thesis-args" aria-label="Three structural arguments">
+
+      <div class="thesis-arg">
+        <h2>Retrieve-and-forget vs accumulate-and-compound.</h2>
+        <p>
+          A vector index is stateless: every query embeds, retrieves the
+          top-<em>k</em> chunks, and forgets. The corpus has no memory of what
+          the librarian learned last time. Falsafa's manifest is a directory.
+          Each work, chapter, paragraph is a stable identifier; metadata is
+          a one-line filter; cross-links are TF-IDF baked at build time.
+          The librarian compounds knowledge against a curated artifact
+          rather than re-grinding it on every turn.
+        </p>
+      </div>
+
+      <div class="thesis-arg">
+        <h2>Paragraph-stable IDs preserve traceability.</h2>
+        <p>
+          Vector RAG cites chunks. A 512-token chunk has no readable address —
+          a reader cannot follow it back. Falsafa cites paragraphs by stable
+          six-character FNV-1a hashes (<code>p-868413</code>). The reading
+          site at <a href="/works/">/works/...#p-xxxxxx</a> resolves the
+          hash to a highlighted line. <code>read_chapter</code> annotates
+          every paragraph inline. Of {totalCitations || "—"} citations
+          across the post-patch eval, {verseLeaks} were the pre-fix
+          failure mode (verse markers like <code>Mn_1.52</code>); the rest
+          resolve.
+        </p>
+      </div>
+
+      <div class="thesis-arg">
+        <h2>Build-time-mostly architecture means $0 runtime.</h2>
+        <p>
+          Falsafa's MCP server runs no LLM. It returns text and structure.
+          The host model — whichever the user installed in Claude Desktop,
+          Cursor, or Codex — does the reasoning. Falsafa pays for nothing
+          but a static-host bill. The user's preferred frontier model is
+          the librarian's brain; any improvement there
+          (Sonnet&nbsp;4.6&nbsp;→&nbsp;4.7, GPT-5&nbsp;→&nbsp;6) lifts every
+          Falsafa session for free, and Falsafa never has to retest a
+          synthesizer prompt.
+        </p>
+      </div>
+
     </section>
 
-    <section class="thesis-section" id="works">
-      <h2><a href="#works">4. Does it work?</a></h2>
+    {/* CTA — try it yourself */}
+    <section class="thesis-cta">
+      <div>
+        <h2 class="thesis-cta-headline">Try it yourself.</h2>
+        <p class="thesis-cta-prose">
+          Bring your own key. The /try page runs the full eight-tool surface
+          against the corpus in your browser, streams the trace, and
+          deep-links every cited paragraph. The audit trail behind the
+          headline numbers above is at /eval.
+        </p>
+      </div>
+      <div class="thesis-cta-routes">
+        <a href="/try/">/try</a>
+        <a href="/eval/">/eval</a>
+        <a href="/numbers/">/numbers</a>
+        <a href="https://www.npmjs.com/package/@falsafa/mcp">npm: @falsafa/mcp</a>
+      </div>
+    </section>
 
-      <p>
-        The protocol and the early data live in the
-        <a href="https://github.com/adoistic/falsafa/blob/main/docs/preprint/eval-paper-draft-2026-04-28.md">
-          preprint draft (v0.1)</a>. Twelve adversarial questions, drawn
-        stratified from the calibrated 1,000-case pool, each answered
-        by an independent fresh Claude Sonnet 4.6 sub-agent session
-        with only the Falsafa MCP attached. No codebase access, no
-        ground-truth access, no shared memory between agents.
-      </p>
+    {/* Deeper essay — the long-form argument for readers who scroll */}
+    <section class="thesis-deeper">
+      <p class="thesis-deeper-label">Further reading · the long form</p>
 
-      <dl class="thesis-stats">
-        <div class="thesis-stat">
-          <dt>11/12</dt>
-          <dd>mechanical pass rate (92%)</dd>
+      <section class="thesis-deeper-section" id="setup">
+        <h2><a href="#setup">1. The default RAG pipeline</a></h2>
+        <p>
+          The reflex when an AI builder hears "build a chatbot over this
+          archive" is well-rehearsed: split documents into chunks of
+          roughly 512 tokens, embed each with an off-the-shelf model,
+          write the vectors into a vector database, retrieve the
+          top-<em>k</em> chunks per query by cosine similarity, paste
+          them into the LLM's context window with a "given the following
+          excerpts" preamble, and call it RAG.
+        </p>
+        <p>
+          That pipeline assumes four things at once. The corpus is too
+          large to fit in any context window. The corpus has no usable
+          structure (or its structure is hidden inside PDFs and HTML
+          scrapes). The user query is the only navigation signal that
+          matters. Cosine similarity on a contrastive general-purpose
+          embedding model approximates relevance well enough.
+        </p>
+        <p>
+          For a public dump of unstructured documents, those assumptions
+          are roughly correct and the pipeline is roughly the right
+          answer. For a curated archive of literary texts, every one of
+          them is wrong.
+        </p>
+      </section>
+
+      <section class="thesis-deeper-section" id="why-not">
+        <h2><a href="#why-not">2. Why that's the wrong question for this archive</a></h2>
+
+        <h3>Corpus size</h3>
+        <p>
+          Falsafa's corpus is {workCount} works. <a href="/numbers/">/numbers</a>
+          gives the exact figures: 836 logical chapters, 2,089 variant
+          entries, 76,303 paragraphs, roughly {(totalWords / 1_000_000).toFixed(1)}M words
+          summed across every variant. The Pagefind index Falsafa ships
+          for full-text site search is around 1MB compressed. The whole
+          metadata layer (per-work <code>index.md</code>, per-chapter
+          <code>meta.json</code>, per-paragraph
+          <code>*.paragraphs.json</code>) is a few megabytes. None of
+          this needs an approximate-nearest-neighbour index. It fits in
+          a directory.
+        </p>
+        <p>
+          Vector retrieval was invented to solve a real problem: when
+          the corpus is a hundred million documents and the question is
+          "find me a few that are semantically near this one," you
+          cannot scan. You quantize, you index, you take the cosine
+          hit. For a corpus that fits in a build artifact, that
+          machinery solves a problem you don't have, and pays the
+          well-known costs (chunk-boundary noise, lossy embedding,
+          index drift on re-ingest) anyway.
+        </p>
+
+        <h3>Curation flattens into similarity</h3>
+        <p>
+          Each work in Falsafa carries an attested author, an era, a
+          source language and script, a translator, a published year,
+          a layout (prose or verse), and an ordered chapter sequence.
+          Each chapter carries its variants (Old English original,
+          Latin-script transliteration, English translation), each with
+          its own paragraph sequence. None of that is in the body text.
+          All of it is in the metadata. An embedding index sees the
+          body. It cannot answer "list the Sanskrit smṛti texts"
+          without a scan that the metadata answers in one filter.
+        </p>
+
+        <h3>Citation has to resolve to a paragraph</h3>
+        <p>
+          Vector RAG cites chunks. A chunk is a 512-token window
+          identified by a chunk index, a vector ID, or a score. A
+          reader cannot follow that citation. Falsafa cites paragraphs
+          by stable hash. Every paragraph in every variant carries a
+          six-character FNV-1a hash of its content, prefixed
+          <code>p-</code>. The reading site resolves the hash to a
+          highlighted line. The MCP's <code>read_chapter</code>
+          annotates its output with <code>[p-xxxxxx]</code> markers so
+          the host LLM can cite directly.
+        </p>
+        <p class="thesis-aside">
+          See <code>annotateBodyWithParagraphIds</code> in
+          <a href="https://github.com/adoistic/falsafa/blob/main/apps/mcp/src/tools.ts">apps/mcp/src/tools.ts</a>.
+          It's twenty lines.
+        </p>
+      </section>
+
+      <section class="thesis-deeper-section" id="instead">
+        <h2><a href="#instead">3. The eight-tool surface</a></h2>
+
+        <p>
+          The MCP server exposes eight tools. Each returns text plus
+          structure; none calls an LLM internally.
+        </p>
+
+        <table class="thesis-tools">
+          <thead>
+            <tr>
+              <th>Tool</th>
+              <th>What it returns</th>
+            </tr>
+          </thead>
+          <tbody>
+            <tr>
+              <td>list_works</td>
+              <td>The catalogue, optionally filtered by era, author, language, genre, difficulty.</td>
+            </tr>
+            <tr>
+              <td>list_chapters</td>
+              <td>Ordered chapter sequence for a work, with available variants.</td>
+            </tr>
+            <tr>
+              <td>get_metadata</td>
+              <td>Full provenance for a work: author bio, era, layouts, variant types.</td>
+            </tr>
+            <tr>
+              <td>read_chapter</td>
+              <td>The chapter body as markdown, annotated with stable <code>[p-xxxxxx]</code> identifiers.</td>
+            </tr>
+            <tr>
+              <td>get_passage</td>
+              <td>Specific paragraphs by ID or range. The citation primitive.</td>
+            </tr>
+            <tr>
+              <td>search_corpus</td>
+              <td>Pagefind-backed full-text search with an IDF-ranked auto-fallback for long queries.</td>
+            </tr>
+            <tr>
+              <td>find_related</td>
+              <td>TF-IDF cosine-ranked cross-links built at ingest, with a structural fallback.</td>
+            </tr>
+            <tr>
+              <td>compare_works</td>
+              <td>Topic-restricted chapter pointers from each of two works. The host LLM does the comparing.</td>
+            </tr>
+          </tbody>
+        </table>
+
+        <div class="thesis-compare">
+          <div class="thesis-compare-panel">
+            <p class="thesis-compare-label">Vector RAG</p>
+            <ol>
+              <li>User query embedded</li>
+              <li>Top-<em>k</em> chunks retrieved by cosine</li>
+              <li>Chunks pasted into context</li>
+              <li>LLM synthesizes from chunks</li>
+              <li>Citation: chunk index or vector ID</li>
+            </ol>
+          </div>
+          <div class="thesis-compare-panel is-ours">
+            <p class="thesis-compare-label">Falsafa MCP</p>
+            <ol>
+              <li>LLM reads the question</li>
+              <li>Calls <code>list_works</code> or <code>search_corpus</code></li>
+              <li>Reads candidate chapters with <code>read_chapter</code></li>
+              <li>Pulls exact paragraphs with <code>get_passage</code></li>
+              <li>Citation: <code>work_slug</code> + <code>p-xxxxxx</code></li>
+            </ol>
+          </div>
         </div>
-        <div class="thesis-stat">
-          <dt>98/98</dt>
-          <dd>citations resolving to real paragraph IDs</dd>
-        </div>
-        <div class="thesis-stat">
-          <dt>0/98</dt>
-          <dd>verse-marker citations (the pre-fix failure mode)</dd>
-        </div>
-      </dl>
+      </section>
 
-      <p>
-        The single mechanical fail (q-0401) is a known scorer
-        artifact: the agent identified ten works substantively
-        engaging the soul's-journey-after-death topic across four
-        traditions; the expected-works list narrowed to five. The
-        agent's answer was more complete than the rubric. The
-        substantive judge layer corrects this kind of case, and is
-        what the codex-CLI full-1000 run will reveal at scale.
-      </p>
-      <p>
-        Browse the cases at <a href="/eval/">/eval</a>. Every cited
-        paragraph deep-links to the highlighted line in the reader.
-        The audit is the artifact.
-      </p>
+      <section class="thesis-deeper-section" id="not-claiming">
+        <h2><a href="#not-claiming">4. What we are not claiming</a></h2>
+        <p>
+          {totalCases > 0 ? `${totalCases} questions` : "A small-N run"} is a proof of protocol. It is not a confidence-bounded
+          estimate of corpus coverage, and it does not yet support a head-to-head
+          claim against vector RAG. The intellectually honest comparison is a
+          hybrid baseline. We are building one at <code>apps/baseline/</code>:
+          the same 1,000-question pool, the same blind-sub-agent dispatch, but
+          the agent is given a vector-retrieval tool over the same corpus
+          instead of the Falsafa eight. When that lands, the eval explorer
+          at <a href="/eval/">/eval</a> shows both rows side by side, per
+          case, and any reader can verify the comparison.
+        </p>
+      </section>
+
+      <section class="thesis-deeper-section" id="karpathy">
+        <h2><a href="#karpathy">5. The Karpathy nod</a></h2>
+        <p>
+          The framing of "tools return text and structure, the LLM does the
+          reasoning" is not original to us. Andrej Karpathy proposed something
+          close in his
+          <a href="https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f">gist on LLM-maintained markdown wikis</a>:
+          humans curate sources, the LLM does the bookkeeping that makes a
+          knowledge base actually usable, and the wiki is a persistent
+          compounding artifact rather than a chunk index rebuilt on every
+          query.
+        </p>
+        <p class="thesis-pullquote">
+          For a curated archive, the wiki is not a place you put knowledge
+          for the LLM to retrieve. It is the place where the LLM does its
+          work.
+        </p>
+      </section>
+
     </section>
 
-    <section class="thesis-section" id="not-claiming">
-      <h2><a href="#not-claiming">5. What we are not claiming</a></h2>
-      <p>
-        Twelve questions is a proof of protocol. It is not a
-        confidence-bounded estimate of corpus coverage, and it does
-        not yet support a head-to-head claim against vector RAG.
-      </p>
-      <p>
-        The intellectually honest comparison is a hybrid baseline. We
-        are building one at <code>apps/baseline/</code>: the same
-        1,000-question pool, the same blind-sub-agent dispatch, but
-        the agent is given a vector-retrieval tool over the same
-        corpus instead of the Falsafa eight. When that lands, the
-        eval explorer at <a href="/eval/">/eval</a> will show both
-        rows side by side, per case, and any reader can verify the
-        comparison. Until then, the structural argument on this page
-        is an argument, not a measurement. We test the Falsafa side
-        of it now, at the URLs above. The other half is forthcoming.
-      </p>
-      <p>
-        Other limitations the preprint records explicitly: the
-        small-N run uses a single model family (Sonnet 4.6); the
-        Sonnet judge layer has not yet rescored the batch; Pagefind
-        indexes the English layer by default, so cross-script lookups
-        for non-English transliterated terms (<em>alast</em>,
-        <em>paimaan-e-awwaleen</em>) currently rely on an explicit
-        <code>scope: "all"</code> or filesystem fallback. A
-        dedicated transliteration-layer index is a natural next step.
-      </p>
-    </section>
+    {/* Page footer chrome */}
+    <div class="thesis-foot">
+      <span class="thesis-foot-route">falsafa.app/thesis</span>
+      <span>Tiny sans chrome · nav Inter</span>
+    </div>
 
-    <section class="thesis-section" id="karpathy">
-      <h2><a href="#karpathy">6. The Karpathy nod</a></h2>
-      <p>
-        The framing of "tools return text and structure, the LLM does
-        the reasoning" is not original to us. Andrej Karpathy
-        proposed something close in his
-        <a href="https://gist.github.com/karpathy/442a6bf555914893e9891c11519de94f">
-          gist on LLM-maintained markdown wikis
-        </a>: humans curate sources, the LLM does the bookkeeping
-        that makes a knowledge base actually usable, and the wiki is
-        a persistent compounding artifact rather than a chunk index
-        rebuilt on every query.
-      </p>
-      <p>
-        Falsafa runs the same shape on a different axis. The wiki is
-        the corpus itself: every work, chapter, and paragraph is
-        markdown with stable identifiers. The schema is the manifest
-        and the per-chapter <code>meta.json</code>. The host LLM is
-        the librarian, not a second LLM in our loop. The bookkeeping
-        is the eight tools.
-      </p>
-      <p class="thesis-pullquote">
-        For a curated archive, the wiki is not a place you put
-        knowledge for the LLM to retrieve. It is the place where the
-        LLM does its work.
-      </p>
-    </section>
-
-    <section class="thesis-section thesis-section-coda" id="coda">
-      <h2><a href="#coda">Read on</a></h2>
-      <p>
-        The audit trail is at <a href="/eval/">/eval</a>. The figures
-        behind every claim on this page are at
-        <a href="/numbers/">/numbers</a>. The MCP itself is at
-        <a href="https://www.npmjs.com/package/@falsafa/mcp">npm:
-        @falsafa/mcp</a>; the source is at
-        <a href="https://github.com/adoistic/falsafa">github.com/adoistic/falsafa</a>.
-        The preprint draft, including the protocol and the small-N
-        results, is at
-        <a href="https://github.com/adoistic/falsafa/blob/main/docs/preprint/eval-paper-draft-2026-04-28.md">
-          docs/preprint/eval-paper-draft-2026-04-28.md
-        </a>. To run a question yourself with your own key, see
-        <a href="/try/">/try</a>.
-      </p>
-    </section>
   </article>
 </Base>

@@ -1,0 +1,33 @@
+{
+  "answer": "In 'The Seafarer' (chapter 5 of 'Old English Elegies', work slug: unknown-old-english-elegies-d5fe9e), the speaker says the cuckoo's mournful cry sows 'sorrow bitter in the breast-hoard' — i.e., in the heart/chest. The cuckoo ('summer's warden') calls among the blossoming groves, and its voice signals departure by stirring an aching longing deep in the speaker's breast, urging the soul to set out on its journey across the flood-ways.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed all 38 works; identified 'Old English Elegies' (slug: unknown-old-english-elegies-d5fe9e) as the likely container for The Seafarer"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Chapter 5 (slug: 05-maey-ich-be-me-sylfum-...) matched The Seafarer's Old English opening"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Paragraph [p-f52e2e] contains the cuckoo passage: 'The cuckoo calls too, with its mournful cry, summer's warden sings, sowing a sorrow bitter in the breast-hoard.'"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 5,
+      "paragraph_id": "p-f52e2e"
+    }
+  ]
+}

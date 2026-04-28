@@ -1,0 +1,55 @@
+{
+  "answer": "Both epilogues embed Cynewulf's runic signature and confess his sinfulness, but they differ in what he specifically asks for and in their overall framing.\n\n**Elene epilogue** (cynewulf-elene-d2d132, ch. 1, paragraphs [p-d2e607], [p-8f8a1b], [p-dcbbfe]):\nCynewulf speaks as an old man who 'wove word-craft' through a 'frail house.' He confesses he was 'stained by deeds, shackled by sins, worn down by sorrows' until God — the 'mighty King' — granted him learning and 'unlocked the art of song.' The runes are embedded in a third-person turn: the man tossed by waves of care in the mead-hall who received 'appled gold' yet mourned. He does not explicitly ask the reader to pray for him; instead, the epilogue pivots to a universal eschatological vision — the consuming fire of the Last Judgment dividing humanity into three parts. The implicit ask is for participation in the salvation mediated by faith in the Rood (the poem's subject), and the epilogue closes on cosmic, theological ground rather than personal petition.\n\n**Juliana epilogue** (cynewulf-juliana-9a2157, ch. 1, paragraphs [p-e769dc], [p-1f8ce8]):\nCynewulf's ask is twofold and explicit. First, he asks Juliana herself — the poem's saint — to intercede for him at the moment of death: 'I have great need that the holy one / should grant me her help, when my dearest companions, / my soul and my body, are divided.' The runes are embedded in this first-person lament (Torch, Bow, Need, Journey, Joy, Strength, Sea). Second, he directly addresses the audience: 'I ask every person of humankind, / who recites this poem, that he, mindful, / earnestly remember me by my name, / and pray to the Molder that the Helm of the heavens / grant me help.' He then asks the Trinity for mercy on the 'Great Day.'\n\n**Key differences in framing:**\n1. *Object of intercession*: In Elene, salvation is implicit, mediated through devotion to the Cross; in Juliana, Cynewulf explicitly invokes the saint herself as personal intercessor.\n2. *Audience address*: Elene does not ask listeners to pray for the poet by name; Juliana does so directly and urgently.\n3. *Tone*: Elene is meditative and moves toward cosmic eschatology (the three parts in the judgment fire); Juliana is anxious and personal, dwelling on the poet's fear and shame at the approach of death.\n4. *Runic embedding*: In Elene the runes appear in a third-person lyric interlude about a man in the mead-hall; in Juliana they are embedded in a first-person cry of distress.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Found three Cynewulf works: Andreas, Elene (cynewulf-elene-d2d132), Juliana (cynewulf-juliana-9a2157)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "Read full Elene translation; epilogue in paragraphs p-d2e607, p-8f8a1b, p-dcbbfe — poet confesses sins, God granted him art of song, ends with Last Judgment vision"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "Read full Juliana translation; epilogue in paragraphs p-e769dc and p-1f8ce8 — poet asks Juliana's intercession at death, then asks all readers to pray for him by name, closes with Trinitarian petition"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-d2e607"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-8f8a1b"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-e769dc"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-1f8ce8"
+    }
+  ]
+}

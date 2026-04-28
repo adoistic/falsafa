@@ -1,0 +1,4755 @@
+[
+  {
+    "id": "q-0004",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Quote Iqbal's opening lines from 'Himalaya' that address the mountain as the rampart of Hindustan.",
+    "rationale": "Should retrieve chapter 25 of Bang-e-Dara Part 1 and cite the opening couplet.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ]
+  },
+  {
+    "id": "q-0008",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Cite the line in 'The Wanderer' where Wyrd is called wholly steadfast.",
+    "rationale": "Tests precise retrieval of a single line; the phrase 'Wyrd is wholly steadfast' is a famous Old English crux.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e"
+    ]
+  },
+  {
+    "id": "q-0012",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "What does Ghalib's matla 'Hazaaron khwahishein aisi' say about each desire being capable of taking a life?",
+    "rationale": "Tests retrieval of one of Ghalib's most-quoted opening couplets.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ]
+  },
+  {
+    "id": "q-0017",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Andreas, find the moment when the cannibal Mermedonians are first described.",
+    "rationale": "Tests retrieval of the inciting setting passage in Cynewulf's Andreas.",
+    "expected_works": [
+      "cynewulf-andreas-07b573"
+    ]
+  },
+  {
+    "id": "q-0020",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Manusmriti chapter 1, what is the etymology Manu offers for the name 'Narayana'?",
+    "rationale": "Tests verse-level citation of Mn_1.10 (waters as 'naraah', sons of Nara, hence Narayana).",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ]
+  },
+  {
+    "id": "q-0024",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Iqbal's 'Sayed ki Loh-e-Turbat' inscribe on the gravestone?",
+    "rationale": "Bang-e-Dara Part 1 chapter 38; the title literally means 'Sir Sayed's Tomb-Tablet'. Tests epigraphic retrieval.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ]
+  },
+  {
+    "id": "q-0028",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Hindustani Bachon ka Qaumi Geet', what oath do the children sing?",
+    "rationale": "Bang-e-Dara Part 1 chapter 26; the 'Children's National Song'. Tests precise retrieval of refrain.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ]
+  },
+  {
+    "id": "q-0033",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "What does Ghalib say in 'Ishq par zor nahin'?",
+    "rationale": "One of Ghalib's most-quoted lines about love being beyond control. Tests fragment-to-passage retrieval.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ]
+  },
+  {
+    "id": "q-0036",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Ghalib's 'Ye na thi hamari qismat' say about meeting the beloved?",
+    "rationale": "Famous ghazal on missed unions. Tests title-to-content retrieval.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ]
+  },
+  {
+    "id": "q-0041",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Comte's Traité de la propriété Vol I, what does chapter 4 argue about the occupation of things?",
+    "rationale": "Vol I chapter 4 'De l'occupation des choses' — central to Comte's theory of how property arises.",
+    "expected_works": [
+      "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+    ]
+  },
+  {
+    "id": "q-0044",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Iqbal's 'Insaan' (in Bang-e-Dara Part 2) say about the human being?",
+    "rationale": "Disambiguation test — both Part 2 and Part 3 have an 'Insaan' poem. Falsafa should pick the Part 2 chapter 14.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ]
+  },
+  {
+    "id": "q-0049",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me Iqbal's 'Sarguzasht-e-Adam' — the autobiography of Adam.",
+    "rationale": "Bang-e-Dara Part 1 chapter 37. Mythopoetic poem on the human-historical condition.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ]
+  },
+  {
+    "id": "q-0052",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "What does Ghalib's 'Ghum khaane mein boodaa hai dil' open with about the heart's dwelling in sorrow?",
+    "rationale": "Tests retrieval of a poignant matla on the heart inhabiting grief.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ]
+  },
+  {
+    "id": "q-0057",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Dard-e-Ishq' (Bang-e-Dara Part 1 chapter 17), how is the pain of love characterised?",
+    "rationale": "Tests retrieval of a foundational early Iqbal piece on the metaphysics of love-suffering.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ]
+  },
+  {
+    "id": "q-0060",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Quote the matla of Ghalib's 'Mehrbaan ho ke bula lo mujhe chaaho jis waqt'.",
+    "rationale": "Tests retrieval of a famous Ghalib couplet about being summoned by the beloved.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ]
+  },
+  {
+    "id": "q-0065",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me Iqbal's 'Wataniyat' — the poem where he criticizes territorial nationalism.",
+    "rationale": "Bang-e-Dara Part 3 chapter 25. Critique of nationalism is a major Iqbal theme — tests title-to-thesis retrieval.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ]
+  },
+  {
+    "id": "q-0069",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In the Old English Elegies, locate the riddling poem 'Wraetlic is thes wealstan' on the ruined city.",
+    "rationale": "Old English Elegies chapter 16 — The Ruin. Tests incipit-based retrieval.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e"
+    ]
+  },
+  {
+    "id": "q-0073",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "In Comte's Traité de Législation Vol I chapter 5, what laws does Comte say men are subject to by their physical organisation?",
+    "rationale": "Tests French-language retrieval of a specific chapter argument about biological constraints on legislation.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-i-7e62a2"
+    ]
+  },
+  {
+    "id": "q-0076",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Comte's chapter on the deforestation of mountains (Traité de la propriété Vol I chapter 13), what political-economic argument does he make?",
+    "rationale": "Tests retrieval of a niche but specific 19th-century environmental-economic argument.",
+    "expected_works": [
+      "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+    ]
+  },
+  {
+    "id": "q-0080",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Quote Ghalib's couplet 'Hain aur bhi duniya mein sukhanwar bahut achhe' about other poets being good but Ghalib's style being other.",
+    "rationale": "Famous self-laudatory couplet. Tests retrieval of a specific takhallus-style assertion.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ]
+  },
+  {
+    "id": "q-0084",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Manusmriti chapter 7, what does Manu say about the king's duty in war?",
+    "rationale": "Manu chapter 7 is the classic raja-dharma chapter. Tests standard subject-to-chapter retrieval.",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ]
+  },
+  {
+    "id": "q-0088",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Visal' (Bang-e-Dara Part 2 chapter 27), what is said about union with the beloved?",
+    "rationale": "Tests retrieval of the explicit union-poem. Disambiguates from numerous adjacent love poems.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ]
+  },
+  {
+    "id": "q-0091",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Yajnavalkya Smriti chapter 1, where does he describe the dharma of the householder (grhastha)?",
+    "rationale": "Tests passage retrieval inside Yajnavalkya's long opening chapter on conduct.",
+    "expected_works": [
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ]
+  },
+  {
+    "id": "q-0095",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Show me 'Ehd-e-Tifli' — Iqbal's poem of childhood memory.",
+    "rationale": "Bang-e-Dara Part 1 chapter 19. Famous nostalgic piece.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ]
+  },
+  {
+    "id": "q-0098",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Iqbal's 'Haqeeqat-e-Husn' (the reality of beauty) argue about beauty's metaphysical source?",
+    "rationale": "Bang-e-Dara Part 2 chapter 12. Companion-piece to Husn o Ishq.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ]
+  },
+  {
+    "id": "q-0104",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "What does Manusmriti chapter 12 say about the soul's three qualities (sattva, rajas, tamas) determining rebirth?",
+    "rationale": "Tests retrieval of Mn 12.24-12.50 sequence on guna and transmigration. Should pull the gloss that links each guna to a class of beings.",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0109",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find the verse in Yajnavalkya Smriti chapter 2 on the procedure for a witness who has lied in court.",
+    "rationale": "Yj ch. 2 is vyavahara (legal procedure). The witness-perjury rules are a specific subsection; tests precise navigation.",
+    "expected_works": [
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 3,
+      "naturalness": 4,
+      "total": 20,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0112",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In 'The Seafarer', where does the speaker say the cuckoo's voice signals departure?",
+    "rationale": "Tests retrieval inside the Seafarer chapter (Old English Elegies ch. 5). The cuckoo passage is a structural turn.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0117",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Locate 'Maxims I' in the elegies and quote the gnomic line about how a king must trade rings.",
+    "rationale": "Old English Elegies ch. 6. Maxims I is gnomic verse; tests retrieval of a specific aphorism within a list-poem.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0120",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find the riddle in 'Vainglory' that contrasts two kinds of men inside the mead-hall.",
+    "rationale": "Old English Elegies ch. 12. The drunken-boaster vs. the wise man typology is the poem's spine.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0125",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "In Elene, locate the moment when the True Cross is identified by raising a dead man.",
+    "rationale": "The miracle-of-discrimination is the climax of Elene. Tests retrieval of a specific narrative beat.",
+    "expected_works": [
+      "cynewulf-elene-d2d132"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0128",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find Ghalib's couplet that begins 'Bazeechah-e-atfaal hai duniya mere aage' on the world being a child's play before him.",
+    "rationale": "Tests retrieval of a famous matla on the world-as-game-board.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 3,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0132",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Where in Ghalib's Diwan does he say his life ended in the wait for promises that never came?",
+    "rationale": "Tests semantic retrieval of 'Tere wade par jiye hum to ye jaan jhoot jaana' content.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0135",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Zauq's 'Hum hain aur shughl-e-ishq baazi hai', what claim does the speaker make about his sole occupation?",
+    "rationale": "Diwan-e-Zauq ch. 20. Tests retrieval of the matla's claim.",
+    "expected_works": [
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 3,
+      "insight_value": 3,
+      "naturalness": 4,
+      "total": 19,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0140",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Sarguzasht-e-Adam', what is the story of Adam's fall as Iqbal retells it?",
+    "rationale": "Bang-e-Dara Part 1 ch. 37. Tests retrieval of a specific narrative-poem.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0144",
+    "category": "citation",
+    "difficulty": "easy",
+    "prompt": "Find Iqbal's address to the Brahmin in 'Sach Keh Doon Ae Brahman Gar Tu Bura Na Maane'.",
+    "rationale": "Bang-e-Dara Part 1 ch. 36. A direct-address poem.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 3,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0147",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Iqbal's 'Falsafa-e-Gham', what philosophy of grief is offered?",
+    "rationale": "Bang-e-Dara Part 3 ch. 7. Iqbal's argument that sorrow is generative.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 3,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0150",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find Iqbal's 'Bilad-e-Islamiya' — the survey of Islamic cities.",
+    "rationale": "Bang-e-Dara Part 3 ch. 2. Tests retrieval of a place-catalogue poem.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 3,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0154",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "In Traité de Législation Vol IV, find the chapter on the influence of slavery on the manners of the Romans.",
+    "rationale": "Vol IV ch. 6 ('De l-influence de l-esclavage sur les moeurs des Romains'). Tests precise ch. selection across volumes.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-iv-bca040"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0157",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find the chapter in Dunoyer's Nouveau traité d'économie Vol I on the influence of climate on liberty.",
+    "rationale": "Vol I ch. 3 ('II - Influence des circonstances exterieures sur la liberté'). Tests Montesquieu-style climate-liberty argument retrieval.",
+    "expected_works": [
+      "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0161",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Fichte's Zurückforderung der Denkfreiheit, what does he argue is the inalienable right that princes cannot grant or withdraw?",
+    "rationale": "Tests retrieval of the inalienable-right argument. Central thesis of the pamphlet.",
+    "expected_works": [
+      "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 3,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 20,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0164",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "In Naradasmriti, find the passage on the rules governing the eighteen titles of law.",
+    "rationale": "Narada is famous for his eighteen vyavahara-padas. Tests retrieval inside the single-chapter Naradasmriti.",
+    "expected_works": [
+      "unknown-naradasmrti-7650d2"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0168",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find the section in Angirasa Smriti on prayascittas for women.",
+    "rationale": "Angirasa is short and prayascitta-focused. Tests precise retrieval inside a small text.",
+    "expected_works": [
+      "unknown-angirasa-smrti-2bf9d1"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 3,
+      "naturalness": 4,
+      "total": 20,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0171",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Find the verses in Visnu Smriti chapter 30 on the duties of the householder toward guests.",
+    "rationale": "Tests precise multi-digit chapter navigation in Visnu's 100-chapter structure.",
+    "expected_works": [
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0175",
+    "category": "citation",
+    "difficulty": "medium",
+    "prompt": "Find the section in Vrhaspatitattva that defines the relationship of cetana (consciousness) and acetana (the unconscious).",
+    "rationale": "Vrhaspatitattva is a Saiva Old Javanese tattva text; cetana-acetana is its core dyad.",
+    "expected_works": [
+      "unknown-vrhaspatitattva-b60b28"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0178",
+    "category": "citation",
+    "difficulty": "hard",
+    "prompt": "Where in Kalpabuddha does the text describe the ten bhumis of the bodhisattva?",
+    "rationale": "Tests retrieval of a specific Mahayana doctrinal sequence inside Kalpabuddha.",
+    "expected_works": [
+      "unknown-kalpabuddha-d760dc"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0205",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Cynewulf signs Elene and Juliana with runes. Compare the two epilogues — what does Cynewulf ask for in each, and how does the framing differ?",
+    "rationale": "Tests cross-poem retrieval inside one author's corpus. The two epilogues differ in tone (penitential vs. didactic).",
+    "expected_works": [
+      "cynewulf-elene-d2d132",
+      "cynewulf-juliana-9a2157"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0208",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Iqbal addresses the youth in 'Khitab ba Jawanan-e-Islam' and addresses the Brahmin in 'Sach Keh Doon Ae Brahman'. How do the rhetorical strategies differ?",
+    "rationale": "Two direct-address poems by the same poet. Tests rhetorical-mode synthesis inside Iqbal's corpus.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0212",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "The saqi recurs across Ghalib and Iqbal but the figure is not idle in either. Find the heaviest saqi-couplet in each — and say what the saqi is being asked to do, beyond pouring wine.",
+    "rationale": "Cross-poet saqi-figure comparison forced to a function-beyond-the-literal question.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0217",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Manu and Viṣṇu both list the mahāpātakas. Pull both lists. Are the same five sins named, in the same order? If not, which text dropped, added, or rearranged?",
+    "rationale": "Cross-text catalogue comparison forced to exact-match enumeration.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0221",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Pick one specific procedural rule that appears in both Naradasmriti and Bṛhaspati Smṛti — say, the rules around oaths, or the rules around witnesses. Quote the operative line from each, and say whether Bṛhaspati's version reads as a clarification, a tightening, or a departure from Nārada's.",
+    "rationale": "Anchors the comparison on a single procedural rule that should be locatable in both single-chapter texts, rather than a sweeping developmental claim.",
+    "expected_works": [
+      "unknown-naradasmrti-7650d2",
+      "unknown-brhaspati-smrti-0fd070"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0224",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "How does Manusmṛti book 1 open, and how does Yājñavalkya Smṛti book 1 open? Pull each frame and ask what each text is committing itself to in those opening verses.",
+    "rationale": "Cross-text opening-frame comparison.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0229",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "How does Iqbal's 'Chand' in Part 3 differ from the moon-figure in 'Maah-e-Nau' (Part 1 ch. 30)?",
+    "rationale": "Tests duplicate-celestial-figure handling across volumes.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0233",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Juliana confronts a demon; Andrew confronts the Mermedonians. Both Cynewulf scenes stage interrogations across an ontological gap. Pull a representative interrogation moment in each and ask: who is the more skilled interrogator?",
+    "rationale": "Cross-poem interrogation-scene comparison forced to a skill judgment.",
+    "expected_works": [
+      "cynewulf-juliana-9a2157",
+      "cynewulf-andreas-07b573"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0237",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Iqbal's Bang-e-Dara is divided into three parts written in different decades. Comparing Part 1 and Part 3, what political shift do you detect in Iqbal's lyrical 'we'?",
+    "rationale": "Tests volume-trajectory analysis. Iqbal's well-attested shift from Indian to pan-Islamic register.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0241",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Manusmriti chapter 5 and Visnu Smriti both treat permitted and forbidden foods. Where does Manu's vegetarian leaning push past Visnu's allowances?",
+    "rationale": "Tests precise comparison on dietary rules.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0244",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "How do 'The Wanderer' and 'Soul and Body II' each handle the question of what survives the body? Compare their answers.",
+    "rationale": "Tests eschatological-claim comparison inside the elegies corpus.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0249",
+    "category": "comparative",
+    "difficulty": "hard",
+    "prompt": "Comte treats writing as evidence in Traité de Législation. Bṛhaspati Smṛti introduces lekhya as a vyavahara category. Pull the operative claim on each side. Does either tradition imagine writing as more or less reliable than oral testimony?",
+    "rationale": "Cross-tradition writing-as-evidence comparison forced to reliability judgment.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "unknown-brhaspati-smrti-0fd070"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0252",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Where in Manu and where in Visnu do you find the same prescription about the king's eight ministers? Does the wording match, or does each adapt?",
+    "rationale": "Tests precise cross-text matching of an enumerated list.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0257",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "How does the Cynewulf of Elene treat Helena's authority compared with the way Juliana treats its female protagonist? Both centre a saintly woman.",
+    "rationale": "Tests the gendered hagiographic structure across two Cynewulf poems.",
+    "expected_works": [
+      "cynewulf-elene-d2d132",
+      "cynewulf-juliana-9a2157"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0260",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Both speakers — the Wanderer and Ghalib's persona in 'Hazaron khwahishen aisi' — sit with the residue of unmet desire. Pull a line for each and say which speaker would find the other's grief recognisable.",
+    "rationale": "Cross-tradition exile-and-loss comparison anchored on a recognisability test.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0264",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Comte argues ancient slavery distorted later legal systems; Dunoyer argues slavery degrades industry. Find each author's strongest formulation. Are they making the same case, or are these two different objections to slavery sharing a common surface?",
+    "rationale": "Cross-author slavery-critique comparison forced to a same-case-vs-different-cases call.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0268",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Manu's book 1 makes caste cosmogonic — varnas emerge with creation. Slokantara, in its Old Javanese gnomic register, treats social distinction more pragmatically. Pull a representative passage on each side. Is Slokantara presupposing Manu's framework or working with a different one?",
+    "rationale": "Cross-tradition caste-framing comparison forced to presupposition test.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-slokantara-d7a628"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0272",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Kalpabuddha treats kewala-jñāna; San Hyan Mahājñāna treats the highest goal. Pull the central claim from each. Are these two texts naming the same end-state, or is one's terminus the other's milestone?",
+    "rationale": "Cross-text knowledge-goal comparison forced to terminus-vs-milestone call.",
+    "expected_works": [
+      "unknown-kalpabuddha-d760dc",
+      "unknown-san-hyan-mahajnana-11c531"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0276",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Iqbal's 'Wataniyat' (Part 3 ch. 25) critiques territorial nationalism. Earlier in Part 1, his 'Tarana-e-Hindi' celebrates Hindostan. Stage the contradiction with quotes.",
+    "rationale": "Tests detection of a developmental contradiction in a single poet's corpus.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0279",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Iqbal's 'Insaan' (in Part 3) and Manu's account of the human being in chapter 1 could be staged as two answers to 'what is a human?' What do they each privilege?",
+    "rationale": "Open philosophical comparison across traditions.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0284",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Take Cynewulf's Andreas (the apostle abroad) and Iqbal's 'Ek Haji Madinay ke Raastay Mein' (the pilgrim on the road). Both are journey-of-faith poems across cultures.",
+    "rationale": "Pilgrim-narrative comparison. Tests if Falsafa can hold two distant texts.",
+    "expected_works": [
+      "cynewulf-andreas-07b573",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0287",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Within the Cynewulf cycle, contrast Juliana's prison demon with Andreas's Mermedonian captors. Both are agents of evil but figured very differently.",
+    "rationale": "Intra-author villain-comparison. Tests close reading inside one author.",
+    "expected_works": [
+      "cynewulf-juliana-9a2157",
+      "cynewulf-andreas-07b573"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0291",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "'Hāh' and 'Nawā-e-Gham' come from the same volume of Bang-e-Dara and share a lament-register. Pull the most charged line in each. Where does the rhetoric coincide, and where does each poem stake out its own territory?",
+    "rationale": "Within-author lament-register comparison.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0294",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Ghalib's matla — 'Hazaaron khwāhishein aisi ki har khwāhish pe dam nikle' — pictures a desire-cosmology in which each desire is fatal. Iqbal's 'Tere ishq ki intehā chāhtā hoon' wants intensity, not annihilation. Pull both opening couplets and walk through how their desire-cosmologies differ.",
+    "rationale": "Cross-poet desire-cosmology comparison via paired opening couplets.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0297",
+    "category": "comparative",
+    "difficulty": "hard",
+    "prompt": "Iqbal in 'Wataniyat' attacks territorial nationalism. Comte in his Traité de Législation Vol II discusses national identity differently. Where could one stage a productive disagreement?",
+    "rationale": "Tests comparative framing across traditions on nationalism.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "charles-comte-traite-de-legislation-vol-ii-20331d"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0301",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Manu's chapter 1 treats varna cosmogonically; Yajnavalkya's opening treats varna more procedurally. Pull both openings. Has Yajnavalkya genuinely shifted the framework, or simply stripped the cosmogonic prelude?",
+    "rationale": "Cross-text framing-change comparison forced to substance-vs-stripping call.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0304",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "The Seafarer pivots to prayer at its close; Cynewulf's runic epilogues do something similar. Pull each closing turn. Are these two devotional closes doing the same theological work, or is one's prayer richer than the other's?",
+    "rationale": "Cross-poem closing-turn comparison.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "cynewulf-elene-d2d132"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0308",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Manu and Viṣṇu both treat śrāddha. Pull each text's instructions on the foods used and the days designated. Where does Viṣṇu specify what Manu leaves general?",
+    "rationale": "Cross-text shraddha rule-detail comparison.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0311",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Iqbal's 'Sair-e-Falak' speaker enters the heavens; the Wanderer's speaker contemplates a fallen earthly world. Pull what each speaker sees. Why does each see the cosmos this way — what about the speaker has determined the field of view?",
+    "rationale": "Cross-poem cosmic-view comparison forced to speaker-determines-view question.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0315",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Yajnavalkya gives a tighter, sutra-style code; Manu gives expansive verse. Pick the same procedural rule in both texts and lay them side by side.",
+    "rationale": "Tests rule-by-rule comparison demonstrating textual style.",
+    "expected_works": [
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0318",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Iqbal mentions Hindi figures (Brahman, Ram, Hindostan, Hindu sages) in several poems. Where does he engage warmly and where polemically?",
+    "rationale": "Tests cross-volume tone tracking on a sensitive subject.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0322",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Juliana confined to a cell; the speaker of 'The Wife's Lament' confined under earth. Both are confinement scenes; the framings are very different. Pull the strongest line in each. Does either framing leave room for the other's mode of confinement?",
+    "rationale": "Cross-poem confinement-framing comparison.",
+    "expected_works": [
+      "cynewulf-juliana-9a2157",
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0325",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "How does Iqbal's 'Tarana-e-Hindi' praise of Hindostan compare with the territorial-pride material in Cynewulf's Andreas (when Andrew speaks of his land)?",
+    "rationale": "Cross-tradition territorial-affection comparison.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "cynewulf-andreas-07b573"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0329",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "'Maa ka Khwām' and 'The Wife's Lament' are both women's intimate voices but differently constructed. Pull the most intimate line in each. Which voice is more constructed — that is, more visibly mediated by a male author imagining a female speaker?",
+    "rationale": "Cross-poem female-voice comparison forced to mediation question.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0332",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Comte's Traité de la propriété Vol I and Viṣṇu Smṛti each treat ownership of land. Pull each one's foundational statement. What metaphysical assumption does each make about the relation of person to soil?",
+    "rationale": "Cross-tradition land-ownership metaphysics comparison.",
+    "expected_works": [
+      "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0336",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Comte argues ancient slavery distorts later jurisprudence. The smriti tradition has elaborate provisions for dāsa and dāsī. Pull each side. Are Comte and the smritis describing the same phenomenon at different distances, or different phenomena under one English word?",
+    "rationale": "Cross-tradition slavery comparison forced to identity-of-phenomenon test.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0339",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Manu uses 12 chapters; Yājñavalkya uses three structural divisions (ācāra, vyavahāra, prāyaścitta). Pull each architecture and ask what the simplification gains in clarity and what it costs in cosmological framing.",
+    "rationale": "Cross-text architectural comparison forced to gain-vs-cost call.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0343",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Manu's book 4 sets out the snātaka's life; Viṣṇu's parallel chapter does the same. Pull each rule on a single specific topic — say, what to do when meeting a stranger — and decide whether Viṣṇu rules against what Manu permits.",
+    "rationale": "Cross-text snataka-rule comparison anchored on a single topic.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0346",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Compare how Manu treats unintentional killing in chapter 11 with how Yajnavalkya treats it in chapter 3. Same offence, comparable era, somewhat different punishment.",
+    "rationale": "Tests precise cross-text comparison of an offence.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0350",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "'The Ruin' contemplates a fallen Roman city without naming it. Iqbal's 'Saqaliya' names Sicily. Find the most charged line in each. What does naming or refusing-to-name commit each speaker to?",
+    "rationale": "Cross-tradition grief-of-empire comparison forced to a naming question.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0353",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Take the closing chapter of a Comte volume — say the final chapter of Traité de Législation Vol II — and place it beside the closing chapter of a Dunoyer volume. Whose ending is more programmatic?",
+    "rationale": "Closing-chapter comparison across the two French authors. Tests last-chapter retrieval without committing to a specific (and possibly mis-numbered) chapter index.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 3,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 20,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0357",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Iqbal's 'Larkiyan Parh Rahi Hain Angrezi' (girls reading English, Bang-e-Dara Part 3 ch. 27) is a critical poem. Compare its tone with Iqbal's 'Bachay ki Dua' on early education.",
+    "rationale": "Tests within-author pedagogy contrast.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0360",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Take the gnomic 'Maxims I' material and the Slokantara aphorisms. Two collections of moral commonplaces, very different cultures. Find converging maxims.",
+    "rationale": "Cross-tradition aphorism comparison. Tests if Falsafa can find content overlap.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "unknown-slokantara-d7a628"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0364",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Take a Ghalib couplet on solitude ('Rahiye ab aisi jagah') and the Old English 'The Wanderer'. Two solitudes, very different worlds. Compare.",
+    "rationale": "Cross-tradition solitude-poem comparison.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0367",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "'The Wife's Lament' constructs a woman's confined voice; Manu's book 5 constructs the woman's domestic constraint. Pull a representative passage on each side. Is the constraint described in each presupposing similar conceptions of what a woman is?",
+    "rationale": "Cross-tradition female-constraint comparison.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0371",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Comte's Traité de Législation links aristocracy to modes of existence; Manu's book 1 links kshatriya origin to cosmogony. Pull each linkage. Both map social structure onto material conditions, but at very different metaphysical depths — which depth is harder to dislodge?",
+    "rationale": "Cross-tradition social-structure-linkage comparison.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0374",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "In Juliana, the demon confesses a long catalogue of historical evils when pressed. Manu in book 12 enumerates the postmortem destinations for the wicked. Match Juliana's catalogue against Manu's typology — which sins line up, which have no parallel?",
+    "rationale": "Forces a concrete enumeration on each side rather than a vibes-level comparison. Tests whether the system can pull the demon's confession list and match it against Manu's enumerations.",
+    "expected_works": [
+      "cynewulf-juliana-9a2157",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0378",
+    "category": "comparative",
+    "difficulty": "medium",
+    "prompt": "Manu, Yājñavalkya, and Bṛhaspati all construe the witness, but with different emphases. Pull each text's rule on what makes a witness's testimony admissible. Whose witness is the most procedural, whose the most spiritual?",
+    "rationale": "Three-text witness-construal comparison.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-brhaspati-smrti-0fd070"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0404",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every poem in the corpus that addresses (or is named after) a star.",
+    "rationale": "Tests image-based corpus search. Iqbal has multiple ('Sitara', 'Subah ka Sitara', 'Do Sitare').",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0407",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works treat freedom of thought as a topic?",
+    "rationale": "Fichte's Zurückforderung centrally; Comte indirectly through legislation arguments; Dunoyer through his liberty framing.",
+    "expected_works": [
+      "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "charles-comte-traite-de-legislation-vol-i-7e62a2"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0410",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus engage with Saiva (Shiva-centred) thought?",
+    "rationale": "Vrhaspatitattva, Ganapatitattva, San Hyan Tattvajnana — the Old Javanese Saiva tattva texts. Tests tradition-discovery.",
+    "expected_works": [
+      "unknown-vrhaspatitattva-b60b28",
+      "unknown-ganapatitattva-66a136",
+      "unknown-san-hyan-tattvajnana-1f29bd"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 25,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0414",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works directly address the Prophet Muhammad?",
+    "rationale": "Iqbal's 'Huzoor Risalat-Maab Mein' is the explicit one; should also pull other Iqbal addresses to the Prophet.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0417",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus discuss writing as a legal or evidentiary medium?",
+    "rationale": "Brhaspati Smriti famously introduces lekhya. Comte discusses writing as evidence in his legislation volumes. Tests forensic-topic discovery.",
+    "expected_works": [
+      "unknown-brhaspati-smrti-0fd070",
+      "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0421",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that uses the figure of the moth or candle (parwana / shama).",
+    "rationale": "Iqbal's 'Bacha aur Shama', 'Shama', 'Shama o Parwana', 'Shama aur Shair'; Ghalib's many couplets; possibly Zauq.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0424",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus engage with the figure of the king as defined by violence (danda)?",
+    "rationale": "Manu ch. 7, Visnu Smriti's rajadharma chapters. Tests state-violence topic search.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0428",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus contain the figure of the gardener or the garden?",
+    "rationale": "Ghalib's many gulshan / gulistan couplets; Zauq similarly; Iqbal in Part 1 ('Gulzar-e-Hast-o-Bud').",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0431",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus employ allegorical fable (animals carrying moral lessons)?",
+    "rationale": "Iqbal's 'Ek Makra aur Makhi', 'Ek Pahar aur Gilehri', 'Ek Gaye aur Bakri'.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0434",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works engage with the figure of the prison or imprisonment?",
+    "rationale": "Cynewulf's Juliana (her cell + the demon's confession); Iqbal's 'Parinde ki Faryad' (caged bird as prison-figure); Old English 'The Wife's Lament' (the earth-cave).",
+    "expected_works": [
+      "cynewulf-juliana-9a2157",
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0438",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus are gnomic or aphoristic in form?",
+    "rationale": "Slokantara, Old English 'Maxims I', Vainglory, parts of Manu and Yajnavalkya, Naradasmriti.",
+    "expected_works": [
+      "unknown-slokantara-d7a628",
+      "unknown-old-english-elegies-d5fe9e",
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0441",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works contain explicit reflection on time (kala, waqt, time's passing)?",
+    "rationale": "Manu's yugas (ch. 1), Old English 'The Wanderer' on Wyrd, Ghalib's many time-couplets, Zauq's reflections on age.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-old-english-elegies-d5fe9e",
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0445",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that engages with rules or claims about food and dietary practice.",
+    "rationale": "Manu ch. 5 (extensive food rules), Visnu, Yajnavalkya. Possibly tattva texts on yogic diet.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0448",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that contains explicit prayer or invocation.",
+    "rationale": "Iqbal's 'Bachay ki Dua', Manu's opening invocations, Yajnavalkya's, Cynewulf's epilogues, Old English 'Resignation'.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "cynewulf-elene-d2d132",
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0452",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that engages with the question of free will, determinism, or fate.",
+    "rationale": "Old English 'Wyrd' material; Ghalib's couplets on qismat; Iqbal's khudi project; possibly Manu's karma material.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0455",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus describe judicial ordeals (divya pramana)?",
+    "rationale": "Yajnavalkya ch. 2, Brhaspati, Naradasmriti, Visnu Smriti. Tests narrow legal-procedure discovery.",
+    "expected_works": [
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-brhaspati-smrti-0fd070",
+      "unknown-naradasmrti-7650d2",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0458",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus explicitly address absence or separation from the beloved?",
+    "rationale": "Ghalib's diwan abundantly; Zauq's diwan; Iqbal more sparingly. Old English 'Wife's Lament' too.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0462",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that engages with the rights or treatment of slaves.",
+    "rationale": "Comte's Vol IV, Manu, Visnu. Tests slavery-rule discovery across French legal theory and Indic law.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0465",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that uses the figure of fire centrally.",
+    "rationale": "Cynewulf's Juliana (fire-tortures), Manu's Agni invocations, Iqbal's Promethean imagery.",
+    "expected_works": [
+      "cynewulf-juliana-9a2157",
+      "unknown-manusmrti-347b76",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0469",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that contains a meditation on transience.",
+    "rationale": "Old English 'The Wanderer', 'The Ruin', 'The Seafarer'; Ghalib passim; Iqbal 'Goristan-e-Shahi'.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0472",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which Iqbal poems in the corpus take a particular city as their subject?",
+    "rationale": "Iqbal's 'Saqaliya' (Sicily), 'Bilad-e-Islamiya' (Muslim cities), 'Goristan-e-Shahi' (a royal cemetery), 'Kinaar-e-Ravi' (riverbank not city).",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0476",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus contain reference to specifically Sufi (or Sufi-adjacent) practices?",
+    "rationale": "Ghalib's couplets engaging Persian Sufi tropes; Zauq's; Iqbal's mystic poems.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0479",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus address heretics, atheists, or unbelievers explicitly?",
+    "rationale": "Manu and Yajnavalkya have rules for nastikas; Cynewulf's Juliana stages a confrontation with pagan-evil; Iqbal critiques Western secularism.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "cynewulf-juliana-9a2157",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0482",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus explicitly engage with 'liberty' (liberté, hurriyat, freodom) as a category?",
+    "rationale": "Comte, Dunoyer, Fichte; possibly Iqbal in his anti-imperial register.",
+    "expected_works": [
+      "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0486",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that uses gold (zar, gold) as a symbol or metaphor.",
+    "rationale": "Ghalib and Zauq use zar abundantly; Old English elegies on the gold-friend; Iqbal in his lament-poems.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "unknown-old-english-elegies-d5fe9e",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0489",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Across the corpus, where does language itself — speaking, naming, the right or wrong use of words — become the object of reflection? Pull a representative passage from each work that does this.",
+    "rationale": "Ghalib on speech, Cynewulf's runic acrostic and the demon's confession in Juliana, Manu's vacika prayascittas, Slokantara on the tongue. Tests cross-corpus thematic discovery.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "cynewulf-elene-d2d132",
+      "unknown-manusmrti-347b76",
+      "unknown-slokantara-d7a628"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 3,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 20,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0493",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that contains a procession (royal, religious, or otherwise).",
+    "rationale": "Cynewulf's Elene (Helena's retinue), Andreas, Iqbal's anthems implicitly, Manu's coronation passages.",
+    "expected_works": [
+      "cynewulf-elene-d2d132",
+      "cynewulf-andreas-07b573",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0496",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus discuss intellectual property or the rights of inventors and authors?",
+    "rationale": "Comte's Vol II of Traité de la propriété (chs. 27-35) covers literary and inventive property explicitly.",
+    "expected_works": [
+      "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0500",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that frames itself as a digest, compendium, or summary of earlier authorities.",
+    "rationale": "Viramitrodaya is explicitly a nibandha; Naradasmriti and Brhaspati Smriti reorganize earlier rules; Comte's Vol I claims analytical method.",
+    "expected_works": [
+      "unknown-viramitrodaya-d4b632",
+      "unknown-naradasmrti-7650d2",
+      "unknown-brhaspati-smrti-0fd070",
+      "charles-comte-traite-de-legislation-vol-i-7e62a2"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0503",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that contains an apostrophe (direct address) to an inanimate object.",
+    "rationale": "Iqbal's 'Himalaya', 'Aaftab', 'Kinaar-e-Ravi'; Old English 'The Ruin'.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0506",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus engage with the question of how civilisations rise and fall?",
+    "rationale": "Comte Vol II (perfectionnement et degradation), Iqbal's 'Saqaliya', 'Goristan-e-Shahi', Old English 'The Wanderer', 'The Ruin', Manu on yugas.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "unknown-old-english-elegies-d5fe9e",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0510",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that engages with the question of legitimate punishment.",
+    "rationale": "Manu, Yajnavalkya, Visnu, Brhaspati on danda; Comte's analytical method.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8",
+      "unknown-brhaspati-smrti-0fd070",
+      "charles-comte-traite-de-legislation-vol-i-7e62a2"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0513",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that contains explicit reflection on the relation between learning and authority.",
+    "rationale": "Manu and Yajnavalkya frame Brahmin authority as Veda-derived; Comte argues for analytical / rational legislation; Fichte for thought-freedom.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0517",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that engages with conversion (one belief to another).",
+    "rationale": "Cynewulf's Andreas and Elene (pagan-to-Christian); Iqbal's poems exhorting conversion-in-spirit.",
+    "expected_works": [
+      "cynewulf-andreas-07b573",
+      "cynewulf-elene-d2d132",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0520",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Find every work in the corpus that uses the figure of the road or path.",
+    "rationale": "Iqbal's pilgrim 'Ek Haji'; Old English 'The Wanderer's' road of exile; Ghalib's manzil-and-rah couplets.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "unknown-old-english-elegies-d5fe9e",
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0524",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Where in the corpus is song or singing taken up as a social practice — bards reciting, communities chanting, mourning songs, anthems? Pull a representative example from each work where this appears.",
+    "rationale": "Iqbal's anthems and call-and-bell motif, the scop-and-singing material in Old English Elegies. Tests cross-corpus thematic discovery without overclaiming Manu.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 3,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 20,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0527",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which works in the corpus engage with the figure of the river?",
+    "rationale": "Iqbal's 'Kinaar-e-Ravi', 'Mauj-e-Darya'; Old English elegies passing references; Cynewulf's Andreas (sea but also rivers).",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "cynewulf-andreas-07b573"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0530",
+    "category": "discovery",
+    "difficulty": "medium",
+    "prompt": "Which Iqbal poems in the corpus name a specific historical figure?",
+    "rationale": "'Sayed ki Loh-e-Turbat' (Sir Sayed Ahmed Khan), 'Abdul Qadir ke Naam', 'Swami Ram Tirath'.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0554",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does Ghalib mean by 'fanaa' across his diwan?",
+    "rationale": "Single-author concept tracing. Fanaa is a Sufi term Ghalib reframes.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0557",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'ishq' (love) mean across the three Urdu poets in the corpus (Ghalib, Zauq, Iqbal)?",
+    "rationale": "Cross-poet concept synthesis. Ishq carries different weights across the three.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0560",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'asauca' (impurity from birth or death) across the smriti corpus?",
+    "rationale": "Cross-text concept synthesis on a ritual-procedural category.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0564",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'gham' (sorrow, grief) signify in Urdu poetry? Synthesise across Ghalib, Zauq, and Iqbal.",
+    "rationale": "Cross-poet concept synthesis on a key affective register.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0567",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'moksha' (liberation) across the smriti corpus and the tattva texts? Are these the same liberation?",
+    "rationale": "Cross-corpus concept synthesis. Tests if Falsafa can hold two related but distinct doctrines.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-vrhaspatitattva-b60b28",
+      "unknown-san-hyan-tattvajnana-1f29bd"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0571",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'naala' (lament, complaint) in Urdu poetry? Compare its function across Ghalib, Zauq, Iqbal.",
+    "rationale": "Cross-poet concept synthesis on a recurring affective term.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0574",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'majnoon' (the mad lover, Majnun) in the Urdu corpus?",
+    "rationale": "Cross-poet trope analysis. Majnoon is referenced across Ghalib, Iqbal.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0578",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'umr' (lifetime) signify in Ghalib's couplets that mention it?",
+    "rationale": "Single-author concept-tracing on a temporal term.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0581",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'dawat' (call, invitation, prophetic mission) for Iqbal?",
+    "rationale": "Single-author concept analysis. Iqbal's title 'Bang-e-Dara' (the call of the bell) is itself a dawat.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0584",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'propriete' mean across Comte's Traité de la propriété (Vols I and II)?",
+    "rationale": "Within-author concept tracing across two volumes.",
+    "expected_works": [
+      "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0588",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'wisdom' (frod, witig) mean in the Old English elegies? Compare with the Cynewulfian poems.",
+    "rationale": "Cross-poem concept analysis inside Old English subcorpus.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "cynewulf-elene-d2d132",
+      "cynewulf-juliana-9a2157"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0591",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'tafakkur' (deep contemplation, reflection) mean for Iqbal?",
+    "rationale": "Within-author concept analysis on a key intellectual virtue.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0595",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'bodhi' (awakening) across the Old Javanese Buddhist texts?",
+    "rationale": "Within-subcorpus concept synthesis.",
+    "expected_works": [
+      "unknown-kalpabuddha-d760dc",
+      "unknown-san-hyan-kamahayanikan-2a0c19",
+      "unknown-kunjarakarna-dharmakathana-894f4a"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0598",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'lekhya' (writing as evidence) in Brhaspati Smriti, and how does it expand the older smriti tradition?",
+    "rationale": "Tests retrieval and contextual synthesis. Brhaspati's lekhya is a juristic innovation.",
+    "expected_works": [
+      "unknown-brhaspati-smrti-0fd070",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0602",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'occupation des choses' mean for Comte in Traité de la propriété Vol I?",
+    "rationale": "Within-text concept analysis on a foundational property-theoretic notion.",
+    "expected_works": [
+      "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0605",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'wahy' (revelation) mean for Iqbal, and how does the term function across his Bang-e-Dara cycle?",
+    "rationale": "Within-author concept tracing.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0608",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'hayat' (life) signify across Iqbal's Bang-e-Dara cycle?",
+    "rationale": "Within-author concept tracing.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0612",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'naqsh' (mark, image, design) mean for Ghalib?",
+    "rationale": "Within-poet concept analysis. Naqsh appears in his famous opening matla and elsewhere.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0615",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'lehd' (the grave, in Urdu poetic register) in Ghalib's diwan?",
+    "rationale": "Within-poet concept analysis on a death-figure.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0619",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'maikhana' (tavern, wine-house) in Urdu poetry, and how does it function as a counter-temple?",
+    "rationale": "Cross-poet concept analysis on a Persianate trope.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0622",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'dhrti' (steadiness, fortitude) across the Sanskrit smritis?",
+    "rationale": "Cross-text concept synthesis on a moral virtue.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0626",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'paap' (sin, demerit) across Sanskrit smritis and Old Javanese ethical texts?",
+    "rationale": "Cross-tradition concept synthesis on a moral category.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-slokantara-d7a628"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0629",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'sraddha' (rite for ancestors) across the smriti tradition?",
+    "rationale": "Cross-text concept synthesis on a ritual-procedural topic.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0632",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'snataka' (the householder-after-studentship) across the Manu and Visnu corpus? What rules govern the snataka's life?",
+    "rationale": "Cross-text concept synthesis on a life-stage category.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0636",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'gulshan' (rose-garden) as a setting in Urdu poetry?",
+    "rationale": "Cross-poet trope analysis.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0639",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'hijr' (separation) across the Urdu corpus, and how does it pair with 'wisaal'?",
+    "rationale": "Cross-poet concept analysis on a paired category.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0643",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'taqlid' (imitation, mechanical adherence) mean for Iqbal as a target of critique?",
+    "rationale": "Within-author concept analysis. Famous Iqbalian polemic against blind imitation.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0646",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is the comitatus / lord-retainer bond in Old English poetry? Pin it across the elegies.",
+    "rationale": "Within-corpus concept analysis. Tests recognition of a sociological category.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0650",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'danda' (the rod, royal punishment) across Manusmriti chapter 7 and parallel chapters in Visnu and Yajnavalkya?",
+    "rationale": "Cross-text concept synthesis on state authority.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-visnu-smrti-27f0d8",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0653",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is the concept of 'ekam' (the One) across the Old Javanese tattva texts?",
+    "rationale": "Within-subcorpus concept analysis on monistic doctrine.",
+    "expected_works": [
+      "unknown-vrhaspatitattva-b60b28",
+      "unknown-ganapatitattva-66a136",
+      "unknown-san-hyan-tattvajnana-1f29bd"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0656",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'maitri' (loving-kindness) across the Old Javanese Buddhist texts?",
+    "rationale": "Within-subcorpus concept analysis on a Mahayana virtue.",
+    "expected_works": [
+      "unknown-kalpabuddha-d760dc",
+      "unknown-san-hyan-kamahayanikan-2a0c19",
+      "unknown-kunjarakarna-dharmakathana-894f4a"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0660",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'wadi' (a kind of plaintiff in legal procedure) in Naradasmriti and Brhaspati Smriti?",
+    "rationale": "Cross-text concept analysis on a legal-procedural category.",
+    "expected_works": [
+      "unknown-naradasmrti-7650d2",
+      "unknown-brhaspati-smrti-0fd070"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0663",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What does 'degradation' do as a concept opposing 'perfectionnement' in Comte's Vol II?",
+    "rationale": "Within-text concept analysis on the paired category.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-ii-20331d"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0667",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'guru' (teacher) across the smriti corpus and the Old Javanese ethical texts?",
+    "rationale": "Cross-tradition concept synthesis on the teacher-figure.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-slokantara-d7a628",
+      "unknown-vrhaspatitattva-b60b28"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0670",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'artha' (wealth, purpose) in the smriti tradition, and how does it relate to dharma and kama?",
+    "rationale": "Cross-text concept analysis on the trivarga.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0674",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'mehfil' (gathering, assembly, social space) in Urdu poetry?",
+    "rationale": "Cross-poet concept analysis on a social-poetic setting.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0677",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is 'naseeb' (lot, fortune) across the Urdu corpus?",
+    "rationale": "Cross-poet concept analysis on a fate-related term.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 5,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0680",
+    "category": "conceptual",
+    "difficulty": "medium",
+    "prompt": "What is the trope of the 'paimaana' (cup, measure) in Urdu poetry, and how does it relate to the saqi?",
+    "rationale": "Cross-poet trope analysis on linked drinking imagery.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0703",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Visnu Smriti chapter 51, what specific topic is treated?",
+    "rationale": "Direct chapter-content lookup. Visnu has 100 chapters; ch. 51 is in the asauca cluster.",
+    "expected_works": [
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0706",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Quote the closing line of Manusmriti chapter 12.",
+    "rationale": "Tests retrieval of the very last verse of Manu. Specific text-end navigation.",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0709",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Yajnavalkya chapter 3, find the verse on the penance for swallowing food from a forbidden source.",
+    "rationale": "Tests retrieval of a specific edge-case prayascitta.",
+    "expected_works": [
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0712",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Iqbal's Bang-e-Dara Part 1 chapter 11, what is the title and what is the matla's claim?",
+    "rationale": "Direct chapter-content retrieval. The chapter is 'Sakhtiyan karta hoon dil par...'",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0715",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Bang-e-Dara Part 3 chapter 26 — what's there?",
+    "rationale": "Tests chapter retrieval. The chapter is just '26' in the listing — possibly an unnamed piece.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0719",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Diwan-e-Zauq chapter 30 — what is the title?",
+    "rationale": "Direct chapter-title retrieval. Ch. 30 is 'Koi kamar ko tiri kuch jo ho kamar to kahe'.",
+    "expected_works": [
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0722",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Andreas, find the passage that names a specific number of days at sea.",
+    "rationale": "Tests precise numerical retrieval inside the narrative.",
+    "expected_works": [
+      "cynewulf-andreas-07b573"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0725",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In 'The Seafarer', what specifically is said about flesh and worms?",
+    "rationale": "Tests retrieval of a specific vivid image in the homiletic turn.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0728",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Manusmriti chapter 3, what is the rule about which guests deserve madhuparka (honey-mixture) hospitality?",
+    "rationale": "Mn 3.119-3.120 area. Tests precise verse-level retrieval inside the householder chapter.",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0731",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Manu chapter 8, find the precise penalty for someone who points a weapon (without using it) at a Brahmin.",
+    "rationale": "Tests retrieval of a specific gradient-of-offence rule.",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0735",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Iqbal's Bang-e-Dara Part 1 chapter 8 ('Laaon woh tinke kahin se aashiyane ke liye'), what is the conceit about the nest?",
+    "rationale": "Tests close reading of a specific Iqbal ghazal.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0738",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Iqbal's 'Aashiq Harjaai' (Bang-e-Dara Part 2 ch. 28) — what is the harjaai (faithless) lover's account of himself?",
+    "rationale": "Tests close reading inside a specific Iqbal poem.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0741",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Iqbal's 'Ghurra-e' (Bang-e-Dara Part 3 ch. 8), what is the central image?",
+    "rationale": "Tests retrieval of an obscure short Iqbal poem (the new-moon's edge or similar).",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0744",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "What is the matla of Diwan-e-Ghalib chapter 200?",
+    "rationale": "Tests retrieval at an arbitrary middle-late chapter index.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0747",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Viṣṇu Smṛti book 5, the prescribed punishments scale with the gravity of the offence. Find the rule for theft committed by a person of low varna, and the parallel rule for the same offence committed by a Brahmin — quote both and compare the scaling.",
+    "rationale": "Tests precise within-chapter retrieval of a paired rule rather than an entire chapter's contents.",
+    "expected_works": [
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0751",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "What does Yajnavalkya Smriti chapter 2 verse around 2.85 say about evidence?",
+    "rationale": "Tests precise verse retrieval in the vyavahara section.",
+    "expected_works": [
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0754",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Locate the specific rule in Parasara Smriti on prayascittas in the Kali age.",
+    "rationale": "Tests retrieval of a kaliyuga-specific rule. Parasara is conventionally the kali smriti.",
+    "expected_works": [
+      "unknown-parasara-smrti-2259be"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0757",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Comte's Traité de Législation Vol I chapter 9, what specific case does Comte use to illustrate the discordance between morality and law?",
+    "rationale": "Tests retrieval of a specific example from a French theoretical text.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-i-7e62a2"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0760",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Vol IV chapter 2 ('Nature des divers genres d-esclavage domestique') — what genres of domestic slavery does Comte distinguish?",
+    "rationale": "Tests precise typology retrieval.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-iv-bca040"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0763",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Where in Traité de la propriété Vol II does Comte argue for property in inventions or industrial procedures? Pull the passage and quote his central claim.",
+    "rationale": "Tests retrieval of an IP-related passage by topic rather than by a specific (and incorrect) chapter index.",
+    "expected_works": [
+      "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 3,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 20,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0767",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Fichte's Zurückforderung chapter 2, what does Fichte say specifically about contract?",
+    "rationale": "Tests retrieval of the contract-argument segment.",
+    "expected_works": [
+      "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0770",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Kalpabuddha chapter 4 — what doctrine is set out?",
+    "rationale": "Tests precise chapter-by-chapter retrieval inside the 6-chapter Old Javanese Buddhist text.",
+    "expected_works": [
+      "unknown-kalpabuddha-d760dc"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0773",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Vrhaspatitattva, find the specific verse defining 'cidatma' (consciousness-self).",
+    "rationale": "Tests precise philosophical-term retrieval.",
+    "expected_works": [
+      "unknown-vrhaspatitattva-b60b28"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0776",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In San Hyan Tattvajnana, find the specific verse on the relation of pradhana (primordial nature) to siva.",
+    "rationale": "Tests precise philosophical-vocabulary retrieval.",
+    "expected_works": [
+      "unknown-san-hyan-tattvajnana-1f29bd"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0779",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Viramitrodaya — find the section that compiles rules from earlier authors on the king's daily routine.",
+    "rationale": "Tests retrieval inside the digest's compilation structure.",
+    "expected_works": [
+      "unknown-viramitrodaya-d4b632"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0783",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Locate Manu 8.413 — what is the rule?",
+    "rationale": "Tests precise high-numbered verse retrieval. Mn 8.413 is in the late part of the vyavahara chapter.",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0786",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Manu 12.115 — what does it say?",
+    "rationale": "Tests precise late-verse retrieval inside the soul-and-rebirth chapter.",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0789",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "What is the maqta of Diwan-e-Zauq chapter 16 ('Ek sadma dard-e-dil se meri jaan par toh hai')?",
+    "rationale": "Tests within-chapter maqta retrieval.",
+    "expected_works": [
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0792",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Find the specific line in Cynewulf's Andreas where the storm is named with a particular Old English word.",
+    "rationale": "Tests precise lexeme retrieval inside the storm-scene.",
+    "expected_works": [
+      "cynewulf-andreas-07b573"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0795",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In 'The Wanderer', find the precise word used for the speaker's protector or lord.",
+    "rationale": "Tests precise lexical retrieval ('hlaford', 'gold-wine', or similar).",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0799",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Iqbal's 'Bilad-e-Islamiya' (Bang-e-Dara Part 3 ch. 2), name the third city he addresses in order.",
+    "rationale": "Tests precise city-catalogue retrieval.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0802",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In 'The Husband's Message' (Wilt thu fus haele), what specifically does the message-rune ask the woman to do?",
+    "rationale": "Tests retrieval of the message's content.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0805",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Manu 4.138 — what is the specific rule on speech?",
+    "rationale": "Tests precise verse-level retrieval ('satyam bruyat priyam bruyat...').",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0808",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "In Yajnavalkya 1.115 area, what is prescribed about the wife's duties?",
+    "rationale": "Tests precise verse retrieval inside the householder section.",
+    "expected_works": [
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0811",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Find the precise sentence in Comte's Vol I that defines morality vs. legislation as separate domains.",
+    "rationale": "Tests retrieval of a specific theoretical definition.",
+    "expected_works": [
+      "charles-comte-traite-de-legislation-vol-i-7e62a2"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0815",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Locate the moment in Elene where the True Cross's wood is identified by raising a young man.",
+    "rationale": "Tests retrieval of the resurrection-test scene.",
+    "expected_works": [
+      "cynewulf-elene-d2d132"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0818",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "What is Iqbal's precise opening line in Bang-e-Dara Part 1 chapter 1 ('Ajab waaiz ki deen-daari hai ya rabb')?",
+    "rationale": "Tests opening-line retrieval.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0821",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "What is the title of Bang-e-Dara Part 2 chapter 28 (the final one of Part 2)?",
+    "rationale": "Tests final-chapter retrieval. The title is 'Aashiq Harjaai'.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 4,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0824",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "Manu 2.230 — what is the rule about the mother, father, and teacher?",
+    "rationale": "Tests precise verse retrieval. The verse on parents-and-teacher veneration.",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0827",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "What does Manu 2.87 say about japa (mantra-recitation)?",
+    "rationale": "Tests precise verse retrieval on mantra-practice.",
+    "expected_works": [
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0831",
+    "category": "specific-obscure",
+    "difficulty": "hard",
+    "prompt": "What does Visnu Smriti chapter 14 specifically prescribe?",
+    "rationale": "Tests precise mid-chapter retrieval inside Visnu.",
+    "expected_works": [
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0854",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "When does 'love' fail as a translation for 'ishq'? Pull three couplets where the strict English-romantic sense of love would hide what the Urdu actually says.",
+    "rationale": "Tests translation-failure cases for ishq.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0857",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "Three Urdu words for sorrow — gham, ranj, azaab — sit at different temperatures. Find one couplet for each where the choice of word matters and would not survive substitution for either of the others.",
+    "rationale": "Cross-poet word-temperature analysis on the gham/ranj/azaab triad.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0860",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "Iqbal often reaches for a Persian construction where Urdu would suffice. Find three places in Bang-e-Dara where this choice is doing real work — what does the Persian carry that the Urdu would not?",
+    "rationale": "Tests Iqbal's Persian-Urdu register-switching on three concrete cases.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0864",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "What does the Urdu word 'naseeb' carry that English 'fate' loses? Pull a couplet where naseeb is acting on someone, and say whether English 'fate' would let the same agency through.",
+    "rationale": "Word-level translation problem anchored on agency-of-naseeb.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0867",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "'Tirtha' (crossing-place, pilgrimage) is a Sanskrit word that travels into the Old Javanese tattva texts. Pin a passage where it is used, and decide whether the geographical-pilgrimage sense survived the journey or whether tirtha now reads as something more abstract.",
+    "rationale": "Cross-language semantic-shift analysis on tirtha.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-vrhaspatitattva-b60b28"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0871",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "In San Hyan Kamahayanikan, Sanskrit doctrinal terms appear inside Old Javanese sentences without translation. Pin three such terms and ask: are they kept untranslated because they have no Old Javanese equivalent, or because the Sanskrit form carries authority the Javanese would dilute?",
+    "rationale": "Cross-language doctrinal-loanword analysis on a specific text.",
+    "expected_works": [
+      "unknown-san-hyan-kamahayanikan-2a0c19"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0874",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "Dunoyer's 'industrie' includes effort, application, productive activity in general — broader than English 'industry'. Find a passage where industrie clearly extends past industrial activity, and say what Dunoyer's argument would lose if industry were the only English word available.",
+    "rationale": "Untranslatability of Dunoyer's 'industrie' on a specific passage.",
+    "expected_works": [
+      "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0878",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "When the smritis use 'samskara', they mean both rite-of-passage and the inner mark a rite leaves on a person. Find a passage where both meanings are active at once, and say what English 'rite' or 'sacrament' would lose.",
+    "rationale": "Tests samskara's double-meaning on a specific passage.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0881",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "A 'beag-gyfa' is a ring-giver — a lord whose authority is a stream of gifts. English 'lord' is silent on the gift relation. Pin a line in the Old English Elegies where 'beag-gyfa' or a near-equivalent compound appears, and ask: would English 'lord' obscure the social structure being invoked?",
+    "rationale": "Within-language compound analysis on Anglo-Saxon gift-economy terms.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0884",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "Rajadharma compresses the king's role as just-administrator-and-protector into a single Sanskrit compound. Pin a Manu verse where rajadharma is the operative term, and decide whether English 'duties of the king' captures it or smuggles assumptions in.",
+    "rationale": "Cross-language compound analysis on rajadharma.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6",
+      "unknown-visnu-smrti-27f0d8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0888",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "'Jigar' in Urdu is the liver — the seat of courage and capacity. English 'guts' is closer than 'courage' but loses the organ-specificity. Pull a couplet where jigar's anatomical location matters for the figure to land.",
+    "rationale": "Cross-language body-metaphor analysis on jigar.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0891",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "Cynewulf is producing Latin Christian content in Old English alliterative line. Find a moment in Elene where the metre's pressure changes the theology — where the English form is doing something the Latin source could not.",
+    "rationale": "Cross-language formal-translation analysis.",
+    "expected_works": [
+      "cynewulf-elene-d2d132",
+      "cynewulf-andreas-07b573",
+      "cynewulf-juliana-9a2157"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0895",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "'Qaum' moves between people, community, and nation across Iqbal's three Bang-e-Dara volumes. Trace the shifts: where is qaum a religious community, where is it a political nation, where is it left ambiguous?",
+    "rationale": "Within-author cross-volume polysemy tracking on qaum.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0898",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "Punya and paap form a moral accounting in the smriti tradition that English 'merit' and 'sin' read as too transactional. Pull a smriti rule where the two terms are explicitly weighed, and explain what is being weighed against what.",
+    "rationale": "Cross-language paired-vocabulary analysis on punya/paap.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0902",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "'Liberté' in Comte and 'aazadi' in Iqbal both name freedom, but the freedom each is fighting for is different. Pull the strongest formulation on each side, and say what each speaker would consider an unmet condition for it.",
+    "rationale": "Cross-language freedom-vocabulary comparison anchored on unmet-condition.",
+    "expected_works": [
+      "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0905",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "'Naala' carries the sound of complaint — it is closer to 'wail' than to 'lament'. Pull a couplet where the audible quality of the naala matters, and say what English would have to add to recover the sonic dimension.",
+    "rationale": "Cross-language sound-word analysis on naala.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0908",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "Cynewulf's 'wraec' carries moral-judgment weight — exile is not just being elsewhere, it is being out-of-favour. Pin the line in his poems where the judgment colour of wraec is most visible, and contrast with English 'exile' as a neutral geographical term.",
+    "rationale": "Within-language moral-overtone analysis on wraec.",
+    "expected_works": [
+      "cynewulf-andreas-07b573",
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0912",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "Old English alliterative metre is built around the caesura. Find a line in Cynewulf where the caesura falls in an unexpected place, and say what the unusual placement is doing rhetorically — emphasis, suspension, theological pause?",
+    "rationale": "Within-language metrical analysis anchored on a specific unusual caesura.",
+    "expected_works": [
+      "cynewulf-elene-d2d132",
+      "cynewulf-andreas-07b573"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0915",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "In The Wanderer, the half-line break sometimes does theological work — a pause between human grief and divine perspective. Find one such moment and say how the break signals the shift.",
+    "rationale": "Within-language form-rhetoric analysis anchored on a specific theological pause.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0919",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "How does the Urdu word 'shaair' (poet) carry weight Iqbal makes thematic in his poem 'Shair'?",
+    "rationale": "Within-author title-vocabulary analysis.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0922",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "How does the Urdu 'shab-e-furqat' (night of separation) compress mood, time, and circumstance in a way English cannot quite reproduce?",
+    "rationale": "Within-language compound-emotion vocabulary analysis.",
+    "expected_works": [
+      "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 5,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0926",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "Compare the Old English 'haele' (man, hero, warrior) with the Sanskrit 'vira' (hero, warrior). Both name a heroic male figure.",
+    "rationale": "Cross-language heroic-vocabulary comparison.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0929",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "How does the term 'smriti' (literally 'remembered', the corpus) signal authority differently from 'sruti' (revealed)? Pin where the smritis themselves discuss this distinction.",
+    "rationale": "Within-language meta-textual vocabulary.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 5,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 24,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0932",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "How does Dunoyer's French handle 'la liberté' as a collective noun (the freedom of an industry) versus an individual capacity?",
+    "rationale": "Within-author vocabulary-disambiguation analysis.",
+    "expected_works": [
+      "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 23,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0936",
+    "category": "multilingual",
+    "difficulty": "medium",
+    "prompt": "How does the Urdu 'jalwa' (manifestation, splendour, theophany) function for Iqbal as a Sufi technical term?",
+    "rationale": "Within-author technical-vocabulary analysis.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-2-9bc58c"
+    ],
+    "quality": {
+      "groundedness": 5,
+      "specificity": 4,
+      "tool_utility": 4,
+      "insight_value": 5,
+      "naturalness": 4,
+      "total": 22,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0953",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "When the Wanderer speaks of Wyrd as wholly steadfast, what kind of agency is he conceding? Bring it next to the Manusmriti's account of karmic causation in book 12 — is the Wanderer's resignation closer to Manu's account of karma, or further from it than first appears?",
+    "rationale": "Cross-tradition fate-vs-karma comparison framed as a question rather than a generic compare.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0956",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Iqbal philosophises grief in 'Falsafa-e-Gham'. The Old English 'Resignation' surrenders to it. Manu's book 12 sets it inside karma. Pick one stanza from each that shows how the speaker addresses their own grief — and rank them by which speaker is most reconciled to it.",
+    "rationale": "Three-tradition affect comparison anchored on a specific stanza from each plus a comparative judgment.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "unknown-old-english-elegies-d5fe9e",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0959",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Iqbal's 'Sair-e-Falak' walks the speaker through the heavens. The closing of Elene surveys what comes at the end of time. Pin the moment in each where the surveyor's posture toward the cosmic order is most clearly readable — is either of them more frightened, more sure, more curious?",
+    "rationale": "Cross-tradition cosmic-survey comparison anchored on the surveyor's posture.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "cynewulf-elene-d2d132"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0962",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "'Saqaliya' mourns Muslim Sicily; 'The Ruin' contemplates a stone fallen from before living memory. Take the most charged moment in each and ask which speaker is permitted to imagine the ruin's restoration, and which is not.",
+    "rationale": "Anchored on a specific 'permission-to-imagine-restoration' axis rather than generic grief comparison.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "unknown-old-english-elegies-d5fe9e"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0965",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Elene narrates the recovery of an object the empire had lost; Iqbal's tomb-inscription for Sayyid Ahmed Khan fixes a man into history before he can be lost. Take the operative line in each — Cynewulf's at the moment Helena uncovers the cross, Iqbal's at the moment of inscription — and say which act takes more cultural authority for granted.",
+    "rationale": "Anchored on a specific cultural-authority axis.",
+    "expected_works": [
+      "cynewulf-elene-d2d132",
+      "allama-iqbal-bang-e-dara-part-1-55b25c"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0969",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Fichte writes that thinking is the one thing a prince cannot expropriate. Slokantara, in its gnomic register, is more interested in keeping bad thinking off the tongue. Pull the strongest line from each, and say whether they could agree on what thinking is for.",
+    "rationale": "Cross-tradition thought-freedom comparison anchored on what-thinking-is-for.",
+    "expected_works": [
+      "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "unknown-slokantara-d7a628"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0972",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Comte argues that property is what liberty does in the world; Yajnavalkya's book 2 sets out procedure for cases where property is disputed. Pull the foundational claim on Comte's side and a representative procedural rule from Yajnavalkya. Does the smriti procedure presuppose anything Comte would call liberty?",
+    "rationale": "Cross-tradition property comparison forced down to a specific procedural-vs-foundational axis.",
+    "expected_works": [
+      "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "unknown-yajnavalkya-smrti-cb88d6"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0975",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Both Manu's prayascitta passages and Juliana's closing meditation on penance treat sin as something that can be answered for. Where does Manu prescribe an outward act and Juliana prescribe an inward turn — or do they share more than that contrast suggests?",
+    "rationale": "Forces a specific outward-act vs inward-turn axis rather than a generic compare-and-contrast.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "cynewulf-juliana-9a2157"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0978",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Andreas converts Mermedonia by Christ's miraculous force. Kunjarakarna converts because Vairocana shows him what he is. Take the conversion moment from each text and ask: is conversion in either text something the converted is made to do, or something they finally see?",
+    "rationale": "Cross-tradition conversion-narrative comparison forced to made-to-do vs finally-see axis.",
+    "expected_works": [
+      "unknown-kunjarakarna-dharmakathana-894f4a",
+      "cynewulf-andreas-07b573"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0981",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Pick one gnomic move that recurs across all three: a maxim about the right use of speech. Trace it in Maxims I (in the Old English Elegies file), in Slokantara, and in Manu's closing book — does each tradition justify the prescription on the same grounds?",
+    "rationale": "Three-tradition gnomic comparison anchored on a single shared topos (right speech) rather than a generic maxim-form question.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "unknown-slokantara-d7a628",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0985",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Iqbal's 'Wataniyat' rejects territorial nationalism as an alien import. Where in Comte's Traité de Législation does the territorial frame quietly do similar work — assuming it as natural? Pull the unexamined assumption and the place Iqbal's poem most clearly contradicts it.",
+    "rationale": "Cross-tradition pairing forced to look at the unexamined assumption Iqbal targets.",
+    "expected_works": [
+      "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "charles-comte-traite-de-legislation-vol-i-7e62a2"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0988",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Manu's book 1 places the present inside a long descending yuga-cycle. Cynewulf's poems place the present on a single arc from creation to judgment. Pull the time-claim from each. Where does Cynewulf's salvation history contain something like a yuga, and where is it irreducibly linear?",
+    "rationale": "Cross-tradition time-architecture comparison forced to look for partial overlap.",
+    "expected_works": [
+      "unknown-manusmrti-347b76",
+      "cynewulf-elene-d2d132"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0991",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "Helena in Elene acts on imperial errand and prevails. The smriti pativrata is a wife who orients her life around her husband's. Pin the line in Cynewulf where Helena's authority is most independent, and the line in Manu or Yajnavalkya where the pativrata's authority is most circumscribed. Are these two ideals describing women, or describing what is owed to women?",
+    "rationale": "Cross-tradition female-ideal comparison reframed as a who-this-describes question.",
+    "expected_works": [
+      "cynewulf-elene-d2d132",
+      "unknown-manusmrti-347b76"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  },
+  {
+    "id": "q-0994",
+    "category": "cross-cultural",
+    "difficulty": "hard",
+    "prompt": "The Old English elegies grieve a warband and a hall. Iqbal grieves a Muslim civilisational arc. Pull the strongest single image on each side. Whose grief is more recoverable — could either speaker imagine what would count as comfort?",
+    "rationale": "Cross-tradition grief-of-empire comparison forced to a comfort-availability question.",
+    "expected_works": [
+      "unknown-old-english-elegies-d5fe9e",
+      "allama-iqbal-bang-e-dara-part-3-cc61e8"
+    ],
+    "quality": {
+      "groundedness": 4,
+      "specificity": 4,
+      "tool_utility": 5,
+      "insight_value": 4,
+      "naturalness": 4,
+      "total": 21,
+      "included": true
+    }
+  }
+]

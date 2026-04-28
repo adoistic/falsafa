@@ -1,0 +1,19 @@
+```json
+{
+  "answer": "In 'Hindustani Bachon Ka Qaumi Geet' (chapter 26 of Bang-E-Dara Part 1, work slug: allama-iqbal-bang-e-dara-part-1-55b25c), the children's oath is the refrain repeated after each stanza: 'Mera watan wohi hai, mera watan wohi hai' (میرا وطن وہی ہے، میرا وطن وہی ہے) — 'This is my homeland, this is my homeland.' The poem enumerates India's historical and spiritual glory (the land of Chishti, Nanak, the Tatars, the Greeks, Persia, and Noah), and after each stanza the children pledge this declaration of belonging to that homeland.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Hindustani Bachon Qaumi Geet"}, "result_summary": "0 results — English search did not match Urdu title"},
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 works: Bang-E-Dara Part 1, Part 2, Part 3"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "Found chapter 26 titled 'Hindustani Bachon Ka Qaumi Geet'"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 26, "variant": "translation"}, "result_summary": "English translation confirmed refrain: 'This is my homeland, this land of mine'"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 26, "variant": "original"}, "result_summary": "Urdu original confirmed refrain: میرا وطن وہی ہے، میرا وطن وہی ہے"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 26, "variant": "transliteration"}, "result_summary": "Transliteration confirmed refrain: 'Mera watan wohi hai, mera watan wohi hai'"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 26, "paragraph_id": "p-8db224"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 26, "paragraph_id": "p-a9f72d"}
+  ]
+}
+```
+
+The children's oath in the poem is the refrain **"Mera watan wohi hai, mera watan wohi hai"** (میرا وطن وہی ہے، میرا وطن وہی ہے) — "This is my homeland, this is my homeland" — repeated after each of the four stanzas that recount India's historical and spiritual greatness.

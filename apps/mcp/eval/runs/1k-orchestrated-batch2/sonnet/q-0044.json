@@ -1,0 +1,45 @@
+{
+  "answer": "In 'Insaan' (chapter 14 of Bang-e-Dara Part 2, work slug: allama-iqbal-bang-e-dara-part-2-9bc58c), Iqbal portrays the human being as a strange, self-concealed enigma — a creature whose own essence is hidden from himself. Man is restless with an insatiable thirst for knowledge, yet life's mystery refuses to unfold; his beginning and end are lost in bewilderment. The poem then contrasts Man's condition against all of nature: the river flows to the ocean, the wind carries the cloud, the stars are fixed to their celestial fate, the sun rises and sets in its ordained rhythm — every thing in creation finds contentment and joy in its own manifestation, drunk on the wine of its own purpose. Man alone is the exception. He shares his sorrow with no one, and the poem ends with the stark verdict: 'How bitter is the existence of Man!' The central claim is thus that Man is uniquely alienated — set apart from the rest of creation not by glory but by an unrequited longing and a solitude that nothing in the natural order can relieve.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Iqbal"
+      },
+      "result_summary": "Found three Bang-e-Dara works; identified slug allama-iqbal-bang-e-dara-part-2-9bc58c for Part 2"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Found 28 chapters; chapter 14 is titled 'Insaan'"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Retrieved full English translation of 'Insaan' — 11 paragraphs depicting Man as an enigma hidden from himself, restless for knowledge, and uniquely sorrowful among all of creation"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-d7ec8e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-3a62d8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-62d764"
+    }
+  ]
+}

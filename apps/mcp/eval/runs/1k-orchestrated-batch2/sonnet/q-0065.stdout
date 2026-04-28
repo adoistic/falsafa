@@ -1,0 +1,21 @@
+```json
+{
+  "answer": "Iqbal's 'Wataniyat' (Nationalism) is found in Bang-E-Dara Part 3 (work slug: allama-iqbal-bang-e-dara-part-3-cc61e8), chapter 25. The poem is a direct critique of territorial nationalism as a false idol of modernity. Key themes:\n\n- Nationalism is called the greatest of the 'new gods', one whose robe is 'Faith's own final desecration'.\n- It is an idol 'forged by this new age's philosophy' that 'lays waste the Prophet's house of faith and piety'.\n- Iqbal urges Muslims to reject it: 'grind this hollow idol into dust and night'.\n- He draws a sharp contrast: in the discourse of the state, the Nation is 'but land'; in the Prophet's teaching, 'Homeland is by God's command'.\n- He condemns territorial nationalism for sowing rivalry among peoples, enabling conquest under the guise of trade, and — crucially — tearing apart 'God's own creation' and shearing 'the roots of Islam's brotherhood'.\n\nThe poem is available in translation (paragraph IDs: p-3b9de1, p-79b1e9, p-2737d5, p-a723b2, p-97937b).",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Wataniyat nationalism"}, "result_summary": "0 results — English search did not match Urdu title"},
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 Iqbal works: Bang-e-Dara Parts 1, 2, and 3"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "44 chapters listed; no Wataniyat"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"}, "result_summary": "28 chapters listed; no Wataniyat"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "28 chapters; chapter 25 is titled 'Wataniyat'"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 25, "variant": "translation"}, "result_summary": "Full English translation retrieved; poem criticizes territorial nationalism as a false idol that destroys Islamic brotherhood"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 25, "paragraph_id": "p-79b1e9"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 25, "paragraph_id": "p-2737d5"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 25, "paragraph_id": "p-a723b2"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 25, "paragraph_id": "p-97937b"}
+  ]
+}
+```
+
+**Wataniyat** is chapter 25 of Bang-E-Dara Part 3 (`allama-iqbal-bang-e-dara-part-3-cc61e8`). It is Iqbal's sharpest attack on territorial nationalism, which he calls the greatest of the new false idols: *"Of all these newer gods, the greatest is the Nation; / The robe it wears is Faith's own final desecration."* He argues it was forged by modern philosophy to destroy the Prophet's universal community, contrasts the state's definition of "nation" as mere land against the Quranic/prophetic concept of homeland as divine command, and closes by indicting nationalism for sowing rivalry, enabling conquest, and shearing "the roots of Islam's brotherhood."

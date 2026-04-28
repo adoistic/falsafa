@@ -1,0 +1,44 @@
+{
+  "answer": "The ghazal opens with the statement that the heart's capacity to dwell in sorrow (gham khaane) is more than enough — specifically: 'This weak, failed heart's capacity for pain is more than enough; / The grief that rose-red wine is on the wane is more than enough.' In other words, the heart (dil-e-nakaam — the defeated/failed heart) is portrayed as being so steeped and sunken in grief (boda/boodaa = immersed, drowned) that its very ability to endure and consume sorrow is described as abundant, even excessive. The opening couplet thus frames the heart as a vessel defined by its immersion in sorrow, with the melancholy observation that even the solace of wine is fading — and yet the heart's grief is still 'more than enough.' Found in Diwan-E-Ghalib, chapter 50 (mirza-ghalib-diwan-e-ghalib-74ed4c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Ghalib"
+      },
+      "result_summary": "Found one work: mirza-ghalib-diwan-e-ghalib-74ed4c (Diwan-E-Ghalib, 239 chapters)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Chapter 50 slug is '50-gham-khaane-mein-boda-dil-e-nakaam-bahut-hai' — matches the query ghazal"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "variant": "translation"
+      },
+      "result_summary": "Opening couplet: 'This weak, failed heart's capacity for pain is more than enough; / The grief that rose-red wine is on the wane is more than enough.'"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "variant": "original"
+      },
+      "result_summary": "Confirmed Urdu original: 'غم کھانے میں بودا دل_ناکام بہت ہے / یہ رنج کہ کم ہے مئے_گلفام بہت ہے'"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 50,
+      "paragraph_id": "p-b39b6a"
+    }
+  ]
+}

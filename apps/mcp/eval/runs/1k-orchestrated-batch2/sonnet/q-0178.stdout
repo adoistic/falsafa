@@ -1,0 +1,22 @@
+```json
+{
+  "answer": "The ten bhumis of the bodhisattva are not described anywhere in Kalpabuddha (unknown-kalpabuddha-d760dc). The work's six chapters deal exclusively with the Pañcatathāgata (Five Buddhas) — their colors, mantras, mudrās, devīs, implements, and correspondences to bodily organs. There is no passage treating the bodhisattva stages (bhumis) in this text.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Found Kalpabuddha with slug unknown-kalpabuddha-d760dc, 6 chapters, Kawi language"},
+    {"name": "search_corpus", "args": {"query": "ten bhumis bodhisattva"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "bhumi bodhisattva"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "ten stages bodhisattva"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "dasabhumi"}, "result_summary": "0 results"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-kalpabuddha-d760dc"}, "result_summary": "6 chapters, all untitled (Chapter 1–6)"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 1}, "result_summary": "Describes Lord Vairocana / Pañcatathāgata — no bhumis"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 2}, "result_summary": "Describes Lord Akṣobhya — no bhumis"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 3}, "result_summary": "Describes Lord Ratnasambhava — no bhumis"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 4}, "result_summary": "Describes Lord Amitābha — no bhumis"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 5}, "result_summary": "Describes Lord Amoghasiddhi — no bhumis"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 6}, "result_summary": "Describes the five wisdoms (pañcajñāna) and colophon — no bhumis"}
+  ],
+  "citations": []
+}
+```
+
+The ten bhumis of the bodhisattva are **not described in Kalpabuddha**. After reading all six chapters of the work (`unknown-kalpabuddha-d760dc`), the text is entirely devoted to the Five Buddhas (Pañcatathāgata) — covering their attributes, mantras, mudrās, devīs, and correspondences to bodily organs. The bodhisattva stages (bhumis) do not appear anywhere in this text.

@@ -1,0 +1,52 @@
+{
+  "answer": "In Yājñavalkya Smṛti chapter 2 (work slug: unknown-yajnavalkya-smrti-cb88d6), the procedure for a witness who has lied in court is given at verses Yj_2.81–2.82. Yj_2.81 (paragraph p-dbd716) states: 'False witnesses should be punished separately with a fine double the amount in dispute; a Brāhmaṇa, however, is to be banished.' Yj_2.82 (paragraph p-71cfc7) adds: 'He who, having given testimony, later denies it to others, being overcome by darkness, shall be made to pay a fine eight times the amount; a Brāhmaṇa, however, should be banished.' An exception is given at Yj_2.83: where giving true testimony would certainly cause the death of a member of any varṇa, false testimony is permitted, and purification requires the twice-born to offer a sacrificial porridge to Sarasvatī.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "witness lied court"
+      },
+      "result_summary": "0 results"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Found 1 work: unknown-yajnavalkya-smrti-cb88d6"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "3 chapters; chapter 2 is 'On Legal Procedure'"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Full chapter retrieved; searched for false witness content; found Yj_2.81 (p-dbd716) and Yj_2.82 (p-71cfc7) on punishment of false witnesses, and Yj_2.83 (p-5cd0fa) on the exception and purification"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-dbd716"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-71cfc7"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-5cd0fa"
+    }
+  ]
+}

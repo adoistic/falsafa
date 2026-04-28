@@ -1,0 +1,59 @@
+{
+  "answer": "In Iqbal's 'Sayed Ki Loh-e-Turbat' (The Epitaph of the Sayed), the gravestone is said to be 'enraptured by my speech,' and the reader is invited to read what its 'carved inscriptions teach.' The inscribed content consists of a series of moral and spiritual admonitions attributed to the deceased Sayed: (1) Do not teach your own people to cast the world aside; (2) Do not open your tongue for the cause of warring creeds, for sectarian division breeds a hidden tumult of the Final Day; (3) Let your writings forge unity and guard your speech lest a single heart feels woe; (4) In this new age, do not stir old divisive tales; (5) If you are a statesman, courage is the staff of statecraft; (6) To shrink from speaking your true mind is unworthy — if your intent is noble, fear nothing; (7) A true Believer's heart is free of hypocrisy and fear; (8) If you hold a pen and a truth-reflecting heart like Jamshid's Cup, keep your tongue pure as a pupil of God's Grace; and (9) Awaken the slumbering with poetry and set the harvest of falsehood alight with your voice. Found in Bang-E-Dara Part 1, chapter 38.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Loh-e-Turbat gravestone"
+      },
+      "result_summary": "0 results"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sayed turbat inscription"
+      },
+      "result_summary": "0 results"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Iqbal"
+      },
+      "result_summary": "Found 3 Bang-e-Dara parts by Allama Iqbal"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Found chapter 38 titled 'Sayed Ki Loh-e-Turbat'"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 38,
+        "variant": "translation"
+      },
+      "result_summary": "Full poem retrieved — gravestone inscribes nine moral/spiritual admonitions to poets, statesmen, and believers"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-f55cb3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-7a6aba"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-2e3845"
+    }
+  ]
+}

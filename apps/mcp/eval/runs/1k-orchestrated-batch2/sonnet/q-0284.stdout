@@ -1,0 +1,27 @@
+```json
+{
+  "answer": "Both works are present in the corpus. Cynewulf's Andreas (cynewulf-andreas-07b573, ch. 1) is a long Old English heroic-Christian epic (~12,387 words, 83 paragraphs) in which the apostle Andrew is divinely commanded to sail to the cannibal land of Mermedonia to rescue the captive Matthew. Iqbal's 'Ek Haji Madinay ke Raastay Mein' (allama-iqbal-bang-e-dara-part-3-cc61e8, ch. 6) is a short Urdu lyric (~180 words, 9 stanzas) in which a pilgrim, his caravan plundered and companions killed by bandits, debates whether to press on to Medina (Yathrib) or turn back to Mecca.\n\nAs journey-of-faith poems they share a core structure: a sacred destination, lethal danger on the road, and the spiritual imperative to proceed despite that danger. In both, death encountered on the journey becomes a site of meaning rather than mere loss — in Andreas, Matthew's imprisonment and Andrew's own later torments prove their fidelity; in Iqbal's poem, the young man from Bukhara who is killed by the bandit's dagger experiences his death as a new life, seeing the dagger as the crescent of Eid.\n\nKey contrasts: (1) Scale and form — Andreas is an epic deploying Germanic warrior-hero diction ('twelve true thanes', 'battle-press', 'bone-house'), while Iqbal's poem is a compact ghazal-influenced lyric using Sufi categories of ishq (passion/love) vs. aql (calculating reason); (2) Agent of the journey — Andrew is sent by God on a rescue mission (apostolic, outward-directed), while Iqbal's pilgrim is drawn by personal devotion toward the Prophet's tomb (mystical, inward-directed); (3) Doubt and its resolution — Andrew's doubt is practical ('I don't know the sea-road'), resolved by miraculous divine transport; the pilgrim's doubt is existential (Fear vs. Passion), resolved by the Sufi insight that the bold soul transcends calculating reason; (4) Cross-cultural register — Cynewulf translates Christian apostolic narrative into the idiom of Anglo-Saxon heroic poetry, while Iqbal frames Islamic pilgrimage devotion through the inherited vocabulary of Urdu-Persian Sufi poetry (Hejaz, Hijra, ishq). Both poems therefore perform a kind of cultural translation: the sacred journey is made legible through the indigenous literary idiom of each tradition.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "cynewulf"}, "result_summary": "Found 3 Cynewulf works including cynewulf-andreas-07b573"},
+    {"name": "list_works", "args": {"author": "iqbal"}, "result_summary": "Found 3 Bang-E-Dara parts by Allama Iqbal"},
+    {"name": "search_corpus", "args": {"query": "haji madinay raastay"}, "result_summary": "0 results (search is English-only, Urdu titles not indexed)"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "44 chapters, no 'haji madinay' poem"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"}, "result_summary": "28 chapters, no match"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "Found ch. 6: 'Ek haji Madinay ke raastay mein'"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 6, "variant": "translation"}, "result_summary": "9 stanzas: pilgrim's caravan plundered, companions slain, debate between Fear and Passion about pressing on to Yathrib/Medina; youth from Bukhara dies joyfully; the soul is bold and unafraid"},
+    {"name": "get_passage", "args": {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 10}}, "result_summary": "Opening of Andreas: twelve thanes, Matthew imprisoned by Mermedonians, God commands Andrew to journey across sea to rescue him; Andrew's doubt ('I don't know the sea-road') and God's reassurance"},
+    {"name": "compare_works", "args": {"work_slug_a": "cynewulf-andreas-07b573", "work_slug_b": "allama-iqbal-bang-e-dara-part-3-cc61e8", "topic": "journey of faith"}, "result_summary": "Metadata pointers returned; comparison performed by reading both texts directly"}
+  ],
+  "citations": [
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-868413"},
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-4d1e78"},
+    {"work_slug": "cynewulf-andreas-07b573", "chapter_number": 1, "paragraph_id": "p-944879"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 6, "paragraph_id": "p-c8a255"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 6, "paragraph_id": "p-c5238d"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 6, "paragraph_id": "p-f880d8"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 6, "paragraph_id": "p-3d6010"}
+  ]
+}
+```
+
+Both works located and compared. The Iqbal poem is Bang-E-Dara Part 3, ch. 6 (`allama-iqbal-bang-e-dara-part-3-cc61e8`); Andreas is a single-chapter work (`cynewulf-andreas-07b573`, ch. 1). The question appears to be an open comparative prompt — the answer traces shared structure (sacred destination, lethal danger, spiritual imperative to proceed, death as meaningful) against sharp contrasts in scale, form, agency, type of doubt, and cultural idiom.

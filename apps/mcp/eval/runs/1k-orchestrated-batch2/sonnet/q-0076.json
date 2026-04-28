@@ -1,0 +1,50 @@
+{
+  "answer": "In chapter 13 of Traité de la propriété Vol I ('Influence du déboisement des montagnes sur les fleuves et les rivières'), Comte makes a political-economic argument rooted in property rights theory: because rivers are the common property of all populations in a river basin, upland proprietors (those who own mountain plateaus and slopes) cannot exercise their property rights in ways that harm the shared resource and the downstream private properties that depend on it.\n\nThe core argument runs as follows: forests on mountain slopes regulate the infiltration of rainwater, maintaining rivers at steady levels; when those forests are cleared, rainwater either evaporates or rushes down as torrents, drying up springs, reducing river flow, and causing destructive floods. This means that mountain proprietors who deforest their land impose a large negative externality on lower-basin populations — destroying their access to water, their agricultural productivity, and the navigability of rivers. Comte supports this with empirical evidence from Trinidad, Martinique, Saint-Domingue (Haiti), Mauritius, the United States (Volney on Kentucky), and France (the Pyrenees via Arthur Young, the Jura/Doubs river, and French departmental statistics), and cites Humboldt's finding that deforestation 'prepares two calamities at once for future generations: a lack of fuel and a lack of water.'\n\nThe political-economic conclusion is that individual private property rights on mountain land are not absolute; they are bounded by the obligation not to injure the common river property and the downstream private properties of other citizens. This provides a liberal property-rights justification for state regulation of mountain land use (forestry laws), framed not as a restriction on property but as a protection of others' property — making it an early systematic argument for environmental regulation of land use on externality grounds.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Comte"
+      },
+      "result_summary": "Found 6 works by Charles Comte including 'charles-comte-traite-de-la-propriete-vol-i-2c7a99' (Traité de la propriété Vol I, 1834)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Chapter 13 confirmed: 'Influence du déboisement des montagnes sur les fleuves et les rivières'"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Full chapter text retrieved (2941 words, 35 paragraphs). Chapter presents property-rights argument against deforestation as harm to common river property and downstream private property, supported by empirical evidence from tropical islands, Americas, and France (Humboldt, Volney, Arthur Young)."
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 13,
+      "paragraph_id": "p-143669"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 13,
+      "paragraph_id": "p-0f23c7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 13,
+      "paragraph_id": "p-79de67"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 13,
+      "paragraph_id": "p-f3260a"
+    }
+  ]
+}

@@ -1,0 +1,59 @@
+{
+  "answer": "The section on prayascittas (penances/expiations) for women in Angirasa Smriti is titled 'Penance for Children, the Elderly, and Women' (verse labels Ang_2,10.20–21), found in chapter 1 of work unknown-angirasa-smrti-2bf9d1. It states: (1) For women who have sinned intentionally, half the penance should be prescribed; a male under twelve years is also liable for half (Ang_2,10.20). (2) For those who have passed eighty years of age, the full penance is reduced by half. For eunuchs, children, the elderly, women, and so on, having considered all of them, one should prescribe one quarter of the penance (Ang_2,10.21). The section is in the second Aṅgiras text (Chapter 10, 'The Account of Penance for Injury'). Additionally, the first Aṅgiras text contains scattered rulings on women's expiations: e.g., a woman who ascends the funeral pyre with a man other than her husband is prescribed a six-year kṛcchra penance (Ang_1.186–1.192), and rules for the prāyaścitta of a multiply-married woman appear at Ang_1.212–1.216.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "angirasa"
+      },
+      "result_summary": "Found one work: unknown-angirasa-smtp-2bf9d1, single chapter"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "One chapter (chapter 1), translation and transliteration variants"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Full chapter retrieved (large); searched body for women/prayascitta mentions"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prayascitta women"
+      },
+      "result_summary": "0 results — fallback search"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "expiation women"
+      },
+      "result_summary": "0 results — searched body text directly instead"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-a3104f"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-83ee9c"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-8ca8c6"
+    }
+  ]
+}

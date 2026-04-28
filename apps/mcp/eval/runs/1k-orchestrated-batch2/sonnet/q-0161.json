@@ -1,0 +1,59 @@
+{
+  "answer": "In the Zurückforderung der Denkfreiheit (work slug: johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde), Fichte argues that freedom of thought (Denkfreiheit) is the inalienable right that princes cannot grant or withdraw. His argument (chapter 2) is threefold: (1) The capacity to think freely is an 'intimate component of personhood' — it is the very condition under which a person can say 'I am, I am an independent being'; (2) Because it is inseparable from personhood, it is inalienable — it could never have been surrendered in the social contract, and therefore society never possessed the right to give it to the prince; (3) 'Free inquiry into every possible object of reflection, in every possible direction, and into the infinite, is undoubtedly a human right. No one may determine its choice, its direction, its limits, but he himself.' He concludes bluntly: 'Prince, you have no right to suppress our freedom of thought' (ch. 2, p-44e1de), and: 'you princes, you have no rights whatsoever over our freedom of thought; no decision over what is true or false; no right to determine the objects of our inquiry, or to set its limits' (ch. 2, p-b2542b).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Fichte"
+      },
+      "result_summary": "Found one work: johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde, 2 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "Two chapters, both with translation variant"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Chapter 1 is preface + opening address; introduces the theme of freedom of thought as a 'palladium of humanity'"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Chapter 2 is the main speech; systematically argues that freedom of thought is inalienable: it is a component of personhood, cannot be surrendered in any social contract, and therefore no prince can possess or grant/withdraw it"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-e62dae"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-19e488"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-44e1de"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-b2542b"
+    }
+  ]
+}

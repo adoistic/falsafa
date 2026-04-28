@@ -1,0 +1,24 @@
+{
+  "answer": "The chapter on the influence of slavery on the manners of the Romans is Chapter 6 of Traité de Législation Vol IV (work slug: charles-comte-traite-de-legislation-vol-iv-bca040). Its French title is 'De l'influence de l'esclavage sur les mœurs des Romains.'",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed all 38 works; found 'Traité de Législation: VOL IV' with slug charles-comte-traite-de-legislation-vol-iv-bca040"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "Chapter 6 title is 'De l'influence de l'esclavage sur les mœurs des Romains.' — directly matches the question"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 6,
+      "paragraph_id": null
+    }
+  ]
+}

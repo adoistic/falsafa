@@ -1,0 +1,16 @@
+```json
+{
+  "answer": "The riddle in 'Vainglory' (Old English Elegies, chapter 12, work slug: unknown-old-english-elegies-d5fe9e) contrasts two kinds of men sitting at the mead-hall feast (symbel / wine-hall). The first is the vainglorious man — he swells with pride when wine warms his breast, boasts, deceives, fires arrows of malice at his betters, and is revealed as 'the fiend's own child, wrapped round in flesh.' The second is the humble man — he keeps peace among his kinsmen, loves even his enemy, and is revealed as 'God's own child, welcome in this world.' The poem frames this as a prophet's teaching/riddle: if you meet such a thane dwelling in the halls, you can know by these signs which kind he is — one bound for the abyss, the other bound for the angels' homeland.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "vainglory mead-hall"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {}, "result_summary": "Found 38 works; identified unknown-old-english-elegies-d5fe9e as the likely container"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e"}, "result_summary": "Chapter 12 is titled 'Vainglory'"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 12, "variant": "translation"}, "result_summary": "Full text confirmed: poem contrasts vainglorious fiend's-child vs. humble God's-child at the symbel/wine-hall"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 12, "paragraph_id": "p-946b37"}
+  ]
+}
+```
+
+**Vainglory** (Old English Elegies, ch. 12) presents a prophet's teaching that doubles as a riddle for identifying men at the mead-hall feast. At the symbel (wine-hall), two thanes are contrasted: the **vainglorious man** who, drunk on wine, boasts, fires arrows of malice at his betters, and deceives — revealed to be "the fiend's own child, wrapped round in flesh"; and the **humble man** who keeps peace, loves his enemy, and ascends to glory — "God's own child." The riddle's resolution: by these signs in the hall, you can know which kind of man you face.

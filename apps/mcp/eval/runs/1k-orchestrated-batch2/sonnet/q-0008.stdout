@@ -1,0 +1,16 @@
+```json
+{
+  "answer": "The line 'Wyrd is wholly steadfast!' appears at the end of the opening paragraph of 'The Wanderer' (chapter 11 of Old English Elegies, work slug: unknown-old-english-elegies-d5fe9e). It concludes the description of the lone-dweller who must stir the rime-cold sea in exile: 'Wyrd is wholly steadfast!'",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "wyrd steadfast"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {}, "result_summary": "Found 38 works; identified 'Old English Elegies' (unknown-old-english-elegies-d5fe9e) as likely containing The Wanderer"},
+    {"name": "list_chapters", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e"}, "result_summary": "Chapter 11 is titled 'The Wanderer'"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "variant": "translation"}, "result_summary": "First paragraph [p-9cca5e] ends with 'Wyrd is wholly steadfast!'"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-old-english-elegies-d5fe9e", "chapter_number": 11, "paragraph_id": "p-9cca5e"}
+  ]
+}
+```
+
+The line **"Wyrd is wholly steadfast!"** closes the opening paragraph of The Wanderer (chapter 11, `unknown-old-english-elegies-d5fe9e`, paragraph `p-9cca5e`). It follows the image of the lone-dweller stirring the rime-cold sea on paths of exile, serving as the poem's first stark declaration of fate's immovability.

@@ -1,0 +1,21 @@
+```json
+{
+  "answer": "Both Nāradasmṛti and Bṛhaspati Smṛti share the procedural rule for administering varna-differentiated oaths to witnesses. Nārada states the full four-varna formula in Nar. 1.181 (work slug: unknown-naradasmrti-7650d2, chapter 1, paragraph p-7eb699): 'One should make a Brāhmaṇa swear by truth, a Kṣatriya by his vehicle and weapons, a Vaiśya by his cattle, seeds, and gold, and a Śūdra by all sins.' Bṛhaspati echoes the opening of this formula in Brh_1,19.32 (work slug: unknown-brhaspati-smrti-0fd070, chapter 1, paragraph p-838264): 'He should make a Brahmin swear by truth, a Kshatriya by his vehicle and weapons.' The first half of the formula — Brahmin by truth, Kshatriya by vehicle and weapons — is verbatim the same in both texts, confirming Bṛhaspati's knowledge of Nārada's rule. However, Bṛhaspati's version reads as a departure on two counts: (1) it truncates the enumeration entirely, dropping the Vaishya and Shudra formulas with no substitution; and (2) it embeds the rule narrowly within the boundary-dispute section (Brh_1.19), preceded by Brh_1,19.31 ('Sworn by their own oaths, they should state the decision on the boundary…'), which reframes the oath as testimony by boundary witnesses/arbiters rather than the general witness-examination procedure Nārada describes. The omission of Vaishya and Shudra appears intentional rather than accidental — boundary disputes in dharmaśāstra typically involve Brahmin and Kshatriya landholders — making this a contextual narrowing of Nārada's universal rule. The result is best characterized as a departure: Bṛhaspati retains the kernel of Nārada's formula but strips it of its generality and silently drops two of the four varnas.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Found both works: Nāradasmṛti (unknown-naradasmrti-7650d2) and Bṛhaspati Smṛti (unknown-brhaspati-smrti-0fd070), both single-chapter Sanskrit texts"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-naradasmrti-7650d2", "chapter_number": 1}, "result_summary": "Full text of Naradasmrti (968 paragraphs). Found Nar. 1.180-181 on varna-differentiated witness oaths, Nar. 20.1/20.3 on ordeal procedure"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1}, "result_summary": "Full text of Brihaspati Smriti (1220 paragraphs). Found Brh_1,19.31-32 with partial varna oath formula; Brh_1,4.12/4.16 on ordeal rules; Brh_1,5.42 on uniform physical oath gesture"},
+    {"name": "grep (internal)", "args": {"query": "oath", "file": "naradasmrti"}, "result_summary": "Located all oath contexts: Nar. 1.180-181 (witness oath), Nar. 1.215/1.218 (oath as third resort when no document/witnesses), Nar. 19.19/19.26 (oath in theft cases), Nar. 20.1-4 (ordeal vs. oath chapter)"},
+    {"name": "grep (internal)", "args": {"query": "oath", "file": "brihaspati"}, "result_summary": "Located oath contexts: Brh_1,4.15 (oaths for forgery/adultery), Brh_1,11.14 (oath for deposit denial), Brh_1,13.7 (oaths in sales disputes), Brh_1,19.31-32 (boundary oath with truncated varna formula), Brh_1,23.25 (oath for clearing suspicion)"},
+    {"name": "grep (internal)", "args": {"query": "brahm kshatriya vaisya sudra + oath/swear", "file": "brihaspati"}, "result_summary": "Confirmed Brh_1,19.32 is the only place Brihaspati has a varna-based oath formula; it only covers Brahmin and Kshatriya, dropping Vaishya and Shudra"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-naradasmrti-7650d2", "chapter_number": 1, "paragraph_id": "p-3ff7ac"},
+    {"work_slug": "unknown-naradasmrti-7650d2", "chapter_number": 1, "paragraph_id": "p-7eb699"},
+    {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1, "paragraph_id": "p-194422"},
+    {"work_slug": "unknown-brhaspati-smrti-0fd070", "chapter_number": 1, "paragraph_id": "p-838264"}
+  ]
+}
+```
+
+**Summary:** Both texts share the varna-differentiated witness oath formula. Nārada (Nar. 1.181) gives the full four-varna rule; Bṛhaspati (Brh_1,19.32) echoes only the top two varnas (Brahmin by truth, Kshatriya by vehicle/weapons) and only within the boundary-dispute section — making it a **departure**: the kernel is preserved but the rule is stripped of generality and two varnas are silently dropped.

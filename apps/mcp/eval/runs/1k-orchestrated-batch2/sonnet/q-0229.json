@@ -1,0 +1,17 @@
+{
+  "answer": "In 'Maah-e-Nau' (Bang-E-Dara Part 1, ch. 30 — slug: allama-iqbal-bang-e-dara-part-1-55b25c), the moon is a purely aesthetic and mysterious cosmic figure, rendered through a cascade of sensory similes (a fragment of the sun's shattered vessel, a silver fish, a stolen earring). The poet addresses it from a position of yearning distance, asking it to 'take me in your tow' — the moon is an unreachable wanderer whose homeland is unknown, and the poet is the supplicant longing to be carried away. The moon is passive, external, and beautiful.\n\nIn 'Chaand' (Bang-E-Dara Part 3, ch. 3 — slug: allama-iqbal-bang-e-dara-part-3-cc61e8), the relationship is entirely reversed. The moon now has its own interiority — a 'scar of deep desire' — and is itself a seeker ('both you and I' are on a quest). Rather than pleading with the moon, Iqbal takes the role of guide: 'Come! I will show its radiant face to you.' The crucial shift is philosophical: the moon seeks the divine among the stars, but Iqbal corrects it — what it seeks is not in the heavens but immanent in earthly life, in rivers, dew, nature, and above all 'within Man's heart.' This reflects Iqbal's mature doctrine of khudi (selfhood): the sacred is discovered inward, not in the celestial. Part 1's moon is a romantic-aesthetic mystery the poet venerates from below; Part 3's moon is a fellow-traveller the poet can teach, with Man's heart as the true destination.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 Bang-E-Dara works (Parts 1, 2, 3)"},
+    {"name": "search_corpus", "args": {"query": "Maah-e-Nau"}, "result_summary": "Confirmed Part 1 ch. 30 is 'Maah-e-Nau'"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "Confirmed Part 3 ch. 3 is 'Chaand' (slug: 03-chaand)"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 30, "variant": "translation"}, "result_summary": "Read Maah-e-Nau: moon depicted through aesthetic similes, poet asks moon to take him along, tone of longing supplication"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 3, "variant": "translation"}, "result_summary": "Read Chaand: moon is a fellow seeker with its own longing, poet becomes guide, divine located in Man's heart not the stars"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 30, "paragraph_id": "p-bb533d"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c", "chapter_number": 30, "paragraph_id": "p-04dbb8"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 3, "paragraph_id": "p-f8a11c"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 3, "paragraph_id": "p-1d3db6"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 3, "paragraph_id": "p-3c6a6b"}
+  ]
+}

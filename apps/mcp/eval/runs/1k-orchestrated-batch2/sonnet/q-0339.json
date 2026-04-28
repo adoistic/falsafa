@@ -1,0 +1,79 @@
+{
+  "answer": "Both texts are in the corpus: Manusmṛti (unknown-manusmrti-347b76, 12 chapters) and Yājñavalkya Smṛti (unknown-yajnavalkya-smrti-cb88d6, 3 chapters).\n\n**Manu's 12-chapter architecture:**\n- Ch. 1: Full cosmogony — creation of the universe from the Self-existent One (primordial darkness → golden egg → elements → cosmic time: yugas, manvantaras, Brahma's day/night cycle → varnas emanating from Brahma's body-parts) + table of contents for the entire work\n- Ch. 2: Sources of dharma + brahmacharya (student life)\n- Chs. 3–5: Householder duties (marriage, livelihood, purification, food, women)\n- Ch. 6: Forest hermit / renunciant\n- Ch. 7: Kingship — king constituted from particles of Indra, Yama, Agni, Varuṇa, etc. (Mn 7.4–7.7), making royal authority a cosmic function\n- Ch. 8: Civil legal procedure\n- Ch. 9: Women, inheritance, criminal law\n- Ch. 10: Mixed castes, duties in distress\n- Ch. 11: Prāyaścitta (penances)\n- Ch. 12: Karma theory, the three guṇas (sattva/rajas/tamas), transmigration, ātmajñāna as the highest good, final return to the Self — closing cosmological/soteriological frame\n\nThe 12-chapter scheme follows the biographical arc of the āśramas (student → householder → hermit → renunciant) embedded within a cosmic frame, bookended by cosmogony (ch. 1) and soteriology (ch. 12).\n\n**Yājñavalkya's three-division architecture:**\n- Ch. 1 (ācāra, 'Chapter on Conduct'): Opens with a hermeneutical list of 14 sources of dharma (Purāṇas, Nyāya, Mīmāṃsā, Dharmaśāstra, and the six Vedic aṅgas — Yj 1.3–1.5), then proceeds through student life, householder duties, and renunciation. No cosmogony.\n- Ch. 2 (vyavahāra, 'Chapter on Legal Procedure'): Opens immediately with the king appointing learned Brāhmaṇas to adjudicate disputes (Yj 2.1–2.3). Covers court composition, lawsuit procedure, debt, property, inheritance, witnesses.\n- Ch. 3 (prāyaścitta, 'Chapter on Expiation'): Begins with ritual impurity (death, birth) → penances for specific sins → karma, guṇas, transmigration → detailed anatomy of the body (bones, veins, organs: Yj 3.75–3.104) → Self-knowledge/yoga (Yj 3.141–3.204) → the two paths (devayana/pitṛyana, Yj 3.193–3.196) → liberation. The text closes with sages praising Yājñavalkya.\n\n**What the simplification gains in clarity:**\n1. Functional tripartition: The three heads — what one must do (ācāra), how disputes are resolved (vyavahāra), how violations are remedied (prāyaścitta) — are logically distinct domains of dharmic life. A practitioner or commentator can navigate directly to the relevant section without wading through the biographical structure.\n2. Autonomous legal domain: Yājñavalkya elevates civil/legal procedure to a full independent division. Manu distributes legal material across chs. 7 (kingship), 8 (civil law), and 9 (women/criminal/family) — three chapters whose overlap makes synthesis difficult. The unity of Yājñavalkya's vyavahāra enabled the Mitākṣarā (Vijñāneśvara's commentary) to become the dominant legal authority for most of India.\n3. Eliminates life-stage sprawl: Collapsing Manu's chs. 2–6 into a single ācāra division strips the biographical-sequential logic (the āśrama arc) and yields a more topic-focused, referee-friendly reference.\n\n**What it costs in cosmological framing:**\n1. No opening cosmogony: Manu ch. 1 derives the binding force of dharma from cosmic creation itself — varnas emerge from Brahma's mouth, arms, thighs, and feet (Mn 1.31); the norms are not merely traditional but ontologically grounded. Yājñavalkya replaces this with a hermeneutical foundation (14 sources), shifting from ontological to epistemological justification. Dharma is authoritative because authoritative texts say so, not because it flows from creation.\n2. Cosmic time lost: Manu's account of the four yugas (Mn 1.81–1.86) explicitly ties dharmic prescription to cosmic era — tapas is paramount in the Kṛta age, knowledge in the Tretā, sacrifice in the Dvāpara, giving in the Kali age. This explains why norms differ across time. Yājñavalkya drops this frame, presenting dharma as essentially ahistorical and non-cyclical.\n3. King demythologized: Manu's king is literally assembled from divine particles (Mn 7.4–7.7) — he is Agni, Yama, Indra, Varuṇa in human form. This cosmological grounding makes royal authority sacred. Yājñavalkya opens vyavahāra with the king as an institutional judge who must control anger and greed (Yj 2.1) — an administrator, not a god. Legal authority is rationalized, not mythologized.\n4. Soteriology deferred, not framing: Manu brackets the entire normative corpus between cosmogony (ch. 1) and ātmajñāna-as-highest-good (ch. 12), so every rule of conduct sits explicitly within a cosmic and soteriological purpose. Yājñavalkya's karma/guṇas/yoga/liberation section (Yj 3.135–3.204) is present but is a terminal sequence within prāyaścitta, not a bookending frame. The cosmos becomes a conclusion rather than a container — visible at the end but absent as architecture.\n\nIn sum: Yājñavalkya's tripartition is a juristic rationalization. It achieves clarity by separating conduct, adjudication, and remediation as distinct functional domains, but it sacrifices the mythic-cosmological scaffolding that gives Manu its sense of dharma as embedded in the very fabric of cosmic creation and cosmic time.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Found both works: Manusmṛti (unknown-manusmrti-347b76, 12 chapters) and Yājñavalkya Smṛti (unknown-yajnavalkya-smrti-cb88d6, 3 chapters)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {"work_slug": "unknown-manusmrti-347b76"},
+      "result_summary": "12 chapters confirmed, all titled generically 'Chapter N'"
+    },
+    {
+      "name": "list_chapters",
+      "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6"},
+      "result_summary": "3 chapters confirmed"
+    },
+    {
+      "name": "read_chapter",
+      "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1},
+      "result_summary": "Full cosmogony: primordial darkness → Self-existent One → golden egg → elements → cosmic time (yugas, manvantaras) → varnas from Brahma's body → summary of work. 119 paragraphs."
+    },
+    {
+      "name": "read_chapter",
+      "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 12},
+      "result_summary": "Closes with karma theory, three guṇas (sattva/rajas/tamas) and their transmigration outcomes, ātmajñāna as highest good, final identification of Self with all deities. 175 paragraphs."
+    },
+    {
+      "name": "read_chapter",
+      "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1},
+      "result_summary": "Titled 'Chapter on Conduct' (ācāra). Opens with sages approaching Yājñavalkya in Mithilā; 14 sources of dharma (Yj 1.3-1.5); no cosmogony. Proceeds to student, householder duties."
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 20}},
+      "result_summary": "Ch.1 confirmed as 'Chapter on Conduct' (ācāra). Yj 1.1: sages ask about dharma of varṇas. Yj 1.3: 14 sources. No cosmogonic opening."
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_range": {"start": 0, "end": 15}},
+      "result_summary": "Ch.2 titled 'Chapter on Legal Procedure' (vyavahāra). Opens with king appointing Brāhmaṇas to adjudicate — institutional, not cosmological."
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 3, "paragraph_range": {"start": 0, "end": 20}},
+      "result_summary": "Ch.3 titled 'Chapter on Expiation' (prāyaścitta). Begins with ritual impurity (death rites, Yj 3.1ff)."
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 3, "paragraph_range": {"start": 185, "end": 218}},
+      "result_summary": "Ch.3 closes with: guṇas/transmigration (Yj 3.182-183), two paths (devayana/pitṛyana, Yj 3.193-3.196), yoga/liberation (Yj 3.198-3.205), sages' praise. Cosmological material concentrated here at the end."
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7, "paragraph_range": {"start": 0, "end": 10}},
+      "result_summary": "Manu ch.7: king created from particles of Indra, Wind, Yama, Sun, Agni, Varuṇa, Moon, Kubera (Mn 7.4); 'he is Agni and he is the Wind, he is the Sun' (Mn 7.7). Cosmic legitimation of kingship."
+    },
+    {
+      "name": "get_passage",
+      "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 3, "paragraph_range": {"start": 140, "end": 170}},
+      "result_summary": "Yj 3.135-3.165: karma/guṇas/transmigration section; sattva/rajas/tamas outcomes; Self and embodiment; yoga as ripening — cosmological material present but embedded in terminal section of expiation chapter."
+    }
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-61df11"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-1d82e4"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-a2767c"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7, "paragraph_id": "p-261c3f"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7, "paragraph_id": "p-7ed7e7"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-47ada8"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-b83e2e"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_id": "p-6c2a95"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 2, "paragraph_id": "p-8459f3"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 3, "paragraph_id": "p-9dbce5"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 3, "paragraph_id": "p-cf730e"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 3, "paragraph_id": "p-eab257"}
+  ]
+}

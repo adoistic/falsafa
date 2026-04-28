@@ -1,0 +1,17 @@
+```json
+{
+  "answer": "In 'Yeh na thi hamari qismat ke visaal-e-yaar hota' (Diwan-e-Ghalib, chapter 204), Ghalib says that meeting the beloved was simply never written in his fate (qismat). The opening couplet establishes the central claim: union (visaal) with the beloved was not destined, and had the poet lived longer, only more waiting would have been his lot—not meeting. The poem deepens this through layered irony: the beloved's promise of meeting was a lie the poet lived on, yet he concedes he would have died from joy had he truly believed it. The beloved's own fragile, inconstant nature already foretold the impossibility of a lasting bond. Meeting is thus framed not as a missed chance or a lover's failure, but as a cosmically foreclosed event—something fate itself withheld. The ghazal treats the beloved's inaccessibility not with bitterness but with a kind of resigned philosophical acceptance, asking what use even the most intense longing is when the very meeting it strains toward was never decreed to happen.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "Ghalib"}, "result_summary": "Found one work: mirza-ghalib-diwan-e-ghalib-74ed4c, 239 chapters"},
+    {"name": "list_chapters", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"}, "result_summary": "Filtered for chapters starting with 'Y'; found chapter 204: 'Yeh na thi hamari qismat ke visaal-e-yaar hota'"},
+    {"name": "read_chapter", "args": {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 204}, "result_summary": "Retrieved full English translation. Opening verse: 'To be with my Beloved was not my fate; Had I lived longer, waiting was my state.'"}
+  ],
+  "citations": [
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 204, "paragraph_id": "p-e43078"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 204, "paragraph_id": "p-56a7ac"},
+    {"work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c", "chapter_number": 204, "paragraph_id": "p-3040da"}
+  ]
+}
+```
+
+The ghazal (chapter 204 of Diwan-e-Ghalib) says meeting the beloved was **fated never to happen**. The title couplet makes this explicit — visaal (union/meeting) was not written in the poet's qismat (fate), and more life would only have meant more waiting. The poem then layers irony on top: the beloved's promise of meeting was a sustaining lie, and even the beloved's inconstant nature was itself a sign that any deep bond was foreclosed. Meeting remains cosmically out of reach — not a circumstantial failure, but a destined impossibility accepted with philosophical resignation.

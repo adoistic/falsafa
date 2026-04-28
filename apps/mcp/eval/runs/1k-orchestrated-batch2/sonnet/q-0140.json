@@ -1,0 +1,45 @@
+{
+  "answer": "In 'Sarguzasht-e-Adam' (The Saga of Man), chapter 37 of Bang-E-Dara Part 1, Iqbal retells Adam's fall as a story of conscious, restless self-exile driven by the thirst for consciousness — not a punishment. Adam (speaking in first person) says his spirit found no rest in Paradise once he chose to drink 'the fiery cup of consciousness.' His restless nature, which loved change and could find no lasting peace, was the true cause of his departure from Eden. The fall is reframed as a purposeful quest: Adam has since journeyed through all of human history and civilisation — expelling idols from temples and erecting new ones, ascending Sinai (Moses), being crucified (Jesus), meditating in the Cave of Hira (Muhammad), singing hymns in India, philosophising in Greece, discovering gravity and Earth's rotation, and harnessing lightning. Yet despite conquering nature and building a world that rivals Paradise itself, the secret of existence remained hidden to him. The poem ends with the revelation that after all his outward wandering, Adam finally opened his inner eye and found God residing within his own heart. Iqbal's retelling thus transforms the fall from a transgression into the necessary precondition for humanity's entire spiritual and intellectual odyssey — a willed embrace of consciousness and striving that ultimately leads back inward to the divine.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sarguzasht-e-Adam"
+      },
+      "result_summary": "Found chapter 37 of Bang-E-Dara Part 1 (allama-iqbal-bang-e-dara-part-1-55b25c)"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Iqbal"
+      },
+      "result_summary": "Confirmed three Iqbal works in corpus; Bang-E-Dara Part 1 is the relevant one"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 37,
+        "variant": "translation"
+      },
+      "result_summary": "Full English translation of Sarguzasht-e-Adam retrieved — 19 verse paragraphs narrating Adam's exile, wandering through civilisations, scientific discoveries, and final inward discovery of God"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-7c0f77"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-3d6971"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-08cb93"
+    }
+  ]
+}

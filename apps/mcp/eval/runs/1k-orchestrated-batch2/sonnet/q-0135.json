@@ -1,0 +1,49 @@
+{
+  "answer": "In the opening verse of 'Hum hain aur shughl-e-ishq-baazi hai' (chapter 20 of Diwan-E-Zauq), the speaker claims that the game of love is his sole occupation — his entire life. The translation renders it as: 'My life is this: the game of love I play.' The title itself encapsulates this claim: 'We are here and the game of love-playing is [our occupation].' The speaker declares that playing love (shughl-e-ishq-baazi) is not merely a pastime but the very substance of his existence.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shughl ishq baazi"
+      },
+      "result_summary": "0 results — Urdu terms not indexed in English search"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sole occupation love"
+      },
+      "result_summary": "0 results"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Zauq"
+      },
+      "result_summary": "Found Diwan-E-Zauq by Sheikh Ibrahim Zauq, slug: sheikh-ibrahim-zauq-diwan-e-zauq-0fa798, 60 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "Chapter 20 titled 'Hum hain aur shughl-e-ishq-baazi hai' matches the poem"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Opening verse: 'My life is this: the game of love I play.' — directly states the speaker's sole occupation"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 20,
+      "paragraph_id": "p-f826e7"
+    }
+  ]
+}

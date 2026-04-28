@@ -1,0 +1,21 @@
+```json
+{
+  "answer": "In 'Falsafa-e-Gham' (The Philosophy of Sorrow), found in Bang-e-Dara Part 3, chapter 7 (work slug: allama-iqbal-bang-e-dara-part-3-cc61e8), Iqbal offers grief not as a lament to be escaped but as an essential, ennobling force intrinsic to existence. The key philosophical propositions are: (1) Grief is constitutive of life itself — life's bubble rides on waves of Sorrow, and without sorrow there is no authentic rose or nightingale; (2) Grief is spiritually illuminating — a scar of sorrow is 'the spirit's light,' and sighs become mirrors that brighten the soul; (3) Grief refines and polishes human nature — the dust of anguish is a polish for the heart; (4) Grief is not mere suffering but 'a silent song of soul, embracing all the music that makes existence whole'; (5) Those who never grieve are shut off from the secret of existence; (6) Grief is Love's immortal form — when the beloved dies, Love does not perish; it lives on in the soul as Sorrow, and through that permanence the departed are never truly gone; (7) Grief, like a river shattering and reforming, is separation that precedes reunion. Taken together, Iqbal's philosophy reframes grief as a vehicle for spiritual depth, the persistence of love beyond death, and ultimate reunion — a transformative force rather than an affliction.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "falsafa gham grief"}, "result_summary": "0 results — search did not surface the poem directly"},
+    {"name": "list_works", "args": {"author": "Iqbal"}, "result_summary": "Found 3 Iqbal works: Bang-e-Dara Parts 1, 2, and 3"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"}, "result_summary": "44 chapters; no Falsafa-e-Gham"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"}, "result_summary": "28 chapters; no Falsafa-e-Gham"},
+    {"name": "list_chapters", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"}, "result_summary": "28 chapters; chapter 7 is 'Falsafa-e-Gham'"},
+    {"name": "read_chapter", "args": {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "variant": "translation"}, "result_summary": "Full English translation retrieved; poem expounds grief as spiritually illuminating, love's immortal continuation, and a force essential to authentic existence"}
+  ],
+  "citations": [
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "paragraph_id": "p-1ba46d"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "paragraph_id": "p-141d8d"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "paragraph_id": "p-e436cc"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "paragraph_id": "p-e693fc"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "paragraph_id": "p-811039"},
+    {"work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8", "chapter_number": 7, "paragraph_id": "p-757295"}
+  ]
+}
+```

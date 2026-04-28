@@ -1,0 +1,49 @@
+{
+  "answer": "Iqbal's 'Sarguzasht-e-Adam' (The Saga/Autobiography of Adam) is found in Bang-E-Dara Part 1, chapter 37 (work slug: allama-iqbal-bang-e-dara-part-1-55b25c). The poem is Adam's first-person account of his restless spiritual and intellectual journey through history — from his expulsion from Paradise after drinking the 'fiery cup of consciousness', to his appearances as idol-smasher and idol-maker, as Moses on Sinai, as Christ on the Cross, as the Prophet in Hira's Cave, as philosopher in India and Greece, as scientist discovering gravity and the rotation of the Earth — and culminating in the confession that despite conquering the world with reason, the secret of existence eluded him, until he finally found God dwelling in his own heart. The poem is available in original Urdu, transliteration, and English translation (translated by Thothica).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Iqbal"
+      },
+      "result_summary": "Found 3 Iqbal works: Bang-E-Dara Parts 1, 2, 3"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sarguzasht-e-Adam"
+      },
+      "result_summary": "4 hits all pointing to Bang-E-Dara Part 1, chapter 37, titled 'Sarguzasht-e-Adam'"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 37,
+        "variant": "translation"
+      },
+      "result_summary": "Full English translation retrieved — 19 paragraphs, Adam's first-person autobiography from Paradise to scientific enlightenment to finding God within"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 37,
+        "variant": "original"
+      },
+      "result_summary": "Full Urdu original retrieved in Nastaliq script"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-7c0f77"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-08cb93"
+    }
+  ]
+}

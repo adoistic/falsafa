@@ -1,0 +1,16 @@
+```json
+{
+  "answer": "In Manusmriti chapter 1 (verse 1.10), Manu explains that the waters are called 'nāraḥ' because they are the sons of Nara. Since these waters (nāraḥ) were the primordial being's first dwelling place (ayana), he is called Nārāyaṇa — 'he whose first abode (ayana) was the waters (nāraḥ)'.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "Narayana etymology"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "Narayana waters"}, "result_summary": "0 results"},
+    {"name": "list_works", "args": {}, "result_summary": "Found work slug 'unknown-manusmrti-347b76' for Manusmṛti"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1}, "result_summary": "Found verse Mn_1.10: 'The waters are called nārāḥ, for the waters are indeed the sons of Nara; and since they were his first dwelling place (ayana), he is therefore remembered as Nārāyaṇa.'"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-0bfa5b"}
+  ]
+}
+```
+
+**Answer:** At Mn_1.10, Manu offers this etymology: the waters are called *nāraḥ* (plural of *nāra*) because they are the sons of Nara (the primordial Male Spirit). Since those waters were his first dwelling place (*ayana*), the Supreme Being is called **Nārāyaṇa** — "he whose first abode was the waters." The name thus parses as *nāra* (waters/sons of Nara) + *ayana* (abode/dwelling place).

@@ -1,0 +1,37 @@
+{
+  "answer": "In 'Dard-e-Ishq' (Bang-e-Dara Part 1, chapter 17), Iqbal characterises the pain of love as a sacred, hidden treasure — 'a pearl of purest water' that must not be revealed to the unworthy or the superficial. The poem urges the anguish of love to conceal itself: to keep its secret within the breast, not express itself through the poet's tongue, the reed-flute, tears, or the nightingale's song. It is presented as fundamentally incompatible with the shallow, rationalist, science-obsessed modern age — an age that ignores it with an 'unperceiving gaze'. Love's pain is portrayed as inward and spiritual, aimed at 'the soul's most secret receptacle', and it is told to withdraw into the heart rather than seek any outward display. The central tension is between the profound, veiled nature of love's anguish and a contemporary world given over to spectacle, criticism, and reason — a world unworthy of its perfume.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Iqbal"
+      },
+      "result_summary": "Found Bang-e-Dara Part 1 with slug allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17
+      },
+      "result_summary": "Confirmed chapter 17 is 'Dard-e-Ishq'; retrieved full English translation"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-6d19d8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-01e01a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-463ab2"
+    }
+  ]
+}

@@ -1,0 +1,3 @@
+claude -p exit=124
+stderr_tail:
+

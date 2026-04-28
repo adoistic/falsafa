@@ -1,0 +1,30 @@
+```json
+{
+  "answer": "Manu's Chapter 1 (Manusmṛti, unknown-manusmrti-347b76, ch. 1) grounds varna cosmogonically: only after 86 verses narrating the Self-existent One's creation of the universe — waters, elements, mind, time, the Vedas, the yugas — does varna appear, and when it does (Mn_1.31), the four orders literally emanate from the divine body: Brahmaṇa from the mouth, Kṣatriya from the arms, Vaiśya from the thighs, Śūdra from the feet. Their duties (Mn_1.87–1.91) and the Brahmaṇa's supremacy (Mn_1.92–1.101) are then defended by the same cosmogonic logic: born from the highest limb, purest because the mouth is the purest part of the cosmic person. This is the Puruṣa-sūkta structure: varna is written into the fabric of creation itself and therefore eternal.\n\nYājñavalkya's Chapter 1 (Yājñavalkya Smṛti, unknown-yajnavalkya-smrti-cb88d6, ch. 1) opens on entirely different ground. The sages ask about the dharma of the varṇas and āśramas, and Yājñavalkya responds by enumerating the fourteen sources of dharmic knowledge — Purāṇas, Nyāya, Mīmāṃsā, Dharmaśāstra, and the Vedas (Yj_1.3) — then listing eighteen earlier Smṛtikāras as authoritative, Manu among them (Yj_1.4–1.5). Dharma is defined epistemologically: revelation, tradition, conduct of the virtuous, pleasing to one's own self, and right resolve (Yj_1.7). Only at Yj_1.10 does varna appear: 'Brāhmaṇa, Kṣatriya, Vaiśya, and Śūdra are the varṇas; the first three are the twice-born' — a flat definitional statement with no cosmic derivation. The text moves immediately into the saṃskāra system and initiation rules differentiated by varna.\n\nHas Yājñavalkya genuinely shifted the framework, or simply stripped the cosmogonic prelude? The shift is genuine but partial. The content of varna (the four orders, their hierarchy, their rites) is substantially retained. What changes is the justificatory architecture: Manu requires creation-myth authority — varna is valid because the cosmic person's body is why it exists. Yājñavalkya requires textual-traditional authority — varna is valid because a chain of eighteen Smṛtikāras (including Manu) and the Vedas declare it. Yājñavalkya also introduces 'the vision of the Self through yoga' as the highest dharma (Yj_1.8), a register absent from Manu's chapter 1, which suggests a theological reorientation away from sacrificial-cosmogonic dharma toward internalized realization. So Yājñavalkya has not merely abbreviated Manu; he has relocated the ground of varna's authority from ontology (it is because the cosmic person made it so) to epistemology and tradition (it is because the śāstras and ācāryas teach it). That is a genuine, if non-revolutionary, framework shift.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Found both Manusmṛti (unknown-manusmrti-347b76, 12 chapters) and Yājñavalkya Smṛti (unknown-yajnavalkya-smrti-cb88d6, 3 chapters) in corpus"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1}, "result_summary": "Full 119-paragraph chapter retrieved; cosmogonic creation narrative (Mn_1.5–1.30) followed by varna emanation from divine body (Mn_1.31), duties by varna (Mn_1.87–1.91), and Brahmaṇa supremacy grounded in birth from highest limb (Mn_1.92–1.101)"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1}, "result_summary": "385-paragraph chapter; response too large, used get_passage for opening"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_range": {"start": 0, "end": 40}}, "result_summary": "Opening confirmed: sages ask about varna/āśrama dharma (Yj_1.1); Yājñavalkya responds with 14 sources of dharma (Yj_1.3), 18 Smṛtikāra authorities (Yj_1.4–1.5), epistemological definition of dharma (Yj_1.6–1.9), then flat varna definition without cosmogony (Yj_1.10), immediately followed by saṃskāra/initiation procedures"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-13a2db"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-f0b26c"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 1, "paragraph_id": "p-7c0113"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-b83e2e"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-7d795b"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-1e45c4"},
+    {"work_slug": "unknown-yajnavalkya-smrti-cb88d6", "chapter_number": 1, "paragraph_id": "p-546db5"}
+  ]
+}
+```
+
+**Summary of findings:**
+
+Both openings are in the corpus and clearly differentiated:
+
+**Manu (Manusmṛti ch. 1):** 86 verses of cosmogony precede varna. The four orders literally emanate from the divine body at Mn_1.31 — Brahmaṇa from mouth, Kṣatriya from arms, Vaiśya from thighs, Śūdra from feet. Brahmaṇa supremacy is then justified by the same logic (born from the highest, purest limb). Varna here is ontologically necessary: it mirrors the structure of creation.
+
+**Yājñavalkya (Yājñavalkya Smṛti ch. 1):** No cosmogony at all. He opens by cataloguing 14 sources of dharmic knowledge (Yj_1.3) and 18 Smṛtikāra authorities including Manu himself (Yj_1.4–1.5), defines dharma epistemologically (Yj_1.6–1.9), names yoga/self-knowledge as the highest dharma (Yj_1.8), then states varna flatly at Yj_1.10 and proceeds directly to procedural saṃskāra rules.
+
+**The verdict:** Yājñavalkya has made a genuine framework shift, not just an abbreviation. He relocates varna's authority from cosmic ontology (the divine body made it this way) to textual-traditional epistemology (the Smṛtis and Vedas declare it). The practical content of varna is retained; what changes is the ground on which it stands.

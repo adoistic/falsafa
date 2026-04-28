@@ -1,0 +1,20 @@
+```json
+{
+  "answer": "In Manusmriti chapter 7 (work slug: unknown-manusmrti-347b76), Manu addresses the king's duties in war across several verses. The chapter covers the topic as part of broader kingship duties rather than a single dedicated section. Key passages: (1) The king's fundamental martial duty is to protect all beings — a Kshatriya must 'perform the protection of this entire world justly and according to the law' (Mn_7.2). (2) The king should 'be just in his own kingdom, and very severe towards his enemies' (Mn_7.32). (3) He must constantly deliberate with his ministers on 'ordinary peace and war, on his position, his revenue, his protection, and the pacification of what has been acquired' (Mn_7.56). (4) An envoy is crucial for war and diplomacy — 'it is the envoy who makes alliances and who breaks up those who are allied' (Mn_7.66), and the envoy is the instrument of both 'peace and its opposite' (Mn_7.65). (5) The king must maintain strong fortifications — he should 'take refuge in a hill-fort' for its advantages (Mn_7.71), which can be defended such that 'one archer stationed on a rampart can fight a hundred men' (Mn_7.74). The corpus chapter (86 verses) covers introductory kingship principles; the detailed tactical rules of warfare are not in this particular portion of the text as represented in the corpus.",
+  "tool_calls": [
+    {"name": "list_works", "args": {"author": "manu"}, "result_summary": "Found one work: unknown-manusmrti-347b76 (Manusmṛti)"},
+    {"name": "search_corpus", "args": {"query": "king duty war"}, "result_summary": "0 results returned"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7}, "result_summary": "Retrieved full chapter 7 (86 verses/paragraphs) covering king's divine origin, Danda, ministers, envoys, fortifications, and religious duties"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7, "paragraph_id": "p-3f62fe"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7, "paragraph_id": "p-61d982"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7, "paragraph_id": "p-b0604b"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7, "paragraph_id": "p-497193"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7, "paragraph_id": "p-7e97fc"},
+    {"work_slug": "unknown-manusmrti-347b76", "chapter_number": 7, "paragraph_id": "p-015eee"}
+  ]
+}
+```
+
+**Summary:** Manusmriti chapter 7 in the corpus (86 verses) addresses war-related duties dispersed through the chapter rather than in a dedicated section. Manu says the Kshatriya king must protect the world justly (7.2), be "very severe towards his enemies" (7.32), deliberate with ministers on "peace and war" (7.56), rely on envoys to make and break alliances (7.65–66), and maintain strong fortifications — with the hill-fort supreme, where one archer can hold off a hundred men (7.71–74). The corpus chapter ends at verse 86; detailed tactical war rules (which appear later in the classical text) are not present in this portion.

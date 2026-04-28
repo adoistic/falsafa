@@ -1,0 +1,20 @@
+```json
+{
+  "answer": "The Vrhaspatitattva defines the relationship of cetana (consciousness) and acetana (the unconscious) in Chapter 1 (the sole chapter), around verse 6 and its prose commentary. The text states: 'The supreme tattva is twofold: cetana and acetana. It pervades all tattvas, is subtle, and must be discerned with effort.' The prose then elaborates: cetana (Conscious Principle) is that which has the nature of knowledge, which knows, is never subject to forgetting, is eternally aware at all times, and is unobscured. Acetana (Unconscious Principle) is that which is without knowledge, like a stone. Crucially, their relationship is generative: when cetana and acetana meet, they give rise to all the tattvas — pradhānatattva, triguṇatattva, buddhitattva, ahaṅkāratattva, bāhyendriyatattva, karmendriyatattva, and pañcamahābhūtatattva. The text further clarifies the asymmetry of their relationship elsewhere: acetana is willed into being by cetana — the conscious acts as a potter who shapes the unconscious (clay) according to its will. Work slug: unknown-vrhaspatitattva-b60b28, chapter 1, paragraphs p-04d69c and p-c31df3.",
+  "tool_calls": [
+    {"name": "list_works", "args": {}, "result_summary": "Found 38 works; identified Vrhaspatitattva with slug unknown-vrhaspatitattva-b60b28 (Kawi, 1 chapter)"},
+    {"name": "search_corpus", "args": {"query": "cetana acetana"}, "result_summary": "0 results — Pagefind index does not index transliterated Sanskrit terms directly"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-vrhaspatitattva-b60b28", "chapter_number": 1}, "result_summary": "Read the full chapter (89KB); output too large, saved to disk — confirmed cetana/acetana definitions present"},
+    {"name": "get_passage", "args": {"work_slug": "unknown-vrhaspatitattva-b60b28", "chapter_number": 1, "paragraph_range": {"start": 15, "end": 20}}, "result_summary": "Retrieved paragraphs p-04d69c (verse 6: 'The supreme tattva is twofold: cetana and acetana') and p-c31df3 (prose definition of cetana and acetana, and their generative meeting)"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-vrhaspatitattva-b60b28", "chapter_number": 1, "paragraph_id": "p-04d69c"},
+    {"work_slug": "unknown-vrhaspatitattva-b60b28", "chapter_number": 1, "paragraph_id": "p-c31df3"}
+  ]
+}
+```
+
+The answer is found in `unknown-vrhaspatitattva-b60b28`, chapter 1, at verse 6 and its prose commentary (paragraphs `p-04d69c` and `p-c31df3`). The text defines the two principles and their relationship as follows:
+
+- **Verse 6**: "The supreme *tattva* is twofold: *cetana* and *acetana*. It pervades all *tattvas*, is subtle, and must be discerned with effort."
+- **Prose commentary**: *Cetana* is the Conscious Principle — that which knows, never forgets, is eternally aware and unobscured. *Acetana* is the Unconscious Principle — that which is without knowledge, like a stone. Their **meeting is generative**: when cetana and acetana come together, all the tattvas emerge (pradhāna, triguṇa, buddhi, ahaṅkāra, etc.). The relationship is also **asymmetric and hierarchical**: acetana is shaped by cetana, as clay is shaped by a potter — the Conscious Principle wills the unconscious into form according to its desire.

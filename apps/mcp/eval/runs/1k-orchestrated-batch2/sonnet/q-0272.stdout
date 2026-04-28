@@ -1,0 +1,37 @@
+```json
+{
+  "answer": "The Kalpabuddha (unknown-kalpabuddha-d760dc) is a short Buddhist tantric text in six chapters describing the Pañcatathāgata (Five Buddhas). Its central claim about jñāna — what the question calls 'kewala-jñāna' — is that the five Buddhas, each bearing a distinct supreme wisdom (śāśvata, ādarśana, ākāśamata, pratyavekṣaṇa, kṛtyānuṣṭhāna), reside immanently within the human body: they inhabit the five senses and together constitute the 'Pañcātma' (divine five-soul). The colophon names this 'the supreme secret' (paramarahasya). The end-state the text points toward is the recognition that complete Buddha-wisdom is already present, embodied in the practitioner's own senses — an immanent identification rather than a transcendent dissolution.\n\nThe San Hyan Mahajnana (unknown-san-hyan-mahajnana-11c531) is a Shaiva text (the 'Sacred Supreme Wisdom') structured as Kumāra's instruction by Lord Shiva. It articulates a seven-rung hierarchy of consciousness states — jāgrat, svapna, suṣupti, tūrya, tūryānta, kaivalya, paramakaivalya — and its central claim about the highest goal is that paramakaivalya is the terminus: 'Paraṃ kaivalya is like the Self; paraṃ kaivalya is the giver of peace' (ch.1, p-cf67ae). It is further defined as 'the void abode' at the summit of the heart (p-e89213), as 'nirāśraya (the supportless state), not dwelt in by pleasure or pain' (p-99bb57), and its presiding deity is Paramaśiva himself, 'the giver of peace, called liberation' (p-71743d). The closing colophon affirms: 'Thus is the tattva of The Sacred Supreme Wisdom, returning to the supreme end' (p-0f7a95).\n\nThese two texts are NOT naming the same end-state. The Kalpabuddha's terminus is embodied and immanent: the five Buddha-wisdoms are already here in the body as the pañcātma; the practitioner's task is recognition of this identity. The San Hyan Mahajnana's terminus (paramakaivalya) is transcendent and evacuating: a void, supportless state beyond pleasure, pain, and even the perception of the divine in the body — a complete dissolution into Paramaśiva. On the San Hyan Mahajnana's own seven-rung ladder, the Kalpabuddha's embodied wisdom-recognition maps onto an intermediate milestone (likely tūrya or tūryānta, where the divine is directly perceived in the body and its organs), while paramakaivalya goes further: it transcends even that direct perception into the void beyond. The Kalpabuddha's terminus is thus the other's milestone.",
+  "tool_calls": [
+    {"name": "search_corpus", "args": {"query": "kewala-jnana"}, "result_summary": "0 results"},
+    {"name": "search_corpus", "args": {"query": "San Hyan Mahajnana"}, "result_summary": "0 results — work found via list_works instead"},
+    {"name": "search_corpus", "args": {"query": "Kalpabuddha"}, "result_summary": "Found unknown-kalpabuddha-d760dc, ch.6 colophon"},
+    {"name": "list_works", "args": {}, "result_summary": "Found both: unknown-kalpabuddha-d760dc (6 chapters, Kawi, Buddhist) and unknown-san-hyan-mahajnana-11c531 (1 chapter, Kawi, Shaiva)"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-san-hyan-mahajnana-11c531", "chapter_number": 1}, "result_summary": "Full Shaiva text: seven-state hierarchy (jāgrat through paramakaivalya); paramakaivalya is the highest goal — void, supportless, liberating, presided by Paramaśiva"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 1}, "result_summary": "Vairocana with śāśvata jñāna, dwelling in the heart"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 2}, "result_summary": "Akṣobhya with ādarśana jñāna, in the lungs"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 3}, "result_summary": "Ratnasambhava with ākāśamata jñāna, in the spleen"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 4}, "result_summary": "Amitābha with pratyavekṣaṇa jñāna, in the liver"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 5}, "result_summary": "Amoghasiddhi with kṛtyānuṣṭhāna jñāna, in the gall bladder"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 6}, "result_summary": "Five Buddhas become pañcajñāna/pañcendriya in body = pañcātma; colophon: 'paramarahasya' (supreme secret)"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 1, "variant": "transliteration"}, "result_summary": "Confirmed: śāśvata jñāna for Vairocana; no 'kewala' term appears verbatim"},
+    {"name": "read_chapter", "args": {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 6, "variant": "transliteration"}, "result_summary": "Confirmed colophon: 'kalpabuddha iti, paramarahasya'"}
+  ],
+  "citations": [
+    {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 6, "paragraph_id": "p-c8567e"},
+    {"work_slug": "unknown-kalpabuddha-d760dc", "chapter_number": 6, "paragraph_id": "p-7c1a2f"},
+    {"work_slug": "unknown-san-hyan-mahajnana-11c531", "chapter_number": 1, "paragraph_id": "p-cf67ae"},
+    {"work_slug": "unknown-san-hyan-mahajnana-11c531", "chapter_number": 1, "paragraph_id": "p-e89213"},
+    {"work_slug": "unknown-san-hyan-mahajnana-11c531", "chapter_number": 1, "paragraph_id": "p-99bb57"},
+    {"work_slug": "unknown-san-hyan-mahajnana-11c531", "chapter_number": 1, "paragraph_id": "p-71743d"},
+    {"work_slug": "unknown-san-hyan-mahajnana-11c531", "chapter_number": 1, "paragraph_id": "p-0f7a95"}
+  ]
+}
+```
+
+**Summary of findings:**
+
+**Kalpabuddha** (`unknown-kalpabuddha-d760dc`, chs. 1–6): A Buddhist tantric text about the Pañcatathāgata (Five Buddhas). Its central claim is that each of the five Buddhas possesses a distinct supreme wisdom and dwells immanently within the practitioner's body — the five senses are the five Buddhas' habitations, and together they constitute the **Pañcātma** (divine five-soul). This is called "the supreme secret" (paramarahasya). The terminus is immanent recognition: the five Buddha-wisdoms (pañcajñāna / kewala-jñāna) are already HERE, in the body.
+
+**San Hyan Mahajnana** (`unknown-san-hyan-mahajnana-11c531`, ch. 1): A Shaiva text in which Shiva instructs Kumāra through a seven-rung consciousness hierarchy (jāgrat → svapna → suṣupti → tūrya → tūryānta → kaivalya → **paramakaivalya**). The highest goal is paramakaivalya: "the void abode," "the supportless state not dwelt in by pleasure or pain," presided by Paramaśiva, explicitly equated with liberation/mokṣa.
+
+**Verdict: Not the same end-state.** The Kalpabuddha's terminus is embodied immanence — recognizing five Buddha-wisdoms as your own pañcātma. The San Hyan Mahajnana's terminus is transcendent evacuation into a void beyond all states. On the Mahajnana's own ladder, the Kalpabuddha's end-state (divine wisdom perceived in and as the body) corresponds to an intermediate rung — tūrya or tūryānta — while paramakaivalya goes further, transcending even that perception. The Kalpabuddha's terminus is the other's milestone.
