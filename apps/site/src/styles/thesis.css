@@ -1,0 +1,328 @@
+/**
+ * /thesis page styles. Editorial register matching /numbers and /eval —
+ * same kicker / headline / lede / lede-meta scaffolding. Paper-grade.
+ *
+ * Inherits design tokens from tokens.css. No JS island.
+ */
+
+/* ── Page shell ──────────────────────────────────────────────────────── */
+
+.thesis-page {
+  max-width: 72rem;
+  margin: 0 auto;
+  padding: var(--s-12) var(--s-6) var(--s-24);
+}
+
+.thesis-header {
+  max-width: 64ch;
+  margin-bottom: var(--s-12);
+}
+
+.thesis-kicker {
+  font-family: var(--font-sans);
+  font-size: 12px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--accent);
+  margin: 0 0 var(--s-2);
+}
+
+.thesis-header h1 {
+  font-family: var(--font-display);
+  font-size: var(--fs-h1);
+  font-weight: 700;
+  letter-spacing: -0.02em;
+  margin: 0 0 var(--s-4);
+  line-height: 1.05;
+}
+
+.thesis-lede {
+  font-family: var(--font-display);
+  font-style: italic;
+  color: var(--ink-muted);
+  font-size: var(--fs-h3);
+  line-height: 1.5;
+  margin: 0 0 var(--s-3);
+}
+
+.thesis-lede-meta {
+  font-family: var(--font-sans);
+  font-size: 14px;
+  color: var(--ink-muted);
+  margin: 0;
+}
+
+.thesis-lede-meta code,
+.thesis-section code {
+  font-family: var(--font-mono);
+  font-size: 12px;
+  background: rgba(0, 0, 0, 0.04);
+  padding: 1px 4px;
+  border-radius: 2px;
+}
+
+.thesis-lede-meta a,
+.thesis-section a {
+  color: var(--accent);
+  border-bottom: 1px solid currentColor;
+  padding-bottom: 1px;
+}
+
+/* ── Sections ────────────────────────────────────────────────────────── */
+
+.thesis-section {
+  margin: 0 0 var(--s-12);
+  scroll-margin-top: var(--s-8);
+}
+
+.thesis-section h2 {
+  font-family: var(--font-display);
+  font-size: var(--fs-h2);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin: 0 0 var(--s-5);
+  color: var(--ink);
+}
+
+.thesis-section h2 a {
+  color: inherit;
+  border-bottom: 0;
+}
+
+.thesis-section h2 a:hover {
+  color: var(--accent);
+}
+
+.thesis-section h3 {
+  font-family: var(--font-display);
+  font-size: var(--fs-h3);
+  font-weight: 600;
+  letter-spacing: -0.01em;
+  margin: var(--s-6) 0 var(--s-3);
+  color: var(--ink);
+}
+
+.thesis-section p {
+  font-family: var(--font-body);
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--ink);
+  max-width: 64ch;
+  margin: 0 0 var(--s-4);
+}
+
+.thesis-section ul,
+.thesis-section ol {
+  font-family: var(--font-body);
+  font-size: 17px;
+  line-height: 1.7;
+  color: var(--ink);
+  max-width: 64ch;
+  margin: 0 0 var(--s-4);
+  padding-left: var(--s-6);
+}
+
+.thesis-section li {
+  margin-bottom: var(--s-2);
+}
+
+.thesis-section li code {
+  font-size: 13px;
+}
+
+.thesis-aside {
+  font-style: italic;
+  color: var(--ink-muted);
+  font-size: 14px !important;
+  max-width: 64ch;
+  border-left: 2px solid var(--rule);
+  padding-left: var(--s-4);
+  margin: var(--s-4) 0 !important;
+}
+
+/* ── Side-by-side compare panel ──────────────────────────────────────── */
+
+.thesis-compare {
+  display: grid;
+  grid-template-columns: 1fr 1fr;
+  gap: var(--s-6);
+  margin: var(--s-6) 0;
+  font-family: var(--font-sans);
+}
+
+.thesis-compare-panel {
+  border: 1px solid var(--rule);
+  border-radius: 2px;
+  padding: var(--s-5);
+  background: rgba(0, 0, 0, 0.015);
+}
+
+.thesis-compare-panel.is-ours {
+  border-color: var(--accent);
+  background: rgba(138, 58, 46, 0.04);
+}
+
+.thesis-compare-label {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.12em;
+  color: var(--ink-muted);
+  margin: 0 0 var(--s-3);
+}
+
+.thesis-compare-panel.is-ours .thesis-compare-label {
+  color: var(--accent);
+}
+
+.thesis-compare-panel ol {
+  font-size: 14px !important;
+  line-height: 1.6 !important;
+  margin: 0 !important;
+  padding-left: var(--s-5) !important;
+  font-family: var(--font-sans) !important;
+}
+
+.thesis-compare-panel li {
+  margin-bottom: var(--s-1);
+  color: var(--ink);
+}
+
+.thesis-compare-panel li code {
+  font-size: 12px;
+  background: var(--paper);
+  border: 1px solid var(--rule);
+}
+
+/* ── Tool table ──────────────────────────────────────────────────────── */
+
+.thesis-tools {
+  width: 100%;
+  border-collapse: collapse;
+  font-family: var(--font-sans);
+  font-size: 14px;
+  margin: 0 0 var(--s-5);
+}
+
+.thesis-tools thead th {
+  font-family: var(--font-sans);
+  font-size: 11px;
+  font-weight: 600;
+  text-transform: uppercase;
+  letter-spacing: 0.08em;
+  color: var(--ink-muted);
+  text-align: left;
+  padding: var(--s-2) var(--s-3) var(--s-2) 0;
+  border-bottom: 2px solid var(--rule);
+}
+
+.thesis-tools tbody td {
+  padding: var(--s-3) var(--s-3) var(--s-3) 0;
+  border-bottom: 1px solid var(--rule);
+  color: var(--ink);
+  vertical-align: top;
+  line-height: 1.5;
+}
+
+.thesis-tools tbody td:first-child {
+  width: 14rem;
+  font-family: var(--font-mono);
+  font-size: 13px;
+  color: var(--accent);
+  white-space: nowrap;
+}
+
+/* ── Pull-quote (Karpathy nod) ───────────────────────────────────────── */
+
+.thesis-pullquote {
+  font-family: var(--font-display);
+  font-style: italic;
+  font-size: var(--fs-h3);
+  line-height: 1.4;
+  color: var(--ink);
+  border-left: 3px solid var(--accent);
+  padding: var(--s-1) 0 var(--s-1) var(--s-5);
+  margin: var(--s-5) 0;
+  max-width: 64ch;
+}
+
+.thesis-pullquote-cite {
+  display: block;
+  margin-top: var(--s-3);
+  font-style: normal;
+  font-family: var(--font-sans);
+  font-size: 13px;
+  color: var(--ink-muted);
+  letter-spacing: 0.02em;
+}
+
+/* ── Stat strip (eval results in §6) ─────────────────────────────────── */
+
+.thesis-stats {
+  display: grid;
+  grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+  gap: var(--s-4) var(--s-6);
+  margin: var(--s-5) 0;
+  padding: 0;
+}
+
+.thesis-stat {
+  display: flex;
+  flex-direction: column;
+  gap: var(--s-1);
+  padding: var(--s-3) 0;
+  border-top: 1px solid var(--rule);
+}
+
+.thesis-stat dt {
+  font-family: var(--font-display);
+  font-size: 30px;
+  font-weight: 700;
+  line-height: 1;
+  color: var(--ink);
+  letter-spacing: -0.02em;
+  font-feature-settings: "tnum";
+}
+
+.thesis-stat dd {
+  font-family: var(--font-sans);
+  font-size: 13px;
+  color: var(--ink-muted);
+  line-height: 1.4;
+  margin: 0;
+}
+
+/* ── Closing rule ────────────────────────────────────────────────────── */
+
+.thesis-section-coda {
+  margin-top: var(--s-12);
+  padding-top: var(--s-8);
+  border-top: 1px solid var(--rule);
+}
+
+.thesis-section-coda h2 {
+  font-size: var(--fs-h3);
+}
+
+/* ── Responsive ──────────────────────────────────────────────────────── */
+
+@media (max-width: 720px) {
+  .thesis-compare {
+    grid-template-columns: 1fr;
+  }
+}
+
+@media (max-width: 640px) {
+  .thesis-page { padding: var(--s-8) var(--s-4) var(--s-16); }
+  .thesis-header h1 { font-size: 36px; }
+  .thesis-lede { font-size: 18px; }
+  .thesis-section p,
+  .thesis-section ul,
+  .thesis-section ol { font-size: 16px; }
+  .thesis-pullquote { font-size: 18px; }
+  .thesis-stat dt { font-size: 24px; }
+  .thesis-tools { font-size: 13px; }
+  .thesis-tools tbody td:first-child { width: auto; font-size: 12px; }
+}

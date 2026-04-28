@@ -1,7 +1,7 @@
 ---
 title: "Black-Box Adversarial Evaluation of an MCP-Mediated Classical Corpus Librarian"
 authors:
-  - Adnan Memon (Thothica)
+  - Adnan Abbasi (Thothica)
 status: DRAFT v0.1 (small-N proof-of-protocol; codex full-1000 pending)
 date: 2026-04-28
 ---
