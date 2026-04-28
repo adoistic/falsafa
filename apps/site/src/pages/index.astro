@@ -43,12 +43,18 @@ const eraEntries = eraOrder
     const slug = label.toLowerCase().replace(/[^a-z0-9]+/g, "-");
     return { label, slug, count: m.eras[slug]?.works.length ?? 0 };
   });
+
+// Live totals for the description meta tag — derived from the manifest at
+// build time so the SEO snippet stays in sync with /numbers as the corpus
+// grows.
+const totalChapters = m.works.reduce((s, w) => s + (w.total_logical_chapters ?? 0), 0);
+const totalVariants = m.works.reduce((s, w) => s + (w.total_variant_entries ?? 0), 0);
+const description = `A premium reading platform for translated philosophical and classical texts. ${m.counts.works} works, ${totalChapters.toLocaleString("en-US")} logical chapters, ${totalVariants.toLocaleString("en-US")} variant entries across ${m.counts.languages} languages. Free, public, open source.`;
 ---
 
 <Base
   title="Falsafa"
-  description="A premium reading platform for translated philosophical and classical texts. 38 works, 627 logical chapters, 2-3 language variants each. Free, public, open source."
->
+  description={description}
   <div class="container">
     <section class="featured" data-featured>
       <a href={`/works/${ssrPick.slug}/`} class="featured-cover" data-featured-link>

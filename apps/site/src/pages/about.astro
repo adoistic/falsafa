@@ -1,5 +1,11 @@
 ---
 import Base from "../layouts/Base.astro";
+import { manifest } from "../lib/corpus";
+
+const m = manifest();
+const totalChapters = m.works.reduce((s, w) => s + (w.total_logical_chapters ?? 0), 0);
+const totalVariants = m.works.reduce((s, w) => s + (w.total_variant_entries ?? 0), 0);
+const fmt = (n: number) => n.toLocaleString("en-US");
 ---
 
 <Base
@@ -20,13 +26,14 @@ import Base from "../layouts/Base.astro";
     <section>
       <h2>What's in the catalog</h2>
       <p>
-        38 works, 627 logical chapters, 1,673 language variants. The corpus
-        spans Anglo-Saxon Christian poetry (Cynewulf), Urdu ghazal masters
-        (Ghalib, Iqbal, Zauq), French Enlightenment political theory (Comte,
-        Dunoyer), German philosophical writing (Fichte), Sanskrit smṛti
-        traditions, and Old Javanese / Kawi tattva texts. Most works ship with
-        2-3 variants — original-language source, Latin-script
-        transliteration, and English translation.
+        {fmt(m.counts.works)} works, {fmt(totalChapters)} logical chapters,
+        {fmt(totalVariants)} language variants. The corpus spans Anglo-Saxon
+        Christian poetry (Cynewulf), Urdu ghazal masters (Ghalib, Iqbal, Zauq),
+        French Enlightenment political theory (Comte, Dunoyer), German
+        philosophical writing (Fichte), Sanskrit smṛti traditions, and Old
+        Javanese / Kawi tattva texts. Most works ship with 2-3 variants —
+        original-language source, Latin-script transliteration, and English
+        translation. Live counts at <a href="/numbers/">/numbers</a>.
       </p>
     </section>
 
