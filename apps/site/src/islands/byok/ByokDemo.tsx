@@ -13,8 +13,10 @@
 
 import { useEffect, useReducer, useState } from "preact/hooks";
 import type { JSX } from "preact";
+import "../../styles/tool-trace.css";
 import { initialState, reducer, canSubmit, PROVIDERS } from "./state";
 import type { Provider, BYOKAction, BYOKState } from "./types";
+import { buildByokDownloadPayload } from "../../lib/byok-download";
 import {
   loadKey,
   saveKey,
@@ -80,6 +82,30 @@ export default function ByokDemo({ chips = FALLBACK_CHIPS }: Props): JSX.Element
   useEffect(() => {
     saveModel(state.modelId);
   }, [state.modelId]);
+
+  // Read `?prompt=` URL param on mount and prefill the textarea. The
+  // case-page "Run on /try with this prompt" CTA lands here. We don't
+  // auto-submit — the user still chooses provider/model/key first.
+  useEffect(() => {
+    if (typeof window === "undefined") return; // SSR guard, defensive
+    const params = new URLSearchParams(window.location.search);
+    const promptParam = params.get("prompt");
+    if (promptParam) {
+      dispatch({ type: "QUESTION_CHANGED", question: promptParam });
+      // Defer one tick so the textarea is mounted with the new value.
+      // window.scrollTo path — scrollIntoView({behavior:"smooth"}) silently
+      // no-ops in Chromium under common page-CSS conditions; computing
+      // the target Y manually and using window.scrollTo is the reliable
+      // workaround used elsewhere on this branch (see StreamingOutput).
+      setTimeout(() => {
+        const target = document.querySelector<HTMLTextAreaElement>("[data-byok-prompt]");
+        if (target) {
+          const targetY = target.getBoundingClientRect().top + window.scrollY - 32;
+          window.scrollTo({ top: targetY, behavior: "smooth" });
+        }
+      }, 0);
+    }
+  }, []); // run once on mount
 
   const inFlight = state.status === "submitting" || state.status === "streaming";
   const submitGate = canSubmit(state) === null;
@@ -166,6 +192,16 @@ export default function ByokDemo({ chips = FALLBACK_CHIPS }: Props): JSX.Element
 
       <StreamingOutput state={state} />
 
+      {state.status === "success" && state.output && (
+        <button
+          type="button"
+          class="byok-download-btn"
+          onClick={() => downloadCurrentRun(state)}
+        >
+          Download run as JSON
+        </button>
+      )}
+
       {state.error !== null && (state.status !== "streaming" && state.status !== "submitting") && (
         <ErrorBanner
           error={state.error}
@@ -175,6 +211,36 @@ export default function ByokDemo({ chips = FALLBACK_CHIPS }: Props): JSX.Element
       )}
     </div>
   );
+}
+
+/**
+ * Build the EvalCaseResult-shaped JSON download for a completed run and
+ * trigger a browser file save. BYOKState carries no citations or
+ * duration_ms today; recorded eval entries have many duration_ms: 0
+ * cases, so [] / 0 is consistent with the existing data shape. A future
+ * change can add these (instrument SUBMIT for submittedAt; derive
+ * citations from tool-call results) without changing the download
+ * contract.
+ */
+function downloadCurrentRun(state: BYOKState): void {
+  if (!state.output) return;
+  const payload = buildByokDownloadPayload({
+    prompt: state.question,
+    provider: state.provider,
+    model: state.modelId,
+    answer: state.output,
+    toolCalls: state.toolCalls,
+    citations: [],
+    durationMs: 0,
+  });
+  const stamp = new Date().toISOString().replace(/[:.]/g, "-").slice(0, 19);
+  const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
+  const url = URL.createObjectURL(blob);
+  const a = document.createElement("a");
+  a.href = url;
+  a.download = `falsafa-byok-${stamp}.json`;
+  a.click();
+  URL.revokeObjectURL(url);
 }
 
 /**

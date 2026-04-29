@@ -1,0 +1,33 @@
+---
+import type { EvalToolCall } from "../lib/eval-types";
+import "../styles/tool-trace.css";
+
+interface Props { calls: EvalToolCall[]; }
+const { calls } = Astro.props as Props;
+---
+
+{calls.length > 0 && (
+  <ol class="byok-toolcalls" aria-label="Tool calls the model made">
+    {calls.map((call) => (
+      <li class="byok-toolcall">
+        <div class="byok-toolcall-head">
+          <code class="byok-toolcall-name">{call.name}</code>
+          <span class="byok-toolcall-status">done</span>
+        </div>
+        <details class="byok-toolcall-body" open>
+          <summary>tool call</summary>
+          <div class="byok-toolcall-section">
+            <p class="byok-toolcall-section-label">arguments</p>
+            <pre class="byok-toolcall-pre">{JSON.stringify(call.args, null, 2)}</pre>
+          </div>
+          {call.result_summary && (
+            <div class="byok-toolcall-section">
+              <p class="byok-toolcall-section-label">result</p>
+              <pre class="byok-toolcall-pre">{call.result_summary}</pre>
+            </div>
+          )}
+        </details>
+      </li>
+    ))}
+  </ol>
+)}

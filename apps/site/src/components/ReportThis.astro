@@ -1,0 +1,95 @@
+---
+/**
+ * GitHub issue + email buttons. Optional case context pre-fills both.
+ * Used on /try/ (no caseId) and /eval/[id]/ (with caseId).
+ */
+interface Props {
+  caseId?: string;
+  caseUrl?: string;
+  recordedAnswer?: string;
+}
+const { caseId, caseUrl, recordedAnswer } = Astro.props as Props;
+
+const REPO = "adoistic/falsafa";
+
+function buildIssueUrl(): string {
+  const title = caseId ? `Falsafa eval case ${caseId}` : "Falsafa — issue report";
+  const lines = [
+    "What's the issue?",
+    "",
+    "(describe what you observed and what you expected)",
+    "",
+  ];
+  if (caseUrl) lines.push(`Case page: ${caseUrl}`);
+  if (caseId) lines.push(`Case id: ${caseId}`);
+  if (recordedAnswer) {
+    const truncated = recordedAnswer.length > 1000
+      ? recordedAnswer.slice(0, 1000) + "…"
+      : recordedAnswer;
+    lines.push("", "Recorded answer:", "```", truncated, "```");
+  }
+  const body = lines.join("\n");
+  return `https://github.com/${REPO}/issues/new?title=${encodeURIComponent(title)}&body=${encodeURIComponent(body)}`;
+}
+
+function buildEmailUrl(): string {
+  const subject = caseId ? `Falsafa eval ${caseId}` : "Falsafa — issue";
+  const body = caseUrl
+    ? `Case: ${caseUrl}\n\nWhat I noticed:\n`
+    : "What I noticed:\n";
+  return `mailto:adnan@thothica.com?subject=${encodeURIComponent(subject)}&body=${encodeURIComponent(body)}`;
+}
+
+const issueUrl = buildIssueUrl();
+const emailUrl = buildEmailUrl();
+---
+
+<section class="report-this">
+  <h3>Spot a problem?</h3>
+  <p>Help us find issues — report it and we'll investigate.</p>
+  <div class="report-this-actions">
+    <a class="report-this-btn primary" href={issueUrl} target="_blank" rel="noopener">
+      Open issue on GitHub
+    </a>
+    <a class="report-this-btn" href={emailUrl}>
+      Email Adnan
+    </a>
+  </div>
+</section>
+
+<style>
+  .report-this {
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-6);
+    margin-top: var(--s-12);
+  }
+  .report-this h3 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h3);
+    font-weight: 600;
+    margin: 0 0 var(--s-2);
+  }
+  .report-this p {
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-4);
+  }
+  .report-this-actions {
+    display: flex;
+    gap: var(--s-3);
+    flex-wrap: wrap;
+  }
+  .report-this-btn {
+    display: inline-block;
+    padding: var(--s-2) var(--s-4);
+    border: 1px solid var(--rule);
+    font-family: var(--font-sans);
+    font-size: 14px;
+    color: var(--ink);
+    text-decoration: none;
+  }
+  .report-this-btn.primary {
+    background: var(--accent);
+    color: var(--paper);
+    border-color: var(--accent);
+  }
+</style>

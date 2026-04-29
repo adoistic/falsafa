@@ -1,0 +1,40 @@
+---
+/**
+ * Shared 3-sentence caveat block. Used on /try/ and /eval/[id]/.
+ * No props. The wording is deliberate — see docs/designs/eval-redesign.md
+ * §"Why your answer might differ".
+ */
+---
+
+<aside class="non-determinism-caveat">
+  <h3>Why your answer might differ</h3>
+  <p>
+    AI answers vary in wording — your model's phrasing won't be byte-identical
+    to what you see here. But Falsafa routes through deterministic tool calls
+    (no vector DB, no learned retrieval), so the <em>paragraph_ids</em> the
+    model lands on should match what's recorded. If you see different
+    paragraph_ids cited, that's a real signal worth investigating —
+    please report it.
+  </p>
+</aside>
+
+<style>
+  .non-determinism-caveat {
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-6);
+    margin-top: var(--s-12);
+    max-width: 60ch;
+  }
+  .non-determinism-caveat h3 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h3);
+    font-weight: 600;
+    margin: 0 0 var(--s-3);
+  }
+  .non-determinism-caveat p {
+    font-family: var(--font-body);
+    line-height: var(--lh-body);
+    color: var(--ink-muted);
+    margin: 0;
+  }
+</style>

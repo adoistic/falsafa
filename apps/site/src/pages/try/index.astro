@@ -1,7 +1,12 @@
 ---
 import Base from "../../layouts/Base.astro";
 import ByokDemo from "../../islands/byok/ByokDemo";
+import InstallCard from "../../components/InstallCard.astro";
+import NonDeterminismCaveat from "../../components/NonDeterminismCaveat.astro";
+import ReportThis from "../../components/ReportThis.astro";
 import "../../styles/byok.css";
+// Note: tool-trace.css is imported by the BYOK island (ByokDemo.tsx) — that's
+// the only consumer of .byok-toolcall* on this page. Don't re-import here.
 
 // Twelve hand-picked question chips covering the eval categories. The
 // curation pool grows in Phase 3 once the eval explorer ships and we
@@ -25,7 +30,7 @@ const CHIPS = [
 
 <Base
   title="Try"
-  description="Run Falsafa live with your own API key. Watch the librarian tools execute against the corpus in real time. Your key stays in your browser; calls go straight to your provider."
+  description="Install Falsafa as an MCP in your daily LLM, or try it live in the browser with your own API key. The same librarian tools, the same corpus."
 >
   {/* Page-level CSP: connect-src locks down to the four supported provider
       hosts + same-origin (the corpus markdown lives under /corpus/* on
@@ -52,30 +57,36 @@ const CHIPS = [
   <article class="try-page">
     <header class="try-header">
       <p class="kicker">Try</p>
-      <h1>Run Falsafa live with your own key</h1>
+      <h1>Run Falsafa on your terms</h1>
       <p class="lede">
-        Pick a provider, paste your API key, ask anything about the corpus.
-        The MCP librarian tools run against the actual Falsafa corpus and
-        every tool call shows up below in real time. Your key stays in
-        your browser; calls go straight to your provider.
+        Install the MCP into your daily LLM, or paste an API key to try it
+        live in the browser. The same librarian tools, the same corpus.
       </p>
     </header>
 
-    {/* client:only — the island reads localStorage on initial render
-        (api key + provider + model). Server-side state (no localStorage)
-        diverges from client-side state, causing a hydration mismatch
-        that fails to bind click handlers. Skipping SSR for this island
-        eliminates the divergence; tradeoff is the form skeleton shows
-        nothing until the JS bundle loads (~100ms on local, ~300ms on
-        slow connections). Worth it for correctness. */}
-    <ByokDemo client:only="preact" chips={CHIPS} />
+    <div class="try-hero">
+      <InstallCard />
 
-    <footer class="try-foot">
-      <p>
-        Want to use the same MCP from Claude Desktop or Cursor? See the
-        <a href="https://github.com/adoistic/falsafa#mcp">README</a>.
-      </p>
-    </footer>
+      <div class="try-byok-card">
+        <header class="try-byok-card-head">
+          <h2>Try it now (BYOK)</h2>
+          <p>Bring your own API key. Stays in the browser.</p>
+        </header>
+        <ByokDemo client:only="preact" chips={CHIPS} />
+      </div>
+    </div>
+
+    <details class="try-clone">
+      <summary>Or clone & develop locally</summary>
+      <pre><code>{`git clone https://github.com/adoistic/falsafa
+cd falsafa && bun install
+cd apps/site && bun run dev          # reading site
+cd apps/mcp  && bun run dev          # MCP server (stdio)`}</code></pre>
+      <p>See the <a href="https://github.com/adoistic/falsafa#readme">README</a> for the full eval / convert / image-gen scripts.</p>
+    </details>
+
+    <NonDeterminismCaveat />
+    <ReportThis />
   </article>
 </Base>
 
@@ -117,12 +128,54 @@ const CHIPS = [
     margin: 0;
   }
 
-  .try-foot {
-    margin-top: var(--s-12);
-    padding-top: var(--s-6);
-    border-top: 1px solid var(--rule);
-    font-family: var(--font-sans);
-    font-size: 13px;
+  .try-hero {
+    display: grid;
+    grid-template-columns: 1fr;
+    gap: var(--s-6);
+    margin-bottom: var(--s-12);
+  }
+
+  @media (min-width: 768px) {
+    .try-page {
+      max-width: 90ch;
+    }
+    .try-hero {
+      grid-template-columns: 1fr 1fr;
+      gap: var(--s-8);
+    }
+  }
+
+  .try-byok-card {
+    border: 1px solid var(--rule);
+    padding: var(--s-6);
+  }
+  .try-byok-card-head h2 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h2);
+    margin: 0 0 var(--s-2);
+  }
+  .try-byok-card-head p {
     color: var(--ink-muted);
+    margin: 0 0 var(--s-6);
+  }
+
+  .try-clone {
+    margin-top: var(--s-6);
+    padding: var(--s-4) var(--s-6);
+    border: 1px dashed var(--rule);
+  }
+  .try-clone summary {
+    cursor: pointer;
+    font-family: var(--font-sans);
+    color: var(--accent);
+  }
+  .try-clone pre {
+    background: var(--paper-soft, var(--paper));
+    border: 1px solid var(--rule);
+    padding: var(--s-3) var(--s-4);
+    font-family: var(--font-mono, "SF Mono", Menlo, monospace);
+    font-size: 12px;
+    overflow-x: auto;
+    margin: var(--s-3) 0;
   }
 </style>

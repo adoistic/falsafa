@@ -75,6 +75,8 @@ interface OutModel {
   id: string;
   name: string;
   label: string;
+  pass_count: number;
+  case_count: number;
 }
 
 interface OutCase extends CaseSeed {
@@ -101,6 +103,14 @@ interface OutResult {
     reasoning: string;
     judge_model: string;
   };
+  /**
+   * Original run dir (e.g. "1k-orchestrated-200"). Stamped at merge time so
+   * downstream consumers can recover provenance after multiple runs are
+   * unified under one model label.
+   */
+  from_run: string;
+  /** Source file path, kept around for mtime-based merge tiebreaks. */
+  _source_path?: string;
 }
 
 function computeMechanicalPass(answer: string, expectedWorks: string[]): boolean {
@@ -244,38 +254,55 @@ function normaliseLegacySeed(raw: unknown): CaseSeed | null {
 }
 
 interface ResolvedRun {
-  /** Stable model id for the EvalJson payload. */
+  /**
+   * Legacy stable id `${runDir}:${sub}`. Kept for now while callers migrate;
+   * post-redesign the explorer keys cases by `modelLabel` only.
+   */
   modelId: string;
   modelName: string;
   modelLabel: string;
+  /** The bare run-dir name, e.g. "1k-orchestrated-200". Stamped onto each result. */
+  runDir: string;
   /** Directory containing q-*.json files. */
   resultsDir: string;
   /** Optional matching `_judge` directory. */
   judgeDir: string | null;
 }
 
+/**
+ * Run-dirs that must never feed the published eval.json regardless of
+ * --include flags:
+ *   _INVALIDATED-*       — pre-anti-cheat-patch results, not blind
+ *   *-NOT-BLIND          — known protocol violations
+ *   *-quarantine*        — explicitly quarantined runs
+ *   _*                   — judge / sample side-files (already filtered for
+ *                          model subdirs but kept here for symmetry)
+ */
+const EXCLUDED_RUN_DIRS = new RegExp(
+  "(^_INVALIDATED|-NOT-BLIND$|-quarantine|^_)",
+);
+
+/**
+ * Additional quarantine for runs that exist on disk for audit trail but are
+ * not paper-grade — pre-patch smoke tests, single-case reruns, small-N
+ * pre-patch runs. These never feed eval.json.
+ */
+function isLegacyQuarantined(d: string): boolean {
+  return (
+    d.startsWith("1k-codex-smoke") ||
+    d.startsWith("multi-model-") ||
+    d.startsWith("1k-rerun-") ||
+    d.startsWith("haiku-")
+  );
+}
+
 function resolveRuns(includes: string[]): ResolvedRun[] {
   if (!existsSync(RUNS_ROOT)) {
     throw new Error(`No runs directory at ${RUNS_ROOT}`);
   }
-  // Always exclude quarantined / pre-paper-grade runs:
-  //   _INVALIDATED-*    — pre-anti-cheat-patch results, not blind, must not ship
-  //   *-NOT-BLIND       — known protocol violations
-  //   1k-codex-smoke*   — pre-patch smoke tests, superseded
-  //   multi-model-*     — pre-patch 4-case named smoke (not 1000-question pool)
-  //   1k-rerun-*        — single-case rerun smokes (not statistically meaningful)
-  //   haiku-*           — pre-patch small-N runs
-  // These are real directories on disk for audit trail, but they're not the
-  // results we want readers to browse.
-  const isQuarantined = (d: string) =>
-    d.startsWith("_INVALIDATED") ||
-    d.includes("NOT-BLIND") ||
-    d.startsWith("1k-codex-smoke") ||
-    d.startsWith("multi-model-") ||
-    d.startsWith("1k-rerun-") ||
-    d.startsWith("haiku-");
   const allDirs = readdirSync(RUNS_ROOT).filter((d) => {
-    if (isQuarantined(d)) return false;
+    if (EXCLUDED_RUN_DIRS.test(d)) return false;
+    if (isLegacyQuarantined(d)) return false;
     try {
       return statSync(join(RUNS_ROOT, d)).isDirectory();
     } catch {
@@ -286,7 +313,7 @@ function resolveRuns(includes: string[]): ResolvedRun[] {
     includes.length === 0
       ? allDirs
       : allDirs.filter((d) =>
-          includes.some((g) => matchGlob(d, g)),
+          includes.some((g) => matchGlob(d, g)) && !EXCLUDED_RUN_DIRS.test(d),
         );
 
   const out: ResolvedRun[] = [];
@@ -301,9 +328,10 @@ function resolveRuns(includes: string[]): ResolvedRun[] {
       const hasQ = readdirSync(subPath).some((f) => /^q-.+\.json$/.test(f) || /\.json$/.test(f));
       if (!hasQ) continue;
       out.push({
-        modelId: `${runDir}:${sub}`,
-        modelName: humaniseModelName(sub, runDir),
+        modelId: `${runDir}:${sub}`,         // legacy, kept for now
         modelLabel: sub,
+        runDir,
+        modelName: humaniseModelLabel(sub),
         resultsDir: subPath,
         judgeDir,
       });
@@ -317,15 +345,14 @@ function resolveRuns(includes: string[]): ResolvedRun[] {
   return out;
 }
 
-function humaniseModelName(sub: string, runDir: string): string {
+function humaniseModelLabel(label: string): string {
   const named: Record<string, string> = {
     sonnet: "Claude Sonnet 4.6",
     opus: "Claude Opus 4.7",
     haiku: "Claude Haiku 4.5",
     codex: "GPT-5 Codex",
   };
-  const human = named[sub] ?? sub;
-  return `${human} · ${runDir}`;
+  return named[label] ?? label;  // unmapped labels render as-is
 }
 
 function matchGlob(name: string, pattern: string): boolean {
@@ -366,13 +393,16 @@ function loadResults(run: ResolvedRun): Map<string, OutResult> {
     if (!file.endsWith(".json")) continue;
     if (file.startsWith("_")) continue;
     const id = file.replace(/\.json$/, "");
-    const raw = loadJson<RawResult>(join(run.resultsDir, file));
+    const sourcePath = join(run.resultsDir, file);
+    const raw = loadJson<RawResult>(sourcePath);
     if (!raw) continue;
     const out: OutResult = {
       answer: typeof raw.answer === "string" ? raw.answer : "",
       tool_calls: Array.isArray(raw.tool_calls) ? raw.tool_calls : [],
       citations: Array.isArray(raw.citations) ? raw.citations : [],
       duration_ms: typeof raw.duration_ms === "number" ? raw.duration_ms : 0,
+      from_run: run.runDir,        // stamped here; merge in main may overwrite
+      _source_path: sourcePath,
     };
     // Prefer the score file's per-case pass (matches /numbers headline).
     if (passById.has(id)) out.mechanical_pass = passById.get(id);
@@ -395,6 +425,41 @@ function loadResults(run: ResolvedRun): Map<string, OutResult> {
   return map;
 }
 
+/**
+ * Pick the result whose source file has the larger mtime (most recently
+ * generated). Defensive merge for the eventual case where one model has
+ * results in multiple run dirs. Today no case appears in multiple runs.
+ */
+function pickByMtime(a: OutResult, b: OutResult): OutResult {
+  const am = mtimeOf(a._source_path);
+  const bm = mtimeOf(b._source_path);
+  return bm > am ? b : a;
+}
+
+function mtimeOf(path: string | undefined): number {
+  if (!path) return 0;
+  try {
+    return statSync(path).mtimeMs;
+  } catch {
+    return 0;
+  }
+}
+
+/**
+ * Inlined copy of lib/eval-types.ts `passOf`, intentionally not imported to
+ * keep the build script free of cross-package boundaries. Same precedence:
+ * judge verdict → mechanical_pass → null.
+ */
+function passOf(result: OutResult | undefined): boolean | null {
+  if (!result) return null;
+  if (result.judge) {
+    const j = result.judge;
+    return j.factual_correct && j.citation_backed && !j.hallucinated;
+  }
+  if (typeof result.mechanical_pass === "boolean") return result.mechanical_pass;
+  return null;
+}
+
 function main() {
   const flags = parseFlags();
   console.log(`Building eval.json → ${flags.out}`);
@@ -411,16 +476,10 @@ function main() {
   console.log(`  runs: ${runs.length}`);
 
   const cases = new Map<string, OutCase>();
-  const models: OutModel[] = [];
 
   for (const run of runs) {
-    models.push({
-      id: run.modelId,
-      name: run.modelName,
-      label: run.modelLabel,
-    });
     const results = loadResults(run);
-    console.log(`    ${run.modelId}: ${results.size} results`);
+    console.log(`    ${run.runDir}/${run.modelLabel}: ${results.size} results`);
     for (const [id, result] of results) {
       let c = cases.get(id);
       if (!c) {
@@ -440,8 +499,43 @@ function main() {
       if (result.mechanical_pass === undefined) {
         result.mechanical_pass = computeMechanicalPass(result.answer, c.expected_works);
       }
-      c.results[run.modelId] = result;
+      result.from_run = run.runDir;       // stamp before storing
+      const existing = c.results[run.modelLabel];
+      if (existing) {
+        // Same model, multiple runs — defensive merge. Pick the result whose
+        // source q-NNNN.json has the larger mtime (most recently generated).
+        const newer = pickByMtime(existing, result);
+        c.results[run.modelLabel] = newer;
+        console.warn(
+          `[merge] case ${c.id} has results from multiple runs for model ${run.modelLabel}; ` +
+            `keeping ${newer === result ? run.runDir : "previous"}.`,
+        );
+      } else {
+        c.results[run.modelLabel] = result;
+      }
     }
+  }
+
+  // Per-modelLabel aggregation. One entry per unique label across all runs,
+  // pass/case counts computed over the merged results. Stable order by label.
+  const labels = new Set(runs.map((r) => r.modelLabel));
+  const models: OutModel[] = [];
+  for (const label of labels) {
+    let pass = 0;
+    let total = 0;
+    for (const c of cases.values()) {
+      const r = c.results[label];
+      if (!r) continue;
+      total += 1;
+      if (passOf(r) === true) pass += 1;
+    }
+    models.push({
+      id: label,
+      name: humaniseModelLabel(label),
+      label,
+      pass_count: pass,
+      case_count: total,
+    });
   }
 
   // Stable ordering: sort cases by id so diffs against previous builds
@@ -449,6 +543,14 @@ function main() {
   // order is predictable.
   const orderedCases = [...cases.values()].sort((a, b) => a.id.localeCompare(b.id));
   models.sort((a, b) => a.id.localeCompare(b.id));
+
+  // Strip internal `_source_path` before serialising — it's a build-time tiebreak
+  // helper, not part of the published shape.
+  for (const c of orderedCases) {
+    for (const r of Object.values(c.results)) {
+      delete (r as { _source_path?: string })._source_path;
+    }
+  }
 
   const payload = {
     version: "1",
@@ -471,6 +573,44 @@ function main() {
       `  ⚠ gzipped size ${formatBytes(gz)} exceeds the 800KB target. Consider trimming long answers/reasoning.`,
     );
   }
+
+  // Slim eval-index.json — same EvalJson shape, but each result carries only
+  // { from_run, mechanical_pass, has_judge }. The explorer fetches this at
+  // runtime; per-case pages still consume the full eval.json at build time.
+  interface SlimResult {
+    from_run: string;
+    mechanical_pass?: boolean;
+    has_judge: boolean;
+  }
+  const indexCases = orderedCases.map((c) => {
+    const slimResults: Record<string, SlimResult> = {};
+    for (const [modelId, r] of Object.entries(c.results)) {
+      slimResults[modelId] = {
+        from_run: r.from_run,
+        mechanical_pass: r.mechanical_pass,
+        has_judge: r.judge !== undefined,
+      };
+    }
+    return {
+      id: c.id,
+      category: c.category,
+      difficulty: c.difficulty,
+      prompt: c.prompt,
+      expected_works: c.expected_works,
+      // rationale intentionally stripped — not needed for filtering/headlines.
+      results: slimResults,
+    };
+  });
+  const indexJson = {
+    version: payload.version,
+    generated_at: payload.generated_at,
+    models: payload.models,
+    cases: indexCases,
+  };
+  const indexOut = resolve(REPO_ROOT, "apps/site/public/eval-index.json");
+  writeFileSync(indexOut, JSON.stringify(indexJson)); // minified
+  const indexBytes = Buffer.byteLength(JSON.stringify(indexJson), "utf8");
+  console.log(`  wrote eval-index.json: ${formatBytes(indexBytes)}`);
 }
 
 function formatBytes(n: number): string {
