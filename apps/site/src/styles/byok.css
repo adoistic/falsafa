@@ -926,3 +926,18 @@
   display: flex;
   gap: var(--s-2);
 }
+
+/* ── Download-run button ─────────────────────────────────────────────── */
+
+.byok-download-btn {
+  display: inline-block;
+  margin-top: var(--s-4);
+  padding: var(--s-2) var(--s-4);
+  background: transparent;
+  border: 1px solid var(--rule);
+  font-family: var(--font-sans);
+  font-size: 13px;
+  color: var(--ink);
+  cursor: pointer;
+}
+.byok-download-btn:hover { background: var(--paper-soft, var(--paper)); }

@@ -51,6 +51,7 @@ export default function QuestionInput({
         placeholder="Ask anything about the Falsafa corpus."
         aria-describedby="byok-question-help"
         disabled={inFlight}
+        data-byok-prompt
         onInput={(e) => onChange((e.currentTarget as HTMLTextAreaElement).value)}
         onKeyDown={handleKeyDown}
       />
