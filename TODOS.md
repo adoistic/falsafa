@@ -5,6 +5,77 @@ during the review and are explicitly NOT V1 scope. Each is captured with enough
 context that someone picking it up in 3 months understands the motivation and
 where to start.
 
+## Re-run eval on 1,000-question pool against citation-aware MCP
+
+**Status:** PLANNED, not started. Prerequisite work archived 2026-04-29.
+
+**What:** Re-run the eval suite on the full 1,000-question audited pool
+(`eval/questions-revised-1000.json`) against the current MCP — i.e. with
+commit `b6a13ac fix(mcp): annotate read_chapter body with [p-xxxxxx]
+paragraph_id markers` already in place. Replace the 232 archived cases with
+~1,000 fresh cases that actually exercise the citation-precision claim
+the redesign rests on.
+
+**Why:** The 232 cases currently archived under
+`apps/mcp/eval/runs/_ARCHIVED-pre-citation-mcp/` were generated before the
+b6a13ac MCP fix. Sonnet judges already flagged two failures (`q-0626`,
+`q-0951`) where the agent invented paragraph_ids because the chapter body
+lacked the inline markers. Continuing to publish those numbers as evidence
+of "citation precision" undermines the entire pitch — they're tests against
+an old version of the product.
+
+**Approximate scope (subject to a fresh /plan-eng-review pass):**
+
+- ~1,000 cases × ~30s wall-clock per case ≈ 8 hours serial. With the
+  existing orchestrated-batch dispatcher and ~10 concurrent sub-agents,
+  ~1 hour wall-clock is realistic.
+- API cost: 1,000 × ~$0.05 (Sonnet) ≈ $50 in Anthropic credits (rough; the
+  actual number depends on tool-call density and answer length).
+- Optional Sonnet judge layer on top: another ~$50 if the judge runs over
+  every case. Mechanical-pass already covers happy-path scoring; judge is
+  what unlocks removing the `<meta robots="noindex">` on case pages.
+
+**Anti-cheat:** the run-subagent prompt patch from the morning of 2026-04-28
+(see `_INVALIDATED-pre-anti-cheat-patch/`) must stay in place — sub-agents
+must not be able to read the question pool, calibration scores, or prior
+runs.
+
+**Output target:** a new run dir like
+`apps/mcp/eval/runs/1k-citation-mcp-YYYYMMDD/sonnet/q-NNNN.json` per case.
+Then `bun run eval/build-eval-json.ts` regenerates
+`apps/site/public/eval.json` + `eval-index.json` from the new dir, and
+~1,000 case pages pre-render at `/eval/q-NNNN/`.
+
+**`<meta robots>` flip:** `apps/site/src/pages/eval/[id].astro` currently
+emits `noindex,follow` because the published verdicts are mechanical-pass
+fallbacks (no judge data on any case). Once the judge layer ships against
+the new run, drop the noindex meta — that's the unblocker for indexing the
+case pages and treating them as the audit trail they're meant to be.
+
+**Where to start:**
+
+1. Read `docs/eval-reports/_FINAL-NIGHT-REPORT.md` for the methodology
+   that produced the archived runs (parallel sub-agents, anti-cheat,
+   orchestrator-summary-only).
+2. Read `apps/mcp/eval/run-subagent-evals.ts` for the dispatch pattern
+   (this is where the anti-cheat prompt patch lives).
+3. Read `eval/questions-revised-1000.json` to see what's in the pool and
+   whether any pre-Sonnet sub-agent metadata would benefit from a
+   refresh.
+4. Pick a batch size + concurrency. Start small (50 cases) to verify the
+   pipeline still works against the citation-aware MCP, then scale.
+
+**Depends on:** nothing (the b6a13ac fix is already merged).
+
+**Triggers a follow-up:**
+
+- Drop `<meta robots="noindex">` on case pages.
+- Update the eval-redesign writeup with before/after numbers (citation-
+  precision, hallucination rate) — the archived runs become the "before".
+- Update `/numbers/` page if any headline figures shift.
+
+---
+
 ## MCP fix: surface paragraph_id hashes in `read_chapter` body output
 
 **What:** When the MCP's `read_chapter` returns a chapter body, include the
