@@ -190,19 +190,58 @@ async function readChapter(
     args.variant,
   );
   const variantCT = variantContentTypeFor(meta, variantFile);
+  // Annotate body with [p-xxxxxx] markers so the model can cite by
+  // paragraph hash without guessing. Mirrors the stdio MCP fix at
+  // apps/mcp/src/tools.ts (commit b6a13ac). Without this, the model
+  // sees no per-paragraph hashes and either invents them or falls
+  // back to inline verse markers (e.g. "Mn_1.52") that don't resolve.
+  const paragraphs = await readParagraphs(args.work_slug, meta.chapter_number, variantFile);
+  const annotatedBody = annotateBodyWithParagraphIds(body, paragraphs);
   return {
     work_slug: args.work_slug,
     chapter_number: meta.chapter_number,
     chapter_slug: meta.chapter_slug,
     variant: variantCT,
     title: meta.title,
-    body,
+    body: annotatedBody,
     citation_url: urlForCitation({
       workSlug: args.work_slug,
       chapterSlug: meta.chapter_slug,
       variant: variantCT,
     }),
   };
+}
+
+/**
+ * Inject [p-xxxxxx] prefixes at each paragraph's offset in the body.
+ * Direct port of apps/mcp/src/tools.ts:annotateBodyWithParagraphIds
+ * (commit b6a13ac). If the sidecar is empty (no per-paragraph index),
+ * returns the body unchanged. Offsets that fall outside the body are
+ * silently skipped — those paragraphs lose annotation but the body
+ * stays intact.
+ *
+ * The marker format [p-xxxxxx] matches the convention used by the
+ * BYOK demo's defensive linkifier (defensive-linkify.ts), so a
+ * paragraph_id surfaced here flows unchanged through the model into
+ * a citation.
+ */
+function annotateBodyWithParagraphIds(
+  body: string,
+  paragraphs: ReadonlyArray<{ paragraph_id: string; offset: number }>,
+): string {
+  if (paragraphs.length === 0) return body;
+  const sorted = [...paragraphs].sort((a, b) => a.offset - b.offset);
+  let out = "";
+  let cursor = 0;
+  for (const p of sorted) {
+    if (typeof p.offset !== "number" || p.offset < cursor) continue;
+    if (p.offset > body.length) break;
+    out += body.slice(cursor, p.offset);
+    out += `[${p.paragraph_id}] `;
+    cursor = p.offset;
+  }
+  out += body.slice(cursor);
+  return out;
 }
 
 // ── get_passage ────────────────────────────────────────────────────────

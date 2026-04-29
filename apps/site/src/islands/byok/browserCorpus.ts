@@ -68,6 +68,13 @@ export interface ParagraphRecord {
   paragraph_id: string;
   index: number;
   text: string;
+  /**
+   * Character offset of this paragraph within the source variant body
+   * (post-frontmatter). Needed by tool-side body annotation to inject
+   * [p-xxxxxx] markers at the right insertion points so the model can
+   * cite by hash rather than guessing from inline verse markers.
+   */
+  offset: number;
 }
 
 /**
@@ -256,14 +263,16 @@ export async function readParagraphs(
       `/corpus/works/${slug}/chapters/${meta.chapter_slug}/${sidecar}`,
     );
     // Normalize the on-disk shape (id, offset, text) into our canonical
-    // shape (paragraph_id, index, text). `index` is the array position;
-    // `offset` is the character offset in the source variant, not a
-    // paragraph index — the model's paragraph_range queries treat 0-N as
-    // sequential paragraph numbers, so we use array position as `index`.
+    // shape (paragraph_id, index, text, offset). `index` is the array
+    // position; `offset` is the character offset in the source variant.
+    // The model's paragraph_range queries treat 0-N as sequential paragraph
+    // numbers, so we use array position as `index`. `offset` is preserved
+    // for body-annotation in read_chapter (injecting [p-xxxxxx] markers).
     const records: ParagraphRecord[] = raw.map((r, i) => ({
       paragraph_id: r.id,
       index: i,
       text: r.text,
+      offset: r.offset,
     }));
     cache.paragraphs.set(cacheKey, records);
     return records;
