@@ -1,34 +1,19 @@
 /**
  * EvalExplorer — Preact island for /eval.
  *
- * Loads /eval.json once on mount. Renders a header with headline pass
- * rates per model, a filter bar (category, difficulty, pass/fail,
- * free-text search), and a virtualized list of cases. Click a row to
- * expand a per-model panel: answer, tool-call trace, citations with
- * deep-links into the reading site, and the judge's verdict + reasoning.
+ * Loads /eval-index.json once on mount. Renders a header with headline
+ * pass rates, a filter bar (category, difficulty, pass/fail, free-text
+ * search), and a flat list of cases. Each row is an anchor to the
+ * per-case page at /eval/<id>/.
  *
  * Filter state is mirrored to the URL hash so a filtered view is
  * shareable. No router, no router-shaped abstraction; just window.location.
- *
- * Virtualization uses @tanstack/virtual-core directly (the framework-
- * agnostic layer underneath @tanstack/react-virtual). The Preact-side
- * adapter is `useVirtualizer` below, ~30 lines. We import virtual-core
- * rather than react-virtual because that one pulls react/react-dom and
- * would require enabling Astro's preact compat at the config level —
- * out of scope for this slice.
  */
 
-import { useEffect, useMemo, useReducer, useRef, useState } from "preact/hooks";
+import { useEffect, useMemo, useState } from "preact/hooks";
 import type { JSX } from "preact";
-import {
-  Virtualizer,
-  elementScroll,
-  observeElementOffset,
-  observeElementRect,
-} from "@tanstack/virtual-core";
 import type {
   EvalCase,
-  EvalCaseResult,
   EvalJson,
   EvalModelMeta,
 } from "./types";
@@ -68,7 +53,6 @@ const EMPTY_FILTERS: FilterState = {
 export default function EvalExplorer({ src = "/eval-index.json" }: Props): JSX.Element {
   const [fetchState, setFetchState] = useState<FetchState>({ kind: "loading" });
   const [filters, setFilters] = useState<FilterState>(() => readFiltersFromHash());
-  const [expandedId, setExpandedId] = useState<string | null>(null);
 
   // Load once on mount.
   useEffect(() => {
@@ -140,8 +124,6 @@ export default function EvalExplorer({ src = "/eval-index.json" }: Props): JSX.E
       data={fetchState.data}
       filters={filters}
       setFilters={setFilters}
-      expandedId={expandedId}
-      setExpandedId={setExpandedId}
     />
   );
 }
@@ -152,14 +134,10 @@ function Loaded({
   data,
   filters,
   setFilters,
-  expandedId,
-  setExpandedId,
 }: {
   data: EvalJson;
   filters: FilterState;
   setFilters: (f: FilterState | ((prev: FilterState) => FilterState)) => void;
-  expandedId: string | null;
-  setExpandedId: (id: string | null) => void;
 }): JSX.Element {
   // Catalogues for the filter chips.
   const allCategories = useMemo(
@@ -213,12 +191,7 @@ function Loaded({
         filteredCount={filteredCases.length}
         totalCount={data.cases.length}
       />
-      <CaseList
-        cases={filteredCases}
-        models={data.models}
-        expandedId={expandedId}
-        setExpandedId={setExpandedId}
-      />
+      <CaseList cases={filteredCases} />
     </div>
   );
 }
@@ -400,40 +373,9 @@ function FilterChipGroup({
   );
 }
 
-/* ── Case list (virtualized) ─────────────────────────────────────────── */
+/* ── Case list (flat anchors) ────────────────────────────────────────── */
 
-const ROW_HEIGHT = 64;
-const EXPANDED_EXTRA = 0; // dynamic size; the virtualizer measures the row.
-
-function CaseList({
-  cases,
-  models,
-  expandedId,
-  setExpandedId,
-}: {
-  cases: EvalCase[];
-  models: EvalModelMeta[];
-  expandedId: string | null;
-  setExpandedId: (id: string | null) => void;
-}): JSX.Element {
-  const parentRef = useRef<HTMLDivElement | null>(null);
-
-  const virtualizer = useVirtualizer({
-    count: cases.length,
-    getScrollElement: () => parentRef.current,
-    estimateSize: (i) =>
-      cases[i]?.id === expandedId ? ROW_HEIGHT + 360 + EXPANDED_EXTRA : ROW_HEIGHT,
-    overscan: 6,
-    getItemKey: (i) => cases[i]?.id ?? i,
-  });
-
-  // When the expanded row changes, re-measure so the virtualizer recomputes
-  // the total scroll height. Without this the page below the expanded row
-  // can briefly clip.
-  useEffect(() => {
-    virtualizer.measure();
-  }, [expandedId, virtualizer]);
-
+function CaseList({ cases }: { cases: EvalCase[] }): JSX.Element {
   if (cases.length === 0) {
     return (
       <div class="eval-empty">
@@ -442,223 +384,31 @@ function CaseList({
     );
   }
 
-  const items = virtualizer.getVirtualItems();
-  const total = virtualizer.getTotalSize();
-
   return (
-    <div class="eval-list-wrap" ref={parentRef}>
-      <div
-        class="eval-list-inner"
-        style={{ height: `${total}px`, position: "relative" }}
-      >
-        {items.map((item) => {
-          const c = cases[item.index];
-          if (!c) return null;
-          const isExpanded = expandedId === c.id;
-          return (
-            <div
-              key={item.key}
-              data-index={item.index}
-              ref={virtualizer.measureElement}
-              style={{
-                position: "absolute",
-                top: 0,
-                left: 0,
-                width: "100%",
-                transform: `translateY(${item.start}px)`,
-              }}
-            >
-              <CaseRow
-                c={c}
-                models={models}
-                expanded={isExpanded}
-                onToggle={() => setExpandedId(isExpanded ? null : c.id)}
-              />
-            </div>
-          );
-        })}
-      </div>
-    </div>
+    <ul class="eval-case-list">
+      {cases.map((c) => (
+        <li key={c.id}>
+          <CaseRow c={c} />
+        </li>
+      ))}
+    </ul>
   );
 }
 
-function CaseRow({
-  c,
-  models,
-  expanded,
-  onToggle,
-}: {
-  c: EvalCase;
-  models: EvalModelMeta[];
-  expanded: boolean;
-  onToggle: () => void;
-}): JSX.Element {
+function CaseRow({ c }: { c: EvalCase }): JSX.Element {
+  const v = passOf(c.results.sonnet);
+  const verdict = v === true ? "pass" : v === false ? "fail" : "mixed";
   return (
-    <article class={"eval-case " + (expanded ? "is-expanded" : "")}>
-      <button
-        type="button"
-        class="eval-case-summary"
-        aria-expanded={expanded}
-        onClick={onToggle}
-      >
-        <div class="eval-case-meta">
-          <span class="eval-case-id">{c.id}</span>
-          <span class="eval-case-cat">{c.category}</span>
-          <span class={"eval-case-diff diff-" + slugify(c.difficulty)}>
-            {c.difficulty}
-          </span>
-        </div>
-        <div class="eval-case-prompt">{c.prompt}</div>
-        <div class="eval-case-verdicts" aria-label="Per-model verdicts">
-          {models.map((m) => {
-            const v = passOf(c.results[m.id]);
-            const cls =
-              v === null ? "verdict-na" : v ? "verdict-pass" : "verdict-fail";
-            const glyph = v === null ? "·" : v ? "✓" : "✗";
-            return (
-              <span class={"eval-verdict " + cls} title={`${m.name}: ${v === null ? "no run" : v ? "pass" : "fail"}`} key={m.id}>
-                <span class="eval-verdict-label">{m.label}</span>
-                <span class="eval-verdict-glyph" aria-hidden="true">{glyph}</span>
-              </span>
-            );
-          })}
-        </div>
-      </button>
-      {expanded && <CasePanel c={c} models={models} />}
-    </article>
-  );
-}
-
-function CasePanel({
-  c,
-  models,
-}: {
-  c: EvalCase;
-  models: EvalModelMeta[];
-}): JSX.Element {
-  return (
-    <div class="eval-case-panel">
-      <div class="eval-case-question">
-        <p class="eval-case-question-label">Prompt</p>
-        <p class="eval-case-question-body">{c.prompt}</p>
-        {c.rationale && (
-          <p class="eval-case-rationale">
-            <em>Why this case:</em> {c.rationale}
-          </p>
-        )}
-        {c.expected_works.length > 0 && (
-          <p class="eval-case-expected">
-            <span class="eval-case-expected-label">Expected works:</span>{" "}
-            {c.expected_works.map((slug, i) => (
-              <span key={slug}>
-                {i > 0 && ", "}
-                <a href={`/works/${slug}/`} class="eval-link-mono">{slug}</a>
-              </span>
-            ))}
-          </p>
-        )}
-      </div>
-      <div class="eval-case-models">
-        {models.map((m) => {
-          const r = c.results[m.id];
-          if (!r) {
-            return (
-              <section class="eval-model-card eval-model-card-empty" key={m.id}>
-                <header class="eval-model-head">
-                  <span class="eval-model-name">{m.name}</span>
-                  <span class="eval-model-na">No run</span>
-                </header>
-              </section>
-            );
-          }
-          return <ModelCard m={m} r={r} key={m.id} />;
-        })}
-      </div>
-    </div>
-  );
-}
-
-function ModelCard({
-  m,
-  r,
-}: {
-  m: EvalModelMeta;
-  r: EvalCaseResult;
-}): JSX.Element {
-  const v = passOf(r);
-  const verdictClass =
-    v === null ? "verdict-na" : v ? "verdict-pass" : "verdict-fail";
-  return (
-    <section class="eval-model-card">
-      <header class="eval-model-head">
-        <span class="eval-model-name">{m.name}</span>
-        <span class={"eval-verdict " + verdictClass}>
-          {v === null ? "no judge" : v ? "✓ pass" : "✗ fail"}
-        </span>
-        {r.duration_ms > 0 && (
-          <span class="eval-model-dur">{(r.duration_ms / 1000).toFixed(1)}s</span>
-        )}
-      </header>
-
-      <details class="eval-section" open>
-        <summary>Answer</summary>
-        <pre class="eval-answer">{r.answer}</pre>
-      </details>
-
-      {r.tool_calls.length > 0 && (
-        <details class="eval-section">
-          <summary>Tool calls ({r.tool_calls.length})</summary>
-          <ol class="eval-tool-trace">
-            {r.tool_calls.map((tc, i) => (
-              <li key={i}>
-                <code class="eval-tool-name">{tc.name}</code>
-                <code class="eval-tool-args">{stringifyArgs(tc.args)}</code>
-                {tc.result_summary && (
-                  <span class="eval-tool-summary">{tc.result_summary}</span>
-                )}
-              </li>
-            ))}
-          </ol>
-        </details>
-      )}
-
-      {r.citations.length > 0 && (
-        <details class="eval-section">
-          <summary>Citations ({r.citations.length})</summary>
-          <ul class="eval-citation-list">
-            {r.citations.map((cit, i) => (
-              <li key={i}>
-                <a
-                  href={citationLink(cit)}
-                  class="eval-link-mono"
-                  target="_blank"
-                  rel="noopener"
-                >
-                  {cit.work_slug}
-                  {cit.chapter_number != null && ` · ch. ${cit.chapter_number}`}
-                  {cit.paragraph_id && ` · ${cit.paragraph_id}`}
-                </a>
-              </li>
-            ))}
-          </ul>
-        </details>
-      )}
-
-      {r.judge && (
-        <details class="eval-section eval-judge" open>
-          <summary>
-            Judge ({r.judge.judge_model}) ·{" "}
-            <span class={verdictClass}>
-              factual:{r.judge.factual_correct ? "y" : "n"} · cite:
-              {r.judge.citation_backed ? "y" : "n"} · halluc:
-              {r.judge.hallucinated ? "y" : "n"} · prose:
-              {r.judge.naturalness_1to5}/5
-            </span>
-          </summary>
-          <p class="eval-judge-reasoning">{r.judge.reasoning}</p>
-        </details>
-      )}
-    </section>
+    <a class="eval-case-row" href={`/eval/${c.id}/`}>
+      <span class="eval-case-id">{c.id}</span>
+      <span class="eval-case-cat">{c.category}</span>
+      <span class={"eval-case-diff diff-" + slugify(c.difficulty)}>
+        {c.difficulty}
+      </span>
+      <span class="eval-case-prompt">{c.prompt}</span>
+      <span class="eval-case-verdict-pill" data-verdict={verdict}></span>
+      <span class="eval-case-arrow" aria-hidden="true">↗</span>
+    </a>
   );
 }
 
@@ -706,84 +456,9 @@ function slugify(s: string): string {
   return s.toLowerCase().replace(/[^a-z0-9]+/g, "-").replace(/(^-|-$)/g, "");
 }
 
-function stringifyArgs(args: unknown): string {
-  try {
-    const s = JSON.stringify(args);
-    return s.length > 120 ? s.slice(0, 117) + "…" : s;
-  } catch {
-    return String(args);
-  }
-}
-
-function citationLink(c: { work_slug: string; chapter_number?: number; paragraph_id?: string }): string {
-  let url = `/works/${c.work_slug}/`;
-  if (c.chapter_number != null) url += `chapters/${c.chapter_number}/`;
-  if (c.paragraph_id) url += `#${c.paragraph_id}`;
-  return url;
-}
-
 function formatTimestamp(iso: string): string {
   if (!iso) return "—";
   const d = new Date(iso);
   if (Number.isNaN(d.getTime())) return iso;
   return d.toISOString().slice(0, 10);
-}
-
-/* ── Preact-side useVirtualizer adapter ──────────────────────────────── *
- *
- * @tanstack/react-virtual imports from "react" + "react-dom", which would
- * require enabling Astro's Preact compat alias. astro.config.mjs is out
- * of scope for this slice, so we wire the framework-agnostic core to
- * Preact hooks directly. Same Virtualizer instance, ~30 lines of glue.
- */
-
-interface VirtualizerOpts {
-  count: number;
-  getScrollElement: () => HTMLElement | null;
-  estimateSize: (index: number) => number;
-  overscan?: number;
-  getItemKey?: (index: number) => string | number;
-}
-
-function useVirtualizer(opts: VirtualizerOpts) {
-  const [, forceRender] = useReducer((x: number) => x + 1, 0);
-  const instanceRef = useRef<Virtualizer<HTMLElement, Element> | null>(null);
-
-  if (instanceRef.current === null) {
-    instanceRef.current = new Virtualizer<HTMLElement, Element>({
-      count: opts.count,
-      getScrollElement: opts.getScrollElement,
-      estimateSize: opts.estimateSize,
-      overscan: opts.overscan ?? 4,
-      getItemKey: opts.getItemKey,
-      observeElementRect,
-      observeElementOffset,
-      scrollToFn: elementScroll,
-      onChange: () => forceRender(),
-    });
-  } else {
-    instanceRef.current.setOptions({
-      ...instanceRef.current.options,
-      count: opts.count,
-      getScrollElement: opts.getScrollElement,
-      estimateSize: opts.estimateSize,
-      overscan: opts.overscan ?? 4,
-      getItemKey: opts.getItemKey,
-      onChange: () => forceRender(),
-    });
-  }
-
-  // Mount lifecycle. The core exposes private-by-convention _didMount /
-  // _willUpdate hooks that react-virtual calls inside layout effects.
-  useEffect(() => {
-    const inst = instanceRef.current;
-    if (!inst) return;
-    return inst._didMount();
-  }, []);
-
-  useEffect(() => {
-    instanceRef.current?._willUpdate();
-  });
-
-  return instanceRef.current!;
 }

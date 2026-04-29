@@ -369,7 +369,119 @@
   font-size: 14px;
 }
 
-/* ── Case row (collapsed) ────────────────────────────────────────────── */
+/* ── Case list (flat anchor rows) ────────────────────────────────────── */
+
+.eval-case-list {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.eval-case-list > li {
+  border-bottom: 1px solid var(--rule);
+}
+
+.eval-case-list > li:last-child {
+  border-bottom: 0;
+}
+
+.eval-case-row {
+  display: grid;
+  grid-template-columns:
+    auto       /* id */
+    auto       /* cat */
+    auto       /* diff */
+    minmax(0, 1fr) /* prompt */
+    auto       /* verdict pill */
+    auto;      /* arrow */
+  align-items: center;
+  column-gap: var(--s-4);
+  padding: var(--s-3) var(--s-5);
+  text-decoration: none;
+  color: inherit;
+  font-family: var(--font-sans);
+  border-bottom: 0;
+  background: var(--paper);
+  transition: background 0.12s ease;
+}
+
+.eval-case-row:hover {
+  background: rgba(138, 58, 46, 0.03);
+}
+
+.eval-case-row:focus-visible {
+  outline: 2px solid var(--accent);
+  outline-offset: -2px;
+}
+
+.eval-case-row .eval-case-prompt {
+  font-family: var(--font-body);
+  font-size: 15px;
+  line-height: 1.4;
+  color: var(--ink);
+  display: -webkit-box;
+  -webkit-line-clamp: 1;
+  -webkit-box-orient: vertical;
+  overflow: hidden;
+  grid-area: auto;
+}
+
+.eval-case-verdict-pill {
+  width: 10px;
+  height: 10px;
+  border-radius: 50%;
+  border: 1px solid var(--rule);
+  display: inline-block;
+}
+
+.eval-case-verdict-pill[data-verdict="pass"] {
+  background: var(--success);
+  border-color: var(--success);
+}
+
+.eval-case-verdict-pill[data-verdict="fail"] {
+  background: var(--error);
+  border-color: var(--error);
+}
+
+.eval-case-verdict-pill[data-verdict="mixed"] {
+  background: transparent;
+  border-style: dashed;
+}
+
+.eval-case-arrow {
+  font-family: var(--font-mono);
+  font-size: 14px;
+  color: var(--ink-muted);
+  opacity: 0;
+  transition: opacity 0.12s ease;
+}
+
+.eval-case-row:hover .eval-case-arrow,
+.eval-case-row:focus-visible .eval-case-arrow {
+  opacity: 1;
+  color: var(--accent);
+}
+
+@media (max-width: 640px) {
+  .eval-case-row {
+    grid-template-columns: 1fr auto auto;
+    grid-template-areas:
+      "meta meta verdict"
+      "prompt prompt arrow";
+    row-gap: var(--s-1);
+    column-gap: var(--s-2);
+  }
+
+  .eval-case-row .eval-case-id { grid-area: meta; }
+  .eval-case-row .eval-case-cat,
+  .eval-case-row .eval-case-diff { display: none; }
+  .eval-case-row .eval-case-prompt { grid-area: prompt; -webkit-line-clamp: 2; }
+  .eval-case-row .eval-case-verdict-pill { grid-area: verdict; justify-self: end; }
+  .eval-case-row .eval-case-arrow { grid-area: arrow; opacity: 1; }
+}
+
+/* ── Case row (legacy, kept for inline-expansion CSS reuse) ──────────── */
 
 .eval-case {
   border-bottom: 1px solid var(--rule);
