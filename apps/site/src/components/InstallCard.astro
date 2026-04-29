@@ -1,0 +1,160 @@
+---
+/**
+ * Install card on /try/. Tab strip with one snippet per surface.
+ * Tab switching is a tiny inline script; SSR shows the first tab
+ * (Claude Desktop) before JS hydrates so noscript readers still
+ * see at least one config.
+ */
+---
+
+<aside class="install-card" id="install">
+  <header>
+    <h2>Install in your daily LLM</h2>
+    <p>One command. Zero API keys, zero state.</p>
+  </header>
+
+  <div class="install-tabs" role="tablist" data-install-tabs>
+    <button class="install-tab is-active" role="tab" aria-selected="true" data-target="claude-desktop">Claude Desktop</button>
+    <button class="install-tab" role="tab" aria-selected="false" data-target="claude-code">Claude Code</button>
+    <button class="install-tab" role="tab" aria-selected="false" data-target="cursor">Cursor</button>
+    <button class="install-tab" role="tab" aria-selected="false" data-target="codex">Codex</button>
+  </div>
+
+  {/* Inactive panels are hidden AND data-pagefind-ignore'd so Pagefind
+      doesn't index all four config snippets as one searchable page. The
+      visible (non-hidden) panel is indexable on first paint, which means
+      a fresh build always indexes Claude Desktop's snippet — acceptable
+      since that's the most common surface anyway. */}
+  <div class="install-panels">
+    <div class="install-panel" id="claude-desktop">
+      <p class="install-step">Edit <code>~/Library/Application Support/Claude/claude_desktop_config.json</code>:</p>
+      <pre class="install-snippet"><code>{`{
+  "mcpServers": {
+    "falsafa": { "command": "npx", "args": ["-y", "@falsafa/mcp"] }
+  }
+}`}</code></pre>
+    </div>
+
+    <div class="install-panel" id="claude-code" hidden data-pagefind-ignore>
+      <p class="install-step">In a terminal:</p>
+      <pre class="install-snippet"><code>claude mcp add falsafa npx -y @falsafa/mcp</code></pre>
+    </div>
+
+    <div class="install-panel" id="cursor" hidden data-pagefind-ignore>
+      <p class="install-step">In a terminal:</p>
+      <pre class="install-snippet"><code>npx -y @falsafa/mcp</code></pre>
+      <p class="install-help">Then point Cursor's MCP settings at that command.</p>
+    </div>
+
+    <div class="install-panel" id="codex" hidden data-pagefind-ignore>
+      <p class="install-step">In a terminal:</p>
+      <pre class="install-snippet"><code>npx -y @falsafa/mcp</code></pre>
+      <p class="install-help">Codex picks up stdio MCPs automatically once the binary is on PATH.</p>
+    </div>
+  </div>
+
+  <p class="install-coming-soon">
+    <span>Coming soon:</span>
+    <span class="install-pill">Custom GPT</span>
+    <span class="install-pill">Gemini Gem</span>
+    <span class="install-pill">Claude Skill marketplace</span>
+  </p>
+</aside>
+
+<script is:inline>
+  (function () {
+    const root = document.querySelector("[data-install-tabs]");
+    if (!root) return;
+    const tabs = root.querySelectorAll(".install-tab");
+    tabs.forEach((tab) => {
+      tab.addEventListener("click", () => {
+        const target = tab.getAttribute("data-target");
+        tabs.forEach((t) => {
+          const active = t === tab;
+          t.classList.toggle("is-active", active);
+          t.setAttribute("aria-selected", active ? "true" : "false");
+        });
+        // Toggle visibility, but DON'T strip data-pagefind-ignore — Pagefind
+        // indexes at build time, not at runtime, so the SSR'd state is what
+        // gets indexed. Runtime tab-switch is purely a render-side concern.
+        document.querySelectorAll(".install-panel").forEach((p) => {
+          p.toggleAttribute("hidden", p.id !== target);
+        });
+      });
+    });
+  })();
+</script>
+
+<style>
+  .install-card {
+    border: 1px solid var(--rule);
+    padding: var(--s-6);
+  }
+  .install-card header h2 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h2);
+    margin: 0 0 var(--s-2);
+  }
+  .install-card header p {
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-6);
+  }
+  .install-tabs {
+    display: flex;
+    gap: var(--s-2);
+    border-bottom: 1px solid var(--rule);
+    margin-bottom: var(--s-4);
+    flex-wrap: wrap;
+  }
+  .install-tab {
+    background: transparent;
+    border: none;
+    padding: var(--s-2) var(--s-3);
+    font-family: var(--font-sans);
+    font-size: 13px;
+    cursor: pointer;
+    color: var(--ink-muted);
+    border-bottom: 2px solid transparent;
+    margin-bottom: -1px;
+  }
+  .install-tab.is-active {
+    color: var(--ink);
+    border-bottom-color: var(--accent);
+  }
+  .install-step {
+    font-family: var(--font-sans);
+    font-size: 13px;
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-2);
+  }
+  .install-snippet {
+    background: var(--paper-soft, var(--paper));
+    border: 1px solid var(--rule);
+    padding: var(--s-3);
+    font-family: var(--font-mono, "SF Mono", Menlo, monospace);
+    font-size: 12px;
+    margin: 0 0 var(--s-3);
+    overflow-x: auto;
+  }
+  .install-help {
+    font-size: 13px;
+    color: var(--ink-muted);
+    margin: 0;
+  }
+  .install-coming-soon {
+    margin-top: var(--s-6);
+    padding-top: var(--s-4);
+    border-top: 1px solid var(--rule);
+    font-family: var(--font-sans);
+    font-size: 12px;
+    color: var(--ink-muted);
+    display: flex;
+    gap: var(--s-2);
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .install-pill {
+    padding: 2px var(--s-2);
+    border: 1px solid var(--rule);
+  }
+</style>
