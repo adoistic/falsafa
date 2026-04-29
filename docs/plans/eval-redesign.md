@@ -148,7 +148,43 @@ out.push({
 });
 ```
 
-Replace the existing `humaniseModelName(sub, runDir)` helper with `humaniseModelLabel(label)` — takes only the label and returns just the human-readable model name (e.g. `"Claude Sonnet 4.6"`). Drop the `· ${runDir}` concatenation. Internal call sites get the simpler invocation.
+Replace the existing `humaniseModelName(sub, runDir)` helper at lines 320-329 with `humaniseModelLabel(label)` — takes only the label and returns just the human-readable model name (e.g. `"Claude Sonnet 4.6"`). Drop the `· ${runDir}` concatenation. **Preserve the existing named-table** so non-sonnet runs (haiku, opus, codex) don't silently fall through to the bare label:
+
+```ts
+function humaniseModelLabel(label: string): string {
+  const named: Record<string, string> = {
+    sonnet: "Claude Sonnet 4.6",
+    opus: "Claude Opus 4.7",
+    haiku: "Claude Haiku 4.5",
+    codex: "GPT-5 Codex",
+  };
+  return named[label] ?? label;  // unmapped labels render as-is, not as default
+}
+```
+
+- [ ] **Step 2.1.5: Filter invalidated and partial run dirs**
+
+The runs/ tree contains directories that should never feed the published `eval.json`:
+- `_INVALIDATED-pre-anti-cheat-patch/` (cases discarded due to anti-cheat gap)
+- `*-NOT-BLIND/` (sequential runs without blinding)
+- `*-quarantine*/` (mid-flight quarantines)
+- `_judge/` and `_*` (sidecar files, already filtered by `sub.startsWith("_")` check at line 298)
+
+Add a hard exclusion list for run dirs (in addition to the existing `includes` glob):
+
+```ts
+const EXCLUDED_RUN_DIRS = new RegExp(
+  "(^_INVALIDATED|-NOT-BLIND$|-quarantine|^_)",
+);
+const matchingDirs =
+  includes.length === 0
+    ? allDirs.filter((d) => !EXCLUDED_RUN_DIRS.test(d))
+    : allDirs.filter((d) =>
+        includes.some((g) => matchGlob(d, g)) && !EXCLUDED_RUN_DIRS.test(d),
+      );
+```
+
+Smoke-check: `ls apps/mcp/eval/runs/ | grep -E '_INVALIDATED|NOT-BLIND'` — note which dirs match; verify none of those names appear in the output's `from_run` fields after Step 2.4 regenerates `eval.json`.
 
 - [ ] **Step 2.2: Re-key `c.results` from `modelId` to `modelLabel`, stamp `from_run`**
 
@@ -219,11 +255,59 @@ jq -r '.cases[].results.sonnet.from_run' apps/site/public/eval.json | sort -u
 # expect: 4 unique run-dir names (1k-final-patched-sonnet, 1k-orchestrated-200, 1k-orchestrated-batch2, batch3)
 ```
 
-- [ ] **Step 2.5: Commit**
+- [ ] **Step 2.5: Emit a small `eval-index.json` alongside the full `eval.json`**
+
+The explorer fetches `eval.json` at runtime (~30 MB unminified — entire answer bodies + tool traces for 268 cases). The explorer only needs id/category/difficulty/prompt/verdict per case; the heavy payload (answer, tool_calls, citations) is only read by the per-case page at build time. Split:
+
+- **`eval.json`** — unchanged shape, full data, **read only at build time** (by `getStaticPaths` in `[id].astro`). No longer fetched at runtime.
+- **`eval-index.json`** — NEW, small (~50-80 KB). Same `EvalJson` shape but each `EvalCase.results[modelId]` carries only `{ from_run, mechanical_pass, has_judge: boolean }` — no `answer`, no `tool_calls`, no `citations`. Plus a `prompt_excerpt: string` (first 200 chars of `prompt`, full prompt available via `case.id` lookup).
+
+In `eval/build-eval-json.ts`, after the full `eval.json` is written, emit `eval-index.json`:
+
+```ts
+const indexCases = data.cases.map((c) => {
+  const slimResults: Record<string, SlimResult> = {};
+  for (const [modelId, r] of Object.entries(c.results)) {
+    slimResults[modelId] = {
+      from_run: r.from_run,
+      mechanical_pass: r.mechanical_pass,
+      has_judge: r.judge !== undefined,
+    };
+  }
+  return {
+    id: c.id,
+    category: c.category,
+    difficulty: c.difficulty,
+    prompt: c.prompt,                                // keep full prompt for filter UX
+    expected_works: c.expected_works,
+    rationale: undefined,                            // strip
+    results: slimResults,
+  };
+});
+const indexJson = { ...data, cases: indexCases };
+writeFileSync(
+  resolve("apps/site/public/eval-index.json"),
+  JSON.stringify(indexJson, null, 0),  // minified
+);
+```
+
+Add `interface SlimResult { from_run: string; mechanical_pass?: boolean; has_judge: boolean; }` to the build-script-internal types. `EvalJson` from `lib/eval-types.ts` is unchanged — `eval-index.json` is structurally a subtype.
+
+Verify size:
+```bash
+ls -lh apps/site/public/eval.json apps/site/public/eval-index.json
+# expect: eval.json large (multi-MB), eval-index.json small (<100KB)
+```
+
+Update [apps/site/src/islands/eval-explorer/EvalExplorer.tsx](../../apps/site/src/islands/eval-explorer/EvalExplorer.tsx) — the existing `useEffect` at line 70 fetches `props.src` (defaulting to `/eval.json`). Change the default to `/eval-index.json`. The explorer never needed answer bodies (it just rendered them inline, which we're removing). Headline numbers come from build-time `pass_count`/`case_count` (Task 2 Step 2.3).
+
+Smoke-test in Task 4's verification: explorer loads ~50 KB instead of ~30 MB.
+
+- [ ] **Step 2.6: Commit**
 
 ```bash
-git add eval/build-eval-json.ts apps/site/public/eval.json
-git commit -m "build(eval): merge sonnet runs into one model entry
+git add eval/build-eval-json.ts apps/site/public/eval.json apps/site/public/eval-index.json apps/site/src/islands/eval-explorer/EvalExplorer.tsx
+git commit -m "build(eval): merge sonnet runs + emit slim eval-index.json
 
 Four runs (1k-final-patched-sonnet, 1k-orchestrated-200,
 1k-orchestrated-batch2, batch3) collapse into one EvalModelMeta
@@ -232,7 +316,19 @@ keyed by 'sonnet'. Each case's results map re-keys from
 preserved in result.from_run for traceability.
 
 humaniseModelName(sub, runDir) replaced with humaniseModelLabel(label)
-— drops the run-dir suffix from the human-readable name.
+— drops the run-dir suffix from the human-readable name. Named
+table preserved for haiku/opus/codex so future runs render correctly.
+
+Invalidated/quarantined run dirs (_INVALIDATED-*, *-NOT-BLIND,
+*-quarantine*) are filtered before they reach the merged output.
+
+Also splits the static asset:
+- eval.json stays as the full payload, read at build time by
+  getStaticPaths in pages/eval/[id].astro.
+- eval-index.json (NEW, ~50 KB) is a slim version with prompt,
+  category, difficulty, expected_works, and a slim results map
+  (no answer, no tool_calls, no citations). Explorer fetches
+  this at runtime instead of the multi-MB eval.json.
 
 pass_count/case_count aggregate across runs at build time, so the
 explorer doesn't need to recompute at runtime."
@@ -535,16 +631,19 @@ Create `apps/site/src/lib/eval-paragraph-link.ts`:
 
 ```ts
 /**
- * Walk an answer string, replace `p-XXXXXX` tokens with anchors when
- * a matching citation resolves to a real chapter URL, and return the
- * resulting HTML. Tokens with no matching citation render as plain text
- * (and emit a build-time warning, advisory only — does NOT fail the
- * build, since legitimate paraphrases sometimes cite ids outside the
- * formal `result.citations[]` set).
+ * Post-process rendered HTML, replacing `p-XXXXXX` text tokens with anchors
+ * when a matching citation resolves to a real chapter URL. Operates on
+ * already-rendered HTML (post markdown), and skips contents inside
+ * `<pre>` and `<code>` elements so code-fence text isn't mangled.
  *
  * The chapter URL is `/works/<work_slug>/<chapter_slug>/translation/#p-XXXXXX`.
  * Variant is hard-coded to `translation` — the canonical English variant
  * matches the existing default in pages/works/[slug]/[chapter]/[variant].astro.
+ *
+ * Tokens with no matching citation render unchanged (no anchor) and emit
+ * a build-time warning, advisory only — does NOT fail the build, since
+ * legitimate paraphrases sometimes cite ids outside the formal
+ * `result.citations[]` set.
  *
  * `listChaptersFn` is dependency-injected so this helper is unit-testable
  * without booting Astro / loading the whole corpus. In Astro callsites,
@@ -557,39 +656,77 @@ type ListChaptersFn = (workSlug: string) => ReadonlyArray<ChapterStub>;
 
 const TOKEN_RE = /\bp-[0-9a-f]{6}\b/gi;
 
-function escapeHtml(s: string): string {
-  return s.replace(/&/g, "&amp;").replace(/</g, "&lt;").replace(/>/g, "&gt;");
-}
+// Splits the HTML into "code" segments (inside <pre>...</pre> or <code>...</code>)
+// and "prose" segments. We only linkify prose. The split is conservative —
+// it doesn't try to be a real HTML parser; it just respects the two element
+// boundaries that matter for not breaking code rendering.
+const CODE_REGION_RE = /<(pre|code)\b[^>]*>[\s\S]*?<\/\1>/gi;
 
-export function linkifyAnswer(
-  answer: string,
+export function linkifyHtml(
+  html: string,
   citations: ReadonlyArray<EvalCitation>,
   listChaptersFn: ListChaptersFn,
 ): string {
-  // Index citations by paragraph_id for O(1) lookup per token.
   const byPid = new Map<string, EvalCitation>();
   for (const c of citations) {
     if (c.paragraph_id) byPid.set(c.paragraph_id, c);
   }
 
-  return answer.replace(TOKEN_RE, (token) => {
+  // Walk the HTML, copying code regions verbatim and linkifying everything else.
+  let out = "";
+  let lastIdx = 0;
+  CODE_REGION_RE.lastIndex = 0;
+  let m: RegExpExecArray | null;
+  while ((m = CODE_REGION_RE.exec(html)) !== null) {
+    const prose = html.slice(lastIdx, m.index);
+    out += linkifyProse(prose, byPid, listChaptersFn);
+    out += m[0];                                  // code region verbatim
+    lastIdx = m.index + m[0].length;
+  }
+  out += linkifyProse(html.slice(lastIdx), byPid, listChaptersFn);
+  return out;
+}
+
+function linkifyProse(
+  prose: string,
+  byPid: Map<string, EvalCitation>,
+  listChaptersFn: ListChaptersFn,
+): string {
+  return prose.replace(TOKEN_RE, (token) => {
     const cite = byPid.get(token);
-    if (!cite || cite.chapter_number === undefined) return escapeHtml(token);
+    if (!cite || cite.chapter_number === undefined) return token;
     const chapters = listChaptersFn(cite.work_slug);
     const ch = chapters.find((c) => c.chapter_number === cite.chapter_number);
     if (!ch) {
-      // Citation pointed at a chapter that doesn't exist in the manifest.
-      // Build-time warning, render as plain text.
       console.warn(
         `[eval-paragraph-link] no chapter for ${cite.work_slug} ch.${cite.chapter_number} (token ${token})`,
       );
-      return escapeHtml(token);
+      return token;
     }
     const href = `/works/${cite.work_slug}/${ch.chapter_slug}/translation/#${token}`;
     return `<a href="${href}">${token}</a>`;
   });
 }
 ```
+
+**Naming note:** the function is `linkifyHtml` (not `linkifyAnswer`) because the operation now runs on rendered HTML, not raw answer text. Update Step 6.1's tests to import `linkifyHtml` and add one new test case:
+
+```ts
+test("preserves p-XXXXXX tokens inside <pre><code> blocks", () => {
+  const html = `<p>See <code>p-92c600</code> in the source.</p>`;
+  const citations: EvalCitation[] = [{
+    work_slug: "mirza-ghalib-diwan-e-ghalib-74ed4c",
+    chapter_number: 115,
+    paragraph_id: "p-92c600",
+  }];
+  const out = linkifyHtml(html, citations, fakeListChapters);
+  // The token inside <code> stays as text, not an anchor.
+  expect(out).toContain("<code>p-92c600</code>");
+  expect(out).not.toContain('<a href=".*p-92c600">p-92c600</a></code>');
+});
+```
+
+The original four tests still apply, just renamed `linkifyAnswer` → `linkifyHtml`. The first test expects an `<a>` in plain `<p>` prose. The "no citation" test expects the token unchanged.
 
 - [ ] **Step 6.4: Run the test — confirm it passes**
 
@@ -600,17 +737,21 @@ Expected: PASS — all four tests green.
 
 ```bash
 git add apps/site/src/lib/eval-paragraph-link.ts apps/site/src/lib/eval-paragraph-link.test.ts
-git commit -m "feat(site): linkifyAnswer helper for case page paragraph links
+git commit -m "feat(site): linkifyHtml helper for case page paragraph links
 
-Walks an answer string, replaces p-XXXXXX tokens with anchors that
-deep-link to the chapter page (variant=translation) when a matching
-citation in result.citations[] resolves to a real chapter via
-listChapters(). Tokens without a matching citation render as plain
-text and emit a build-time warning (advisory, non-fatal).
+Operates on already-rendered HTML (post markdown). Walks prose
+regions only — segments inside <pre>...</pre> or <code>...</code>
+are copied verbatim so code-fence text isn't mangled. Replaces
+p-XXXXXX tokens with anchors that deep-link to the chapter page
+(variant=translation) when a matching citation in result.citations[]
+resolves to a real chapter via listChapters(). Tokens without a
+matching citation render unchanged (no anchor) and emit a build-time
+warning (advisory, non-fatal).
 
 Dependency-injects listChapters so the helper is unit-testable
-without booting Astro. Four tests cover the happy path, the no-
-citation fallback, multi-citation answers, and unresolvable chapters."
+without booting Astro. Five tests cover the happy path, the no-
+citation fallback, multi-citation answers, unresolvable chapters,
+and code-fence preservation."
 ```
 
 ---
@@ -923,9 +1064,14 @@ function shellEscapeJson(args: unknown): string {
     See how a different model handles the same question, or replay the
     exact tool calls from your terminal.
   </p>
-  <a class="run-cta" href={tryUrl}>
-    Run on /try with this prompt →
-  </a>
+  <div class="run-cta-row">
+    <a class="run-cta" href={tryUrl}>
+      Run on /try with this prompt →
+    </a>
+    <a class="run-cta-secondary" href="/try/#install">
+      Or install in your daily LLM →
+    </a>
+  </div>
 
   {toolCalls.length > 0 && (
     <details class="run-cli">
@@ -956,6 +1102,12 @@ function shellEscapeJson(args: unknown): string {
     color: var(--ink-muted);
     margin: 0 0 var(--s-4);
   }
+  .run-cta-row {
+    display: flex;
+    gap: var(--s-4);
+    flex-wrap: wrap;
+    align-items: center;
+  }
   .run-cta {
     display: inline-block;
     padding: var(--s-3) var(--s-5);
@@ -964,6 +1116,14 @@ function shellEscapeJson(args: unknown): string {
     text-decoration: none;
     font-family: var(--font-sans);
     font-weight: 500;
+  }
+  .run-cta-secondary {
+    font-family: var(--font-sans);
+    font-size: 14px;
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+    padding-bottom: 1px;
   }
   .run-cli {
     margin-top: var(--s-5);
@@ -1013,7 +1173,19 @@ JSON args so single-quote-in-string edge cases don't break."
 **Files:**
 - Create: `apps/site/src/pages/eval/[id].astro`
 
-- [ ] **Step 10.1: Scaffold `getStaticPaths`**
+- [ ] **Step 10.0: Add `isomorphic-dompurify` dependency**
+
+The case page renders model-authored answer text via `marked.parse → set:html`. `marked` allows raw HTML in markdown; without a sanitizer, a poisoned answer body could inject scripts. Add the standard fix:
+
+```bash
+cd apps/site && bun add isomorphic-dompurify
+```
+
+`isomorphic-dompurify` works in Node (build-time SSR via JSDOM) and the browser without code change. Both targets are exercised — `getStaticPaths` runs in Node at build, the explorer is in the browser.
+
+Verify install: `cd apps/site && bun pm ls isomorphic-dompurify` — expect a single entry.
+
+- [ ] **Step 10.1: Scaffold `getStaticPaths` and the answer-render pipeline**
 
 ```astro
 ---
@@ -1023,13 +1195,14 @@ import ReportThis from "../../components/ReportThis.astro";
 import ToolCallTrace from "../../components/ToolCallTrace.astro";
 import RunItYourself from "../../components/RunItYourself.astro";
 import { listChapters } from "../../lib/corpus";
-import { linkifyAnswer } from "../../lib/eval-paragraph-link";
+import { linkifyHtml } from "../../lib/eval-paragraph-link";
 import { passOf } from "../../lib/eval-types";
 import type { EvalJson, EvalCase } from "../../lib/eval-types";
 import type { GetStaticPaths } from "astro";
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
 import { marked } from "marked";
+import DOMPurify from "isomorphic-dompurify";
 
 const EVAL_JSON_PATH = resolve(process.cwd(), "public", "eval.json");
 
@@ -1047,14 +1220,47 @@ const verdict = passOf(result);
 const verdictText = verdict === true ? "Pass" : verdict === false ? "Fail" : "Mixed";
 const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—";
 
-// Linkify p-XXXXXX tokens, then markdown-render.
-const linkified = result ? linkifyAnswer(result.answer, result.citations, listChapters) : "";
-const answerHtml = marked.parse(linkified, { async: false }) as string;
+// Render pipeline (order matters):
+//   1. marked.parse(answer)           → markdown-rendered HTML
+//   2. DOMPurify.sanitize(rendered)   → strips <script>, <iframe>, on*= handlers, etc.
+//   3. linkifyHtml(sanitized, ...)    → wraps p-XXXXXX tokens in anchors,
+//                                       skipping <pre>/<code> regions
+const rendered = result ? marked.parse(result.answer, { async: false }) : "";
+if (typeof rendered !== "string") {
+  throw new Error("marked.parse returned non-string; check marked version compat");
+}
+const sanitized = DOMPurify.sanitize(rendered, {
+  // Allow the anchor and code tags that linkifyHtml emits / preserves; strip everything dangerous.
+  ALLOWED_TAGS: ["p", "br", "strong", "em", "code", "pre", "blockquote", "ul", "ol", "li", "h1", "h2", "h3", "h4", "h5", "h6", "a"],
+  ALLOWED_ATTR: ["href"],
+});
+const answerHtml = result ? linkifyHtml(sanitized, result.citations, listChapters) : "";
 
 const caseUrl = `https://falsafa.ai/eval/${c.id}/`;
 const sourceUrl = result
   ? `https://github.com/adoistic/falsafa/tree/main/apps/mcp/eval/runs/${result.from_run}/sonnet/${c.id}.json`
   : null;
+
+// Citations chip row data — distinct from expected_works (auditor's intent).
+// Citations are what the model actually cited; expected_works is what the
+// auditor said it should land on. Showing both lets the reader compare.
+const citationChips = result?.citations
+  ?.filter((c) => c.work_slug)
+  ?.reduce<Array<{ workSlug: string; chapterNumber?: number; paragraphIds: string[] }>>(
+    (acc, c) => {
+      const existing = acc.find(
+        (a) => a.workSlug === c.work_slug && a.chapterNumber === c.chapter_number,
+      );
+      if (existing && c.paragraph_id) existing.paragraphIds.push(c.paragraph_id);
+      else acc.push({
+        workSlug: c.work_slug,
+        chapterNumber: c.chapter_number,
+        paragraphIds: c.paragraph_id ? [c.paragraph_id] : [],
+      });
+      return acc;
+    },
+    [],
+  ) ?? [];
 ---
 ```
 
@@ -1067,6 +1273,20 @@ Below the frontmatter, append:
   title={`${c.id} · Eval`}
   description={`Falsafa eval case ${c.id}: ${c.prompt.slice(0, 140)}…`}
 >
+  {/* Page-level CSP: the answer body is sanitized by DOMPurify but defense-
+      in-depth via CSP keeps the surface tight. No 'unsafe-eval', no inline
+      scripts allowed. The case page has no Pagefind dynamic-import need
+      (Pagefind only runs on /eval/ via the search dialog), so we don't need
+      the Pagefind escape that /try/ has. */}
+  <Fragment slot="head">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:; connect-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'none';" />
+    {/* Until a judge layer runs, every passOf() falls back to mechanical-pass —
+        which over-counts on long/wordy answers. Don't let Google index recorded
+        model output as 'audited' when the audit isn't real yet. Removed in the
+        commit that ships the first judged batch. */}
+    <meta name="robots" content="noindex,follow" />
+  </Fragment>
+
   <article class="eval-case-page" data-pagefind-body>
     <nav class="eval-case-breadcrumb" aria-label="Breadcrumb">
       <a href="/eval/">← Eval</a>
@@ -1086,6 +1306,22 @@ Below the frontmatter, append:
           <span class="expected-works-label">Expected works:</span>
           {c.expected_works.map((slug) => (
             <a class="expected-works-chip" href={`/works/${slug}/`}>{slug}</a>
+          ))}
+        </div>
+      )}
+      {citationChips.length > 0 && (
+        <div class="model-citations">
+          <span class="model-citations-label">Model cited:</span>
+          {citationChips.map((cite) => (
+            <a
+              class="model-citations-chip"
+              href={cite.chapterNumber !== undefined
+                ? `/works/${cite.workSlug}/`
+                : `/works/${cite.workSlug}/`}
+              title={`${cite.workSlug}${cite.chapterNumber !== undefined ? ` ch.${cite.chapterNumber}` : ""}${cite.paragraphIds.length ? ` (${cite.paragraphIds.join(", ")})` : ""}`}
+            >
+              {cite.workSlug}{cite.chapterNumber !== undefined && ` · ch ${cite.chapterNumber}`}
+            </a>
           ))}
         </div>
       )}
@@ -1202,6 +1438,23 @@ Below the frontmatter, append:
     text-decoration: none;
   }
 
+  .model-citations {
+    display: flex;
+    gap: var(--s-2);
+    flex-wrap: wrap;
+    align-items: center;
+    font-family: var(--font-sans);
+    font-size: 13px;
+    margin-top: var(--s-3);
+  }
+  .model-citations-label { color: var(--ink-muted); }
+  .model-citations-chip {
+    padding: 2px var(--s-3);
+    border: 1px dashed var(--rule);  /* dashed to differ from solid expected_works */
+    color: var(--ink);
+    text-decoration: none;
+  }
+
   .eval-case-trace,
   .eval-case-answer,
   .eval-case-judge { margin-bottom: var(--s-10); }
@@ -1281,19 +1534,31 @@ If a `[eval-paragraph-link]` warning fires, note it — that's the helper tellin
 - [ ] **Step 10.5: Commit**
 
 ```bash
-git add apps/site/src/pages/eval/[id].astro
+git add apps/site/src/pages/eval/[id].astro apps/site/package.json apps/site/bun.lock
 git commit -m "feat(site): per-case detail page at /eval/q-NNNN/
 
 Pre-rendered via getStaticPaths over every case in eval.json.
 Pure HTML — no Preact island. Layout follows the spec:
 breadcrumb + verdict pill, prompt as h1, rationale + expected
-works, tool-call trace, markdown answer with linkified
-paragraph_ids, judge verdict (no-op until judge data lands),
-RunItYourself CTA, NonDeterminismCaveat, ReportThis, and a
-run-metadata footer linking to the source q-NNNN.json on GitHub.
+works + model-citations chip row, tool-call trace, sanitized
+markdown answer with linkified paragraph_ids, judge verdict
+(no-op until judge data lands), RunItYourself CTA,
+NonDeterminismCaveat, ReportThis, and a run-metadata footer
+linking to the source q-NNNN.json on GitHub.
 
-Anchor links from the case row on /eval/ now resolve. Pagefind
-indexes the page body via data-pagefind-body."
+Render pipeline: marked.parse → DOMPurify.sanitize → linkifyHtml
+(post-process anchors, skipping <pre>/<code> regions). Adds
+isomorphic-dompurify as a real dep — closes the XSS surface that
+the previous plan punted to a follow-up. Page-level CSP for
+defense-in-depth (no unsafe-eval, no inline scripts).
+
+<meta name='robots' content='noindex'> — until a judge layer
+ships, every passOf() falls back to mechanical-pass which
+over-counts. Don't let Google index recorded model output as
+'audited' when the audit isn't real yet. Remove this meta in
+the commit that ships the first judged batch.
+
+Anchor links from the case row on /eval/ now resolve."
 ```
 
 ---
@@ -1303,7 +1568,7 @@ indexes the page body via data-pagefind-body."
 ```bash
 cd apps/site && bun run check        # typecheck — clean
 cd apps/site && bun run dev          # /eval/q-0002/ renders end-to-end
-cd apps/site && bun test src/lib/    # paragraph-link tests pass
+cd apps/site && bun test src/lib/    # paragraph-link tests pass (5 tests, incl. code-fence)
 cd apps/site && bun run build        # all 268 pages pre-render
 cd apps/site && bun run search:build # Pagefind picks up case bodies
 ```
@@ -1312,6 +1577,10 @@ Visit and confirm:
 - 5 random `/eval/q-NNNN/` URLs render correctly.
 - A search for "ummeed bar nahin" via `/eval/`'s search dialog (or the homepage Pagefind dialog) returns the q-0002 case page.
 - The `Run on /try with this prompt →` button on a case page opens `/try/?prompt=...` with the URL param visible in the address bar.
+- The "Or install in your daily LLM →" secondary link on a case page opens `/try/#install` and scrolls to the install card.
+- View the rendered HTML of a case page (`view-source:`); confirm the `<head>` contains `meta name="robots" content="noindex,follow"` and the CSP meta tag.
+- **XSS smoke-test:** temporarily edit one `eval.json` answer to inject `<script>document.title='pwned'</script>`. Rebuild. Visit the case page. Confirm `document.title` is unchanged — DOMPurify stripped the script. Revert the edit.
+- Inspect the model-citations chip row: a case like `q-0045` (multi-work) should show two distinct chips.
 
 ---
 
@@ -1634,7 +1903,7 @@ envelope, so users can diff their run against ours directly."
  */
 ---
 
-<aside class="install-card">
+<aside class="install-card" id="install">
   <header>
     <h2>Install in your daily LLM</h2>
     <p>One command. Zero API keys, zero state.</p>
@@ -1647,6 +1916,11 @@ envelope, so users can diff their run against ours directly."
     <button class="install-tab" role="tab" aria-selected="false" data-target="codex">Codex</button>
   </div>
 
+  {/* Inactive panels are hidden AND data-pagefind-ignore'd so Pagefind
+      doesn't index all four config snippets as one searchable page. The
+      visible (non-hidden) panel is indexable on first paint, which means
+      a fresh build always indexes Claude Desktop's snippet — acceptable
+      since that's the most common surface anyway. */}
   <div class="install-panels">
     <div class="install-panel" id="claude-desktop">
       <p class="install-step">Edit <code>~/Library/Application Support/Claude/claude_desktop_config.json</code>:</p>
@@ -1657,18 +1931,18 @@ envelope, so users can diff their run against ours directly."
 }`}</code></pre>
     </div>
 
-    <div class="install-panel" id="claude-code" hidden>
+    <div class="install-panel" id="claude-code" hidden data-pagefind-ignore>
       <p class="install-step">In a terminal:</p>
       <pre class="install-snippet"><code>claude mcp add falsafa npx -y @falsafa/mcp</code></pre>
     </div>
 
-    <div class="install-panel" id="cursor" hidden>
+    <div class="install-panel" id="cursor" hidden data-pagefind-ignore>
       <p class="install-step">In a terminal:</p>
       <pre class="install-snippet"><code>npx -y @falsafa/mcp</code></pre>
       <p class="install-help">Then point Cursor's MCP settings at that command.</p>
     </div>
 
-    <div class="install-panel" id="codex" hidden>
+    <div class="install-panel" id="codex" hidden data-pagefind-ignore>
       <p class="install-step">In a terminal:</p>
       <pre class="install-snippet"><code>npx -y @falsafa/mcp</code></pre>
       <p class="install-help">Codex picks up stdio MCPs automatically once the binary is on PATH.</p>
@@ -1696,6 +1970,9 @@ envelope, so users can diff their run against ours directly."
           t.classList.toggle("is-active", active);
           t.setAttribute("aria-selected", active ? "true" : "false");
         });
+        // Toggle visibility, but DON'T strip data-pagefind-ignore — Pagefind
+        // indexes at build time, not at runtime, so the SSR'd state is what
+        // gets indexed. Runtime tab-switch is purely a render-side concern.
         document.querySelectorAll(".install-panel").forEach((p) => {
           p.toggleAttribute("hidden", p.id !== target);
         });
