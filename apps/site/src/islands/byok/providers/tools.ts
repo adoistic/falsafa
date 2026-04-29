@@ -136,10 +136,12 @@ Use markdown's footnote syntax: \`[^1]\` inline, \`[^1]: ...\` at the bottom.
 \`\`\`
 The author argues that property is the foundation of liberty.[^1]
 
-[^1]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-...-2c7a99/00-preface/translation#p-be2857).
+[^1]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-...-2c7a99/00-preface/translation/#p-be2857).
 \`\`\`
 
 The link target — the URL inside \`[paragraph](url)\` — comes from the \`citation_url\` field that read_chapter and get_passage return. Use it verbatim. Don't reconstruct URLs by hand.
+
+**URL format hard rule:** the citation_url always ends in a trailing slash (e.g. \`.../translation/\`). When you append a paragraph anchor like \`#p-be2857\`, keep that slash — write \`.../translation/#p-be2857\`, NEVER \`.../translation#p-be2857\`. The route is configured with \`trailingSlash: always\`; the version without the slash 404s. If get_passage already gave you a URL with the hash baked in, use it as-is and don't strip anything.
 
 ## Picking the right kind of citation
 
