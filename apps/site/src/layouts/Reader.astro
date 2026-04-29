@@ -96,12 +96,18 @@ const { title, description, ogImage, layout } = Astro.props;
       if (parsed.scrollTarget) {
         const target = document.getElementById(parsed.scrollTarget);
         if (target) {
-          // Use rAF so the highlight class is applied before we scroll —
-          // some browsers offset the scroll based on the element's
-          // computed style, and the persistent border-left would shift
-          // layout if applied after the scroll calculation.
+          // Compute target Y in document coordinates and use window.scrollTo —
+          // scrollIntoView({behavior:"smooth"}) silently no-ops in Chromium when
+          // combined with the global html{scroll-behavior:smooth} rule. The
+          // window.scrollTo path is reliably smooth-scrolled.
+          //
+          // The 32px offset accounts for the persistent left-border accent
+          // applied by .falsafa-cited; without it, the top edge of the cited
+          // paragraph would land flush against the viewport top (or under the
+          // sticky reading-progress bar at the very top of the page).
           requestAnimationFrame(() => {
-            target.scrollIntoView({ behavior: "smooth", block: "start" });
+            const targetY = target.getBoundingClientRect().top + window.scrollY - 32;
+            window.scrollTo({ top: targetY, behavior: "smooth" });
           });
         }
       }

@@ -57,7 +57,11 @@ export default function StreamingOutput({ state }: Props): JSX.Element | null {
     const justFinishedStreaming =
       (prev === "streaming" || prev === "submitting") && isComplete;
     if (justFinishedStreaming && hasFinalAnswer && answerRef.current) {
-      answerRef.current.scrollIntoView({ behavior: "smooth", block: "start" });
+      // window.scrollTo path — scrollIntoView({behavior:"smooth"}) silently
+      // no-ops in Chromium under common page-CSS conditions; computing the
+      // target Y manually and using window.scrollTo is the reliable workaround.
+      const targetY = answerRef.current.getBoundingClientRect().top + window.scrollY - 32;
+      window.scrollTo({ top: targetY, behavior: "smooth" });
     }
     prevStatusRef.current = state.status;
   }, [state.status, isComplete, hasFinalAnswer]);
