@@ -30,7 +30,7 @@ const CHIPS = [
 
 <Base
   title="Try"
-  description="Run Falsafa live with your own API key. Watch the librarian tools execute against the corpus in real time. Your key stays in your browser; calls go straight to your provider."
+  description="Install Falsafa as an MCP in your daily LLM, or try it live in the browser with your own API key. The same librarian tools, the same corpus."
 >
   {/* Page-level CSP: connect-src locks down to the four supported provider
       hosts + same-origin (the corpus markdown lives under /corpus/* on
@@ -128,15 +128,6 @@ cd apps/mcp  && bun run dev          # MCP server (stdio)`}</code></pre>
     margin: 0;
   }
 
-  .try-foot {
-    margin-top: var(--s-12);
-    padding-top: var(--s-6);
-    border-top: 1px solid var(--rule);
-    font-family: var(--font-sans);
-    font-size: 13px;
-    color: var(--ink-muted);
-  }
-
   .try-hero {
     display: grid;
     grid-template-columns: 1fr;
@@ -145,6 +136,9 @@ cd apps/mcp  && bun run dev          # MCP server (stdio)`}</code></pre>
   }
 
   @media (min-width: 768px) {
+    .try-page {
+      max-width: 90ch;
+    }
     .try-hero {
       grid-template-columns: 1fr 1fr;
       gap: var(--s-8);
