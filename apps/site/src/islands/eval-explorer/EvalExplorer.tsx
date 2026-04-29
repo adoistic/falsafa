@@ -406,7 +406,9 @@ function CaseRow({ c }: { c: EvalCase }): JSX.Element {
         {c.difficulty}
       </span>
       <span class="eval-case-prompt">{c.prompt}</span>
-      <span class="eval-case-verdict-pill" data-verdict={verdict}></span>
+      <span class="eval-case-verdict-pill" data-verdict={verdict} role="img" aria-label={`Verdict: ${verdict}`}>
+        <span class="sr-only">{verdict}</span>
+      </span>
       <span class="eval-case-arrow" aria-hidden="true">↗</span>
     </a>
   );

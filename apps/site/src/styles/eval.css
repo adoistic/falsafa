@@ -481,7 +481,7 @@
   .eval-case-row .eval-case-arrow { grid-area: arrow; opacity: 1; }
 }
 
-/* ── Case row (legacy, kept for inline-expansion CSS reuse) ──────────── */
+/* ── Legacy: dead after Task 5; reused by per-case page in Chunk 2 (eval/[id].astro) ── */
 
 .eval-case {
   border-bottom: 1px solid var(--rule);
@@ -905,4 +905,20 @@
   letter-spacing: 0.04em;
   display: block;
   margin-top: 4px;
+}
+
+/* Visually-hidden text for screen-reader / CSS-off accessibility.
+   The verdict pill uses this so blind users hear "pass"/"fail"/"mixed"
+   instead of silence. Standard a11y pattern; consider lifting to
+   global.css if other components need it. */
+.sr-only {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  padding: 0;
+  margin: -1px;
+  overflow: hidden;
+  clip: rect(0, 0, 0, 0);
+  white-space: nowrap;
+  border: 0;
 }
