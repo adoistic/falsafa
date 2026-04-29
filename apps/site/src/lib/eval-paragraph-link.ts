@@ -22,7 +22,7 @@ import type { EvalCitation } from "./eval-types";
 interface ChapterStub { chapter_number: number; chapter_slug: string; }
 type ListChaptersFn = (workSlug: string) => ReadonlyArray<ChapterStub>;
 
-const TOKEN_RE = /\bp-[0-9a-f]{6}\b/gi;
+const TOKEN_RE = /\bp-[0-9a-f]{6}\b/g;
 
 // Splits the HTML into "code" segments (inside <pre>...</pre> or <code>...</code>)
 // and "prose" segments. We only linkify prose. The split is conservative —
@@ -40,6 +40,9 @@ export function linkifyHtml(
   for (const c of citations) {
     if (c.paragraph_id) byPid.set(c.paragraph_id, c);
   }
+  // Dedup warnings per (work_slug, chapter_number) per call so build logs
+  // don't flood with repeats when the same missing chapter is cited many times.
+  const warnedKeys = new Set<string>();
 
   // Walk the HTML, copying code regions verbatim and linkifying everything else.
   let out = "";
@@ -48,11 +51,11 @@ export function linkifyHtml(
   let m: RegExpExecArray | null;
   while ((m = CODE_REGION_RE.exec(html)) !== null) {
     const prose = html.slice(lastIdx, m.index);
-    out += linkifyProse(prose, byPid, listChaptersFn);
+    out += linkifyProse(prose, byPid, listChaptersFn, warnedKeys);
     out += m[0];                                  // code region verbatim
     lastIdx = m.index + m[0].length;
   }
-  out += linkifyProse(html.slice(lastIdx), byPid, listChaptersFn);
+  out += linkifyProse(html.slice(lastIdx), byPid, listChaptersFn, warnedKeys);
   return out;
 }
 
@@ -60,6 +63,7 @@ function linkifyProse(
   prose: string,
   byPid: Map<string, EvalCitation>,
   listChaptersFn: ListChaptersFn,
+  warnedKeys: Set<string>,
 ): string {
   return prose.replace(TOKEN_RE, (token) => {
     const cite = byPid.get(token);
@@ -67,9 +71,13 @@ function linkifyProse(
     const chapters = listChaptersFn(cite.work_slug);
     const ch = chapters.find((c) => c.chapter_number === cite.chapter_number);
     if (!ch) {
-      console.warn(
-        `[eval-paragraph-link] no chapter for ${cite.work_slug} ch.${cite.chapter_number} (token ${token})`,
-      );
+      const key = `${cite.work_slug}|${cite.chapter_number}`;
+      if (!warnedKeys.has(key)) {
+        warnedKeys.add(key);
+        console.warn(
+          `[eval-paragraph-link] no chapter for ${cite.work_slug} ch.${cite.chapter_number}`,
+        );
+      }
       return token;
     }
     const href = `/works/${cite.work_slug}/${ch.chapter_slug}/translation/#${token}`;
