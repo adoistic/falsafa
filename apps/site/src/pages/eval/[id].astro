@@ -11,12 +11,29 @@ import type { EvalJson, EvalCase } from "../../lib/eval-types";
 import type { GetStaticPaths } from "astro";
 import { readFileSync } from "node:fs";
 import { resolve } from "node:path";
-import { marked } from "marked";
+import { Marked } from "marked";
+import markedFootnote from "marked-footnote";
 import DOMPurify from "isomorphic-dompurify";
 
+// Mirror BYOK's MarkdownView config — gfm + breaks + footnote — so recorded
+// answers render the same way they do in the live demo. Scoped Marked
+// instance (not the global) so the footnote extension stays contained.
+const md = new Marked({ gfm: true, breaks: true, async: false });
+md.use(markedFootnote());
+
+// Force noopener+noreferrer + target="_blank" on external links in sanitized
+// model output. Same-tab open of a model-controlled URL has no opener
+// isolation; this hook closes that gap. http(s) protocols only — relative
+// links (e.g. /works/...) are internal and stay in-tab.
+DOMPurify.addHook("afterSanitizeAttributes", (node: any) => {
+  if (node.tagName === "A" && node.getAttribute("href")?.match(/^https?:/)) {
+    node.setAttribute("rel", "noopener noreferrer");
+    node.setAttribute("target", "_blank");
+  }
+});
+
 export const getStaticPaths = (() => {
-  // Inlined inside getStaticPaths because Astro hoists this function out of
-  // module scope at build time — top-level consts aren't visible here.
+  // Inlined for locality; see Astro 5 getStaticPaths notes.
   const evalJsonPath = resolve(process.cwd(), "public", "eval.json");
   const data = JSON.parse(readFileSync(evalJsonPath, "utf-8")) as EvalJson;
   return data.cases.map((c) => ({
@@ -32,18 +49,28 @@ const verdictText = verdict === true ? "Pass" : verdict === false ? "Fail" : "Mi
 const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—";
 
 // Render pipeline (order matters):
-//   1. marked.parse(answer)           → markdown-rendered HTML
+//   1. md.parse(answer)               → markdown-rendered HTML (gfm + breaks + footnote)
 //   2. DOMPurify.sanitize(rendered)   → strips <script>, <iframe>, on*= handlers, etc.
 //   3. linkifyHtml(sanitized, ...)    → wraps p-XXXXXX tokens in anchors,
 //                                       skipping <pre>/<code> regions
-const rendered = result ? marked.parse(result.answer, { async: false }) : "";
+const rendered = result ? md.parse(result.answer) : "";
 if (typeof rendered !== "string") {
   throw new Error("marked.parse returned non-string; check marked version compat");
 }
 const sanitized = DOMPurify.sanitize(rendered, {
-  // Allow the anchor and code tags that linkifyHtml emits / preserves; strip everything dangerous.
-  ALLOWED_TAGS: ["p", "br", "strong", "em", "code", "pre", "blockquote", "ul", "ol", "li", "h1", "h2", "h3", "h4", "h5", "h6", "a"],
-  ALLOWED_ATTR: ["href"],
+  // Comprehensive markdown-output set: tables, semantic inline tags, hr,
+  // dl/dt/dd, sub/sup, kbd/samp/var. Real model output uses these; silently
+  // stripping them would change how recorded answers render.
+  ALLOWED_TAGS: [
+    "p", "br", "hr", "strong", "em", "del", "ins", "mark", "sub", "sup",
+    "code", "pre", "kbd", "samp", "var",
+    "blockquote",
+    "ul", "ol", "li", "dl", "dt", "dd",
+    "h1", "h2", "h3", "h4", "h5", "h6",
+    "a",
+    "table", "thead", "tbody", "tfoot", "tr", "th", "td",
+  ],
+  ALLOWED_ATTR: ["href", "title", "colspan", "rowspan", "align", "scope", "target", "rel"],
 });
 const answerHtml = result ? linkifyHtml(sanitized, result.citations, listChapters) : "";
 
@@ -57,17 +84,28 @@ const sourceUrl = result
 // auditor said it should land on. Showing both lets the reader compare.
 const citationChips = result?.citations
   ?.filter((c) => c.work_slug)
-  ?.reduce<Array<{ workSlug: string; chapterNumber?: number; paragraphIds: string[] }>>(
+  ?.reduce<Array<{ workSlug: string; chapterNumber?: number; chapterSlug?: string; paragraphIds: string[] }>>(
     (acc, c) => {
       const existing = acc.find(
         (a) => a.workSlug === c.work_slug && a.chapterNumber === c.chapter_number,
       );
       if (existing && c.paragraph_id) existing.paragraphIds.push(c.paragraph_id);
-      else acc.push({
-        workSlug: c.work_slug,
-        chapterNumber: c.chapter_number,
-        paragraphIds: c.paragraph_id ? [c.paragraph_id] : [],
-      });
+      else {
+        // Resolve chapter_slug at build time so the chip can deep-link to
+        // /works/<work>/<chapter>/translation/#<paragraph_id>. Falls back
+        // to /works/<work>/ when the chapter can't be resolved.
+        let chapterSlug: string | undefined;
+        if (c.chapter_number !== undefined) {
+          const chapters = listChapters(c.work_slug);
+          chapterSlug = chapters.find((ch) => ch.chapter_number === c.chapter_number)?.chapter_slug;
+        }
+        acc.push({
+          workSlug: c.work_slug,
+          chapterNumber: c.chapter_number,
+          chapterSlug,
+          paragraphIds: c.paragraph_id ? [c.paragraph_id] : [],
+        });
+      }
       return acc;
     },
     [],
@@ -117,17 +155,20 @@ const citationChips = result?.citations
       {citationChips.length > 0 && (
         <div class="model-citations">
           <span class="model-citations-label">Model cited:</span>
-          {citationChips.map((cite) => (
-            <a
-              class="model-citations-chip"
-              href={cite.chapterNumber !== undefined
-                ? `/works/${cite.workSlug}/`
-                : `/works/${cite.workSlug}/`}
-              title={`${cite.workSlug}${cite.chapterNumber !== undefined ? ` ch.${cite.chapterNumber}` : ""}${cite.paragraphIds.length ? ` (${cite.paragraphIds.join(", ")})` : ""}`}
-            >
-              {cite.workSlug}{cite.chapterNumber !== undefined && ` · ch ${cite.chapterNumber}`}
-            </a>
-          ))}
+          {citationChips.map((cite) => {
+            const href = cite.chapterSlug
+              ? `/works/${cite.workSlug}/${cite.chapterSlug}/translation/${cite.paragraphIds[0] ? `#${cite.paragraphIds[0]}` : ""}`
+              : `/works/${cite.workSlug}/`;
+            return (
+              <a
+                class="model-citations-chip"
+                href={href}
+                title={`${cite.workSlug}${cite.chapterNumber !== undefined ? ` ch.${cite.chapterNumber}` : ""}${cite.paragraphIds.length ? ` (${cite.paragraphIds.join(", ")})` : ""}`}
+              >
+                {cite.workSlug}{cite.chapterNumber !== undefined && ` · ch ${cite.chapterNumber}`}
+              </a>
+            );
+          })}
         </div>
       )}
     </header>
