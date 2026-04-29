@@ -26,6 +26,7 @@
     "@fontsource/source-serif-4": "^5.0.0",
     "ai": "^6.0.168",
     "astro": "^5.0.0",
+    "isomorphic-dompurify": "^3.10.0",
     "marked": "^18.0.2",
     "marked-footnote": "^1.4.0",
     "preact": "^10.29.1",

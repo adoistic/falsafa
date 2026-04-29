@@ -1,0 +1,317 @@
+---
+import Base from "../../layouts/Base.astro";
+import NonDeterminismCaveat from "../../components/NonDeterminismCaveat.astro";
+import ReportThis from "../../components/ReportThis.astro";
+import ToolCallTrace from "../../components/ToolCallTrace.astro";
+import RunItYourself from "../../components/RunItYourself.astro";
+import { listChapters } from "../../lib/corpus";
+import { linkifyHtml } from "../../lib/eval-paragraph-link";
+import { passOf } from "../../lib/eval-types";
+import type { EvalJson, EvalCase } from "../../lib/eval-types";
+import type { GetStaticPaths } from "astro";
+import { readFileSync } from "node:fs";
+import { resolve } from "node:path";
+import { marked } from "marked";
+import DOMPurify from "isomorphic-dompurify";
+
+export const getStaticPaths = (() => {
+  // Inlined inside getStaticPaths because Astro hoists this function out of
+  // module scope at build time — top-level consts aren't visible here.
+  const evalJsonPath = resolve(process.cwd(), "public", "eval.json");
+  const data = JSON.parse(readFileSync(evalJsonPath, "utf-8")) as EvalJson;
+  return data.cases.map((c) => ({
+    params: { id: c.id },
+    props: { case: c },
+  }));
+}) satisfies GetStaticPaths;
+
+const { case: c } = Astro.props as { case: EvalCase };
+const result = c.results.sonnet;
+const verdict = passOf(result);
+const verdictText = verdict === true ? "Pass" : verdict === false ? "Fail" : "Mixed";
+const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—";
+
+// Render pipeline (order matters):
+//   1. marked.parse(answer)           → markdown-rendered HTML
+//   2. DOMPurify.sanitize(rendered)   → strips <script>, <iframe>, on*= handlers, etc.
+//   3. linkifyHtml(sanitized, ...)    → wraps p-XXXXXX tokens in anchors,
+//                                       skipping <pre>/<code> regions
+const rendered = result ? marked.parse(result.answer, { async: false }) : "";
+if (typeof rendered !== "string") {
+  throw new Error("marked.parse returned non-string; check marked version compat");
+}
+const sanitized = DOMPurify.sanitize(rendered, {
+  // Allow the anchor and code tags that linkifyHtml emits / preserves; strip everything dangerous.
+  ALLOWED_TAGS: ["p", "br", "strong", "em", "code", "pre", "blockquote", "ul", "ol", "li", "h1", "h2", "h3", "h4", "h5", "h6", "a"],
+  ALLOWED_ATTR: ["href"],
+});
+const answerHtml = result ? linkifyHtml(sanitized, result.citations, listChapters) : "";
+
+const caseUrl = `https://falsafa.ai/eval/${c.id}/`;
+const sourceUrl = result
+  ? `https://github.com/adoistic/falsafa/tree/main/apps/mcp/eval/runs/${result.from_run}/sonnet/${c.id}.json`
+  : null;
+
+// Citations chip row data — distinct from expected_works (auditor's intent).
+// Citations are what the model actually cited; expected_works is what the
+// auditor said it should land on. Showing both lets the reader compare.
+const citationChips = result?.citations
+  ?.filter((c) => c.work_slug)
+  ?.reduce<Array<{ workSlug: string; chapterNumber?: number; paragraphIds: string[] }>>(
+    (acc, c) => {
+      const existing = acc.find(
+        (a) => a.workSlug === c.work_slug && a.chapterNumber === c.chapter_number,
+      );
+      if (existing && c.paragraph_id) existing.paragraphIds.push(c.paragraph_id);
+      else acc.push({
+        workSlug: c.work_slug,
+        chapterNumber: c.chapter_number,
+        paragraphIds: c.paragraph_id ? [c.paragraph_id] : [],
+      });
+      return acc;
+    },
+    [],
+  ) ?? [];
+---
+
+<Base
+  title={`${c.id} · Eval`}
+  description={`Falsafa eval case ${c.id}: ${c.prompt.slice(0, 140)}…`}
+>
+  {/* Page-level CSP: the answer body is sanitized by DOMPurify but defense-
+      in-depth via CSP keeps the surface tight. No 'unsafe-eval', no inline
+      scripts allowed. The case page has no Pagefind dynamic-import need
+      (Pagefind only runs on /eval/ via the search dialog), so we don't need
+      the Pagefind escape that /try/ has. */}
+  <Fragment slot="head">
+    <meta http-equiv="Content-Security-Policy" content="default-src 'self'; script-src 'self'; style-src 'self' 'unsafe-inline'; img-src 'self' data:; font-src 'self' data:; connect-src 'self'; base-uri 'self'; form-action 'self'; frame-ancestors 'none';" />
+    {/* Until a judge layer runs, every passOf() falls back to mechanical-pass —
+        which over-counts on long/wordy answers. Don't let Google index recorded
+        model output as 'audited' when the audit isn't real yet. Removed in the
+        commit that ships the first judged batch. */}
+    <meta name="robots" content="noindex,follow" />
+  </Fragment>
+
+  <article class="eval-case-page" data-pagefind-body>
+    <nav class="eval-case-breadcrumb" aria-label="Breadcrumb">
+      <a href="/eval/">← Eval</a>
+      <span class="sep">/</span>
+      <span>{c.id}</span>
+      <span class={`verdict-pill verdict-${verdict === true ? "pass" : verdict === false ? "fail" : "mixed"}`}>
+        {verdictGlyph} {verdictText}
+      </span>
+    </nav>
+
+    <header class="eval-case-header">
+      <p class="kicker">{c.category} · {c.difficulty}</p>
+      <h1>{c.prompt}</h1>
+      {c.rationale && <p class="rationale">Why this is in the suite: {c.rationale}</p>}
+      {c.expected_works.length > 0 && (
+        <div class="expected-works">
+          <span class="expected-works-label">Expected works:</span>
+          {c.expected_works.map((slug) => (
+            <a class="expected-works-chip" href={`/works/${slug}/`}>{slug}</a>
+          ))}
+        </div>
+      )}
+      {citationChips.length > 0 && (
+        <div class="model-citations">
+          <span class="model-citations-label">Model cited:</span>
+          {citationChips.map((cite) => (
+            <a
+              class="model-citations-chip"
+              href={cite.chapterNumber !== undefined
+                ? `/works/${cite.workSlug}/`
+                : `/works/${cite.workSlug}/`}
+              title={`${cite.workSlug}${cite.chapterNumber !== undefined ? ` ch.${cite.chapterNumber}` : ""}${cite.paragraphIds.length ? ` (${cite.paragraphIds.join(", ")})` : ""}`}
+            >
+              {cite.workSlug}{cite.chapterNumber !== undefined && ` · ch ${cite.chapterNumber}`}
+            </a>
+          ))}
+        </div>
+      )}
+    </header>
+
+    {result ? (
+      <>
+        <section class="eval-case-trace">
+          <h2>Tool calls</h2>
+          <ToolCallTrace calls={result.tool_calls} />
+        </section>
+
+        <section class="eval-case-answer">
+          <h2>Answer</h2>
+          <div class="answer-body" set:html={answerHtml} />
+        </section>
+
+        {result.judge && (
+          <section class="eval-case-judge">
+            <h2>Judge verdict</h2>
+            <ul class="judge-badges">
+              <li class={result.judge.factual_correct ? "ok" : "no"}>factual_correct</li>
+              <li class={result.judge.citation_backed ? "ok" : "no"}>citation_backed</li>
+              <li class={result.judge.hallucinated ? "no" : "ok"}>{result.judge.hallucinated ? "hallucinated" : "not hallucinated"}</li>
+            </ul>
+            <p class="judge-naturalness">Naturalness: {result.judge.naturalness_1to5}/5</p>
+            <blockquote class="judge-reasoning">{result.judge.reasoning}</blockquote>
+            <p class="judge-model"><small>Judged by {result.judge.judge_model}</small></p>
+          </section>
+        )}
+
+        <RunItYourself prompt={c.prompt} toolCalls={result.tool_calls} />
+
+        <NonDeterminismCaveat />
+        <ReportThis caseId={c.id} caseUrl={caseUrl} recordedAnswer={result.answer} />
+
+        {sourceUrl && (
+          <footer class="eval-case-meta">
+            <p>From run <a href={sourceUrl}>{result.from_run}</a> · <code>{c.id}.json</code></p>
+          </footer>
+        )}
+      </>
+    ) : (
+      <p class="eval-case-no-result">No recorded result for this case.</p>
+    )}
+  </article>
+</Base>
+
+<style>
+  .eval-case-page {
+    max-width: 70ch;
+    margin: 0 auto;
+    padding: var(--s-12) var(--s-6) var(--s-24);
+    font-family: var(--font-body);
+  }
+  .eval-case-breadcrumb {
+    display: flex;
+    gap: var(--s-3);
+    align-items: center;
+    font-family: var(--font-sans);
+    font-size: 12px;
+    text-transform: lowercase;
+    letter-spacing: 0.04em;
+    margin-bottom: var(--s-8);
+    color: var(--ink-muted);
+  }
+  .eval-case-breadcrumb a {
+    color: var(--ink-muted);
+  }
+  .eval-case-breadcrumb .sep { color: var(--rule); }
+  .verdict-pill {
+    margin-left: auto;
+    padding: 2px var(--s-3);
+    border: 1px solid currentColor;
+    font-weight: 600;
+  }
+  .verdict-pass { color: var(--accent-pass, var(--accent)); }
+  .verdict-fail { color: var(--accent-fail, #b00); }
+  .verdict-mixed { color: var(--ink-muted); }
+
+  .eval-case-header { margin-bottom: var(--s-12); }
+  .eval-case-header .kicker {
+    font-family: var(--font-sans);
+    font-size: 12px;
+    text-transform: uppercase;
+    letter-spacing: 0.12em;
+    color: var(--accent);
+    margin: 0 0 var(--s-3);
+  }
+  .eval-case-header h1 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h1);
+    line-height: var(--lh-display);
+    margin: 0 0 var(--s-4);
+  }
+  .rationale {
+    color: var(--ink-muted);
+    font-style: italic;
+    margin: 0 0 var(--s-4);
+  }
+  .expected-works {
+    display: flex;
+    gap: var(--s-2);
+    flex-wrap: wrap;
+    align-items: center;
+    font-family: var(--font-sans);
+    font-size: 13px;
+  }
+  .expected-works-label { color: var(--ink-muted); }
+  .expected-works-chip {
+    padding: 2px var(--s-3);
+    border: 1px solid var(--rule);
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .model-citations {
+    display: flex;
+    gap: var(--s-2);
+    flex-wrap: wrap;
+    align-items: center;
+    font-family: var(--font-sans);
+    font-size: 13px;
+    margin-top: var(--s-3);
+  }
+  .model-citations-label { color: var(--ink-muted); }
+  .model-citations-chip {
+    padding: 2px var(--s-3);
+    border: 1px dashed var(--rule);  /* dashed to differ from solid expected_works */
+    color: var(--ink);
+    text-decoration: none;
+  }
+
+  .eval-case-trace,
+  .eval-case-answer,
+  .eval-case-judge { margin-bottom: var(--s-10); }
+  .eval-case-trace h2,
+  .eval-case-answer h2,
+  .eval-case-judge h2 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h2);
+    margin: 0 0 var(--s-4);
+  }
+  .answer-body {
+    line-height: var(--lh-body);
+  }
+  .answer-body a {
+    color: var(--accent);
+    border-bottom: 1px solid currentColor;
+  }
+
+  .judge-badges {
+    list-style: none;
+    padding: 0;
+    margin: 0 0 var(--s-3);
+    display: flex;
+    gap: var(--s-2);
+    flex-wrap: wrap;
+  }
+  .judge-badges li {
+    padding: 2px var(--s-3);
+    font-family: var(--font-sans);
+    font-size: 12px;
+  }
+  .judge-badges .ok { background: #e8f3ea; color: #2a6f3c; }
+  .judge-badges .no { background: #f7e3e3; color: #8a2222; }
+  .judge-naturalness { color: var(--ink-muted); margin: 0 0 var(--s-3); }
+  .judge-reasoning {
+    border-left: 2px solid var(--rule);
+    padding-left: var(--s-4);
+    margin: 0 0 var(--s-3);
+    color: var(--ink-muted);
+  }
+
+  .eval-case-meta {
+    margin-top: var(--s-12);
+    padding-top: var(--s-6);
+    border-top: 1px solid var(--rule);
+    font-size: 12px;
+    color: var(--ink-muted);
+    font-family: var(--font-sans);
+  }
+  .eval-case-no-result {
+    padding: var(--s-12);
+    text-align: center;
+    color: var(--ink-muted);
+  }
+</style>
