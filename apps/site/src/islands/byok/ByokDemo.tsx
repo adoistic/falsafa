@@ -13,6 +13,7 @@
 
 import { useEffect, useReducer, useState } from "preact/hooks";
 import type { JSX } from "preact";
+import "../../styles/tool-trace.css";
 import { initialState, reducer, canSubmit, PROVIDERS } from "./state";
 import type { Provider, BYOKAction, BYOKState } from "./types";
 import {
