@@ -1,0 +1,108 @@
+---
+import type { EvalToolCall } from "../lib/eval-types";
+
+interface Props {
+  prompt: string;
+  toolCalls: EvalToolCall[];
+}
+const { prompt, toolCalls } = Astro.props as Props;
+const tryUrl = `/try/?prompt=${encodeURIComponent(prompt)}`;
+
+// Build the replayable mcp-cli.ts commands. JSON.stringify the args
+// inside single quotes for shell — small risk of single-quote-in-string
+// edge cases, handle those by escaping.
+function shellEscapeJson(args: unknown): string {
+  const json = JSON.stringify(args);
+  // Replace single quotes with the standard end-quote / escaped-quote /
+  // start-quote sequence; bash and zsh both handle this.
+  return `'${json.replace(/'/g, `'\\''`)}'`;
+}
+---
+
+<section class="run-it-yourself">
+  <h3>Run it yourself</h3>
+  <p>
+    See how a different model handles the same question, or replay the
+    exact tool calls from your terminal.
+  </p>
+  <div class="run-cta-row">
+    <a class="run-cta" href={tryUrl}>
+      Run on /try with this prompt →
+    </a>
+    <a class="run-cta-secondary" href="/try/#install">
+      Or install in your daily LLM →
+    </a>
+  </div>
+
+  {toolCalls.length > 0 && (
+    <details class="run-cli">
+      <summary>Or run from the command line</summary>
+      <p class="run-cli-help">
+        From a clone of <code>github.com/adoistic/falsafa</code>:
+      </p>
+      <pre class="run-cli-block"><code>{toolCalls.map((c) => `bun run apps/mcp/eval/mcp-cli.ts ${c.name} ${shellEscapeJson(c.args)}`).join("\n")}</code></pre>
+    </details>
+  )}
+</section>
+
+<style>
+  .run-it-yourself {
+    border-top: 1px solid var(--rule);
+    padding-top: var(--s-6);
+    margin-top: var(--s-12);
+  }
+  .run-it-yourself h3 {
+    font-family: var(--font-display);
+    font-size: var(--fs-h3);
+    font-weight: 600;
+    margin: 0 0 var(--s-2);
+  }
+  .run-it-yourself p {
+    color: var(--ink-muted);
+    margin: 0 0 var(--s-4);
+  }
+  .run-cta-row {
+    display: flex;
+    gap: var(--s-4);
+    flex-wrap: wrap;
+    align-items: center;
+  }
+  .run-cta {
+    display: inline-block;
+    padding: var(--s-3) var(--s-5);
+    background: var(--accent);
+    color: var(--paper);
+    text-decoration: none;
+    font-family: var(--font-sans);
+    font-weight: 500;
+  }
+  .run-cta-secondary {
+    font-family: var(--font-sans);
+    font-size: 14px;
+    color: var(--accent);
+    text-decoration: none;
+    border-bottom: 1px solid currentColor;
+    padding-bottom: 1px;
+  }
+  .run-cli {
+    margin-top: var(--s-5);
+  }
+  .run-cli summary {
+    font-family: var(--font-sans);
+    font-size: 14px;
+    cursor: pointer;
+    color: var(--accent);
+  }
+  .run-cli-help {
+    margin: var(--s-3) 0 var(--s-2);
+  }
+  .run-cli-block {
+    background: var(--paper-soft, var(--paper));
+    border: 1px solid var(--rule);
+    padding: var(--s-3) var(--s-4);
+    font-family: var(--font-mono, "SF Mono", Menlo, monospace);
+    font-size: 12px;
+    overflow-x: auto;
+    white-space: pre;
+  }
+</style>
