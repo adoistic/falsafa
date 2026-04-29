@@ -45,7 +45,7 @@ export const getStaticPaths = (() => {
 const { case: c } = Astro.props as { case: EvalCase };
 const result = c.results.sonnet;
 const verdict = passOf(result);
-const verdictText = verdict === true ? "Pass" : verdict === false ? "Fail" : "Mixed";
+const verdictText = verdict === true ? "Pass" : verdict === false ? "Fail" : "Unjudged";
 const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—";
 
 // Render pipeline (order matters):
@@ -135,7 +135,7 @@ const citationChips = result?.citations
       <a href="/eval/">← Eval</a>
       <span class="sep">/</span>
       <span>{c.id}</span>
-      <span class={`verdict-pill verdict-${verdict === true ? "pass" : verdict === false ? "fail" : "mixed"}`}>
+      <span class={`verdict-pill verdict-${verdict === true ? "pass" : verdict === false ? "fail" : "unjudged"}`}>
         {verdictGlyph} {verdictText}
       </span>
     </nav>
@@ -246,7 +246,7 @@ const citationChips = result?.citations
   }
   .verdict-pass { color: var(--accent-pass, var(--accent)); }
   .verdict-fail { color: var(--accent-fail, #b00); }
-  .verdict-mixed { color: var(--ink-muted); }
+  .verdict-unjudged { color: var(--ink-muted); }
 
   .eval-case-header { margin-bottom: var(--s-12); }
   .eval-case-header .kicker {

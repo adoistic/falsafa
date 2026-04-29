@@ -444,7 +444,7 @@
   border-color: var(--error);
 }
 
-.eval-case-verdict-pill[data-verdict="mixed"] {
+.eval-case-verdict-pill[data-verdict="unjudged"] {
   background: transparent;
   border-style: dashed;
 }
@@ -908,7 +908,7 @@
 }
 
 /* Visually-hidden text for screen-reader / CSS-off accessibility.
-   The verdict pill uses this so blind users hear "pass"/"fail"/"mixed"
+   The verdict pill uses this so blind users hear "pass"/"fail"/"unjudged"
    instead of silence. Standard a11y pattern; consider lifting to
    global.css if other components need it. */
 .sr-only {

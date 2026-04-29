@@ -39,7 +39,7 @@ type FetchState =
 interface FilterState {
   categories: Set<string>;
   difficulties: Set<string>;
-  passFilter: "all" | "pass" | "fail" | "mixed";
+  passFilter: "all" | "pass" | "fail" | "unjudged";
   query: string;
 }
 
@@ -170,7 +170,7 @@ function Loaded({
         const v = passOf(result);
         if (filters.passFilter === "pass" && v !== true) return false;
         if (filters.passFilter === "fail" && v !== false) return false;
-        if (filters.passFilter === "mixed" && v !== null) return false;
+        if (filters.passFilter === "unjudged" && v !== null) return false;
       }
       return true;
     });
@@ -291,7 +291,7 @@ function FilterBar({
           />
         </label>
         <div class="eval-filter-pass" role="radiogroup" aria-label="Verdict">
-          {(["all", "pass", "fail", "mixed"] as const).map((opt) => (
+          {(["all", "pass", "fail", "unjudged"] as const).map((opt) => (
             <button
               type="button"
               key={opt}
@@ -397,7 +397,7 @@ function CaseList({ cases }: { cases: EvalCase[] }): JSX.Element {
 
 function CaseRow({ c }: { c: EvalCase }): JSX.Element {
   const v = passOf(c.results.sonnet);
-  const verdict = v === true ? "pass" : v === false ? "fail" : "mixed";
+  const verdict = v === true ? "pass" : v === false ? "fail" : "unjudged";
   return (
     <a class="eval-case-row" href={`/eval/${c.id}/`}>
       <span class="eval-case-id">{c.id}</span>
@@ -426,7 +426,7 @@ function readFiltersFromHash(): FilterState {
     new Set(s.split(",").map((x) => x.trim()).filter(Boolean));
   const passRaw = get("pass");
   const passFilter: FilterState["passFilter"] =
-    passRaw === "pass" || passRaw === "fail" || passRaw === "mixed"
+    passRaw === "pass" || passRaw === "fail" || passRaw === "unjudged"
       ? passRaw
       : "all";
   return {
