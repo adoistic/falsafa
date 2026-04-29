@@ -793,59 +793,38 @@ context."
 - Create: `apps/site/src/components/ToolCallTrace.astro`
 - Create: `apps/site/src/styles/tool-trace.css`
 
-- [ ] **Step 8.1: Create `tool-trace.css`**
+- [ ] **Step 8.1: Extract `byok-toolcall*` rules into `tool-trace.css`**
 
-Create `apps/site/src/styles/tool-trace.css` with the styles needed for tool-call cards. Mirror the visual treatment used by the BYOK island today (extract from `apps/site/src/styles/byok.css` — find the `.byok-tool-call` / `.byok-trace` classes or equivalent). Re-export under generic class names:
+The BYOK island today renders tool calls via [apps/site/src/islands/byok/ui/ToolCallCard.tsx](../../apps/site/src/islands/byok/ui/ToolCallCard.tsx) using these classes (defined in `apps/site/src/styles/byok.css`):
 
-```css
-/* Shared between the BYOK island's live trace and the per-case page's
-   pre-recorded trace. Class names are generic so neither side has to
-   import island-specific CSS. */
-
-.tool-call-trace {
-  display: flex;
-  flex-direction: column;
-  gap: var(--s-3);
-  margin: var(--s-6) 0;
-}
-
-.tool-call-card {
-  border: 1px solid var(--rule);
-  padding: var(--s-4);
-  font-family: var(--font-sans);
-}
-
-.tool-call-name {
-  font-weight: 600;
-  font-size: 13px;
-  text-transform: lowercase;
-  letter-spacing: 0.02em;
-  color: var(--accent);
-  margin: 0 0 var(--s-2);
-  font-family: var(--font-mono, "SF Mono", Menlo, monospace);
-}
-
-.tool-call-args {
-  font-family: var(--font-mono, "SF Mono", Menlo, monospace);
-  font-size: 12px;
-  background: var(--paper-soft, var(--paper));
-  padding: var(--s-2) var(--s-3);
-  margin: 0 0 var(--s-3);
-  white-space: pre-wrap;
-  overflow-x: auto;
-}
-
-.tool-call-result {
-  font-size: 13px;
-  line-height: var(--lh-body);
-  color: var(--ink-muted);
-  margin: 0;
-}
+```
+.byok-toolcalls         (wrapper list)
+.byok-toolcall          (one card)
+.byok-toolcall.is-pending
+.byok-toolcall-head     (name + status row)
+.byok-toolcall-name     (tool name, code-style)
+.byok-toolcall-status   (running | done pill)
+.byok-toolcall-body     (collapsible <details>)
+.byok-toolcall-section  (args / result section)
+.byok-toolcall-section-label
+.byok-toolcall-pre      (preformatted args / result)
 ```
 
-If exact `--paper-soft` / `--font-mono` tokens don't exist in `tokens.css`, fall back to the closest existing tokens (e.g. `var(--paper)`, system monospace stack).
+To avoid visual drift between live (BYOK island) and recorded (case page) renders, **keep these class names** and extract the rules from `byok.css` into a new shared file `apps/site/src/styles/tool-trace.css`. Both surfaces import this file. The class-name decision is "BYOK names win, case page conforms" — simpler than a renaming refactor.
 
-- [ ] **Step 8.2: Create `ToolCallTrace.astro`**
+Move every CSS rule whose selector starts with `.byok-toolcall` (or `.byok-toolcalls`) from `byok.css` into the new `tool-trace.css`. Leave the rest of `byok.css` alone.
+
+- [ ] **Step 8.2: Have the BYOK island import the shared file**
+
+In `apps/site/src/islands/byok/ByokDemo.tsx` (or wherever `byok.css` is currently imported), add:
+
+```ts
+import "../../styles/tool-trace.css";
+```
+
+Confirm the BYOK page still renders correctly: `cd apps/site && bun run dev`, visit `/try/`, run a prompt (or just inspect a saved screenshot). Expected: tool-call cards look identical to before. CSS Lint check: no duplicate-selector warnings (we moved the rules, didn't copy them).
+
+- [ ] **Step 8.3: Create `ToolCallTrace.astro` matching the BYOK shape**
 
 ```astro
 ---
@@ -857,47 +836,54 @@ const { calls } = Astro.props as Props;
 ---
 
 {calls.length > 0 && (
-  <ol class="tool-call-trace" aria-label="Tool calls the model made">
+  <ol class="byok-toolcalls" aria-label="Tool calls the model made">
     {calls.map((call) => (
-      <li class="tool-call-card">
-        <p class="tool-call-name">{call.name}</p>
-        <pre class="tool-call-args">{JSON.stringify(call.args, null, 2)}</pre>
-        {call.result_summary && <p class="tool-call-result">{call.result_summary}</p>}
+      <li class="byok-toolcall">
+        <div class="byok-toolcall-head">
+          <code class="byok-toolcall-name">{call.name}</code>
+          <span class="byok-toolcall-status">done</span>
+        </div>
+        <details class="byok-toolcall-body" open>
+          <summary>tool call</summary>
+          <div class="byok-toolcall-section">
+            <p class="byok-toolcall-section-label">arguments</p>
+            <pre class="byok-toolcall-pre">{JSON.stringify(call.args, null, 2)}</pre>
+          </div>
+          {call.result_summary && (
+            <div class="byok-toolcall-section">
+              <p class="byok-toolcall-section-label">result</p>
+              <pre class="byok-toolcall-pre">{call.result_summary}</pre>
+            </div>
+          )}
+        </details>
       </li>
     ))}
   </ol>
 )}
 ```
 
-- [ ] **Step 8.3: Update the BYOK island to use the same CSS classes**
+The structural shape mirrors `ToolCallCard.tsx` — same wrapper, same head, same collapsible body, same arg/result sections — with the streaming-only bits (spinner, pending state) collapsed to the static "done" pill.
 
-In [apps/site/src/islands/byok/ByokDemo.tsx](../../apps/site/src/islands/byok/ByokDemo.tsx) (or whatever sub-component renders the live trace — likely `apps/site/src/islands/byok/ui/Trace.tsx` or similar; grep `tool-call` / `byok-tool` to find it), rename the classes to match `tool-call-trace` / `tool-call-card` / `tool-call-name` / `tool-call-args` / `tool-call-result`. Import the new shared CSS:
+- [ ] **Step 8.4: Smoke-test both surfaces**
 
-```ts
-import "../../styles/tool-trace.css";
-```
-
-Drop the BYOK-specific CSS that's been replaced. If the BYOK trace has live-streaming-only markup (e.g. a spinner while a call is in flight), keep those classes BYOK-specific — only rename what's structurally identical.
-
-- [ ] **Step 8.4: Smoke-test the BYOK island still renders correctly**
-
-Visit `http://localhost:4321/try/`. Expected: provider grid, model dropdown, and (after a real or mocked run) tool-call trace with the new CSS. Visual treatment should be identical to before — the rename is mechanical.
+Visit `/try/` — BYOK trace renders identically to before the CSS extraction.
+Visit any `/eval/q-NNNN/` (Task 10's pages exist by now if you're following sequentially; if not, return after Task 10). Tool-call cards on the case page have the same visual treatment as the BYOK island.
 
 - [ ] **Step 8.5: Commit**
 
 ```bash
-git add apps/site/src/components/ToolCallTrace.astro apps/site/src/styles/tool-trace.css apps/site/src/islands/byok/
-git commit -m "feat(site): shared ToolCallTrace component + CSS extraction
+git add apps/site/src/components/ToolCallTrace.astro apps/site/src/styles/tool-trace.css apps/site/src/styles/byok.css apps/site/src/islands/byok/ByokDemo.tsx
+git commit -m "feat(site): shared ToolCallTrace + extracted tool-trace.css
 
-ToolCallTrace.astro renders pre-recorded EvalToolCall[] as cards.
-The BYOK island's live trace and the per-case page's pre-recorded
-trace now share styles/tool-trace.css so they don't visually drift.
+The BYOK island and the new per-case page now both import
+styles/tool-trace.css for the .byok-toolcall* rules so they
+don't visually drift.
 
-The BYOK trace component is updated to use the new generic class
-names (.tool-call-trace, .tool-call-card, .tool-call-name,
-.tool-call-args, .tool-call-result). BYOK-specific styling for
-live-streaming states (in-flight spinner, etc.) is preserved
-under island-specific classes."
+Class names retain the byok- prefix because they originated in
+the BYOK island; ToolCallTrace.astro conforms. The structural
+shape (head + status pill + collapsible body + args/result
+sections) matches BYOK's ToolCallCard.tsx — recorded traces show
+the static 'done' status."
 ```
 
 ---
@@ -1290,6 +1276,8 @@ Expected: succeeds. The build log mentions "Generated /eval/q-NNNN/" 268 times. 
 
 If a `[eval-paragraph-link]` warning fires, note it — that's the helper telling us a citation pointed at a chapter that doesn't exist in the manifest. Investigate but do not fail the build.
 
+**Security note for `set:html={answerHtml}`:** the answer body flows through `linkifyAnswer` (which html-escapes everything except the anchor tags it inserts) and then `marked.parse`. `marked` allows raw HTML in markdown by default. For v1 this is acceptable risk because (a) recorded answers are model output from our own runs that we've audited, and (b) the corpus is curated. **Follow-up (out of scope, tracked in TODOS):** introduce `isomorphic-dompurify` once we accept user-submitted runs (e.g. a "submit your run as a counter-example" surface). Note this acceptable-risk decision in the commit message.
+
 - [ ] **Step 10.5: Commit**
 
 ```bash
@@ -1501,9 +1489,11 @@ directly diffable."
 **Files:**
 - Modify: `apps/site/src/islands/byok/ByokDemo.tsx`
 
+**Real BYOK state surface (verified):** [apps/site/src/islands/byok/types.ts:126](../../apps/site/src/islands/byok/types.ts) defines `BYOKState` with these fields used here: `status: Status` (where `"success"` is the post-run terminal state), `question: string`, `provider: Provider`, `modelId: string`, `output: string` (the streaming answer text), `toolCalls: ToolCall[]`. The reducer action for setting the prompt is `QUESTION_CHANGED` with payload `{ question: string }` ([state.ts:104](../../apps/site/src/islands/byok/state.ts)). There is **no** `citations` or `duration_ms` on BYOKState — Task 11's builder takes them as plain inputs; we pass `[]` and `0` for v1 (recorded eval results have many `duration_ms: 0` entries today, so this is consistent).
+
 - [ ] **Step 12.1: Read `?prompt=` on mount**
 
-In [ByokDemo.tsx](../../apps/site/src/islands/byok/ByokDemo.tsx), find the existing `useEffect` that initializes state on mount (or add one if absent). Add a one-time URL-param read:
+In [ByokDemo.tsx](../../apps/site/src/islands/byok/ByokDemo.tsx), add a one-time `useEffect` near the other init effects:
 
 ```ts
 useEffect(() => {
@@ -1511,8 +1501,9 @@ useEffect(() => {
   const params = new URLSearchParams(window.location.search);
   const promptParam = params.get("prompt");
   if (promptParam) {
-    dispatch({ type: "SET_PROMPT", value: promptParam });
-    // Scroll the textarea into view but don't auto-submit.
+    dispatch({ type: "QUESTION_CHANGED", question: promptParam });
+    // Scroll the textarea into view but don't auto-submit. Defer one tick
+    // so the textarea is mounted (we just dispatched the question into state).
     setTimeout(() => {
       document.querySelector<HTMLTextAreaElement>("[data-byok-prompt]")?.scrollIntoView({ behavior: "smooth", block: "center" });
     }, 0);
@@ -1520,14 +1511,14 @@ useEffect(() => {
 }, []); // run once on mount
 ```
 
-(`SET_PROMPT` action — if the existing reducer doesn't have one, find the dispatch that updates the prompt textarea and reuse it. The `data-byok-prompt` attribute may need to be added to the `<textarea>` — single-line addition.)
+If the existing `<textarea>` doesn't already have a stable selector, add `data-byok-prompt` to it. The textarea's value is bound to `state.question`; the dispatch above will repopulate it.
 
 - [ ] **Step 12.2: Add a `[Download run as JSON]` button**
 
-After a run completes (the existing UI renders an `<answer>` block when `state.runStatus === "complete"`), append:
+After a run completes, the BYOK UI sets `state.status === "success"` and `state.output` is the final answer. Append a button next to the answer:
 
 ```tsx
-{state.runStatus === "complete" && (
+{state.status === "success" && state.output && (
   <button
     type="button"
     class="byok-download-btn"
@@ -1542,17 +1533,23 @@ Implement `downloadCurrentRun`:
 
 ```ts
 import { buildByokDownloadPayload } from "../../lib/byok-download";
+import type { BYOKState } from "./types";
 
-function downloadCurrentRun(state: ByokState): void {
-  if (!state.completedAnswer) return;
+function downloadCurrentRun(state: BYOKState): void {
+  if (!state.output) return;
   const payload = buildByokDownloadPayload({
-    prompt: state.prompt,
+    prompt: state.question,
     provider: state.provider,
-    model: state.model,
-    answer: state.completedAnswer,
+    model: state.modelId,
+    answer: state.output,
     toolCalls: state.toolCalls,
-    citations: state.citations ?? [],
-    durationMs: state.lastRunDurationMs ?? 0,
+    // BYOKState carries no citations or duration_ms today; recorded eval
+    // entries have many duration_ms: 0 cases, so [] / 0 is consistent
+    // with the existing data shape. A future change can add these
+    // (e.g. instrument SUBMIT to capture submittedAt; derive citations
+    // from tool-call results) without changing the download contract.
+    citations: [],
+    durationMs: 0,
   });
   const stamp = new Date().toISOString().replace(/[:.]/g, "-").slice(0, 19);
   const blob = new Blob([JSON.stringify(payload, null, 2)], { type: "application/json" });
@@ -1564,8 +1561,6 @@ function downloadCurrentRun(state: ByokState): void {
   URL.revokeObjectURL(url);
 }
 ```
-
-(The exact field names — `state.completedAnswer`, `state.lastRunDurationMs`, etc. — must match what the reducer actually stores. If the field names differ, adapt to whatever the reducer exposes.)
 
 - [ ] **Step 12.3: Style the button**
 
@@ -1811,7 +1806,7 @@ Claude Skill marketplace) per the launch plan."
 
 - [ ] **Step 14.1: Replace the page body**
 
-Replace the existing body of `/try/` (lines 52-79) with the new two-card layout:
+Replace the existing `<article class="try-page">` block in `apps/site/src/pages/try/index.astro` (locate by JSX content, not line number) with the new two-card layout:
 
 ```astro
   <article class="try-page">
