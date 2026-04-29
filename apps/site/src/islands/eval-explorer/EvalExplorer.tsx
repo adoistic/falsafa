@@ -35,7 +35,13 @@ import type {
 import { passOf } from "./types";
 
 interface Props {
-  /** Where to fetch the static eval.json from. Defaults to /eval.json. */
+  /**
+   * Where to fetch the static eval data from. Defaults to /eval-index.json,
+   * the slim per-case index (id/category/difficulty/prompt/expected_works
+   * plus from_run/mechanical_pass/has_judge per result). The full eval.json
+   * with answer bodies + tool traces is build-time-only — per-case pages
+   * read it from disk, the explorer never fetches it.
+   */
   src?: string;
 }
 
@@ -61,7 +67,7 @@ const EMPTY_FILTERS: FilterState = {
   query: "",
 };
 
-export default function EvalExplorer({ src = "/eval.json" }: Props): JSX.Element {
+export default function EvalExplorer({ src = "/eval-index.json" }: Props): JSX.Element {
   const [fetchState, setFetchState] = useState<FetchState>({ kind: "loading" });
   const [filters, setFilters] = useState<FilterState>(() => readFiltersFromHash());
   const [expandedId, setExpandedId] = useState<string | null>(null);
