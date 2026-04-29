@@ -2,7 +2,8 @@
 import Base from "../../layouts/Base.astro";
 import ByokDemo from "../../islands/byok/ByokDemo";
 import "../../styles/byok.css";
-import "../../styles/tool-trace.css";
+// Note: tool-trace.css is imported by the BYOK island (ByokDemo.tsx) — that's
+// the only consumer of .byok-toolcall* on this page. Don't re-import here.
 
 // Twelve hand-picked question chips covering the eval categories. The
 // curation pool grows in Phase 3 once the eval explorer ships and we
