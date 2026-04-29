@@ -82,10 +82,15 @@ four entries with `id`s like `1k-orchestrated-200:sonnet`. After this change:
 
 - All `*:sonnet` entries collapse into one entry: `{ id: "sonnet",
   name: "Claude Sonnet 4.6", label: "sonnet", pass_count, case_count }` where
-  the counts aggregate across all runs.
+  the counts aggregate across all runs (sum of per-run `pass_count`, sum
+  of per-run `case_count`).
 - Each case's `results` map re-keys from `<runDir>:sonnet` to `sonnet`.
 - A new field `from_run: string` (the original run dir, e.g.
   `"1k-orchestrated-200"`) lives on each `EvalCaseResult` for traceability.
+- The `humaniseModelName(sub, runDir)` helper at line ~320 currently
+  returns `"Claude Sonnet 4.6 · <runDir>"`. Change it to return just
+  `"Claude Sonnet 4.6"` for the merged entry — the run-dir suffix moves
+  to `result.from_run`, where it belongs.
 
 The cross-run merge is unambiguous because every case appears in exactly
 one run today (verified: `268` cases × `1` run-membership each). If a
@@ -101,10 +106,22 @@ add `from_run: string` to `EvalCaseResult`. No other type changes.
 ### UI fallout (covered in Section 2 / 3)
 
 - Header on `/eval/` collapses from four mini-rows (one per run) to one
-  Sonnet row with aggregate pass-count.
+  Sonnet row with aggregate pass-count. A small caption beneath the
+  percentage reads `mechanical-pass · judge layer pending` to be honest
+  about what the number measures (see "Judge layer status" below).
 - The `Run` filter chip group on `/eval/` is removed entirely. With one
   model, there is nothing to filter on.
 - The case page surfaces `from_run` in the run-metadata footer.
+
+### Judge layer status
+
+Today **0 of 268** cases in `eval.json` carry a `result.judge` field
+(verified). All headline pass-rates come from `passOf()`'s mechanical-pass
+fallback (does the answer mention every `expected_work`?). The new
+per-case page renders the judge block only when present (Section 2 §5),
+so it is a no-op at launch and lights up cleanly the moment a judge run
+lands. The header caption and the per-case verdict pill source from the
+same `passOf()` to stay in sync.
 
 ## Section 2 — Per-case detail page
 
@@ -138,12 +155,29 @@ add `from_run: string` to `EvalCaseResult`. No other type changes.
 
 4. **Answer.** `result.answer` rendered as Markdown via the existing
    `marked` pipeline (the same one `ChapterBody` uses). Inline
-   `p-XXXXXX` paragraph references are auto-linked via a small Astro
-   helper to `/works/<slug>/<chapterSlug>/<variant>/#p-XXXXXX`. The slug
-   and chapterSlug are looked up against the manifest at build time using
-   `expected_works[0]` + the chapter_number from the matching citation.
-   When ambiguous, the link falls back to `/works/<slug>/` and the
-   anchor is dropped.
+   `p-XXXXXX` paragraph references in the answer text are auto-linked at
+   build time by a helper that walks `result.citations[]` (which already
+   carries `{ work_slug, chapter_number, paragraph_id }` per citation —
+   verified in the current `eval.json`):
+   - For each citation, resolve `(work_slug, chapter_number)` →
+     `chapter_slug` via `listChapters(work_slug)` from
+     [apps/site/src/lib/corpus.ts](../../apps/site/src/lib/corpus.ts).
+   - Build the URL `/works/<work_slug>/<chapter_slug>/translation/#<paragraph_id>`.
+     Variant is hard-coded to `translation` (the canonical English
+     reading), matching the existing default in `[chapter]/[variant].astro`.
+   - Replace each `p-XXXXXX` token in the answer text with an `<a>`
+     pointing at the resolved URL.
+   - When a `p-XXXXXX` token in the answer text has no matching entry
+     in `result.citations[]`, render it as plain text (no anchor) and
+     log a build-time warning. This handles paraphrased / hallucinated
+     ids without producing dead links.
+   - Multi-work answers (e.g. `q-0045` cites two distinct works in one
+     answer) are handled per-citation, not per-answer — the helper does
+     not depend on `expected_works[0]`.
+
+   The helper lives at `apps/site/src/lib/eval-paragraph-link.ts` so it
+   can be unit-tested in isolation against fixture chapters without
+   booting Astro.
 
 5. **Judge verdict.** Rendered only when `result.judge` is present. Three
    small pill badges (factual_correct, citation_backed, ¬hallucinated),
@@ -185,10 +219,11 @@ add `from_run: string` to `EvalCaseResult`. No other type changes.
 
 ### Eval index (`/eval/`) page changes
 
-- Header collapses from four mini-rows to one. Markup: `<div class="eval-header-stat">` with the Sonnet aggregate (`92%`/`234/268`) plus the existing `268 cases` block.
+- Header collapses from four mini-rows to one. Markup: `<div class="eval-header-stat">` with the Sonnet aggregate (`87%`/`234/268`, illustrative) plus the existing `268 cases` block. A small caption beneath the percentage reads `mechanical-pass · judge layer pending`.
 - The `Run` filter chip group is removed.
-- Each case row in the result list becomes a `<a href="/eval/q-NNNN/">` instead of a clickable expander. The inline expansion + verdict-pill row component is deleted.
+- Each case row in the result list becomes an `<a href="/eval/q-NNNN/">` instead of a button that expands inline. The inline expansion + verdict-pill row component is deleted entirely.
 - A small ↗ glyph at the right of each row hints at the navigation.
+- **Virtualization is dropped.** The current implementation uses `useVirtualizer` from `@tanstack/virtual-core` (lines 22-28 + 444-470 in `EvalExplorer.tsx`) — it was needed when each row could expand to render an entire answer + trace. With rows now flat anchors, 268 simple `<a>`s render fine without virtualization. Removing the virtualizer adapter simplifies the island and lets us drop the `@tanstack/virtual-core` import. If the case count ever crosses ~5,000, re-add virtualization in a follow-up.
 
 ## Section 3 — `/try/` redesign
 
@@ -247,11 +282,28 @@ breakpoint as the current homepage hero.
   textarea into view. Do not auto-submit.
 - After a run completes (`tool_calls[]` finalized + `answer` rendered),
   surface a `[Download run as JSON]` button next to the answer. Clicking
-  it serializes the in-memory run state into an `EvalCaseResult`-shaped
-  object plus `prompt`, `model`, and `from_run: "live-byok"`. The Blob is
-  downloaded as `falsafa-run-<timestamp>.json`.
-- The download payload validates against the existing `EvalCaseResult`
-  type (we'll add a small runtime assert in dev).
+  it serializes the in-memory run state into the **explicit envelope
+  below** (an `EvalCase`-like object plus a `result` field, so the
+  download is structurally diffable to anything in the recorded
+  `eval.json`):
+
+  ```ts
+  // apps/site/src/lib/eval-types.ts (new)
+  export interface ByokDownloadPayload {
+    schema_version: "falsafa-byok/v1";
+    generated_at: string;            // ISO timestamp
+    prompt: string;                  // user's question
+    provider: "openrouter" | "anthropic" | "google" | "openai";
+    model: string;                   // provider-side model id
+    result: EvalCaseResult & {
+      from_run: "live-byok";         // discriminates from recorded runs
+    };
+  }
+  ```
+
+  Filename: `falsafa-byok-<YYYYMMDD-HHMMSS>.json`. The download builder
+  imports this type, runtime-asserts the shape in dev (`process.env.NODE_ENV`
+  guarded), and is unit-testable independently of the BYOK island.
 
 ### Clone & develop block
 
@@ -269,6 +321,21 @@ for the full eval / convert / image-gen scripts."
 
 ## Section 4 — Components, refactors, files touched
 
+### Shared types module (new)
+
+`apps/site/src/lib/eval-types.ts` becomes the single home for types that
+cross the Preact-island ↔ Astro-component boundary:
+
+- `EvalToolCall`, `EvalCitation`, `EvalCaseResult`, `EvalCase`,
+  `EvalJudge`, `EvalModelMeta`, `EvalJson`, and the new
+  `ByokDownloadPayload`.
+- The existing `passOf()` helper.
+
+`apps/site/src/islands/eval-explorer/types.ts` becomes a re-export of
+this module to preserve the existing import surface inside the island.
+The new Astro components import from `lib/eval-types.ts` directly. This
+removes the implicit cross-import from Astro into the islands directory.
+
 ### New Astro components (server-rendered, no JS unless noted)
 
 | File | Purpose | Props |
@@ -276,7 +343,7 @@ for the full eval / convert / image-gen scripts."
 | `apps/site/src/components/NonDeterminismCaveat.astro` | Shared 3-sentence caveat block. | none |
 | `apps/site/src/components/ReportThis.astro` | GitHub issue + email buttons. | `caseId?: string`, `caseUrl?: string`, `recordedAnswer?: string` |
 | `apps/site/src/components/InstallCard.astro` | The left-card on `/try/`. Tab strip with one snippet per surface + "Coming soon" pill row. | none |
-| `apps/site/src/components/ToolCallTrace.astro` | Pre-recorded tool-call cards. | `calls: EvalToolCall[]` |
+| `apps/site/src/components/ToolCallTrace.astro` | Pre-recorded tool-call cards. | `calls: EvalToolCall[]` (imported from `lib/eval-types.ts`) |
 | `apps/site/src/components/RunItYourself.astro` | Primary CTA + collapsible CLI block. | `prompt: string`, `toolCalls: EvalToolCall[]` |
 
 ### New Astro page
@@ -338,8 +405,16 @@ and Preact are all already on the page.
   page is in the results.
 - **`/try/?prompt=test%20question` round-trip.** Open the URL, confirm
   textarea is prefilled with `test question`. Run a prompt, confirm the
-  download JSON matches `EvalCaseResult` shape.
+  download JSON validates against `ByokDownloadPayload`.
 - **Header collapse.** `/eval/` shows one Sonnet row, no Run filter, with
-  the aggregate pass-count matching `apps/mcp/eval/runs/*/sonnet/_score-mechanical.json`.
-- **Cross-link integrity.** For 5 random case pages, every paragraph_id
-  link in the answer body resolves to a real page (no 404).
+  the aggregate (mechanical-pass) pass-count matching the sum of
+  `apps/mcp/eval/runs/*/sonnet/_score-mechanical.json` per_question
+  arrays.
+- **Cross-link integrity.** For 5 random case pages, every `p-XXXXXX`
+  reference in the answer body that has a matching citation resolves to
+  a real page (no 404). Tokens without a matching citation render as
+  plain text and emit a build-time warning.
+- **Unit test for paragraph-id resolver.** New file
+  `apps/site/src/lib/eval-paragraph-link.test.ts` covers the `(work_slug,
+  chapter_number) → chapter_slug` mapping against fixture data, plus the
+  fallback when a token has no matching citation. Runs under `bun test`.
