@@ -223,7 +223,7 @@ same `passOf()` to stay in sync.
 - The `Run` filter chip group is removed.
 - Each case row in the result list becomes an `<a href="/eval/q-NNNN/">` instead of a button that expands inline. The inline expansion + verdict-pill row component is deleted entirely.
 - A small ↗ glyph at the right of each row hints at the navigation.
-- **Virtualization is dropped.** The current implementation uses `useVirtualizer` from `@tanstack/virtual-core` (lines 22-28 + 444-470 in `EvalExplorer.tsx`) — it was needed when each row could expand to render an entire answer + trace. With rows now flat anchors, 268 simple `<a>`s render fine without virtualization. Removing the virtualizer adapter simplifies the island and lets us drop the `@tanstack/virtual-core` import. If the case count ever crosses ~5,000, re-add virtualization in a follow-up.
+- **Virtualization is dropped.** The current implementation uses `useVirtualizer` from `@tanstack/virtual-core` (`import` near the top of `EvalExplorer.tsx`, call site in the case-list section) — it was needed when each row could expand to render an entire answer + trace. With rows now flat anchors, 268 simple `<a>`s render fine without virtualization. Removing the virtualizer adapter simplifies the island and lets us drop the `@tanstack/virtual-core` import. If the case count ever crosses ~5,000, re-add virtualization in a follow-up.
 
 ## Section 3 — `/try/` redesign
 
@@ -304,6 +304,20 @@ breakpoint as the current homepage hero.
   Filename: `falsafa-byok-<YYYYMMDD-HHMMSS>.json`. The download builder
   imports this type, runtime-asserts the shape in dev (`process.env.NODE_ENV`
   guarded), and is unit-testable independently of the BYOK island.
+
+- **BYOK ToolCall → EvalToolCall mapping.** The BYOK island's in-memory
+  `ToolCall` ([apps/site/src/islands/byok/types.ts:91](../../apps/site/src/islands/byok/types.ts))
+  carries streaming-specific fields (`id`, `argsBuffer` as string,
+  `startedAt`/`endedAt`, `result` as raw string). `EvalToolCall` carries
+  `{ name, args: unknown, result_summary?: string }`. The download
+  builder maps each `ToolCall` → `EvalToolCall` as:
+  `{ name, args: JSON.parse(argsBuffer), result_summary: result ?? undefined }`.
+  Wall-clock latency aggregates into the envelope's `result.duration_ms`
+  (`endedAt - startedAt` summed across calls).
+- **`from_run: "live-byok"` is filtered on load.** If a user re-uploads a
+  BYOK download into any future bulk-import flow, the explorer's data
+  loader filters out results where `from_run === "live-byok"` so live
+  runs can never inflate aggregate pass-counts.
 
 ### Clone & develop block
 
@@ -413,8 +427,14 @@ and Preact are all already on the page.
 - **Cross-link integrity.** For 5 random case pages, every `p-XXXXXX`
   reference in the answer body that has a matching citation resolves to
   a real page (no 404). Tokens without a matching citation render as
-  plain text and emit a build-time warning.
+  plain text and emit a build-time **warning** (advisory — does *not*
+  fail the build, since legitimate paraphrases occasionally cite ids
+  outside the formal `result.citations[]` set).
 - **Unit test for paragraph-id resolver.** New file
   `apps/site/src/lib/eval-paragraph-link.test.ts` covers the `(work_slug,
   chapter_number) → chapter_slug` mapping against fixture data, plus the
   fallback when a token has no matching citation. Runs under `bun test`.
+- **Run-metadata link integrity.** Per-case page §9 links to
+  `apps/mcp/eval/runs/<run-dir>/sonnet/q-NNNN.json` on `main`. CI build
+  verifies the file exists for every case in `eval.json` at the path
+  derived from `result.from_run` — fails the build if missing.
