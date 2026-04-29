@@ -54,7 +54,6 @@ type FetchState =
 interface FilterState {
   categories: Set<string>;
   difficulties: Set<string>;
-  models: Set<string>; // model ids the user wants to see in the verdict pills
   passFilter: "all" | "pass" | "fail" | "mixed";
   query: string;
 }
@@ -62,7 +61,6 @@ interface FilterState {
 const EMPTY_FILTERS: FilterState = {
   categories: new Set(),
   difficulties: new Set(),
-  models: new Set(),
   passFilter: "all",
   query: "",
 };
@@ -99,16 +97,6 @@ export default function EvalExplorer({ src = "/eval-index.json" }: Props): JSX.E
       cancelled = true;
     };
   }, [src]);
-
-  // Default the model filter to "all models on" once data lands.
-  useEffect(() => {
-    if (fetchState.kind === "ready" && filters.models.size === 0) {
-      setFilters((f) => ({
-        ...f,
-        models: new Set(fetchState.data.models.map((m) => m.id)),
-      }));
-    }
-  }, [fetchState.kind]);
 
   // Mirror filters to the URL hash so a filtered view is shareable.
   useEffect(() => {
@@ -183,7 +171,7 @@ function Loaded({
     [data],
   );
 
-  // Filter pipeline. Pass/fail derived from the union of selected models.
+  // Filter pipeline. Verdict comes from the single sonnet result per case.
   const filteredCases = useMemo(() => {
     const q = filters.query.trim().toLowerCase();
     return data.cases.filter((c) => {
@@ -200,15 +188,11 @@ function Loaded({
         return false;
       }
       if (filters.passFilter !== "all") {
-        const verdicts = Array.from(filters.models)
-          .map((mid) => passOf(c.results[mid]))
-          .filter((v): v is boolean => v !== null);
-        if (verdicts.length === 0) return filters.passFilter === "all";
-        const allPass = verdicts.every((v) => v);
-        const allFail = verdicts.every((v) => !v);
-        if (filters.passFilter === "pass" && !allPass) return false;
-        if (filters.passFilter === "fail" && !allFail) return false;
-        if (filters.passFilter === "mixed" && (allPass || allFail)) return false;
+        const result = c.results.sonnet;
+        const v = passOf(result);
+        if (filters.passFilter === "pass" && v !== true) return false;
+        if (filters.passFilter === "fail" && v !== false) return false;
+        if (filters.passFilter === "mixed" && v !== null) return false;
       }
       return true;
     });
@@ -242,14 +226,12 @@ function Loaded({
         setFilters={setFilters}
         categories={allCategories}
         difficulties={allDifficulties}
-        models={data.models}
         filteredCount={filteredCases.length}
         totalCount={data.cases.length}
       />
       <CaseList
         cases={filteredCases}
         models={data.models}
-        activeModelIds={filters.models}
         expandedId={expandedId}
         setExpandedId={setExpandedId}
       />
@@ -303,7 +285,6 @@ function FilterBar({
   setFilters,
   categories,
   difficulties,
-  models,
   filteredCount,
   totalCount,
 }: {
@@ -311,11 +292,10 @@ function FilterBar({
   setFilters: (f: FilterState | ((prev: FilterState) => FilterState)) => void;
   categories: string[];
   difficulties: string[];
-  models: EvalModelMeta[];
   filteredCount: number;
   totalCount: number;
 }): JSX.Element {
-  function toggle(key: "categories" | "difficulties" | "models", value: string) {
+  function toggle(key: "categories" | "difficulties", value: string) {
     setFilters((prev) => {
       const next = new Set(prev[key]);
       if (next.has(value)) next.delete(value);
@@ -329,7 +309,6 @@ function FilterBar({
       ...prev,
       categories: new Set(),
       difficulties: new Set(),
-      models: new Set(models.map((m) => m.id)),
       passFilter: "all",
       query: "",
     }));
@@ -385,13 +364,6 @@ function FilterBar({
         items={difficulties}
         selected={filters.difficulties}
         onToggle={(v) => toggle("difficulties", v)}
-      />
-      <FilterChipGroup
-        legend="Model"
-        items={models.map((m) => m.id)}
-        labels={Object.fromEntries(models.map((m) => [m.id, m.name]))}
-        selected={filters.models}
-        onToggle={(v) => toggle("models", v)}
       />
 
       <div class="eval-filter-summary">
@@ -451,18 +423,15 @@ const EXPANDED_EXTRA = 0; // dynamic size; the virtualizer measures the row.
 function CaseList({
   cases,
   models,
-  activeModelIds,
   expandedId,
   setExpandedId,
 }: {
   cases: EvalCase[];
   models: EvalModelMeta[];
-  activeModelIds: Set<string>;
   expandedId: string | null;
   setExpandedId: (id: string | null) => void;
 }): JSX.Element {
   const parentRef = useRef<HTMLDivElement | null>(null);
-  const visibleModels = models.filter((m) => activeModelIds.has(m.id));
 
   const virtualizer = useVirtualizer({
     count: cases.length,
@@ -478,7 +447,7 @@ function CaseList({
   // can briefly clip.
   useEffect(() => {
     virtualizer.measure();
-  }, [expandedId, activeModelIds.size, virtualizer]);
+  }, [expandedId, virtualizer]);
 
   if (cases.length === 0) {
     return (
@@ -516,7 +485,7 @@ function CaseList({
             >
               <CaseRow
                 c={c}
-                models={visibleModels}
+                models={models}
                 expanded={isExpanded}
                 onToggle={() => setExpandedId(isExpanded ? null : c.id)}
               />
@@ -726,21 +695,16 @@ function readFiltersFromHash(): FilterState {
   return {
     categories: split(get("cat")),
     difficulties: split(get("diff")),
-    models: split(get("models")),
     passFilter,
     query: get("q"),
   };
 }
 
-function writeFiltersToHash(f: FilterState, data: EvalJson): void {
+function writeFiltersToHash(f: FilterState, _data: EvalJson): void {
   if (typeof window === "undefined") return;
   const params = new URLSearchParams();
   if (f.categories.size > 0) params.set("cat", [...f.categories].join(","));
   if (f.difficulties.size > 0) params.set("diff", [...f.difficulties].join(","));
-  // Only serialise model filter when it deviates from "all selected".
-  if (f.models.size > 0 && f.models.size !== data.models.length) {
-    params.set("models", [...f.models].join(","));
-  }
   if (f.passFilter !== "all") params.set("pass", f.passFilter);
   if (f.query.trim()) params.set("q", f.query.trim());
   const next = params.toString();
