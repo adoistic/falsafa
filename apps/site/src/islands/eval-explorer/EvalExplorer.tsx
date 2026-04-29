@@ -2,7 +2,7 @@
  * EvalExplorer — Preact island for /eval.
  *
  * Loads /eval.json once on mount. Renders a header with headline pass
- * rates per model, a filter bar (category, difficulty, model, pass/fail,
+ * rates per model, a filter bar (category, difficulty, pass/fail,
  * free-text search), and a virtualized list of cases. Click a row to
  * expand a per-model panel: answer, tool-call trace, citations with
  * deep-links into the reading site, and the judge's verdict + reasoning.
@@ -198,27 +198,11 @@ function Loaded({
     });
   }, [data, filters]);
 
-  // Headline pass rates per model (over the *unfiltered* full set so the
-  // numbers stay stable while the user fiddles with filters).
-  const headline = useMemo(() => {
-    return data.models.map((m) => {
-      let pass = 0;
-      let total = 0;
-      for (const c of data.cases) {
-        const v = passOf(c.results[m.id]);
-        if (v === null) continue;
-        total++;
-        if (v) pass++;
-      }
-      return { ...m, pass_count: pass, case_count: total };
-    });
-  }, [data]);
-
   return (
     <div class="eval-explorer">
       <Header
         totalCases={data.cases.length}
-        models={headline}
+        models={data.models}
         generatedAt={data.generated_at}
       />
       <FilterBar
@@ -268,6 +252,7 @@ function Header({
             <span class="eval-header-label">
               {m.name} <span class="eval-header-frac">({pass}/{total})</span>
             </span>
+            <span class="eval-header-caption">mechanical-pass · judge layer pending</span>
           </div>
         );
       })}

@@ -784,3 +784,13 @@
     justify-content: flex-start;
   }
 }
+
+.eval-header-caption {
+  font-size: 11px;
+  color: var(--ink-muted);
+  font-family: var(--font-sans);
+  text-transform: lowercase;
+  letter-spacing: 0.04em;
+  display: block;
+  margin-top: 4px;
+}
