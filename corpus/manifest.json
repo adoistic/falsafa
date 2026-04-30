@@ -1,11 +1,11 @@
 {
-  "generated_at": "2026-04-26T14:17:37.582Z",
+  "generated_at": "2026-04-30T11:11:34.598Z",
   "source": "neondb",
   "counts": {
-    "works": 38,
-    "authors": 22,
+    "works": 37,
+    "authors": 21,
     "eras": 5,
-    "genres": 5,
+    "genres": 4,
     "languages": 6
   },
   "works": [
@@ -803,12 +803,6 @@
         "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
       ]
     },
-    "viharacarya": {
-      "name": "Vihārācārya",
-      "works": [
-        "unknown-nyaya-tilakam-pandulipi-bookny"
-      ]
-    },
     "parasara": {
       "name": "Parāśara",
       "works": [
@@ -873,7 +867,6 @@
         "cynewulf-juliana-9a2157",
         "unknown-kalpabuddha-d760dc",
         "unknown-kunjarakarna-dharmakathana-894f4a",
-        "unknown-nyaya-tilakam-pandulipi-bookny",
         "unknown-old-english-elegies-d5fe9e",
         "unknown-san-hyan-kamahayanikan-2a0c19",
         "unknown-san-hyan-mahajnana-11c531",
@@ -979,12 +972,6 @@
         "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
       ]
     },
-    "academic-studies": {
-      "name": "Academic Studies",
-      "works": [
-        "unknown-nyaya-tilakam-pandulipi-bookny"
-      ]
-    },
     "philosophy": {
       "name": "Philosophy",
       "works": [
@@ -1011,7 +998,6 @@
         "unknown-katyayana-smrti-1e06d2",
         "unknown-manusmrti-347b76",
         "unknown-naradasmrti-7650d2",
-        "unknown-nyaya-tilakam-pandulipi-bookny",
         "unknown-parasara-smrti-2259be",
         "unknown-visnu-smrti-27f0d8",
         "unknown-viramitrodaya-d4b632",
