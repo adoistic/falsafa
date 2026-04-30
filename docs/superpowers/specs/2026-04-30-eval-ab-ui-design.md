@@ -472,3 +472,44 @@ above). Worktree-splitting offers no speed up here.
 | Cross-model A/B (Grok-baseline vs Sonnet-baseline) | Different question (which model is best?), separate UI design. |
 | Automated E2E (Playwright) for visual flows | Manual smoke + unit tests on filter logic + regression test on single-arm. |
 | Showing both answers' diff inline (textual diff highlight) | v2; tabs handle the v1 need. |
+
+---
+
+## GSTACK REVIEW REPORT
+
+| Review | Trigger | Why | Runs | Status | Findings |
+|--------|---------|-----|------|--------|----------|
+| CEO Review | `/plan-ceo-review` | Scope & strategy | 0 | — | (not run; UI-only, optional) |
+| Codex Review | `/codex review` | Independent 2nd opinion | 0 | — | (skipped — D6 decision) |
+| Eng Review | `/plan-eng-review` | Architecture & tests (required) | 1 | CLEAN | 3 issues found, 0 critical gaps, 0 unresolved |
+| Design Review | `/plan-design-review` | UI/UX gaps | 0 | — | (optional; v1 ships, /design-review can run after) |
+| DX Review | `/plan-devex-review` | Developer experience gaps | 0 | — | (not run; not a developer-facing artifact) |
+
+**UNRESOLVED:** 0 — all 6 AskUserQuestion decisions captured (D1–D6).
+**VERDICT:** ENG CLEARED — ready for implementation plan via `/writing-plans`.
+
+### Decisions captured this review
+
+- **D1** Stay binary in v1 — graded score redesign is v2.
+- **D2** Tabs use plain `<a>` + CSS `:target` (zero JS).
+- **D3** Comparison chips REPLACE pass/fail chips in 2-arm mode.
+- **D4** Wiki column uses its own per-tier denominators during partial runs.
+- **D5** Filter pipeline gets a unit test (~30 truth-table assertions).
+- **D6** Outside voice skipped (UI-only, two prior reviews).
+
+### IRON RULE applied
+
+Single-arm fallback regression test is mandatory and added to the spec
+unconditionally — the diff modifies an existing path and no test
+covers it today.
+
+### Completion summary
+
+- Step 0: Scope Challenge — scope accepted with 2 decisions captured.
+- Architecture Review: 2 issues found (filter composition D3, partial denominator D4) — both resolved.
+- Code Quality Review: 3 advisories (DRY helper, defensive empty-models, hash-param composition) — folded into spec.
+- Test Review: diagram produced, IRON-RULE regression test added, filter unit test added (D5), 13 manual smoke gaps acknowledged.
+- Performance Review: no issues.
+- Outside voice: skipped (D6).
+- Distribution: N/A (frontend-only).
+- Lake Score: 6/6 questions chose recommended option (all complete-mode).
