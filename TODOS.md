@@ -531,6 +531,15 @@ result snippets land at the right paragraph.
 
 ## Embeddings-based cross-link upgrade
 
+**Status: SUPERSEDED** (2026-04-30) — Replaced by the rule-based wiki layer
+(`docs/designs/wiki-layer-rule-based-summaries.md`). The wiki layer adds n-gram
+TF-IDF, NPMI collocations, TextRank-on-paragraphs, and refrain detection
+without introducing embeddings. The Falsafa thesis is "no vector DB at archive
+scale"; embeddings would directly contradict that claim. Closing this TODO is
+intentional — its content is preserved below for posterity, but it's no longer
+on the path. If embeddings ever become useful, they should be evaluated as a
+*comparator* in the eval pipeline, not as a production component.
+
 **What:** Replace the build-time TF-IDF cross-link index with embeddings-based
 similarity (sentence-transformer or OpenAI ada-002 over chapter summaries),
 producing semantically richer "see also" links.
@@ -640,3 +649,78 @@ shipped (not "soon"). Reread the verification finding in
 `~/.claude/projects/-Users-siraj-falsafa/memory/pretext_for_complex_launch_layouts.md`
 before acting.
 
+
+---
+
+## Cross-corpus refrain detection (MinHash on bigram shingles)
+
+**Status:** PLANNED v2 — depends on wiki layer (v1) shipping.
+
+**What:** After v1 ships within-chapter refrain detection (token-level edit
+distance, ~0.05 normalized), extend to cross-corpus refrain detection. Detect
+verses or formulas that appear verbatim or near-verbatim across DIFFERENT
+works in the corpus (e.g., a śloka that appears in Manu and in Yājñavalkya
+with minor variation; a formula that recurs across the smṛti tradition).
+
+**Why:** Scholarly transmission of texts often involves verbatim quotation
+or near-verbatim paraphrase across works. Detecting these patterns
+mechanically is a paper-grade contribution worth its own section
+("Textual transmission across the Indic legal corpus" or similar).
+
+**Implementation sketch:**
+- Within-chapter detection in v1 uses pairwise edit distance, O(n²) on
+  paragraphs per chapter — fine within a chapter (~50-200 paragraphs).
+- Cross-corpus detection over ~76,000 paragraphs in the corpus would be
+  ~5.8 billion pairs at the same algorithm — infeasible.
+- Use MinHash over bigram shingles: each paragraph hashed to a
+  fixed-size signature; LSH bucketing surfaces candidates; only
+  candidates get pairwise edit-distance verification. Reduces effective
+  comparisons from 5.8B to ~100K.
+
+**Pros:**
+- Paper-grade contribution about textual transmission patterns
+- Could surface borrowings between traditions (Sanskrit → Old Javanese
+  is well-attested; mechanical evidence would be novel)
+- Reuses the wiki layer's tokenization + paragraph hashes
+
+**Cons:**
+- New algorithm, new infra, new tests
+- Tuning MinHash parameters (signature size, band count) needs experimentation
+- Likely a multi-week project
+
+**Depends on:** wiki layer v1 shipped, paragraph-hash infrastructure stable.
+
+---
+
+## Site UI: surface chapter card on /works/<slug>/<chapter>/ (v1.1)
+
+**Status:** PLANNED v1.1 — depends on wiki layer v1 (read_wiki MCP tool) shipping.
+
+**What:** After the wiki layer ships behind the read_wiki MCP tool, surface
+the chapter card on the public reading page as a collapsible preview above
+the chapter body. A reader hitting `/works/<slug>/<chapter>/` sees the
+distinctive trigrams, opening line, key passage, refrain, and nearest
+chapters before scrolling into the body.
+
+**Why:** The same artifact the LLM uses for cheap navigation is useful for
+human readers too — a "what's in this chapter" peek that takes seconds to
+scan. Especially valuable for the corpus's longer chapters (Comte's prose
+volumes, Manu's chapters).
+
+**Implementation sketch:**
+- Read `corpus/works/<slug>/wiki/<chapter>.card.md` at build time
+- Inject as a collapsible `<details>` block above the chapter body
+- Markdown rendering already exists; this is just one new component
+
+**Pros:**
+- Reader UX wins
+- Showcases the wiki layer's value to non-LLM users
+- ~2-4 hours of work
+
+**Cons:**
+- Depends on wiki layer v1 — can't ship before
+- Adds a new content stream that Pagefind should index (coordinate with
+  "Paragraph-level Pagefind upgrade" TODO)
+
+**Depends on:** wiki layer v1 with read_wiki MCP tool live and
+`corpus/works/*/wiki/*.card.md` populated and committed.

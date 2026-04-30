@@ -3,8 +3,44 @@
 Generated: 2026-04-30
 Branch: main
 Repo: adoistic/falsafa
-Status: PROPOSED — pending engineering review
-Author: Adnan Abbasi (Thothica) · Brainstormed with Claude
+Status: APPROVED — engineering review complete (2026-04-30)
+Author: Adnan Abbasi (Thothica) · Brainstormed + reviewed with Claude
+
+## Review decisions (locked 2026-04-30)
+
+These overrides take precedence over any provisional answer earlier in
+this document. The schema sections below have been updated inline to
+match.
+
+- **D1 (tool surface):** Two new MCP tools — `read_wiki(slug, ch?)` and
+  `read_wiki_full(slug, ch?)` — polymorphic on `chapter_number`. Existing
+  8 tools untouched.
+- **D2 (verbatim fidelity):** Strict — the card MUST contain the FULL
+  source paragraph for any quoted block carrying a `[p-XXXXXX]` cite
+  handle. No truncation. Card-size budget is soft (~280 typical, may
+  flex to ~500 tokens for prose-heavy chapters).
+- **D3 (TextRank degeneracy):** Compute TextRank always; emit a
+  `textrank_confidence: low | medium | high` field in card frontmatter
+  when PageRank-score variance falls below threshold. Card schema is
+  uniform; quality is transparent.
+- **D4 (drift detection):** `--check` mode + GitHub Actions gate ship in
+  v1, NOT v2. PRs touching `corpus/works/**` fail if wiki is stale.
+- **D5 (tokenization):** Preserve diacritics (no NFKD normalization);
+  treat hyphenated compounds as ONE token (split on whitespace + brackets,
+  NOT on hyphen); use Toronto Old English Corpus stopword list for OE.
+  All rules deterministic, all source-citable.
+- **D6 (snapshot tests):** Snapshot every (work × chapter) combination.
+  37 works × ~22 chapters ≈ ~800 snapshot fixtures committed under
+  `apps/mcp/test/wiki-snapshots/`.
+- **D7 (perf budget):** Hard <5 min full-corpus rebuild target enforced
+  by `scripts/bench-wiki.ts` in CI.
+
+Plus one mandatory regression rule from the test review (IRON RULE):
+
+- **R1:** Every `[p-XXXXXX]` emitted by the wiki MUST resolve to a real
+  paragraph in the corresponding `paragraphs.json`. Tested against all
+  wiki output across all 37 works × all chapters. Critical for the D2
+  verbatim-fidelity contract.
 
 ## Problem statement
 
@@ -107,9 +143,15 @@ not the chapter numbers alone, to match the existing
 
 ## Per-chapter card schema (`<chapter>.card.md`)
 
-Target: ~280 tokens, ~20 lines.
+Target: ~280 tokens typical, soft cap. Per D2, verbatim quotes are NEVER
+truncated — card-size budget flexes to fit source paragraphs. Per D3,
+frontmatter carries a `textrank_confidence` field.
 
 ```markdown
+---
+textrank_confidence: low | medium | high
+---
+
 # <Work title> · ch.<n>
 <layout> · <paragraph_count>¶ · <word_count>w · vocab <distinct_types> (TTR <ttr>, hapax <pct>%)
 
@@ -117,13 +159,13 @@ Target: ~280 tokens, ~20 lines.
 "<t1>" · "<t2>" · "<t3>"
 
 ## Key passage (TextRank #1)
-> [p-<hash>] <verbatim text — full paragraph, no truncation>
+> [p-<hash>] <FULL verbatim paragraph — no truncation>
 
 ## Opens
-> [p-<hash>] <verbatim opening — first paragraph, truncate at 280 chars on punctuation>
+> [p-<hash>] <FULL verbatim first paragraph — no truncation>
 
 ## Closes
-> [p-<hash>] <verbatim closing — last paragraph, truncate at 280 chars on punctuation>
+> [p-<hash>] <FULL verbatim last paragraph — no truncation>
 
 ## Refrain (top, when present)
 "<phrase>" — <count>× (first at p-<hash>)
@@ -134,6 +176,11 @@ Target: ~280 tokens, ~20 lines.
 ## Original-language signature (<language>, top-3)         (when Roman-script source available)
 "<t1>" · "<t2>" · "<t3>"
 ```
+
+**`textrank_confidence` rule:** computed from PageRank-score variance.
+When variance < 0.1 (uniform-ish PageRank → arbitrary "central" pick),
+flag as `low`. Empirically this means short chapters (typically
+`paragraph_count < 10`, common in Iqbal/Ghalib/Zauq verse).
 
 **Required sections:** header, fingerprint line, distinctive trigrams,
 key passage, opens, closes, nearest in corpus.
@@ -424,9 +471,11 @@ bun run scripts/build-wiki.ts --check        # dry-run, fail if outputs would di
    (write `.tmp` then rename) so an interrupted build leaves no
    partial artifacts.
 
-### Performance target
+### Performance target (HARD per D7)
 
-- Full corpus rebuild: <5 min on a 2024 MacBook.
+- Full corpus rebuild: <5 min on a 2024 MacBook. Enforced by
+  `scripts/bench-wiki.ts` running in CI on every PR. Build fails if
+  the budget is exceeded.
 - Per-work rebuild: <30 sec.
 
 ### Determinism guarantees
@@ -437,15 +486,16 @@ bun run scripts/build-wiki.ts --check        # dry-run, fail if outputs would di
   on `corpus/works/*/wiki/` should be either empty or fully
   meaningful (no flapping).
 
-## Trigger / staleness model (v1: manual)
+## Trigger / staleness model (UPDATED per D4)
 
 - Wiki is generated and committed to the repo.
 - Author runs `bun run scripts/build-wiki.ts` after corpus changes.
-- Mirror of how `corpus/cross-links.json` is handled today.
-- Pre-commit hook and CI-staleness-check are explicitly **deferred to
-  v2** — they add friction for a problem we don't yet have at 37
-  works. Will be revisited when Perseus extension makes drift a real
-  risk (~1,500+ works).
+- **`--check` mode + GitHub Actions gate ship in v1.** PRs touching
+  `corpus/works/**` run `bun run scripts/build-wiki.ts --check`; the
+  PR fails if the wiki on disk doesn't match what `build-wiki` would
+  produce from the live corpus. Closes the drift hole permanently.
+- Pre-commit hook still deferred to v2 — adds friction for marginal
+  benefit once CI catches drift.
 
 ## Open questions for engineering review
 
@@ -562,19 +612,41 @@ probably move out of the repo (CDN, separately versioned tarball).
 
 ## Testing strategy
 
+Updated per engineering review D6 + R1.
+
 1. **Unit tests** per algorithm (TF-IDF, TextRank, NPMI, refrain
    detection) against fixture corpora with known correct outputs.
-2. **Snapshot tests** of `corpus/works/<slug>/wiki/*` against
-   committed expected output for 2-3 representative works (1
-   English / French native, 1 Sanskrit transliterated, 1 Old
-   Javanese transliterated).
-3. **Determinism test:** run `build-wiki.ts` twice in succession,
-   diff output trees, expect zero diff.
+2. **Snapshot tests** of `corpus/works/<slug>/wiki/*` against committed
+   expected output for **every (work × chapter) combination** (D6).
+   ~800 snapshot fixtures stored under
+   `apps/mcp/test/wiki-snapshots/`. Catches layout / language /
+   tokenization regressions everywhere, not just in 2-3 representative
+   works.
+3. **Determinism test:** run `build-wiki.ts` twice in succession, diff
+   output trees, expect zero diff.
 4. **Smoke test for MCP tools:** `read_wiki(slug)` returns a card,
    `read_wiki(slug, n)` returns a chapter card, `read_wiki_full`
-   returns the full sheet, errors on unknown slug.
+   returns the full sheet, errors on unknown slug, errors gracefully on
+   slug with missing `wiki/` dir.
 5. **`--check` mode test:** intentionally edit a chapter without
    rebuilding, expect `--check` to fail.
+6. **R1 — paragraph-hash existence test (CRITICAL, IRON RULE):**
+   Every `[p-<hash>]` emitted by the wiki MUST resolve to a real
+   paragraph in the corresponding `paragraphs.json`. Tested
+   automatically against all wiki output across all 37 works × all
+   chapters. A wiki page citing a non-existent paragraph hash is a
+   thesis violation, not just a bug — this test gates merge.
+7. **Tokenization property fuzz** (per D5): randomized inputs covering
+   combining diacritics, RTL marks, smart quotes, hyphenated compounds,
+   transliterated edge cases. Tokenizer output must be deterministic
+   across the property space.
+8. **E2E happy-path test for MCP navigation:** simulated agent flow
+   `list_works → read_wiki(slug) → read_wiki(slug, ch) → read_chapter
+   → quote [p-<hash>]`. Asserts every step produces parseable markdown
+   that the next step can consume.
+9. **Performance bench (per D7):** `scripts/bench-wiki.ts` measures
+   full-corpus rebuild time. Asserts <5 min. Runs in CI on every PR.
+   Protects against silent perf regressions.
 
 ## Migration / rollout
 
@@ -603,8 +675,36 @@ probably move out of the repo (CDN, separately versioned tarball).
 
 - [x] Brainstorm complete
 - [x] Design doc written (this file)
-- [ ] Engineering review
+- [x] Engineering review (2026-04-30)
 - [ ] Implementation plan (writing-plans skill)
 - [ ] Implementation
-- [ ] v1 ship: `corpus/works/*/wiki/` populated, two MCP tools live, smoke tests pass
+- [ ] v1 ship: `corpus/works/*/wiki/` populated, two MCP tools live, all tests pass
 - [ ] v1.1: site card-preview UI
+
+## GSTACK REVIEW REPORT
+
+| Review | Trigger | Why | Runs | Status | Findings |
+|--------|---------|-----|------|--------|----------|
+| Eng Review | `/plan-eng-review` | Architecture & tests (required) | 1 | CLEAR (PLAN) | 7 issues raised, all resolved; 1 critical regression rule (R1) added unconditionally |
+| CEO Review | `/plan-ceo-review` | Scope & strategy | 0 | — | Not required — scope locked in brainstorm with one user |
+| Codex Review | `/codex review` | Independent 2nd opinion | 0 | — | Skipped per user (D8) |
+| Design Review | `/plan-design-review` | UI/UX gaps | 0 | — | Not applicable — wiki is a data layer; UI integration deferred to v1.1 |
+
+**Decisions locked in this review:**
+- D1: two new MCP tools (polymorphic, as proposed)
+- D2: strict verbatim — no truncation in cite-handle blockquotes
+- D3: TextRank quality flag in card frontmatter (`textrank_confidence`)
+- D4: `--check` mode + CI staleness gate ship in v1
+- D5: tokenization preserves diacritics + compounds; Toronto OE Corpus stopwords
+- D6: snapshot every (work × chapter), ~800 fixtures committed
+- D7: hard <5 min perf budget, CI bench script enforces
+
+**Mandatory regression rule:** R1 — every emitted `[p-<hash>]` resolves to a real paragraph (paragraph-hash existence). Tested across all wiki output. Critical for the verbatim-fidelity contract.
+
+**Cross-doc bookkeeping:**
+- TODOS.md `Embeddings-based cross-link upgrade` marked SUPERSEDED by this design
+- TODOS.md gained two v2 items: cross-corpus refrain detection (MinHash) + site UI cards on chapter pages
+
+**UNRESOLVED:** 0 — all raised issues resolved.
+
+**VERDICT:** ENG CLEARED — ready for `/writing-plans` to produce the implementation plan.
