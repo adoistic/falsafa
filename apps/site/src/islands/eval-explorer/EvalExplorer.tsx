@@ -292,8 +292,62 @@ function Header({
       <div class="eval-header-meta">
         Generated {formatTimestamp(generatedAt)}
       </div>
+      {/* Cost / token row — only when at least one model has usage data.
+          Older runs predate token tracking; gracefully omitted then. */}
+      {models.some((m) => (m.cases_with_usage ?? 0) > 0) && (
+        <div class="eval-header-costs">
+          {models
+            .filter((m) => (m.cases_with_usage ?? 0) > 0)
+            .map((m) => (
+              <CostRow key={m.id} model={m} />
+            ))}
+        </div>
+      )}
     </header>
   );
+}
+
+function CostRow({ model: m }: { model: EvalModelMeta }): JSX.Element {
+  const tot = m.total_tokens ?? 0;
+  const prompt = m.total_prompt_tokens ?? 0;
+  const completion = m.total_completion_tokens ?? 0;
+  const cost = m.total_cost_usd ?? null;
+  const apiCalls = m.total_api_calls ?? 0;
+  const cases = m.cases_with_usage ?? 1;
+  const avgCost = cost !== null ? cost / cases : null;
+  const avgTokens = tot / cases;
+  const avgCalls = apiCalls / cases;
+  return (
+    <div class="eval-header-cost-row">
+      <span class="eval-header-cost-model">{m.name}</span>
+      {cost !== null && (
+        <span class="eval-header-cost-stat">
+          <strong>${cost.toFixed(2)}</strong>
+          <span class="eval-header-cost-label"> total spend</span>
+        </span>
+      )}
+      <span class="eval-header-cost-stat">
+        <strong>{fmtTokens(tot)}</strong>
+        <span class="eval-header-cost-label"> tokens ({fmtTokens(prompt)} in / {fmtTokens(completion)} out)</span>
+      </span>
+      <span class="eval-header-cost-stat">
+        <strong>{apiCalls.toLocaleString()}</strong>
+        <span class="eval-header-cost-label"> API calls</span>
+      </span>
+      {avgCost !== null && (
+        <span class="eval-header-cost-stat">
+          <strong>${avgCost.toFixed(4)}</strong>
+          <span class="eval-header-cost-label"> avg/q · {fmtTokens(avgTokens)} tok · {avgCalls.toFixed(1)} calls</span>
+        </span>
+      )}
+    </div>
+  );
+}
+
+function fmtTokens(n: number): string {
+  if (n >= 1_000_000) return `${(n / 1_000_000).toFixed(2)}M`;
+  if (n >= 1_000) return `${(n / 1_000).toFixed(1)}K`;
+  return n.toLocaleString();
 }
 
 /* ── Filter bar ──────────────────────────────────────────────────────── */
