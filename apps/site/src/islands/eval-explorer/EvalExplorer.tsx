@@ -149,7 +149,9 @@ function Loaded({
     [data],
   );
 
-  // Filter pipeline. Verdict comes from the single sonnet result per case.
+  // Filter pipeline. Verdict comes from the single recorded result per case
+  // (data.models[0]) — currently grok-4.1-fast on the live site, was sonnet
+  // pre-redesign. Code is data-driven; the model id isn't hardcoded.
   const filteredCases = useMemo(() => {
     const q = filters.query.trim().toLowerCase();
     return data.cases.filter((c) => {
@@ -166,7 +168,12 @@ function Loaded({
         return false;
       }
       if (filters.passFilter !== "all") {
-        const result = c.results.sonnet;
+        // Pull the verdict from whichever model is present in the data
+        // (currently a single model, but the key is data-driven so we
+        // can swap models without touching this code). Falls back to
+        // null when the model id isn't there or the result is missing.
+        const primaryModelId = data.models[0]?.id;
+        const result = primaryModelId ? c.results[primaryModelId] : undefined;
         const v = passOf(result);
         if (filters.passFilter === "pass" && v !== true) return false;
         if (filters.passFilter === "fail" && v !== false) return false;
@@ -191,7 +198,7 @@ function Loaded({
         filteredCount={filteredCases.length}
         totalCount={data.cases.length}
       />
-      <CaseList cases={filteredCases} />
+      <CaseList cases={filteredCases} primaryModelId={data.models[0]?.id} />
     </div>
   );
 }
@@ -375,7 +382,13 @@ function FilterChipGroup({
 
 /* ── Case list (flat anchors) ────────────────────────────────────────── */
 
-function CaseList({ cases }: { cases: EvalCase[] }): JSX.Element {
+function CaseList({
+  cases,
+  primaryModelId,
+}: {
+  cases: EvalCase[];
+  primaryModelId: string | undefined;
+}): JSX.Element {
   if (cases.length === 0) {
     return (
       <div class="eval-empty">
@@ -388,15 +401,22 @@ function CaseList({ cases }: { cases: EvalCase[] }): JSX.Element {
     <ul class="eval-case-list">
       {cases.map((c) => (
         <li key={c.id}>
-          <CaseRow c={c} />
+          <CaseRow c={c} primaryModelId={primaryModelId} />
         </li>
       ))}
     </ul>
   );
 }
 
-function CaseRow({ c }: { c: EvalCase }): JSX.Element {
-  const v = passOf(c.results.sonnet);
+function CaseRow({
+  c,
+  primaryModelId,
+}: {
+  c: EvalCase;
+  primaryModelId: string | undefined;
+}): JSX.Element {
+  const result = primaryModelId ? c.results[primaryModelId] : undefined;
+  const v = passOf(result);
   const verdict = v === true ? "pass" : v === false ? "fail" : "unjudged";
   return (
     <a class="eval-case-row" href={`/eval/${c.id}/`}>

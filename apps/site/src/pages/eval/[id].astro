@@ -36,14 +36,22 @@ export const getStaticPaths = (() => {
   // Inlined for locality; see Astro 5 getStaticPaths notes.
   const evalJsonPath = resolve(process.cwd(), "public", "eval.json");
   const data = JSON.parse(readFileSync(evalJsonPath, "utf-8")) as EvalJson;
+  // The page is currently single-model (the redesign collapsed the four
+  // sonnet runs into one entry). Pull the model id from data.models[0]
+  // and pass it through props so the page renders whichever model is
+  // primary today (sonnet, grok-4.1-fast, etc.) without code edits.
+  const primaryModelId = data.models[0]?.id;
   return data.cases.map((c) => ({
     params: { id: c.id },
-    props: { case: c },
+    props: { case: c, primaryModelId },
   }));
 }) satisfies GetStaticPaths;
 
-const { case: c } = Astro.props as { case: EvalCase };
-const result = c.results.sonnet;
+const { case: c, primaryModelId } = Astro.props as {
+  case: EvalCase;
+  primaryModelId: string | undefined;
+};
+const result = primaryModelId ? c.results[primaryModelId] : undefined;
 const verdict = passOf(result);
 const verdictText = verdict === true ? "Pass" : verdict === false ? "Fail" : "Unjudged";
 const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—";
@@ -75,8 +83,12 @@ const sanitized = DOMPurify.sanitize(rendered, {
 const answerHtml = result ? linkifyHtml(sanitized, result.citations, listChapters) : "";
 
 const caseUrl = `https://falsafa.ai/eval/${c.id}/`;
-const sourceUrl = result
-  ? `https://github.com/adoistic/falsafa/tree/main/apps/mcp/eval/runs/${result.from_run}/sonnet/${c.id}.json`
+// The runner writes to runs/<run-name>/<model-label>/q-NNNN.json — same
+// shape used by build-eval-json. The model-label and the model id at
+// data.models[0].id match by construction (one model entry per
+// modelLabel), so primaryModelId is the right path segment here.
+const sourceUrl = result && primaryModelId
+  ? `https://github.com/adoistic/falsafa/tree/main/apps/mcp/eval/runs/${result.from_run}/${primaryModelId}/${c.id}.json`
   : null;
 
 // Citations chip row data — distinct from expected_works (auditor's intent).

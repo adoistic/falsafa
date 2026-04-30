@@ -351,6 +351,9 @@ function humaniseModelLabel(label: string): string {
     opus: "Claude Opus 4.7",
     haiku: "Claude Haiku 4.5",
     codex: "GPT-5 Codex",
+    "grok-4.1-fast": "xAI Grok 4.1 Fast",
+    "claude-sonnet-4": "Claude Sonnet 4",
+    "gpt-5": "GPT-5",
   };
   return named[label] ?? label;  // unmapped labels render as-is
 }
