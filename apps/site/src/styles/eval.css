@@ -199,6 +199,19 @@
   color: var(--ink-muted);
 }
 
+/* Per-tier sub-row — visually demoted (smaller, indented). */
+.eval-header-cost-row--tier {
+  font-size: 11px;
+  padding-left: var(--s-3);
+  opacity: 0.85;
+}
+.eval-header-cost-row--tier .eval-header-cost-model {
+  color: var(--ink-muted);
+  font-weight: 400;
+  text-transform: none;
+  letter-spacing: 0;
+}
+
 .eval-header-cost-model {
   font-weight: 600;
   color: var(--ink);

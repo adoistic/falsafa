@@ -20,6 +20,14 @@
 export interface NPMIOpts {
   /** Minimum joint occurrence count to keep the pair. Default 3. */
   minJointCount?: number;
+  /**
+   * Cap unique terms per doc before generating pairs. Each doc with U unique
+   * tokens produces O(U²) pair entries; a doc with 5K unique tokens produces
+   * 12.5M pair entries — enough to OOM the JS heap when aggregated across
+   * many docs. Default 500: pairs = 125K per doc, ~5M cross-doc max.
+   * Pass Infinity to disable.
+   */
+  maxTermsPerDoc?: number;
 }
 
 export interface NPMIResult {
@@ -34,6 +42,7 @@ export function computeNPMI(
   opts: NPMIOpts = {},
 ): NPMIResult[] {
   const minJoint = opts.minJointCount ?? 3;
+  const maxTerms = opts.maxTermsPerDoc ?? 500;
   if (docs.length === 0) return [];
 
   // Per-doc unique-term presence (type-level co-occurrence).
@@ -42,8 +51,19 @@ export function computeNPMI(
   let totalDocs = docs.length;
 
   for (const doc of docs) {
-    const seen = new Set<string>();
-    for (const t of doc) seen.add(t);
+    // Cap each doc's vocabulary to the top-K most frequent tokens before
+    // generating pairs. Without this, high-vocab docs (full chapters with
+    // thousands of distinct tokens) explode the pair-count map quadratically
+    // and OOM the heap. Top-K-by-frequency loses nothing meaningful — NPMI
+    // signal lives in repeatedly co-occurring terms, which the cutoff keeps.
+    const inDocCounts = new Map<string, number>();
+    for (const t of doc) inDocCounts.set(t, (inDocCounts.get(t) ?? 0) + 1);
+    const seen = new Set<string>(
+      [...inDocCounts.entries()]
+        .sort((a, b) => b[1] - a[1])
+        .slice(0, Number.isFinite(maxTerms) ? maxTerms : inDocCounts.size)
+        .map(([t]) => t),
+    );
     for (const t of seen) {
       termCount.set(t, (termCount.get(t) ?? 0) + 1);
     }

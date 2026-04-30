@@ -38,6 +38,14 @@ export interface EvalModelMeta {
   total_cost_usd?: number;
   /** How many of the model's results had usage data attached. */
   cases_with_usage?: number;
+  /** Per-tier cost / token breakdown. Lets the explorer surface "discovery
+   *  costs N× citation" and the wiki-A/B compare cost-per-tier deltas. */
+  total_cost_usd_named?: number;
+  total_cost_usd_hidden?: number;
+  total_tokens_named?: number;
+  total_tokens_hidden?: number;
+  cases_with_usage_named?: number;
+  cases_with_usage_hidden?: number;
 }
 
 export interface EvalToolCall {

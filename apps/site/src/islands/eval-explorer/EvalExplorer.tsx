@@ -317,30 +317,59 @@ function CostRow({ model: m }: { model: EvalModelMeta }): JSX.Element {
   const avgCost = cost !== null ? cost / cases : null;
   const avgTokens = tot / cases;
   const avgCalls = apiCalls / cases;
+  // Per-tier averages (when both tiers have usage data)
+  const avgCostN =
+    m.total_cost_usd_named !== undefined && (m.cases_with_usage_named ?? 0) > 0
+      ? m.total_cost_usd_named / m.cases_with_usage_named!
+      : null;
+  const avgCostH =
+    m.total_cost_usd_hidden !== undefined && (m.cases_with_usage_hidden ?? 0) > 0
+      ? m.total_cost_usd_hidden / m.cases_with_usage_hidden!
+      : null;
+  const tierBreakdown = avgCostN !== null && avgCostH !== null;
   return (
-    <div class="eval-header-cost-row">
-      <span class="eval-header-cost-model">{m.name}</span>
-      {cost !== null && (
+    <>
+      <div class="eval-header-cost-row">
+        <span class="eval-header-cost-model">{m.name}</span>
+        {cost !== null && (
+          <span class="eval-header-cost-stat">
+            <strong>${cost.toFixed(2)}</strong>
+            <span class="eval-header-cost-label"> total spend</span>
+          </span>
+        )}
         <span class="eval-header-cost-stat">
-          <strong>${cost.toFixed(2)}</strong>
-          <span class="eval-header-cost-label"> total spend</span>
+          <strong>{fmtTokens(tot)}</strong>
+          <span class="eval-header-cost-label"> tokens ({fmtTokens(prompt)} in / {fmtTokens(completion)} out)</span>
         </span>
-      )}
-      <span class="eval-header-cost-stat">
-        <strong>{fmtTokens(tot)}</strong>
-        <span class="eval-header-cost-label"> tokens ({fmtTokens(prompt)} in / {fmtTokens(completion)} out)</span>
-      </span>
-      <span class="eval-header-cost-stat">
-        <strong>{apiCalls.toLocaleString()}</strong>
-        <span class="eval-header-cost-label"> API calls</span>
-      </span>
-      {avgCost !== null && (
         <span class="eval-header-cost-stat">
-          <strong>${avgCost.toFixed(4)}</strong>
-          <span class="eval-header-cost-label"> avg/q · {fmtTokens(avgTokens)} tok · {avgCalls.toFixed(1)} calls</span>
+          <strong>{apiCalls.toLocaleString()}</strong>
+          <span class="eval-header-cost-label"> API calls</span>
         </span>
+        {avgCost !== null && (
+          <span class="eval-header-cost-stat">
+            <strong>${avgCost.toFixed(4)}</strong>
+            <span class="eval-header-cost-label"> avg/q · {fmtTokens(avgTokens)} tok · {avgCalls.toFixed(1)} calls</span>
+          </span>
+        )}
+      </div>
+      {tierBreakdown && (
+        <div class="eval-header-cost-row eval-header-cost-row--tier">
+          <span class="eval-header-cost-model">↳ per tier</span>
+          <span class="eval-header-cost-stat">
+            <strong>${avgCostH!.toFixed(4)}</strong>
+            <span class="eval-header-cost-label"> avg/q discovery</span>
+          </span>
+          <span class="eval-header-cost-stat">
+            <strong>${avgCostN!.toFixed(4)}</strong>
+            <span class="eval-header-cost-label"> avg/q citation</span>
+          </span>
+          <span class="eval-header-cost-stat">
+            <strong>{(avgCostH! / avgCostN!).toFixed(1)}×</strong>
+            <span class="eval-header-cost-label"> discovery / citation cost ratio</span>
+          </span>
+        </div>
       )}
-    </div>
+    </>
   );
 }
 

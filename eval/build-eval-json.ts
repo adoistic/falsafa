@@ -103,6 +103,14 @@ interface OutModel {
   total_api_calls?: number;
   total_cost_usd?: number;
   cases_with_usage?: number;
+  /** Per-tier cost / token breakdown — lets the explorer show "discovery
+   *  costs 3x citation" and the wiki-A/B compare cost-per-tier deltas. */
+  total_cost_usd_named?: number;
+  total_cost_usd_hidden?: number;
+  total_tokens_named?: number;
+  total_tokens_hidden?: number;
+  cases_with_usage_named?: number;
+  cases_with_usage_hidden?: number;
 }
 
 interface ResultUsage {
@@ -608,7 +616,7 @@ function main() {
     let totalN = 0;
     let passH = 0;
     let totalH = 0;
-    // Token / cost accumulators
+    // Token / cost accumulators (aggregate)
     let totPromptTokens = 0;
     let totCompletionTokens = 0;
     let totTotalTokens = 0;
@@ -616,13 +624,23 @@ function main() {
     let totCostUsd = 0;
     let costSeen = false;
     let casesWithUsage = 0;
+    // Per-tier accumulators
+    let totTokensN = 0;
+    let totTokensH = 0;
+    let totCostN = 0;
+    let totCostH = 0;
+    let casesUsageN = 0;
+    let casesUsageH = 0;
+    let costSeenN = false;
+    let costSeenH = false;
     for (const c of cases.values()) {
       const r = c.results[label];
       if (!r) continue;
       total += 1;
       const passed = passOf(r) === true;
       if (passed) pass += 1;
-      if (c.tier === "hidden") {
+      const isHidden = c.tier === "hidden";
+      if (isHidden) {
         totalH += 1;
         if (passed) passH += 1;
       } else {
@@ -639,6 +657,22 @@ function main() {
         if (typeof r.usage.cost_usd === "number") {
           totCostUsd += r.usage.cost_usd;
           costSeen = true;
+        }
+        // Per-tier
+        if (isHidden) {
+          casesUsageH += 1;
+          totTokensH += r.usage.total_tokens;
+          if (typeof r.usage.cost_usd === "number") {
+            totCostH += r.usage.cost_usd;
+            costSeenH = true;
+          }
+        } else {
+          casesUsageN += 1;
+          totTokensN += r.usage.total_tokens;
+          if (typeof r.usage.cost_usd === "number") {
+            totCostN += r.usage.cost_usd;
+            costSeenN = true;
+          }
         }
       }
     }
@@ -660,6 +694,16 @@ function main() {
       m.total_tokens = totTotalTokens;
       m.total_api_calls = totApiCalls;
       if (costSeen) m.total_cost_usd = totCostUsd;
+    }
+    if (casesUsageN > 0) {
+      m.cases_with_usage_named = casesUsageN;
+      m.total_tokens_named = totTokensN;
+      if (costSeenN) m.total_cost_usd_named = totCostN;
+    }
+    if (casesUsageH > 0) {
+      m.cases_with_usage_hidden = casesUsageH;
+      m.total_tokens_hidden = totTokensH;
+      if (costSeenH) m.total_cost_usd_hidden = totCostH;
     }
     models.push(m);
   }
