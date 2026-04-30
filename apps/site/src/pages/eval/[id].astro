@@ -33,63 +33,106 @@ DOMPurify.addHook("afterSanitizeAttributes", (node: any) => {
 });
 
 export const getStaticPaths = (() => {
-  // Inlined for locality; see Astro 5 getStaticPaths notes.
   const evalJsonPath = resolve(process.cwd(), "public", "eval.json");
   const data = JSON.parse(readFileSync(evalJsonPath, "utf-8")) as EvalJson;
-  // The page is currently single-model (the redesign collapsed the four
-  // sonnet runs into one entry). Pull the model id from data.models[0]
-  // and pass it through props so the page renders whichever model is
-  // primary today (sonnet, grok-4.1-fast, etc.) without code edits.
+
+  // Resolve A/B arm ids (or fall back to single-model legacy).
+  const baselineModel = data.models.find((m) => m.id.endsWith("__baseline"));
+  const wikiModel = data.models.find((m) => m.id.endsWith("__wiki"));
+  const abMode = !!(baselineModel && wikiModel);
   const primaryModelId = data.models[0]?.id;
+
   return data.cases.map((c) => ({
     params: { id: c.id },
-    props: { case: c, primaryModelId },
+    props: {
+      case: c,
+      primaryModelId,
+      baselineId: baselineModel?.id,
+      wikiId: wikiModel?.id,
+      abMode,
+    },
   }));
 }) satisfies GetStaticPaths;
 
-const { case: c, primaryModelId } = Astro.props as {
+const {
+  case: c,
+  primaryModelId,
+  baselineId,
+  wikiId,
+  abMode,
+} = Astro.props as {
   case: EvalCase;
   primaryModelId: string | undefined;
+  baselineId: string | undefined;
+  wikiId: string | undefined;
+  abMode: boolean;
 };
-const result = primaryModelId ? c.results[primaryModelId] : undefined;
-const verdict = passOf(result);
-const verdictText = verdict === true ? "Pass" : verdict === false ? "Fail" : "Unjudged";
-const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—";
 
 // Render pipeline (order matters):
 //   1. md.parse(answer)               → markdown-rendered HTML (gfm + breaks + footnote)
 //   2. DOMPurify.sanitize(rendered)   → strips <script>, <iframe>, on*= handlers, etc.
 //   3. linkifyHtml(sanitized, ...)    → wraps p-XXXXXX tokens in anchors,
 //                                       skipping <pre>/<code> regions
-const rendered = result ? md.parse(result.answer) : "";
-if (typeof rendered !== "string") {
-  throw new Error("marked.parse returned non-string; check marked version compat");
+//
+// In A/B mode this runs twice (once per arm). The build-time cost is
+// accepted by the spec.
+function renderArm(modelId: string | undefined) {
+  const r = modelId ? c.results[modelId] : undefined;
+  if (!r) return null;
+  const html = md.parse(r.answer);
+  if (typeof html !== "string") {
+    throw new Error("marked.parse returned non-string; check marked version compat");
+  }
+  const sanitized = DOMPurify.sanitize(html, {
+    ALLOWED_TAGS: [
+      "p", "br", "hr", "strong", "em", "del", "ins", "mark", "sub", "sup",
+      "code", "pre", "kbd", "samp", "var",
+      "blockquote",
+      "ul", "ol", "li", "dl", "dt", "dd",
+      "h1", "h2", "h3", "h4", "h5", "h6",
+      "a",
+      "table", "thead", "tbody", "tfoot", "tr", "th", "td",
+    ],
+    ALLOWED_ATTR: ["href", "title", "colspan", "rowspan", "align", "scope", "target", "rel"],
+  });
+  const linkified = linkifyHtml(sanitized, r.citations, listChapters);
+  return { result: r, html: linkified, verdict: passOf(r) };
 }
-const sanitized = DOMPurify.sanitize(rendered, {
-  // Comprehensive markdown-output set: tables, semantic inline tags, hr,
-  // dl/dt/dd, sub/sup, kbd/samp/var. Real model output uses these; silently
-  // stripping them would change how recorded answers render.
-  ALLOWED_TAGS: [
-    "p", "br", "hr", "strong", "em", "del", "ins", "mark", "sub", "sup",
-    "code", "pre", "kbd", "samp", "var",
-    "blockquote",
-    "ul", "ol", "li", "dl", "dt", "dd",
-    "h1", "h2", "h3", "h4", "h5", "h6",
-    "a",
-    "table", "thead", "tbody", "tfoot", "tr", "th", "td",
-  ],
-  ALLOWED_ATTR: ["href", "title", "colspan", "rowspan", "align", "scope", "target", "rel"],
-});
-const answerHtml = result ? linkifyHtml(sanitized, result.citations, listChapters) : "";
+
+const baselineRender = abMode ? renderArm(baselineId) : null;
+const wikiRender = abMode ? renderArm(wikiId) : null;
+const singleRender = !abMode ? renderArm(primaryModelId) : null;
+
+// For the page header pill: prefer baseline's verdict in A/B mode (default tab).
+const verdict = abMode ? baselineRender?.verdict ?? null : singleRender?.verdict ?? null;
+const verdictText = verdict === true ? "Pass" : verdict === false ? "Fail" : "Unjudged";
+const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—";
 
 const caseUrl = `https://falsafa.ai/eval/${c.id}/`;
 // The runner writes to runs/<run-name>/<model-label>/q-NNNN.json — same
-// shape used by build-eval-json. The model-label and the model id at
-// data.models[0].id match by construction (one model entry per
-// modelLabel), so primaryModelId is the right path segment here.
-const sourceUrl = result && primaryModelId
-  ? `https://github.com/adoistic/falsafa/tree/main/apps/mcp/eval/runs/${result.from_run}/${primaryModelId}/${c.id}.json`
-  : null;
+// shape used by build-eval-json. In A/B mode we link to the baseline
+// arm's source by default; the wiki arm has its own from_run that the
+// reader can find by clicking the Wiki tab and inspecting that source.
+const sourceUrl = (() => {
+  if (abMode) {
+    const b = baselineRender?.result;
+    if (b && baselineId) {
+      return `https://github.com/adoistic/falsafa/tree/main/apps/mcp/eval/runs/${b.from_run}/${baselineId}/${c.id}.json`;
+    }
+    return null;
+  }
+  if (singleRender?.result && primaryModelId) {
+    return `https://github.com/adoistic/falsafa/tree/main/apps/mcp/eval/runs/${singleRender.result.from_run}/${primaryModelId}/${c.id}.json`;
+  }
+  return null;
+})();
+
+// Legacy single-arm shims — keep the existing article body rendering
+// while Task 9 lands. Task 10 replaces the body with the dual-arm
+// dispatch and these shims go away.
+const activeRender = abMode ? baselineRender : singleRender;
+const result = activeRender?.result;
+const answerHtml = activeRender?.html ?? "";
 
 // Citations chip row data — distinct from expected_works (auditor's intent).
 // Citations are what the model actually cited; expected_works is what the
