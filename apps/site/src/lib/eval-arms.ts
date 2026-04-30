@@ -63,3 +63,42 @@ export function armVerdicts(
     wiki: wikiId ? passOf(c.results[wikiId]) : null,
   };
 }
+
+/**
+ * The 6 selectable modes for the comparison filter chip group.
+ * `all` is the default (no filter applied).
+ */
+export type CompareMode =
+  | "all"
+  | "flips-pass"
+  | "flips-fail"
+  | "both-pass"
+  | "both-fail"
+  | "pending-wiki";
+
+/**
+ * Truth table from the spec (Section 2). Returns true iff the case's
+ * (baseline, wiki) verdicts are in the set selected by `mode`.
+ *
+ * `null` semantics: "pending" — that arm has no result for this case.
+ * Pending cases NEVER satisfy flips/both modes, only `all` and `pending-wiki`.
+ */
+export function filterByCompare(
+  v: { baseline: boolean | null; wiki: boolean | null },
+  mode: CompareMode,
+): boolean {
+  switch (mode) {
+    case "all":
+      return true;
+    case "flips-pass":
+      return v.baseline === false && v.wiki === true;
+    case "flips-fail":
+      return v.baseline === true && v.wiki === false;
+    case "both-pass":
+      return v.baseline === true && v.wiki === true;
+    case "both-fail":
+      return v.baseline === false && v.wiki === false;
+    case "pending-wiki":
+      return v.wiki === null;
+  }
+}

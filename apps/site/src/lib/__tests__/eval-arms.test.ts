@@ -2,6 +2,8 @@ import { describe, expect, test } from "bun:test";
 import { armOfModelId } from "../eval-arms";
 import { isAbMode } from "../eval-arms";
 import { armVerdicts } from "../eval-arms";
+import { filterByCompare } from "../eval-arms";
+import type { CompareMode } from "../eval-arms";
 import type { EvalCase } from "../eval-types";
 
 describe("armOfModelId", () => {
@@ -138,4 +140,53 @@ describe("armVerdicts", () => {
     expect(armVerdicts(c, undefined, undefined))
       .toEqual({ baseline: null, wiki: null });
   });
+});
+
+describe("filterByCompare", () => {
+  // Each row: [baseline, wiki, mode, expected]
+  const cases: Array<[boolean | null, boolean | null, CompareMode, boolean]> = [
+    // mode=all — everything passes
+    [true,  true,  "all", true],
+    [false, false, "all", true],
+    [true,  null,  "all", true],
+    [null,  null,  "all", true],
+
+    // mode=flips-pass — baseline=false, wiki=true
+    [false, true,  "flips-pass", true],
+    [true,  true,  "flips-pass", false],
+    [false, false, "flips-pass", false],
+    [false, null,  "flips-pass", false],
+    [null,  true,  "flips-pass", false],
+
+    // mode=flips-fail — baseline=true, wiki=false
+    [true,  false, "flips-fail", true],
+    [true,  true,  "flips-fail", false],
+    [false, false, "flips-fail", false],
+    [true,  null,  "flips-fail", false],
+
+    // mode=both-pass — baseline=true AND wiki=true
+    [true,  true,  "both-pass", true],
+    [true,  false, "both-pass", false],
+    [false, true,  "both-pass", false],
+    [true,  null,  "both-pass", false],
+
+    // mode=both-fail — baseline=false AND wiki=false
+    [false, false, "both-fail", true],
+    [true,  false, "both-fail", false],
+    [false, true,  "both-fail", false],
+    [false, null,  "both-fail", false],
+
+    // mode=pending-wiki — wiki is null
+    [true,  null,  "pending-wiki", true],
+    [false, null,  "pending-wiki", true],
+    [null,  null,  "pending-wiki", true],
+    [true,  true,  "pending-wiki", false],
+    [false, false, "pending-wiki", false],
+  ];
+
+  for (const [baseline, wiki, mode, expected] of cases) {
+    test(`b=${baseline}, w=${wiki}, mode=${mode} -> ${expected}`, () => {
+      expect(filterByCompare({ baseline, wiki }, mode)).toBe(expected);
+    });
+  }
 });
