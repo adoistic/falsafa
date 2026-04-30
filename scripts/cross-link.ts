@@ -38,55 +38,45 @@ import {
 } from "node:fs";
 import { resolve, join } from "node:path";
 
+// Shared TF-IDF primitives — same algorithm, single source of truth so the
+// wiki layer (apps/mcp/lib/wiki/) reuses the exact IDF math via the same
+// module. Re-export the pieces this script's tests import.
+import {
+  tokenize as sharedTokenize,
+  buildTfIdf as sharedBuildTfIdf,
+  cosine as sharedCosine,
+  MIN_TOKENS as SHARED_MIN_TOKENS,
+  MIN_COSINE as SHARED_MIN_COSINE,
+  DEFAULT_TOP_K as SHARED_DEFAULT_TOP_K,
+  type DocVector,
+} from "../apps/mcp/lib/tfidf";
+
 const ROOT = resolve(import.meta.dir, "..");
 const CORPUS = resolve(ROOT, "corpus");
 const OUTPUT_PATH = resolve(CORPUS, "cross-links.json");
 
 // ─────────────────────────────────────────────────────────────────────────
-// Tokenization
+// Tokenization (re-exported from apps/mcp/lib/tfidf)
 // ─────────────────────────────────────────────────────────────────────────
 
-/**
- * Reused from scripts/reclassify-variants.ts so the two scripts agree on
- * what counts as English noise. ~50 high-frequency Modern-English words.
- */
-const STOPWORDS = new Set([
-  "the", "and", "of", "to", "in", "that", "is", "was", "for",
-  "it", "with", "as", "his", "be", "by", "on", "not", "this", "but",
-  "are", "from", "or", "have", "an", "they", "which", "one", "you",
-  "were", "her", "all", "she", "there", "would", "their", "we", "him",
-  "been", "has", "when", "who", "will", "more", "no", "if", "out",
-  "do", "what", "so", "up", "into", "your", "about", "just",
-  "should", "could", "may", "might", "shall", "must",
-  "had", "its", "our", "them", "than", "then", "where", "these", "those",
-  "some", "any", "such", "only", "also", "now", "over", "very",
-]);
-
 /** Minimum tokens after filtering for a chapter to be indexed. */
-export const MIN_TOKENS = 50;
+export const MIN_TOKENS = SHARED_MIN_TOKENS;
 
 /** Minimum cosine similarity for a pair to count as a "related" link. */
-export const MIN_COSINE = 0.05;
+export const MIN_COSINE = SHARED_MIN_COSINE;
 
 /** Default top-K relateds per chapter. */
-export const DEFAULT_TOP_K = 5;
+export const DEFAULT_TOP_K = SHARED_DEFAULT_TOP_K;
 
 /**
  * Tokenize an English-language body. Drops YAML frontmatter expected to
  * already be stripped by the caller (we receive `body` not the raw `.md`).
  * Returns lowercased tokens of length >= 3 with stopwords removed.
+ *
+ * Implementation lives in apps/mcp/lib/tfidf.ts so the wiki layer can use
+ * the same algorithm.
  */
-export function tokenize(body: string): string[] {
-  const lowered = body.toLowerCase();
-  const raw = lowered.split(/[^a-z']+/);
-  const out: string[] = [];
-  for (const t of raw) {
-    if (t.length < 3) continue;
-    if (STOPWORDS.has(t)) continue;
-    out.push(t);
-  }
-  return out;
-}
+export const tokenize = sharedTokenize;
 
 // ─────────────────────────────────────────────────────────────────────────
 // Frontmatter strip (minimal — body-only is what we need)
@@ -100,7 +90,7 @@ function stripFrontmatter(raw: string): string {
 }
 
 // ─────────────────────────────────────────────────────────────────────────
-// TF-IDF + cosine
+// TF-IDF + cosine (re-exported from apps/mcp/lib/tfidf)
 // ─────────────────────────────────────────────────────────────────────────
 
 export interface ChapterDoc {
@@ -116,71 +106,14 @@ export interface ChapterDoc {
 }
 
 /**
- * Build a TF map from a token list. Raw counts (no sublinear scaling) — the
- * corpus is small and chapters are short, so log-scaling muddies signal.
+ * Compute TF-IDF vectors for every input doc, keyed by `<work_slug>/<chapter_slug>`.
+ * Implementation lives in apps/mcp/lib/tfidf.ts. Same algorithm as before;
+ * extracted so the wiki layer can use it.
  */
-function termFrequency(tokens: string[]): Map<string, number> {
-  const tf = new Map<string, number>();
-  for (const t of tokens) tf.set(t, (tf.get(t) ?? 0) + 1);
-  return tf;
-}
+export const buildTfIdf = sharedBuildTfIdf;
 
-/**
- * Compute TF-IDF vectors + cosine norms for every input doc. `tokenLists` is
- * keyed by doc identifier; `df` is the document-frequency map shared across
- * the corpus. We return Map<key, {vector, norm}> for fast pairwise scoring.
- */
-export function buildTfIdf(
-  tokenLists: Map<string, string[]>,
-): Map<string, { vector: Map<string, number>; norm: number }> {
-  const N = tokenLists.size;
-  // Document frequency: distinct chapters each term appears in.
-  const df = new Map<string, number>();
-  for (const tokens of tokenLists.values()) {
-    const seen = new Set<string>();
-    for (const t of tokens) {
-      if (seen.has(t)) continue;
-      seen.add(t);
-      df.set(t, (df.get(t) ?? 0) + 1);
-    }
-  }
-  // Build TF-IDF vectors + norms.
-  const out = new Map<string, { vector: Map<string, number>; norm: number }>();
-  for (const [key, tokens] of tokenLists) {
-    const tf = termFrequency(tokens);
-    const vector = new Map<string, number>();
-    let sumSq = 0;
-    for (const [term, count] of tf) {
-      const dfTerm = df.get(term) ?? 1;
-      // log(N/df). When dfTerm == N (term in every doc), idf == 0 → drops out.
-      const idf = Math.log(N / dfTerm);
-      if (idf <= 0) continue;
-      const w = count * idf;
-      vector.set(term, w);
-      sumSq += w * w;
-    }
-    out.set(key, { vector, norm: Math.sqrt(sumSq) });
-  }
-  return out;
-}
-
-/**
- * Cosine similarity over sparse maps. We iterate the smaller vector for the
- * dot product — typical chapters share only a few hundred terms.
- */
-export function cosine(
-  a: { vector: Map<string, number>; norm: number },
-  b: { vector: Map<string, number>; norm: number },
-): number {
-  if (a.norm === 0 || b.norm === 0) return 0;
-  const [small, large] = a.vector.size <= b.vector.size ? [a.vector, b.vector] : [b.vector, a.vector];
-  let dot = 0;
-  for (const [term, w] of small) {
-    const other = large.get(term);
-    if (other !== undefined) dot += w * other;
-  }
-  return dot / (a.norm * b.norm);
-}
+/** Cosine similarity over the {vector, norm} shape. Re-exported. */
+export const cosine = sharedCosine;
 
 // ─────────────────────────────────────────────────────────────────────────
 // Corpus walk

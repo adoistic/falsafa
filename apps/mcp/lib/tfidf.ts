@@ -1,38 +1,58 @@
 /**
- * Shared TF-IDF primitives. Extracted from scripts/cross-link.ts so the
- * cross-link build and the wiki layer build operate on the same IDF
- * values. Pure functions, no I/O.
+ * Shared TF-IDF primitives. Extracted verbatim from scripts/cross-link.ts
+ * so the cross-link build and the wiki layer build operate on the same
+ * IDF values. Pure functions, no I/O.
  *
- * Per spec D5: lowercases, splits on whitespace + most punctuation BUT
- * NOT on hyphens — hyphenated compounds ("self-existent", "varna-dharma",
- * "dil-e-naadan") stay as single tokens. Drops 1-2 character tokens.
+ * Algorithm (preserved from cross-link.ts so existing cross-links.json
+ * stays byte-identical after the refactor):
+ *   - tf = raw count (no length normalization)
+ *   - idf = log(N / df) (unsmoothed; terms in every doc drop to 0 weight)
+ *   - weight = tf × idf
+ *   - cosine = dot(a, b) / (norm_a × norm_b)
  *
- * For language-aware stopword removal, see apps/mcp/lib/wiki/tokenize.ts
- * (built on top of these primitives).
+ * Tokenization:
+ *   - lowercase
+ *   - split on `[^a-z']+` (the cross-link.ts regex — drops numbers, all
+ *     non-Latin script, and hyphens)
+ *   - drop tokens < 3 chars
+ *   - drop English stopwords (~80-word list inherited from cross-link.ts)
+ *
+ * For language-aware tokenization that preserves diacritics + compounds
+ * per design D5 (used by the wiki layer), see apps/mcp/lib/wiki/tokenize.ts.
  */
 
 export const MIN_TOKENS = 50;
 export const MIN_COSINE = 0.05;
 export const DEFAULT_TOP_K = 5;
 
-const TOKEN_RE = /[\s,.;:()\[\]{}<>"'!?—–…“”‘’]+/u;
+const STOPWORDS = new Set([
+  "the", "and", "of", "to", "in", "that", "is", "was", "for",
+  "it", "with", "as", "his", "be", "by", "on", "not", "this", "but",
+  "are", "from", "or", "have", "an", "they", "which", "one", "you",
+  "were", "her", "all", "she", "there", "would", "their", "we", "him",
+  "been", "has", "when", "who", "will", "more", "no", "if", "out",
+  "do", "what", "so", "up", "into", "your", "about", "just",
+  "should", "could", "may", "might", "shall", "must",
+  "had", "its", "our", "them", "than", "then", "where", "these", "those",
+  "some", "any", "such", "only", "also", "now", "over", "very",
+]);
 
 export function tokenize(body: string): string[] {
-  return body
-    .toLowerCase()
-    .split(TOKEN_RE)
-    .filter((t) => t.length >= 3);
+  const lowered = body.toLowerCase();
+  const raw = lowered.split(/[^a-z']+/);
+  const out: string[] = [];
+  for (const t of raw) {
+    if (t.length < 3) continue;
+    if (STOPWORDS.has(t)) continue;
+    out.push(t);
+  }
+  return out;
 }
 
-export interface TfIdfDoc {
-  id: string;
-  tokens: string[];
-}
-
-export interface TfIdfResult {
-  vectors: Map<string, Map<string, number>>;
-  idf: Map<string, number>;
-  N: number;
+/** TF-IDF result per doc: sparse weight map plus pre-computed L2 norm. */
+export interface DocVector {
+  vector: Map<string, number>;
+  norm: number;
 }
 
 function termFrequency(tokens: string[]): Map<string, number> {
@@ -41,48 +61,56 @@ function termFrequency(tokens: string[]): Map<string, number> {
   return tf;
 }
 
-export function buildTfIdf(docs: TfIdfDoc[]): TfIdfResult {
-  const N = docs.length;
+/**
+ * Build TF-IDF vectors + L2 norms for every input doc. tokenLists is
+ * keyed by doc id (typically `<work_slug>/<chapter_slug>`).
+ *
+ * Uses raw count × log(N/df). Terms with df = N (in every doc) get
+ * idf = 0 and are dropped from the weight map.
+ */
+export function buildTfIdf(
+  tokenLists: Map<string, string[]>,
+): Map<string, DocVector> {
+  const N = tokenLists.size;
   const df = new Map<string, number>();
-  const tfPerDoc = new Map<string, Map<string, number>>();
-  for (const d of docs) {
-    const tf = termFrequency(d.tokens);
-    tfPerDoc.set(d.id, tf);
-    for (const term of tf.keys()) df.set(term, (df.get(term) ?? 0) + 1);
-  }
-  const idf = new Map<string, number>();
-  for (const [term, dfCount] of df) {
-    idf.set(term, Math.log((N + 1) / (dfCount + 1)) + 1);
-  }
-  const vectors = new Map<string, Map<string, number>>();
-  for (const [id, tf] of tfPerDoc) {
-    const total = [...tf.values()].reduce((a, b) => a + b, 0);
-    const v = new Map<string, number>();
-    for (const [term, count] of tf) {
-      const tfNorm = total > 0 ? count / total : 0;
-      v.set(term, tfNorm * (idf.get(term) ?? 0));
+  for (const tokens of tokenLists.values()) {
+    const seen = new Set<string>();
+    for (const t of tokens) {
+      if (seen.has(t)) continue;
+      seen.add(t);
+      df.set(t, (df.get(t) ?? 0) + 1);
     }
-    vectors.set(id, v);
   }
-  return { vectors, idf, N };
+  const out = new Map<string, DocVector>();
+  for (const [key, tokens] of tokenLists) {
+    const tf = termFrequency(tokens);
+    const vector = new Map<string, number>();
+    let sumSq = 0;
+    for (const [term, count] of tf) {
+      const dfTerm = df.get(term) ?? 1;
+      const idf = Math.log(N / dfTerm);
+      if (idf <= 0) continue;
+      const w = count * idf;
+      vector.set(term, w);
+      sumSq += w * w;
+    }
+    out.set(key, { vector, norm: Math.sqrt(sumSq) });
+  }
+  return out;
 }
 
-export function cosine(
-  a: Map<string, number>,
-  b: Map<string, number>,
-): number {
-  let normA = 0;
-  let normB = 0;
-  for (const v of a.values()) normA += v * v;
-  for (const v of b.values()) normB += v * v;
-  if (normA === 0 || normB === 0) return 0;
-  // Iterate the smaller map for fewer hash lookups
-  const smaller = a.size <= b.size ? a : b;
-  const larger = smaller === a ? b : a;
+/**
+ * Cosine similarity over sparse maps. Iterates the smaller vector for the
+ * dot product. Returns 0 when either norm is 0 (empty vector or all-idf=0).
+ */
+export function cosine(a: DocVector, b: DocVector): number {
+  if (a.norm === 0 || b.norm === 0) return 0;
+  const [small, large] =
+    a.vector.size <= b.vector.size ? [a.vector, b.vector] : [b.vector, a.vector];
   let dot = 0;
-  for (const [k, v] of smaller) {
-    const u = larger.get(k);
-    if (u !== undefined) dot += v * u;
+  for (const [term, w] of small) {
+    const other = large.get(term);
+    if (other !== undefined) dot += w * other;
   }
-  return dot / (Math.sqrt(normA) * Math.sqrt(normB));
+  return dot / (a.norm * b.norm);
 }
