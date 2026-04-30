@@ -19,6 +19,7 @@ import type {
   EvalModelMeta,
 } from "./types";
 import { passOf } from "./types";
+import { armOfModelId, isAbMode } from "../../lib/eval-arms";
 
 interface Props {
   /**
@@ -227,6 +228,23 @@ function Header({
   models: Array<EvalModelMeta>;
   generatedAt: string;
 }): JSX.Element {
+  if (isAbMode(models)) {
+    return <AbScoreboard totalCases={totalCases} models={models} generatedAt={generatedAt} />;
+  }
+  return <SingleArmHeader totalCases={totalCases} models={models} generatedAt={generatedAt} />;
+}
+
+// Today's layout, preserved verbatim. The IRON RULE regression test pins
+// this against single-arm fixtures.
+function SingleArmHeader({
+  totalCases,
+  models,
+  generatedAt,
+}: {
+  totalCases: number;
+  models: Array<EvalModelMeta>;
+  generatedAt: string;
+}): JSX.Element {
   return (
     <header class="eval-header">
       <div class="eval-header-stat">
@@ -305,6 +323,97 @@ function Header({
       )}
     </header>
   );
+}
+
+// 2-arm mode: two-column scoreboard. Spec §1.
+function AbScoreboard({
+  totalCases,
+  models,
+  generatedAt,
+}: {
+  totalCases: number;
+  models: Array<EvalModelMeta>;
+  generatedAt: string;
+}): JSX.Element {
+  const baseline = models.find((m) => armOfModelId(m.id) === "baseline");
+  const wiki = models.find((m) => armOfModelId(m.id) === "wiki");
+  if (!baseline || !wiki) {
+    // Defensive: isAbMode said yes but both arms not findable. Fall back.
+    return <SingleArmHeader totalCases={totalCases} models={models} generatedAt={generatedAt} />;
+  }
+  return (
+    <header class="eval-header eval-scoreboard">
+      <div class="eval-scoreboard-anchor">
+        <span class="eval-scoreboard-num">{totalCases.toLocaleString()}</span>
+        <span class="eval-scoreboard-label">cases</span>
+      </div>
+      <ArmColumn arm="baseline" model={baseline} totalPool={totalCases} />
+      <ArmColumn arm="wiki" model={wiki} totalPool={totalCases} />
+      <div class="eval-scoreboard-meta">Generated {formatTimestamp(generatedAt)}</div>
+    </header>
+  );
+}
+
+function ArmColumn({
+  arm,
+  model,
+  totalPool,
+}: {
+  arm: "baseline" | "wiki";
+  model: EvalModelMeta;
+  totalPool: number;
+}): JSX.Element {
+  // totalPool is the full pool size (data.cases.length, passed in from
+  // the parent). Don't hardcode 1,120 — pool size changes when
+  // questions are added/removed, and a stale literal would silently
+  // mislead the partial-caption math.
+  const totalCases = model.case_count ?? 0;
+  const partial = totalCases > 0 && totalCases < totalPool;
+  const passN = model.pass_count_named ?? 0;
+  const totalN = model.case_count_named ?? 0;
+  const passH = model.pass_count_hidden ?? 0;
+  const totalH = model.case_count_hidden ?? 0;
+  const pctN = totalN > 0 ? Math.round((passN / totalN) * 100) : null;
+  const pctH = totalH > 0 ? Math.round((passH / totalH) * 100) : null;
+  const cost = model.total_cost_usd ?? 0;
+  const tokens = model.total_tokens ?? 0;
+  const apiCalls = model.total_api_calls ?? 0;
+  return (
+    <div class={`eval-scoreboard-col eval-scoreboard-col--${arm}`}>
+      <div class="eval-scoreboard-col-header">
+        <span class="eval-scoreboard-arm">{arm.toUpperCase()}</span>
+        <span class="eval-scoreboard-model">{stripArmSuffix(model.name)}</span>
+        {partial && (
+          <span class="eval-scoreboard-partial">
+            partial · {totalCases} / {totalPool} done
+          </span>
+        )}
+      </div>
+      <dl class="eval-scoreboard-rows">
+        <div class="eval-scoreboard-row">
+          <dt>DISCOVERY</dt>
+          <dd>{pctH === null ? "—" : `${pctH}% (${passH}/${totalH})`}</dd>
+        </div>
+        <div class="eval-scoreboard-row">
+          <dt>CITATION</dt>
+          <dd>{pctN === null ? "—" : `${pctN}% (${passN}/${totalN})`}</dd>
+        </div>
+        <div class="eval-scoreboard-row">
+          <dt>SPEND</dt>
+          <dd>${cost.toFixed(2)}</dd>
+        </div>
+        <div class="eval-scoreboard-row">
+          <dt>TOKENS</dt>
+          <dd>{fmtTokens(tokens)} ({apiCalls.toLocaleString()} calls)</dd>
+        </div>
+      </dl>
+    </div>
+  );
+}
+
+function stripArmSuffix(name: string): string {
+  // "xAI Grok 4.1 Fast (baseline)" → "xAI Grok 4.1 Fast"
+  return name.replace(/\s+\((baseline|wiki)\)\s*$/, "");
 }
 
 function CostRow({ model: m }: { model: EvalModelMeta }): JSX.Element {
