@@ -129,6 +129,15 @@ cd apps/mcp  && bun run dev          # MCP server (stdio)`}</code></pre>
     margin: 0;
   }
 
+  /* <code> inside the italic lede must NOT inherit italic — italic
+     monospace reads as a rendering bug rather than emphasis. Restore
+     monospace + upright + slightly-smaller optical size. */
+  .lede code {
+    font-family: var(--font-mono);
+    font-style: normal;
+    font-size: 0.92em;
+  }
+
   .try-hero {
     display: grid;
     grid-template-columns: 1fr;
