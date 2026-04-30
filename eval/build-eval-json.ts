@@ -158,20 +158,34 @@ interface OutResult {
   _source_path?: string;
 }
 
+/**
+ * NFKD-normalize and strip combining marks so "Manusmṛti" and "manusmrti"
+ * compare equal. Without this, slug-token matches like "visnu" miss
+ * Sanskrit-transliterated answers that write "Viṣṇu" — silently false-failing
+ * cases where the model genuinely named the right work.
+ *
+ * Verified false-fail rate before this normalization: 75 / 210 baseline
+ * failures (~36%) on the Grok 4.1 Fast 1,120-question run.
+ */
+function foldDiacritics(s: string): string {
+  return s.normalize("NFKD").replace(/\p{M}+/gu, "").toLowerCase();
+}
+
 function computeMechanicalPass(answer: string, expectedWorks: string[]): boolean {
   if (expectedWorks.length === 0) return true; // no expectation = trivially passes
-  const lower = answer.toLowerCase();
+  const lowerFolded = foldDiacritics(answer);
   // Pass if every expected work-slug (or its last token, e.g. "manusmrti" from
   // "unknown-manusmrti-347b76") appears in the answer text. Slug match is
   // strict; token match catches answers that name the work in human prose.
+  // Both sides are NFKD-folded so Sanskrit "Viṣṇu" matches slug token "visnu".
   for (const slug of expectedWorks) {
-    const slugLower = slug.toLowerCase();
-    if (lower.includes(slugLower)) continue;
+    const slugFolded = foldDiacritics(slug);
+    if (lowerFolded.includes(slugFolded)) continue;
     // Try a meaningful token from the slug — drop the leading "unknown-" if
     // present, drop the trailing 6-char hash, take the longest middle token.
     const tokens = slug.replace(/^unknown-/, "").split("-").filter((t) => t.length > 3 && !/^[0-9a-f]{6}$/.test(t));
     const longest = tokens.sort((a, b) => b.length - a.length)[0];
-    if (longest && lower.includes(longest.toLowerCase())) continue;
+    if (longest && lowerFolded.includes(foldDiacritics(longest))) continue;
     return false;
   }
   return true;
