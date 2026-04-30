@@ -65,17 +65,41 @@ const CHIPS = [
       </p>
     </header>
 
-    <div class="try-hero">
-      <InstallCard />
+    <nav class="try-tabs" role="tablist" aria-label="Run Falsafa">
+      <a class="try-tab try-tab--install"
+         id="tab-install"
+         href="#panel-install"
+         role="tab"
+         aria-controls="panel-install"
+         aria-selected="true">
+        Install
+      </a>
+      <a class="try-tab try-tab--byok"
+         id="tab-byok"
+         href="#panel-byok"
+         role="tab"
+         aria-controls="panel-byok"
+         aria-selected="false">
+        Try in browser (BYOK)
+      </a>
+    </nav>
 
-      <div class="try-byok-card">
-        <header class="try-byok-card-head">
-          <h2>Try it now (BYOK)</h2>
-          <p>Bring your own API key. Stays in the browser.</p>
-        </header>
-        <ByokDemo client:only="preact" chips={CHIPS} />
-      </div>
-    </div>
+    <section id="panel-install"
+             class="try-panel try-panel--install"
+             role="tabpanel"
+             aria-labelledby="tab-install">
+      <InstallCard />
+    </section>
+
+    <section id="panel-byok"
+             class="try-panel try-panel--byok"
+             role="tabpanel"
+             aria-labelledby="tab-byok">
+      <header class="try-byok-card-head">
+        <p>Bring your own API key. Stays in the browser.</p>
+      </header>
+      <ByokDemo client:only="preact" chips={CHIPS} />
+    </section>
 
     <details class="try-clone">
       <summary>Or clone & develop locally</summary>
