@@ -62,6 +62,31 @@ import EvalExplorer from "../EvalExplorer";
 const HERE = dirname(fileURLToPath(import.meta.url));
 const SOURCE = readFileSync(resolve(HERE, "../EvalExplorer.tsx"), "utf8");
 
+/**
+ * Extract the body of the function that renders the SINGLE-ARM header.
+ *
+ * The IRON RULE only governs single-arm output. As Chunk 3 lands, A/B-mode
+ * components (AbScoreboard, ArmColumn) legitimately introduce class names
+ * like `eval-scoreboard*` into the file — but ONLY for two-arm rendering.
+ * The absence assertions below must therefore be scoped to the function
+ * that produces today's single-arm header.
+ *
+ *   - Post-Chunk-3: that function is named `SingleArmHeader`.
+ *   - Pre-Chunk-3:  the equivalent function is `Header`.
+ *
+ * Try the new name first, fall back to the legacy name. Match runs from
+ * `function <Name>` up to the first line containing only `}` (column 0
+ * close brace + trailing newline), which is how the codebase formats
+ * top-level function declarations.
+ */
+function extractSingleArmRenderBody(source: string): string {
+  const m = source.match(/function SingleArmHeader[\s\S]*?\n\}\n/);
+  if (m) return m[0];
+  const legacy = source.match(/function Header[\s\S]*?\n\}\n/);
+  return legacy ? legacy[0] : "";
+}
+const SINGLE_ARM_BODY = extractSingleArmRenderBody(SOURCE);
+
 describe("EvalExplorer — single-arm regression (IRON RULE, structural)", () => {
   test("default-export is a function", () => {
     // Smoke: the module loads + exports the component. If a future
@@ -93,13 +118,18 @@ describe("EvalExplorer — single-arm regression (IRON RULE, structural)", () =>
   });
 
   test("Header has NO two-column scoreboard, NO delta strip", () => {
-    // Today's Header is a flat <header class="eval-header"> with
-    // per-model stat blocks. The A/B redesign introduces a two-column
-    // scoreboard (.eval-scoreboard) and a delta strip
-    // (.eval-delta-strip). Pin their absence.
-    expect(SOURCE).not.toContain("eval-scoreboard");
-    expect(SOURCE).not.toContain("eval-delta-strip");
-    expect(SOURCE).not.toContain("eval-ab-pill");
-    expect(SOURCE).not.toContain("eval-case-row--ab");
+    // Today's single-arm header is a flat <header class="eval-header">
+    // with per-model stat blocks. The A/B redesign introduces a
+    // two-column scoreboard (.eval-scoreboard) and a delta strip
+    // (.eval-delta-strip) — but those belong to the A/B-mode path
+    // (AbScoreboard / ArmColumn), NOT to the single-arm header.
+    // Scope the absence assertions to the single-arm render body so the
+    // IRON RULE pins single-arm invariants without forbidding the
+    // existence of A/B components elsewhere in the file.
+    expect(SINGLE_ARM_BODY.length).toBeGreaterThan(0);
+    expect(SINGLE_ARM_BODY).not.toContain("eval-scoreboard");
+    expect(SINGLE_ARM_BODY).not.toContain("eval-delta-strip");
+    expect(SINGLE_ARM_BODY).not.toContain("eval-ab-pill");
+    expect(SINGLE_ARM_BODY).not.toContain("eval-case-row--ab");
   });
 });
