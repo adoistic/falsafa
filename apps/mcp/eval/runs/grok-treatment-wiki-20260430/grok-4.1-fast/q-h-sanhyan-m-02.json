@@ -1,0 +1,131 @@
+{
+  "answer": "The passage occurs in *San Hyan Mahajnana*, Chapter 1.[^1]\n\nThe verse (verse 58) is:  \n\"*Let the fool speak thus, [...] the gall bladder [...]. Of the measure of the seven islands, the king becomes powerful. // 58* \"[^2]\n\nThe subsequent prose gloss, framing the 'great fool'/'pandit' debate on the gall bladder's size (thumb's breadth vs. the size of the seven islands), reads verbatim:  \n\"Now, as for the gall bladder, its measure is that of a thumb. [...] Where is this great fool, who argues about its nature? It is said that the gall bladder is a thumb’s breadth in size. The gall bladder is as large as the seven islands. What are the seven islands? Such is the Lord Īśvara; He is of great power, all-pervading. Thus are the words of the fool. This is what is called the argument of a pandit.\"[^1]\n\n[^1]: *San Hyan Mahajnana*, [Chapter 1](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-371134).\n\n[^2]: *San Hyan Mahajnana*, [verse 58](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-a0c6ba).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gall bladder",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seven islands\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"thumb's breadth\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pandit gall",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-mahajnana-11c531 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-371134",
+          "p-a0c6ba",
+          "p-135eac"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-371134"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-a0c6ba"
+    }
+  ],
+  "duration_ms": 23906,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 38314,
+    "completion_tokens": 2305,
+    "total_tokens": 40619,
+    "cached_tokens": 20339,
+    "api_calls": 4,
+    "cost_usd": 0.005764450000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1975,
+        "completion_tokens": 409,
+        "total_tokens": 2384,
+        "cached_tokens": 150,
+        "cost_usd": 0.000577
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4109,
+        "completion_tokens": 297,
+        "total_tokens": 4406,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009478
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 15940,
+        "completion_tokens": 531,
+        "total_tokens": 16471,
+        "cached_tokens": 4104,
+        "cost_usd": 0.0028379
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 16290,
+        "completion_tokens": 1068,
+        "total_tokens": 17358,
+        "cached_tokens": 15935,
+        "cost_usd": 0.00140175
+      }
+    ]
+  }
+}

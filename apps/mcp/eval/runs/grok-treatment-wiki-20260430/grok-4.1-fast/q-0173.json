@@ -1,0 +1,326 @@
+{
+  "answer": "**In *Kuñjarakarṇa Dharmakathana* (by Mpu Dusun), the protagonist Kuñjarakarṇa—an ascetic *rākṣasa* (elephant-eared demon)—visits Vairocana (the central Buddha-figure, preaching in the immaculate Monastery of Enlightenment, or *Bodhicitta Vimala*) twice to receive instruction on the *dharma*.**[^1][^2]\n\nVairocana is introduced as giving a sermon on the Law to the gods at the start of the tale.[^3] Kuñjarakarṇa first arrives seeking power to shed his *rākṣasa* form and receives preliminary instruction: Vairocana blesses his austerities but sends him to witness suffering in Yama's realm as preparation for deeper teaching.[^4]\n\n> [p-0163d8] \"My son, how fortunate that you, the ascetic, have come before my feet. What is your purpose, man, in coming to me? What is it you ask of me? I already know that your vows and austerities on the mountain are mature. Continue to strive for the state of a Lord of Yoga.\"  \n>   \n> [p-f907b3] \"My son, since the holy Law is your desire, heed my words. I command you first, my son, to go and reach the Cauldron of the god Yama. Your purpose is to witness all the paths of suffering in the Cauldron of sinners. Ask the Lord of Yama about all of it; upon your return, I will instruct you.\"[^5]\n\nKuñjarakarṇa obeys, visits Yama's hells, warns his brother Pūrṇavijaya (a *gandharva* king), and returns with him. Now Vairocana delivers the core *dharmakathana* (dharma-story/instruction) to both on karma, rebirth, the five souls (*ātmā*, *parātmā*, *antarātmā*, *nirātmā*, *cetanātmā*), debts to gods/parents/teachers/world, the unity of Buddhist/Śaiva/Vaiṣṇava deities (with Vairocana as supreme teacher), and vows leading to *mokṣa*.[^6] Key excerpts:\n\n> [p-62f6f6] \"That, man, is a precious birth, called holy in the world, when one desires the Law, is truly virtuous, and attains the good. For how few are eager to understand the complexities of existence...\"[^7]  \n>   \n> ...  \n>   \n> [p-8e6c10] \"That is the purpose of the five souls in the body: *Ātmā*, *parātmā*, and *antarātmā*, And also *nirātmā* with *cetanātmā*. Such is the nature of the five souls in the body.\"[^8]  \n>   \n> ...  \n>   \n> [p-6c6127] \"Now, as for the unity of the world, you must know it in truth. I, Vairocana, am Buddha-form and Śiva-form, the teacher of the entire world. That is why I am called Lord Teacher, renowned throughout all the world. I alone am the all-pervading, the special, supreme deity in all the universe.\"[^9]\n\nThe teaching culminates in guidance on merit (*dāna*), vows, and non-dual wisdom for liberation (detailed across cantos 18–40). Kuñjarakarṇa achieves *mokṣa*; Pūrṇavijaya endures a brief hell but follows suit.[^10]\n\n[^1]: *Kunjarakarna Dharmakathana*, ch. 1 [full chapter](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/).\n[^2]: read_wiki card notes homage refrains to \"feet lord\" (Vairocana/Jina); wiki key passage [p-c6e7d8].\n[^3]: [p-7241a0](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-7241a0).\n[^4]: Cantos 6–7; [p-c01bae](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-c01bae).\n[^5]: [p-0163d8](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-0163d8) to [p-423a28](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-423a28).\n[^6]: Cantos 17–40; cf. [p-551027](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-551027), where Kuñjarakarṇa hails \"Lord Vairocana.\"\n[^7]: [p-62f6f6](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-62f6f6) (on seeking Law).\n[^8]: [p-8e6c10](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-8e6c10).\n[^9]: [p-6c6127](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-6c6127).\n[^10]: Closing [p-3e0dc7](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-3e0dc7) to [p-8051c0](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-8051c0).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kunjarakarna Dharmakathana Vairocana",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kunjarakarna\" \"Vairocana\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kunjarakarna"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Vairocana\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"elephant\" instruction"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"markdown\":\"# Kunjarakarna Dharmakathana\\nMpu Dusun · Medieval · kawi · prose · 1 chapters · 17,973 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homage feet lord\\\" · \\\""
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kunjarakarna Dharmakathana · ch.1\\nprose · 349¶ · 17973w · vocab 2570 (TTR 32%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"homage feet lord\\\" · \\\"pay"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kunjarakarna Dharmakathana · ch.1\\nprose · 349¶ · 17973w · vocab 2570 (TTR 32%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"homage feet lord\\\" · \\\"pay"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Vairocana\" OR \"kunjarakarna\" OR \"elephant\" OR \"instruction\" OR \"dharmakathana\"",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e35c00"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Vairocana\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kunjarakarṇa\" OR \"kunjarakarṇa\" OR \"Kunjarakarna\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"instruction\" OR \"teach\" OR \"sermon\" OR \"dharma\" \"elephant\" OR \"kunjara\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Vairocana\" OR \"receive\" OR \"instruct*\" OR \"teach*\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-61c462",
+          "p-0256b1",
+          "p-c6e7d8",
+          "p-551793"
+        ]
+      },
+      "result_summary": "Returned 4 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-0163d8"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-f907b3"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-62f6f6"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-8e6c10"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-6c6127"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-c6e7d8"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-7241a0"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-c01bae"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-423a28"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-551027"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-3e0dc7"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-8051c0"
+    }
+  ],
+  "duration_ms": 77415,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 79999,
+    "completion_tokens": 8189,
+    "total_tokens": 88188,
+    "cached_tokens": 37511,
+    "api_calls": 7,
+    "cost_usd": 0.014467649999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1912,
+        "completion_tokens": 471,
+        "total_tokens": 2383,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00033575
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2109,
+        "completion_tokens": 364,
+        "total_tokens": 2473,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005813
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5589,
+        "completion_tokens": 412,
+        "total_tokens": 6001,
+        "cached_tokens": 2104,
+        "cost_usd": 0.0010082
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6100,
+        "completion_tokens": 366,
+        "total_tokens": 6466,
+        "cached_tokens": 5584,
+        "cost_usd": 0.0005654
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki_full",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9309,
+        "completion_tokens": 1245,
+        "total_tokens": 10554,
+        "cached_tokens": 6095,
+        "cost_usd": 0.00157005
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12398,
+        "completion_tokens": 1569,
+        "total_tokens": 13967,
+        "cached_tokens": 9304,
+        "cost_usd": 0.0018685
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "get_passage"
+        ],
+        "prompt_tokens": 42582,
+        "completion_tokens": 3762,
+        "total_tokens": 46344,
+        "cached_tokens": 12393,
+        "cost_usd": 0.00853845
+      }
+    ]
+  }
+}

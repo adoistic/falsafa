@@ -1,0 +1,289 @@
+{
+  "answer": "**Charles Comte's *Traité de Législation*, Volume IV, systematically analyzes the effects of domestic slavery across history, devoting early chapters to its physical, intellectual, and industrial impacts before turning to morals. While he draws parallels between ancient Greek and Roman slavery—especially in fostering contempt for manual labor among masters—he treats Greek slavery more summarily as a philosophical backdrop, whereas Roman slavery receives extended, vivid treatment as a case study in profound societal decay, particularly in Chapter 6 (\"On the influence of slavery on the morals of the Romans\").[^1][^2]**\n\n### Shared Treatment: Contempt for Productive Labor\nComte identifies a core similarity: slavery universally degrades industry in masters' eyes, exempting them from subsistence labors and recasting them as dishonorable. Greek philosophers codified this as politics: Aristotle deemed citizens unfit for mechanical arts, trade, or even farming, insisting slaves (of foreign origin, not \"too high a heart\") till the soil; Plato scorned applying sciences to useful arts.[^3] Romans initially honored agriculture but abandoned it as conquests flooded them with slaves—Cato himself quit farming, sold old slaves, and Gracchus found Tuscany depopulated of free workers, worked by \"barbarian slaves.\"[^4] This pattern recurs in modern colonies (e.g., Cape Boers, U.S. South), but ancients exemplify the origin.[^5]\n\nIntellectually, slavery splits masters' development: it hones faculties for dominating men (e.g., Roman oratory pre-Empire) but arrests those for mastering nature, as commands replace reason with slaves.[^6]\n\n### Divergences: Scale, Progression, and Moral Depth\nGreek slavery appears static and principled in Comte's view—philosophers rationalize it without detailed societal fallout described. Roman slavery, by contrast, evolves disastrously due to conquests' scale: early incorporation of slaves gave way to masses from razed cities, cheapening life and amplifying vices. No Greek equivalent matches Chapter 6's catalog of Roman corruption:\n\n- **Idleness and Sensuality**: Masters, idle via slaves, crave excess—gluttony ravaging provinces, slaves fanning them; love turns brutal amid harems of slaves.[^7]\n- **Family Breakdown**: Jealousy over slave concubines sparks wives' poisoning conspiracies (160 patrician women executed); repudiation ensues, women counting husbands not consuls.[^8]\n- **Cruelty and Spectacles**: Gladiator games escalate—Trajan slays 10,000 men, 11,000 beasts over 123 days; slaves crucified alive for days, entire households executed on masters' suspicious deaths.[^9]\n- **Pride, Perfidy, Deceit**: Aristocrats disdain plebeians/freedmen as abject; cunning subjugates nations more than legions.[^10]\n\nComte notes historians' silence on slaves' morals (Greek or Roman), but Romans' visibility reveals systemic rot: plebeians ape patrician vices downward, while masters stagnate post-liberty.[^11]\n\n### Deeper Corruption: Roman Slavery\nComte locates the \"deeper corruption\" in **Roman society**, where slavery's vast scale (unrivaled) and progression from republican vigor to imperial decadence corrupt *all* classes irreversibly—morals above all. Greeks merit only illustrative quotes; Romans a full chapter, their vices (cruelty, perfidy) persisting in analogues like feudal lords or colonists. Slavery's moral poison peaks in Rome's blood-soaked circuses and domestic horrors, dooming arts, population, and liberty.[^12]\n\n[^1]: `/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/`\n[^2]: `/works/charles-comte-traite-de-legislation-vol-iv-bca040/03-de-l-influence-de-l-esclavage-sur-la-constitution-/translation/`\n[^3]: `/works/charles-comte-traite-de-legislation-vol-iv-bca040/03-de-l-influence-de-l-esclavage-sur-la-constitution-/translation/#p-1f1985`\n[^4]: `/works/charles-comte-traite-de-legislation-vol-iv-bca040/03-de-l-influence-de-l-esclavage-sur-la-constitution-/translation/#p-3002dd`\n[^5]: `/works/charles-comte-traite-de-legislation-vol-iv-bca040/03-de-l-influence-de-l-esclavage-sur-la-constitution-/translation/#p-996183`\n[^6]: `/works/charles-comte-traite-de-legislation-vol-iv-bca040/04-de-l-influence-de-l-esclavage-domestique-sur-les-f/translation/#p-b6b4ac`\n[^7]: `/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/#p-f5546b`\n[^8]: `/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/#p-ea415d`\n[^9]: `/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/#p-ced9fc`\n[^10]: `/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/#p-dec47c`\n[^11]: `/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/#p-cce69d`\n[^12]: `/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/#p-dbaf78`",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slavery\" Greek Roman",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Traité de Législation\" slavery",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL IV\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 188,438 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*voya"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slavery OR slave OR esclavage Greek OR Roman OR Grèce OR Rome",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Greek\" slavery"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Roman\" slavery"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.2\\nprose · 16¶ · 2821w · vocab 699 (TTR 53%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"fall roman empire\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.3\\nprose · 30¶ · 3981w · vocab 868 (TTR 47%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"effects slavery produces"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.4\\nprose · 19¶ · 3059w · vocab 763 (TTR 54%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"cape good hope\\\" · \\\"act"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.5\\nprose · 14¶ · 1829w · vocab 497 (TTR 59%, hapax 70%)\\n\\n## Distinctive trigrams\\n\\\"among peoples antiquity\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.6\\nprose · 23¶ · 4686w · vocab 1058 (TTR 49%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"development intellectua"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.1\\nprose · 17¶ · 3406w · vocab 799 (TTR 52%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"exercise upon one\\\" · \\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Greeks\" OR \"Greece\" OR \"Grèce\" OR \"Grecs\" OR \"Athen\" OR \"Athens\" OR \"Spart\" OR \"Lacédémone\" esclavage OR slavery OR slave",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-de-legislation-vol-iv-bca040",
+        "chapter_number": 2
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: charles-comte-de-legislation-vol-iv-bca040"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 4,
+      "paragraph_id": "p-1f1985"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 4,
+      "paragraph_id": "p-3002dd"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 4,
+      "paragraph_id": "p-996183"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 4,
+      "paragraph_id": "p-b6b4ac"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 4,
+      "paragraph_id": "p-f5546b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 4,
+      "paragraph_id": "p-ea415d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 4,
+      "paragraph_id": "p-ced9fc"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 4,
+      "paragraph_id": "p-dec47c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 4,
+      "paragraph_id": "p-cce69d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 4,
+      "paragraph_id": "p-dbaf78"
+    }
+  ],
+  "duration_ms": 56673,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 58498,
+    "completion_tokens": 5397,
+    "total_tokens": 63895,
+    "cached_tokens": 13602,
+    "api_calls": 5,
+    "cost_usd": 0.0123578,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1926,
+        "completion_tokens": 696,
+        "total_tokens": 2622,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00045105
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2788,
+        "completion_tokens": 571,
+        "total_tokens": 3359,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008206
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8643,
+        "completion_tokens": 1044,
+        "total_tokens": 9687,
+        "cached_tokens": 2783,
+        "cost_usd": 0.00183315
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14845,
+        "completion_tokens": 950,
+        "total_tokens": 15795,
+        "cached_tokens": 8638,
+        "cost_usd": 0.0021483
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 30296,
+        "completion_tokens": 2136,
+        "total_tokens": 32432,
+        "cached_tokens": 150,
+        "cost_usd": 0.0071047
+      }
+    ]
+  }
+}

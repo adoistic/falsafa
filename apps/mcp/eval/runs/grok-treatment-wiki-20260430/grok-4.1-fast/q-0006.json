@@ -1,0 +1,207 @@
+{
+  "answer": "In *Manusmṛti* (Laws of Manu) Chapter 1, Manu describes the Self-Existent One's seed becoming a golden egg, from which Brahmā is born, and the subsequent splitting of that egg to form heaven and earth (verses 9 and 12–13):[^1][^2][^3]\n\n> That seed became a golden egg, in splendor like the thousand-rayed sun; in it he himself was born as Brahma, the great father of all the worlds.[^1]  \n>   \n> After dwelling in that egg for a full year, that divine Lord, by his own contemplation, split the egg in two.[^2]  \n>   \n> And with those two halves he formed the **heavens and the earth**, and between them the middle region, the eight directions, and the eternal abode of the waters.[^3]\n\n[^1]: Manu, *Manusmṛti*, [p-153021](/works/unknown-manusmrti-347b76/01/translation/#p-153021).\n[^2]: Manu, *Manusmṛti*, [p-cd6713](/works/unknown-manusmrti-347b76/01/translation/#p-cd6713).\n[^3]: Manu, *Manusmṛti*, [p-3bd729](/works/unknown-manusmrti-347b76/01/translation/#p-3bd729).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cosmic egg",
+        "limit": 20
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"egg\" heaven earth",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"split\" heaven earth egg",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "egg",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heaven\" \"earth\" egg",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu egg",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"golden egg\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hiranya"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heaven\" \"earth\" manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-153021",
+          "p-cd6713",
+          "p-3bd729"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-153021"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-cd6713"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-3bd729"
+    }
+  ],
+  "duration_ms": 39341,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 37573,
+    "completion_tokens": 3714,
+    "total_tokens": 41287,
+    "cached_tokens": 19735,
+    "api_calls": 5,
+    "cost_usd": 0.00641135,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 467,
+        "total_tokens": 2376,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005928
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 3291,
+        "completion_tokens": 827,
+        "total_tokens": 4118,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010492
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6509,
+        "completion_tokens": 879,
+        "total_tokens": 7388,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017188
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12786,
+        "completion_tokens": 474,
+        "total_tokens": 13260,
+        "cached_tokens": 6504,
+        "cost_usd": 0.0018186
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 13078,
+        "completion_tokens": 1067,
+        "total_tokens": 14145,
+        "cached_tokens": 12781,
+        "cost_usd": 0.00123195
+      }
+    ]
+  }
+}

@@ -1,0 +1,186 @@
+{
+  "answer": "**The work is *San Hyan Tattvajnana* (unknown author), Chapter 1.**[^1]\n\nThis chapter describes a graded fourteen-step cosmic devolution triggered by negligence and \"lacking in *yoga*\" at each stage. The verbatim ladder of descent, beginning from *Tripuruṣa* (defined as Lord Brahmā, Viṣṇu, and Īśvara as primordial *sattva* beings) and ending with humans followed by the *triyak* realm, reads:\n\n> Now, remember again the form of the Divine *Ātmā*'s descent, a coarse and doubtful entity. The *Tripuruṣa*—the *Tripuruṣa* are Lord Brahmā, Viṣṇu, and Īśvara; they are the primordial *sattva* beings. If that primordial *sattva* is negligent and lacking in *yoga*, it becomes *Pañcaṛṣi*. *Pañcaṛṣi*, if lacking in *yoga*, becomes *Saptaṛṣi*. *Saptaṛṣi*, if lacking in *yoga*, becomes *Devaṛṣi*. *Devaṛṣi*, if lacking in *yoga*, becomes *Devatā*. *Devatā*, if lacking in *yoga*, becomes *Vidyādhara*. *Vidyādhara*, if lacking in *yoga*, becomes *Gandharva*. *Gandharva*, if lacking in *yoga*, becomes *Dānava*. *Dānava*, if lacking in *yoga*, becomes *Daitya*. *Daitya*, if lacking in *yoga*, becomes *Rākṣasa*. *Rākṣasa*, if lacking in *yoga*, becomes *Bhūta Yakṣa*. *Bhūta Yakṣa*, if lacking in *yoga*, becomes *Bhūta Dĕṅĕn*. *Bhūta Dĕṅĕn*, if lacking in *yoga*, becomes *Bhūta Kāla*. *Bhūta Kāla*, if lacking in *yoga*, becomes *Bhūta Piśāca*. *Bhūta Piśāca*, if lacking in *yoga*, becomes human. The human is not possessed of the power of knowledge, for it is a heap of good and evil. The host of deities is equal to human power, but the understanding of the deities is superior. A human, if lacking in *yoga*, becomes a being of the *triyak* realm.[^1]\n\nImmediately following in the same paragraph, the five kinds of *triyak* are classified verbatim as:\n\n> There are five kinds of *triyak*: as a domestic animal (*pāśu*) it is born in the village; as a wild beast (*mṛga*) it is born in the forest; as a bird (*pakṣī*) it is born everywhere that flies; as a fish (*mīna*) it is born in the water; *pipīlikā* is the name for a being that moves on its belly. Its other names are not known.[^1]\n\nThe next paragraph elaborates further on the *pipīlikā* (e.g., wood-borer, leech, etc.).[^2]\n\n[^1]: *San Hyan Tattvajnana*, [Chapter 1, p-357c74](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-357c74).\n[^2]: *San Hyan Tattvajnana*, [Chapter 1, p-8805a9](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-8805a9).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tripuruṣa becoming Pañcaṛṣi",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lacking in yoga",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"five kinds of triyak\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pipīlikā",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Tattvajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 16,092 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"lacking *yoga* becomes\\\" · \\\"vo"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Tattvajnana · ch.1\\nprose · 114¶ · 16092w · vocab 1924 (TTR 25%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"lacking *yoga* becomes\\\" · \\\"vow"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Saptaṛṣi",
+        "limit": 10
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lacking in yoga\" OR \"wanting in yoga\" OR \"deficient in yoga\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Tattvajnana · ch.1\\nprose · 114¶ · 16092w · vocab 1924 (TTR 25%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"lacking *yoga* becomes\\\" · \\\"vow"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-357c74",
+          "p-8805a9",
+          "p-f94448",
+          "p-62aca4",
+          "p-9fea48",
+          "p-e89971",
+          "p-de4994"
+        ]
+      },
+      "result_summary": "Returned 7 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bhūta Dĕṅĕn\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bhūta Kāla\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-357c74"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-8805a9"
+    }
+  ],
+  "duration_ms": 48267,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 25611,
+    "completion_tokens": 5126,
+    "total_tokens": 30737,
+    "cached_tokens": 12837,
+    "api_calls": 4,
+    "cost_usd": 0.00575965,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2100,
+        "completion_tokens": 646,
+        "total_tokens": 2746,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00046085
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2606,
+        "completion_tokens": 471,
+        "total_tokens": 3077,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0004738
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6474,
+        "completion_tokens": 2006,
+        "total_tokens": 8480,
+        "cached_tokens": 2601,
+        "cost_usd": 0.00190765
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki_full",
+          "get_passage",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14431,
+        "completion_tokens": 2003,
+        "total_tokens": 16434,
+        "cached_tokens": 6469,
+        "cost_usd": 0.00291735
+      }
+    ]
+  }
+}

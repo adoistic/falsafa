@@ -1,0 +1,130 @@
+{
+  "answer": "**Chapter 8** of Charles Comte's *Traité de Législation, Vol. I* is titled \"Du système qui fait d’une religion positive le fondement exclusif de la morale et des lois, et de l’influence de ce système sur la civilisation\" (in English: \"Of the system that makes a positive religion the exclusive foundation of morality and laws, and of the influence of this system on civilization\").[^1]\n\nThis chapter directly criticizes the idea of basing legislation and morality exclusively on the dogmas and precepts of a positive (revealed) religion rather than on analytical observation of human actions and their consequences. Comte argues that such a system lacks foundation even in religious texts themselves, leads to the union of civil and religious power (as admired by Rousseau in Mohammed's institutions), hinders progress, and is rejected by ministers of various creeds who oppose empirical study of morality and legislation.[^2][^3]\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, ch. 8, [full chapter](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/).\n\n[^2]: Ibid., [¶1](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/#p-89a0f7).\n\n[^3]: Ibid., [key passage](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/#p-ae5e9a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"positive religion\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"legislation\" \"religion\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "religion",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.8\\nprose · 33¶ · 4826w · vocab 830 (TTR 38%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"good morals good\\\" · \\\"mo"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-89a0f7"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-ae5e9a"
+    }
+  ],
+  "duration_ms": 24731,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 21661,
+    "completion_tokens": 2554,
+    "total_tokens": 24215,
+    "cached_tokens": 12855,
+    "api_calls": 4,
+    "cost_usd": 0.0036809500000000005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1910,
+        "completion_tokens": 668,
+        "total_tokens": 2578,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006935
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2764,
+        "completion_tokens": 604,
+        "total_tokens": 3368,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0005725
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8069,
+        "completion_tokens": 419,
+        "total_tokens": 8488,
+        "cached_tokens": 2759,
+        "cost_usd": 0.00140945
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 8918,
+        "completion_tokens": 863,
+        "total_tokens": 9781,
+        "cached_tokens": 8064,
+        "cost_usd": 0.0010055
+      }
+    ]
+  }
+}

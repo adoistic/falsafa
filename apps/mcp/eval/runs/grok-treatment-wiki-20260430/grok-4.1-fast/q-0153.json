@@ -1,0 +1,198 @@
+{
+  "answer": "In the opening chapter (Chapter 1) of *Traité de Législation Vol. I*, Charles Comte introduces and defends the analytical method—which consists of observing, classifying, and tracing facts and their causal chains—as the proper approach to studying legislation (and morality). He contrasts it with inventing or debating abstract systems, noting that it has already succeeded in the natural sciences, political economy (citing Locke, Condillac, Adam Smith, and J.-B. Say), and the study of human understanding.[^1] Producing only beneficial results elsewhere and deemed by scholars as the sole path to truth, Comte questions why it would be \"deceptive or dangerous\" for moral and legislative sciences, despite theoretical rejection by theologians (who prioritize divine will), philosophers (who favor sentiment or imagination), and jurisconsults (who rely on innate \"natural laws\").[^2]\n\nComte proposes to treat moral and political sciences \"solely from this point of view,\" viewing them as \"nothing but the description of human actions and institutions, of the physical and moral causes that produce them, and of the effects that result from them relative to the well-being of men,\" while examining influential (but erroneous) systems only as facts with real-world effects.[^3] His explicit goals include introducing this method into morality and legislation \"by substituting the study of facts for the invention and study of systems,\" leveraging recent scientific advances and revolutions to elevate these fields toward the certainty of natural sciences (crediting Bentham/Dumont especially).[^4]\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 1](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/01-chapitre-premier/translation/#p-87c578).\n\n[^2]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 1](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/01-chapitre-premier/translation/#p-83dd97).\n\n[^3]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 1](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/01-chapitre-premier/translation/#p-fa884d).\n\n[^4]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 1](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/01-chapitre-premier/translation/#p-d2a297).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "legislation"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Traité de Législation\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.1\\nprose · 36¶ · 6839w · vocab 1192 (TTR 38%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"application analytical m"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.2\\nprose · 46¶ · 9651w · vocab 1499 (TTR 35%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"application analytical m"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d2a297",
+          "p-fa884d",
+          "p-87c578",
+          "p-83dd97"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 1,
+      "paragraph_id": "p-87c578"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 1,
+      "paragraph_id": "p-83dd97"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 1,
+      "paragraph_id": "p-fa884d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 1,
+      "paragraph_id": "p-d2a297"
+    }
+  ],
+  "duration_ms": 35340,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 61798,
+    "completion_tokens": 5367,
+    "total_tokens": 67165,
+    "cached_tokens": 33174,
+    "api_calls": 6,
+    "cost_usd": 0.010067,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1910,
+        "completion_tokens": 492,
+        "total_tokens": 2402,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006055
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2733,
+        "completion_tokens": 362,
+        "total_tokens": 3095,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00044545
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki"
+        ],
+        "prompt_tokens": 5239,
+        "completion_tokens": 541,
+        "total_tokens": 5780,
+        "cached_tokens": 2728,
+        "cost_usd": 0.0009091
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 7417,
+        "completion_tokens": 818,
+        "total_tokens": 8235,
+        "cached_tokens": 5234,
+        "cost_usd": 0.0011073
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 15774,
+        "completion_tokens": 1359,
+        "total_tokens": 17133,
+        "cached_tokens": 7412,
+        "cost_usd": 0.0027225
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 28725,
+        "completion_tokens": 1795,
+        "total_tokens": 30520,
+        "cached_tokens": 15769,
+        "cost_usd": 0.00427715
+      }
+    ]
+  }
+}

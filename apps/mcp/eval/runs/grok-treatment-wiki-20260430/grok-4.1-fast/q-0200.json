@@ -1,0 +1,222 @@
+{
+  "answer": "**In Allama Iqbal's poem \"Ek haji Madinay ke raastay mein\" (from *Bang-E-Dara Part 3*, chapter 6), the pilgrim (haji) faces a dramatic ordeal on the road to Medina (Yathrib).**[^1]\n\nThe caravan is plundered by bandits in the desert, far from its goal, with no safe harbor in sight.[^2] Many fellow travelers are slain by dagger; the survivors, hearts broken, turn back toward the Kaaba (God's House in Mecca).[^3] Notably, a youth from Bukhara dies with joy, viewing the bandit's dagger as the Eid crescent moon and invoking \"Ah, Yathrib!\" on his lips as he embraces martyrdom.[^4]\n\nThe pilgrim grapples with fear warning against proceeding to Medina's gates, countered by passion urging him onward as a fearless Muslim.[^5] He questions abandoning the journey and facing shame before the Prophet on Judgment Day.[^6] Ultimately, the Hejaz wanderer defies death—echoing the Hijra's spirit—choosing the bliss of risky passion over the safe Syrian caravan, with bold soul triumphing over calculating reason.[^7]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 6 \"Ek haji Madinay ke raastay mein\" ([translation](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/)).\n[^2]: [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-c8a255]\n[^3]: [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-203905]\n[^4]: [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-c5238d](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-407945)\n[^5]: [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-f880d8]\n[^6]: [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-70cdb7]\n[^7]: [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-ebe69b](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-6b926b](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-3d6010)",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"haji\" madina",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pilgrim\" madina road",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Madinah road",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Haji Madinah",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pilgrim Medina",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 6
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 06-ek-haji-madinay-ke-raastay-mein.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-c8a255"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-203905"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-c5238d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-407945"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-f880d8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-70cdb7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-ebe69b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-6b926b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-3d6010"
+    }
+  ],
+  "duration_ms": 33110,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 32976,
+    "completion_tokens": 3538,
+    "total_tokens": 36514,
+    "cached_tokens": 24542,
+    "api_calls": 5,
+    "cost_usd": 0.0046829,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1914,
+        "completion_tokens": 484,
+        "total_tokens": 2398,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003425
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2449,
+        "completion_tokens": 940,
+        "total_tokens": 3389,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0006775
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 8791,
+        "completion_tokens": 218,
+        "total_tokens": 9009,
+        "cached_tokens": 2444,
+        "cost_usd": 0.0015006
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 9553,
+        "completion_tokens": 194,
+        "total_tokens": 9747,
+        "cached_tokens": 8786,
+        "cost_usd": 0.0006897
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 10269,
+        "completion_tokens": 1702,
+        "total_tokens": 11971,
+        "cached_tokens": 9548,
+        "cost_usd": 0.0014726
+      }
+    ]
+  }
+}

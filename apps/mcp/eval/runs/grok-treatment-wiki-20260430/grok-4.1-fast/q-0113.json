@@ -1,0 +1,151 @@
+{
+  "answer": "**The closing prayer of \"The Seafarer\" appears at the end of chapter 5 (\"Maey ich be me sylfum soth-yied wrekan, sithas seyan, hu ich yeswinkdagum\") in *Old English Elegies*.**[^1]\n\nThis Old English elegy begins by vividly depicting the hardships of a sea-exile—freezing waves, isolation, frost-bound feet, and longing amid storms—before pivoting in its later stanzas to Christian themes of earthly transience, the fear of the Lord, and eternal reward.[^2] The final paragraph shifts explicitly from these earthly woes to heavenly aspiration, urging reflection on one's true home and striving for blessedness:\n\n> Let us think where we have our home,  \n> and then think how we may come thither,  \n> and let us then strive that we may be allowed  \n> into that eternal blessedness,  \n> where life is born of the Lord's love,  \n> our hope in the heavens. Thanks be to the Holy One,  \n> the Prince of Glory, the everlasting Lord,  \n> that He has honored us for all time.  \n> Amen.[^3]\n\n[^1]: *Old English Elegies*, ch. 5, [closing key passage](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-1c332d/).\n[^2]: *Old English Elegies*, ch. 5, full chapter.[^3]: *Old English Elegies*, ch. 5, [p-1c332d](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-1c332d/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Seafarer",
+        "limit": 5
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"The Seafarer\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "seafarer heaven prayer",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Old English Elegies · ch.5\\nprose · 11¶ · 1002w · vocab 366 (TTR 72%, hapax 80%)\\n\\n## Distinctive trigrams\\n\\\"make true song\\\" · \\\"true song my"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-1c332d"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of unknown-old-english-elegies-d5fe9e (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 5,
+      "paragraph_id": "p-1c332d"
+    }
+  ],
+  "duration_ms": 24071,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 19630,
+    "completion_tokens": 2415,
+    "total_tokens": 22045,
+    "cached_tokens": 13041,
+    "api_calls": 5,
+    "cost_usd": 0.00317735,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 382,
+        "total_tokens": 2291,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00029035
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2513,
+        "completion_tokens": 352,
+        "total_tokens": 2865,
+        "cached_tokens": 149,
+        "cost_usd": 0.00065625
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3919,
+        "completion_tokens": 484,
+        "total_tokens": 4403,
+        "cached_tokens": 2508,
+        "cost_usd": 0.0006496
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 4592,
+        "completion_tokens": 354,
+        "total_tokens": 4946,
+        "cached_tokens": 3914,
+        "cost_usd": 0.0005083
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 6697,
+        "completion_tokens": 843,
+        "total_tokens": 7540,
+        "cached_tokens": 4587,
+        "cost_usd": 0.00107285
+      }
+    ]
+  }
+}

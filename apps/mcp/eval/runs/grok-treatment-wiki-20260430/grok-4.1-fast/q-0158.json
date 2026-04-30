@@ -1,0 +1,198 @@
+{
+  "answer": "**Dunoyer's *Nouveau traité d'économie* (Vol. I) features an \"INTRODUCTION\" as chapter 0, followed immediately by chapter 1 (\"Ce que l'auteur entend par le mot *liberté*,\" or \"What the author means by the word *liberty*\").**[^1][^2]\n\nThe introduction itself (ch. 0) does not provide a standalone definition but explicitly previews and directs readers to chapter 1 for clarification: \"One can see by the title of this work, one has already seen in the preface, and one will see better, further on, chap. I, what I mean here, and throughout the course of this book, by the word *liberty*.\"[^3]\n\nDunoyer's explicit definition appears early in chapter 1 (§1):\n\n> What I call *liberty*, in this book, is this *power* that man acquires to use his forces more easily *as he frees himself* from the obstacles that originally hindered their exercise. I say that he is all the more *free* as he is more *delivered* from the causes that prevented him from making use of them, as he has further removed these causes from himself, as he has more enlarged and cleared the sphere of his action.[^4]\n\nHe reinforces this as a *relative quantity* (not absolute), tied to overcoming natural limits, ignorance, passions, and vices through development of faculties, self-control, and justice toward others: \"Man, by the very nature of things, can have liberty... only in proportion to his industry, his instruction, and the good habits he has formed with regard to himself and toward his fellow men.\" Liberty grows with civilization, measured by practical skill (*industry*) and morality.[^5]\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, ch. 0 (\"INTRODUCTION\"), [chapter](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/).\n\n[^2]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, ch. 1 (\"Ce que l'auteur entend par le mot *liberté*\"), [chapter](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/).\n\n[^3]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, ch. 0, ¶54 [passage](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-a373e4).\n\n[^4]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, ch. 1, ¶7 [passage](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-fc8999).\n\n[^5]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, ch. 1, ¶26 [passage](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-583c6c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nouveau traité\" dunoyer"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dunoyer liberté"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "Listed 7 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberté\" dunoyer"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liberty dunoyer"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.0\\nprose · 54¶ · 5812w · vocab 1146 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"take great care\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.1\\nprose · 40¶ · 6237w · vocab 1130 (TTR 41%, hapax 60%)\\n\\n## Distinctive trigrams\\n\\\"use his forces\\\" · \\\"o"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.0 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 1,
+      "paragraph_id": "p-a373e4"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 1,
+      "paragraph_id": "p-fc8999"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 1,
+      "paragraph_id": "p-583c6c"
+    }
+  ],
+  "duration_ms": 36570,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 43788,
+    "completion_tokens": 4081,
+    "total_tokens": 47869,
+    "cached_tokens": 15593,
+    "api_calls": 5,
+    "cost_usd": 0.008459149999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1908,
+        "completion_tokens": 516,
+        "total_tokens": 2424,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003573
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2220,
+        "completion_tokens": 536,
+        "total_tokens": 2756,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004297
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5133,
+        "completion_tokens": 373,
+        "total_tokens": 5506,
+        "cached_tokens": 2215,
+        "cost_usd": 0.00088085
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 9469,
+        "completion_tokens": 861,
+        "total_tokens": 10330,
+        "cached_tokens": 150,
+        "cost_usd": 0.0023018
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 25058,
+        "completion_tokens": 1795,
+        "total_tokens": 26853,
+        "cached_tokens": 9464,
+        "cost_usd": 0.0044895
+      }
+    ]
+  }
+}

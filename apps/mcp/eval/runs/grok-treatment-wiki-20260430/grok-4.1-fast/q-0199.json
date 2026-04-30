@@ -1,0 +1,177 @@
+{
+  "answer": "In Allama Iqbal's poem *Sair-e-Falak* (\"A Celestial Journey\"), the speaker embarks on a visionary voyage across the heavens accompanied by Imagination.[^1] He flies onward through the cosmic blue, unobserved by any soul in the upper air, while the stars gaze in wonder at his secret journey.[^2] Transcending the boundaries of dusk, dawn, and the solar system, he beholds paradisiacal visions—including Iram, the birds singing on Tooba's bough, unveiled Houris, and graceful Saqis serving goblets—before perceiving a distant dark, frozen abode revealed by the angel Surosh to be Hell itself.[^3] The speaker inquires of Surosh about this grim place, learning that damned souls bring their own embers from earthly lives.[^4]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, [ch. 18](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/18-sair-e-falak/translation/#p-7bcfb8).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, [ch. 18](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/18-sair-e-falak/translation/#p-0f9fb1).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, [ch. 18](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/18-sair-e-falak/translation/).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, [ch. 18](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/18-sair-e-falak/translation/#p-3ccdfb).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sair-e-Falak"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal \"Sair-e-Falak\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 3 · ch.18\\nverse · 15¶ · 227w · vocab 119 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"celestial journey companion\\\" · \\\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.18 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.18 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18,
+        "paragraph_ids": [
+          "p-45fa64",
+          "p-7bcfb8",
+          "p-0f9fb1",
+          "p-6b1b01",
+          "p-829290"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 5 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18,
+        "paragraph_range": {
+          "start": 0,
+          "end": 4
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 5 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 18,
+      "paragraph_id": "p-7bcfb8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 18,
+      "paragraph_id": "p-0f9fb1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 18,
+      "paragraph_id": "p-3ccdfb"
+    }
+  ],
+  "duration_ms": 33916,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 15624,
+    "completion_tokens": 3858,
+    "total_tokens": 19482,
+    "cached_tokens": 8937,
+    "api_calls": 4,
+    "cost_usd": 0.0037132499999999995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1908,
+        "completion_tokens": 705,
+        "total_tokens": 2613,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004518
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3068,
+        "completion_tokens": 430,
+        "total_tokens": 3498,
+        "cached_tokens": 1903,
+        "cost_usd": 0.00054315
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 5007,
+        "completion_tokens": 1499,
+        "total_tokens": 6506,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017284
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 5641,
+        "completion_tokens": 1224,
+        "total_tokens": 6865,
+        "cached_tokens": 5002,
+        "cost_usd": 0.0009899
+      }
+    ]
+  }
+}

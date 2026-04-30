@@ -1,0 +1,133 @@
+{
+  "answer": "**Yama Smṛti, Chapter 2.**\n\nThe first verse prescribes the described punishment for a Brahmin (or one) who has abandoned his sacred fire:\n\n> With his body smeared with ashes and fumigated with the hair and bones of a corpse, / the king, having confiscated all his property, should banish from the kingdom the one who has abandoned his sacred fire.[^1]\n\nThe immediately following, adjacent verse prescribes the described punishment for 'the man who violates convention':\n\n> Being fanned with the hair of a corpse, his head adorned with a garland of it, / the king should make the man who violates convention go naked.[^2]\n\n[^1]: Yama Smṛti, [paragraph](/works/unknown-yama-smrti-552f8d/02/translation/#p-c0845b).\n[^2]: Yama Smṛti, [paragraph](/works/unknown-yama-smrti-552f8d/02/translation/#p-05b685).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hair and bones of a corpse",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hair of a corpse\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"garland of corpse\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred fire\" brahmin ashes corpse",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"violates convention\" naked",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-yama-smrti-552f8d (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yama Smṛti · ch.2\\nverse · 77¶ · 2318w · vocab 531 (TTR 47%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"fined one hundred\\\" · \\\"his sacred fire\\\" · "
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-c0845b"
+    },
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-05b685"
+    }
+  ],
+  "duration_ms": 12448,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 13181,
+    "completion_tokens": 1581,
+    "total_tokens": 14762,
+    "cached_tokens": 5214,
+    "api_calls": 3,
+    "cost_usd": 0.0026446,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1988,
+        "completion_tokens": 660,
+        "total_tokens": 2648,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004453
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 3188,
+        "completion_tokens": 359,
+        "total_tokens": 3547,
+        "cached_tokens": 149,
+        "cost_usd": 0.00079475
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 8005,
+        "completion_tokens": 562,
+        "total_tokens": 8567,
+        "cached_tokens": 3183,
+        "cost_usd": 0.00140455
+      }
+    ]
+  }
+}

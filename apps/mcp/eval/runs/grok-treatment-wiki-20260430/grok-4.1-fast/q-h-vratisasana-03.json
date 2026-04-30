@@ -1,0 +1,409 @@
+{
+  "answer": "**Vratisasana, Chapter 1**\n\nThis warning to ascetics (*viku*) appears in the commentary to verse 32 (VS_32), which warns of the consequences for failing to protect moral conduct (*śīla*, the \"five precepts and ten virtues\"):<sup>[1]</sup>\n\n> That sacred thread will become a club, a mace to beat your body there in the world of Yama, if the *śīla* is not protected by you. [...] Likewise, the sacred ash of the *viku* will become a mountain of fire, burning your body there in the world of Yama, if the *śīla* is not protected by you. [...] And so too the rosary, which is the counter for the *viku*, will become an instrument of punishment for your faults. How long will they be counted and laid out? A hundred years of punishment for each bead, if the *śīla* is not protected by you.\n\n[^1]: *Vratisasana*, [Chapter 1](/works/unknown-vratisasana-d0fe75/01/translation/#p-a8364a).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hundred years\" punishment bead",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred thread\" club Yama",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred ash\" \"mountain of fire\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rosary\" \"hundred years\" punishment",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yama \"sacred thread\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred thread\" Yama",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred ash\" fire",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rosary\" punishment Yama",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hundred years\" bead OR rosary",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"thread\" club Yama",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred thread\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred ash\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rosary punishment",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yama ascetic",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hundred years\" punishment",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "hindu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "tamil"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d"
+      },
+      "result_summary": "{\"markdown\":\"# Yama Smṛti\\nYama · Ancient · sanskrit · verse · 2 chapters · 4,467 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"fined one hundred\\\" · \\\"his sacred fire\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yama",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"thread\" OR \"ash\" OR \"rosary\" OR \"bead\" OR \"mala\" punishment",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75"
+      },
+      "result_summary": "{\"markdown\":\"# Vratisasana\\nUnknown · Medieval · kawi · prose · 1 chapters · 17,658 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"one *siddhānta* school\\\" · \\\"sacred vows"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vratisasana · ch.1\\nprose · 261¶ · 17658w · vocab 2185 (TTR 26%, hapax 46%)\\n\\n## Distinctive trigrams\\n\\\"one *siddhānta* school\\\" · \\\"sacred vows "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacred thread\" OR \"sacred cord\" OR \"sacred string\" OR upavita OR yajnopavita",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vratisa \"rosary\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d"
+      },
+      "result_summary": "Listed 2 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mountain\" fire OR ash"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "club OR rod OR staff thread OR cord OR string"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-vratisasana-d0fe75 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-a8364a"
+    }
+  ],
+  "duration_ms": 51530,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 90075,
+    "completion_tokens": 6577,
+    "total_tokens": 96652,
+    "cached_tokens": 42845,
+    "api_calls": 8,
+    "cost_usd": 0.014876750000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1963,
+        "completion_tokens": 490,
+        "total_tokens": 2453,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00035515
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2247,
+        "completion_tokens": 499,
+        "total_tokens": 2746,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00041645
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2648,
+        "completion_tokens": 630,
+        "total_tokens": 3278,
+        "cached_tokens": 2242,
+        "cost_usd": 0.0005083
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3040,
+        "completion_tokens": 217,
+        "total_tokens": 3257,
+        "cached_tokens": 2643,
+        "cost_usd": 0.00032005
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 6363,
+        "completion_tokens": 916,
+        "total_tokens": 7279,
+        "cached_tokens": 3035,
+        "cost_usd": 0.00127535
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10823,
+        "completion_tokens": 1414,
+        "total_tokens": 12237,
+        "cached_tokens": 6358,
+        "cost_usd": 0.0019179
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13988,
+        "completion_tokens": 1378,
+        "total_tokens": 15366,
+        "cached_tokens": 10818,
+        "cost_usd": 0.0018639
+      },
+      {
+        "api_call_index": 8,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 49003,
+        "completion_tokens": 1033,
+        "total_tokens": 50036,
+        "cached_tokens": 13983,
+        "cost_usd": 0.00821965
+      }
+    ]
+  }
+}

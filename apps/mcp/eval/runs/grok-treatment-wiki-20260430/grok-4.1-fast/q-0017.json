@@ -1,0 +1,198 @@
+{
+  "answer": "**The cannibalistic Mermedonians (or people of Mermedonia) are first described shortly after the poem's prologue on the apostles, in the context of introducing Matthew's missionary journey.**[^1]\n\nThis passage explicitly depicts their land as one where foreigners are slaughtered and eaten as a customary \"foul, grim feast\":\n\n> Fate had assigned him that far-off country,  \n> the grim land of **Mermedonia**, a place of dread,  \n> where no guest could journey for gold or for love,  \n> nor find any welcome in that hateful nation.  \n> That whole land was stained, its cities of men  \n> soaked with the slaughter of strangers who came there.  \n> It was the custom of that cursed tribe  \n> that any foreigner who fared to their shores  \n> they **fed upon for food**, a **foul, grim feast**.[^1]\n\nSubsequent references (e.g., as the \"land of the man-eaters\") build on this initial portrayal.[^2]\n\n[^1]: Cynewulf, *Andreas*, ch. 1 ([paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-f6e450)).\n\n[^2]: Cynewulf, *Andreas*, ch. 1 ([paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-4d1e78)).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedonians"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedonia"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cannibal"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedonians eat"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"man-eaters\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mermedonia\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-4d1e78",
+          "p-f6e450",
+          "p-90fadf",
+          "p-c11ef8"
+        ]
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-f6e450"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-4d1e78"
+    }
+  ],
+  "duration_ms": 37319,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 37431,
+    "completion_tokens": 3462,
+    "total_tokens": 40893,
+    "cached_tokens": 12566,
+    "api_calls": 5,
+    "cost_usd": 0.0073323,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 319,
+        "total_tokens": 2223,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00025815
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2342,
+        "completion_tokens": 275,
+        "total_tokens": 2617,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005834
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 2806,
+        "completion_tokens": 398,
+        "total_tokens": 3204,
+        "cached_tokens": 2337,
+        "cost_usd": 0.00040965
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5402,
+        "completion_tokens": 1371,
+        "total_tokens": 6773,
+        "cached_tokens": 2801,
+        "cost_usd": 0.00134575
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 24977,
+        "completion_tokens": 1099,
+        "total_tokens": 26076,
+        "cached_tokens": 5397,
+        "cost_usd": 0.00473535
+      }
+    ]
+  }
+}

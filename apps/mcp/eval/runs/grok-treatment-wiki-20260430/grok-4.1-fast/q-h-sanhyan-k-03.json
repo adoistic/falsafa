@@ -1,0 +1,166 @@
+{
+  "answer": "**The work is *San Hyan Kamahayanikan* (unknown author), Chapter 1.**[^1]\n\nThis chapter defines three grades of *dānapāramitā* (Perfection of Giving): ordinary giving (*dāna*), great giving (*atidāna*, i.e., \"one’s own wife and beloved child\"), and the supreme grade (*mahātidāna*, above both). It illustrates *mahātidāna* with the Mahāsattva's deeds of \"his love for beings\" in response to others' suffering:\n\n> *HAVING GIVEN ONE’S OWN FLESH AND BLOOD TO OTHERS, CONQUERING THE LORD OF DEMONS, THE HEART, THE BODY, AND THROUGH THE POWER OF GIVING, NOT EXPERIENCING PAIN, THE SAGES PROCLAIM THIS MAHĀTIDĀNA.*[^2]\n\nHe \"gave his flesh and blood as a gift\" to **demons, tigers, or garuḍas**; \"his eyes as a gift to an **old, blind brahmin** who was testing his heroic generosity\"; and \"his heart as a gift to a **suffering, sorrowful creature**.\"[^2]\n\n[^1]: *San Hyan Kamahayanikan*, [Chapter 1](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/).\n[^2]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-1d8bac).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mahāsattva",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"flesh and blood\" mahātidāna"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gave his eyes\" brahmin"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old, blind brahmin\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gave his flesh\" Mahāsattva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tigers garudas Mahāsattva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"blind brahmin\" Mahāsattva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" Mahāsattva gift"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-1d8bac"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d84734",
+          "p-fb3a09"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-1d8bac"
+    }
+  ],
+  "duration_ms": 26060,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 61886,
+    "completion_tokens": 2487,
+    "total_tokens": 64373,
+    "cached_tokens": 34534,
+    "api_calls": 4,
+    "cost_usd": 0.0084406,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2061,
+        "completion_tokens": 466,
+        "total_tokens": 2527,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0003623
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2659,
+        "completion_tokens": 488,
+        "total_tokens": 3147,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0004929
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 28113,
+        "completion_tokens": 765,
+        "total_tokens": 28878,
+        "cached_tokens": 2654,
+        "cost_usd": 0.005607
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 29053,
+        "completion_tokens": 768,
+        "total_tokens": 29821,
+        "cached_tokens": 28108,
+        "cost_usd": 0.0019784
+      }
+    ]
+  }
+}

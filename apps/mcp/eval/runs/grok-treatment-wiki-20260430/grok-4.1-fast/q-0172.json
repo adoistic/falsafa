@@ -1,0 +1,169 @@
+{
+  "answer": "**The Falsafa corpus includes *Slokāntara* (unknown-slokantara-d7a628), a single-chapter Medieval Kawi prose work (~17k words) on dharma, sins, rebirth, charity, and social duties.**[^1]\n\nAfter searching the English translation for terms like \"tongue\", \"speech\", \"word\", \"talk\", \"misuse\", \"sin/sins\", and \"worst\" (yielding zero direct hits), reviewing wiki cards for key passages, and reading the full chapter, **no such passage exists**. The text discusses sins (*pātaka*, *mahāpātaka*, etc., e.g., killing Brahmins, theft, slander to kings as a heinous crime), permitted falsehoods (e.g., jest, protecting life/property), and sweet vs. harsh speech,[^2] but nothing frames tongue/speech misuse as *the worst* sin.\n\nIf this refers to a different work (e.g., a Sanskrit *smṛti* like *Manusmṛti*, which covers verbal sins like slander/falsehood but not as \"worst\"), the corpus lacks a match. Not every topic is covered.[^3]\n\n[^1]: *Slokāntara*, ch.1, [full chapter](/works/unknown-slokantara-d7a628/01/translation/).\n\n[^2]: E.g., [p-200f22] on slander (*rāja-piśuna*) as heinous; [p-77e620] on non-sinful lies including jest/protection; [p-e303ea] on sweet speech ([/works/unknown-slokantara-d7a628/01/translation/#p-e303ea]).\n\n[^3]: *Slokāntara* wiki card ([/works/unknown-slokantara-d7a628/wiki/_work.card.md]).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Slokantara tongue misuse sin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tongue\" \"sin\" OR \"sins\" Slokantara",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "{\"markdown\":\"# Slokantara\\nUnknown · Medieval · kawi · prose · 1 chapters · 17,343 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"say sacred teachings\\\" · \\\"kṛta tretā dvā"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Slokantara · ch.1\\nprose · 184¶ · 17343w · vocab 2746 (TTR 33%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"say sacred teachings\\\" · \\\"kṛta tretā dvāp"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tongue\" Slokantara"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tongue sin OR worst OR misuse Slokantara"
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-slokantara-d7a628 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"worst\" sin OR sins Slokantara"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tongue\" OR \"speech\" OR \"word\" OR \"talk\" sin OR misuse OR evil Slokantara",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-200f22"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-77e620"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-e303ea"
+    }
+  ],
+  "duration_ms": 23489,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 59691,
+    "completion_tokens": 2820,
+    "total_tokens": 62511,
+    "cached_tokens": 18526,
+    "api_calls": 4,
+    "cost_usd": 0.0105693,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 668,
+        "total_tokens": 2574,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004329
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 6136,
+        "completion_tokens": 578,
+        "total_tokens": 6714,
+        "cached_tokens": 150,
+        "cost_usd": 0.0014937
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10368,
+        "completion_tokens": 739,
+        "total_tokens": 11107,
+        "cached_tokens": 6131,
+        "cost_usd": 0.00152345
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 41281,
+        "completion_tokens": 835,
+        "total_tokens": 42116,
+        "cached_tokens": 10363,
+        "cost_usd": 0.00711925
+      }
+    ]
+  }
+}

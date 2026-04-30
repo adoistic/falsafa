@@ -1,0 +1,140 @@
+{
+  "answer": "**The work is *Traité de Législation: VOL I* by Charles Comte, and the relevant chapter is Chapter 21 (\"De l’action des lois de la morale, et des obstacles que cette action rencontre quelquefois dans cell\").**[^1]\n\nThis chapter closes Volume I. Near its end, the author describes two careers open to every person—one of virtues and one of vices/crimes—and states that the best safeguard for nations is to place over the entrance to the latter \"this terrible inscription from Dante's hell\":\n\n> PER ME SI VA NELLA CITTA DOLENTE :  \n> PER ME SI VA NELL’ ETERNO DOLORE :  \n> PER ME SI VA TRA LA PERDUTA GENTE.  \n> GIUSTIZIA MOSSE ‘L MIO ALTO FATTORE.  \n> ……………………………………………….  \n> LASCIATE OGNI SPERANZA, VOI CH’ ENTRATE.[^2]\n\nThis is the inscription from the gate of Hell in Dante's *Inferno* (Canto III), quoted verbatim in Italian to warn of the path into eternal suffering.[^3]\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 21](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/).\n\n[^2]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/#p-dbf447).\n\n[^3]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/#p-c8e46f).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"PER ME SI VA NELLA CITTA DOLENTE\"",
+        "limit": 20
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"LASCIATE OGNI SPERANZA\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lasciate ogni speranza\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"per me si va\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"abandon all hope\" dante",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 21
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.21\\nprose · 62¶ · 9994w · vocab 1490 (TTR 33%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"pains vice produces\\\" ·"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 21
+      },
+      "result_summary": "Read ch.21 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 21,
+      "paragraph_id": "p-dbf447"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 21,
+      "paragraph_id": "p-c8e46f"
+    }
+  ],
+  "duration_ms": 23199,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 25138,
+    "completion_tokens": 2647,
+    "total_tokens": 27785,
+    "cached_tokens": 7538,
+    "api_calls": 3,
+    "cost_usd": 0.0052204,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1959,
+        "completion_tokens": 1020,
+        "total_tokens": 2979,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00061935
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3779,
+        "completion_tokens": 730,
+        "total_tokens": 4509,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00083865
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 19400,
+        "completion_tokens": 897,
+        "total_tokens": 20297,
+        "cached_tokens": 3774,
+        "cost_usd": 0.0037624
+      }
+    ]
+  }
+}

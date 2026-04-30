@@ -1,0 +1,113 @@
+{
+  "answer": "**Charles Comte's *Traité de Législation*, Volume IV, Chapter 11 (\"De l’influence de l’esclavage sur les mœurs de quelques peuples de l’Amérique méridionale, originaires d’Espagne\" / \"On the influence of slavery on the morals of some peoples of South America, of Spanish origin\"), paragraph [p-cc46a4](https://falsafa.corpus/works/charles-comte-traite-de-legislation-vol-iv-bca040/11-de-l-influence-de-l-esclavage-sur-les-moeurs-de-qu/translation/#p-cc46a4).**[^1]\n\nThe chapter enumerates the five kinds of papal indulgence-bulls as follows: \"The papal government delivered to the Spanish government, and the latter delivered to commerce in its colonies, **five kinds of bulls: the bull for the living, that for the dead, that for dairy and eggs, that of composition, and that of the crusade**.[^1] It then explains the \"bull of composition\" precisely as described: \"The bull of composition had the marvelous effect of making the unjust holder of another's property the legitimate owner; the thief who, in the midst of a crowd of people, had managed to filch a well-filled purse, had only to go find the merchant of indulgences and deliver to him a small share of his prize, and both became legitimate possessors of the stolen property.\"[^1]\n\n[^1]: Charles Comte, *Traité de Législation: VOL IV*, [p-cc46a4](/works/charles-comte-traite-de-legislation-vol-iv-bca040/11-de-l-influence-de-l-esclavage-sur-les-moeurs-de-qu/translation/#p-cc46a4).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bull for the living, that for the dead, that for dairy and eggs",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bull of composition\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dairy and eggs\" indulgence",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.11\\nprose · 27¶ · 4514w · vocab 1101 (TTR 51%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"effects slavery produc"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-cc46a4"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 11,
+      "paragraph_id": "p-cc46a4"
+    }
+  ],
+  "duration_ms": 20134,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 13716,
+    "completion_tokens": 1680,
+    "total_tokens": 15396,
+    "cached_tokens": 4406,
+    "api_calls": 3,
+    "cost_usd": 0.0029223,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1998,
+        "completion_tokens": 322,
+        "total_tokens": 2320,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005381
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2380,
+        "completion_tokens": 405,
+        "total_tokens": 2785,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00039635
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 9338,
+        "completion_tokens": 953,
+        "total_tokens": 10291,
+        "cached_tokens": 2375,
+        "cost_usd": 0.00198785
+      }
+    ]
+  }
+}

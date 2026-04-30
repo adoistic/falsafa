@@ -1,0 +1,421 @@
+{
+  "answer": "**I could not find a couplet in Sheikh Ibrahim Zauq's *Diwan-E-Zauq* that matches this description.** \n\nThe corpus contains a complete translation of the *Diwan* (60 chapters/ghazals). I scanned the work-level wiki card, read chapter wiki cards for candidates (e.g., ch. 15, 28, 39, 52, 56, 58, 59 mentioning fire, heart, sighs, smoke, or complaints/\"shikayat\"), performed multiple *search_corpus* queries for English terms (\"breath\", \"flame\"/\"fire\"/\"blaze\"/\"burning\", \"heart\", \"complaint\", \"sigh\") and Urdu concepts (\"shikayat\"/\"shikwa\"/\"naala\"/\"nafas\"/\"dam\"/\"aah\"), and fully read several chapters (28, 39, 59) plus their transliterations.\n\nRelevant near-misses:\n- Ch. 39 opens: \"If I had not suppressed my sigh (*naala*) of pain, / A smoke would rise...\"[^1] (sigh suppressed to prevent smoke, implying inner fire—but no breath or explicit heart-flame comparison).\n- Ch. 28 opens: \"Khoob roka shikayaton se mujhe\" (\"You well stopped my complaints (*shikayaton*)\")—complaints silenced, but no breath/flame/heart.[^2]\n- Ch. 58: \"My heart's fire (*dil ka aag*) will die...\"—heart-fire, but no breath/complaint.[^3]\n- Ch. 59: \"aur jo yeh tang karein munh se shikayat na kare\" (\"when they distress, offer no complaint (*shikayat*) from the mouth\")—verbal complaint advised against, no breath/flame/heart.[^4]\n\nNo couplet compares a \"breath (*nafas*/*dam*) at the moment of complaint\" directly to \"a flame (*shola*) on the heart (*dil*)\". It may be from an uncorpus-ed section, variant reading, or misattributed. \n\n[^1]: *Diwan-E-Zauq*, ch. 39, [p-1b63cf](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/39-na-karta-zabt-main-naala-to-phir-aisa-dhuaan-hota/translation/#p-1b63cf).\n\n[^2]: *Diwan-E-Zauq*, ch. 28, [p-fb1017](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/28-khoob-roka-shikayaton-se-mujhe/translation/#p-fb1017).\n\n[^3]: *Diwan-E-Zauq*, ch. 58 wiki card (key passage).\n\n[^4]: *Diwan-E-Zauq*, ch. 59, [p-d2f568](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/59-koi-in-tang-dahanon-se-mohabbat-na-kare/translation/#p-d2f568).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"breath\" \"flame\" \"heart\" \"complaint\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"breath of complaint\" flame heart",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moment of complaint\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "breath flame heart",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"flame\" heart complaint",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"breath\" complaint heart",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sigh\" flame heart",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sigh fire heart",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"breath\" fire OR flame heart",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"complaint\" flame OR fire heart",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 56
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Zauq · ch.56\\nverse · 13¶ · 272w · vocab 92 (TTR 64%, hapax 80%)\\n\\n## Distinctive trigrams\\n\\\"fleeting world brief\\\" · \\\"world brief fever"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 58
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Zauq · ch.58\\nverse · 20¶ · 482w · vocab 186 (TTR 74%, hapax 84%)\\n\\n## Distinctive trigrams\\n\\\"long plead cup-bearer\\\" · \\\"plead cup-beare"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 15
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Zauq · ch.15\\nverse · 10¶ · 218w · vocab 109 (TTR 84%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"wine domain within\\\" · \\\"heart own smoke\\\" "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sigh\" heart",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "breath heart",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"complaint\" OR \"complain\" OR shikayat OR shikwa",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fire heart OR flame heart OR burning heart",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 39
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Zauq · ch.39\\nverse · 11¶ · 251w · vocab 99 (TTR 78%, hapax 84%)\\n\\n## Distinctive trigrams\\n\\\"suppressed sigh pain\\\" · \\\"sigh pain smok"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 52
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Zauq · ch.52\\nverse · 15¶ · 303w · vocab 137 (TTR 86%, hapax 88%)\\n\\n## Distinctive trigrams\\n\\\"wounded stolen glance\\\" · \\\"stolen glance h"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 28
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Zauq · ch.28\\nverse · 7¶ · 118w · vocab 56 (TTR 95%, hapax 95%)\\n\\n## Distinctive trigrams\\n\\\"silenced bitter pleas\\\" · \\\"bitter pleas slew"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 59
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Zauq · ch.59\\nverse · 8¶ · 197w · vocab 81 (TTR 72%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"let one love\\\" · \\\"one love lips\\\" · \\\"love l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 60
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 60-kya-gharaz-laakh-khudaai-mein-hon-daulat-waale.card.md. Run: bun run scripts/build-wiki.ts --work sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" fire OR flame OR burning OR blaze",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 39
+      },
+      "result_summary": "Read ch.39 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 28
+      },
+      "result_summary": "Read ch.28 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 59
+      },
+      "result_summary": "Read ch.59 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 28,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.28 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 39,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.39 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 59,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.59 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shikayat OR shikwa OR naala OR nafas OR aah OR dam heart OR dil OR liver OR jigar",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 59,
+      "paragraph_id": "p-1b63cf"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 59,
+      "paragraph_id": "p-fb1017"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 59,
+      "paragraph_id": "p-d2f568"
+    }
+  ],
+  "duration_ms": 83855,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 84799,
+    "completion_tokens": 7082,
+    "total_tokens": 91881,
+    "cached_tokens": 61290,
+    "api_calls": 9,
+    "cost_usd": 0.011307300000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 163,
+        "total_tokens": 2072,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00018115
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2077,
+        "completion_tokens": 390,
+        "total_tokens": 2467,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005879
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2291,
+        "completion_tokens": 355,
+        "total_tokens": 2646,
+        "cached_tokens": 2072,
+        "cost_usd": 0.0003249
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3512,
+        "completion_tokens": 830,
+        "total_tokens": 4342,
+        "cached_tokens": 2286,
+        "cost_usd": 0.0007745
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 5068,
+        "completion_tokens": 900,
+        "total_tokens": 5968,
+        "cached_tokens": 3507,
+        "cost_usd": 0.00093755
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 12112,
+        "completion_tokens": 1119,
+        "total_tokens": 13231,
+        "cached_tokens": 5063,
+        "cost_usd": 0.00222245
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16047,
+        "completion_tokens": 1092,
+        "total_tokens": 17139,
+        "cached_tokens": 12107,
+        "cost_usd": 0.00193935
+      },
+      {
+        "api_call_index": 8,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 18187,
+        "completion_tokens": 991,
+        "total_tokens": 19178,
+        "cached_tokens": 16042,
+        "cost_usd": 0.0017266
+      },
+      {
+        "api_call_index": 9,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 23596,
+        "completion_tokens": 1242,
+        "total_tokens": 24838,
+        "cached_tokens": 18182,
+        "cost_usd": 0.0026129
+      }
+    ]
+  }
+}

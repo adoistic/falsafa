@@ -1,0 +1,217 @@
+{
+  "answer": "**Yes, there is a clear shift in political imagination between the two anthems by Allama Iqbal, from a territorially bounded celebration of Hindustan (India) as a sacred, multi-cultural homeland in *Tarana-e-Hindi* (also known as \"Hindustani Bachon Ka Qaumi Geet,\" 1904/1910), to a borderless, pan-Islamic universalism centered on Muslim identity and the global *ummah* in *Tarana-e-Milli* (1924).**[^1][^2]\n\n### Tarana-e-Hindi (*Bang-e-Dara Part 1*, ch. 26): Hindustan-Centric Patriotism\nThis earlier poem, framed as a children's anthem (*qaumi geet*), exalts India as the ultimate homeland (*watan*), weaving Islamic, Sikh, Persian, Turkish, Greek, Biblical (Moses, Noah, Sinai), and Arab threads into a composite national glory. It portrays Hindustan as a land of spiritual convergence—\"Where Chishti first Truth's holy call conveyed, / And Nanak's song of Oneness was displayed\"—chosen by diverse peoples (Tatars, sons of Hijaz, Turks) and blessed with divine history.[^3] The refrain \"This is my homeland, this land of mine\" (*Sare jahan se accha Hindostan hamara*) anchors identity firmly to Indian soil, evoking paradise: \"To live here is a paradise of pure delight.\"[^4] The imagination is inclusive yet geographically fixed on the subcontinent, blending pre-Islamic Indic elements with Muslim reverence.\n\n### Tarana-e-Milli (*Bang-e-Dara Part 3*, ch. 23): Global Muslim Ummah\nWritten two decades later amid rising communal tensions and Iqbal's deepening Islamic revivalism, this anthem reorients loyalty outward. It opens with expansiveness: \"From Chin to Arab lands, our story flows, / The whole wide world's the home a Muslim knows.\"[^5] Identity is now defined by faith (*Muslim hain hum*) over territory—the *ummah* spans China, Arabia, the Kaaba (\"In a world of idols, stood that House of God\"), Andalusia, Tigris, and Hijaz, sustained by jihad (\"Beneath the shadow of the sword we grew\") and divine protection.[^6] The refrain celebrates this caravan-like mobility under the \"Prince of Hijaz,\" ending: \"This song of Iqbal is the marching bell's refrain, / Our caravan now travels on its path again.\"[^7] No mention of Hindustan; the world (*saara jahan*) is the Muslim's domain.\n\n### The Shift in Political Imagination\nIqbal moves from *wataniyat* (territorial patriotism) to *milli* (communal/Islamic) consciousness, reflecting his evolution from Indian nationalist (pre-1900s) to advocate for Muslim separatism (post-1930 Lahore Resolution influences). *Tarana-e-Hindi* fosters composite nationalism; *Tarana-e-Milli* prioritizes *khudi* (selfhood) through global Islam, subordinating locale to faith. This mirrors broader historical tensions: Swadeshi-era unity yielding to Khilafat and partition-era divides. The later poem's sword-and-crescent imagery signals militancy absent in the earlier idyllic portrait.[^8]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 26, [Hindustani Bachon Ka Qaumi Geet](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 23, [Tarana-e-Milli](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/).\n[^3]: Ibid., Part 1, ch. 26, [¶1](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-da6786).\n[^4]: Ibid., [¶4](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-a9f72d).\n[^5]: Ibid., Part 3, ch. 23, [¶1](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/#p-8a4681).\n[^6]: Ibid., [¶3-4](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/#p-72825b).\n[^7]: Ibid., [¶11](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/#p-852c70).\n[^8]: Work descriptions confirm 1924 publication for *Bang-e-Dara*, with Part 3 emphasizing \"nationalism, and spiritual awakening.\"",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tarana-e-Hindi",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tarana-e-Milli",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Tarana",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sare jahan se accha\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Tarana\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.26\\nverse · 4¶ · 163w · vocab 71 (TTR 78%, hapax 87%)\\n\\n## Distinctive trigrams\\n\\\"homeland land mine\\\" · \\\"chishti first "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.23\\nverse · 11¶ · 205w · vocab 96 (TTR 91%, hapax 91%)\\n\\n## Distinctive trigrams\\n\\\"chin arab lands\\\" · \\\"arab lands story"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 23,
+      "paragraph_id": "p-da6786"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 23,
+      "paragraph_id": "p-a9f72d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 23,
+      "paragraph_id": "p-8a4681"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 23,
+      "paragraph_id": "p-72825b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 23,
+      "paragraph_id": "p-852c70"
+    }
+  ],
+  "duration_ms": 37886,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 28932,
+    "completion_tokens": 4068,
+    "total_tokens": 33000,
+    "cached_tokens": 15948,
+    "api_calls": 4,
+    "cost_usd": 0.005428199999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1932,
+        "completion_tokens": 547,
+        "total_tokens": 2479,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00037775
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 3069,
+        "completion_tokens": 606,
+        "total_tokens": 3675,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008943
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10858,
+        "completion_tokens": 743,
+        "total_tokens": 11601,
+        "cached_tokens": 3064,
+        "cost_usd": 0.0020835
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 13073,
+        "completion_tokens": 2172,
+        "total_tokens": 15245,
+        "cached_tokens": 10853,
+        "cost_usd": 0.00207265
+      }
+    ]
+  }
+}

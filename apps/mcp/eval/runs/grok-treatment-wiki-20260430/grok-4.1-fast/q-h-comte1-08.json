@@ -1,0 +1,411 @@
+{
+  "answer": "**In *Traité de Législation: VOL I* by Charles Comte, Chapter 1 (\"CHAPITRE PREMIER\"), the author argues precisely this point in the opening chapter, which is dedicated to \"Of the various ways of treating the moral and legislative sciences\" and proposes applying the analytical method of observation—used successfully by Adam Smith and J.-B. Say in political economy—to these fields.[^1]**\n\nComte contrasts the invention of moral/legislative \"systems\" (by theologians, philosophers, jurisconsults, etc.) with the empirical observation of facts, actions, habits, institutions, and their causes/effects, akin to natural sciences or political economy. He states his goal explicitly: \"neither to establish a system, nor to present in new forms a system imagined by others; my sole goal is, by bringing, if possible, the sciences of legislation and morality back to the simple observation of facts, to have these two branches of our knowledge considered as a part of the natural history of man.\"[^2]\n\n**The passage naming Smith and Say reads:**\n\n> Adam Smith, and after him J.-B. Say, applied the same method [analytical observation of facts] to the study of political economy; and it is only since the publication of their writings that political economy has acquired the character and certainty of a true science. Could the method that shows us how a nation's wealth is formed, distributed, and destroyed not show us with the same certainty the effects that human institutions produce on the prosperity or decline of peoples? Is not a part of political economy itself devoted to making known to us the effects of certain laws or certain institutions on the wealth of nations, and consequently on their prosperity? And is there any reason to believe that a method which has allowed us to appreciate with such accuracy the effects of a considerable part of legislation will be deceptive if applied to the other parts of the same science?[^3]\n\nThis directly ties the empirical method of Smith and Say (treating economic \"facts\" via observation) to modeling moral/legislative sciences, where laws/institutions are facts to observe (not invent), yielding certain knowledge of their effects on human well-being.\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 1](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/01-chapitre-premier/translation/).\n\n[^2]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/01-chapitre-premier/translation/#p-fa884d).\n\n[^3]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/01-chapitre-premier/translation/#p-e9c962).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Adam Smith \"J.-B. Say\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral and legislative sciences\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"political economy\" \"laws\" \"institutions\" \"observed\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Smith\" \"Say\" \"political economy\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Smith\" \"Say\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Smith Say \"political economy\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Adam Smith\" Say",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"J.-B. Say\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"legislative science\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"political economy\" legislation",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"political economy\" \"moral science\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"political economy\" \"legislative\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Smith Say",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"laws\" \"institutions\" \"observed\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 14
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL II · ch.14\\nprose · 134¶ · 19047w · vocab 2544 (TTR 29%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"*treatise politica"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 14,
+        "paragraph_ids": [
+          "p-8e030a"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"M. Say\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Adam Smith\" economy",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"political economy\" legislative",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral science\" OR \"moral sciences\" \"political economy\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"laws\" OR \"legislation\" \"observed\" \"institutions\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"observe\" \"laws\" \"institutions\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Smith",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Say",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"political economy\" \"science of legislation\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"science of legislation\" OR \"legislative science\" OR \"moral science\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.1\\nprose · 36¶ · 6839w · vocab 1192 (TTR 38%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"application analytical m"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 1,
+      "paragraph_id": "p-fa884d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 1,
+      "paragraph_id": "p-e9c962"
+    }
+  ],
+  "duration_ms": 93859,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 68154,
+    "completion_tokens": 7075,
+    "total_tokens": 75229,
+    "cached_tokens": 42097,
+    "api_calls": 8,
+    "cost_usd": 0.010853749999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1953,
+        "completion_tokens": 438,
+        "total_tokens": 2391,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00032745
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2245,
+        "completion_tokens": 523,
+        "total_tokens": 2768,
+        "cached_tokens": 150,
+        "cost_usd": 0.000688
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2570,
+        "completion_tokens": 636,
+        "total_tokens": 3206,
+        "cached_tokens": 2240,
+        "cost_usd": 0.000496
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3037,
+        "completion_tokens": 566,
+        "total_tokens": 3603,
+        "cached_tokens": 2565,
+        "cost_usd": 0.00050565
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "get_passage",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 7270,
+        "completion_tokens": 1906,
+        "total_tokens": 9176,
+        "cached_tokens": 3032,
+        "cost_usd": 0.0019522
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9043,
+        "completion_tokens": 1454,
+        "total_tokens": 10497,
+        "cached_tokens": 7265,
+        "cost_usd": 0.00144585
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 15931,
+        "completion_tokens": 466,
+        "total_tokens": 16397,
+        "cached_tokens": 9038,
+        "cost_usd": 0.0020635
+      },
+      {
+        "api_call_index": 8,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 26105,
+        "completion_tokens": 1086,
+        "total_tokens": 27191,
+        "cached_tokens": 15926,
+        "cost_usd": 0.0033751
+      }
+    ]
+  }
+}

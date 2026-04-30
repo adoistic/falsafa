@@ -1,0 +1,213 @@
+{
+  "answer": "**Cynewulf reveals his identity as the poet of *Elene* through a runic signature—an acrostic formed by runic letters embedded at the beginnings of words in the poem's concluding lines (ll. 1236b–1249a in standard editions).**[^1][^2]\n\nThese runes spell out his name phonetically: **C-Y-N-(E)-W-U-L-F**. This is one of four signed poems attributed to him (*The Fates of the Apostles*, *Juliana*, *Christ II/The Ascension*, and *Elene*). The signature appears in the first-person coda (¶¶11–13), where he shifts from narrative to personal meditation.[^3]\n\nThere, Cynewulf portrays himself as an **old man (\"frod ond fus\") on the brink of death**, formerly **stained by sins (\"weorcum fah, synnum asaled\") and beset by worldly sorrows** despite material success (treasures in the mead-hall, a fine horse). He credits **divine grace** for unlocking his poetic gift (\"leothucraft onleac\"), expanding his mind, and revealing truths about the Holy Rood from books. He reflects on life's transience (\"lifwynne geliden\") and closes with an eschatological vision of **Judgment Day**, where souls are divided into three fiery classes: the righteous (purified lightly), the sinful (tormented moderately), and the damned (eternally lost). He urges readers to honor the Rood's finding (May 3) for salvation.[^4]\n\nThis self-revelation humanizes the anonymous Anglo-Saxon poet, blending humility, repentance, and hope—hallmarks of Cynewulfian signatures across his works.[^5]\n\n[^1]: Cynewulf, *Elene*, [¶10 (transliteration)](/works/cynewulf-elene-d2d132/01/transliteration/#p-624562) (runic acrostic visible in original layout).\n[^2]: Ibid., [¶11 (translation)](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607) (\"Thus I, old and ready for my journey...\").\n[^3]: Ibid. (first-person shift: \"Ic... wæs\" / \"Thus I...\").\n[^4]: Ibid., [¶12](/works/cynewulf-elene-d2d132/01/translation/#p-8f8a1b) (life's sorrows); [¶13](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe) (Judgment Day).\n[^5]: Cf. wiki cards for related works: *Juliana* ch.1 (cosine 0.47); *Andreas* ch.1 (0.55).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Cynewulf\" rune OR runic signature Elene",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "runic signature Elene",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rune\" Elene Cynewulf",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Cynewulf signature OR rune Elene",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d2e607",
+          "p-8f8a1b",
+          "p-dcbbfe"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d2e607",
+          "p-8f8a1b",
+          "p-dcbbfe"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-624562"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-d2e607"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-8f8a1b"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    }
+  ],
+  "duration_ms": 47000,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 141068,
+    "completion_tokens": 3970,
+    "total_tokens": 145038,
+    "cached_tokens": 64987,
+    "api_calls": 5,
+    "cost_usd": 0.020450549999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 351,
+        "total_tokens": 2253,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00027345
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2918,
+        "completion_tokens": 318,
+        "total_tokens": 3236,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00046045
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13886,
+        "completion_tokens": 549,
+        "total_tokens": 14435,
+        "cached_tokens": 2913,
+        "cost_usd": 0.00261475
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 44434,
+        "completion_tokens": 1288,
+        "total_tokens": 45722,
+        "cached_tokens": 13881,
+        "cost_usd": 0.00744865
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 77928,
+        "completion_tokens": 1464,
+        "total_tokens": 79392,
+        "cached_tokens": 44429,
+        "cost_usd": 0.00965325
+      }
+    ]
+  }
+}

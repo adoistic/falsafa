@@ -1,0 +1,162 @@
+{
+  "answer": "**San Hyan Kamahayanikan** (by Unknown), Chapter 1, teaches this yogic ritual catalogue of breath maṇḍalas.[^1]\n\nThe fire-maṇḍala is described verbatim as: \"Now, if you desire to engage in ritual action, the breath in the right becomes a fire-maṇḍala, triangular in shape, blazing and red in color. In its center is a trident. This is your means of accomplishment for all actions.\"[^2]\n\nThe water-maṇḍala (bāruṇamaṇḍala) is described verbatim as: \"Alternatively, make the breath in the left a water-maṇḍala (*bāruṇamaṇḍala*), circular, blazing, and white in color. In its center is a subtle, small maṇḍala, like pure crystal in the middle is its form and its symbol. This is your means of accomplishment for pacification (*śāntika*).\"[^3]\n\nThe surrounding passage also matches the other details: the right-nostril alternative as a \"square Mahendra-maṇḍala, blazing and yellow like gold... [with] an open five-pronged *vajra*\" (for life/wealth); the left-nostril alternative as a \"formless wind-maṇḍala, black, green, or yellow... [with] a banner or flag... [and] hook and ring\" (for attraction, etc.).[^4]\n\n[^1]: *San Hyan Kamahayanikan*, [Chapter 1](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/).\n\n[^2]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-60d83c).\n\n[^3]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-80a477).\n\n[^4]: *San Hyan Kamahayanikan*, [paragraphs](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-063ac8) (Mahendra-maṇḍala); [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-1e6680) (wind-maṇḍala).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bāruṇamaṇḍala",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mahendra-maṇḍala",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"right nostril\" fire trident",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"left nostril\" water-maṇḍala",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Kamahayanikan · ch.1\\nprose · 258¶ · 14398w · vocab 2021 (TTR 29%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"body speech mind\\\" · \\\"divine "
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-60d83c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-80a477"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-60d83c"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-80a477"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-063ac8"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-1e6680"
+    }
+  ],
+  "duration_ms": 23013,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 61834,
+    "completion_tokens": 2632,
+    "total_tokens": 64466,
+    "cached_tokens": 34774,
+    "api_calls": 4,
+    "cost_usd": 0.0084667,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2083,
+        "completion_tokens": 454,
+        "total_tokens": 2537,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00036115
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2708,
+        "completion_tokens": 332,
+        "total_tokens": 3040,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0004247
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 28307,
+        "completion_tokens": 747,
+        "total_tokens": 29054,
+        "cached_tokens": 2703,
+        "cost_usd": 0.00562945
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 28736,
+        "completion_tokens": 1099,
+        "total_tokens": 29835,
+        "cached_tokens": 28302,
+        "cost_usd": 0.0020514
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "answer": "**The Falsafa corpus includes only a single chapter of *Vīramitrodaya* (by Mitra Miśra), titled \"Chapter 1\".**[^1]\n\nThis chapter is a prose digest on calendrical and ritual rules—primarily concerning lunar days (*tithi*), fortnights (bright/dark), day conjunctions (preceding/succeeding), auspicious timings for fasts, *śrāddha*, vows, eclipses, purity periods, and related scriptural citations from Purāṇas and Smṛtis.[^2][^3] It does not contain any section compiling rules on adoption (*dattaka* or *datta-putra*).\n\nCorpus-wide searches for adoption-related terms (\"adoption\", \"adopted son\", *datta*, *dattaka*) yield no substantive matches in this work—only a single incidental proper name reference to \"Śrīdatta\" (an author, unrelated to the topic).[^4] Extensive adoption rules appear instead in other Smṛtis like *Aṅgirasa Smṛti* (e.g., sonship via ritual, *sapiṇḍa* preferences, *gotra* changes).[^5]\n\n*Vīramitrodaya* is a large Medieval Dharmaśāstra digest with sections on topics like inheritance (*dāyabhāga*) and law (*vyavahāra*), where adoption might appear in full editions—but this is absent from the corpus version.[^6]\n\n[^1]: <works/unknown-viramitrodaya-d4b632/wiki/_work.card.md>\n[^2]: <works/unknown-viramitrodaya-d4b632/01/translation/#p-4fb38c> (key passage on *tithi* conjunctions).\n[^3]: <works/unknown-viramitrodaya-d4b632/wiki/01.full.md> (n-grams, refrains, TextRank all ritual/calendrical).\n[^4]: <works/unknown-viramitrodaya-d4b632/01/translation/#p-ff3192>.\n[^5]: E.g., <works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-a99f56>.\n[^6]: <works/unknown-viramitrodaya-d4b632/meta.json>.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mitra"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "viramitrodaya"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Viramitrodaya"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"markdown\":\"# Vīramitrodaya\\nMitra Miśra · Medieval · sanskrit · prose · 1 chapters · 142,010 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"new moon day\\\" · \\\"conjoined"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"slug\":\"unknown-viramitrodaya-d4b632\",\"title\":\"Vīramitrodaya\",\"author\":\"Mitra Miśra\",\"author_slug\":\"mitra-misra\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "adoption"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vīramitrodaya · ch.1\\nprose · 5035¶ · 142010w · vocab 6395 (TTR 10%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"new moon day\\\" · \\\"conjoined precedi"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"adopted son\" OR datta OR dattaka OR \"giving away\" OR \"gift of son\"",
+        "limit": 10
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "viramitrodaya adoption OR datta"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vīramitrodaya · ch.1\\nprose · 5035¶ · 142010w · vocab 6395 (TTR 10%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"new moon day\\\" · \\\"conjoined precedi"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-4fb38c"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-ff3192"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-a99f56"
+    }
+  ],
+  "duration_ms": 32333,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 27597,
+    "completion_tokens": 3305,
+    "total_tokens": 30902,
+    "cached_tokens": 12133,
+    "api_calls": 4,
+    "cost_usd": 0.005351949999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1903,
+        "completion_tokens": 693,
+        "total_tokens": 2596,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004448
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2867,
+        "completion_tokens": 592,
+        "total_tokens": 3459,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008469
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "get_metadata",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7244,
+        "completion_tokens": 1012,
+        "total_tokens": 8256,
+        "cached_tokens": 2862,
+        "cost_usd": 0.0015255
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 15583,
+        "completion_tokens": 1008,
+        "total_tokens": 16591,
+        "cached_tokens": 7239,
+        "cost_usd": 0.00253475
+      }
+    ]
+  }
+}

@@ -1,0 +1,154 @@
+{
+  "answer": "**The work is *Kalpabuddha* (author unknown), Chapter 1.**[^1]\n\nThe cosmogonic opening declares:  \n> Lord Buddha was in the great dissolution (`mahāpralaya`), his body came into being, he then became the Lord Pañcatathāgata.[^2]\n\nIt then describes the central Tathāgata of this fivefold body as follows:  \n> His `mudrā` is the `bodhyagrī`, his `jñāna` is `śāśvata`, his implement is the `cakra`. Sahāvatī is the name of his dominion, a lion is his mount. She, Lady Sattvavajrī, she, Lady Dharmavajrī, she, Lady Karmavajrī, they are the `devī`s accompanying him.[^2]\n\n[^1]: *Kalpabuddha*, [Chapter 1](/works/unknown-kalpabuddha-d760dc/01/translation/).\n[^2]: *Kalpabuddha*, [Chapter 1, paragraph p-e1c8df](/works/unknown-kalpabuddha-d760dc/01/translation/#p-e1c8df).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mahāpralaya",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Pañcatathāgata\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sahāvatī",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sattvavajrī\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kalpabuddha · ch.1\\nprose · 2¶ · 113w · vocab 46 (TTR 74%, hapax 85%)\\n\\n## Distinctive trigrams\\n\\\"### paragraph royal\\\" · \\\"paragraph royal comma"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e1c8df"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f9acd8"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-kalpabuddha-d760dc (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-e1c8df"
+    }
+  ],
+  "duration_ms": 26182,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 12646,
+    "completion_tokens": 2417,
+    "total_tokens": 15063,
+    "cached_tokens": 9856,
+    "api_calls": 4,
+    "cost_usd": 0.0022593,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2075,
+        "completion_tokens": 470,
+        "total_tokens": 2545,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00036785
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2570,
+        "completion_tokens": 279,
+        "total_tokens": 2849,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00037135
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3534,
+        "completion_tokens": 494,
+        "total_tokens": 4028,
+        "cached_tokens": 2565,
+        "cost_usd": 0.00056905
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 4467,
+        "completion_tokens": 1174,
+        "total_tokens": 5641,
+        "cached_tokens": 3529,
+        "cost_usd": 0.00095105
+      }
+    ]
+  }
+}

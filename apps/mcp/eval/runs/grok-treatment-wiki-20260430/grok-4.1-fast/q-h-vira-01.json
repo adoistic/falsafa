@@ -1,0 +1,124 @@
+{
+  "answer": "**Vīramitrodaya, Chapter 1** (also known as *Samayaprakāśa*, \"The Illumination of Time,\" the first section of Mitra Miśra's *Vīramitrodaya*, a 17th-century dharmaśāstra digest).[^1]\n\nThe introductory verse (verse 7) on Medinīmalla reads:\n\n> There was, in the lineage of the Sīkāśīrāja, a universal sovereign over all the earth, an ornament to the circle of kings, like the moon in the ocean: the glorious Medinīmalla by name, **a wrestler upon the earth with the weight of his mighty forces**. He resembled the mighty Bhīma, gladdening the world by crushing the wicked and fulfilling the desires of supplicants, **his fame as white as the brilliance of the serpent king Ādiśeṣa**. // 7 //\n\nThe genealogy continues: from Medinīmalla arises Arjuna (verses 9–10); from Arjuna, Malakhāna (verses 11–12); from Malakhāna, Pratāparudra (verse 13).[^2]\n\n[^1]: Mitra Miśra, *Vīramitrodaya*, Chapter 1, [translation](/works/unknown-viramitrodaya-d4b632/01/translation/).\n\n[^2]: Mitra Miśra, *Vīramitrodaya*, Chapter 1, [paragraphs](/works/unknown-viramitrodaya-d4b632/01/translation/#p-a96338) p-a96338 (Arjuna); [p-602e62](/works/unknown-viramitrodaya-d4b632/01/translation/#p-602e62) (Malakhāna); [p-bbf6fa](/works/unknown-viramitrodaya-d4b632/01/translation/#p-bbf6fa) (Pratāparudra).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Medinīmalla"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sīkāśīrāja"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wrestler upon the earth"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "serpent king Ādiśeṣa"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Malakhāna"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vīramitrodaya · ch.1\\nprose · 5035¶ · 142010w · vocab 6395 (TTR 10%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"new moon day\\\" · \\\"conjoined precedi"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-viramitrodaya-d4b632 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-a96338"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-602e62"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-bbf6fa"
+    }
+  ],
+  "duration_ms": 45685,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 280430,
+    "completion_tokens": 2352,
+    "total_tokens": 282782,
+    "cached_tokens": 7019,
+    "api_calls": 3,
+    "cost_usd": 0.11122685,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1997,
+        "completion_tokens": 664,
+        "total_tokens": 2661,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00044925
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3261,
+        "completion_tokens": 419,
+        "total_tokens": 3680,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0005794
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 275172,
+        "completion_tokens": 1269,
+        "total_tokens": 276441,
+        "cached_tokens": 3256,
+        "cost_usd": 0.1101982
+      }
+    ]
+  }
+}

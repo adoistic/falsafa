@@ -1,0 +1,255 @@
+{
+  "answer": "In Allama Iqbal's *Bang-E-Dara Part 2*, the poem \"Sitara\" (chapter 22)—translated as \"The Morning's Star\" and referring to Venus—personifies the star as weeping in dread over its transient existence.[^1] The speaker first quotes the star's lament:\n\n> The Morning's Star was weeping, filled with dread,  \n> \"I gained my sight, but not to see,\" it said.  \n>   \n> The sun's own breath gives life to all I see,  \n> But dawn's hem grants no refuge unto me.[^2]\n\nThe star describes its own station as fleeting: \"What is the station of a star so bright? / A bubble's breath, a spark's brief flash of light.\"[^3]\n\nThe speaker then addresses Venus compassionately as \"O jewel on the brow of day,\" inviting it to descend from the heavens into the eternal garden of poetry: \n\n> If ruin grieves you, come from heav'n away.  \n> Descend from heaven's height with morning dew,  \n> My garden of verse has life to offer you.  \n>   \n> I am its gardener, Love its season's prime,  \n> Its form is built to be as old as time.[^4]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 22 (\"Sitara\"), [translation/](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/22-sitara/translation/).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 22 (\"Sitara\"), [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/22-sitara/translation/#p-eb2ea6).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 22 (\"Sitara\"), [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/22-sitara/translation/#p-9ed297).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 22 (\"Sitara\"), [paragraphs](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/22-sitara/translation/#p-b6423f).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal \"Subah ka Sitara\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Morning Star\" Venus Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morning star\" iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "venus iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"subah ka sitara\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 22
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 2 · ch.22\\nverse · 7¶ · 108w · vocab 49 (TTR 86%, hapax 88%)\\n\\n## Distinctive trigrams\\n\\\"morning star morning\\\" · \\\"star morn"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 21
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.21\\nverse · 9¶ · 171w · vocab 81 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"star moon fear\\\" · \\\"moon fear peril\\\" "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 22,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.22 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 22,
+        "paragraph_ids": [
+          "p-45216b",
+          "p-eb2ea6",
+          "p-15f459",
+          "p-9ed297",
+          "p-b6423f",
+          "p-ae85fc",
+          "p-0844ec"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 7 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 22,
+        "paragraph_range": {
+          "start": 0,
+          "end": 6
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 7 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 22,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.22 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 22,
+      "paragraph_id": "p-eb2ea6"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 22,
+      "paragraph_id": "p-9ed297"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 22,
+      "paragraph_id": "p-b6423f"
+    }
+  ],
+  "duration_ms": 52572,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 33194,
+    "completion_tokens": 4309,
+    "total_tokens": 37503,
+    "cached_tokens": 18853,
+    "api_calls": 6,
+    "cost_usd": 0.0059653499999999995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1908,
+        "completion_tokens": 394,
+        "total_tokens": 2302,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0002963
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2447,
+        "completion_tokens": 726,
+        "total_tokens": 3173,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00057025
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4749,
+        "completion_tokens": 401,
+        "total_tokens": 5150,
+        "cached_tokens": 2442,
+        "cost_usd": 0.000784
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "read_wiki"
+        ],
+        "prompt_tokens": 7217,
+        "completion_tokens": 343,
+        "total_tokens": 7560,
+        "cached_tokens": 4744,
+        "cost_usd": 0.0009033
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 7759,
+        "completion_tokens": 1100,
+        "total_tokens": 8859,
+        "cached_tokens": 150,
+        "cost_usd": 0.0020793
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 9114,
+        "completion_tokens": 1345,
+        "total_tokens": 10459,
+        "cached_tokens": 7754,
+        "cost_usd": 0.0013322
+      }
+    ]
+  }
+}

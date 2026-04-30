@@ -1,0 +1,196 @@
+{
+  "answer": "In *Andreas*, the evangelical strategy centers on the apostle Andrew's heroic endurance of prolonged public torture by the cannibalistic Mermedonians (explicitly called \"heathens\"), which showcases divine invulnerability and culminates in cataclysmic miracles that coerce mass conversion.[^1] Andrew is bound, scourged for three days across the city streets, and left in a prison, yet emerges unscathed by God's intervention; this spectacle terrifies the pagans, who then witness a divinely induced flood that drowns the worst offenders while sparing others, followed by resurrections and baptisms.[^2] The devil himself confronts Andrew but flees, underscoring supernatural dominance; the survivors, gripped by fear (\"Then became afraid, fearful-hearted, many of the folk\"), repent en masse, abandon idols, and receive baptism, with Andrew establishing a church.[^3] This is a strategy of *demonstration through suffering and retribution*: raw power display breaks pagan resistance violently.\n\nIn *Elene*, by contrast, Queen Elene (Helena) employs an inquisitorial approach against Jewish scholars (not pagans per se, but scriptural adversaries), using royal authority, persistent scriptural debate, and targeted coercion to extract the True Cross's location, leading to voluntary revelation and relic-based conversion.[^4] Elene summons and cross-examines Jewish leaders repeatedly, citing prophets (Moses, David, Isaiah) to expose their rejection of Christ; when they stonewall, she imprisons the key figure Judas without food for seven days until he prays for a sign (smoke reveals the site), locates the Cross (identified by a resurrection miracle), and converts.[^5] Judas (renamed Cyriacus) becomes bishop, nails are found via fire-sign, and Jews/others convert amid the relic's veneration, with a church built on Calvary.[^6] This is a strategy of *interrogation, compulsion, and relic authentication*: intellectual pressure and personal torment yield confessional faith, emphasizing historical/scriptural proof over brute force.\n\nThe core difference lies in mode and agents: *Andreas* is apostolic/martyrdom-driven, pagan-confrontational via overwhelming miracles and punishment (heroic Old English style); *Elene* is queenly/Jewish-dialogic, relic-focused via questioning and ordeal (more investigative).[^7]\n\n[^1]: *Andreas*, ch. 1 (/works/cynewulf-andreas-07b573/01/translation/#p-34b202).\n[^2]: *Andreas*, ch. 1 (/works/cynewulf-andreas-07b573/01/translation/#p-2e50c1).\n[^3]: *Andreas*, ch. 1 (/works/cynewulf-andreas-07b573/01/translation/#p-0609a7).\n[^4]: *Elene*, ch. 1 (/works/cynewulf-elene-d2d132/01/translation/#p-7b1c1f).\n[^5]: *Elene*, ch. 1 (/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n[^6]: *Elene*, ch. 1 (/works/cynewulf-elene-d2d132/01/translation/).\n[^7]: Works are statistically nearest neighbors (cosine 0.55); compare via shared motifs like speech (\"spoke word\") but divergent trigrams (\"andreas gave answer\" vs. \"elene spoke earls\").",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "cynewulf-andreas-07b573",
+        "work_slug_b": "cynewulf-elene-d2d132",
+        "topic": "saint vs pagan confrontations"
+      },
+      "result_summary": "{\"topic\":\"saint vs pagan confrontations\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"cynewulf-andreas-07b573\",\"ti"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "cynewulf-andreas-07b573",
+        "work_slug_b": "cynewulf-elene-d2d132",
+        "topic": "evangelical strategy"
+      },
+      "result_summary": "{\"topic\":\"evangelical strategy\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"cynewulf-andreas-07b573\",\"title\":\"And"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pagan\" OR \"heathen\" OR \"convert\" OR \"conversion\" cynewulf",
+        "limit": 20
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"convert\" OR \"conversion\" OR \"baptism\" OR \"baptized\" OR \"heathen\" OR \"pagan\" OR \"idol\" OR \"Jewish\" OR \"Jew\" OR \"Hebrews\" Andreas Elene",
+        "limit": 20
+      },
+      "result_summary": "Found 7 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-34b202"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-2e50c1"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-0609a7"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-7b1c1f"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    }
+  ],
+  "duration_ms": 44171,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 74683,
+    "completion_tokens": 3218,
+    "total_tokens": 77901,
+    "cached_tokens": 36234,
+    "api_calls": 5,
+    "cost_usd": 0.011110499999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1914,
+        "completion_tokens": 568,
+        "total_tokens": 2482,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00038465
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2259,
+        "completion_tokens": 545,
+        "total_tokens": 2804,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00044215
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "compare_works",
+          "compare_works"
+        ],
+        "prompt_tokens": 3421,
+        "completion_tokens": 497,
+        "total_tokens": 3918,
+        "cached_tokens": 2254,
+        "cost_usd": 0.0005946
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "read_wiki_full",
+          "read_wiki_full",
+          "read_chapter"
+        ],
+        "prompt_tokens": 26807,
+        "completion_tokens": 311,
+        "total_tokens": 27118,
+        "cached_tokens": 3416,
+        "cost_usd": 0.0050045
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 40282,
+        "completion_tokens": 1297,
+        "total_tokens": 41579,
+        "cached_tokens": 26802,
+        "cost_usd": 0.0046846
+      }
+    ]
+  }
+}

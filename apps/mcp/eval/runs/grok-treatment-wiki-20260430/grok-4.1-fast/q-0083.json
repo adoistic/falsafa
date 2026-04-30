@@ -1,0 +1,187 @@
+{
+  "answer": "**Chapter 5 of the Viṣṇu Smṛti prescribes punishments for a wide range of offenses, including specific penalties for Brahmins who commit theft.**\n\nFor a Brahmin (*Brāhmaṇa*) guilty of the five great sins (*mahāpātaka*), there is no corporal punishment—instead, branding and banishment from the country.[^1] The specific mark for theft is \"the mark of a dog's foot.\"[^2]\n\nLater in the same chapter, more general theft punishments are detailed (e.g., fines scaled by item value, or amputation for large thefts of gold/clothes), but these apply after restoration of stolen property and do not override the Brahmin-specific rules above.[^3]\n\nNo other chapters in the work address this directly based on wiki scans and corpus searches.\n\n[^1]: [Paragraph](/works/unknown-visnu-smrti-27f0d8/05/translation/#p-583b27).\n[^2]: [Paragraph](/works/unknown-visnu-smrti-27f0d8/05/translation/#p-8d4644).\n[^3]: [Chapter](/works/unknown-visnu-smrti-27f0d8/05/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Visnu Smriti Brahmin theft punishment",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmin\" theft punishment",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahmin\" theft OR steal OR stealing OR \"steals\" OR thief OR \"thief\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmana\" punishment theft",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.5\\nverse · 198¶ · 3105w · vocab 726 (TTR 47%, hapax 74%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement vi_5\\\" · \\\"fined high"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 44
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.44\\nverse · 45¶ · 478w · vocab 150 (TTR 64%, hapax 87%)\\n\\n## Distinctive trigrams\\n\\\"animals vi_44 committed\\\" · \\\"great sinne"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Vi\" OR \"Vishnu\" OR \"Viṣṇu\" \"Brahmin\" OR \"Brāhmana\" OR \"Brāhmaṇa\" theft OR steal OR thief",
+        "limit": 10
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of unknown-visnu-smrti-27f0d8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-583b27"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-8d4644"
+    }
+  ],
+  "duration_ms": 24282,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 46245,
+    "completion_tokens": 2479,
+    "total_tokens": 48724,
+    "cached_tokens": 13633,
+    "api_calls": 5,
+    "cost_usd": 0.008443550000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 658,
+        "total_tokens": 2564,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00042775
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2197,
+        "completion_tokens": 410,
+        "total_tokens": 2607,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00036225
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7532,
+        "completion_tokens": 536,
+        "total_tokens": 8068,
+        "cached_tokens": 2192,
+        "cost_usd": 0.0014456
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 13856,
+        "completion_tokens": 314,
+        "total_tokens": 14170,
+        "cached_tokens": 7527,
+        "cost_usd": 0.00179915
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 20754,
+        "completion_tokens": 561,
+        "total_tokens": 21315,
+        "cached_tokens": 150,
+        "cost_usd": 0.0044088
+      }
+    ]
+  }
+}

@@ -1,0 +1,179 @@
+{
+  "answer": "The poem is **Insaan** (Chapter 14) from Allama Iqbal's *Bang-E-Dara Part 2*.[^1]\n\nIt portrays humanity as an \"Enigma apart, / And hide that Enigma from his own gaze,\" contrasting this with self-knowing elements of nature: rivers surging to the ocean, winds bearing clouds, stars reveling in their fated orbits, and the sun that \"hides behind the western mountain’s crest, / And drinks the cup of twilight, and finds rest.\"[^2][^3]\n\nThe closing couplet laments:  \n\"There is no one to share the sorrow of Man;  \nHow bitter is the existence of Man!\"[^4]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, [Chapter 14: Insaan](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 2*, [Chapter 14: Insaan](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/#p-d7ec8e).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 2*, [Chapter 14: Insaan](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/#p-edc3e3).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 2*, [Chapter 14: Insaan](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/#p-62d764).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hidden from his own gaze"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "drinks the cup of twilight"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "riddle hidden"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bitterness of human existence"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "self-content rivers"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 14-insaan.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-2-9bc58c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14
+      },
+      "result_summary": "Read ch.14 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"riddle\" human"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14,
+        "paragraph_ids": [
+          "p-62d764"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14,
+        "paragraph_ids": [
+          "p-d7ec8e"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14,
+        "paragraph_ids": [
+          "p-edc3e3"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-d7ec8e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-edc3e3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 14,
+      "paragraph_id": "p-62d764"
+    }
+  ],
+  "duration_ms": 20658,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 11093,
+    "completion_tokens": 2049,
+    "total_tokens": 13142,
+    "cached_tokens": 7505,
+    "api_calls": 4,
+    "cost_usd": 0.0021173499999999996,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1954,
+        "completion_tokens": 377,
+        "total_tokens": 2331,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005568
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2338,
+        "completion_tokens": 330,
+        "total_tokens": 2668,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00035045
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3146,
+        "completion_tokens": 579,
+        "total_tokens": 3725,
+        "cached_tokens": 2333,
+        "cost_usd": 0.00056875
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 3655,
+        "completion_tokens": 763,
+        "total_tokens": 4418,
+        "cached_tokens": 3141,
+        "cost_usd": 0.00064135
+      }
+    ]
+  }
+}

@@ -1,0 +1,160 @@
+{
+  "answer": "In Allama Iqbal's poem \"Ram\" from *Bang-E-Dara Part 3*, the figure of Ram is celebrated as a profound symbol of India's (Hind's) spiritual and intellectual heritage. Iqbal portrays him not merely as a mythological hero from the *Ramayana*, but as a \"Spiritual Guide\" for Hindustan, evoking national pride and elevating Indian thought above even Western philosophy.[^1] Ram is depicted as a \"great Lamp of Light\" whose legacy makes \"the dusk of Hind... than the dawn itself more bright,\" suggesting a timeless, transcendent wisdom born in India's domain alongside many other enlightened souls.[^2] He is praised for his peerless valor in battle (\"courage... peerless shown\") and inner purity (\"soul... peerless known\"), embodying both martial prowess and a \"loving fire.\"[^3]\n\nThe poem frames Ram within a broader exaltation of Hindustan's philosophical chalice \"crowned\" with the \"Wine of Truth,\" which binds even Western thinkers, positioning Ram as its pinnacle.[^4]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, [\"Ram\"](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/17-ram/translation/#p-f8aace).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, [\"Ram\"](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/17-ram/translation/#p-55f8c1).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, [\"Ram\"](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/17-ram/translation/#p-567e82).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, [Chapter: \"Ram\"](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/17-ram/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 17
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 17-ram.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 17,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 17,
+        "paragraph_ids": [
+          "p-31f356",
+          "p-5c076b",
+          "p-8c5b7d",
+          "p-f8aace",
+          "p-55f8c1",
+          "p-567e82"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 17,
+      "paragraph_id": "p-f8aace"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 17,
+      "paragraph_id": "p-55f8c1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 17,
+      "paragraph_id": "p-567e82"
+    }
+  ],
+  "duration_ms": 24769,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 23826,
+    "completion_tokens": 2566,
+    "total_tokens": 26392,
+    "cached_tokens": 17827,
+    "api_calls": 6,
+    "cost_usd": 0.0033741500000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1912,
+        "completion_tokens": 230,
+        "total_tokens": 2142,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0002151
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2315,
+        "completion_tokens": 132,
+        "total_tokens": 2447,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0002467
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters"
+        ],
+        "prompt_tokens": 3962,
+        "completion_tokens": 163,
+        "total_tokens": 4125,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008514
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4713,
+        "completion_tokens": 189,
+        "total_tokens": 4902,
+        "cached_tokens": 3957,
+        "cost_usd": 0.00044355
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 5253,
+        "completion_tokens": 572,
+        "total_tokens": 5825,
+        "cached_tokens": 4708,
+        "cost_usd": 0.0006304
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 5671,
+        "completion_tokens": 1280,
+        "total_tokens": 6951,
+        "cached_tokens": 5248,
+        "cost_usd": 0.000987
+      }
+    ]
+  }
+}

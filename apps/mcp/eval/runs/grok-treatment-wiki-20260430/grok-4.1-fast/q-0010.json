@@ -1,0 +1,147 @@
+{
+  "answer": "**Iqbal's \"Bachay ki Dua\" (\"A Child's Prayer\")** is a short poem from chapter 16 of *Bang-E-Dara Part 1* (1924), where a child addresses God with aspirations for a selfless, illuminating, and devoted life.[^1]\n\nHere is the English translation in full:\n\n> [p-a0420d] A Child's Prayer  \n>   \n> [p-28b7ba] My deepest longing comes to my lips as a prayer:  \n> O God, may my life be like a candle's flare.  \n>   \n> [p-4bb8de] May my life's spark dispel the darkness of the world,  \n> May my shining light in every place be unfurled.  \n>   \n> [p-b049bf] May I become my homeland's grace and pride,  \n> Like a flower that adorns the garden-side.  \n>   \n> [p-01b332] O Lord, let my life be a moth's in its desire,  \n> To love the candle of knowledge, and draw ever nigher.  \n>   \n> [p-877b09] Let my life's work be to champion the poor,  \n> To love the weak, and those who sorrow endure.  \n>   \n> [p-39abc8] My God! Protect me from all that is wrong,  \n> And guide me on the righteous path, where I belong.[^1]\n\n### What is the child praying for?\nThe child prays for a life of **selfless service and enlightenment**, likened to a candle that burns to dispel the world's darkness and spread light everywhere.[^2] Specifically:\n- To bring **honor to the homeland**, like a flower beautifying a garden.[^3]\n- A **passionate pursuit of knowledge**, like a moth drawn to a candle's flame.[^4]\n- Dedication to **champion the poor and love the weak**.[^5]\n- **Divine protection from evil** and guidance on the righteous path.[^6]\n\nIqbal uses simple yet profound imagery—candle, moth, flower—to evoke Islamic ideals of *khidmat* (service), *ilm* (knowledge), and moral purity.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 16 \"Bachay Ki Dua\" (translation), [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/).\n[^2]: Ibid., [p-28b7ba](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-28b7ba) and [p-4bb8de](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-4bb8de).\n[^3]: Ibid., [p-b049bf](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-b049bf).\n[^4]: Ibid., [p-01b332](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-01b332).\n[^5]: Ibid., [p-877b09](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-877b09).\n[^6]: Ibid., [p-39abc8](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-39abc8).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bachay ki Dua",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"child's prayer\" Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 16-bachay-ki-dua.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-a0420d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-28b7ba"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-4bb8de"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-b049bf"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-01b332"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-877b09"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 16,
+      "paragraph_id": "p-39abc8"
+    }
+  ],
+  "duration_ms": 21460,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 8993,
+    "completion_tokens": 2244,
+    "total_tokens": 11237,
+    "cached_tokens": 6521,
+    "api_calls": 3,
+    "cost_usd": 0.00194245,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 396,
+        "total_tokens": 2301,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00029685
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2764,
+        "completion_tokens": 343,
+        "total_tokens": 3107,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00044215
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 4324,
+        "completion_tokens": 1505,
+        "total_tokens": 5829,
+        "cached_tokens": 2759,
+        "cost_usd": 0.00120345
+      }
+    ]
+  }
+}

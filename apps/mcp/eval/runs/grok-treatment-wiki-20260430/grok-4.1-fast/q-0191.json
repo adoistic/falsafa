@@ -1,0 +1,173 @@
+{
+  "answer": "**The detailed rules for ritual impurity (*āśauca* or *sūtaka*) following birth and death appear primarily in *Manusmṛti* chapter 5 (verses 57–116), with some continuation of purification topics into chapter 6.**[^1][^2]\n\nChapter 5 begins its discussion of these periods after addressing food prohibitions (e.g., avoiding food from a house \"under impurity from childbirth\" at [p-7851cc]).[^3] Bhrigu introduces the topic as follows:\n\n> I will now declare the purification after a death, and likewise the purification of things, for all four *varṇas*, according to the rule and in due order.[^4]\n\nKey rules include:\n\n- All kinsmen (*sapiṇḍas*) observe impurity for deaths of children (with teeth, post-first-born, or post-tonsure), **and equivalently for births (*sūtaka*)**.[^5]\n- Standard period for *sapiṇḍas* after death: **10 days**; reducible to 3 days (post-bone collection) or 1 day.[^6]\n- Birth impurity mirrors death impurity for those seeking perfect purity; mother observes *sūtaka*, father purifies by water-touch (3 days recommended due to seed-connection).[^7]\n- Graded by *varṇa* (for corpse-bearers or standard sapinda impurity): **Brāhmaṇa: 10 days; Kṣatriya: 12 days; Vaiśya: 15 days; Śūdra: 1 month**.[^8]\n- Shorter for distant news (remainder of 10 days if <10 elapsed; 3 nights if >10 days; water-touch if >1 year).[^9]\n- Miscarriage: nights equal to pregnancy months.[^10]\n- Menstruation: bathing after flow ceases.[^11]\n\nFull context requires reading verses 57–92 (death/birth) and 93–116 (special cases, objects). The wiki card flags chapter 5 signatures like *śāvam āśaucaṃ sapiṇḍeṣu* (\"corpse-impurity for sapindas\"), confirming focus here.[^12]\n\n[^1]: *Manusmṛti*, chapter 5, [/works/unknown-manusmrti-347b76/05/translation/](https://falsafa.corpus/works/unknown-manusmrti-347b76/05/translation/).\n\n[^2]: *Manusmṛti*, chapter 6 (continues purifications Mn 5.105ff.), [/works/unknown-manusmrti-347b76/06/translation/](https://falsafa.corpus/works/unknown-manusmrti-347b76/06/translation/).\n\n[^3]: *Manusmṛti* 5 (= Mn_4.212[213M]), [p-7851cc](/works/unknown-manusmrti-347b76/05/translation/#p-7851cc).\n\n[^4]: *Manusmṛti* 5.57 (Mn_5.57), chapter 5.\n\n[^5]: *Manusmṛti* 5.58 (Mn_5.58), [p-89d810](/works/unknown-manusmrti-347b76/06/translation/#p-89d810) (corpus places late ch.5 verses early in ch.6 body).\n\n[^6]: *Manusmṛti* 5.59 (Mn_5.59).\n\n[^7]: *Manusmṛti* 5.60–63 (Mn_5.60–63).\n\n[^8]: *Manusmṛti* 5.83 (Mn_5.83).\n\n[^9]: *Manusmṛti* 5.75–78 (Mn_5.75–78).\n\n[^10]: *Manusmṛti* 5.66 (Mn_5.66).\n\n[^11]: *Manusmṛti* 5.66 (Mn_5.66).\n\n[^12]: Wiki card, *Manusmṛti* ch.5, [\"āśaucaṃ sapiṇḍeṣu vidhīyate\"](/works/unknown-manusmrti-347b76/wiki/05.card.md).",
+  "tool_calls": [
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "manusmriti"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: manusmriti"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "manusmriti",
+        "chapter_number": 5
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: manusmriti"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "impurity period after birth death Manu"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti chapter 5 impurity birth death"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.5\\nverse · 106¶ · 3213w · vocab 848 (TTR 51%, hapax 72%)\\n\\n## Distinctive trigrams\\n\\\"heron mode life\\\" · \\\"brahmana never eat\\\" ·"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of unknown-manusmrti-347b76 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-7851cc"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-89d810"
+    }
+  ],
+  "duration_ms": 69871,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 62683,
+    "completion_tokens": 6463,
+    "total_tokens": 69146,
+    "cached_tokens": 33267,
+    "api_calls": 5,
+    "cost_usd": 0.01077805,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 657,
+        "total_tokens": 2564,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004276
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_works"
+        ],
+        "prompt_tokens": 2068,
+        "completion_tokens": 172,
+        "total_tokens": 2240,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00021745
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12936,
+        "completion_tokens": 563,
+        "total_tokens": 13499,
+        "cached_tokens": 2063,
+        "cost_usd": 0.00255925
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 14515,
+        "completion_tokens": 504,
+        "total_tokens": 15019,
+        "cached_tokens": 12931,
+        "cost_usd": 0.00121535
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 31257,
+        "completion_tokens": 4567,
+        "total_tokens": 35824,
+        "cached_tokens": 14510,
+        "cost_usd": 0.0063584
+      }
+    ]
+  }
+}

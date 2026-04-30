@@ -1,0 +1,202 @@
+{
+  "answer": "In Allama Iqbal's poem \"Kinaar-e-Ravi\" (*Bang-E-Dara Part 1*, ch. 28), the speaker stands at the Ravi riverbank during a silent evening, where the river's song evokes a profound, ineffable emotional state that transcends ordinary awareness.[^1] He experiences a mystical disorientation—\"I stand beside the flowing river's shore, / But where I am, I know not anymore\"—transforming the world into a sacred precinct that prompts prayer.[^2]\n\nThe reflections encompass:\n- **The enchanting evening scene**: The sunset paints the land with a \"wine\"-stained glow; the day flees like a caravan, scattering \"flowers of the sun\"; the aged sky trembles with a cup.[^3]\n- **Historical transience**: Distant minarets mark the \"Chughtai king's last sleep\"; a ruined palace embodies \"time's tyrannical decree\" and serves as a \"book from a lost history.\"[^4]\n- **Silent holiness**: The landscape feels like \"music without sound,\" with trees gathered on \"holy ground.\"[^5]\n- **Life's eternal journey**: A swift boat battles waves and vanishes from sight, symbolizing human life: \"The vessel of a human life thus sails the sea, / Appearing and then lost in all eternity. / It never knows defeat, nor does its journey finish, / It vanishes from sight, but it does not perish.\"[^6]\n\n[^1]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-70a0dc/\n[^2]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-7ee613/\n[^3]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-04d031/\n[^4]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-29acb7/\n[^5]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-ef39bd/\n[^6]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-098157/",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kinaar-e-Ravi",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Iqbal\" Ravi",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 28-kinaar-e-ravi.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.28 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "paragraph_ids": [
+          "p-70a0dc",
+          "p-e68501",
+          "p-7ee613",
+          "p-04d031",
+          "p-6109d1",
+          "p-29acb7",
+          "p-6b8789",
+          "p-ef39bd",
+          "p-8c38f2",
+          "p-ad52bd",
+          "p-098157",
+          "p-1c94bb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 12 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "paragraph_range": {
+          "start": 0,
+          "end": 11
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 12 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-70a0dc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-7ee613"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-04d031"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-29acb7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-ef39bd"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-098157"
+    }
+  ],
+  "duration_ms": 40918,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 21356,
+    "completion_tokens": 3662,
+    "total_tokens": 25018,
+    "cached_tokens": 15004,
+    "api_calls": 5,
+    "cost_usd": 0.0038516,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1908,
+        "completion_tokens": 568,
+        "total_tokens": 2476,
+        "cached_tokens": 1885,
+        "cost_usd": 0.00038285
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3413,
+        "completion_tokens": 282,
+        "total_tokens": 3695,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008011
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4411,
+        "completion_tokens": 312,
+        "total_tokens": 4723,
+        "cached_tokens": 3408,
+        "cost_usd": 0.000527
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 5160,
+        "completion_tokens": 959,
+        "total_tokens": 6119,
+        "cached_tokens": 4406,
+        "cost_usd": 0.0008506
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 6464,
+        "completion_tokens": 1541,
+        "total_tokens": 8005,
+        "cached_tokens": 5155,
+        "cost_usd": 0.00129005
+      }
+    ]
+  }
+}

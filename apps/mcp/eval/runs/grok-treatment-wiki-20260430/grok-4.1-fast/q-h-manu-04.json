@@ -1,0 +1,135 @@
+{
+  "answer": "**Manusmṛti (Laws of Manu), Chapter 8.**\n\nThis ancient Hindu legal text prescribes graduated penalties for theft according to the fourfold social order (*varnas*), with the fine (or \"guilt\") scaling upward: eightfold for a Shudra (the lowest order), sixteenfold for a Vaishya (the merchant/farmer class), thirty-twofold for a Kshatriya (the warrior class), and sixty-fourfold (or a full hundred, or even twice sixty-four) for a Brahmana (the priestly class). The heightened penalty for the Brahmana is explicitly justified because \"he is a knower of the good and bad qualities of that act.\"[^1][^2]\n\n[^1]: Manusmṛti, *Chapter 8*, [p-fc6559](/works/unknown-manusmrti-347b76/08/translation/#p-fc6559).\n[^2]: Manusmṛti, *Chapter 8*, [p-30e5e8](/works/unknown-manusmrti-347b76/08/translation/#p-30e5e8).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "knower of the good and bad qualities"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eightfold\" \"sixteenfold\" theft"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"thirty-twofold\" \"sixty-fourfold\" theft"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.8\\nverse · 381¶ · 16882w · vocab 2625 (TTR 32%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"made pay fine\\\" · \\\"fine two hundred\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sixty-fourfold\" priest"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-fc6559",
+          "p-30e5e8"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-fc6559"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-30e5e8"
+    }
+  ],
+  "duration_ms": 23383,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 81154,
+    "completion_tokens": 1944,
+    "total_tokens": 83098,
+    "cached_tokens": 42632,
+    "api_calls": 4,
+    "cost_usd": 0.010808,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1967,
+        "completion_tokens": 424,
+        "total_tokens": 2391,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005829
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2277,
+        "completion_tokens": 313,
+        "total_tokens": 2590,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00032945
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 38332,
+        "completion_tokens": 470,
+        "total_tokens": 38802,
+        "cached_tokens": 2272,
+        "cost_usd": 0.0075606
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 38578,
+        "completion_tokens": 737,
+        "total_tokens": 39315,
+        "cached_tokens": 38327,
+        "cost_usd": 0.00233505
+      }
+    ]
+  }
+}

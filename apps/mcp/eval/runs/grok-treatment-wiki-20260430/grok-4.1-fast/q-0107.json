@@ -1,0 +1,276 @@
+{
+  "answer": "**Chapter 25 of the *Viṣṇu Smṛti* outlines the duties (*dharmāḥ*) of women (*strīṇāṃ*), including a specific prescription for a widow.**[^1]\n\nThe chapter opens:  \n> Now, the duties of women.[^2]\n\nIt lists general duties such as:  \n> To follow the same vows as her husband;  \n> To honor her mother-in-law, father-in-law, preceptor, deities, and guests;  \n> To keep her household utensils well-ordered;  \n> Not to be open-handed;  \n> To keep her vessels well-guarded;  \n> Not to be fond of black magic;  \n> To be devoted to auspicious practices;  \n> When her husband is away, not to adorn herself;  \n> Not to go to others' houses;  \n> Not to stand at the door or in windows;  \n> Not to be independent in any act;  \n> To be dependent on her father, husband, or son, in childhood, youth, and old age.[^3]\n\nSpecifically on widowhood:  \n> When her husband is dead, to practice chastity or to ascend the funeral pyre after him.[^4]\n\nThe chapter concludes:  \n> A virtuous woman who, after her husband's death, remains established in chastity,  \n> Goes to heaven, even if she is sonless, like those who are celibate students.[^5]\n\n> For women there is no separate sacrifice, no vow, nor any fast;  \n> The husband whom she serves, by that she is glorified in heaven.[^6]\n\nNo other chapters in the *Viṣṇu Smṛti* provide additional details on widow duties (e.g., no extended rules on maintenance, remarriage, or rituals specific to widows beyond chastity/sati). Chapter 17 touches on inheritance rights (\"The property of a man without a son goes to his wife\"), but not duties.[^7]\n\n[^1]: *Viṣṇu Smṛti*, [Chapter 25](/works/unknown-visnu-smrti-27f0d8/25/translation/).\n[^2]: *Viṣṇu Smṛti* 25.1, [paragraph](/works/unknown-visnu-smrti-27f0d8/25/translation/#p-ad271e).\n[^3]: *Viṣṇu Smṛti* 25.2–13, [paragraphs](/works/unknown-visnu-smrti-27f0d8/25/translation/#p-08c81d)–[p-19ce4e).\n[^4]: *Viṣṇu Smṛti* 25.14, [paragraph](/works/unknown-visnu-smrti-27f0d8/25/translation/#p-87f023).\n[^5]: *Viṣṇu Smṛti* 25.17, [paragraph](/works/unknown-visnu-smrti-27f0d8/25/translation/#p-ca9662).\n[^6]: *Viṣṇu Smṛti* 25.15–16, [paragraphs](/works/unknown-visnu-smrti-27f0d8/25/translation/#p-dcb8f8)–[p-cf077c).\n[^7]: *Viṣṇu Smṛti* 17.4, [Chapter 17](/works/unknown-visnu-smrti-27f0d8/17/translation/#p-5b71a3).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Visnu Smriti widow",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duties\" widow wife",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "widow",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wife",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 25
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.25\\nverse · 18¶ · 239w · vocab 76 (TTR 69%, hapax 86%)\\n\\n## Distinctive trigrams\\n\\\"**vishnu smriti 25**\\\" · \\\"smriti 25** dut"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 26
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Viṣṇu Smṛti · ch.26\\nverse · 8¶ · 176w · vocab 55 (TTR 72%, hapax 76%)\\n\\n## Distinctive trigrams\\n\\\"twice-born man never\\\" · \\\"**vishnu smri"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 37
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.37\\nverse · 36¶ · 352w · vocab 115 (TTR 67%, hapax 87%)\\n\\n## Distinctive trigrams\\n\\\"**vishnu smriti 37**\\\" · \\\"smriti 37** sp"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 17
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.17\\nverse · 24¶ · 415w · vocab 91 (TTR 46%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"vi_17 his absence\\\" · \\\"his absence goes\\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vidhavā"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"no remarriage\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "chaste"
+      },
+      "result_summary": "Found 25 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 25
+      },
+      "result_summary": "Read ch.25 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.6\\nverse · 44¶ · 766w · vocab 186 (TTR 53%, hapax 75%)\\n\\n## Distinctive trigrams\\n\\\"need pay debt\\\" · \\\"pay debt incurred\\\" · "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 17
+      },
+      "result_summary": "Read ch.17 of unknown-visnu-smrti-27f0d8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 17,
+      "paragraph_id": "p-ad271e"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 17,
+      "paragraph_id": "p-08c81d"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 17,
+      "paragraph_id": "p-19ce4e"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 17,
+      "paragraph_id": "p-87f023"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 17,
+      "paragraph_id": "p-ca9662"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 17,
+      "paragraph_id": "p-dcb8f8"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 17,
+      "paragraph_id": "p-cf077c"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 17,
+      "paragraph_id": "p-5b71a3"
+    }
+  ],
+  "duration_ms": 46775,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 53342,
+    "completion_tokens": 4872,
+    "total_tokens": 58214,
+    "cached_tokens": 23842,
+    "api_calls": 5,
+    "cost_usd": 0.0095281,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 1032,
+        "total_tokens": 2938,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00061475
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2943,
+        "completion_tokens": 337,
+        "total_tokens": 3280,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00047465
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12107,
+        "completion_tokens": 1480,
+        "total_tokens": 13587,
+        "cached_tokens": 2938,
+        "cost_usd": 0.0027207
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16993,
+        "completion_tokens": 394,
+        "total_tokens": 17387,
+        "cached_tokens": 150,
+        "cost_usd": 0.0035731
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 19393,
+        "completion_tokens": 1629,
+        "total_tokens": 21022,
+        "cached_tokens": 16988,
+        "cost_usd": 0.0021449
+      }
+    ]
+  }
+}

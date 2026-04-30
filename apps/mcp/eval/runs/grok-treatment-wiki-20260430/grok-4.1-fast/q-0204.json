@@ -1,0 +1,433 @@
+{
+  "answer": "**Manusmṛti (Manu)** places its discussion of the king's ministers squarely in *Chapter 7* (\"The Dharma of Kings\"), as part of the foundational duties of rulership, immediately after instructions on the king's personal conduct and the role of *daṇḍa* (punishment). Manu specifies that the king **should appoint seven or eight ministers** (amātyas), who must be hereditary, learned in the sacred treatises, brave, skilled in arms, of noble birth, and well-tested.[^1] These ministers deliberate collectively with the king on peace and war, his position, revenue, protection of the realm, and pacification of conquests; the king consults them individually and as a group before acting.[^2] Manu emphasizes a special Brahmin among them for \"supreme counsel\" on the six political expedients (*saḍguṇya*: peace, war, etc.).[^3]\n\n**Yājñavalkya Smṛti** addresses the king's ministers toward the end of *Chapter 1* (\"Conduct\" or *ācāra*), within the subsection on \"The Duties of a King\" (*rājadharmaprakaraṇam*), after household duties and rites but before legal procedure. It instructs the king to **appoint ministers** (amātyas) who are wise (*medhāvī*), hereditary, steadfast (*sthira*), and pure (*śuci*); the king deliberates state matters first with them, then privately with a Brahmin, and finally alone.[^4] Yājñavalkya adds that the king **should appoint a family priest (purohita)** who is an expert astrologer of noble lineage, skilled in governance (*daṇḍanīti*) and Atharvāṅgirasa lore.[^5]\n\n**Viṣṇu Smṛti** treats the topic in *Chapter 3* (explicitly on *rājadharma*, \"the duties of a king\"), amid instructions on administrative structure, taxation, and protection. It does not specify a fixed number or term \"ministers,\" but directs the king to **appoint assistants in all affairs** who are pure, not greedy, attentive, and endowed with energy.[^6] Specialized appointees include men of piety for pious duties, the skilled for finances, the brave for military affairs, the fierce for harsh deeds, and eunuchs for women's quarters.[^7]\n\n### Key Differences in Qualifications\n| Text          | Number/Type                  | Qualifications Listed                                                                 |\n|---------------|------------------------------|---------------------------------------------------------------------------------------|\n| **Manu**     | 7–8 ministers (+ special Brahmin) | Hereditary; learned in sacred treatises; brave; skilled in arms; noble birth; well-tested. Emphasis: martial prowess, testing, learning. |\n| **Yājñavalkya** | Unspecified number of ministers (+ purohita) | Wise; hereditary; steadfast; pure (+ for purohita: noble lineage; astrologer; governance/Atharvāṅgirasa expert). Emphasis: wisdom, purity, specialized priestly role. |\n| **Viṣṇu**    | Assistants/appointees (no fixed number; role-based) | Pure; not greedy; attentive; energetic (+ specialized: pious, skilled, brave, fierce, eunuchs). Emphasis: task-specific traits, anti-corruption. |\n\nManu prioritizes a small, elite, battle-ready council with Vedic learning; Yājñavalkya stresses intellectual and moral steadfastness alongside a ritual/governance expert; Viṣṇu functionalizes appointments by role, focusing on purity and vigor without a core \"minister\" cadre. All underscore collective deliberation, but Manu is most detailed on process.[^8]\n\n[^1]: Manusmṛti, [Chapter 7, p-0952cb](/works/unknown-manusmrti-347b76/07/translation/#p-0952cb).\n[^2]: Manusmṛti, [Chapter 7, paragraphs 55–57](/works/unknown-manusmrti-347b76/07/translation/#p-71fbb1).\n[^3]: Manusmṛti, [Chapter 7, paragraphs 57–59](/works/unknown-manusmrti-347b76/07/translation/#p-f97967).\n[^4]: Yājñavalkya Smṛti, [Chapter 1, p-806dcc](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-806dcc).\n[^5]: Yājñavalkya Smṛti, [Chapter 1, p-4df28b](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-4df28b).\n[^6]: Viṣṇu Smṛti, [Chapter 3, p-08a9bd](/works/unknown-visnu-smrti-27f0d8/03/translation/#p-08a9bd).\n[^7]: Viṣṇu Smṛti, [Chapter 3, p-3d31b2](/works/unknown-visnu-smrti-27f0d8/03/translation/#p-3d31b2).\n[^8]: Full chapters: [Manusmṛti Ch. 7](/works/unknown-manusmrti-347b76/07/translation/), [Yājñavalkya Ch. 1](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/), [Viṣṇu Ch. 3](/works/unknown-visnu-smrti-27f0d8/03/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king's ministers",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king ministers",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ministers\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"counsellor\" OR \"counselors\" OR \"minister\" OR \"amatya\" king",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.3\\nverse · 99¶ · 1569w · vocab 391 (TTR 53%, hapax 75%)\\n\\n## Distinctive trigrams\\n\\\"villages vi_3 superintendents\\\" · \\\"unabl"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"minister\" OR \"counselor\" OR \"counsellor\" OR \"amatya\" OR \"mantri\" OR \"purohit\" king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" \"counsellor\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" \"minister\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" \"council\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "limit": 20
+      },
+      "result_summary": "Found 19 related"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "seven OR eight ministers OR counsellors OR council king",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-0952cb",
+          "p-71fbb1",
+          "p-b0604b"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-806dcc",
+          "p-4df28b"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-08a9bd",
+          "p-3d31b2"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_range": {
+          "start": 53,
+          "end": 58
+        }
+      },
+      "result_summary": "Returned 6 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-0952cb"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-71fbb1"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-f97967"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-806dcc"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-4df28b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-08a9bd"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-3d31b2"
+    }
+  ],
+  "duration_ms": 78254,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 149509,
+    "completion_tokens": 7538,
+    "total_tokens": 157047,
+    "cached_tokens": 97378,
+    "api_calls": 7,
+    "cost_usd": 0.0190641,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1921,
+        "completion_tokens": 583,
+        "total_tokens": 2504,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006532
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2474,
+        "completion_tokens": 581,
+        "total_tokens": 3055,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007628
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12056,
+        "completion_tokens": 1465,
+        "total_tokens": 13521,
+        "cached_tokens": 2469,
+        "cost_usd": 0.00277335
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14125,
+        "completion_tokens": 892,
+        "total_tokens": 15017,
+        "cached_tokens": 12051,
+        "cost_usd": 0.00146335
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 19146,
+        "completion_tokens": 999,
+        "total_tokens": 20145,
+        "cached_tokens": 14120,
+        "cost_usd": 0.0022107
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "find_related",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 49302,
+        "completion_tokens": 1168,
+        "total_tokens": 50470,
+        "cached_tokens": 19141,
+        "cost_usd": 0.00757325
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 50485,
+        "completion_tokens": 1850,
+        "total_tokens": 52335,
+        "cached_tokens": 49297,
+        "cost_usd": 0.00362745
+      }
+    ]
+  }
+}

@@ -1,0 +1,240 @@
+{
+  "answer": "**The storm-at-sea scene occurs during St. Andrew's voyage to Mermedonia aboard a ship crewed by Christ (disguised as the \"Helmsman\" or \"Steersman\" at the helm) and two angels posing as sailors.**[^1]\n\nAfter boarding, the travelers are miraculously fed by one of the angels. Then a violent tempest arises: \"the deep was disturbed, the whale-mere was stirred. The horn-fish played, gliding through the spear-sea, and the grey gull, slaughter-greedy, circled. The sky-candle darkened, **winds waxed wild, waves ground together**, streams were stirred up, the stays sang out, the sails were soaked. The sea-dread stood in threatening throngs. The thanes became fearful in spirit.\"[^2] Andrew's companions despair, believing they will not survive, unaware that Christ guides the vessel.[^3]\n\nAndrew praises the helmsman (Christ) for his skill amid the chaos: \"Never have I met a better seaman, more skilled in his craft... steering at the stern. The stream’s-welling stills, the surf beats the shore. This boat is so swift, it fares, foam-necked, most like a fowl, gliding on the ocean... It is most like as if it stood still on the shore of the land, where no storm can stir it, no wind can awaken it...\"[^4] Christ responds humbly, attributing control of the storm-tossed sea to God's power over the waves, and Andrew recounts Christ's miracle of calming the Sea of Galilee as encouragement.[^5]\n\nThe storm abates as the mariners sleep (miraculously transported by angels), and they arrive safely.[^6]\n\n[^1]: Cynewulf, *Andreas*, ch. 1, [¶24-32](/works/cynewulf-andreas-07b573/01/translation/#p-24dbdc) (boarding; Christ as Helmsman: \"sat himself near the Helmsman\"; storm prelude). Full chapter: [ch. 1](/works/cynewulf-andreas-07b573/01/translation/).\n[^2]: *Id.*, [¶46](/works/cynewulf-andreas-07b573/01/translation/#p-8fd929).\n[^3]: *Id.*, [¶46-47](/works/cynewulf-andreas-07b573/01/translation/#p-8fd929).\n[^4]: *Id.*, [¶52](/works/cynewulf-andreas-07b573/01/translation/#p-ca9772).\n[^5]: *Id.*, [¶52-54](/works/cynewulf-andreas-07b573/01/translation/#p-ca9772) (Andrew's speech); [¶53](/works/cynewulf-andreas-07b573/01/translation/#p-f3580c) (Christ's reply); [¶50](/works/cynewulf-andreas-07b573/01/translation/#p-f66b6a) (Galilee miracle).\n[^6]: *Id.*, [¶52](/works/cynewulf-andreas-07b573/01/translation/#p-ca9772). Christ's identity as \"steadfast Steersman\" is later explicit: [¶82](/works/cynewulf-andreas-07b573/01/translation/#p-02e4ce).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf-andreas"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"storm\" \"sea\" Christ",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "storm sea",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Christ\" boat OR ship OR vessel OR helm OR steersman",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sea\" tempest OR gale OR wind",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sea OR ship OR boat OR vessel OR wave OR billow",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Christ\" (pilot OR steersman OR helmsman OR shipman)",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-02e4ce",
+          "p-90fadf"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Andreas\" (sea OR ship OR boat OR wave OR wind OR storm OR tempest)",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-24dbdc"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-8fd929"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ca9772"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-f3580c"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-f66b6a"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-02e4ce"
+    }
+  ],
+  "duration_ms": 47340,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 61643,
+    "completion_tokens": 4710,
+    "total_tokens": 66353,
+    "cached_tokens": 26693,
+    "api_calls": 5,
+    "cost_usd": 0.010679649999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 500,
+        "total_tokens": 2407,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003491
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2361,
+        "completion_tokens": 594,
+        "total_tokens": 2955,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004869
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 8459,
+        "completion_tokens": 979,
+        "total_tokens": 9438,
+        "cached_tokens": 2356,
+        "cost_usd": 0.0018279
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "get_passage"
+        ],
+        "prompt_tokens": 12124,
+        "completion_tokens": 1016,
+        "total_tokens": 13140,
+        "cached_tokens": 8454,
+        "cost_usd": 0.0016647
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki_full",
+          "search_corpus"
+        ],
+        "prompt_tokens": 36792,
+        "completion_tokens": 1621,
+        "total_tokens": 38413,
+        "cached_tokens": 12119,
+        "cost_usd": 0.00635105
+      }
+    ]
+  }
+}

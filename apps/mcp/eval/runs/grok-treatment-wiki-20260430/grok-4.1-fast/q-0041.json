@@ -1,0 +1,162 @@
+{
+  "answer": "**Chapter 4 of Charles Comte's *Traité de la propriété: VOL I* (\"De l'occupation des choses,\" or \"On the occupation of things\") defends occupation—the act of taking possession of a thing with no prior owner, intending to appropriate it—as a primary, natural means of acquiring property, rooted in human nature rather than conventions or laws.[^1][^2]**\n\nComte observes that while occupation rarely builds great fortunes in prosperous nations (where labor and economy dominate), it underpins the formation of all properties by providing the raw materials that industry transforms into useful goods.[^3] He argues it is universally recognized because it aligns with human needs and sentiments: nations acquire territory through first occupancy and cultivation, securing their existence against rivals.[^4]\n\nRejecting juristic fictions like a supposed universal right over all things (followed by a global convention renouncing it), Comte insists occupation follows directly from practical necessities.[^5] No such convention is feasible or necessary; instead, it obeys a \"law of nature\" ensuring progress beyond savage communalism or uncultivated lands.[^6]\n\nThe core justification is utilitarian and equitable: unowned things should go to the first occupant who seizes them (demonstrating need via prior action and labor), as this harms no one, deceives no expectations, and maximizes each item's utility.[^7] Depriving the occupant would discourage labor and diminish existence means.[^8]\n\nOccupation applies to any excludable thing satisfying needs (movables, immovables, animals, land), but not seas as communal transport routes—though nations claim adjacent maritime zones for security.[^9] It predates laws (e.g., Roman jurists applied it to wild animals, treasures, islands) and persists today (e.g., hunting, fishing), distinct from finding lost goods or adverse possession.[^10]\n\nComte frames occupation as essential for property, civilization, and avoiding barbarism or slavery-like communalism.[^11]\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, ch. 4, [para. ab8596](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-ab8596).  \n[^2]: `/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/`.  \n[^3]: Charles Comte, *Traité de la propriété: VOL I*, ch. 4, [para. e47482](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-e47482).  \n[^4]: Charles Comte, *Traité de la propriété: VOL I*, ch. 4, [paras. 5c9812–128575](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-5c9812).  \n[^5]: Charles Comte, *Traité de la propriété: VOL I*, ch. 4, [paras. 98d9b7–5f2b15](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-98d9b7).  \n[^6]: Charles Comte, *Traité de la propriété: VOL I*, ch. 4, [paras. 790e3d–7e2792](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-790e3d).  \n[^7]: Charles Comte, *Traité de la propriété: VOL I*, ch. 4, [para. 8094b8](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-8094b8).  \n[^8]: Ibid.  \n[^9]: Charles Comte, *Traité de la propriété: VOL I*, ch. 4, [paras. 41a64c–934229](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-41a64c).  \n[^10]: Charles Comte, *Traité de la propriété: VOL I*, ch. 4, [paras. 74297a–42f60a](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-74297a).  \n[^11]: `/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/`.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"occupation of things\" comte",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Traité de la propriété\" occupation",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.4\\nprose · 33¶ · 4189w · vocab 870 (TTR 46%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"possession thing master"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-ab8596"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-e47482"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-5c9812"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-98d9b7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-790e3d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-8094b8"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-41a64c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-74297a"
+    }
+  ],
+  "duration_ms": 31996,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 23524,
+    "completion_tokens": 3492,
+    "total_tokens": 27016,
+    "cached_tokens": 13141,
+    "api_calls": 4,
+    "cost_usd": 0.00447965,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 564,
+        "total_tokens": 2473,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00038165
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2771,
+        "completion_tokens": 381,
+        "total_tokens": 3152,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004624
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6617,
+        "completion_tokens": 586,
+        "total_tokens": 7203,
+        "cached_tokens": 2766,
+        "cost_usd": 0.0012015
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 12227,
+        "completion_tokens": 1961,
+        "total_tokens": 14188,
+        "cached_tokens": 6612,
+        "cost_usd": 0.0024341
+      }
+    ]
+  }
+}

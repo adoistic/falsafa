@@ -1,0 +1,162 @@
+{
+  "answer": "Iqbal's poem *Goristan-e-Shahi* (\"The Royal Graveyard\"), from *Bang-E-Dara Part 3*, is a meditative reflection on a desolate royal cemetery—likely referencing a historical site like the Shahi Qila graveyard in Lahore—as a symbol of imperial glory's transience and the inevitable decay of nations and kings.[^1] \n\nThe poem opens with a vivid nocturnal scene: a cloudy sky draped like an ancient mantle, pale moonlight, silent trees, and an atmosphere of profound hush and sorrowful stillness.[^2] The cemetery itself is portrayed as a once-vibrant fortress now \"desolate and vast, / A graveyard for the tumults of the past,\" guarding the dust of its own ancient race amid ruins that evoke both awe and failure.[^3] It is a \"place of sorrow\" and \"royal bed\" for the tombs of high-born dust—a \"fallen nation’s final treasury\"—where past rulers who once commanded the skies now lie in silence, their ambitions quelled by death.[^4]\n\nIqbal laments the universality of decline: no empire, from Caesar to Khan, Persia to Muslim caliphates, escapes time's plunder, as the earth serves as tomb for countless cultures.[^5] Human life is fleeting like a songbird or dewdrop, and nations rise and fall indifferently in time's cycle.[^6] Yet, amid sorrow for his own nation's lost kings, the poet finds enduring beauty in the ruins, likening the scene to nature's vibrant yet ephemeral art, where even death pulses with life, and a \"dawn of beauty\" persists.[^7]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 9 \"Goristan-e-Shahi\" ([translation](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/)). The full poem (59 verses) is devoted to this theme.\n[^2]: Ibid., [p-814248](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-814248) to [p-8efcd7](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-8efcd7).\n[^3]: Ibid., [p-2e4cf2](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-2e4cf2); [p-49c46c](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-49c46c).\n[^4]: Ibid., [p-922ce3](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-922ce3); [p-04f912](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-04f912).\n[^5]: Ibid., [p-741f24](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-741f24) to [p-6e0f0c](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-6e0f0c).\n[^6]: Ibid., [p-a69e14](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-a69e14); [p-6fa35e](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-6fa35e).\n[^7]: Ibid., [p-99c9c7](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-99c9c7) to [p-2e5187](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-2e5187).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Goristan-e-Shahi"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"royal cemetery\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.9\\nverse · 59¶ · 970w · vocab 394 (TTR 72%, hapax 77%)\\n\\n## Distinctive trigrams\\n\\\"royal graveyard sky\\\" · \\\"graveyard sk"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-814248"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-8efcd7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-2e4cf2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-49c46c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-922ce3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-04f912"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-741f24"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-6e0f0c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-a69e14"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-6fa35e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-99c9c7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-2e5187"
+    }
+  ],
+  "duration_ms": 35577,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 11145,
+    "completion_tokens": 3062,
+    "total_tokens": 14207,
+    "cached_tokens": 3667,
+    "api_calls": 3,
+    "cost_usd": 0.00320995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1903,
+        "completion_tokens": 446,
+        "total_tokens": 2349,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005811
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3372,
+        "completion_tokens": 352,
+        "total_tokens": 3724,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008279
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 5870,
+        "completion_tokens": 2264,
+        "total_tokens": 8134,
+        "cached_tokens": 3367,
+        "cost_usd": 0.00180095
+      }
+    ]
+  }
+}

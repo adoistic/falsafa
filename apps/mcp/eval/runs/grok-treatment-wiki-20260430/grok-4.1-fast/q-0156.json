@@ -1,0 +1,184 @@
+{
+  "answer": "**Charles Comte dedicates Chapter 4 of *Traité de la propriété: VOL I* (titled \"De l'occupation des choses,\" translated as \"On the occupation of things\") to this concept.[^1]**\n\nHe opens the chapter by defining it explicitly as **\"the act of taking possession of a thing that has no master, with the intention of appropriating it\"**, noting that jurists have long viewed it as a principal means of acquiring property.[^2]\n\nComte elaborates throughout the chapter (33 paragraphs), explaining its natural basis and universal recognition prior to legislation. A core explanatory passage states:\n\n> But when a thing has never had a master, and can nevertheless satisfy the needs of a person, to whom must one guarantee its exclusive enjoyment and disposition? **To the first who seizes it, with the intention of appropriating it**; for it is probable that it suits him better than any other person, since before any other, he has seized it. The fact of **occupation** always requires that one devote oneself to certain labors... He who takes possession of a thing that has no master despoils no man of his means of existence... In considering the **occupation of things** not yet appropriated as one of the first means of acquiring property, nations have therefore obeyed a law of their nature.[^3]\n\nThis builds on earlier remarks, such as **\"the act of occupation of a thing that belongs to no one, suffices to make that thing the property of him who takes possession of it\"**.[^4]\n\nThe term is not a one-sentence definition but a foundational idea unpacked across the chapter; Chapter 5 shifts to appropriation more generally.[^5]\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, ch.4 (\"De l'occupation des choses\"), [full chapter](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/).\n\n[^2]: Ibid., [p-ab8596](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-ab8596).\n\n[^3]: Ibid., [p-8094b8](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-8094b8).\n\n[^4]: Ibid., [p-041c9e](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-041c9e).\n\n[^5]: Ibid., ch.5 (\"De l'appropriation des choses en général\"), [full chapter](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/05-de-lappropriation-des-choses-en-general/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"occupation des choses\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"occupation of things\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "occupation",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.4\\nprose · 33¶ · 4189w · vocab 870 (TTR 46%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"possession thing master"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.5\\nprose · 27¶ · 2975w · vocab 578 (TTR 43%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"fit satisfy needs\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.3\\nprose · 27¶ · 2117w · vocab 492 (TTR 50%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"under regime liberty\\\" "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 5,
+      "paragraph_id": "p-ab8596"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 5,
+      "paragraph_id": "p-8094b8"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 5,
+      "paragraph_id": "p-041c9e"
+    }
+  ],
+  "duration_ms": 35078,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 41764,
+    "completion_tokens": 3525,
+    "total_tokens": 45289,
+    "cached_tokens": 22429,
+    "api_calls": 5,
+    "cost_usd": 0.00675095,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 706,
+        "total_tokens": 2615,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007123
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2761,
+        "completion_tokens": 444,
+        "total_tokens": 3205,
+        "cached_tokens": 1904,
+        "cost_usd": 0.0004886
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7750,
+        "completion_tokens": 352,
+        "total_tokens": 8102,
+        "cached_tokens": 2756,
+        "cost_usd": 0.0013126
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 9879,
+        "completion_tokens": 492,
+        "total_tokens": 10371,
+        "cached_tokens": 7745,
+        "cost_usd": 0.00106005
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 19465,
+        "completion_tokens": 1531,
+        "total_tokens": 20996,
+        "cached_tokens": 9874,
+        "cost_usd": 0.0031774
+      }
+    ]
+  }
+}

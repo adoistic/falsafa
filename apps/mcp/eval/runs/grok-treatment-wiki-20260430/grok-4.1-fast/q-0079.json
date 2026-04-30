@@ -1,0 +1,119 @@
+{
+  "answer": "**In \"Swami Ram Tirath\" (Bang-e-Dara Part 2, chapter 23), Allama Iqbal pays tribute to the Hindu sage (1861–1906, a Vedantic mystic who renounced worldly life) through a short Sufi-inspired poem that celebrates his spiritual transformation and enlightenment.**[^1]\n\nThe poem addresses Ram Tirath directly as a \"restless drop\" that merges into the divine \"river's embrace,\" evolving from a mere pearl into one \"beyond price\"—symbolizing fana' (ego-annihilation) and union with the Absolute.[^2] Iqbal marvels at how the sage \"unveiled the secret of color and scent\" (transcending sensory illusions), while the poet confesses to remaining \"a prisoner of their distinctions.\"[^3] It evokes Ram Tirath's achievement of mystical negation (\"the river of 'La'\" hiding the pearl of divine unity, \"illa-Allah\"), where life's end becomes eternal tumult, a spark turns into a cosmic fire, and love's ecstasy shatters the self-idol—like Abraham smashing idols.[^4]\n\nThis cross-traditional homage blends Vedanta's self-dissolution with Iqbal's Islamic/Sufi khudi (selfhood) reversal, positioning Ram Tirath as an exemplar of transcendent realization beyond reason.[^5]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 23 \"Swami Ram Tirath\" ([translation](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/23-swami-ram-tirath/translation/)).\n\n[^2]: Ibid., [p-d1bdd5](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/23-swami-ram-tirath/translation/#p-d1bdd5).\n\n[^3]: Ibid., [p-cb1e8e](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/23-swami-ram-tirath/translation/#p-cb1e8e).\n\n[^4]: Ibid., [¶¶ p-420405, p-ef7cac, p-7de605](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/23-swami-ram-tirath/translation/#p-420405#p-ef7cac#p-7de605).\n\n[^5]: Ibid., full chapter ([translation](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/23-swami-ram-tirath/translation/)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Swami Ram Tirath"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Swami Ram Tirath\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 23
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 23-swami-ram-tirath.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-2-9bc58c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 23,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 23,
+      "paragraph_id": "p-d1bdd5"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 23,
+      "paragraph_id": "p-cb1e8e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 23,
+      "paragraph_id": "p-420405"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 23,
+      "paragraph_id": "p-ef7cac"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 23,
+      "paragraph_id": "p-7de605"
+    }
+  ],
+  "duration_ms": 21711,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 8528,
+    "completion_tokens": 2236,
+    "total_tokens": 10764,
+    "cached_tokens": 6717,
+    "api_calls": 3,
+    "cost_usd": 0.0018160499999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1918,
+        "completion_tokens": 445,
+        "total_tokens": 2363,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00032395
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2956,
+        "completion_tokens": 254,
+        "total_tokens": 3210,
+        "cached_tokens": 1885,
+        "cost_usd": 0.00043545
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 3654,
+        "completion_tokens": 1537,
+        "total_tokens": 5191,
+        "cached_tokens": 2951,
+        "cost_usd": 0.00105665
+      }
+    ]
+  }
+}

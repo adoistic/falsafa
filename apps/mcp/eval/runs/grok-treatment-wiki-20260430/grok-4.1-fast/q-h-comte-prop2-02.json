@@ -1,0 +1,180 @@
+{
+  "answer": "This passage appears in Charles Comte's *Traité de la propriété: VOL II*, chapter 37 (\"De la propriété des rentes sur des particuliers ou sur l'État\").\n\nThe \"helots\" line: \"One can conceive that by pushing such a system to excess, the most intelligent, the most active, the most industrious nation could be transformed into a people of helots, working for a few thousand of the idle who would buy the products of its lands, of its industry, and of all its labors, from a government that would have itself paid the value for them, and that would share it among its favorites or its satellites: only a good national representation can shelter a people from such a spoliation.\"[^1]\n\nThe Restoration's two billions: \"If, for example, when the government of the Restoration borrowed a billion to deliver it to the foreigners who had established it, this billion was advanced by lenders from other nations, these lenders really acquired a billion worth of French properties. If, when a little later, it created a debt of a second billion to deliver it to the émigrés, this billion had been advanced by foreign capitalists, these capitalists would have again acquired the right to perceive in perpetuity from the products of our industry the interest on the capital lent.\"[^2]\n\n[^1]: Charles Comte, *Traité de la propriété: VOL II*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/37-de-la-propriete-des-rentes-sur-des-particuliers-ou/translation/#p-c462b5).\n\n[^2]: Charles Comte, *Traité de la propriété: VOL II*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/37-de-la-propriete-des-rentes-sur-des-particuliers-ou/translation/#p-9df833).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "helots",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"people of helots\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"billion\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Restoration billion émigrés"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 37
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.37\\nprose · 21¶ · 2439w · vocab 493 (TTR 45%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"ten thousand francs\\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "émigrés"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Restoration"
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "milliard"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "two billions"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 37
+      },
+      "result_summary": "Read ch.37 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 37,
+        "paragraph_ids": [
+          "p-c462b5"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 37,
+        "paragraph_ids": [
+          "p-9df833"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 37,
+      "paragraph_id": "p-c462b5"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 37,
+      "paragraph_id": "p-9df833"
+    }
+  ],
+  "duration_ms": 23875,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 19933,
+    "completion_tokens": 2600,
+    "total_tokens": 22533,
+    "cached_tokens": 12184,
+    "api_calls": 4,
+    "cost_usd": 0.0034590000000000003,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2000,
+        "completion_tokens": 333,
+        "total_tokens": 2333,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0002842
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2974,
+        "completion_tokens": 726,
+        "total_tokens": 3700,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0006755
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5456,
+        "completion_tokens": 356,
+        "total_tokens": 5812,
+        "cached_tokens": 2969,
+        "cost_usd": 0.00082385
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 9503,
+        "completion_tokens": 1185,
+        "total_tokens": 10688,
+        "cached_tokens": 5451,
+        "cost_usd": 0.00167545
+      }
+    ]
+  }
+}

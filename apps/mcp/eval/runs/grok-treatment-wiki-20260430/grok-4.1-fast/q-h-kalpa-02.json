@@ -1,0 +1,122 @@
+{
+  "answer": "**Kalpabuddha, Chapter 6.**\n\nThis passage occurs in the translation of Chapter 6 of *Kalpabuddha*, a Kawi-language tantric Buddhist prose text.[^1]\n\nThe sense-to-Tathāgata mapping is quoted verbatim as follows:\n\n> Now, as for the deities of the five senses: **Lord Akṣobhya resides in the eyes**, **Lord Ratnasambhava resides in the ears**, **Lord Amitābha resides in the nose**, **Lord Amoghasiddhi resides in the mouth**. **He who is the sense of taste is Lord Vairocana, residing in the heart, he is the mind**.[^1]\n\nThe text immediately continues by calling this fivefold inner constellation the **'Divine Five-Souls' (Pañcātma)**:\n\n> There also are their respective `devī`s. **That is what is called the Divine Five-Souls (`Pañcātma`), which form the self**.[^1]\n\nThe full context confirms the preceding return of the five Tathāgatas (Pañcatathāgata) to their lokadhātus and their reinstallation in the practitioner's body as the pañcajñāna (five wisdoms) and pañcendriya (five senses).[^1]\n\n[^1]: Unknown, *Kalpabuddha*, [p-c8567e](/works/unknown-kalpabuddha-d760dc/06/translation/#p-c8567e).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Pañcātma",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Divine Five-Souls\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sense of taste is Lord Vairocana\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Akṣobhya eyes Ratnasambhava ears",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: high\\n---\\n\\n# Kalpabuddha · ch.6\\nprose · 4¶ · 153w · vocab 48 (TTR 66%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"### paragraph lord\\\" · \\\"paragraph lord pañcat"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-c8567e"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 6,
+      "paragraph_id": "p-c8567e"
+    }
+  ],
+  "duration_ms": 20120,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 10730,
+    "completion_tokens": 2250,
+    "total_tokens": 12980,
+    "cached_tokens": 5711,
+    "api_calls": 3,
+    "cost_usd": 0.00241435,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2056,
+        "completion_tokens": 546,
+        "total_tokens": 2602,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006617
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3680,
+        "completion_tokens": 405,
+        "total_tokens": 4085,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0006556
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 4994,
+        "completion_tokens": 1299,
+        "total_tokens": 6293,
+        "cached_tokens": 3675,
+        "cost_usd": 0.00109705
+      }
+    ]
+  }
+}

@@ -1,0 +1,206 @@
+{
+  "answer": "**The passage appears in the *Vrhaspatitattva* (Vr̥haspatitattva), Chapter 1.**[^1]\n\nThe divine instructor is Lord Śiva (Īśvara), speaking in the first person to his pupil, the venerable Vṛhaspati. He confesses his backstory as follows (verbatim):\n\n> Below *Sadāśivatattva* is what is called *Māyāśirastattva*, the abode of the holy Aṣṭavidyāsana: **Ananta, Sūkṣma, Śivatama, Ekarudra, Ekanetra, Trimūrti, Śrīkaṇṭha, and Śikhaṇḍī**. The holy Ananta was commanded by the Lord to pervade the universe and the world, and also to liberate souls as another activity. When the activity commanded by the Lord is finished, then the holy Ananta attains *mokṣa* (liberation). The holy Sūkṣma replaces Ananta, Śivatama replaces Sūkṣma, Ekarudra replaces Śivatama, Ekanetra replaces Ekarudra, Trimūrti replaces Ekanetra, **Śrīkaṇṭha replaces Trimūrti**, and Śikhaṇḍī replaces Śrīkaṇṭha. **I am that Śrīkaṇṭha. My name is Śrīkaṇṭha**, and I was commanded to give teachings in the universe. **But I was shot with passion by Lord Kāma. I gazed upon the holy Kāma, and because he was gazed upon with my poison-sight, the body of the holy Kāmadeva was shattered, incinerated, and turned to ash. But the passion (*rāga*) remained in me. That is why I took your mother, the Lady Umā, as my wife, and we had a son, the holy Sanatkumāra.** That is their *tattva*, my son, Vṛhaspati.[^1]\n\n[^1]: *Vrhaspatitattva*, [paragraph](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-4d2295).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Śrīkaṇṭha Śikhaṇḍī",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Ananta\" \"Sūkṣma\" \"Śivatama\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"struck by passion\" Umā Sanatkumāra",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"god of love\" \"turned to ash\" passion",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Srikantha\" OR \"Srikanta\" OR Śrīkaṇṭha",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sikhandi\" OR \"Sikhandi\" OR Śikhaṇḍī OR \"Sikhandin\"",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Ekarudra\" OR \"Ekanetra\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Uma \"Sanatkumara\" OR \"Sanat Kumara\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"god of love\" ash Uma OR Parvati",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seven\" \"eight\" succession OR lineage teacher OR guru OR deity",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "{\"markdown\":\"# Vrhaspatitattva\\nBṛhaspati · Medieval · kawi · prose · 1 chapters · 14,791 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"venerable vṛhaspati replied\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vrhaspatitattva · ch.1\\nprose · 234¶ · 14791w · vocab 1895 (TTR 28%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"venerable vṛhaspati replied\\\" · \\\"lor"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-4d2295"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-4d2295"
+    }
+  ],
+  "duration_ms": 28104,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 80402,
+    "completion_tokens": 4074,
+    "total_tokens": 84476,
+    "cached_tokens": 48218,
+    "api_calls": 5,
+    "cost_usd": 0.0108847,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2079,
+        "completion_tokens": 655,
+        "total_tokens": 2734,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0004604
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3774,
+        "completion_tokens": 1188,
+        "total_tokens": 4962,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0010659
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7346,
+        "completion_tokens": 709,
+        "total_tokens": 8055,
+        "cached_tokens": 3769,
+        "cost_usd": 0.00125835
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 33341,
+        "completion_tokens": 443,
+        "total_tokens": 33784,
+        "cached_tokens": 7341,
+        "cost_usd": 0.00578855
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 33862,
+        "completion_tokens": 1079,
+        "total_tokens": 34941,
+        "cached_tokens": 33336,
+        "cost_usd": 0.0023115
+      }
+    ]
+  }
+}

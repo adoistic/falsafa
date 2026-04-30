@@ -1,0 +1,229 @@
+{
+  "answer": "**Charles Comte's *Traité de Législation: VOL I*** compares a government acting without prior descriptions of its actions (i.e., without published rules) to a steam engine lacking a regulator.[^1]\n\nThe passage appears in **Chapter 13: \"Distinction entre un régime arbitraire et un régime légal. De ce qui constitue la différence.\"**:\n\n> The government that acts without having described in advance the diverse kinds of action it tends to exercise could be compared to a steam engine that lacked a regulator; its movements are irregular, by turns slow or abrupt. The government that, on the contrary, acts only after having described the actions it wishes to produce, moves in an equal manner: the description it publishes is, in a way, the regulator that gives uniformity to its movements. But one must be very careful not to believe that the addition of the regulator to the machine of government changes its nature or its effects; if it is set up to draw the people's subsistence toward the men of power, the more regular it is in its movements, the better it will fulfill its office; it will be more durable and more energetic for it.[^1]\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 13, p-5bc401](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/13-distinction-entre-un-regime-arbitraire-et-un-regim/translation/#p-5bc401).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "steam engine regulator",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"steam engine\" government",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"without published rules\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "steam engine",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"steam-engine\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "regulator government",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"machine\" government rules",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "government \"without\" rules",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "regulator",
+        "limit": 20
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"governor\" steam",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "government machine",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"without rules\" government",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"published laws\" OR \"published rules\" government",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-5bc401"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 13,
+      "paragraph_id": "p-5bc401"
+    }
+  ],
+  "duration_ms": 39058,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 34224,
+    "completion_tokens": 3848,
+    "total_tokens": 38072,
+    "cached_tokens": 16541,
+    "api_calls": 6,
+    "cost_usd": 0.0062876500000000005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1932,
+        "completion_tokens": 313,
+        "total_tokens": 2245,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00026075
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2122,
+        "completion_tokens": 501,
+        "total_tokens": 2623,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00039275
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3798,
+        "completion_tokens": 882,
+        "total_tokens": 4680,
+        "cached_tokens": 2117,
+        "cost_usd": 0.00088305
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6724,
+        "completion_tokens": 479,
+        "total_tokens": 7203,
+        "cached_tokens": 3793,
+        "cost_usd": 0.00101535
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 9611,
+        "completion_tokens": 570,
+        "total_tokens": 10181,
+        "cached_tokens": 6719,
+        "cost_usd": 0.00119935
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 10037,
+        "completion_tokens": 1103,
+        "total_tokens": 11140,
+        "cached_tokens": 150,
+        "cost_usd": 0.0025364
+      }
+    ]
+  }
+}

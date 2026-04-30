@@ -1,0 +1,167 @@
+{
+  "answer": "**In Allama Iqbal's poem \"Hindustani Bachon Ka Qaumi Geet\" (\"National Song of Hindustani Children\") from *Bang-e-Dara Part 1*, the children sing a patriotic verse declaring their allegiance to Hindustan (India) as their homeland.**[^1]\n\nThe full song consists of four stanzas, each celebrating the land's spiritual, historical, and cultural significance—referencing figures like Chishti, Nanak, Tatars, Hijazis, Greeks, Turks, Persians, Arabs, Moses, Noah, and Sinai—ending with the repeated refrain that serves as the oath-like pledge:\n\n> This is my homeland, this land of mine.[^2]\n\nIn the original Urdu (transliterated): **\"Mera watan wohi hai, mera watan wohi hai.\"** This refrain affirms loyalty to the sacred land across all stanzas.[^3]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 26 \"Hindustani Bachon Ka Qaumi Geet\" (translation), [chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/).\n\n[^2]: Ibid., [¶1](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-da6786), [¶2](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-850e5c), [¶3](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-5d32a9), [¶4](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-a9f72d).\n\n[^3]: Ibid. (transliteration), [full chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/transliteration/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Hindustani Bachon ka Qaumi Geet",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Hindustani children oath",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.26\\nverse · 4¶ · 163w · vocab 71 (TTR 78%, hapax 87%)\\n\\n## Distinctive trigrams\\n\\\"homeland land mine\\\" · \\\"chishti first "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "paragraph_ids": [
+          "p-da6786",
+          "p-850e5c",
+          "p-5d32a9",
+          "p-a9f72d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "paragraph_range": {
+          "start": 0,
+          "end": 3
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 26,
+      "paragraph_id": "p-da6786"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 26,
+      "paragraph_id": "p-850e5c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 26,
+      "paragraph_id": "p-5d32a9"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 26,
+      "paragraph_id": "p-a9f72d"
+    }
+  ],
+  "duration_ms": 39394,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 14588,
+    "completion_tokens": 3874,
+    "total_tokens": 18462,
+    "cached_tokens": 10727,
+    "api_calls": 4,
+    "cost_usd": 0.00324555,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 645,
+        "total_tokens": 2554,
+        "cached_tokens": 1882,
+        "cost_usd": 0.000422
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2926,
+        "completion_tokens": 388,
+        "total_tokens": 3314,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00049705
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 4048,
+        "completion_tokens": 1511,
+        "total_tokens": 5559,
+        "cached_tokens": 2921,
+        "cost_usd": 0.00112695
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 5705,
+        "completion_tokens": 1330,
+        "total_tokens": 7035,
+        "cached_tokens": 4043,
+        "cost_usd": 0.00119955
+      }
+    ]
+  }
+}

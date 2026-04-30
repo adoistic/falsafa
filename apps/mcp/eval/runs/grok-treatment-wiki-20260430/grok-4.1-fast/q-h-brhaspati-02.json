@@ -1,0 +1,214 @@
+{
+  "answer": "**The simile appears in two Sanskrit legal treatises (Smṛtis) in the Falsafa corpus: the *Bṛhaspati Smṛti* (Chapter 1, in a section discussing forged documents and their characteristics, around verse *Brh_1,6.33*) and the *Kātyāyana Smṛti* (Chapter 26, explicitly titled \"The Examination of Documents,\" verse *K_308*).**[^1][^2]\n\nThese works, part of the dharmashastra tradition on law and jurisprudence, use nearly identical wording to warn judges against sophisticated forgeries that mimic authentic written instruments (*lekhya*, such as deeds or contracts). The preceding verses in both discuss signs of forgery (e.g., ink quality, handwriting irregularities).[^3][^4]\n\n> Just as a reflection in a mirror, though unreal, appears as real, so skilled persons make copies of documents.[^1]\n\n> Just as an image in a mirror, though unreal, appears real, so do skillful people create copies of documents.[^2]\n\n**Bṛhaspati Smṛti** (1 chapter total): A comprehensive ancient legal text covering disputes, proofs (documents, witnesses), punishments, debts, etc.[^5] The passage follows immediately after listing forgery indicators (e.g., faded ink on an old document, or recent ink on a purportedly ancient one).[^3]\n\n**Kātyāyana Smṛti** (80 chapters): A detailed Smṛti with Chapter 26 devoted to document scrutiny (handwriting verification, scribes, authenticity proofs). It opens: \"## The Examination of Documents,\" with verses on rewriting damaged documents closing it.[^6][^7]\n\nNo other works in the corpus match this precise simile in the context of forged legal documents.\n\n[^1]: *Bṛhaspati Smṛti*, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-c67c7e).\n\n[^2]: *Kātyāyana Smṛti*, Chapter 26, [paragraph](/works/unknown-katyayana-smrti-1e06d2/26/translation/#p-ffea01).\n\n[^3]: *Bṛhaspati Smṛti*, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-e738b7).\n\n[^4]: *Kātyāyana Smṛti*, Chapter 26, context via chapter wiki.\n\n[^5]: *Bṛhaspati Smṛti*, work wiki.\n\n[^6]: *Kātyāyana Smṛti*, Chapter 26 wiki.\n\n[^7]: *Kātyāyana Smṛti*, work wiki (ch.26 summary).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mirror\" \"reflection\" OR \"image\" \"document\" OR \"deed\" OR \"instrument\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"reflection\" \"mirror\" \"real\" \"unreal\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mirror\" \"forged\" OR \"copy\" \"document\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mirror\" (\"document\" OR \"deed\" OR \"writing\" OR \"charter\" OR \"instrument\" OR \"seal\")",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"reflection\" (\"document\" OR \"deed\" OR \"writing\" OR \"copy\" OR \"forged\")",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"image\" \"mirror\" (\"document\" OR \"deed\" OR \"copy\")",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"false\" OR \"forged\" OR \"spurious\" (\"document\" OR \"deed\") \"mirror\" OR \"reflection\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"real\" \"unreal\" (\"mirror\" OR \"reflection\") (\"document\" OR \"deed\")",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-c67c7e"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 26,
+        "paragraph_ids": [
+          "p-ffea01"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 26
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kātyāyana Smṛti · ch.26\\nprose · 48¶ · 1401w · vocab 354 (TTR 55%, hapax 75%)\\n\\n## Distinctive trigrams\\n\\\"witnesses scribe maker\\\" · \\\"proof e"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 26,
+      "paragraph_id": "p-c67c7e"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 26,
+      "paragraph_id": "p-ffea01"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 26,
+      "paragraph_id": "p-e738b7"
+    }
+  ],
+  "duration_ms": 52215,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 36629,
+    "completion_tokens": 4589,
+    "total_tokens": 41218,
+    "cached_tokens": 22553,
+    "api_calls": 4,
+    "cost_usd": 0.006237349999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1941,
+        "completion_tokens": 522,
+        "total_tokens": 2463,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003669
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5635,
+        "completion_tokens": 1268,
+        "total_tokens": 6903,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0014787
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13164,
+        "completion_tokens": 827,
+        "total_tokens": 13991,
+        "cached_tokens": 5630,
+        "cost_usd": 0.0022018
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 15889,
+        "completion_tokens": 1972,
+        "total_tokens": 17861,
+        "cached_tokens": 13159,
+        "cost_usd": 0.00218995
+      }
+    ]
+  }
+}

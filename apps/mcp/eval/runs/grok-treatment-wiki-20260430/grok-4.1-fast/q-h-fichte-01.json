@@ -1,0 +1,285 @@
+{
+  "answer": "**Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens* (Reclaiming Freedom of Thought from the Princes of Europe), Chapter 2.**[^1]\n\nFichte counters the princes' (and censors') fears of revolutionary violence by conceding the described horrors for argument's sake, then attributing them not to newfound freedoms but to centuries of intellectual oppression. The key passage reads:\n\n> [p-659c32] You point there to a gentle people, sunk to the fury of cannibals, how it thirsts for blood, and not for tears, how it presses more eagerly to **executions than to actors**, how it **carries around torn limbs of its fellow citizens, still dripping and steaming, amidst songs of jubilation, how its children spin bloody heads instead of tops**—and we do not want to remind you of bloodier festivals that despotism and fanaticism, in their usual alliance, gave to this very people—not remind you **that these are not the fruits of freedom of thought, but the consequences of previous long intellectual slavery**[.^1]\n\nThis directly rebuts the censorial \"panic\" by flipping the causation: the atrocities stem from *prior* \"intellectual slavery,\" not the recent push for \"freedom of thought.\"\n\n[^1]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-659c32).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "children spin bloody heads tops",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gentle people\" executions actors",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"torn limbs\" dripping steaming",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bloody heads\" children",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heads\" tops children",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"torn limbs\" dripping",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"limbs\" steaming songs",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gentle people\" executions",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"freedom of thought\" slavery",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "children heads tops",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heads of the dead\" children",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"head\" \"top\" children",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "{\"markdown\":\"# Zurückforderung der Denkfreiheit von den Fürsten Europens\\nJohann Gottlieb Fichte · Enlightenment · german · prose · 2 chapters · 10,652 words\\n\\n## Work-level distinctive trigrams (top"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "Listed 2 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Zurückforderung der Denkfreiheit von den Fürsten Europens · ch.1\\nprose · 12¶ · 2172w · vocab 673 (TTR 68%, hapax 77%)\\n\\n## Distinctive trigrams\\n"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Zurückforderung der Denkfreiheit von den Fürsten Europens · ch.2\\nprose · 52¶ · 8480w · vocab 1547 (TTR 42%, hapax 60%)\\n\\n## Distinctive trigrams\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "execution children heads",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 1,
+      "paragraph_id": "p-659c32"
+    }
+  ],
+  "duration_ms": 45758,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 51493,
+    "completion_tokens": 3687,
+    "total_tokens": 55180,
+    "cached_tokens": 30419,
+    "api_calls": 7,
+    "cost_usd": 0.00757925,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2003,
+        "completion_tokens": 363,
+        "total_tokens": 2366,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0002992
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2206,
+        "completion_tokens": 557,
+        "total_tokens": 2763,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00043755
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2599,
+        "completion_tokens": 668,
+        "total_tokens": 3267,
+        "cached_tokens": 2201,
+        "cost_usd": 0.00052365
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6116,
+        "completion_tokens": 301,
+        "total_tokens": 6417,
+        "cached_tokens": 2594,
+        "cost_usd": 0.0009846
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6725,
+        "completion_tokens": 430,
+        "total_tokens": 7155,
+        "cached_tokens": 6111,
+        "cost_usd": 0.00064335
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 9031,
+        "completion_tokens": 574,
+        "total_tokens": 9605,
+        "cached_tokens": 6720,
+        "cost_usd": 0.0010852
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22813,
+        "completion_tokens": 794,
+        "total_tokens": 23607,
+        "cached_tokens": 9026,
+        "cost_usd": 0.0036057
+      }
+    ]
+  }
+}

@@ -1,0 +1,360 @@
+{
+  "answer": "**Kātyāyana Smṛti** defines *śulka* (bride-price) in Chapter 75: \"Whatever value is received for household utensils, vehicles, milch animals, ornaments, and servants, that is declared to be the bride-price (*śulka*). // K_898 //\"[^1]\n\nThe same work caps gifts of a woman's separate property (*strīdhana*) by relatives in Chapter 76: \"*Strīdhana* should be given to a woman by her father, mother, husband, brother, and kinsmen, according to their ability, up to two thousand, but not immovable property. // K_902 //\"[^2]\n\n[^1]: Kātyāyana Smṛti, [Chapter 75](/works/unknown-katyayana-smrti-1e06d2/75/translation/#p-9e5207).\n[^2]: Kātyāyana Smṛti, [Chapter 76](/works/unknown-katyayana-smrti-1e06d2/76/translation/#p-f86392).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "household utensils, vehicles, milch animals",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"two thousand\" \"immovable property\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"woman's separate property\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "śulka",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"two thousand\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"immovable property\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "strīdhana \"two thousand\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gift of affection\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 75
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Kātyāyana Smṛti · ch.75\\nprose · 9¶ · 259w · vocab 72 (TTR 60%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"bridal procession *adhyāvāhanika*\\\" "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 75,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.75 of unknown-katyayana-smrti-1e06d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 71,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.71 of unknown-katyayana-smrti-1e06d2 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"thousand\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "immovable",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"separate property\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "strīdhana immovable",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"strīdhana\" field OR house OR land",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"śulka\" OR sulka OR bride-price",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "strīdhana \"gift\" relatives OR brother OR father OR mother",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 70
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kātyāyana Smṛti · ch.70\\nprose · 4¶ · 91w · vocab 41 (TTR 87%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"duties husband wife\\\" · \\\"husband wife w"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 76
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kātyāyana Smṛti · ch.76\\nprose · 16¶ · 457w · vocab 125 (TTR 63%, hapax 74%)\\n\\n## Distinctive trigrams\\n\\\"deliberation ownership woman\\\" · \\\"ow"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 76,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.76 of unknown-katyayana-smrti-1e06d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 77,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.77 of unknown-katyayana-smrti-1e06d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 78,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.78 of unknown-katyayana-smrti-1e06d2 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"strīdhana\" \"two\" OR 2000 OR \"two hundred\" OR \"two thousand\" OR panas OR value",
+        "limit": 20
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 75,
+        "paragraph_ids": [
+          "p-9e5207"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 76,
+        "paragraph_ids": [
+          "p-f86392"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 76,
+      "paragraph_id": "p-9e5207"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 76,
+      "paragraph_id": "p-f86392"
+    }
+  ],
+  "duration_ms": 52871,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 64389,
+    "completion_tokens": 4843,
+    "total_tokens": 69232,
+    "cached_tokens": 49004,
+    "api_calls": 7,
+    "cost_usd": 0.0079487,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1957,
+        "completion_tokens": 503,
+        "total_tokens": 2460,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00036075
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2572,
+        "completion_tokens": 603,
+        "total_tokens": 3175,
+        "cached_tokens": 1886,
+        "cost_usd": 0.000533
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4899,
+        "completion_tokens": 774,
+        "total_tokens": 5673,
+        "cached_tokens": 2567,
+        "cost_usd": 0.00098175
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8695,
+        "completion_tokens": 958,
+        "total_tokens": 9653,
+        "cached_tokens": 4894,
+        "cost_usd": 0.0014839
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 12297,
+        "completion_tokens": 701,
+        "total_tokens": 12998,
+        "cached_tokens": 8690,
+        "cost_usd": 0.0015064
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16799,
+        "completion_tokens": 476,
+        "total_tokens": 17275,
+        "cached_tokens": 12292,
+        "cost_usd": 0.001754
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 17170,
+        "completion_tokens": 828,
+        "total_tokens": 17998,
+        "cached_tokens": 16794,
+        "cost_usd": 0.0013289
+      }
+    ]
+  }
+}

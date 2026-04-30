@@ -1,0 +1,318 @@
+{
+  "answer": "**I could not locate any Ghalib couplet in the Falsafa corpus matching or closely paraphrasing \"why should I not weep — the world has forgotten me too?\"**\n\nThe corpus contains *Diwan-E-Ghalib* (239 chapters/ghazals).[^1] Extensive searches across English translations for key phrases (\"why should I not weep\", \"world has forgotten me\", \"forgotten me too\", \"weep forgotten\", combinations like \"why\" + \"weep\" + \"world\", etc.) yielded no results. Broader searches for \"weep\" and \"forgotten\" surfaced thematic near-misses:\n\n- Ghazal 190: \"I would not weep for solace, if the joy of sight were near\" and \"Why should the world, through me, find out that you live here?\"[^2]\n- Ghazal 73: \"Should you have forgotten me, let me remind you of my place\" (with delay/ruin themes).[^3]\n- Ghazal 102: \"To be forgotten is the cross I gain is mine\" (with weeping friends).[^4]\n\nThese evoke abandonment/weeping but do not match. The phrasing may reflect a different translation, variant, or unattributed paraphrase not present here.\n\n[^1]: *Diwan-E-Ghalib*, work overview, [work wiki](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/wiki/_work.card.md).\n\n[^2]: *Diwan-E-Ghalib*, ch. 190, [p-45286c](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/190-taskeen-ko-hum-na-royein-jo-zauq-e-nazar-mile/translation/#p-45286c) and [p-36f420](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/190-taskeen-ko-hum-na-royein-jo-zauq-e-nazar-mile/translation/#p-36f420).\n\n[^3]: *Diwan-E-Ghalib*, ch. 73, [p-85cc4e](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/73-hui-taakhir-to-kuch-baais-e-taakhir-bhi-tha/translation/#p-85cc4e).\n\n[^4]: *Diwan-E-Ghalib*, ch. 102, [p-8d8ade](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/102-kab-woh-sunta-hai-kahani-meri/translation/#p-8d8ade).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"why should I not weep\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"world has forgotten me\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forgotten me too\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "weep forgotten",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"should I not\" weep",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"why\" weep world",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ro kyun",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "weep",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "forgot",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"world has\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"should I not\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 190
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.190\\nverse · 7¶ · 155w · vocab 62 (TTR 91%, hapax 94%)\\n\\n## Distinctive trigrams\\n\\\"weep solace joy\\\" · \\\"solace joy sight\\\" ·"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"forgotten me\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "world forget",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"why\" cry",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"should\" weep OR cry",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"not weep\" OR \"not cry\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"world\" weep OR cry OR forgotten",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib \"weep\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 190
+      },
+      "result_summary": "Read ch.190 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 73
+      },
+      "result_summary": "Read ch.73 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 102
+      },
+      "result_summary": "Read ch.102 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 102,
+      "paragraph_id": "p-45286c"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 102,
+      "paragraph_id": "p-36f420"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 102,
+      "paragraph_id": "p-85cc4e"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 102,
+      "paragraph_id": "p-8d8ade"
+    }
+  ],
+  "duration_ms": 57723,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 45983,
+    "completion_tokens": 6154,
+    "total_tokens": 52137,
+    "cached_tokens": 29902,
+    "api_calls": 6,
+    "cost_usd": 0.0077883,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 373,
+        "total_tokens": 2282,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00028615
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2269,
+        "completion_tokens": 874,
+        "total_tokens": 3143,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0006085
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4841,
+        "completion_tokens": 830,
+        "total_tokens": 5671,
+        "cached_tokens": 150,
+        "cost_usd": 0.0013607
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10421,
+        "completion_tokens": 1589,
+        "total_tokens": 12010,
+        "cached_tokens": 4836,
+        "cost_usd": 0.0021533
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10742,
+        "completion_tokens": 1291,
+        "total_tokens": 12033,
+        "cached_tokens": 10416,
+        "cost_usd": 0.0012315
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 15801,
+        "completion_tokens": 1197,
+        "total_tokens": 16998,
+        "cached_tokens": 10737,
+        "cost_usd": 0.00214815
+      }
+    ]
+  }
+}

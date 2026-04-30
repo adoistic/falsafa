@@ -1,0 +1,156 @@
+{
+  "answer": "The riddle-like prophetic teaching in *Vainglory* (ch. 12 of *Old English Elegies*) frames a scene inside the Anglo-Saxon mead-hall (referred to as \"wine-halls,\" the \"symbel,\" and the \"feast\") where retainers gather amid clamor and boasting after wine has been drunk. It instructs the listener to distinguish two contrasting kinds of men by their behavior: the vainglorious thane (fiend's child, destined for hell) versus the humble thane (God's child, destined for heaven).[^1]\n\nKey excerpt on the mead-hall contrast:\n\n> [W]hen many who hold council are gathered,  \n> haughty war-smiths in the wine-halls;  \n> they sit at the symbel, reciting their tales,  \n> exchanging words, striving to know  \n> what strength of spear dwells there in the hall  \n> among the men, when wine has whetted  \n> the warrior's breast-chamber. Clamor rises,  \n> shouting in the troop, their speeches ring out  \n> in many ways. So are their spirits  \n> variously divided; the retainers are  \n> unlike. **One in his vainglory**  \n> presses on with power, an unseemly spirit  \n> swells up within him [...] **Now you may know**,  \n> if you should meet such a thane  \n> dwelling in the halls [...] **he is the fiend's own child** [...]  \n> **Know this, then: if you meet a humble man**,  \n> a thane among his people,  \n> his spirit is always joined with him—  \n> **he is God's own child**.[^1]\n\nThe full chapter (one continuous paragraph) develops this as a moral \"riddle\" or discernment test, linking the proud man's traits (boasting, envy, malice like \"flying arrows\" or \"spears of thought\") to Satan's fall among the angels, while the humble man embodies Christian virtues.[^2]\n\n[^1]: *Old English Elegies*, ch. 12 (*Vainglory*), [paragraph](/works/unknown-old-english-elegies-d5fe9e/12-vainglory/translation/#p-946b37).\n[^2]: *Old English Elegies*, ch. 12 (*Vainglory*), [/works/unknown-old-english-elegies-d5fe9e/12-vainglory/translation/](https://falsafa.corpus/works/unknown-old-english-elegies-d5fe9e/12-vainglory/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vainglory mead-hall riddle",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Vainglory\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.12\\nprose · 1¶ · 650w · vocab 260 (TTR 74%, hapax 83%)\\n\\n## Distinctive trigrams\\n\\\"god own child\\\" · \\\"own child welcome"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-946b37"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-946b37"
+    }
+  ],
+  "duration_ms": 18685,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 35246,
+    "completion_tokens": 2793,
+    "total_tokens": 38039,
+    "cached_tokens": 24051,
+    "api_calls": 5,
+    "cost_usd": 0.00483805,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 632,
+        "total_tokens": 2541,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00041565
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2492,
+        "completion_tokens": 315,
+        "total_tokens": 2807,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00037345
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7088,
+        "completion_tokens": 260,
+        "total_tokens": 7348,
+        "cached_tokens": 2487,
+        "cost_usd": 0.00117455
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10722,
+        "completion_tokens": 378,
+        "total_tokens": 11100,
+        "cached_tokens": 7083,
+        "cost_usd": 0.00127095
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 13035,
+        "completion_tokens": 1208,
+        "total_tokens": 14243,
+        "cached_tokens": 10717,
+        "cost_usd": 0.00160345
+      }
+    ]
+  }
+}

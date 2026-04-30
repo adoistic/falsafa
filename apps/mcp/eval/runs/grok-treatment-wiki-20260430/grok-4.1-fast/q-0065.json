@@ -1,0 +1,170 @@
+{
+  "answer": "**Allama Iqbal's poem \"Wataniyat\" (\"Nationalism\") appears as Chapter 25 in *Bang-E-Dara Part 3*.**[^1] Here is the full English translation:\n\n> [p-3b9de1] **Nationalism**  \n> \n> [p-79b1e9] In this new age, the wine, the cup, the Jam are new,  \n> The Saqi’s ways of grace and wrath are fashioned new.  \n> The Muslim, too, has built his sanctum all anew,  \n> While Civilization’s idol-smith carves idols new.  \n> Of all these newer gods, the greatest is the Nation;  \n> The robe it wears is Faith’s own final desecration.  \n> \n> [p-2737d5] This idol, forged by this new age’s philosophy,  \n> Lays waste the Prophet’s house of faith and piety.  \n> Your arm is mighty with the strength of Oneness still,  \n> Your homeland is Islam, you serve the Prophet’s will.  \n> O Mustafavi, show the world that ancient sight!  \n> And grind this hollow idol into dust and night!  \n> \n> [p-a723b2] To be confined to one place is calamity,  \n> Live free within the ocean, like a fish at sea.  \n> To leave one’s home is the Beloved’s sacred way,  \n> So bear you witness to the Prophet’s truth today.  \n> In the discourse of the state, the Nation is but land;  \n> In the Prophet’s teaching, Homeland is by God’s command.  \n> \n> [p-97937b] Among the world’s great peoples, rivalry it sows,  \n> The aim of trade becomes conquest where’er it goes.  \n> From it, all politics from truth and candor flees,  \n> And by its hand the weak man’s home is brought to its knees.  \n> By it, God’s own creation is in pieces torn,  \n> By it, the roots of Islam’s brotherhood are shorn.[^2]\n\nIqbal portrays territorial nationalism as a modern \"idol\" that desecrates Islamic faith, confines believers to mere land, fosters rivalry and conquest, and severs the universal brotherhood of Islam—urging Muslims to reject it in favor of a faith-centered \"homeland.\"[^3][^4]\n\n[^1]: *Bang-E-Dara Part 3*, ch. 25 (*Wataniyat*), [translation](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/).\n[^2]: Ibid., [¶¶1-4](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-3b9de1).\n[^3]: Ibid., [¶2](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-79b1e9).\n[^4]: Ibid., [¶4](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-97937b).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Wataniyat Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"territorial nationalism\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Wataniyat"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nationalism"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 25-wataniyat.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-3b9de1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-79b1e9"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-2737d5"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-a723b2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-97937b"
+    }
+  ],
+  "duration_ms": 26169,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 15653,
+    "completion_tokens": 2446,
+    "total_tokens": 18099,
+    "cached_tokens": 9694,
+    "api_calls": 4,
+    "cost_usd": 0.0028995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 317,
+        "total_tokens": 2222,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00025735
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2415,
+        "completion_tokens": 554,
+        "total_tokens": 2969,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007375
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5258,
+        "completion_tokens": 244,
+        "total_tokens": 5502,
+        "cached_tokens": 2410,
+        "cost_usd": 0.0008121
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 6075,
+        "completion_tokens": 1331,
+        "total_tokens": 7406,
+        "cached_tokens": 5253,
+        "cost_usd": 0.00109255
+      }
+    ]
+  }
+}

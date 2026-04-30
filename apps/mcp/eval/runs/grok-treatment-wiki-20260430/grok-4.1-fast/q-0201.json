@@ -1,0 +1,225 @@
+{
+  "answer": "In Urdu ghazals, the **maqta** (final couplet, or *sher*) traditionally incorporates the poet's *takhallus* (pen name) to \"sign\" the poem, often via direct address, punning, or narrative integration. Both Ghalib and Zauq adhere to this convention but infuse it with personal stylistic flair: Ghalib's self-naming is frequently ironic or self-mocking, underscoring philosophical contradiction or human frailty; Zauq's is more declarative, aligning with classical poise and proverbial wisdom.[^1][^2]\n\n### Ghalib's Ghazal 1 (\"Aa ke meri jaan ko qarar nahin hai\")\nGhalib places \"O Ghalib\" (*ai Ghalib*) in vocative address at the maqta's start, turning the poet into the subject of wry self-critique. The couplet laments a hypocritical vow to renounce wine, where the addressee (himself) lacks faith—mirroring the ghazal's refrain of absence (*nahin hai*). This self-naming heightens the irony: the poet judges his own insincerity.[^3]\n\n> You've sworn an oath, O Ghalib, to give up the wine,  \n> But in your vow, the faith of any prayer is not there.[^3]\n\n### Zauq's Ghazal 1 (\"Aankh us pur-jafa se ladti hai\")\nZauq deploys \"O Zauq\" (*ai Zauq*) similarly in vocative form but embeds it in a proverbial close, equating love's battlefield to deceitful warfare (quoting the adage *jang bhi dhoka hi hai*). The self-naming serves as sage reflection rather than confession, with the beloved's glance as cunning antagonist—exemplifying Zauq's refined, aphoristic closure.[^4]\n\n> O Zauq, 'tis true that \"war is but deceitful play,\"  \n> And so her glance with pure and practiced guile contends.[^4]\n\n**Contrast**: Ghalib's style is confessional and paradoxical, using the maqta to expose personal flaw amid the ghazal's existential void. Zauq's is proverbial and balanced, leveraging the maqta for moral distillation in a contest of gazes and fates. Both elevate the takhallus beyond mere signature, but Ghalib's invites empathetic ridicule, while Zauq's asserts detached insight.[^1][^2]\n\n[^1]: *Diwan-E-Ghalib*, [work overview](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/translation/).\n[^2]: *Diwan-E-Zauq*, [work overview](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/translation/).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 1 (\"Aa ke meri jaan ko qarar nahin hai\"), [p-4304e1](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/01-aa-ke-meri-jaan-ko-qarar-nahin-hai/translation/#p-4304e1).\n[^4]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch. 1 (\"Aankh us pur-jafa se ladti hai\"), [p-c251f5](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/01-aankh-us-pur-jafa-se-ladti-hai/translation/#p-c251f5).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Zauq",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maqta",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "takhallus",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "signature couplet",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 01-aa-ke-meri-jaan-ko-qarar-nahin-hai.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Zauq · ch.1\\nverse · 12¶ · 216w · vocab 108 (TTR 84%, hapax 92%)\\n\\n## Distinctive trigrams\\n\\\"eye cruel faithless\\\" · \\\"cruel faithless"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"zauq\" ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 88
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.88\\nverse · 12¶ · 316w · vocab 150 (TTR 86%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"journey beloved packed\\\" · \\\"beloved p"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 88,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.88 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 5,
+      "paragraph_id": "p-4304e1"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 5,
+      "paragraph_id": "p-c251f5"
+    }
+  ],
+  "duration_ms": 35343,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 42024,
+    "completion_tokens": 4973,
+    "total_tokens": 46997,
+    "cached_tokens": 13456,
+    "api_calls": 4,
+    "cost_usd": 0.0088729,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1921,
+        "completion_tokens": 770,
+        "total_tokens": 2691,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00048705
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 9549,
+        "completion_tokens": 862,
+        "total_tokens": 10411,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00205865
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13495,
+        "completion_tokens": 981,
+        "total_tokens": 14476,
+        "cached_tokens": 9544,
+        "cost_usd": 0.0017579
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 17059,
+        "completion_tokens": 2360,
+        "total_tokens": 19419,
+        "cached_tokens": 150,
+        "cost_usd": 0.0045693
+      }
+    ]
+  }
+}

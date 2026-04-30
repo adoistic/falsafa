@@ -1,0 +1,139 @@
+{
+  "answer": "**Charles Comte discusses literary property (*propriété littéraire*) and authorial rights primarily in Chapters 31 through 36 of *Traité de la propriété: VOL II*.**[^1]\n\nThese chapters form a dedicated section on the topic:\n\n- **Chapter 31**: \"Des fondemens et de la nature de la propriété littéraire\" (On the foundations and nature of literary property). Establishes the basis for authors' rights, arguing that an author's intellectual labor merits protection akin to other properties.[^2]\n- **Chapter 32**: \"Des causes qui ont privé les compositions littéraires des garanties accordées aux autres propriétés\" (On the causes that have deprived literary compositions of the guarantees accorded to other properties). Examines why literary works have been undervalued compared to material goods.[^3]\n- **Chapter 33**: \"Des lois relatives à la propriété des compositions littéraires\" (On the laws relative to the property of literary compositions). Surveys historical laws, including English statutes like Queen Anne's (1710) and French post-Revolution decrees, plus references to copyright and authors' rights.[^4]\n- **Chapter 34**: \"De la tendance des lois relatives à la propriété littéraire\" (On the tendency of laws relative to literary property). Analyzes how time-limited protections (e.g., 20–28 years) align with family interests and natural equity.[^5]\n- **Chapter 35**: \"Distinction entre la propriété littéraire et le monopole\" (Distinction between literary property and the monopoly). Differentiates true property rights from government-granted monopolies.[^6]\n- **Chapter 36**: \"Application des principes établis dans les chapitres précédens, à quelques questions de propriété littéraire\" (Application of the principles... to some questions of literary property). Applies principles to issues like foreign publication, infringement, translations, and posthumous rights.[^7]\n\nThe surrounding chapters (e.g., 29–30 on industrial inventions) provide context on intellectual property broadly, but 31–36 focus specifically on literary/authorial matters.[^8]\n\n[^1]: Charles Comte, *Traité de la propriété: VOL II*, work-level wiki card, [link](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/wiki/_work.card.md).\n[^2]: Ibid., ch. 31 wiki card, [link](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/wiki/31-des-fondemens-et-de-la-nature-de-la-propriete-litt.card.md).\n[^3]: Ibid., ch. 32 wiki card, [link](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/wiki/32-des-causes-qui-ont-prive-les-compositions-litterai.card.md).\n[^4]: Ibid., ch. 33 wiki card, [link](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/wiki/33-des-lois-relatives-a-la-propriete-des-compositions.card.md).\n[^5]: Ibid., ch. 34 wiki card, [link](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/wiki/34-de-la-tendance-des-lois-relatives-a-la-propriete-l.card.md).\n[^6]: Chapter list, [link](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/chapters).\n[^7]: Ibid., ch. 36 wiki card, [link](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/wiki/36-application-des-principes-etablis-dans-les-chapitr.card.md).\n[^8]: Ibid., work-level wiki card.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"literary property\" OR \"authorial rights\" OR \"property in writings\" OR \"copyright\" OR \"author's rights\"",
+        "limit": 20
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 31
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.31\\nprose · 48¶ · 5507w · vocab 1011 (TTR 41%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"according common law"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 32
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.32\\nprose · 36¶ · 4374w · vocab 825 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"fall public domain\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 33
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.33\\nprose · 53¶ · 6543w · vocab 1262 (TTR 40%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"eighth year reign\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 34
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.34\\nprose · 22¶ · 2689w · vocab 594 (TTR 47%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"only temporary enjoym"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 36
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.36\\nprose · 55¶ · 6987w · vocab 1154 (TTR 37%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"godson *practical tr"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 31955,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 24963,
+    "completion_tokens": 3057,
+    "total_tokens": 28020,
+    "cached_tokens": 9869,
+    "api_calls": 4,
+    "cost_usd": 0.00504075,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 291,
+        "total_tokens": 2198,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005044
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2635,
+        "completion_tokens": 480,
+        "total_tokens": 3115,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007445
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6944,
+        "completion_tokens": 767,
+        "total_tokens": 7711,
+        "cached_tokens": 2630,
+        "cost_usd": 0.0013778
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 13477,
+        "completion_tokens": 1519,
+        "total_tokens": 14996,
+        "cached_tokens": 6939,
+        "cost_usd": 0.00241405
+      }
+    ]
+  }
+}

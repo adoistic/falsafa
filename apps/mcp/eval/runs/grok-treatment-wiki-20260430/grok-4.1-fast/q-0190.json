@@ -1,0 +1,320 @@
+{
+  "answer": "**The prayascittas (expiations or penances) for drinking surā (translated here as \"liquor,\" a distilled intoxicant) are not found in the short excerpt labeled as Manusmṛti chapter 11 in this corpus (verses 11.1–6, concerning gifts to Brahmins).**[^1]\n\n**They appear instead in the much longer section beginning at verse 11.7 (in the corpus's chapter 12), which continues the logical content of Manusmṛti chapter 11 on penances.**[^2] Specifically:\n\n- **11.90–92**: A twice-born (dvija) who drinks liquor out of delusion must either (i) drink boiling-hot liquor until death; (ii) drink heated cow's urine, milk, ghee, etc., until death; or (iii) for one year, eat grains or oil-cake only at night while dressed in haircloth with matted hair and carrying a banner.[^3]\n- **11.93–97**: Liquor (from molasses, grain, or honey) is equated with filth and sin; it is forbidden to Brahmins, Kshatriyas, and Vaishyas. Drinking it floods the Veda in one's body, reducing a Brahmin to Shudra status; it leads to delusion and forbidden acts.[^4]\n- **11.98**: These expiations conclude the topic before moving to theft.[^5]\n\n**Liquor drinking is one of the four \"great sins\" (mahāpātakas, alongside Brahmin-killing, gold theft, and defiling a guru's bed; see 11.54).**[^6]\n\n[^1]: Manusmṛti, [Chapter 11](/works/unknown-manusmrti-347b76/11/translation/).\n\n[^2]: Manusmṛti, [Chapter 12](/works/unknown-manusmrti-347b76/12/translation/).\n\n[^3]: Manusmṛti, [11.90–92](/works/unknown-manusmrti-347b76/12/translation/#p-8246b0).\n\n[^4]: Manusmṛti, [11.93–97](/works/unknown-manusmrti-347b76/12/translation/#p-d24880).\n\n[^5]: Manusmṛti, [11.98](/works/unknown-manusmrti-347b76/12/translation/#p-54935a).\n\n[^6]: Manusmṛti, [11.54](/works/unknown-manusmrti-347b76/12/translation/#p-961cc5).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Manusmṛti · ch.11\\nverse · 6¶ · 206w · vocab 59 (TTR 64%, hapax 76%)\\n\\n## Distinctive trigrams\\n\\\"brahmanas learned veda\\\" · \\\"one establishin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"surā\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sura\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"drinking sura\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"prayascitta\" sura"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sura",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liquor"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intoxicant"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "drinking"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "penance sura"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"drinks\" OR \"drunk\" OR \"drinking\" OR \"liquor\" OR \"wine\" OR \"sura\" OR \"surā\" work_slug:unknown-manusmrti-347b76"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"drinking liquor\" OR \"liquor\" OR \"sin of drinking\" work_slug:unknown-manusmrti-347b76",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-8246b0",
+          "p-02bb6e",
+          "p-0604dd",
+          "p-d24880",
+          "p-7b28f0",
+          "p-5e5b34",
+          "p-df797f",
+          "p-b68029",
+          "p-54935a"
+        ]
+      },
+      "result_summary": "Returned 9 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "error BAD_QUERY: get_passage requires either paragraph_ids or paragraph_range"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 11,
+      "paragraph_id": "p-8246b0"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 11,
+      "paragraph_id": "p-d24880"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 11,
+      "paragraph_id": "p-54935a"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 11,
+      "paragraph_id": "p-961cc5"
+    }
+  ],
+  "duration_ms": 61227,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 121233,
+    "completion_tokens": 6226,
+    "total_tokens": 127459,
+    "cached_tokens": 79409,
+    "api_calls": 7,
+    "cost_usd": 0.01544825,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1912,
+        "completion_tokens": 558,
+        "total_tokens": 2470,
+        "cached_tokens": 1888,
+        "cost_usd": 0.0003782
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2861,
+        "completion_tokens": 191,
+        "total_tokens": 3052,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00038555
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 4472,
+        "completion_tokens": 539,
+        "total_tokens": 5011,
+        "cached_tokens": 2856,
+        "cost_usd": 0.0007355
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 5320,
+        "completion_tokens": 1213,
+        "total_tokens": 6533,
+        "cached_tokens": 4467,
+        "cost_usd": 0.00100045
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20159,
+        "completion_tokens": 878,
+        "total_tokens": 21037,
+        "cached_tokens": 5315,
+        "cost_usd": 0.00367355
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 42853,
+        "completion_tokens": 1018,
+        "total_tokens": 43871,
+        "cached_tokens": 20154,
+        "cost_usd": 0.0060565
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 43656,
+        "completion_tokens": 1829,
+        "total_tokens": 45485,
+        "cached_tokens": 42848,
+        "cost_usd": 0.0032185
+      }
+    ]
+  }
+}

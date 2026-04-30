@@ -1,0 +1,122 @@
+{
+  "answer": "**The work is *Juliana* by Cynewulf, Chapter 1.**[^1]\n\nThe passage describes the persecutor (the reeve Eleusius) ordering an earthen (clay) vessel filled with lead and set atop a massive pyre—\"the greatest of pyres\"—to form a boiling \"bath\" of molten lead. The saint Juliana is thrust into it guiltlessly, but the lead erupts (\"sprang wide\"), killing precisely seventy-five heathens while leaving her entirely unharmed: her veil, robe, hair, skin, body, and limbs untouched by fire.\n\n> The fiend was not slow, who taught him to have  \n> an earthen vessel made with wondrous craft,  \n> and piled high with wood. Then the hard man commanded  \n> that the clay vessel be filled with lead,  \n> and ordered the greatest of pyres to be kindled,  \n> a bale-fire lit, surrounded on all sides  \n> with brands. The bath boiled hot. Then, swollen with anger,  \n> he ordered the faultless one to be shoved,  \n> guiltless, into the surging lead. The flame was split apart,  \n> the fire loosed. The lead sprang wide,  \n> hot and sword-greedy. The men were terrified,  \n> startled by the rush. There, in number, burned  \n> by the fire’s blast, **seventy-five**  \n> of the **heathen host**. Yet the holy one stood  \n> with her beauty unblemished. Not her **veil** nor her **robe**,  \n> not her **hair** nor her **skin** was marked by the fire,  \n> not her **body** nor **limbs**. She stood in the flame  \n> entirely sound, and gave thanks for it all  \n> to the Lord of lords.[^1]\n\n[^1]: Cynewulf, *Juliana*, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-3a01e6).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "seventy-five",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vessel\" lead",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"clay vessel\" OR \"earthen vessel\" lead",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pyre bath lead",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heathen host\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-3a01e6"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-3a01e6"
+    }
+  ],
+  "duration_ms": 29051,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 21503,
+    "completion_tokens": 1904,
+    "total_tokens": 23407,
+    "cached_tokens": 8887,
+    "api_calls": 3,
+    "cost_usd": 0.00391955,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1982,
+        "completion_tokens": 570,
+        "total_tokens": 2552,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00039895
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5128,
+        "completion_tokens": 343,
+        "total_tokens": 5471,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00091495
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 14393,
+        "completion_tokens": 991,
+        "total_tokens": 15384,
+        "cached_tokens": 5123,
+        "cost_usd": 0.00260565
+      }
+    ]
+  }
+}

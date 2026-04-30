@@ -1,0 +1,240 @@
+{
+  "answer": "> **Matla (opening couplet) of Ghazal 204 from *Diwan-e-Ghalib***:\n\n**Original (Urdu):**  \nیہ نہ تھی ہماری قسمت کہ وصال_یار ہوتا  \nاگر اور جیتے رہتے یہی انتظار ہوتا[^1]\n\n**Transliteration:**  \nYeh na thi hamari qismat ke visaal-e-yaar hota  \nAgar aur jeete rehte yahi intezaar hota[^2]\n\n**Translation:**  \nTo be with my Beloved was not my fate;  \nHad I lived longer, waiting was my state.[^3]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [p-0ed9be](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/204-yeh-na-thi-hamari-qismat-ke-visaal-e-yaar-hota/original/#p-0ed9be).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [p-007848](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/204-yeh-na-thi-hamari-qismat-ke-visaal-e-yaar-hota/transliteration/#p-007848).\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [p-e43078](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/204-yeh-na-thi-hamari-qismat-ke-visaal-e-yaar-hota/translation/#p-e43078).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ye na thi hamari qismat ke wisaal-e-yaar hota",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wisaal-e-yaar\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 204-yeh-na-thi-hamari-qismat-ke-visaal-e-yaar-hota.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.204 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.204 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "paragraph_ids": [
+          "007848"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "paragraph_ids": [
+          "007848"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "paragraph_ids": [
+          "007848"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "paragraph_ids": [
+          "p-007848"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "paragraph_ids": [
+          "p-e43078"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "paragraph_ids": [
+          "p-007848",
+          "p-095dc3"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 204,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.204 of mirza-ghalib-diwan-e-ghalib-74ed4c (original)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-0ed9be"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-007848"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 204,
+      "paragraph_id": "p-e43078"
+    }
+  ],
+  "duration_ms": 56524,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 26113,
+    "completion_tokens": 6008,
+    "total_tokens": 32121,
+    "cached_tokens": 20018,
+    "api_calls": 5,
+    "cost_usd": 0.0052239,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1912,
+        "completion_tokens": 513,
+        "total_tokens": 2425,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00035675
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 4037,
+        "completion_tokens": 590,
+        "total_tokens": 4627,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00082025
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 5884,
+        "completion_tokens": 1211,
+        "total_tokens": 7095,
+        "cached_tokens": 4032,
+        "cost_usd": 0.0011775
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 6350,
+        "completion_tokens": 1699,
+        "total_tokens": 8049,
+        "cached_tokens": 5879,
+        "cost_usd": 0.00123765
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 7930,
+        "completion_tokens": 1995,
+        "total_tokens": 9925,
+        "cached_tokens": 6345,
+        "cost_usd": 0.00163175
+      }
+    ]
+  }
+}

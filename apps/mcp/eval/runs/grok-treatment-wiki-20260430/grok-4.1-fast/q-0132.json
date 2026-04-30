@@ -1,0 +1,293 @@
+{
+  "answer": "**No exact match or close equivalent exists in the English translation of *Diwan-E-Ghalib* for the idea that \"his life ended in the wait for promises that never came.\"**\n\nI searched the English translation extensively for key terms and phrases (e.g., \"life\" + \"promises\"/\"wait\"/\"waiting\"/\"promise\", \"promises\" + \"came\"/\"life\", \"ended\"/\"end\" + \"life\"/\"promise\", \"vow\" + \"life\", \"died waiting\") across the 239 chapters. No results directly expressed this sentiment.[^1]\n\nThe closest passages mention promises or vows in contexts of betrayal, decay, or unfulfilled love, but none tie them to a life \"ending in the wait\":\n- Chapter 27: \"You swore a vow of faith for life, but pray, / Does life itself not promise to decay?\"[^2] (Here, life itself \"promises\" decay, questioning lifelong vows.)\n- Chapter 212: \"For promises of faith are just a well-known lie.\"[^3]\n- Chapter 6: References to \"promised meetings,\" but as false hopes from a rival.[^4]\n\nThe Diwan frequently explores unfulfilled love, transience, and betrayal (e.g., vows decaying, faith as lies), but this specific phrasing or concept isn't present in the translation. If you're recalling a different edition, Urdu original, or paraphrase, it may not align with this corpus version (translated by Thothica). The corpus covers the complete ghazals but not every possible interpretation.[^5]\n\n[^1]: Multiple `search_corpus` results, e.g., for `\"life\" \"promises\" wait` and variants (0 hits); `\"promise\"`/`\"promises\"` (scattered unrelated hits outside Ghalib).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 27 (\"Dard se mere hai tujh ko be-qarari haaye haaye\"), [p-efe750](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/27-dard-se-mere-hai-tujh-ko-be-qarari-haaye-haaye/translation/#p-efe750).\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 212 (\"ba-naala haasil-e-dil-bastagi faraham kar\"), [p-c87581](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/212-ba-naala-haasil-e-dil-bastagi-faraham-kar/translation/#p-c87581).\n\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 6 (\"Aamad-e-khat se hua hai sard jo bazaar-e-dost\"), [p-bc4650](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/06-aamad-e-khat-se-hua-hai-sard-jo-bazaar-e-dost/translation/#p-bc4650).\n\n[^5]: `read_wiki` for *mirza-ghalib-diwan-e-ghalib-74ed4c*; full work has 239 logical chapters (ghazals), 17,963 words.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life\" \"promises\" wait",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"promises\" \"life\" \"waiting\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wait\" \"promises\" \"life\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "promise",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "promises",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"waiting\" promise",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life\" waiting",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life\" promise",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ended\" life",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life\" \"wait\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "died waiting",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"end\" promise",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wait\" \"promise\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"promises\" \"came\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 27
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.27\\nverse · 12¶ · 240w · vocab 89 (TTR 74%, hapax 83%)\\n\\n## Distinctive trigrams\\n\\\"pain once made\\\" · \\\"once made turn\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 212
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.212\\nverse · 3¶ · 63w · vocab 32 (TTR 86%, hapax 91%)\\n\\n## Distinctive trigrams\\n\\\"sighs compound interest\\\" · \\\"compound inte"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 6
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 06-aamad-e-khat-se-hua-hai-sard-jo-bazaar-e-dost.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 27
+      },
+      "result_summary": "Read ch.27 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 212
+      },
+      "result_summary": "Read ch.212 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vow\" life",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 6,
+      "paragraph_id": "p-efe750"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 6,
+      "paragraph_id": "p-c87581"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 6,
+      "paragraph_id": "p-bc4650"
+    }
+  ],
+  "duration_ms": 33730,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 39370,
+    "completion_tokens": 4624,
+    "total_tokens": 43994,
+    "cached_tokens": 16268,
+    "api_calls": 5,
+    "cost_usd": 0.007745799999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 651,
+        "total_tokens": 2560,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00042515
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2288,
+        "completion_tokens": 977,
+        "total_tokens": 3265,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00066395
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10078,
+        "completion_tokens": 1084,
+        "total_tokens": 11162,
+        "cached_tokens": 2283,
+        "cost_usd": 0.00221515
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 11358,
+        "completion_tokens": 669,
+        "total_tokens": 12027,
+        "cached_tokens": 10073,
+        "cost_usd": 0.00109515
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13737,
+        "completion_tokens": 1243,
+        "total_tokens": 14980,
+        "cached_tokens": 150,
+        "cost_usd": 0.0033464
+      }
+    ]
+  }
+}

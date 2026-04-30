@@ -1,0 +1,227 @@
+{
+  "answer": "**In the *Manusmṛti* (also known as the *Laws of Manu*), Chapter 3, the text enumerates eight forms of marriage (verses Mn_3.20–21).**[^1]\n\nThe passage introduces them as follows:\n\n> [p-36d967] Now learn in summary these eight forms of marriage for women, for the four *varnas*, which are beneficial and harmful in this world and the next. // Mn_3.20 //  \n> [p-b07c61] The `Brāhma`, the `Daiva`, and also the `Ārṣa`; the `Prājāpatya` and the `Āsura`; the `Gāndharva` and the `Rākṣasa`; and the eighth and lowest, the `Paiśāca`. // Mn_3.21 //\n\nThese match the query's descriptions: the *Gāndharva* rite is \"the voluntary union of a maiden and her lover... which springs from desire\" (Mn_3.32);[^2] the *Rākṣasa* is \"the forcible abduction of a maiden... after her kinsmen have been slain, wounded\" (Mn_3.33);[^3] and the *Paiśāca* is when \"a man secretly approaches a girl who is sleeping, intoxicated... the eighth and most wicked\" (Mn_3.34).[^4]\n\n[^1]: *Manusmṛti*, [Chapter 3, paragraphs p-36d967 and p-b07c61](/works/unknown-manusmrti-347b76/03/translation/#p-36d967).\n[^2]: *Manusmṛti*, [Chapter 3, paragraph p-beb0f2](/works/unknown-manusmrti-347b76/03/translation/#p-beb0f2).\n[^3]: *Manusmṛti*, [Chapter 3, paragraph p-2f28cf](/works/unknown-manusmrti-347b76/03/translation/#p-2f28cf).\n[^4]: *Manusmṛti*, [Chapter 3, paragraph p-ca03b2](/works/unknown-manusmrti-347b76/03/translation/#p-ca03b2).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "voluntary union of a maiden",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kinsmen are slain\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sleeping or intoxicated\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eight forms of marriage\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.3\\nverse · 66¶ · 2063w · vocab 471 (TTR 49%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"his own *varna*\\\" · \\\"one his own\\\" · \\\"mn_3 "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eight forms\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"abduction\" marriage",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sleeping\" marriage",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Rākṣasa\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Paiśāca\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-36d967",
+          "p-b07c61"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-beb0f2",
+          "p-2f28cf",
+          "p-ca03b2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-36d967"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-b07c61"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-beb0f2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-2f28cf"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-ca03b2"
+    }
+  ],
+  "duration_ms": 34746,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 21827,
+    "completion_tokens": 3558,
+    "total_tokens": 25385,
+    "cached_tokens": 14314,
+    "api_calls": 5,
+    "cost_usd": 0.0039973000000000005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1956,
+        "completion_tokens": 477,
+        "total_tokens": 2433,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00034755
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2330,
+        "completion_tokens": 390,
+        "total_tokens": 2720,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006385
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2991,
+        "completion_tokens": 431,
+        "total_tokens": 3422,
+        "cached_tokens": 2325,
+        "cost_usd": 0.00046495
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6977,
+        "completion_tokens": 860,
+        "total_tokens": 7837,
+        "cached_tokens": 2986,
+        "cost_usd": 0.0013775
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 7573,
+        "completion_tokens": 1400,
+        "total_tokens": 8973,
+        "cached_tokens": 6972,
+        "cost_usd": 0.0011688
+      }
+    ]
+  }
+}

@@ -1,0 +1,138 @@
+{
+  "answer": "**There is no discussion of *bodhicitta* in *Kalpabuddha*, Chapter 3.**[^1]\n\nThis short chapter (2 paragraphs, 41 words) describes Lord Ratnasambhava's attributes in the context of a mandala or deity yoga framework: his direction (South), color (yellow), consort (Lady Māmakī), mantra (Trāṃ), jñāna (ākāśamata), implement (kapāla), and abode (inside of the spleen).[^1][^2]\n\n*Bodhicitta* (\"enlightenment mind\") does appear in other works in the corpus, such as *San Hyan Kamahayanikan* (Ch. 1) and *Kunjarakarna Dharmakathana* (Ch. 1), but not here or anywhere else in *Kalpabuddha*.[^3]\n\n[^1]: *Kalpabuddha*, Ch. 3 (full chapter), [translation](https://falsafa.corpus/works/unknown-kalpabuddha-d760dc/03/translation/).\n\n[^2]: *Kalpabuddha*, Ch. 3, ¶¶ [p-f7acd5](https://falsafa.corpus/works/unknown-kalpabuddha-d760dc/03/translation/#p-f7acd5), [p-68d96e](https://falsafa.corpus/works/unknown-kalpabuddha-d760dc/03/translation/#p-68d96e).\n\n[^3]: Corpus search for \"bodhicitta\" (0 hits in *Kalpabuddha*).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kalpabuddha"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kalpabuddha · ch.3\\nprose · 2¶ · 41w · vocab 22 (TTR 81%, hapax 95%)\\n\\n## Distinctive trigrams\\n\\\"### paragraph lord\\\" · \\\"paragraph lord ratnasam"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bodhicitta",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "{\"markdown\":\"# Kalpabuddha\\nUnknown · Medieval · kawi · prose · 6 chapters · 535 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"### paragraph lord\\\" · \\\"his abode ###\\\" · "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "Listed 6 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-f7acd5"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-68d96e"
+    }
+  ],
+  "duration_ms": 26338,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 22017,
+    "completion_tokens": 2680,
+    "total_tokens": 24697,
+    "cached_tokens": 14427,
+    "api_calls": 4,
+    "cost_usd": 0.0035793500000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 673,
+        "total_tokens": 2577,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006948
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5418,
+        "completion_tokens": 380,
+        "total_tokens": 5798,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0009913
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6987,
+        "completion_tokens": 522,
+        "total_tokens": 7509,
+        "cached_tokens": 5413,
+        "cost_usd": 0.00084645
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7708,
+        "completion_tokens": 1105,
+        "total_tokens": 8813,
+        "cached_tokens": 6982,
+        "cost_usd": 0.0010468
+      }
+    ]
+  }
+}

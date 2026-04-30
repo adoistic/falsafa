@@ -1,0 +1,199 @@
+{
+  "answer": "**Sarguzasht-e-Adam** (The Saga of Man / The Autobiography of Adam) is a poem by Allama Iqbal from *Bang-E-Dara Part 1* (1924), chapter 37. Here is the English translation:[^1]\n\n> [p-4b8f05] The Saga of Man  \n> \n> [p-7c0f77] Come, hear from me the story of my exile’s way;  \n> The tale of the First Covenant I let fall away.  \n> \n> [p-3d6971] My spirit found no rest in Paradise’s domain,  \n> Once the fiery cup of consciousness I chose to drain.  \n> \n> [p-3c774b] For cosmic truth I kept a burning, endless quest;  \n> The highest reach of soaring thought I then expressed.  \n> \n> [p-7b1aaa] With such a restless nature, loving change, was I endowed,  \n> Beneath the sky, no lasting peace have I allowed.  \n> \n> [p-6544d1] At times, from the sanctum, stone idols I would expel,  \n> At times, new gods within its holy walls I made to dwell.  \n> \n> [p-ca07a6] At times, to Sinai, in my desire to speak, I flew,  \n> The Light Eternal in my sleeve I hid from view.  \n> \n> [p-3f09ed] At times, upon the Cross, by my own kin I was spurned,  \n> Then leaving earth, to heaven’s heights my soul returned.  \n> \n> [p-53df18] At times, in Hira’s Cave for many years I stayed,  \n> The final cup of truth to all the world I freely gave.  \n> \n> [p-6c71af] In India, I arrived and sang the hymns divine,  \n> At times, the ancient land of Greece I chose as mine.  \n> \n> [p-25528e] And when the land of India would not heed my sound,  \n> In China and Japan, new homelands I then found.  \n> \n> [p-8068eb] At times, from particles, a universe I wrought,  \n> Against the meaning that the men of faith had taught.  \n> \n> [p-251857] I stained a hundred different lands with blood-red dye,  \n> The war of faith and reason I let fly.  \n> \n> [p-5e01d5] When I could not yet grasp the truth the stars arrayed,  \n> In that same thought, through endless nights I watched and stayed.  \n> \n> [p-825261] The drawn swords of the Church could not inspire my fear,  \n> The truth of Earth’s own turning I made clear.  \n> \n> [p-d7ed01] The secret law of gravity I laid quite bare,  \n> The lens of my far-seeing mind I focused there.  \n> \n> [p-34f01e] The restless lightning and the sun’s own rays I caught,  \n> This earth into a rival of Paradise I wrought.  \n> \n> [p-ae0be0] But ah! The secret of existence was not revealed,  \n> Though with my mind, the world itself I forced to yield.  \n> \n> [p-08cb93] But when my eye that worships form at last was opened wide,  \n> I found that in my own heart’s house He did reside.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 37 (\"Sarguzasht-e-Adam\"), translation ([/works/allama-iqbal-bang-e-dara-part-1-55b25c/37-sarguzasht-e-adam/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/37-sarguzasht-e-adam/translation/)). The poem narrates humanity's (Adam's) spiritual journey from Paradise through history, seeking truth across religions, lands, and sciences, ultimately finding God within the heart.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sarguzasht-e-Adam"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"autobiography of Adam\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 37
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.37\\nverse · 19¶ · 363w · vocab 156 (TTR 83%, hapax 86%)\\n\\n## Distinctive trigrams\\n\\\"saga man come\\\" · \\\"man come hear\\\" ·"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 37,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.37 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 37,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.37 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-4b8f05"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-7c0f77"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-3d6971"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-3c774b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-7b1aaa"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-6544d1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-ca07a6"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-3f09ed"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-53df18"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-6c71af"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-25528e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-8068eb"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-251857"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-5e01d5"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-825261"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-d7ed01"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-34f01e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-ae0be0"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 37,
+      "paragraph_id": "p-08cb93"
+    }
+  ],
+  "duration_ms": 33340,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 10485,
+    "completion_tokens": 2372,
+    "total_tokens": 12857,
+    "cached_tokens": 5054,
+    "api_calls": 3,
+    "cost_usd": 0.0025249,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 327,
+        "total_tokens": 2233,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005222
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3028,
+        "completion_tokens": 484,
+        "total_tokens": 3512,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00056545
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 5551,
+        "completion_tokens": 1561,
+        "total_tokens": 7112,
+        "cached_tokens": 3023,
+        "cost_usd": 0.00143725
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "answer": "**In Allama Iqbal's poem \"Jugnu\" (Firefly), chapter 27 of *Bang-E-Dara Part 1*, the firefly's small light symbolizes a \"hidden glimpse of Primal Beauty's light,\" which Nature has manifested visibly after drawing it from solitude.[^1]**\n\nThis tiny, flickering light—likened to a \"tiny moon\" that alternately holds darkness and illumination—teaches that every created thing bears a unique trace of this Primal Beauty: the moth burns with passion, voiceless birds sing vibrantly, roses speak silently through fragrance, and so on.[^2][^3] Humans err in perceiving these distinctions as divisions (\"this distinction is a human plight\"), for beneath the apparent multiplicity lies profound **Unity**: \"In all the Many, Unity lies deep; / The firefly's shine is scent the flowers keep.\"[^4]\n\nUltimately, the firefly's modest glow urges transcendence of strife over differences, revealing \"Eternal Silence\" (the Divine essence) hidden equally in all life: \"Why then should difference be a cause for strife, / When Eternal Silence hides in all of life?\"[^5] It mirrors the poet's heart, where moonlight becomes sorrow's dart, emphasizing inner spiritual luminescence over outward form.[^6]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 27 \"Jugnu\" (*translation*), [p-81ff7c](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-81ff7c).\n\n[^2]: *Ibid.*, [p-f39903](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-f39903), [p-9135b8](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-9135b8), [p-1cebb6](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-1cebb6).\n\n[^3]: *Ibid.*, [p-86d8dc](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-86d8dc).\n\n[^4]: *Ibid.*, [p-2290ee](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-2290ee), [p-24c42c](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-24c42c).\n\n[^5]: *Ibid.*, [p-890798](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-890798).\n\n[^6]: *Ibid.*, [p-7246ad](/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-7246ad).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Jugnu firefly Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 27
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 27-jugnu.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 27,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.27 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-81ff7c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-f39903"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-9135b8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-1cebb6"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-86d8dc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-2290ee"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-24c42c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-890798"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 27,
+      "paragraph_id": "p-7246ad"
+    }
+  ],
+  "duration_ms": 28977,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 37672,
+    "completion_tokens": 3096,
+    "total_tokens": 40768,
+    "cached_tokens": 27766,
+    "api_calls": 5,
+    "cost_usd": 0.0049175,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 502,
+        "total_tokens": 2409,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00035025
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2459,
+        "completion_tokens": 537,
+        "total_tokens": 2996,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00047815
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10721,
+        "completion_tokens": 268,
+        "total_tokens": 10989,
+        "cached_tokens": 2454,
+        "cost_usd": 0.0019101
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 10839,
+        "completion_tokens": 166,
+        "total_tokens": 11005,
+        "cached_tokens": 10716,
+        "cost_usd": 0.0006434
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 11746,
+        "completion_tokens": 1623,
+        "total_tokens": 13369,
+        "cached_tokens": 10834,
+        "cost_usd": 0.0015356
+      }
+    ]
+  }
+}

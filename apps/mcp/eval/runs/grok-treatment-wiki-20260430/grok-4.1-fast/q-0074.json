@@ -1,0 +1,202 @@
+{
+  "answer": "In Chapter 8 of *Traité de Législation Vol. I*, Charles Comte critiques the system—popularized by thinkers like Rousseau, who admired Muhammad's institutions—that posits a \"positive religion\" (i.e., one with specific dogmas and precepts from a revealed source) as the **exclusive foundation** of both morality and legislation.[^1] He argues that this approach derives from the weakness of prior systems (like laws as the \"general will\"), which undervalue human reason and discussion, leading proponents to invoke divine authority and fuse civil magistrates with religious ministers.[^2]\n\nComte contends that the system systematically **excludes empirical observation** (\"the analytical method\") from studying morality and laws, basing duties solely on supposed divine precepts interpreted via sacred texts and clergy. Actions are deemed moral only if they align with an unknowable supernatural will, ignoring real-world causes, effects, goods, and evils in this life.[^3] Notably, he observes, no religion's founders explicitly forbade such inquiry (any more than they banned studying physics), but ministers of various creeds systematically condemn it to protect their influence, conceal flawed precepts, or advance personal interests—especially as religions accumulate rules beyond the founders' original aims.[^4][^5]\n\nThis empowers clergy as \"exclusive guardians\" of virtues like probity, chastity, and property respect, elevating them near-divine status and fostering systemic hypocrisy: even skeptics uphold the beliefs for supposed societal utility.[^6] Consequences include **civilizational stagnation**, as religious precepts cannot be revised by experience or enlightenment—truths are excluded, errors entrenched, and progress halted where religions (especially comprehensive ones regulating all life) dominate.[^7] Peoples under such systems become priestly slaves, viewing reason as impious; quarrels erupt between church and state; and morality crumbles as false beliefs erode, authorizing vice among dissenters.[^8]\n\nComte distinguishes this from Christianity, which he views as non-legislative and reason-compatible, and contrasts it with an observational method grounded in human nature's tendency toward prosperity via enlightenment.[^9] He rejects claims that any/every positive religion underpins good morals (contradicted by facts) or that errors are needed for order, affirming that truth-based sciences alone endure.[^10]\n\n[^1]: [Paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/#p-89a0f7).\n\n[^2]: [Paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/#p-89a0f7).\n\n[^3]: [Paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/#p-a28373).\n\n[^4]: [Paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/#p-ae5e9a).\n\n[^5]: [Paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/#p-e96a25).\n\n[^6]: [Paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/#p-e96a25).\n\n[^7]: [Paragraphs](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/#p-ba92dc).\n\n[^8]: [Paragraphs](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/#p-108132).\n\n[^9]: [Paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/#p-90e298).\n\n[^10]: [Paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/#p-d59d51).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Traité de Législation\" Comte"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"positive religion\" legislation Comte"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.8\\nprose · 33¶ · 4826w · vocab 830 (TTR 38%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"good morals good\\\" · \\\"mo"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 8
+      },
+      "result_summary": "Read ch.8 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-89a0f7",
+          "p-a28373",
+          "p-ae5e9a",
+          "p-e96a25",
+          "p-ba92dc",
+          "p-108132",
+          "p-d59d51"
+        ]
+      },
+      "result_summary": "Returned 7 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 8,
+        "paragraph_range": {
+          "start": 0,
+          "end": 33
+        }
+      },
+      "result_summary": "error PASSAGE_OUT_OF_RANGE: Paragraph range [0, 33] is invalid"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-89a0f7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-a28373"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-ae5e9a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-e96a25"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-ba92dc"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-108132"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-90e298"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-d59d51"
+    }
+  ],
+  "duration_ms": 38585,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 37128,
+    "completion_tokens": 4025,
+    "total_tokens": 41153,
+    "cached_tokens": 24842,
+    "api_calls": 5,
+    "cost_usd": 0.0057118,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1911,
+        "completion_tokens": 568,
+        "total_tokens": 2479,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00038375
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2753,
+        "completion_tokens": 345,
+        "total_tokens": 3098,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00044095
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6103,
+        "completion_tokens": 224,
+        "total_tokens": 6327,
+        "cached_tokens": 2748,
+        "cost_usd": 0.0009204
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 12237,
+        "completion_tokens": 1015,
+        "total_tokens": 13252,
+        "cached_tokens": 6098,
+        "cost_usd": 0.0020402
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 14124,
+        "completion_tokens": 1873,
+        "total_tokens": 15997,
+        "cached_tokens": 12232,
+        "cost_usd": 0.0019265
+      }
+    ]
+  }
+}

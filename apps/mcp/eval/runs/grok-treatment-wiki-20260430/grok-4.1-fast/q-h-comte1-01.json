@@ -1,0 +1,373 @@
+{
+  "answer": "**This argument appears in *Traité de Législation: VOL I* (Charles Comte), Chapter 13 (\"Distinction between an arbitrary regime and a legal regime. Of what constitutes the difference\").**[^1]\n\nThe key passage making the analogy between slaves/herds under an orderly \"code\" and legal rule (which is still oppressive) is as follows:\n\n> A proprietor can put regularity into the management of a farm; he can trace for each of his agents the rules they must follow in the administration of his herds; he can determine the hours at which they will be led to pasture, the times at which they will be shorn, the time at which it will be permitted to mate them, and even the age at which they will be delivered to the butcher. If he has slaves, he can make, for them, regulations analogous to those he will have made for his herds; he can determine the hours of work they will owe per day, the quantity of food that will be left to them, the number of lashes of the whip that will be given to them in determined circumstances; he can make, in a word, a regulation as well written and as provident as the most admired code. When everything has been thus regulated, the beasts and the men will be subject to a legal regime; that is to say, the action of the power to which they will be subject will have been described in advance; but must we conclude that they are much better off for it? Will they, for that reason, have a greater sum of liberty? If, to be free and to be well, it were enough to be subject only to laws whose dispositions were described, it would not be worth the trouble to argue: the least accommodating governments could consent to it, without losing anything of their power.[^2]\n\nComte frames the distinction between \"arbitrary\" (irregular) and \"legal\" (regular/formalized) rule as largely illusory: regularity does not make bad power (extortion, oppression) good. He illustrates this earlier by noting that \"one can put regularity into pillage... there is only more uniformity in the extortions,\"[^3] and ties it directly to the slave/herd code analogy above to show that formal laws alone do not ensure liberty.\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 13](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/13-distinction-entre-un-regime-arbitraire-et-un-regim/translation/).\n\n[^2]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/13-distinction-entre-un-regime-arbitraire-et-un-regim/translation/#p-9f5b65).\n\n[^3]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/13-distinction-entre-un-regime-arbitraire-et-un-regim/translation/#p-5bc401).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"orderly extortion\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"arbitrary\" \"legal\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slaves\" \"herds\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"master\" \"slaves\" \"code\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "orderly extortion",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "arbitrary legal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slaves herds",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "master slaves code",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"perfectly orderly\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"governing his slaves\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"arbitrary\" rule legal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"distinction\" arbitrary legal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "master code slaves",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"law for slaves\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"herds\" slaves",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"extortion\" law",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"arbitrary rule\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"legal rule\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"arbitrary\" \"law\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slaves code",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "extortion",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"arbitrary\" \"rule\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slave master law",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"law\" slave master",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"code\" slave",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.13\\nprose · 12¶ · 2082w · vocab 424 (TTR 47%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"arbitrary regime legal\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 13
+      },
+      "result_summary": "Read ch.13 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 13,
+      "paragraph_id": "p-9f5b65"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 13,
+      "paragraph_id": "p-5bc401"
+    }
+  ],
+  "duration_ms": 56050,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 46572,
+    "completion_tokens": 4923,
+    "total_tokens": 51495,
+    "cached_tokens": 19354,
+    "api_calls": 8,
+    "cost_usd": 0.0088728,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1945,
+        "completion_tokens": 457,
+        "total_tokens": 2402,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00033535
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2218,
+        "completion_tokens": 863,
+        "total_tokens": 3081,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00059295
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2589,
+        "completion_tokens": 575,
+        "total_tokens": 3164,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007828
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2972,
+        "completion_tokens": 603,
+        "total_tokens": 3575,
+        "cached_tokens": 2584,
+        "cost_usd": 0.0005083
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6543,
+        "completion_tokens": 696,
+        "total_tokens": 7239,
+        "cached_tokens": 150,
+        "cost_usd": 0.0016341
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8236,
+        "completion_tokens": 257,
+        "total_tokens": 8493,
+        "cached_tokens": 2967,
+        "cost_usd": 0.00133065
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 9596,
+        "completion_tokens": 263,
+        "total_tokens": 9859,
+        "cached_tokens": 150,
+        "cost_usd": 0.0020282
+      },
+      {
+        "api_call_index": 8,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 12473,
+        "completion_tokens": 1209,
+        "total_tokens": 13682,
+        "cached_tokens": 9591,
+        "cost_usd": 0.00166045
+      }
+    ]
+  }
+}

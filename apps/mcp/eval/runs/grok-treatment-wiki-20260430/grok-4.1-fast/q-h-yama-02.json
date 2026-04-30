@@ -1,0 +1,139 @@
+{
+  "answer": "**The Yama Smṛti (unknown author), Chapter 1,** declares this in verses YSS 1.12–13.[^1]\n\nThe paired verses are quoted verbatim below:\n\n> For each single sin that is committed, the wise know a penance; / but when all sins converge, no penance is known. // YSS_1.12 //[^2]\n\n> When all sins converge, taking up the skull-bowl is prescribed; / that Kāpālika vow is considered its ultimate penance by the wise. // YSS_1.13 //[^3]\n\n[^1]: Yama Smṛti, [Chapter 1](/works/unknown-yama-smrti-552f8d/01/translation/).\n[^2]: Yama Smṛti, [paragraph](/works/unknown-yama-smrti-552f8d/01/translation/#p-423161).\n[^3]: Yama Smṛti, [paragraph](/works/unknown-yama-smrti-552f8d/01/translation/#p-22899e).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kāpālika vow",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"skull-bowl\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"convergence of all sins\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kapalika penance",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yama-smrti-552f8d (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yama Smṛti · ch.1\\nverse · 63¶ · 2149w · vocab 523 (TTR 53%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"two *aindava* vows\\\" · \\\"one perform *sāṃtap"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-423161",
+          "p-22899e"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 1,
+      "paragraph_id": "p-423161"
+    },
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 1,
+      "paragraph_id": "p-22899e"
+    }
+  ],
+  "duration_ms": 19501,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 18252,
+    "completion_tokens": 2096,
+    "total_tokens": 20348,
+    "cached_tokens": 11220,
+    "api_calls": 4,
+    "cost_usd": 0.0030154,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1983,
+        "completion_tokens": 452,
+        "total_tokens": 2435,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003403
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2352,
+        "completion_tokens": 389,
+        "total_tokens": 2741,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006424
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6846,
+        "completion_tokens": 467,
+        "total_tokens": 7313,
+        "cached_tokens": 2347,
+        "cost_usd": 0.00125065
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 7071,
+        "completion_tokens": 788,
+        "total_tokens": 7859,
+        "cached_tokens": 6841,
+        "cost_usd": 0.00078205
+      }
+    ]
+  }
+}

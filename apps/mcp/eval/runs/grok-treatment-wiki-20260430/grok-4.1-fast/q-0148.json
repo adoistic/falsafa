@@ -1,0 +1,119 @@
+{
+  "answer": "**Allama Iqbal's \"Wataniyat\"** (translated as \"Nationalism\") appears as Chapter 25 in *Bang-E-Dara Part 3*.[^1] This poem critiques modern territorial nationalism as a false idol that fragments Islamic unity and brotherhood, contrasting it with the universal \"homeland\" of faith under the Prophet's teachings.[^2]\n\n### Full Translation (Verse Layout)\n\n[p-3b9de1]  \n**Nationalism**\n\n[p-79b1e9]  \nIn this new age, the wine, the cup, the Jam are new,  \nThe Saqi’s ways of grace and wrath are fashioned new.  \nThe Muslim, too, has built his sanctum all anew,  \nWhile Civilization’s idol-smith carves idols new.  \nOf all these newer gods, the greatest is the Nation;  \nThe robe it wears is Faith’s own final desecration.\n\n[p-2737d5]  \nThis idol, forged by this new age’s philosophy,  \nLays waste the Prophet’s house of faith and piety.  \nYour arm is mighty with the strength of Oneness still,  \nYour homeland is Islam, you serve the Prophet’s will.  \nO Mustafavi, show the world that ancient sight!  \nAnd grind this hollow idol into dust and night!\n\n[p-a723b2]  \nTo be confined to one place is calamity,  \nLive free within the ocean, like a fish at sea.  \nTo leave one’s home is the Beloved’s sacred way,  \nSo bear you witness to the Prophet’s truth today.  \nIn the discourse of the state, the Nation is but land;  \nIn the Prophet’s teaching, Homeland is by God’s command.\n\n[p-97937b]  \nAmong the world’s great peoples, rivalry it sows,  \nThe aim of trade becomes conquest where’er it goes.  \nFrom it, all politics from truth and candor flees,  \nAnd by its hand the weak man’s home is brought to its knees.  \nBy it, God’s own creation is in pieces torn,  \nBy it, the roots of Islam’s brotherhood are shorn.[^1]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, \"Wataniyat\" (Ch. 25), [translation](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/).\n\n[^2]: Paragraphs [p-79b1e9](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-79b1e9), [p-2737d5](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-2737d5), and [p-97937b](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-97937b).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Wataniyat"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"territorial nationalism\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 25-wataniyat.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-3b9de1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-79b1e9"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-2737d5"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-a723b2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-97937b"
+    }
+  ],
+  "duration_ms": 19615,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 8619,
+    "completion_tokens": 1948,
+    "total_tokens": 10567,
+    "cached_tokens": 4974,
+    "api_calls": 3,
+    "cost_usd": 0.0019517000000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 337,
+        "total_tokens": 2243,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005272
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2948,
+        "completion_tokens": 366,
+        "total_tokens": 3314,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00049045
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3765,
+        "completion_tokens": 1245,
+        "total_tokens": 5010,
+        "cached_tokens": 2943,
+        "cost_usd": 0.00093405
+      }
+    ]
+  }
+}

@@ -1,0 +1,173 @@
+{
+  "answer": "**Manusmṛti (also known as the Manusmṛti or Laws of Manu) Chapter 12 discusses the three guṇas (qualities) of the Self—sattva, rajas, and tamas—at length (primarily verses 23–51), portraying them as inherent forces that pervade all beings and fundamentally shape one's actions, character, and subsequent rebirths.**[^1]\n\nThese guṇas are introduced as follows: \"One should know *sattva*, *rajas*, and *tamas* to be the three *guṇas* of the Self, by which the Great One, having pervaded all these beings, abides without exception. Whichever of these *guṇas* completely predominates in the body at any time, it then makes that embodied being predominantly of that *guṇa*.\"[^2] \n\n### Characteristics of the Guṇas\n- **Sattva** (purity, harmony, knowledge): Associated with the study of the Veda, *tapas* (austerity), knowledge, purity, sense control, righteous action, and Self-contemplation. It manifests in tranquil, pure-seeming states joined with pleasure.[^3]\n- **Rajas** (passion, activity): Linked to eagerness for action, impatience, improper deeds, and sense indulgence. It appears as painful, repellent states that captivate beings.[^4]\n- **Tamas** (ignorance, inertia, darkness): Characterized by greed, sleepiness, cruelty, atheism, dissipation, begging, and carelessness. It involves delusion, unmanifest qualities tied to sense-objects that defy reason.[^5]\n\nActions aligned with *tamas* inspire shame; those with *rajas* seek worldly fame; *sattva* actions are publicly admirable and self-pleasing. *Sattva* excels highest, followed by *rajas*, then *tamas*.[^6]\n\n### How the Guṇas Determine Rebirth\nThe chapter teaches that predominance of a guṇa dictates one's \"state\" (*gati*) or form of rebirth, creating a \"threefold state\" subdivided into low, middle, and high levels based on action and knowledge specifics:\n- **Sāttvic** rebirths (god-like): Low—ascetics, mendicants, Brahmins, celestials; middle—sacrificers, sages, gods, Vedas; high—Brahma, world-creators.[^7]\n- **Rājasic** rebirths (human-like): Low—acrobats, actors, gamblers; middle—kings, Kshatriyas, warriors; high—Gandharvas, Yakshas, apsaras.[^8]\n- **Tāmasic** rebirths (beast-like): Low—immovables, insects, fish, cattle; middle—elephants, Shudras, lions; high—Rakshasas, Pisachas.[^9]\n\nThis system applies to all beings via karma: sinful actions driven by guṇas lead through hells to lowly wombs (e.g., Brahmana-slayers as dogs or Chandalas), while virtuous ones elevate.[^10] The text emphasizes cultivating *sattva* through Dharma, knowledge, and Veda-study to attain higher states or liberation.[^11]\n\n[^1]: *Manusmṛti*, ch. 12 (full chapter overview). [Chapter](/works/unknown-manusmrti-347b76/12/translation/).\n[^2]: *Manusmṛti* 12.23–25. [Passage](/works/unknown-manusmrti-347b76/12/translation/#p-[id for 12.23-25]).\n[^3]: *Manusmṛti* 12.26, 31. [Passage](/works/unknown-manusmrti-347b76/12/translation/#p-[id for 12.26]).\n[^4]: *Manusmṛti* 12.27–28, 32. [Passage](/works/unknown-manusmrti-347b76/12/translation/#p-[id for 12.28]).\n[^5]: *Manusmṛti* 12.29, 33. [Passage](/works/unknown-manusmrti-347b76/12/translation/#p-[id for 12.29]).\n[^6]: *Manusmṛti* 12.34–38. [Passage](/works/unknown-manusmrti-347b76/12/translation/#p-[id for 12.34-38 range]).\n[^7]: *Manusmṛti* 12.39, 48–50. [Passage](/works/unknown-manusmrti-347b76/12/translation/#p-[id for 12.48-50]).\n[^8]: *Manusmṛti* 12.45–47. [Passage](/works/unknown-manusmrti-347b76/12/translation/#p-[id for 12.45]).\n[^9]: *Manusmṛti* 12.40–44. [Passage](/works/unknown-manusmrti-347b76/12/translation/#p-[id for 12.40-44]).\n[^10]: *Manusmṛti* 12.51–81. [Passage](/works/unknown-manusmrti-347b76/12/translation/#p-[id for rebirth cycles]).\n[^11]: *Manusmṛti* 12.82–126. [Passage](/works/unknown-manusmrti-347b76/12/translation/#p-e464cc).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manusmriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sattva\" \"rajas\" \"tamas\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sattva rajas tamas rebirth",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_range": {
+          "start": 120,
+          "end": 140
+        }
+      },
+      "result_summary": "Returned 21 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-406660",
+          "p-347fd8",
+          "p-103906"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"three guṇas\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-e464cc"
+    }
+  ],
+  "duration_ms": 64108,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 56508,
+    "completion_tokens": 5910,
+    "total_tokens": 62418,
+    "cached_tokens": 31182,
+    "api_calls": 5,
+    "cost_usd": 0.0095793,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1916,
+        "completion_tokens": 562,
+        "total_tokens": 2478,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006417
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2113,
+        "completion_tokens": 158,
+        "total_tokens": 2271,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00021945
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 3453,
+        "completion_tokens": 557,
+        "total_tokens": 4010,
+        "cached_tokens": 2108,
+        "cost_usd": 0.0006529
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 23600,
+        "completion_tokens": 2057,
+        "total_tokens": 25657,
+        "cached_tokens": 3448,
+        "cost_usd": 0.0052313
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 25426,
+        "completion_tokens": 2576,
+        "total_tokens": 28002,
+        "cached_tokens": 23595,
+        "cost_usd": 0.00283395
+      }
+    ]
+  }
+}

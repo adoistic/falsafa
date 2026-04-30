@@ -1,0 +1,352 @@
+{
+  "answer": "**Ghalib's ghazal titled \"Gham khaane mein boda dil-e-nakaam bahut hai\" (ch. 50 of *Diwan-E-Ghalib*) opens with a couplet portraying the heart (*dil*) as an unsuccessful, intoxicated drinker (*boda*) dwelling in the \"tavern of sorrow\" (*gham khaane mein*), where its capacity to endure grief exceeds what's needed—even as the \"rose-red wine\" of sorrow diminishes.[^1]**\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 50 (\"Gham khaane mein boda dil-e-nakaam bahut hai\"), [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/50-gham-khaane-mein-boda-dil-e-nakaam-bahut-hai/translation/#p-b39b6a).  \n`This weak, failed heart's capacity for pain is more than enough; / The grief that rose-red wine is on the wane is more than enough.`",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ghum khaane\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" sorrow tavern",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dil\" \"ghum\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tavern sorrow",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tavern of\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sorrow's tavern\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ghamm-khane\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heart tavern",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" grief",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" sorrow",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "grief tavern",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"house of grief\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"abode of sorrow\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sorrow",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "grief",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 74
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.74\\nverse · 7¶ · 141w · vocab 65 (TTR 88%, hapax 88%)\\n\\n## Distinctive trigrams\\n\\\"weight sorrow bows\\\" · \\\"sorrow bows head\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 75
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.75\\nverse · 11¶ · 244w · vocab 126 (TTR 86%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"flood sighs leaves\\\" · \\\"sighs leaves "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 52
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.52\\nverse · 8¶ · 157w · vocab 79 (TTR 90%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"worldly sorrows grant\\\" · \\\"sorrows grant l"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dil\" khaane"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heart house sorrow"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"house of sorrow\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tavern of sorrow\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 50-gham-khaane-mein-boda-dil-e-nakaam-bahut-hai.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50
+      },
+      "result_summary": "Read ch.50 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 50,
+      "paragraph_id": "p-b39b6a"
+    }
+  ],
+  "duration_ms": 79507,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 115283,
+    "completion_tokens": 6794,
+    "total_tokens": 122077,
+    "cached_tokens": 79792,
+    "api_calls": 8,
+    "cost_usd": 0.014484799999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1914,
+        "completion_tokens": 518,
+        "total_tokens": 2432,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00035935
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2271,
+        "completion_tokens": 737,
+        "total_tokens": 3008,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008002
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4831,
+        "completion_tokens": 1048,
+        "total_tokens": 5879,
+        "cached_tokens": 2266,
+        "cost_usd": 0.0011503
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5182,
+        "completion_tokens": 1549,
+        "total_tokens": 6731,
+        "cached_tokens": 4826,
+        "cost_usd": 0.001087
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 11015,
+        "completion_tokens": 1067,
+        "total_tokens": 12082,
+        "cached_tokens": 150,
+        "cost_usd": 0.002714
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 29690,
+        "completion_tokens": 345,
+        "total_tokens": 30035,
+        "cached_tokens": 11010,
+        "cost_usd": 0.004459
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 29827,
+        "completion_tokens": 385,
+        "total_tokens": 30212,
+        "cached_tokens": 29685,
+        "cost_usd": 0.00170515
+      },
+      {
+        "api_call_index": 8,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 30553,
+        "completion_tokens": 1145,
+        "total_tokens": 31698,
+        "cached_tokens": 29822,
+        "cost_usd": 0.0022098
+      }
+    ]
+  }
+}

@@ -1,0 +1,95 @@
+{
+  "answer": "**Charles Comte's *Traité de Législation: VOL IV*, Chapter 21 (\"De l’abolition de l’esclavage domestique\") makes this exact claim in the course of arguing that emancipated labor is more productive than slave labor, even accounting for prejudices against free labor.**[^1]\n\nThe key comparison is: \"today ten English workers do more work, in a given time, than fifty Russian slaves; an English lord who possesses the same extent of land as a Russian lord is ten times richer than he, although he does not possess a single slave, while the second possesses thousands.\"[^1]\n\n[^1]: Charles Comte, *Traité de Législation: VOL IV*, [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/21-de-l-abolition-de-l-esclavage-domestique/translation/#p-32247c).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ten English workers",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fifty Russian slaves",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "English lord Russian lord",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 21,
+        "paragraph_ids": [
+          "p-32247c"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 21,
+      "paragraph_id": "p-32247c"
+    }
+  ],
+  "duration_ms": 16693,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 7318,
+    "completion_tokens": 1381,
+    "total_tokens": 8699,
+    "cached_tokens": 2181,
+    "api_calls": 3,
+    "cost_usd": 0.00182695,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1974,
+        "completion_tokens": 372,
+        "total_tokens": 2346,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005583
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2426,
+        "completion_tokens": 295,
+        "total_tokens": 2721,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00035055
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 2918,
+        "completion_tokens": 714,
+        "total_tokens": 3632,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009181
+      }
+    ]
+  }
+}

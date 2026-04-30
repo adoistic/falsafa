@@ -1,0 +1,175 @@
+{
+  "answer": "**In Manusmṛti (also known as the Manusmṛti) chapter 4, the conduct rules (vrata) for a *snātaka*—a twice-born man, typically a Brahmana, who has completed his Vedic studies and \"bathed\" to mark the end of student life—are outlined starting at verse 4.13.**[^1]\n\n**Specific prohibitions on foods (or food-related) include:**\n\n- **Verse 4.62**: A *snātaka* should not eat food from which the oil has been extracted (e.g., oil-cakes or phutikā, remnants after pressing oil). He also should not overeat or eat at improper times (too early in the morning, too late in the evening, or evening after a morning meal).[^2]\n- **Verse 4.75**: He should not eat anything mixed with sesame after sunset.[^3]\n- **Verses 4.26–27** (contextual for fire-maintainers, applicable to *snātaka* householders): One maintaining sacred fires should not eat new grain or meat without first performing the new grain sacrifice and animal sacrifice.[^4]\n\n**Other rules in this section concern eating manners rather than specific foods (e.g., 4.55: not at twilight; 4.74: not lying down, with food in hand, or on a seat; 4.43–44: not with wife or viewing her eating).** A comprehensive list of impure foods appears instead in chapter 5 (e.g., 5.5–18 on garlic, onions, etc.).[^5]\n\n[^1]: Manusmṛti, ch. 4 ([paragraph](/works/unknown-manusmrti-347b76/04/translation/#p-???-for-4.13)), verse 4.13: \"A *snātaka*... should observe these vows...\"\n[^2]: Manusmṛti, ch. 4 ([paragraph](/works/unknown-manusmrti-347b76/04/translation/#p-???-for-4.62)), verse 4.62.\n[^3]: Manusmṛti, ch. 4 ([paragraph](/works/unknown-manusmrti-347b76/04/translation/#p-???-for-4.75)), verse 4.75.\n[^4]: Manusmṛti, ch. 4 ([paragraph](/works/unknown-manusmrti-347b76/04/translation/#p-???-for-4.26-28)), verses 4.26–28.\n[^5]: Manusmṛti, ch. 5 (full chapter: [/works/unknown-manusmrti-347b76/05/translation/]), verses 5.5–18.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "snataka Manusmriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti chapter 4 snataka food"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.4\\nverse · 226¶ · 12792w · vocab 2184 (TTR 34%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"five great sac"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"snataka\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bathed\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"should not eat\" Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"snātaka\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "snātaka food OR eat"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"not eat\" OR \"avoid\" OR \"abstain\" Manu food"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 33163,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 55609,
+    "completion_tokens": 3845,
+    "total_tokens": 59454,
+    "cached_tokens": 14941,
+    "api_calls": 4,
+    "cost_usd": 0.010803150000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 590,
+        "total_tokens": 2499,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006543
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2172,
+        "completion_tokens": 431,
+        "total_tokens": 2603,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00036775
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12765,
+        "completion_tokens": 849,
+        "total_tokens": 13614,
+        "cached_tokens": 150,
+        "cost_usd": 0.002955
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 38763,
+        "completion_tokens": 1975,
+        "total_tokens": 40738,
+        "cached_tokens": 12760,
+        "cost_usd": 0.0068261
+      }
+    ]
+  }
+}

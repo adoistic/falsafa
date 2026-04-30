@@ -1,0 +1,264 @@
+{
+  "answer": "**Allama Iqbal's \"Shama\" (ch. 40)** presents the candle as a profound metaphor for the self-aware soul (*khudi*) in metaphysical exile: burning ceaselessly yet conscious of its torment, origin in divine lightning, and the paradox of existence born from *aagahi* (awareness).[^1] The speaker identifies with the candle—\"O Candle, in this world I too am filled with sighs\"—contrasting its oblivious burning (\"You burn and yet you have no knowledge of your state\") with personal restlessness (\"I am like quicksilver, with restless passion rife\").[^2] This solitude evokes cosmic separation: \"The dusk of parting was the dawn that made me shine,\" transforming pain into beauty, distinction (*imtiyaz*), and the strife of self (*man-o-tu*).[^3] The candle's metaphysics is thus *inward*: self-consuming light, aware of its \"thousand sleeping fires,\" trapped in time-space yet aspiring beyond, a \"theme of parting\" inscribed in creation.[^4]\n\n**\"Shama-o-Parwana\" (ch. 41)** immediately follows, dialogically extending the figure by introducing the moth (*parwana*) as the candle's ardent lover.[^5] Here, the address shifts—\"O Candle, why for you does it hold love so vast?\"—questioning the moth's sacrifice: it circles the flame (*tawaf teri jalwa-gah ka*), finds \"bliss in burning,\" and embodies \"passion for the Eternal Form Divine,\" likened to \"a little Moses, on a miniature Sinai.\"[^6] The moth's tiny thirst (*tamanna-e-roshni*) animates the candle's static radiance: without it, \"this burning heart's own tree of hope would not be green.\"[^7]\n\nThe moth **completes** the candle's metaphysics rather than breaking it. Alone, the candle risks solipsistic torment—burning unaware or hyper-aware in isolation, its light a futile exile (*ghurbat*). The moth enacts Iqbal's dynamic *khudi*: not mere annihilation (*fana*), but passionate union (*baqa*) through attraction to truth. The candle's self-knowledge (*aagahi*) gains purpose as it draws the seeker, mirroring creation's command to \"behold... thousand dreams consumed by gloom.\"[^8] This fulfills the Sufi trope (light as divine beloved, moth as lover) while infusing Iqbal's emphasis on active striving: the moth's \"restless soul upon your altar\" resolves the candle's \"causeless ache,\" making exile redemptive.[^9] Sequentially adjacent and textually proximate (TF-IDF nearest neighbors), the poems form a unified diptych: solitary awareness (*Shama*) culminates in relational transcendence (*Parwana*).\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 40 \"Shama\" ([/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/]).\n[^2]: Ibid., [p-0f3f02](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-0f3f02), [p-5eb391](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-5eb391), [p-802114](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-802114).\n[^3]: Ibid., [p-1b9ca3](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-1b9ca3), [p-2de137](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-2de137).\n[^4]: Ibid., [p-be65b1](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-be65b1), [p-4315ff](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-4315ff).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 41 \"Shama-o-Parwana\" ([/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/]).\n[^6]: Ibid., [p-21ea6d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-21ea6d), [p-4dcab6](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-4dcab6).\n[^7]: Ibid., [p-4cfe14](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-4cfe14).\n[^8]: *Bang-E-Dara Part 1*, ch. 40 \"Shama\" ([/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-620907]).\n[^9]: *Bang-E-Dara Part 1*, ch. 41 \"Shama-o-Parwana,\" key passage ([/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-d2c29e]); cf. ch. 40 ([/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-e73be2]).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Shama",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Shama o Parwana",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Shama\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal candle moth",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parwana",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shama\" parwana",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shama parwana",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 40,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.40 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 40,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.40 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.41 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.41 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 40
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.40\\nverse · 30¶ · 571w · vocab 232 (TTR 78%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"candle candle world\\\" · \\\"candle worl"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.41\\nverse · 9¶ · 158w · vocab 67 (TTR 84%, hapax 82%)\\n\\n## Distinctive trigrams\\n\\\"candle moth candle\\\" · \\\"moth candle ho"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-0f3f02"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-5eb391"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-802114"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-1b9ca3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-2de137"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-be65b1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-4315ff"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-21ea6d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-4dcab6"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-4cfe14"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-620907"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-d2c29e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 41,
+      "paragraph_id": "p-e73be2"
+    }
+  ],
+  "duration_ms": 43038,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 37368,
+    "completion_tokens": 5299,
+    "total_tokens": 42667,
+    "cached_tokens": 23117,
+    "api_calls": 4,
+    "cost_usd": 0.00665555,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1938,
+        "completion_tokens": 657,
+        "total_tokens": 2595,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00043395
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5357,
+        "completion_tokens": 1460,
+        "total_tokens": 6817,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00151925
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 14008,
+        "completion_tokens": 446,
+        "total_tokens": 14454,
+        "cached_tokens": 5352,
+        "cost_usd": 0.0022218
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 16065,
+        "completion_tokens": 2736,
+        "total_tokens": 18801,
+        "cached_tokens": 14003,
+        "cost_usd": 0.00248055
+      }
+    ]
+  }
+}

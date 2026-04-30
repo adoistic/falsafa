@@ -1,0 +1,174 @@
+{
+  "answer": "**Āṅgirasa Smṛti, Chapter 1.**\n\nThis work addresses the cutting of a Brahmin's top-knot (*śikhā*) in several scenarios. For a **single cutting by an enemy**, one should \"wear hair from a cow's tail on his ear and, being pure, should perform a Prājāpatya penance,\" followed by a new *saṃskāra* for full purity.[^1] For **cutting in the middle**, \"he is purified by a Prājāpatya penance.\"[^2]\n\nFor **five cuttings by enemies**, however: \"By any means whatsoever, one should wear the top-knot and the sacred thread. If the top-knot is cut by enemies five times, his Brahminhood is lost, even with a new *saṃskāra*.\"[^3]\n\n[^1]: Āṅgirasa Smṛti, Chapter 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-94f7a6).\n\n[^2]: Āṅgirasa Smṛti, Chapter 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-6dc072).\n\n[^3]: Āṅgirasa Smṛti, Chapter 1, [paragraphs](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-f210ca).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cow's tail",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"top-knot\" five",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tuft of hair\" five",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "śikhā five",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahminhood\" lost",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Āṅgirasa Smṛti · ch.1\\nverse · 1792¶ · 38412w · vocab 5128 (TTR 26%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"according rule ang_1\\\" · \\\"ang_2 *"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"five times\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "five top-knot OR śikhā OR \"tuft\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-94f7a6",
+          "p-3b5116",
+          "p-6dc072",
+          "p-f210ca",
+          "p-42d790"
+        ]
+      },
+      "result_summary": "Returned 5 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-94f7a6"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-6dc072"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-f210ca"
+    }
+  ],
+  "duration_ms": 37261,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 175710,
+    "completion_tokens": 3085,
+    "total_tokens": 178795,
+    "cached_tokens": 91700,
+    "api_calls": 4,
+    "cost_usd": 0.022929500000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2007,
+        "completion_tokens": 651,
+        "total_tokens": 2658,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00044475
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2568,
+        "completion_tokens": 499,
+        "total_tokens": 3067,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0004802
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 85375,
+        "completion_tokens": 919,
+        "total_tokens": 86294,
+        "cached_tokens": 2563,
+        "cost_usd": 0.01715005
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 85760,
+        "completion_tokens": 1016,
+        "total_tokens": 86776,
+        "cached_tokens": 85370,
+        "cost_usd": 0.0048545
+      }
+    ]
+  }
+}

@@ -1,0 +1,423 @@
+{
+  "answer": "**Charles Comte's *Traité de la propriété* (Vol. I) establishes liberty as the foundational condition for all rights and duties, from which property rights over things—and specifically the fruits of one's labor—necessarily follow.**[^1][^2] He begins by critiquing slaveholding doctrines inherited from ancient peoples, arguing that treating humans as property contradicts natural duties and rights inherent in human nature.[^3] Liberty, for Comte, is the state where no person encounters obstacles from fellow humans to their natural development or innocent exercise of faculties; it is the negation of slavery's elements (e.g., masters seizing labor products or persons). Only under liberty can one legitimately claim no master but oneself, making each \"the proprietor of the fruit of his labors, so long as he has not voluntarily alienated it\"—thus grounding property in prior personal freedom.[^4] He explicitly notes Dunoyer's differing usage of \"slavery\" and \"liberty,\" tying his own view to anti-slavery natural equity.[^5]\n\n**Dunoyer's parallel argument in *Nouveau traité d'économie* (Vol. I) inverts this: industry (skill conquering things via labor) and morality (self-mastery and justice toward others) produce liberty as an increasing \"power\" to exercise faculties freely—which implicitly encompasses secure property in one's person, labor, and products.**[^6][^7] Like Comte, Dunoyer rejects slavery/domination as antithetical to true liberty, but he frames it empirically as a result of civilizational progress across societal stages (savage, nomadic, slaveholding, serf, privileged, industrial). Liberty is not innate or prior but acquired: humans escape natural dependence via \"conquests over things\" (industry) and \"victories over ourselves\" (morals), yielding facility/power in action without internal/external impediments.[^8] Property emerges within this as free disposal of self/faculties/products, but only after industrial/moral development enables it—e.g., savages have \"circumscribed\" liberty despite \"unlimited\" license, lacking skill to truly own/use fruits productively.[^9]\n\n**Their starting points contrast sharply: Comte's is deductive and axiomatic, rooted in timeless natural law/duties (anti-slavery as self-evident contradiction), positioning liberty as prerequisite for property/labor rights.** Dunoyer's is inductive/observational, treating liberty as a variable \"result\" of societal evolution (industry + morality = power/facility), with property as an outgrowth rather than ground—rejecting \"rights\" dogmas for empirical \"how\" questions.[^10] Comte cites slave societies' flaws to derive principles; Dunoyer surveys historical stages to show progress crowns liberty, referencing Comte indirectly via shared anti-slavery critique.\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, Ch. 3, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/03-de-ce-qui-constitue-la-liberte/translation/#p-86c544).\n\n[^2]: Charles Comte, *Traité de la propriété: VOL I*, Ch. 2, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/02-de-la-liberte-consideree-comme-une-condition-de-le/translation/#p-2b4fad).\n\n[^3]: Charles Comte, *Traité de la propriété: VOL I*, Ch. 1, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-e0cba9).\n\n[^4]: Charles Comte, *Traité de la propriété: VOL I*, Ch. 1, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-e0cba9).\n\n[^5]: Charles Comte, *Traité de la propriété: VOL I*, Ch. 3, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/03-de-ce-qui-constitue-la-liberte/translation/#p-2ffb13).\n\n[^6]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, Introduction, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-67acca).\n\n[^7]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, Ch. 1, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-fc8999).\n\n[^8]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, Ch. 1, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-341c27).\n\n[^9]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, Introduction, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-d5b62b).\n\n[^10]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, Ch. 1, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-e80d8f).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty\" property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liberty property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty\" \"property\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "freedom property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 0
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.0\\nprose · 53¶ · 4639w · vocab 1015 (TTR 49%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"natural order ideas\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.1\\nprose · 15¶ · 1875w · vocab 461 (TTR 55%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"observation facts study"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.2\\nprose · 29¶ · 1980w · vocab 421 (TTR 46%, hapax 61%)\\n\\n## Distinctive trigrams\\n\\\"duties fulfill toward\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.3\\nprose · 27¶ · 2117w · vocab 492 (TTR 50%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"under regime liberty\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.0\\nprose · 54¶ · 5812w · vocab 1146 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"take great care\\\" · \\\""
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "limit": 10
+      },
+      "result_summary": "Found 6 related"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liberty",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "freedom",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0
+      },
+      "result_summary": "Read ch.0 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "Listed 7 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e0cba9"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-86c544"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-2ffb13"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0,
+        "paragraph_ids": [
+          "p-67acca"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0,
+        "paragraph_ids": [
+          "p-d5b62b"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.1\\nprose · 40¶ · 6237w · vocab 1130 (TTR 41%, hapax 60%)\\n\\n## Distinctive trigrams\\n\\\"use his forces\\\" · \\\"o"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 1,
+      "paragraph_id": "p-86c544"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 1,
+      "paragraph_id": "p-2b4fad"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 1,
+      "paragraph_id": "p-e0cba9"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 1,
+      "paragraph_id": "p-2ffb13"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 1,
+      "paragraph_id": "p-67acca"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 1,
+      "paragraph_id": "p-fc8999"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 1,
+      "paragraph_id": "p-341c27"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 1,
+      "paragraph_id": "p-d5b62b"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 1,
+      "paragraph_id": "p-e80d8f"
+    }
+  ],
+  "duration_ms": 77824,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 101959,
+    "completion_tokens": 8218,
+    "total_tokens": 110177,
+    "cached_tokens": 55697,
+    "api_calls": 6,
+    "cost_usd": 0.01614625,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1915,
+        "completion_tokens": 576,
+        "total_tokens": 2491,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00038885
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3104,
+        "completion_tokens": 1103,
+        "total_tokens": 4207,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011498
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6205,
+        "completion_tokens": 1602,
+        "total_tokens": 7807,
+        "cached_tokens": 150,
+        "cost_usd": 0.0020195
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "find_related",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14774,
+        "completion_tokens": 1269,
+        "total_tokens": 16043,
+        "cached_tokens": 6200,
+        "cost_usd": 0.0026593
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 32552,
+        "completion_tokens": 1545,
+        "total_tokens": 34097,
+        "cached_tokens": 14769,
+        "cost_usd": 0.00506755
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 43409,
+        "completion_tokens": 2123,
+        "total_tokens": 45532,
+        "cached_tokens": 32547,
+        "cost_usd": 0.00486125
+      }
+    ]
+  }
+}

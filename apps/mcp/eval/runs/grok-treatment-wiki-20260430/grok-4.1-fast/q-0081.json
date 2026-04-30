@@ -1,0 +1,188 @@
+{
+  "answer": "In the final couplet of the ghazal, Ghalib acknowledges knowing the reality of paradise (*jannat ki haqeeqat*), but declares that, for the sake of keeping the heart content, the comforting *khayaal* (notion or fancy) of it remains \"a fine thing\" (*achha hai*), in keeping with the poem's refrain.[^1]\n\nThe full couplet in English translation reads:  \n\"We know the truth of heaven, anyway;  \nBut Ghalib, for the heart's sake, let us say this thought is a fine thing.\"[^1]\n\nIn Romanized transliteration:  \n*Hum ko maaloom hai jannat ki haqeeqat lekin*  \n*Dil ke khush rakhne ko Ghalib yeh khayaal achha hai*.[^2]\n\nIn the original Urdu:  \nہم کو معلوم ہے جنت کی حقیقت لیکن  \nدل کے خوش رکھنے کو غالبؔ یہ خیال اچھا ہے.[^3]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/80-husn-e-mah-garche-ba-hangaam-e-kamaal-achha-hai/translation/#p-7c74eb).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/80-husn-e-mah-garche-ba-hangaam-e-kamaal-achha-hai/transliteration/#p-130348).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/80-husn-e-mah-garche-ba-hangaam-e-kamaal-achha-hai/original/#p-24c9c4).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Hum ko maaloom hai jannat ki haqeeqat",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib-urdu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 80,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.80 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 80,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.80 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 80,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.80 of mirza-ghalib-diwan-e-ghalib-74ed4c (original)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 80
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 80-husn-e-mah-garche-ba-hangaam-e-kamaal-achha-hai.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 80,
+        "paragraph_ids": [
+          "p-7c74eb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 80,
+        "paragraph_ids": [
+          "p-24c9c4"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 80,
+        "paragraph_ids": [
+          "p-130348"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 80,
+      "paragraph_id": "p-7c74eb"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 80,
+      "paragraph_id": "p-130348"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 80,
+      "paragraph_id": "p-24c9c4"
+    }
+  ],
+  "duration_ms": 31989,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 15483,
+    "completion_tokens": 3621,
+    "total_tokens": 19104,
+    "cached_tokens": 7373,
+    "api_calls": 4,
+    "cost_usd": 0.00380115,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1919,
+        "completion_tokens": 547,
+        "total_tokens": 2466,
+        "cached_tokens": 1882,
+        "cost_usd": 0.000375
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2546,
+        "completion_tokens": 962,
+        "total_tokens": 3508,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009677
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 5196,
+        "completion_tokens": 744,
+        "total_tokens": 5940,
+        "cached_tokens": 150,
+        "cost_usd": 0.0013887
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 5822,
+        "completion_tokens": 1368,
+        "total_tokens": 7190,
+        "cached_tokens": 5191,
+        "cost_usd": 0.00106975
+      }
+    ]
+  }
+}

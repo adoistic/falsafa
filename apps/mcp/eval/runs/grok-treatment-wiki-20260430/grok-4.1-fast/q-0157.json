@@ -1,0 +1,185 @@
+{
+  "answer": "**Chapter 3** of Charles Dunoyer's *Nouveau traité d'économie: VOL I* is titled \"II. Influence des circonstances extérieures sur la liberté\" (\"II. Influence of external circumstances on liberty\").[^1]\n\nThis chapter examines how external factors—including climate, temperature, soil fertility, geography, and related physical conditions—affect human liberty (defined as the development and proper exercise of faculties). Dunoyer critiques thinkers like Cabanis, Montesquieu, and especially Charles Comte for overstating climate's dominance (e.g., claims that hotter climates foster superior civilization or that physical environment trumps innate human qualities). He argues instead that while climate influences progress (e.g., temperate zones spur industry more than overly fertile tropics), its role is secondary to race and internal human energy: \"the first principle of the power and liberty of man is in himself... and not in the nature of the material things by which he is surrounded.\"[^2][^3] Examples include Mexico's temperate highlands vs. torrid lowlands, Europe's climate softening via cultivation, and England's success despite modest natural advantages.[^4]\n\nNo other chapter in Vol. I addresses climate's influence on liberty; Chapter 2 covers race, and later ones shift to culture/modes of life.[^5]\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, ch.3, [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/).\n\n[^2]: [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-757cb4](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-757cb4).\n\n[^3]: [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-3e0c04](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-3e0c04).\n\n[^4]: [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-abe0fc](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-abe0fc); [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-1082cc](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-1082cc); [/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-6005ec](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-6005ec).\n\n[^5]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, chapter list.[/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/translation/](https://falsafa.corpus/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"climate\" liberty",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.3\\nprose · 53¶ · 9431w · vocab 1656 (TTR 38%, hapax 57%)\\n\\n## Distinctive trigrams\\n\\\"first edition volume\\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "climate",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"influence\" climate",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Dunoyer climate liberty",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 2,
+      "paragraph_id": "p-757cb4"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 2,
+      "paragraph_id": "p-3e0c04"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 2,
+      "paragraph_id": "p-abe0fc"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 2,
+      "paragraph_id": "p-1082cc"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 2,
+      "paragraph_id": "p-6005ec"
+    }
+  ],
+  "duration_ms": 34202,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 48684,
+    "completion_tokens": 3618,
+    "total_tokens": 52302,
+    "cached_tokens": 17201,
+    "api_calls": 5,
+    "cost_usd": 0.00896565,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 289,
+        "total_tokens": 2196,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00024345
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2110,
+        "completion_tokens": 386,
+        "total_tokens": 2496,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00033285
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3832,
+        "completion_tokens": 538,
+        "total_tokens": 4370,
+        "cached_tokens": 2105,
+        "cost_usd": 0.00071965
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7510,
+        "completion_tokens": 852,
+        "total_tokens": 8362,
+        "cached_tokens": 3827,
+        "cost_usd": 0.00135395
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 33325,
+        "completion_tokens": 1553,
+        "total_tokens": 34878,
+        "cached_tokens": 7505,
+        "cost_usd": 0.00631575
+      }
+    ]
+  }
+}

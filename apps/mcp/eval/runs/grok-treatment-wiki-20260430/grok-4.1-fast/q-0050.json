@@ -1,0 +1,163 @@
+{
+  "answer": "**In Chapter 1 (\"Chapter on Conduct\") of the *Yājñavalkya Smṛti*, the text details the duties primarily of the first two āśramas (life-stages) for Brahmins (and other twice-born varṇas): the brahmacārin (student celibate/studenthood) and the gṛhastha (householder). These are presented sequentially after the saṃskāras (rites of passage) and upanayana (initiation), with specific timings and rules adapted for Brahmins (e.g., upanayana in the eighth year from conception/birth).[^1][^2] The vanaprastha (forest-dweller) and saṃnyāsa/sannyāsin (renunciant) āśramas are not discussed or described in this chapter; Chapter 1 focuses on ācāra (daily conduct), varṇa-dharma, marriage, and gṛhastha obligations, extending into snātaka (graduate) rules.[^3]**\n\n### 1. Brahmacārin (Student Celibate) Āśrama\nThis section occupies **verses Yj_1.10–50** (headed \"2. The Student Celibate / brahmacāriprakaraṇam\"). It covers:\n- Varṇas and twice-born status (Yj_1.10).\n- Saṃskāras from conception to upanayana (Yj_1.11–14), with Brahmin initiation at age 8.\n- Daily rites: purity, sipping water, twilight worship, Gāyatrī recitation, begging alms (restricted to Brahmins), food rules, conduct toward guru/ācārya (Yj_1.15–35).\n- Vow duration (12 years per Veda, or until mastery; Keśānta at 16) and late initiation penalties (Yj_1.36–40).\n- Benefits of Vedic study by Veda (Yj_1.41–48).\n- Perpetual student life and fruits (Yj_1.49–50).[^1]\n\n**Key example (Brahmin upanayana and study):**  \n\"[p-80d8dd] The *upanayana* (the sacred thread initiation) of a Brāhmaṇa is in the eighth year from conception or from birth...\" (Yj_1.14).[^4]\n\n**Transition:** Bathing (snāna) after Vedic mastery signals entry to gṛhastha life (Yj_1.51).\n\n### 2. Gṛhastha (Householder) Āśrama\n**Verses Yj_1.97–128** (headed \"5. The Duties of a Householder / gṛhasthadharmaprakaraṇam\"), followed by snātaka duties (Yj_1.129–166, \"6. The Duties of the Graduate\"). Covers:\n- Daily mahāyajñas (great sacrifices), worship, guests, feeding orders (Yj_1.97–113).\n- Varna-specific duties (Brahmin: teaching/sacrifice/gifts added; Yj_1.118).\n- Tenfold dharma (non-violence etc.; Yj_1.122), sacrifices (Yj_1.124–128).[^1]\n\n**Key example:**  \n\"[p-6c5d0a] A householder should daily perform the Smārta rites in his nuptial fire...\" (Yj_1.97).[^5]\n\nThe āśramas are invoked collectively in the sages' request at **Yj_1.1** (\"the *dharma* of the *varṇa*s, the life-stages, and the others\"), but only the first two are elaborated here for Brahmins.[^6]\n\n[^1]: *Yājñavalkya Smṛti*, Chapter 1 (full), [translation](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/).\n[^2]: Ibid., [p-546db5](#p-546db5)–[p-3ff800](#p-3ff800) (brahmacārin, Yj_1.10–50).\n[^3]: Ibid., chapter overview; no mentions of \"vanaprastha,\" \"vānaprastha,\" \"bhikṣu,\" or \"saṃnyāsa.\"\n[^4]: Ibid., get_passage [p-80d8dd](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-80d8dd) (Yj_1.14).\n[^5]: Ibid., [p-6c5d0a](#p-6c5d0a) (Yj_1.97).\n[^6]: Ibid., [p-97f0a4](#p-97f0a4) (Yj_1.1).",
+  "tool_calls": [
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "yajnavalkya-smriti"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: yajnavalkya-smriti"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya Smriti ashramas",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-cb88d6"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: unknown-yajnavalkya-cb88d6"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ashrama\" OR brahmachari OR grihastha OR vanaprastha OR sannyasa OR \"life stage\" OR \"student\" \"householder\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-80d8dd"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-6c5d0a"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-546db5"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-3ff800"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-97f0a4"
+    }
+  ],
+  "duration_ms": 56986,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 33025,
+    "completion_tokens": 4775,
+    "total_tokens": 37800,
+    "cached_tokens": 6083,
+    "api_calls": 4,
+    "cost_usd": 0.00808005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1917,
+        "completion_tokens": 723,
+        "total_tokens": 2640,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004626
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2175,
+        "completion_tokens": 353,
+        "total_tokens": 2528,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00032935
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3185,
+        "completion_tokens": 504,
+        "total_tokens": 3689,
+        "cached_tokens": 2170,
+        "cost_usd": 0.0005635
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 25748,
+        "completion_tokens": 3195,
+        "total_tokens": 28943,
+        "cached_tokens": 150,
+        "cost_usd": 0.0067246
+      }
+    ]
+  }
+}

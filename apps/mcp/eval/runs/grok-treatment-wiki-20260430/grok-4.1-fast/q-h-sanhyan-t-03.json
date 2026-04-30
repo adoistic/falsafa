@@ -1,0 +1,223 @@
+{
+  "answer": "**San Hyan Tattvajnana, Chapter 1**\n\nThis passage occurs in *San Hyan Tattvajnana* (Chapter 1), a Medieval Kawi prose work on Indic philosophy concerning the principles of reality (*tattva*), states of consciousness, qualities (*guṇa*), and rebirth. It categorizes intellect (*buddhi*) by the three qualities (*triguṇa*), associating *buddhi-rajas* grades with demonic *yoni*s (sources/origins): Rākṣasa (lowest), Daitya (middle), and Dānava (highest). These are likened to patron divinities of blades by social function—king (warrior), farmer, priest—first declared generally, then detailed with named blades in the immediately following blacksmith simile.[^1][^2]\n\nThe three blade-divinity assignments are quoted verbatim from the key passages:\n\n> the *Rākṣasa* is the patron divinity of the blades that are the weapons of a king. All kinds of blades that are currently used to take life have the *Rākṣasa* as their deity.[^1]\n>\n> The *Daitya* is the patron divinity of the blades that are the implements of farmers, such as a *luke* or a *pṛkul* (types of agricultural blades). All kinds of blades used as a means to produce a livelihood have the *Daitya* as their deity.[^1]\n>\n> The *Dānava* is the patron divinity of the blades that are the implements of a priest, such as a *pamiso*, *kartrī*, or *karayu* (types of ritual knives). The *Dānava* is their deity.[^1]\n\nThis is \"immediately framed\" by the blacksmith simile, which restates the classes with the specified blade names (*curik*, *malalya*, *śaṅkuh* for the king; *luke*, *prĕkul* for the farmer; *pakisi*, *kartrī*, *karayu* for the priest), emphasizing that raw iron, tongs, hammer, anvil, and file obey the smith's will, but \"the blade alone strikes good and evil while the tools do not.\"[^2]\n\n[^1]: *San Hyan Tattvajnana*, [paragraph](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-cbb351).\n\n[^2]: *San Hyan Tattvajnana*, [paragraph](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-9c664a).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Rākṣasa Daitya Dānava",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"curik\" \"malalya\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"luke\" \"pṛkul\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hammer\" \"anvil\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tongs\" \"hammer\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"raw iron\" smith",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life-taking\" weapons",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"patron divinity\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rakṣasa",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "daitya",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dānava",
+        "limit": 10
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "raksasa",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Tattvajnana · ch.1\\nprose · 114¶ · 16092w · vocab 1924 (TTR 25%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"lacking *yoga* becomes\\\" · \\\"vow"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Tattvajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 16,092 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"lacking *yoga* becomes\\\" · \\\"vo"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-cbb351"
+    },
+    {
+      "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+      "chapter_number": 1,
+      "paragraph_id": "p-9c664a"
+    }
+  ],
+  "duration_ms": 44219,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 52607,
+    "completion_tokens": 3900,
+    "total_tokens": 56507,
+    "cached_tokens": 15397,
+    "api_calls": 5,
+    "cost_usd": 0.01016185,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2062,
+        "completion_tokens": 626,
+        "total_tokens": 2688,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00044325
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2277,
+        "completion_tokens": 858,
+        "total_tokens": 3135,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008619
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2602,
+        "completion_tokens": 777,
+        "total_tokens": 3379,
+        "cached_tokens": 2272,
+        "cost_usd": 0.0005681
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8502,
+        "completion_tokens": 312,
+        "total_tokens": 8814,
+        "cached_tokens": 2597,
+        "cost_usd": 0.00146685
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 37164,
+        "completion_tokens": 1327,
+        "total_tokens": 38491,
+        "cached_tokens": 8497,
+        "cost_usd": 0.00682175
+      }
+    ]
+  }
+}

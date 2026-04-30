@@ -1,0 +1,293 @@
+{
+  "answer": "**Death (marg).**\n\nThis line comes from the *maqta* (signature closing couplet) of the famous ghazal \"Aah ko chahiye ik umr asar hote tak\" (ch. 3) in Mirza Ghalib's *Diwan-e-Ghalib*:\n\n> Gham-e-hasti ka 'Asad' kis se ho juz marg ilaaj  \n> Shama har rang mein jalti hai seher hote tak[^1]\n\n**Transliteration:** The sorrow of existence—what remedy is there, Asad, except death? The candle burns in every hue until the dawn arrives.\n\n**Translation:** What cure for life's great sorrow, Asad, say? A candle burns in every way till morning's light.[^2]\n\nGhalib (using his *takhallus* Asad) poses this as a rhetorical question, declaring death as the sole remedy (*juz marg ilaaj*) for existence's pain (*gham-e-hasti*, often rendered as \"sorrow of life\" or \"sorrow of existence\"). The metaphor of the candle (*shama*) burning through the night underscores life's fleeting, consuming torment until its inevitable end at dawn.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 3: \"Aah ko chahiye ik umr asar hote tak\" ([transliteration](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/03-aah-ko-chahiye-ik-umr-asar-hote-tak/transliteration/#p-82d15b)).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 3: \"Aah ko chahiye ik umr asar hote tak\" ([translation](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/03-aah-ko-chahiye-ik-umr-asar-hote-tak/translation/#p-82d15b)).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghum-e-hasti ka asad",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sorrow of existence\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hasti",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"juz marg\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"marg ilaaj\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hasti ka\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib hasti",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"death\" remedy",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cure sorrow existence",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pain of life\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sorrow of life\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Asad",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sorrow\" life OR existence OR hasti",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "remedy OR cure OR ilaaj OR \"except death\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 137
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 137-meri-hasti-fazaaye-hairat-abaad-e-tamanna-hai.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 101
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.101\\nverse · 7¶ · 138w · vocab 80 (TTR 94%, hapax 94%)\\n\\n## Distinctive trigrams\\n\\\"life vast workshop\\\" · \\\"vast workshop tul"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 177
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 177-sargashtagi-mein-aalam-e-hasti-se-yaas-hai.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.3 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 3,
+      "paragraph_id": "p-82d15b"
+    }
+  ],
+  "duration_ms": 61757,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 128686,
+    "completion_tokens": 5817,
+    "total_tokens": 134503,
+    "cached_tokens": 89720,
+    "api_calls": 6,
+    "cost_usd": 0.015187699999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1921,
+        "completion_tokens": 674,
+        "total_tokens": 2595,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00043815
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5686,
+        "completion_tokens": 1063,
+        "total_tokens": 6749,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00138565
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 11098,
+        "completion_tokens": 1527,
+        "total_tokens": 12625,
+        "cached_tokens": 5681,
+        "cost_usd": 0.00213095
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 29789,
+        "completion_tokens": 1113,
+        "total_tokens": 30902,
+        "cached_tokens": 11093,
+        "cost_usd": 0.00485035
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 39393,
+        "completion_tokens": 399,
+        "total_tokens": 39792,
+        "cached_tokens": 29784,
+        "cost_usd": 0.0036105
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 40799,
+        "completion_tokens": 1041,
+        "total_tokens": 41840,
+        "cached_tokens": 39388,
+        "cost_usd": 0.0027721
+      }
+    ]
+  }
+}

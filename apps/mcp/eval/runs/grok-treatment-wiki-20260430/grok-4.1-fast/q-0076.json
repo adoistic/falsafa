@@ -1,0 +1,168 @@
+{
+  "answer": "In *Traité de la propriété* (Vol. I, ch. 13), Charles Comte argues that rivers are common property shared across all populations in their basin.[^1] While upstream landowners (possessing higher plateaus and mountain slopes) may use the river freely, populations in the lower basin—who occupy the first-cultivated, richest, and most populous lands, where agriculture, industry, and commerce have flourished—hold undivided proprietary rights in the river.[^2] Deforestation by upstream populations violates these rights by causing rivers to diminish (via faster evaporation) or become destructive torrents (via soil runoff), inflicting severe economic harm on downstream properties and productivity.[^3] This establishes a political-economic case for restricting absolute private property rights on upstream lands to safeguard the broader basin economy, subordinating individual liberty in land use to communal river interests.[^4]\n\n[^1]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/13-influence-du-deboisement-des-montagnes-sur-les-fle/translation/#p-143669).\n\n[^2]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/13-influence-du-deboisement-des-montagnes-sur-les-fle/translation/#p-0f23c7).\n\n[^3]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/13-influence-du-deboisement-des-montagnes-sur-les-fle/translation/#p-a50c69).\n\n[^4]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/13-influence-du-deboisement-des-montagnes-sur-les-fle/translation/#p-79de67).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-2c7a99",
+        "chapter_number": 13
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: charles-comte-traite-de-la-propriete-2c7a99"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-2c7a99"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: charles-comte-traite-de-la-propriete-2c7a99"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.13\\nprose · 35¶ · 2941w · vocab 766 (TTR 56%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"plateaus slopes mounta"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 13
+      },
+      "result_summary": "Read ch.13 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.13\\nprose · 35¶ · 2941w · vocab 766 (TTR 56%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"plateaus slopes mounta"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-143669",
+          "p-0f23c7",
+          "p-a50c69",
+          "p-79de67"
+        ]
+      },
+      "result_summary": "Returned 4 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 13,
+      "paragraph_id": "p-143669"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 13,
+      "paragraph_id": "p-0f23c7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 13,
+      "paragraph_id": "p-a50c69"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 13,
+      "paragraph_id": "p-79de67"
+    }
+  ],
+  "duration_ms": 33376,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 36962,
+    "completion_tokens": 3483,
+    "total_tokens": 40445,
+    "cached_tokens": 19409,
+    "api_calls": 5,
+    "cost_usd": 0.0062225499999999994,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1915,
+        "completion_tokens": 817,
+        "total_tokens": 2732,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0005092
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 2814,
+        "completion_tokens": 244,
+        "total_tokens": 3058,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00040265
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki"
+        ],
+        "prompt_tokens": 5919,
+        "completion_tokens": 383,
+        "total_tokens": 6302,
+        "cached_tokens": 2809,
+        "cost_usd": 0.00095395
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 12840,
+        "completion_tokens": 773,
+        "total_tokens": 13613,
+        "cached_tokens": 2,
+        "cost_usd": 0.0029542
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 13474,
+        "completion_tokens": 1266,
+        "total_tokens": 14740,
+        "cached_tokens": 12835,
+        "cost_usd": 0.00140255
+      }
+    ]
+  }
+}

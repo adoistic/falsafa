@@ -1,0 +1,206 @@
+{
+  "answer": "In Allama Iqbal's poem \"Dard-e-Ishq\" (\"The Anguish of Love\"), the pain of love—personified directly as \"O, Anguish of Love!\"—is characterized as a radiant and pure entity, likened to \"a pearl of purest water,\" whose intrinsic value demands it remain concealed from unworthy (\"unperceived\") eyes and the superficiality of the modern world.[^1][^2] It is portrayed as sacred and veiled, incompatible with public display, the \"new assembly\" that chases \"surface light,\" scientific rationalism, critical scrutiny, or shallow spectacles; instead, it belongs hidden in the \"soul's most secret receptacle,\" unexpressed through poetry, music, or outward grief.[^3][^4][^5] The poem urges this anguish to withdraw entirely from an age where hearts are \"drunk on wines of its own mind,\" finding no place or joy amid life's corrupted \"once-sacred grounds.\"[^6]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Dard-e-Ishq\" [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/17-dard-e-ishq/translation/#p-6d19d8).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Dard-e-Ishq\" [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/17-dard-e-ishq/translation/#p-b75085).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Dard-e-Ishq\" [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/17-dard-e-ishq/translation/#p-3d4e57).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Dard-e-Ishq\" [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/17-dard-e-ishq/translation/#p-71e687).\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Dard-e-Ishq\" [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/17-dard-e-ishq/translation/#p-463ab2).\n\n[^6]: Allama Iqbal, *Bang-E-Dara Part 1*, \"Dard-e-Ishq\" [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/17-dard-e-ishq/translation/#p-d85ab0).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Dard-e-Ishq"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pain of love\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 17-dard-e-ishq.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17,
+        "paragraph_ids": [
+          "p-6d19d8",
+          "p-3d4e57",
+          "p-d85ab0",
+          "p-31e939",
+          "p-f1ab57",
+          "p-01e01a",
+          "p-08811a",
+          "p-71e687",
+          "p-31e0b4"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 9 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17,
+        "paragraph_ids": [
+          "p-b75085"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-6d19d8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-b75085"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-3d4e57"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-71e687"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-463ab2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-d85ab0"
+    }
+  ],
+  "duration_ms": 38245,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 27627,
+    "completion_tokens": 3698,
+    "total_tokens": 31325,
+    "cached_tokens": 20824,
+    "api_calls": 5,
+    "cost_usd": 0.0042508,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1917,
+        "completion_tokens": 645,
+        "total_tokens": 2562,
+        "cached_tokens": 1885,
+        "cost_usd": 0.00042315
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3515,
+        "completion_tokens": 259,
+        "total_tokens": 3774,
+        "cached_tokens": 1885,
+        "cost_usd": 0.00054975
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6391,
+        "completion_tokens": 224,
+        "total_tokens": 6615,
+        "cached_tokens": 3510,
+        "cost_usd": 0.0008637
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 7163,
+        "completion_tokens": 955,
+        "total_tokens": 8118,
+        "cached_tokens": 6386,
+        "cost_usd": 0.0009522
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 8641,
+        "completion_tokens": 1615,
+        "total_tokens": 10256,
+        "cached_tokens": 7158,
+        "cost_usd": 0.001462
+      }
+    ]
+  }
+}

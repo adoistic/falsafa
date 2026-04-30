@@ -1,0 +1,154 @@
+{
+  "answer": "**The verse you're referring to is the second couplet (sh'er) of the ghazal \"Rahiye ab aisi jagah chal kar jahan koi na ho\" from Mirza Ghalib's *Diwan-E-Ghalib* (chapter 168).**[^1]\n\nIn the original Urdu (right-to-left):  \nبے_در_و_دیوار سا اک گھر بنایا چاہیے  \nکوئی ہمسایہ نہ ہو اور پاسباں کوئی نہ ہو[^2]\n\nTransliteration:  \nBe-dar-o-deewar sa ek ghar banaya chahiye  \nKoi humsaya na ho aur pasban koi na ho[^3]\n\nEnglish translation:  \nA house I'll build of neither wall nor stone,  \nNo neighbor there, no guard, and be alone.[^1]\n\nHere, *humsaya* (ہمسایہ) conveys \"neighbor\" or \"companion/co-resident,\" while *pasban* (پاسباں) means \"door-keeper,\" \"sentry,\" or \"guard.\" Ghalib expresses a desire for utter isolation in this wall-less house, free from neighbors, companions, and gatekeepers. The first couplet similarly evokes solitude (\"no kindred voice, no soul to call my own\"), but the specific phrasing matches the second.[^4]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 168 \"Rahiye ab aisi jagah chal kar jahan koi na ho\" [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/168-rahiye-ab-aisi-jagah-chal-kar-jahan-koi-na-ho/translation/#p-09bdfe).\n[^2]: Ibid., [original](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/168-rahiye-ab-aisi-jagah-chal-kar-jahan-koi-na-ho/original/#p-a28967).\n[^3]: Ibid., [transliteration](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/168-rahiye-ab-aisi-jagah-chal-kar-jahan-koi-na-ho/transliteration/#p-198d6d).\n[^4]: Ibid., full chapter [translation](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/168-rahiye-ab-aisi-jagah-chal-kar-jahan-koi-na-ho/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Rahiye ab aisi jagah chal kar jahan koi na ho"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"no neighbour\" \"no companion\" \"no door-keeper\" ghalib"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.168 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 168-rahiye-ab-aisi-jagah-chal-kar-jahan-koi-na-ho.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "paragraph_ids": [
+          "p-3a3448",
+          "p-09bdfe"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.168 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.168 of mirza-ghalib-diwan-e-ghalib-74ed4c (original)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 168,
+      "paragraph_id": "p-09bdfe"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 168,
+      "paragraph_id": "p-a28967"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 168,
+      "paragraph_id": "p-198d6d"
+    }
+  ],
+  "duration_ms": 33902,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 23624,
+    "completion_tokens": 3460,
+    "total_tokens": 27084,
+    "cached_tokens": 7439,
+    "api_calls": 4,
+    "cost_usd": 0.00533895,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1930,
+        "completion_tokens": 362,
+        "total_tokens": 2292,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005445
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 6346,
+        "completion_tokens": 519,
+        "total_tokens": 6865,
+        "cached_tokens": 150,
+        "cost_usd": 0.0015062
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6994,
+        "completion_tokens": 1215,
+        "total_tokens": 8209,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019838
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 8354,
+        "completion_tokens": 1364,
+        "total_tokens": 9718,
+        "cached_tokens": 6989,
+        "cost_usd": 0.00130445
+      }
+    ]
+  }
+}

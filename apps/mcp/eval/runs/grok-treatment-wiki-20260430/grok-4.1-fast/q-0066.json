@@ -1,0 +1,145 @@
+{
+  "answer": "In the poem \"Larkiyan parh rahi hain angrezi,\" Allama Iqbal observes girls learning English as a symbol of the nation's misguided embrace of Westernization. He notes sarcastically that this shift—where \"Western style is held in view\" and \"Eastern customs are deemed a sin\"—is seen as \"the path to salvation,\" and he anticipates an uncertain, dramatic outcome (\"What scene will this drama show?\").[^1]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 27 (\"Larkiyan parh rahi hain angrezi\"), [p-289582](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/27-larkiyan-parh-rahi-hain-angrezi/translation/#p-289582).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Larkiyan parh rahi hain Angrezi\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"girls learning English\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 27
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.27\\nverse · 1¶ · 40w · vocab 22 (TTR 100%, hapax 100%)\\n\\n## Distinctive trigrams\\n\\\"girls learning english\\\" · \\\"learning "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 27
+      },
+      "result_summary": "Read ch.27 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 27,
+        "paragraph_ids": [
+          "p-289582"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 27,
+      "paragraph_id": "p-289582"
+    }
+  ],
+  "duration_ms": 20650,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 30700,
+    "completion_tokens": 2215,
+    "total_tokens": 32915,
+    "cached_tokens": 21603,
+    "api_calls": 4,
+    "cost_usd": 0.00400705,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1922,
+        "completion_tokens": 542,
+        "total_tokens": 2464,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00037325
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7549,
+        "completion_tokens": 413,
+        "total_tokens": 7962,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00143415
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10302,
+        "completion_tokens": 327,
+        "total_tokens": 10629,
+        "cached_tokens": 7544,
+        "cost_usd": 0.0010923
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 10927,
+        "completion_tokens": 933,
+        "total_tokens": 11860,
+        "cached_tokens": 10297,
+        "cost_usd": 0.00110735
+      }
+    ]
+  }
+}

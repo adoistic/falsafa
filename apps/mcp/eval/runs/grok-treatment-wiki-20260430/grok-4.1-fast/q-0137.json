@@ -1,0 +1,136 @@
+{
+  "answer": "**In Sheikh Ibrahim Zauq's ghazal \"Chupke chupke gham ka khana koi hum se seekh jaaye\" (Diwan-E-Zauq, ch. 12), the speaker's secret occupation is feasting on sorrow while hiding the strain.**[^1]\n\nThis is the matla (opening couplet), which sets the theme of the entire poem: a series of couplets where the speaker claims mastery (\"an art I know\") over enduring love's torments in silence, such as weeping inwardly like a cloud, feigning praise while burning with disdain, receiving his own bane gladly, and more.[^2] \"Gham ka khana\" (eating sorrow) is a poetic metaphor for silently consuming or enduring grief, especially romantic suffering, and the speaker invites others to learn this \"art\" from him.[^3]\n\n[^1]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch. 12 (\"Chupke chupke gham ka khana koi hum se seekh jaaye\"), [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/12-chupke-chupke-gham-ka-khana-koi-hum-se-seekh-jaaye/translation/#p-f1ef29).\n[^2]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch. 12, [full chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/12-chupke-chupke-gham-ka-khana-koi-hum-se-seekh-jaaye/translation/).\n[^3]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch. 12, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/12-chupke-chupke-gham-ka-khana-koi-hum-se-seekh-jaaye/translation/#p-f1ef29).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Chupke chupke gham ka khaana",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "Listed 60 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"secretly\" sorrow OR grief OR gham",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Zauq · ch.12\\nverse · 18¶ · 402w · vocab 127 (TTR 55%, hapax 80%)\\n\\n## Distinctive trigrams\\n\\\"pain art know\\\" · \\\"strain art know\\\" · \\\"a"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 12,
+      "paragraph_id": "p-f1ef29"
+    }
+  ],
+  "duration_ms": 25729,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 28544,
+    "completion_tokens": 2814,
+    "total_tokens": 31358,
+    "cached_tokens": 15056,
+    "api_calls": 4,
+    "cost_usd": 0.0048573999999999996,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1921,
+        "completion_tokens": 465,
+        "total_tokens": 2386,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003344
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2811,
+        "completion_tokens": 705,
+        "total_tokens": 3516,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00063165
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11142,
+        "completion_tokens": 342,
+        "total_tokens": 11484,
+        "cached_tokens": 150,
+        "cost_usd": 0.0023769
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 12670,
+        "completion_tokens": 1302,
+        "total_tokens": 13972,
+        "cached_tokens": 11137,
+        "cost_usd": 0.00151445
+      }
+    ]
+  }
+}

@@ -1,0 +1,196 @@
+{
+  "answer": "**The work is *Andreas* by Cynewulf (an Old English poem), Chapter 1.**[^1]\n\nSaint Andrew (Andreas), on a divine mission in the heathen city of Mermedonia to rescue his brother Matthew from cannibalistic foes, addresses a marble pillar (one of the \"ancient work of giants\") near the city wall after enduring torments. He praises it as \"better than gold\" because the \"King of glory\" inscribed the Ten Commandments (\"ten words\") upon it and gave it to Moses, as \"truth-fast ones\" including Joshua and Tobias later held. He then commands it—by God's authority—to pour forth a \"wide-running water for the ruin of men\" as punishment on the corrupt populace, causing a flood that kills many until they repent.[^2]\n\n**Quote of the saint's address (verse translation):**\n\n> “Hear me now, marble-stone, by the Maker's decree,  \n> before whose face all of creation  \n> becomes afraid, when they see the Father  \n> of heavens and earth with the greatest of hosts  \n> on middle-earth seeking mankind.  \n> Let now from your foundations streams start to well,  \n> a river in-flooding, for the Almighty now,  \n> Heaven's High King, commands you to hasten  \n> and upon this corrupt folk to send forth  \n> **a wide-running water for the ruin of men**,  \n> a pouring ocean. **Behold, you are better than gold**,  \n> than treasure-gifts! **On you the King Himself**  \n> wrote, **the God of glory**, He made known in words  \n> the ready mysteries, and **the righteous law**  \n> **He marked out in ten words**,  \n> **the Maker mighty in power. To Moses He gave it**,  \n> **as the truth-fast ones afterwards held it**,  \n> the brave young thanes, his own kinsmen,  \n> **the God-fearing men, Joshua and Tobias**.  \n> Now you can know that the King of angels  \n> adorned you far more with gifts in old days  \n> than all the kindred of gems.  \n> Through His holy command you must quickly show  \n> if you have any understanding of Him.”[^3]\n\n[^1]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/).\n[^2]: Ibid., [paragraph p-2e50c1](/works/cynewulf-andreas-07b573/01/translation/#p-2e50c1).\n[^3]: Ibid. The pillar obeys immediately: \"The word was no sooner spoken than the stone split open. A stream welled out...\" (ibid., [paragraph p-e5ccfa](/works/cynewulf-andreas-07b573/01/translation/#p-e5ccfa)).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"better than gold\" pillar",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"King of glory\" pillar Moses",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wide-running water\" ruin",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Joshua and Tobias\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pillar \"better than gold\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ten commandments\" pillar OR stone",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Joshua\" \"Tobias\" OR Tobit",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wide running water\" OR \"wide-running water\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king of glory\" moses OR commandments",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "saint"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-2e50c1"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-e5ccfa"
+    }
+  ],
+  "duration_ms": 29126,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 35586,
+    "completion_tokens": 2815,
+    "total_tokens": 38401,
+    "cached_tokens": 9968,
+    "api_calls": 4,
+    "cost_usd": 0.007029499999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1981,
+        "completion_tokens": 487,
+        "total_tokens": 2468,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006172
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2245,
+        "completion_tokens": 708,
+        "total_tokens": 2953,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00052085
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5702,
+        "completion_tokens": 410,
+        "total_tokens": 6112,
+        "cached_tokens": 2240,
+        "cost_usd": 0.0010094
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 25658,
+        "completion_tokens": 1210,
+        "total_tokens": 26868,
+        "cached_tokens": 5697,
+        "cost_usd": 0.00488205
+      }
+    ]
+  }
+}

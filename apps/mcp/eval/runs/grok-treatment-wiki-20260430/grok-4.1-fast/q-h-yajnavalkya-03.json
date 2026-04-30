@@ -1,0 +1,227 @@
+{
+  "answer": "**The work is the *Yājñavalkya Smṛti*, Chapter 3 (\"Chapter 3\" or *prāyaścitta-adhyāya*, \"On Expiation\").**[^1]\n\nThis chapter provides the precise anatomical inventory matching the query, including a man's body having **three hundred and sixty bones** (verse 84), **sixty-four teeth** (with sockets, verse 85), **twenty nails** (verse 85), **seventy-two ribs** (with sockets and nodules, verse 89), **forty-five bones** in the back (verse 88), **fifteen** in the neck (verse 88), and **seventeen** in the chest (verse 90); the body containing **seven hundred veins**, **nine hundred sinews**, **two hundred arteries**, and **five hundred muscles** (verse 100); **one hundred and seven vital spots** and **two hundred joints** (verse 102); and body hairs with sweat ducts numbering **fifty crores and four crores… and sixty-seven and a half lakhs** (verse 103).[^2]\n\nThe requested verses are:\n\n> His bodies are sixfold, and six skins support them;  \n> there are six limbs, and **three hundred and sixty bones**. // Yj_3.84 //[^3]\n\n> **Seven hundred veins, nine hundred sinews**,  \n> **two hundred arteries, and five hundred muscles**. // Yj_3.100 //[^4]\n\n[^1]: *Yājñavalkya Smṛti*, Chapter 3, [translation](https://falsafa-corpus.vercel.app/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/).\n\n[^2]: *Yājñavalkya Smṛti*, Chapter 3, verses 84–90, 100, 102–103, [paragraphs](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-ac1be2).\n\n[^3]: *Yājñavalkya Smṛti*, Chapter 3, [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-ac1be2).\n\n[^4]: *Yājñavalkya Smṛti*, Chapter 3, [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-e42749).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "three hundred and sixty bones",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seven hundred veins\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fifty crores\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "expiation \"three hundred\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 96
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.96\\nverse · 5¶ · 1384w · vocab 449 (TTR 64%, hapax 82%)\\n\\n## Distinctive trigrams\\n\\\"his dwelling vi_96\\\" · \\\"great pain vi_96"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nine hundred sinews\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"five hundred muscles\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hundred and seven vital spots\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 96
+      },
+      "result_summary": "Read ch.96 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sixty-four teeth\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "expiation bones"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-ac1be2"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-e42749"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"slug\":\"unknown-yajnavalkya-smrti-cb88d6\",\"title\":\"Yājñavalkya Smṛti\",\"author\":\"Yājñavalkya\",\"author_slug\":\"yajnavalkya\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\""
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-ac1be2"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-e42749"
+    }
+  ],
+  "duration_ms": 27491,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 46023,
+    "completion_tokens": 4296,
+    "total_tokens": 50319,
+    "cached_tokens": 24402,
+    "api_calls": 5,
+    "cost_usd": 0.0076923,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2063,
+        "completion_tokens": 496,
+        "total_tokens": 2559,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006381
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2559,
+        "completion_tokens": 722,
+        "total_tokens": 3281,
+        "cached_tokens": 1888,
+        "cost_usd": 0.0005896
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3612,
+        "completion_tokens": 588,
+        "total_tokens": 4200,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009939
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18612,
+        "completion_tokens": 1117,
+        "total_tokens": 19729,
+        "cached_tokens": 3607,
+        "cost_usd": 0.00373985
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_metadata"
+        ],
+        "prompt_tokens": 19177,
+        "completion_tokens": 1373,
+        "total_tokens": 20550,
+        "cached_tokens": 18607,
+        "cost_usd": 0.00173085
+      }
+    ]
+  }
+}

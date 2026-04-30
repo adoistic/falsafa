@@ -1,0 +1,163 @@
+{
+  "answer": "In Allama Iqbal's *Shikwa* (from *Bang-E-Dara Part 3*, ch. 20), the speaker—representing the Muslim community—directly complains to God about their degraded fate throughout the poem, contrasting past glories with present decline, poverty, and divine disfavor toward Muslims versus others.[^1] One direct verse on this theme is:\n\n> There are other nations, and among them sinners you can find,  \n> There are the humble, and the ones drunk with their pride of mind.  \n> There are the lazy, heedless, and the clever of their kind,  \n> And hundreds more who from Your very name are disinclined.  \n> But all Your blessings fall upon the houses of the foe,  \n> While on the wretched Muslims falls the lightning’s fiery blow.[^2]\n\nA related verse elaborates on the Muslims' poverty and disgrace as the \"prize\" for past sacrifices:\n\n> Why is the wealth of this world now so scarce for Muslim hands?  \n> Your power is the one that has no limits, no demands.  \n> If You but wished it, bubbles would arise from desert sands,  \n> And mirages would slap the face of travelers in these lands.  \n> We face the taunts of strangers, disgrace, and poverty;  \n> Is this the prize for those who gave their very lives for Thee?[^3]\n\nThe poem opens with the speaker explicitly voicing the complaint to God.[^4]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 20 \"Shikwa\" (translation), [chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/).\n\n[^2]: Ibid., [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-20fc7c).\n\n[^3]: Ibid., [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-d1e7fe).\n\n[^4]: Ibid., [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-01026e).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Shikwa Muslims fate God complain",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.20\\nverse · 32¶ · 2057w · vocab 682 (TTR 68%, hapax 75%)\\n\\n## Distinctive trigrams\\n\\\"complaint choose path\\\" · \\\"choose p"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-01026e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-20fc7c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-20fc7c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-d1e7fe"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-01026e"
+    }
+  ],
+  "duration_ms": 38571,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 22761,
+    "completion_tokens": 3103,
+    "total_tokens": 25864,
+    "cached_tokens": 10758,
+    "api_calls": 4,
+    "cost_usd": 0.00449,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1911,
+        "completion_tokens": 503,
+        "total_tokens": 2414,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006112
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3856,
+        "completion_tokens": 510,
+        "total_tokens": 4366,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010037
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6612,
+        "completion_tokens": 474,
+        "total_tokens": 7086,
+        "cached_tokens": 3851,
+        "cost_usd": 0.00098175
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 10382,
+        "completion_tokens": 1616,
+        "total_tokens": 11998,
+        "cached_tokens": 6607,
+        "cost_usd": 0.00189335
+      }
+    ]
+  }
+}

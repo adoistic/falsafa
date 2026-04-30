@@ -1,0 +1,243 @@
+{
+  "answer": "> **Original (transliteration):**  \n> Hain aur bhī duniyā meñ sukh̤an-war baḥuṭ acch̤e  \n> Kehte haiñ ke 'Ghalib'-kā hai andaaz̤-e-bayān̤ aur[^1]\n\n> **Translation:**  \n> The world has many poets, it is plain;  \n> But they say Ghalib's mode of speech is something else again.[^2]\n\nThis is the *maqt̤a* (signature couplet) from Ghalib's ghazal \"Hai bas̤k̤e har ek unke is̤hāre meñ niṣ̤ān̤ aur,\" where he acknowledges other fine poets (*sukhanwar*) in the world while claiming his own distinctive style (*andaaz-e-bayaan*).\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/60-hai-baske-har-ek-unke-ishaare-mein-nishaan-aur/transliteration/#p-1f1fad).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/60-hai-baske-har-ek-unke-ishaare-mein-nishaan-aur/translation/#p-312db4).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sukhanwar\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hain aur bhi\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duniya mein sukhanwar\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sukhanwar"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sukhanvar"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bahut achhe"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "duniya mein"
+      },
+      "result_summary": "Found 18 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"aur bhi\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 60,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.60 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 60,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.60 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 60
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 60-hai-baske-har-ek-unke-ishaare-mein-nishaan-aur.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 60,
+        "paragraph_ids": [
+          "p-312db4"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 60,
+        "paragraph_ids": [
+          "p-312db4"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 60,
+      "paragraph_id": "p-1f1fad"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 60,
+      "paragraph_id": "p-312db4"
+    }
+  ],
+  "duration_ms": 39996,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 67341,
+    "completion_tokens": 4460,
+    "total_tokens": 71801,
+    "cached_tokens": 22710,
+    "api_calls": 5,
+    "cost_usd": 0.0122917,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1924,
+        "completion_tokens": 632,
+        "total_tokens": 2556,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00041865
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 4004,
+        "completion_tokens": 1241,
+        "total_tokens": 5245,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00113915
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 12992,
+        "completion_tokens": 735,
+        "total_tokens": 13727,
+        "cached_tokens": 3999,
+        "cost_usd": 0.00236605
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 14804,
+        "completion_tokens": 945,
+        "total_tokens": 15749,
+        "cached_tokens": 150,
+        "cost_usd": 0.0034108
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "list_chapters"
+        ],
+        "prompt_tokens": 33617,
+        "completion_tokens": 907,
+        "total_tokens": 34524,
+        "cached_tokens": 14799,
+        "cost_usd": 0.00495705
+      }
+    ]
+  }
+}

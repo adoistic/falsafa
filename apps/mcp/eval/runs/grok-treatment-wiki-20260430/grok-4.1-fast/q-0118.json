@@ -1,0 +1,181 @@
+{
+  "answer": "**Deor** is an Old English elegiac poem preserved in the *Old English Elegies* collection.[^1] It recounts a series of sorrows from Germanic legend—Weland the smith, Beadohild, Mæðhild, Theodric, and Eormanric—before turning to the poet's own loss of patronage, each episode punctuated by the refrain **\"That passed over; so may this.\"** (A common variant is \"that passed away, so may this,\" reflecting slight differences in translation.)[^2]\n\nHere is the full poem in translation:\n\n> [p-1308a0] Weland knew well the worm’s cruel bite,[^3]  \n> a resolute earl endured his hardships,  \n> had for his company sorrow and longing,  \n> winter-cold misery; woes he often met  \n> after Niðhad had laid heavy needs on him,  \n> supple sinew-bonds on a better man.  \n> That passed over; so may this.  \n> \n> [p-d11ebc] Beadohild's heart for her brothers' death  \n> was not so sore as for her own self's sorrow,  \n> once she had seen with certainty  \n> that she was with child; nor could she ever  \n> face with firmness what would come of that.  \n> That passed over; so may this.  \n> \n> [p-5821a4] We have heard tell of Mæðhilde's plight,  \n> how the love of Geat grew boundless,  \n> so that sorrow-love stole all their sleep.  \n> That passed over; so may this.  \n> \n> [p-ac23ab] Theodric held for thirty winters  \n> the Mærings' stronghold; to many that was known.  \n> That passed over; so may this.  \n> \n> [p-160f1c] We have heard tell of Eormanric's  \n> wolfish mind; he ruled far and wide  \n> the Gothic kingdom. A grim king was he.  \n> Many a man sat by sorrow bound,  \n> woe in his heart, wishing often  \n> that the kingdom itself might be overcome.  \n> That passed over; so may this.  \n> \n> [p-b4d6b7] The sorrowful man sits, stripped of all joys,  \n> his spirit darkens; to himself it seems  \n> his share of hardships shall have no end.  \n> Then he may think that through this world  \n> the wise Lord wanders, ever-changing,  \n> to many an earl showing His honor,  \n> sure happiness, but to some, a share of woe.  \n> \n> [p-6b7e51] This I can say about my own self,  \n> that for a time I was the Heodenings' scop,  \n> dear to my lord. **Deor** was my name.  \n> For many winters I had a goodly following,  \n> a loyal lord, until Heorrenda now,  \n> that song-crafty man, received the land-right  \n> which the protector of earls had granted me before.  \n> That passed over; so may this.[^4]\n\n[^1]: *Old English Elegies*, ch. 13 (/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/).\n\n[^2]: The refrain appears verbatim as **\"That passed over; so may this.\"** in this translation; cf. [p-1308a0](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-1308a0), [p-d11ebc](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-d11ebc), etc.\n\n[^3]: Opening on Weland (Wayland the Smith), a staple of Germanic myth. [p-1308a0](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-1308a0)\n\n[^4]: Closing revelation of the poet's name and personal lament. [p-6b7e51](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-6b7e51)",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "that passed away, so may this",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Deor\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Þæs ofereode þisses swa mæg"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "that passed over so may this"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.13\\nprose · 7¶ · 296w · vocab 115 (TTR 79%, hapax 84%)\\n\\n## Distinctive trigrams\\n\\\"passed heard tell\\\" · \\\"weland knew w"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of unknown-old-english-elegies-d5fe9e (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-1308a0"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-d11ebc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-5821a4"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-ac23ab"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-160f1c"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-b4d6b7"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-6b7e51"
+    }
+  ],
+  "duration_ms": 24365,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 26765,
+    "completion_tokens": 3269,
+    "total_tokens": 30034,
+    "cached_tokens": 17372,
+    "api_calls": 4,
+    "cost_usd": 0.0043817,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1908,
+        "completion_tokens": 518,
+        "total_tokens": 2426,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00035845
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3772,
+        "completion_tokens": 450,
+        "total_tokens": 4222,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00069725
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9848,
+        "completion_tokens": 434,
+        "total_tokens": 10282,
+        "cached_tokens": 3767,
+        "cost_usd": 0.00162155
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 11237,
+        "completion_tokens": 1867,
+        "total_tokens": 13104,
+        "cached_tokens": 9843,
+        "cost_usd": 0.00170445
+      }
+    ]
+  }
+}

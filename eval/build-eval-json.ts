@@ -443,7 +443,14 @@ function isLegacyQuarantined(d: string): boolean {
     d.startsWith("1k-codex-smoke") ||
     d.startsWith("multi-model-") ||
     d.startsWith("1k-rerun-") ||
-    d.startsWith("haiku-")
+    d.startsWith("haiku-") ||
+    // grok-4.1-fast-20260430 was a 5-case smoke test from earlier the same
+    // day; the paper-grade baseline is grok-baseline-nowiki-20260430.
+    d === "grok-4.1-fast-20260430" ||
+    // The pilot was 10 cases stratified on baseline failures — biased
+    // sample, not paper-grade. Treatment-wiki on the full pool is the
+    // unbiased run.
+    d === "treatment-pilot-10failed-20260430"
   );
 }
 
@@ -478,11 +485,17 @@ function resolveRuns(includes: string[]): ResolvedRun[] {
       if (!statSync(subPath).isDirectory()) continue;
       const hasQ = readdirSync(subPath).some((f) => /^q-.+\.json$/.test(f) || /\.json$/.test(f));
       if (!hasQ) continue;
+      // A/B run-tag: when the runDir name signals an experimental arm
+      // (baseline / wiki / treatment), split that into a distinct model
+      // label so the explorer renders one column per arm. Same model id,
+      // two arms = two side-by-side columns instead of a silent merge.
+      const armTag = armTagFromRunDir(runDir);
+      const modelLabel = armTag ? `${sub}__${armTag}` : sub;
       out.push({
         modelId: `${runDir}:${sub}`,         // legacy, kept for now
-        modelLabel: sub,
+        modelLabel,
         runDir,
-        modelName: humaniseModelLabel(sub),
+        modelName: humaniseModelLabel(modelLabel),
         resultsDir: subPath,
         judgeDir,
       });
@@ -496,7 +509,31 @@ function resolveRuns(includes: string[]): ResolvedRun[] {
   return out;
 }
 
+/**
+ * Map a runDir name to an A/B arm tag, or null if the run is unbranded.
+ *
+ * Tags are visible in modelLabel suffixes (`grok-4.1-fast__baseline`) and
+ * in the rendered model name (`xAI Grok 4.1 Fast (baseline)`). Adding a
+ * new arm = add one substring rule here; the rest of the pipeline picks
+ * it up automatically.
+ */
+function armTagFromRunDir(runDir: string): string | null {
+  const lc = runDir.toLowerCase();
+  if (lc.includes("baseline") && !lc.includes("treatment")) return "baseline";
+  if (lc.includes("treatment-wiki") || lc.includes("with-wiki")) return "wiki";
+  if (lc.includes("nowiki") || lc.includes("no-wiki")) return "baseline";
+  if (lc.includes("treatment")) return "wiki";
+  // The pre-A/B discovery sweep was effectively the baseline arm for the
+  // hidden tier — same MCP, same prompt, just no wiki tools because those
+  // didn't exist yet. Tag it as baseline so it merges with the named-tier
+  // baseline column instead of showing as a separate untagged run.
+  if (/^grok-discovery-\d/.test(lc)) return "baseline";
+  return null;
+}
+
 function humaniseModelLabel(label: string): string {
+  // Split the optional `__arm` suffix off so the bare-model lookup still works.
+  const [bare, arm] = label.split("__");
   const named: Record<string, string> = {
     sonnet: "Claude Sonnet 4.6",
     opus: "Claude Opus 4.7",
@@ -506,7 +543,8 @@ function humaniseModelLabel(label: string): string {
     "claude-sonnet-4": "Claude Sonnet 4",
     "gpt-5": "GPT-5",
   };
-  return named[label] ?? label;  // unmapped labels render as-is
+  const base = named[bare!] ?? bare!;
+  return arm ? `${base} (${arm})` : base;
 }
 
 function matchGlob(name: string, pattern: string): boolean {

@@ -1,0 +1,252 @@
+{
+  "answer": "**Cynewulf's runic signatures appear in the epilogues of both *Elene* and *Juliana*, where capitalized or bolded words (in the original Old English manuscripts, runes) spell out his name: in *Elene*, the sequence embeds C-Y-N-E-W-U-L-F across the reflective passages; in *Juliana*, it appears as **Torch** (C/ᚳ), **Bow** (W/ᚹ), **Need** (N/ᚾ), **Journey** (I/ᛁ), **Joy** (G/᠃ or Y/ᛡ), and **Strength** (S/ᛋ), forming C-W-N-I-W-L-F (a variant spelling).**[^1][^2]\n\n### What Cynewulf asks for\n- **In *Elene***: Cynewulf does not make an explicit request. Instead, he describes his hope for divine mercy at the Last Judgment. Having reflected on his sinful past (\"stained by my deeds, shackled by sins\"), worldly transience, and God's gift of poetic inspiration, he envisions judgment by fire, where the righteous endure mildly at the top, the moderately sinful are purified in the middle (like gold refined), and the worst are damned below—implicitly aligning himself with those who \"forsook every evil... and to the Son of the Shaper cried out with words,\" earning \"eternal blessedness.\"[^3]\n- **In *Juliana***: Cynewulf makes a direct supplication, asking \"every person of humankind who recites this poem\" to \"earnestly remember me by my name\" (i.e., via the runes) and intercede in prayer. He seeks the Trinity's (\"the Father, the Spirit of comfort... and the dear Son\") help and mercy \"on the Great Day,\" when deeds are judged, so that he may find God's \"face... mild and merciful.\" This is framed as urgent need amid his \"great sorrow,\" recalling sins and the soul's fearful journey from the body.[^4]\n\n### How the framing differs\n*Elene*'s epilogue is introspective and eschatological: a first-person autobiography of aging, sin, inspiration (\"the mighty King granted me learning through a luminous form\"), and mutability (\"Joy has waned with the years\"), culminating in a doctrinal vision of purgatorial fire and salvation for the repentant—didactic and hopeful, without audience involvement.[^5]\n\n*Juliana*'s is communal and petitionary: a plea to reciters for prayers, invoking the saint's intercession (\"the holy one may intercede for me with the highest King\") and tying personal anxiety (soul-body separation, sin's \"wounds\") to Judgment, emphasizing shared Christian solidarity.[^6]\n\nBoth express Cynewulf's fear of judgment and desire for mercy, but *Elene* teaches via cosmic reflection, while *Juliana* solicits active aid, leveraging the poem's oral performance.\n\n[^1]: *Elene*, ch. 1 (runic passage spanning [p-d2e607](/works/cynewulf-elene-d2d132/1/translation/#p-d2e607), [p-8f8a1b](/works/cynewulf-elene-d2d132/1/translation/#p-8f8a1b)).\n[^2]: *Juliana*, ch. 1 ([p-e769dc](/works/cynewulf-juliana-9a2157/1/translation/#p-e769dc)).\n[^3]: *Elene*, ch. 1 ([p-dcbbfe](/works/cynewulf-elene-d2d132/1/translation/#p-dcbbfe)).\n[^4]: *Juliana*, ch. 1 ([p-1f8ce8](/works/cynewulf-juliana-9a2157/1/translation/#p-1f8ce8)).\n[^5]: *Elene*, ch. 1, epilogue ([p-d2e607](/works/cynewulf-elene-d2d132/1/translation/#p-d2e607)–[p-dcbbfe](/works/cynewulf-elene-d2d132/1/translation/#p-dcbbfe)).\n[^6]: *Juliana*, ch. 1, epilogue ([p-e769dc](/works/cynewulf-juliana-9a2157/1/translation/#p-e769dc)–[p-1f8ce8](/works/cynewulf-juliana-9a2157/1/translation/#p-1f8ce8)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Cynewulf runes Elene Juliana",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"runic signature\" OR runes Cynewulf",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Cynewulf signature rune",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rune\" OR \"runes\" OR \"signed\" OR \"Cynewulf\" Elene",
+        "limit": 10
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d2e607",
+          "p-8f8a1b",
+          "p-dcbbfe"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e769dc",
+          "p-1f8ce8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-d2e607"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-8f8a1b"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-e769dc"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-1f8ce8"
+    }
+  ],
+  "duration_ms": 43020,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 98183,
+    "completion_tokens": 5699,
+    "total_tokens": 103882,
+    "cached_tokens": 59914,
+    "api_calls": 6,
+    "cost_usd": 0.013499,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1921,
+        "completion_tokens": 429,
+        "total_tokens": 2350,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00031655
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2407,
+        "completion_tokens": 342,
+        "total_tokens": 2749,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006299
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 3320,
+        "completion_tokens": 467,
+        "total_tokens": 3787,
+        "cached_tokens": 2402,
+        "cost_usd": 0.0005372
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15531,
+        "completion_tokens": 1115,
+        "total_tokens": 16646,
+        "cached_tokens": 3315,
+        "cost_usd": 0.00316645
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 36645,
+        "completion_tokens": 1164,
+        "total_tokens": 37809,
+        "cached_tokens": 15526,
+        "cost_usd": 0.0055821
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 38359,
+        "completion_tokens": 2182,
+        "total_tokens": 40541,
+        "cached_tokens": 36640,
+        "cost_usd": 0.0032668
+      }
+    ]
+  }
+}

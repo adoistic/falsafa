@@ -1,0 +1,178 @@
+{
+  "answer": "**Manusmṛti Chapter 9** declares the \"eternal laws for a man and a woman who abide in the path of Dharma, concerning their union and their separation,\" with a strong emphasis on the husband's protective role, the wife's dependence and household duties, mutual fidelity as the \"highest Dharma,\" procreation, and conditions for separation or supersession.[^1][^2]\n\n### Duties of the Husband\nThe text prescribes that husbands must vigilantly protect their wives, as this safeguards progeny, family honor, and Dharma itself: \"Her father protects her in childhood, her husband protects her in youth, and her sons protect her in old age; a woman is never fit for independence.\"[^3] \"For by diligently protecting his wife, he protects his own progeny, his conduct, his family, and himself, and also his own Dharma.\"[^4] Protection involves employing the wife in household management (\"collection and expenditure of wealth, in purification, in religious duty, in the cooking of food, and in the supervision of the household effects\") to ensure her security.[^5]\n\nHusbands should provide livelihood before traveling abroad, lest \"a woman distressed by lack of livelihood may be corrupted, even if she is virtuous.\"[^6] A virtuous wife must be cherished: \"A husband obtains a wife given by the gods... by cherishing that virtuous wife always, he does what is pleasing to the gods.\"[^7] Common religious duties (*Śruti*-prescribed) are to be performed jointly with the wife.[^8] The same-*varṇa* wife alone performs personal service to the husband and daily rites; others do not.[^9]\n\nHusbands may wait specified periods for a hating wife (one year) or supersede her under conditions like barrenness (after 8 years), but must not dishonor a kind, characterful wife.[^10]\n\n### Duties of the Wife\nWives must remain dependent, controlled, and faithful, as women are prone to ruin from \"drinking, association with wicked people, separation from her husband, wandering, sleeping, and dwelling in another's house.\"[^11] Fidelity is paramount: \"Mutual fidelity until death—this, in summary, should be known as the highest Dharma for husband and wife.\" \"A husband and wife who have performed the marriage rites should always strive so that they do not transgress against each other when separated.\"[^12] A faithful wife attains her husband's worlds; infidelity leads to condemnation and rebirth as a jackal.[^13]\n\nThe wife is the \"field\" for the husband's \"seed,\" essential for pure progeny.[^14] Offspring, duties, pleasure, and ancestral rites depend on her.[^15]\n\nWives (especially same-*varṇa*) perform personal service, religious duties, and household tasks. They should not spend family or personal wealth without permission.[^16]\n\nThe chapter frames these as interdependent for family continuity, with *niyoga* (limited appointment for heirs) allowed only in distress to prevent lineage extinction, but condemns widow remarriage as \"bestial.\"[^17]\n\n[^1]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-8ec0cb).\n[^2]: Manusmṛti, Chapter 9, [full chapter](/works/unknown-manusmrti-347b76/09/translation/).\n[^3]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-233021).\n[^4]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-7dd274).\n[^5]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-76576d).\n[^6]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-29f6da).\n[^7]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-29f6da).\n[^8]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-29f6da).\n[^9]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-29f6da).\n[^10]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-29f6da).\n[^11]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-00eeae).\n[^12]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-29f6da).\n[^13]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-6c8c98).\n[^14]: Manusmṛti, Chapter 9, [paragraphs](/works/unknown-manusmrti-347b76/09/translation/#p-999983); see also [p-7f8e12].\n[^15]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-dc931c).\n[^16]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-29f6da); [p-29f6da].\n[^17]: Manusmṛti, Chapter 9, [paragraphs](/works/unknown-manusmrti-347b76/09/translation/#p-c15c8c).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu chapter 9 duties husband wife",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chapter 9\" Manu husband wife",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.9\\nverse · 155¶ · 10149w · vocab 1606 (TTR 34%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"son shudra wife\\\" · \\\"established rule mn_"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-8ec0cb"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-233021"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-7dd274"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-76576d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-29f6da"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-00eeae"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-6c8c98"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-999983"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-7f8e12"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-dc931c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-c15c8c"
+    }
+  ],
+  "duration_ms": 31378,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 46771,
+    "completion_tokens": 4024,
+    "total_tokens": 50795,
+    "cached_tokens": 18236,
+    "api_calls": 4,
+    "cost_usd": 0.008630800000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 637,
+        "total_tokens": 2538,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006762
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 3342,
+        "completion_tokens": 334,
+        "total_tokens": 3676,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00055325
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 12873,
+        "completion_tokens": 570,
+        "total_tokens": 13443,
+        "cached_tokens": 3337,
+        "cost_usd": 0.00235905
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 28655,
+        "completion_tokens": 2483,
+        "total_tokens": 31138,
+        "cached_tokens": 12868,
+        "cost_usd": 0.0050423
+      }
+    ]
+  }
+}

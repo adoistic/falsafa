@@ -1,0 +1,281 @@
+{
+  "answer": "**The couplet closest to your description appears in Ghalib's *Diwan-e-Ghalib*, ghazal 145:**\n\n> Seek not a lesson in a mirage you can't retrace,[^1]  \n> I am but road-dust, aimless is my winding pace, my.[^1]\n\nThis sh'er (couplet) pairs a \"lesson\" (which cannot be retraced, evoking life's elusive teachings) with the poet's self-description as \"road-dust\" (ghubaar-e-raah). No exact phrasing like \"life's lesson\" equated directly to \"dust of the road\" occurs in the English translations of the *Diwan*, despite extensive searches for those terms and their variants across the 239 chapters. Other couplets mention \"lesson\" (e.g., lessons from love's pain or the flower's doom) but lack the road/dust imagery together.[^2][^3][^4]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 145, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/145-na-hoga-yak-biyabaan-maandagi-se-zauq-kam-mera/translation/#p-26d938).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 10, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/10-arz-e-naaz-e-shokhi-e-dandaan-baraaye-khanda-hai/translation/#p-494438).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 22, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/22-chahiye-achhon-ko-jitna-chahiye/translation/#p-b327f3).\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 99, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/99-juz-qais-aur-koi-na-aaya-ba-ru-e-kaar/translation/#p-2dd0ef).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dust of the road\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life's lesson\" dust road",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lesson dust road",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dust\" road",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dust\" path",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dust road",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life\" lesson dust",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dust",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "road",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "path",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lesson",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 145,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.145 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 10,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.10 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 22,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.22 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 99,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.99 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 145,
+        "paragraph_ids": [
+          "p-26d938"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 145,
+      "paragraph_id": "p-26d938"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 145,
+      "paragraph_id": "p-494438"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 145,
+      "paragraph_id": "p-b327f3"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 145,
+      "paragraph_id": "p-2dd0ef"
+    }
+  ],
+  "duration_ms": 61483,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 58451,
+    "completion_tokens": 5169,
+    "total_tokens": 63620,
+    "cached_tokens": 26267,
+    "api_calls": 6,
+    "cost_usd": 0.01033465,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 590,
+        "total_tokens": 2496,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003939
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2263,
+        "completion_tokens": 689,
+        "total_tokens": 2952,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00051495
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4832,
+        "completion_tokens": 1004,
+        "total_tokens": 5836,
+        "cached_tokens": 150,
+        "cost_usd": 0.0014459
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14484,
+        "completion_tokens": 930,
+        "total_tokens": 15414,
+        "cached_tokens": 4827,
+        "cost_usd": 0.00263775
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 17382,
+        "completion_tokens": 667,
+        "total_tokens": 18049,
+        "cached_tokens": 150,
+        "cost_usd": 0.0037874
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 17584,
+        "completion_tokens": 1289,
+        "total_tokens": 18873,
+        "cached_tokens": 17377,
+        "cost_usd": 0.00155475
+      }
+    ]
+  }
+}

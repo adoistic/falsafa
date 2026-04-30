@@ -1,0 +1,127 @@
+{
+  "answer": "The Sanskrit work is the *Vīramitrodaya* (by Mitra Miśra), in **Chapter 1**.[^1]\n\nThe first verse names the Dūravāra lineage of Gopācala and introduces the ancestor Haṃsa:\n\n> In the illustrious Dūravāra lineage, a crest-jewel of the glorious Gopācala, there was a lord of Brahmins renowned as the learned Haṃsa, descended from the glorious Haṃsa. Lakṣmī and Sarasvatī, free from conflict, long served him, their enjoyer, who was enriched by virtues that were equally pleasing to them both. // 40 //[^2]\n\nThe second verse describes the son's journey to Vārāṇasī (the \"city of the enemy of the cities\") and studies under the preceptor Caṇḍīśvara:\n\n> Having gone in ancient times to the city of the enemy of the cities (Vārāṇasī), he acquired flawless knowledge, obtaining the glorious Caṇḍīśvara, a jewel among Agnihotrins, as his weighty preceptor. That same pure knowledge, shining brightly and becoming stable through his great effort, how many fruits does it not produce even today in his lineage, like a wish-fulfilling vine? // 43 //[^3]\n\n[^1]: *Vīramitrodaya*, [Chapter 1](/works/unknown-viramitrodaya-d4b632/01/translation/).\n[^2]: *Vīramitrodaya*, [paragraph](/works/unknown-viramitrodaya-d4b632/01/translation/#p-28dc92).\n[^3]: *Vīramitrodaya*, [paragraph](/works/unknown-viramitrodaya-d4b632/01/translation/#p-0321b3).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Dūravāra",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Gopācala",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Caṇḍīśvara",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Haṃsa Vārāṇasī",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-28dc92",
+          "p-0321b3"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"markdown\":\"# Vīramitrodaya\\nMitra Miśra · Medieval · sanskrit · prose · 1 chapters · 142,010 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"new moon day\\\" · \\\"conjoined"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vīramitrodaya · ch.1\\nprose · 5035¶ · 142010w · vocab 6395 (TTR 10%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"new moon day\\\" · \\\"conjoined precedi"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-28dc92"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-0321b3"
+    }
+  ],
+  "duration_ms": 17248,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 8478,
+    "completion_tokens": 2375,
+    "total_tokens": 10853,
+    "cached_tokens": 4645,
+    "api_calls": 3,
+    "cost_usd": 0.00218635,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2026,
+        "completion_tokens": 428,
+        "total_tokens": 2454,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005967
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2618,
+        "completion_tokens": 625,
+        "total_tokens": 3243,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0005538
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3834,
+        "completion_tokens": 1322,
+        "total_tokens": 5156,
+        "cached_tokens": 2613,
+        "cost_usd": 0.00103585
+      }
+    ]
+  }
+}

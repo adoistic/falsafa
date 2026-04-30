@@ -1,0 +1,144 @@
+{
+  "answer": "**Nāradasmṛti, Chapter 1.**\n\nThis text argues that even matters directly perceived require scrutiny due to the unreliability of appearances. Immediately preceding the key verse, it states: \"Untrue things appear true, and true things appear untrue; various states of affairs are seen. Therefore, examination is proper.\" (Nar. M1.62)[^1] The illustrative verse is:\n\n> The sky appears like a surface, a firefly like a fire. But there is no surface in the sky, nor is there fire in a firefly. (Nar. M1.63)[^2]\n\nThis is followed by: \"Therefore, even a matter seen with one's own eyes should be properly examined. By making matters known after examination, one does not deviate from Dharma.\" (Nar. M1.64)[^3]\n\n[^1]: Nāradasmṛti, Chapter 1, [paragraph](/works/unknown-naradasmrti-7650d2/01/translation/#p-b94fc5).\n[^2]: Nāradasmṛti, Chapter 1, [paragraph](/works/unknown-naradasmrti-7650d2/01/translation/#p-4363ef).\n[^3]: Nāradasmṛti, Chapter 1, [paragraph](/works/unknown-naradasmrti-7650d2/01/translation/#p-f1779b).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "firefly like a fire",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sky appears like a surface",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sky\" \"surface\" \"firefly\" \"fire\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-4363ef"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nāradasmṛti · ch.1\\nprose · 968¶ · 27765w · vocab 3130 (TTR 23%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adulter"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"slug\":\"unknown-naradasmrti-7650d2\",\"title\":\"Nāradasmṛti\",\"author\":\"Nārada\",\"author_slug\":\"narada\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"Sanskrit\",\"l"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-b94fc5"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-4363ef"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-f1779b"
+    }
+  ],
+  "duration_ms": 28358,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 59790,
+    "completion_tokens": 3078,
+    "total_tokens": 62868,
+    "cached_tokens": 9367,
+    "api_calls": 4,
+    "cost_usd": 0.01209195,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1958,
+        "completion_tokens": 446,
+        "total_tokens": 2404,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00033155
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2399,
+        "completion_tokens": 526,
+        "total_tokens": 2925,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00046065
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "read_wiki",
+          "get_metadata"
+        ],
+        "prompt_tokens": 3210,
+        "completion_tokens": 874,
+        "total_tokens": 4084,
+        "cached_tokens": 2394,
+        "cost_usd": 0.0007199
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 52223,
+        "completion_tokens": 1232,
+        "total_tokens": 53455,
+        "cached_tokens": 3205,
+        "cost_usd": 0.01057985
+      }
+    ]
+  }
+}

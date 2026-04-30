@@ -1,0 +1,165 @@
+{
+  "answer": "**Allama Iqbal's \"Parinde Ki Faryad\" (\"A Bird's Lament\" or \"The Bird's Complaint\")** is a poem from *Bang-E-Dara Part 1* (1924), chapter 34.[^1]\n\nThis poignant verse depicts a caged bird yearning for its lost freedom in the garden, lamenting the springtime splendors it can no longer enjoy, and pleading for release. Here is the full English translation:\n\n> [p-f1e47c] A Bird's Lament  \n>   \n> [p-c41448] Those garden splendors, the chorus of all,  \n> The freedom to come and to go at my call.  \n>   \n> [p-cb3992] My heart aches with pain when I chance to recall,  \n> The smiling of buds on the dewdrops that fall.  \n>   \n> [p-838adc] That beautiful image, that form full of grace,  \n> Whose presence brought life to my own dwelling place.  \n>   \n> [p-9a4316] Her voice never reaches me, held in this plight,  \n> Oh, if only release were within my own might!  \n>   \n> [p-941bb0] How wretched I am, for my home I now pine,  \n> My friends in our homeland, this prison is mine.  \n>   \n> [p-6fadf2] The spring has arrived, and the flowers all bloom,  \n> While I weep for my fate in this house of dark gloom.  \n>   \n> [p-f247dd] O God! To whom can I tell my tale of despair?  \n> I fear in this cage I will die from my care.  \n>   \n> [p-51fe7d] My heart is consuming its grief, it is true,  \n> And grief is consuming my heart through and through.  \n>   \n> [p-7d35b0] O listener, don't think this a song and be glad,  \n> It is the cry of all hearts that are wounded and sad.  \n>   \n> [p-983c20] O Captor, I beg you, now make me unbound,  \n> I'm voiceless; release me, a blessing you've found.[^1]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 34 (\"Parinde Ki Faryad\"), [translation](/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Parinde ki Faryad"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bird's complaint\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bird\" cage iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 1 · ch.34\\nverse · 11¶ · 193w · vocab 79 (TTR 93%, hapax 94%)\\n\\n## Distinctive trigrams\\n\\\"bird lament garden\\\" · \\\"lament gar"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.34 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-f1e47c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-c41448"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-cb3992"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-838adc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-9a4316"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-941bb0"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-6fadf2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-f247dd"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-51fe7d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-7d35b0"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-983c20"
+    }
+  ],
+  "duration_ms": 23886,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 11534,
+    "completion_tokens": 2568,
+    "total_tokens": 14102,
+    "cached_tokens": 4931,
+    "api_calls": 3,
+    "cost_usd": 0.00285115,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 429,
+        "total_tokens": 2335,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00031355
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2905,
+        "completion_tokens": 452,
+        "total_tokens": 3357,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007845
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "read_chapter"
+        ],
+        "prompt_tokens": 6723,
+        "completion_tokens": 1687,
+        "total_tokens": 8410,
+        "cached_tokens": 2900,
+        "cost_usd": 0.0017531
+      }
+    ]
+  }
+}

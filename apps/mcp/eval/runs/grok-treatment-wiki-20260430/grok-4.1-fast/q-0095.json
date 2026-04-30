@@ -1,0 +1,128 @@
+{
+  "answer": "**Ehd-e-Tifli** (\"The Age of Childhood\" or \"The Covenant of Infancy\") is poem #19 from Allama Iqbal's *Bang-e-Dara Part 1* (1924), a collection of Urdu poetry evoking nostalgic childhood memories through simple, wondrous perceptions of the world.[^1]\n\nHere is the full English translation:\n\n> The Age of Childhood  \n> \n> The earth and sky, a newfound realm for me,  \n> My mother's lap, a universe for me,  \n> Each stir of life, a sign of glee for me,  \n> My own tongue, just a wordless sound for me.  \n> \n> Though childhood's pain at times would make me weep,  \n> The door-chain's rattling brought a joy so deep.  \n> \n> Ah, how I'd stare for hours at the moon,  \n> And watch it travel on its silent shoon,  \n> \n> And ask about its hills and deserts bare,  \n> Then wonder at a fiction born of care.  \n> \n> My eye to see, my lips to speak were wrought;  \n> It was no heart I had, but pure, inquiring thought.[^2]\n\n[^1]: *Bang-E-Dara Part 1*, ch. 19, [overview](/works/allama-iqbal-bang-e-dara-part-1-55b25c/19-ehd-e-tifli/translation/).\n[^2]: *Bang-E-Dara Part 1*, ch. 19, [full translation](/works/allama-iqbal-bang-e-dara-part-1-55b25c/19-ehd-e-tifli/translation/#p-4e88ba). Translator: Thothica.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ehd-e-Tifli Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Ehd-e-Tifli\"",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 19
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 19-ehd-e-tifli.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 19,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 19,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 19
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 19,
+      "paragraph_id": "p-4e88ba"
+    }
+  ],
+  "duration_ms": 16525,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 9042,
+    "completion_tokens": 2079,
+    "total_tokens": 11121,
+    "cached_tokens": 4667,
+    "api_calls": 3,
+    "cost_usd": 0.0021478499999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 428,
+        "total_tokens": 2332,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005723
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2639,
+        "completion_tokens": 464,
+        "total_tokens": 3103,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00047735
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 4499,
+        "completion_tokens": 1187,
+        "total_tokens": 5686,
+        "cached_tokens": 2634,
+        "cost_usd": 0.0010982
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "answer": "**The exact phrase \"rang-e-mai-khana\" (or close variants like \"rang e mai khana\", \"rang-e mekhana\", \"color/colour of the wine-house/tavern\") does not appear in the Falsafa corpus, including Mirza Ghalib's *Diwan-E-Ghalib*.**\n\nThe corpus contains Ghalib's *Diwan* (239 chapters/ghazals in transliteration and translation). Searches across English bodies (transliteration + translation) for the phrase and semantic equivalents returned zero results.[^1]\n\n\"mai-khana\" (wine-house/tavern) appears three times in *Diwan-E-Ghalib* (all transliteration), but never with \"rang-e-\" (color of):  \n- Ch. 51: \"bishkan-e-mai-khana hum\" (we are the breakers of the wine-house).[^2]  \n- Ch. 151: \"Gada-e-koocha-e-mai-khana\" (beggar of the tavern alley).[^3]  \n- Ch. 169: \"saaghar-e-mai-khana-e-nairang\" (goblet of the house of illusion's tavern).[^4]  \n\n\"rang-e-\" appears often in Ghalib (e.g., ch. 57: \"ba-rang-e-digar\" – in another color/style), but never combined with \"mai-khana\".[^5]\n\nIf this refers to a specific sher outside this edition/translation, or in original Urdu script (searches cover transliteration), it's not here. The corpus has 37 works; not every line or variant of Ghalib is included.\n\n[^1]: Corpus searches: \"rang-e-mai-khana\", \"\\\"rang e mai khana\\\"\", \"\\\"color of the tavern\\\"\", \"\\\"colour of the wine-house\\\"\", \"mai-khana\", \"rang-e\".  \n[^2]: *Diwan-E-Ghalib*, ch. 51 [*Gham nahin hota...*](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/51-gham-nahin-hota-hai-aazaadon-ko-besh-az-yak-nafas/transliteration/#p-e76556).  \n[^3]: *Diwan-E-Ghalib*, ch. 151 [*Nahin ke mujh ko...*](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/151-nahin-ke-mujh-ko-qayamat-ka-aiteqad-nahin/transliteration/#p-5cb2d7).  \n[^4]: *Diwan-E-Ghalib*, ch. 169 [*Rashk kehta hai...*](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/169-rashk-kehta-hai-ke-us-ka-ghair-se-ikhlas-haif/transliteration/#p-25713e).  \n[^5]: *Diwan-E-Ghalib*, work wiki card (lists key passages/trigrams).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rang-e-mai-khana",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rang e mai khana\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"color of the tavern\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"colour of the wine-house\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mai-khana",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maykhana",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rang-e",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rang e\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 51,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.51 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 151,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.151 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 169,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.169 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 51
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.51\\nverse · 13¶ · 212w · vocab 117 (TTR 96%, hapax 97%)\\n\\n## Distinctive trigrams\\n\\\"free know grief\\\" · \\\"know grief just\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 151
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 151-nahin-ke-mujh-ko-qayamat-ka-aiteqad-nahin.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 169
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.169\\nverse · 11¶ · 232w · vocab 102 (TTR 85%, hapax 93%)\\n\\n## Distinctive trigrams\\n\\\"jealousy insists bond\\\" · \\\"insists bond"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 169,
+      "paragraph_id": "p-e76556"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 169,
+      "paragraph_id": "p-5cb2d7"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 169,
+      "paragraph_id": "p-25713e"
+    }
+  ],
+  "duration_ms": 34051,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 66447,
+    "completion_tokens": 3689,
+    "total_tokens": 70136,
+    "cached_tokens": 36197,
+    "api_calls": 4,
+    "cost_usd": 0.00970435,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1911,
+        "completion_tokens": 480,
+        "total_tokens": 2391,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00034005
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3924,
+        "completion_tokens": 1079,
+        "total_tokens": 5003,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00104215
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 28521,
+        "completion_tokens": 931,
+        "total_tokens": 29452,
+        "cached_tokens": 3919,
+        "cost_usd": 0.00558185
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 32091,
+        "completion_tokens": 1199,
+        "total_tokens": 33290,
+        "cached_tokens": 28516,
+        "cost_usd": 0.0027403
+      }
+    ]
+  }
+}

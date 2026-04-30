@@ -1,0 +1,172 @@
+{
+  "answer": "**The work is *Kunjarakarna Dharmakathana* (by Mpu Dusun), Chapter 1.**[^1]\n\nThis Old Javanese (Kawi) Buddhist narrative recounts how the *gandharva* king Pūrṇavijaya, due to past evil deeds, falls into the Avīci hell (abode of Yama). By the Buddha's grace after hearing the *dharma*, his suffering is limited to nine nights; on the tenth, meditation with a pure mind reverses the hellish torments.[^2]\n\nThe cauldron (*Gomukha*) transformation is described in Canto 27:\n\n> Now, he who was in hell, it is told, on his ninth night,  \n> There he became mindful, and the sharpness of the cauldron felt as nothing.  \n> When the tenth night arrived, he held to a meditation of pure mind.  \n> The cauldron was shattered, its fire died, transformed into a jeweled lotus pond.[^3]\n\nThe nearby sword-tree (*asivarṇa*) transformation follows immediately in the same canto:\n\n> And the sword-tree became a lovely Pārijāta, all glorious.  \n> Its fruits were flawless gems, Kaustubha jewels, its flowers golden necklaces.  \n> Its soft leaves were a fragrant footstool, its blood-sap exceedingly sweet-smelling.  \n> It ceased to be foul, sharp-smelling, and pungent; all its qualities were reversed, bringing bliss.[^4]\n\n[^1]: *Kunjarakarna Dharmakathana*, [Chapter 1](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/).\n[^2]: *Kunjarakarna Dharmakathana*, [p-c6e7d8](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-c6e7d8).\n[^3]: *Kunjarakarna Dharmakathana*, [p-1353c8](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-1353c8).\n[^4]: *Kunjarakarna Dharmakathana*, [p-5cee32](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-5cee32).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Pārijāta",
+        "limit": 20
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sword tree\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"jeweled lotus pond\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cauldron shatters",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kaustubha",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"markdown\":\"# Kunjarakarna Dharmakathana\\nMpu Dusun · Medieval · kawi · prose · 1 chapters · 17,973 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homage feet lord\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kunjarakarna Dharmakathana · ch.1\\nprose · 349¶ · 17973w · vocab 2570 (TTR 32%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"homage feet lord\\\" · \\\"pay"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-1353c8"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-5cee32"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-c6e7d8"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-1353c8"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-5cee32"
+    }
+  ],
+  "duration_ms": 25951,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 72474,
+    "completion_tokens": 2466,
+    "total_tokens": 74940,
+    "cached_tokens": 38957,
+    "api_calls": 4,
+    "cost_usd": 0.00988425,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2021,
+        "completion_tokens": 477,
+        "total_tokens": 2498,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006202
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3861,
+        "completion_tokens": 494,
+        "total_tokens": 4355,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00073705
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 33075,
+        "completion_tokens": 350,
+        "total_tokens": 33425,
+        "cached_tokens": 3856,
+        "cost_usd": 0.0062116
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 33517,
+        "completion_tokens": 1145,
+        "total_tokens": 34662,
+        "cached_tokens": 33070,
+        "cost_usd": 0.0023154
+      }
+    ]
+  }
+}

@@ -1,0 +1,118 @@
+{
+  "answer": "**Charles Comte's *Traité de Législation: VOL I*, Chapter 19 (\"Des effets particuliers à chacun des principaux éléments de force dont une loi se compose ; et de l’\").**[^1][^2]\n\nThis chapter argues that laws (as exercises of public authority) should be decomposed into their elemental forces to assess their net effects, since governments often amplify harms more than benefits. It observes that \"the direct and immediate action of public authority produces\" far \"little good... comparatively to that which results from the power of customs,\" and that governmental interventions risk generating more evils than goods.[^2] For a civilized people, this leads to the conclusion that \"it [arrives] at this consequence, that **a people already civilized needs, to be happy, only not to be pillaged, and to be abandoned to itself**.\"[^1]\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/19-des-effets-particuliers-a-chacun-des-principaux-el/translation/#p-45347c).\n\n[^2]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/19-des-effets-particuliers-a-chacun-des-principaux-el/translation/#p-47d456).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "not to be pillaged, and to be abandoned to itself",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"not to be pillaged\" \"abandoned to itself\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"governments\" \"harm\" \"good\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 19
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.19\\nprose · 54¶ · 7615w · vocab 1256 (TTR 37%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"action public authority"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 19,
+        "paragraph_ids": [
+          "p-45347c"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"governments\" harm good civilized pillaged",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 19,
+      "paragraph_id": "p-45347c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 19,
+      "paragraph_id": "p-47d456"
+    }
+  ],
+  "duration_ms": 25292,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 10688,
+    "completion_tokens": 2463,
+    "total_tokens": 13151,
+    "cached_tokens": 7533,
+    "api_calls": 3,
+    "cost_usd": 0.00223915,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1938,
+        "completion_tokens": 356,
+        "total_tokens": 2294,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00028345
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3776,
+        "completion_tokens": 481,
+        "total_tokens": 4257,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00071355
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4974,
+        "completion_tokens": 1626,
+        "total_tokens": 6600,
+        "cached_tokens": 3771,
+        "cost_usd": 0.00124215
+      }
+    ]
+  }
+}

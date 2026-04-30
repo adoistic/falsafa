@@ -1,0 +1,167 @@
+{
+  "answer": "**The riverside meditation is found in *Bang-E-Dara Part 1* (Allama Iqbal), chapter 28: \"Kinaar-e-Ravi\" (\"On the Banks of the Ravi\").**[^1]\n\nThis poem depicts the speaker standing by the Ravi River at evening, observing the distant minarets of the Chughtai king's palace (described as \"the minarets of the Chughtai king's last sleep\" and \"a book from a lost history\"), watching a swift boat and its boatman battling cresting waves until it vanishes from sight, and concluding with a metaphor likening human life to that boat.[^1]\n\n**Chughtai-king couplet:**  \n\"Afar they stand, in lonely majesty so deep,  \nThe minarets of the Chughtai king's last sleep.\"[^2]\n\n**Closing couplet:**  \n\"It never knows defeat, nor does its journey finish,  \nIt vanishes from sight, but it does not perish.\"[^3]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, [\"Kinaar-e-Ravi\"](/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, [\"Kinaar-e-Ravi\"](/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-29acb7).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, [\"Kinaar-e-Ravi\"](/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-1c94bb).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Chughtai",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Chughtai king\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"minarets\" Chughtai",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"book from a lost history\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.28 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 28-kinaar-e-ravi.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "paragraph_ids": [
+          "p-29acb7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "paragraph_ids": [
+          "p-1c94bb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "paragraph_ids": [
+          "p-098157",
+          "p-1c94bb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-29acb7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 28,
+      "paragraph_id": "p-1c94bb"
+    }
+  ],
+  "duration_ms": 26892,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 11888,
+    "completion_tokens": 2798,
+    "total_tokens": 14686,
+    "cached_tokens": 7934,
+    "api_calls": 4,
+    "cost_usd": 0.0025865000000000003,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1995,
+        "completion_tokens": 340,
+        "total_tokens": 2335,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005465
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2524,
+        "completion_tokens": 353,
+        "total_tokens": 2877,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00039915
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3389,
+        "completion_tokens": 946,
+        "total_tokens": 4335,
+        "cached_tokens": 2519,
+        "cost_usd": 0.00077295
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 3980,
+        "completion_tokens": 1159,
+        "total_tokens": 5139,
+        "cached_tokens": 3384,
+        "cost_usd": 0.0008679
+      }
+    ]
+  }
+}

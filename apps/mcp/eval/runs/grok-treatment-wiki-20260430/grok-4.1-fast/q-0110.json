@@ -1,0 +1,198 @@
+{
+  "answer": "**Yājñavalkya Smṛti Chapter 3 (\"On Expiation\" or *prāyaścittādhyāya*) does not specify prayascittas (penances) for unintentionally killing a Brahmin (or any homicide).**\n\nThis chapter (219 paragraphs, ~6,156 words) focuses primarily on:\n- **Ritual impurity (*āśauca*)** from birth, death, and contact (e.g., periods of impurity for different varṇas, exceptions for those \"killed by the king, a cow, or a Brāhmaṇa,\" and general purifiers like time, fire, water, austerity, and knowledge).[^1]\n- **Duties in distress (*āpaddharma*)**, forbidden sales, and livelihoods for Brāhmaṇas.\n- **Hermit (*vānaprastha*) and ascetic (*yatidharma*) rules**, including austerities like Cāndrāyaṇa or Kṛcchra penances (mentioned generally, not tied to specific sins).\n- **Philosophical and yogic topics**: anatomy, embryology, cosmology, the Self (*ātman*), guṇas, saṃsāra, yoga practices, and paths to liberation.\n\nNo sections address specific crimes like manslaughter, brahmahatyā (Brahmin-killing), or corresponding penances (e.g., no Chandrayana, Prājāpatya, or similar for unintentional killing). References to Brāhmaṇas are limited to impurity rules or protections (e.g., no impurity for those killed \"for the sake of a cow or a Brāhmaṇa\").[^2]\n\nThe Falsafa corpus includes this work (slug: `unknown-yajnavalkya-smrti-cb88d6`) with only 3 chapters total; prayascittas for homicide may appear in other Smṛtis like Manu Smṛti (ch. 11) or Kātyāyana Smṛti, but not here.[^3]\n\n[^1]: [Chapter 3](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/).\n[^2]: [p-e090c6](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-e090c6), [p-0ef172](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-0ef172).\n[^3]: Work metadata and chapter list from `list_chapters(unknown-yajnavalkya-smrti-cb88d6)`.",
+  "tool_calls": [
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "yajnavalkya-smriti"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: yajnavalkya-smriti"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "yajnavalkya-smriti"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: yajnavalkya-smriti"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Yajnavalkya\" \"prayascitta\" OR penance OR expiation \"Brahmin\" OR \"Brahmana\" kill OR slaying OR homicide",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smrti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Yajnavalkya Smriti\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kill\" OR \"slay\" OR \"homicide\" OR \"Brahmin\" OR \"Brahmana\" prayascitta OR penance",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-e090c6"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-0ef172"
+    }
+  ],
+  "duration_ms": 34621,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 38186,
+    "completion_tokens": 4101,
+    "total_tokens": 42287,
+    "cached_tokens": 18492,
+    "api_calls": 5,
+    "cost_usd": 0.006913900000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1915,
+        "completion_tokens": 993,
+        "total_tokens": 2908,
+        "cached_tokens": 150,
+        "cost_usd": 0.000857
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2683,
+        "completion_tokens": 1099,
+        "total_tokens": 3782,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0008038
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 6327,
+        "completion_tokens": 206,
+        "total_tokens": 6533,
+        "cached_tokens": 2678,
+        "cost_usd": 0.0009667
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7465,
+        "completion_tokens": 427,
+        "total_tokens": 7892,
+        "cached_tokens": 6322,
+        "cost_usd": 0.0007582
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19796,
+        "completion_tokens": 1376,
+        "total_tokens": 21172,
+        "cached_tokens": 7460,
+        "cost_usd": 0.0035282
+      }
+    ]
+  }
+}

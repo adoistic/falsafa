@@ -1,0 +1,192 @@
+{
+  "answer": "**Charles Dunoyer's *Nouveau traité d'économie: VOL II* (Chapter 16: \"VI. De la liberté de l'industrie manufacturière\" / \"On the liberty of the manufacturing industry\") argues against the view—associated with economists like Jean-Baptiste Say and detailed in works by Jean-Antoine Chaptal—that industrial progress derives primarily from applying scientific theory.[^1]\n\nIn §4, Dunoyer stacks three biographical examples in rapid succession to show that major inventions arose empirically, from craftsmen without scientific training:\n\n> Arkwright, the author of the spinning machine, one of the most ingenious and powerful to have been invented in fifty years, the barber Arkwright had no scientific instruction, and judged only by groping, by trying, by experimenting, on the effect that each of the pieces of his admirable machine would produce.[^2]\n\n> Newcomen and Cawley, two mechanics who contributed appreciably to the progress of the steam engine, and the first who sought and succeeded in drawing useful effects from it, were, one a hardware dealer, the other a blacksmith, and neither could pass for a scholar.[^3]\n\n> Watt himself, the illustrious Watt, when he began to make that series of perfections to the steam engine which have made it so powerful a motor, must not have possessed much scientific knowledge. Born to poor parents, he had been able to study only until the age of sixteen in one of those elementary and free schools that exist in Scotland under the name of *Grammar school,* and it is not probable that he had acquired a very high instruction there. He had then been placed in apprenticeship with a maker of scales, then with a maker of mathematical instruments; and when, in 1764, he was charged by the University of Glasgow, which had named him curator of its collection of models, with repairing a Newcomen machine, it was simply in the capacity of a craftsman.[^4]\n\nThese cases illustrate Dunoyer's broader claim that manufacturing advanced \"by groping, by empiricism,\" prior to scientific intervention, and that theory has only recently illuminated (not originated) such arts.[^5]\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [Chapter 16](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/16-vi-de-la-liberte-de-lindustrie-manufacturiere/translation/).\n\n[^2]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-b376b2](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/16-vi-de-la-liberte-de-lindustrie-manufacturiere/translation/#p-b376b2).\n\n[^3]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-56a704](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/16-vi-de-la-liberte-de-lindustrie-manufacturiere/translation/#p-56a704).\n\n[^4]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-e35bab](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/16-vi-de-la-liberte-de-lindustrie-manufacturiere/translation/#p-e35bab).\n\n[^5]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [Chapter 16](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/16-vi-de-la-liberte-de-lindustrie-manufacturiere/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "barber Arkwright",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Newcomen and Cawley\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"University of Glasgow\" Watt Newcomen",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"groping, by trying, by experimenting\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Newcomen Cawley",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Newcomen blacksmith",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Watt Glasgow Newcomen",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Arkwright \"spinning machine\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 16
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL II · ch.16\\nprose · 128¶ · 21722w · vocab 2996 (TTR 30%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"use his forces\\\" ·"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 16
+      },
+      "result_summary": "Read ch.16 of charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-b376b2",
+          "p-56a704",
+          "p-e35bab"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 16,
+      "paragraph_id": "p-b376b2"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 16,
+      "paragraph_id": "p-56a704"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 16,
+      "paragraph_id": "p-e35bab"
+    }
+  ],
+  "duration_ms": 38299,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 77793,
+    "completion_tokens": 3288,
+    "total_tokens": 81081,
+    "cached_tokens": 45782,
+    "api_calls": 5,
+    "cost_usd": 0.0103353,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2031,
+        "completion_tokens": 463,
+        "total_tokens": 2494,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00035555
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2446,
+        "completion_tokens": 501,
+        "total_tokens": 2947,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00045755
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6341,
+        "completion_tokens": 337,
+        "total_tokens": 6678,
+        "cached_tokens": 2441,
+        "cost_usd": 0.00107055
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 33248,
+        "completion_tokens": 525,
+        "total_tokens": 33773,
+        "cached_tokens": 6336,
+        "cost_usd": 0.0059617
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 33727,
+        "completion_tokens": 1462,
+        "total_tokens": 35189,
+        "cached_tokens": 33243,
+        "cost_usd": 0.00248995
+      }
+    ]
+  }
+}

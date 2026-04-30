@@ -1,0 +1,157 @@
+{
+  "answer": "**Ghalib's ghazal \"Hai bas ke har ek unke ishaare mein nishaan aur\" (Diwan-E-Ghalib, ghazal 60) opens with the observation that every gesture (*ishaare*) of the beloved contains a hidden sign or strain (*nishaan*), while their very expressions of love carry an underlying suspicion or deeper meaning (\"something else again\").**[^1]\n\nThis sets the theme for the ghazal's refrain (*radif*) of *aur* (\"and\" or \"something else again\"), emphasizing layers of ambiguity, concealed pain, and unspoken messages in the beloved's actions throughout the poem.[^2]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, \"Hai baske har ek unke ishaare mein nishaan aur\" [p-f941cf](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/60-hai-baske-har-ek-unke-ishaare-mein-nishaan-aur/translation/#p-f941cf).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, \"Hai baske har ek unke ishaare mein nishaan aur\" (full chapter) [/works/mirza-ghalib-diwan-e-ghalib-74ed4c/60-hai-baske-har-ek-unke-ishaare-mein-nishaan-aur/translation/].",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Hai bas ke har ek unke ishaare mein nishaan aur",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"every gesture\" beloved ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 60,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.60 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 60
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 60-hai-baske-har-ek-unke-ishaare-mein-nishaan-aur.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 60,
+        "paragraph_ids": [
+          "p-f941cf"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 60,
+        "paragraph_range": {
+          "start": 0,
+          "end": 0
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 60,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.60 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 60,
+      "paragraph_id": "p-f941cf"
+    }
+  ],
+  "duration_ms": 37580,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 22150,
+    "completion_tokens": 3463,
+    "total_tokens": 25613,
+    "cached_tokens": 16092,
+    "api_calls": 4,
+    "cost_usd": 0.0037476999999999996,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1917,
+        "completion_tokens": 548,
+        "total_tokens": 2465,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00037525
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5712,
+        "completion_tokens": 479,
+        "total_tokens": 6191,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00109945
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6626,
+        "completion_tokens": 972,
+        "total_tokens": 7598,
+        "cached_tokens": 5707,
+        "cost_usd": 0.00095515
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 7895,
+        "completion_tokens": 1464,
+        "total_tokens": 9359,
+        "cached_tokens": 6621,
+        "cost_usd": 0.00131785
+      }
+    ]
+  }
+}

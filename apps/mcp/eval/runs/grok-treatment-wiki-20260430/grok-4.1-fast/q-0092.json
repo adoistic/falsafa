@@ -1,0 +1,156 @@
+{
+  "answer": "**Allama Iqbal's \"Bacha aur Shama\" (The Child and the Candle)**  \n—from *Bang-E-Dara Part 1*, Chapter 15[^1]\n\n> What is this wonder, child with a moth's desire,[^2]  \n> That makes you gaze upon the candle's fire?  \n>   \n> Why do you stir, though seated here on my knee?  \n> Is your desire to embrace the light you see?  \n>   \n> Your tiny heart is filled with wonder deep,  \n> A recognition from a slumbering sleep.  \n>   \n> The candle is a flame, but you are pure light;  \n> Ah! It's unveiled, while you are veiled from sight.[^3]  \n>   \n> Why Nature's hand has made the flame unveiled,  \n> While you in this dark lantern of clay are veiled.  \n>   \n> Your light is hidden by the veil of knowing,  \n> On seeing eyes, a dust that stops its glowing.  \n>   \n> This thing we call our life is but a haze,  \n> A dream, a trance, a stupor for our days.  \n>   \n> For Nature's court is Beauty's boundless sea;  \n> Each drop a storm, if only eyes could see.  \n>   \n> In mountains' awesome silence, Beauty lies,  \n> In spreading sun, and in the night's dark guise.  \n>   \n> In morning's sky, a mirror clear and bright,  \n> In evening's dark, and twilight's rosy light.  \n>   \n> In fading ruins of some ancient age,  \n> And in a child's first words upon life's stage.  \n>   \n> In all the blended songs the garden sings,  \n> And in the nests built by small, feathered things.  \n>   \n> In mountain springs, in rivers flowing free,  \n> In towns, in wastes, for all the world to see.  \n>   \n> But still the soul for some lost treasure yearns,  \n> Else why like a caravan's bell in this waste mourns?  \n>   \n> Amidst this pageant of all Beauty's grace,  \n> It lives like a fish outside its native place.[^4]\n\nThis is the English translation (translator: Thothica). The original Urdu poem is also available in the corpus, along with a Latin-script transliteration.[^5]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, Chapter 15: \"Bacha aur Shama\" (/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/).\n[^2]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/#p-4b705b\n[^3]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/#p-a036dd\n[^4]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/#p-5d9b41\n[^5]: Original (/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/original/) and transliteration (/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/transliteration/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bacha aur Shama",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"child and the candle\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bacha aur chama\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 15-bacha-aur-shama.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-1-55b25c (original)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 15,
+      "paragraph_id": "p-4b705b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 15,
+      "paragraph_id": "p-a036dd"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 15,
+      "paragraph_id": "p-5d9b41"
+    }
+  ],
+  "duration_ms": 29726,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 10686,
+    "completion_tokens": 3115,
+    "total_tokens": 13801,
+    "cached_tokens": 4888,
+    "api_calls": 3,
+    "cost_usd": 0.0029614999999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 617,
+        "total_tokens": 2521,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00040685
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2860,
+        "completion_tokens": 678,
+        "total_tokens": 3538,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008885
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 5922,
+        "completion_tokens": 1820,
+        "total_tokens": 7742,
+        "cached_tokens": 2855,
+        "cost_usd": 0.00166615
+      }
+    ]
+  }
+}

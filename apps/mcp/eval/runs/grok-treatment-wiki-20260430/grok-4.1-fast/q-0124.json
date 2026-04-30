@@ -1,0 +1,148 @@
+{
+  "answer": "**In Cynewulf's *Juliana* (chapter 1), the demon—disguised initially as an angel but seized and bound by Juliana after divine instruction—confesses his role in tempting authorities to persecute holy figures. This occurs during his extended interrogation in her prison cell, where he boasts of his past evils before admitting fear of his \"father,\" the king of hell.[^1]**\n\n[^1]: Cynewulf, *Juliana*, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-da3fd4).\n\nThe demon specifically names (or implicates) these holy figures in his temptations:\n\n> “...And I whispered to **Herod**’s heart  \n> that he command **John** to be beheaded,  \n> when that holy man rebuked his love for a woman,  \n> an unlawful marriage. I also taught **Simon**  \n> with cunning thoughts to contend against  \n> the chosen thanes of Christ... I drove **Nero** with snares,  \n> so that he ordered Christ’s thanes killed,  \n> **Peter** and **Paul**. **Pilate** before them  \n> had hung on a cross the Ruler of skies...  \n> Likewise I taught **Aegeas** that he...  \n> should have the holy **Andrew** hung  \n> on a high beam...”[^1]\n\nHe frames these as part of his broader career undermining Christ (e.g., inciting the crucifixion) and saints/martyrs. This interrogation spans several paragraphs (e.g., starting around Juliana seizing him at [p-5f858b], his initial confession, her follow-up at [p-bd327c]), but the naming of figures is concentrated here.[^2][^3]\n\n[^2]: Cynewulf, *Juliana*, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-5f858b).\n[^3]: Cynewulf, *Juliana*, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-bd327c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Juliana demon tempted holy",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"names\" OR \"tempted\" OR \"saints\" OR \"holy\" demon Juliana",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tempted\" OR \"tempt\" OR \"devil\" OR \"demon\" OR \"fiend\" Juliana",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"saint\" OR \"holy\" OR \"martyr\" demon OR devil OR fiend Juliana",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-da3fd4"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-5f858b"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-bd327c"
+    }
+  ],
+  "duration_ms": 26354,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 34242,
+    "completion_tokens": 2575,
+    "total_tokens": 36817,
+    "cached_tokens": 16375,
+    "api_calls": 4,
+    "cost_usd": 0.00567965,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 484,
+        "total_tokens": 2386,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005999
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5129,
+        "completion_tokens": 362,
+        "total_tokens": 5491,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00092435
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9223,
+        "completion_tokens": 315,
+        "total_tokens": 9538,
+        "cached_tokens": 5124,
+        "cost_usd": 0.0012335
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 17988,
+        "completion_tokens": 1414,
+        "total_tokens": 19402,
+        "cached_tokens": 9218,
+        "cost_usd": 0.0029219
+      }
+    ]
+  }
+}

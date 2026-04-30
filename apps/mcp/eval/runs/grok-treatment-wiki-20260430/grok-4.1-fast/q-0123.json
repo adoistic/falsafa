@@ -1,0 +1,243 @@
+{
+  "answer": "**In Cynewulf's *Andreas* (chapter 1), Andrew realizes that Christ—disguised as the helmsman—had been steering the ship after they reach Mermedonia and Christ reveals himself in the form of a youth.[^1]**\n\n**At that moment, Andrew falls to the ground and addresses Christ directly, confessing his failure to recognize Him during the voyage despite praising the helmsman's extraordinary skill at the stern:**  \n“How did I do this, Wielder of men, sinful against myself, Savior of souls, that I, you so good, could not perceive on the path of the waves, where I spoke more of my words before my Maker than I should have?”[^2]\n\n**Earlier on the ship, not yet realizing the helmsman's identity, Andrew had marveled at Christ's steering prowess (noting the vessel's unnatural steadiness, speed, and immunity to storms), asking:**  \n“...how you hold the wave-floater steady, the sea-stallion, and steer it on the sound... yet I have never seen any man... steering at the stern.”[^3]\n\n**Christ responds to Andrew's post-realization confession by reassuring him that he did not sin greatly and reminding him of past commands, before directing him to rescue Matthew.[^1]**\n\n[^1]: Cynewulf, *Andreas*, chapter 1, [paragraph p-ee08ea](/works/cynewulf-andreas-07b573/01/translation/#p-ee08ea).\n[^2]: Cynewulf, *Andreas*, chapter 1, [paragraph p-ee08ea](/works/cynewulf-andreas-07b573/01/translation/#p-ee08ea).\n[^3]: Cynewulf, *Andreas*, chapter 1, [paragraph p-ca9772](/works/cynewulf-andreas-07b573/01/translation/#p-ca9772).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas Andrew Christ ship steering helm",
+        "limit": 20
+      },
+      "result_summary": "Found 16 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Andrew\" helm OR steers OR steering OR ship OR rudder Christ",
+        "limit": 10
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andrew \"Lord\" ship OR helm OR steers",
+        "limit": 10
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"helm\" OR \"rudder\" OR \"steersman\" OR \"steers\" OR \"steering\" OR \"ship\" OR \"steered\" Andrew",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Christ\" OR \"Lord\" OR \"God\" (ship OR helm OR rudder OR steers OR steersman)",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Andrew\" (ship OR helm OR rudder OR steers OR steersman OR steer OR helmsman)",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Andrew\" helm OR steersman OR helmsman OR rudder OR steer",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "realized OR realised OR recognized OR recognised OR knew OR know \"Lord\" OR Christ ship OR boat OR vessel OR helm",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lord\" helm OR steers OR steering OR rudder OR ship Christ OR Andrew",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ee08ea"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ca9772"
+    }
+  ],
+  "duration_ms": 39916,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 71718,
+    "completion_tokens": 4258,
+    "total_tokens": 75976,
+    "cached_tokens": 37437,
+    "api_calls": 6,
+    "cost_usd": 0.01085705,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 508,
+        "total_tokens": 2414,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003529
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 4972,
+        "completion_tokens": 425,
+        "total_tokens": 5397,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00092475
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7042,
+        "completion_tokens": 526,
+        "total_tokens": 7568,
+        "cached_tokens": 4967,
+        "cost_usd": 0.00092635
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8543,
+        "completion_tokens": 778,
+        "total_tokens": 9321,
+        "cached_tokens": 7037,
+        "cost_usd": 0.00104205
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 13137,
+        "completion_tokens": 618,
+        "total_tokens": 13755,
+        "cached_tokens": 8538,
+        "cost_usd": 0.0016557
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 36118,
+        "completion_tokens": 1403,
+        "total_tokens": 37521,
+        "cached_tokens": 13132,
+        "cost_usd": 0.0059553
+      }
+    ]
+  }
+}

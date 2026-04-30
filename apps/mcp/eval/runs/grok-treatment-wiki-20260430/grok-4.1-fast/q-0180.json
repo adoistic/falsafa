@@ -1,0 +1,264 @@
+{
+  "answer": "**Vratisasana** (also *Vratiśāsana*), a Medieval Kawi prose text on the ordinances for ascetics (*viku*, recluse or ascetic), centers on the core vows that must be protected daily to maintain the sacred state and avoid *pantən* (major transgressions nullifying ascetic status). These are the **five vows of *Yama*** (restraint/disciplines, per Rudra/Śiva) and the **five vows of *Niyama*** (observances, per Śiva).[^1][^2]\n\n### Vows of *Yama* (Fivefold):\n1. **Ahiṁsā** (non-violence): Not killing living beings (especially humans), untrue speech, or ill thoughts. Exceptions: ritual offerings (order others to kill permissible animals like goats/ducks), self-defense, killing pests/thieves/attackers harming self/family/teacher's property (but not captives). Failure due to anger/desire = *pantən*.[^3]\n2. **Brahmacarya** (chastity): Untouched by women from childhood (types: *śukla*- lifelong celibate; *kṛṣṇa*- celibate till marriage once, no remarriage; *śabala*- multiple wives only for procreation, at proper times). Prohibits adultery (*paradāra*), unfit unions (*agamyāgamana*, e.g., kin), teacher's wife (*gurvaṅganāgamana* = *pantən*). Chain: desire → anger → greed → etc.[^4]\n3. **Satya** (truthfulness): True speech/actions/vows (no lies, oaths, curses, harsh words). Includes pure *Siddhānta* diet (no impure meats like human/cow/dog/lion/snake/crow; no leftovers/touched by dogs; certain drinks like palm wine forbidden, but rice wine/honey ok). Ignorance allows penance; deliberate = *pantən*.[^5]\n4. **Avyavahārika** (non-engagement in worldly affairs/litigation): Avoid *pavyavahāra* (transactions), except protecting ancestral land/family/teacher's property. No buying/selling/lending/interest; speak truth of own virtue.[^6]\n5. **Astainya** (non-stealing): No theft/robbery/ambush. Minor pilfering (e.g., limited fruits/veggies from abandoned gardens on journeys) ok if not greedy; daytime animal theft requires reconsecration. 8 thief types (doer/instigator/etc.).[^7]\n\n### Vows of *Niyama* (Fivefold):\n1. **Absence of anger** (*akrodha*): Greatest inner enemy; quells undertakings, beauty, fortune.[^8]\n2. **Guruśuśrūṣā** (devoted service to teacher): Constant proximity to learn ordinances, avoid wrong paths; teachers = aged/austere/knowledgeable.[^9]\n3. **Śauca** (purity): Ritual rinsing, sun-worship, Śiva rites, ash (*bhasma*), mantras; 6 baths (fire/water/mantra/cow-dust/mental/earth).[^10]\n4. **Āhāralāghava** (lightness of diet): Contentment, avoid attachment/fine tastes leading to forbidden acts.[^11]\n5. **Apramāda** (vigilance): No negligence; practice worship/study/teaching/recitation/vows/meditation/*yoga*. Avoid butchers'/gamblers'/outcastes' places. Fit teachers (age 50-60+) must observe disciples 4-7 years before consecration (*dīkṣā*); discipline sons/disciples (no indulgence); unforgivable *pantən*: *brahmahatyā* (killing Brahmin/king/teacher/etc.), *patitva* (incest), *gurutalpaka* (teacher's women/property), *steya* (theft), 6 aggressors. Fines for improper consecrations.[^12]\n\n**Broader context**: 10 virtues (*daśaśīla*) total; protect implements (ash/thread/rosary); abandon 14 enemies (anger/greed/etc.); avoid 11 attachments (women/drink/gambling/etc.). Unprotected vows → unsteady mind → fall. Twice-born reciting/practicing them attain supreme state.[^13] *Pantən* incurs hell/cauldron/Yama; requires exclusion/reconsecration.\n\n[^1]: *Vratisasana*, ch.1, [paras. p-dce5a4 to p-2d4875](/works/unknown-vratisasana-d0fe75/01/translation/#p-dce5a4).\n[^2]: *Vratisasana*, ch.1, [paras. p-c93922 to p-617310 (Yama); p-fc4101 to p-521f7e (Niyama)](/works/unknown-vratisasana-d0fe75/01/translation/#p-c93922).\n[^3]: *Vratisasana*, ch.1, [paras. p-c93922 to p-161898](/works/unknown-vratisasana-d0fe75/01/translation/#p-c93922).\n[^4]: *Vratisasana*, ch.1, [paras. p-11bbba to p-44c4d7](/works/unknown-vratisasana-d0fe75/01/translation/#p-11bbba).\n[^5]: *Vratisasana*, ch.1, [paras. p-ad8c64 to p-2f72a4](/works/unknown-vratisasana-d0fe75/01/translation/#p-ad8c64).\n[^6]: *Vratisasana*, ch.1, [paras. p-5a464f to p-7e46cd](/works/unknown-vratisasana-d0fe75/01/translation/#p-5a464f).\n[^7]: *Vratisasana*, ch.1, [paras. p-ad28f0 to p-d74d4c](/works/unknown-vratisasana-d0fe75/01/translation/#p-ad28f0).\n[^8]: *Vratisasana*, ch.1, [paras. p-66d996 to p-8496ce](/works/unknown-vratisasana-d0fe75/01/translation/#p-66d996).\n[^9]: *Vratisasana*, ch.1, [para. p-f7f1dc](/works/unknown-vratisasana-d0fe75/01/translation/#p-f7f1dc).\n[^10]: *Vratisasana*, ch.1, [paras. p-f6878c to p-4502aa](/works/unknown-vratisasana-d0fe75/01/translation/#p-f6878c).\n[^11]: *Vratisasana*, ch.1, [para. p-65bbb1](/works/unknown-vratisasana-d0fe75/01/translation/#p-65bbb1).\n[^12]: *Vratisasana*, ch.1, [paras. p-84feba to p-3a7f50](/works/unknown-vratisasana-d0fe75/01/translation/#p-84feba).\n[^13]: *Vratisasana*, ch.1, [whole chapter, esp. p-58edfb onward](/works/unknown-vratisasana-d0fe75/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vratisasana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"recluse's vows\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75"
+      },
+      "result_summary": "{\"markdown\":\"# Vratisasana\\nUnknown · Medieval · kawi · prose · 1 chapters · 17,658 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"one *siddhānta* school\\\" · \\\"sacred vows"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "recluse vows OR ascetic OR sannyasi OR hermit",
+        "limit": 20
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vratisasana recluse"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-vratisasana-d0fe75 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vratisasana · ch.1\\nprose · 261¶ · 17658w · vocab 2185 (TTR 26%, hapax 46%)\\n\\n## Distinctive trigrams\\n\\\"one *siddhānta* school\\\" · \\\"sacred vows "
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vratisasana · ch.1\\nprose · 261¶ · 17658w · vocab 2185 (TTR 26%, hapax 46%)\\n\\n## Distinctive trigrams\\n\\\"one *siddhānta* school\\\" · \\\"sacred vows "
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-dce5a4"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-2d4875"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-c93922"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-617310"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-fc4101"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-521f7e"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-161898"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-11bbba"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-44c4d7"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-ad8c64"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-2f72a4"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-5a464f"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-7e46cd"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-ad28f0"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-d74d4c"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-66d996"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-8496ce"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-f7f1dc"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-f6878c"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-4502aa"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-65bbb1"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-84feba"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-3a7f50"
+    },
+    {
+      "work_slug": "unknown-vratisasana-d0fe75",
+      "chapter_number": 1,
+      "paragraph_id": "p-58edfb"
+    }
+  ],
+  "duration_ms": 32851,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 58040,
+    "completion_tokens": 3576,
+    "total_tokens": 61616,
+    "cached_tokens": 16699,
+    "api_calls": 4,
+    "cost_usd": 0.01089115,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 481,
+        "total_tokens": 2383,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003386
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5333,
+        "completion_tokens": 540,
+        "total_tokens": 5873,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0010543
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7612,
+        "completion_tokens": 533,
+        "total_tokens": 8145,
+        "cached_tokens": 5328,
+        "cost_usd": 0.0009897
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 43193,
+        "completion_tokens": 2022,
+        "total_tokens": 45215,
+        "cached_tokens": 7607,
+        "cost_usd": 0.00850855
+      }
+    ]
+  }
+}

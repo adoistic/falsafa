@@ -1,0 +1,177 @@
+{
+  "answer": "**In Allama Iqbal's poem \"Shama aur Shair\" (from *Bang-E-Dara Part 3*, chapter 19), the candle does not speak or reply to the poet.**[^1]\n\nThe poem is a dramatic monologue in which the poet addresses the candle (shama), envying its attractive flame that draws moths (parwana)—a Sufi metaphor for spiritual longing—while lamenting his own isolation, despite his inner fire. He compares himself to a lamp in a desert tulip, burning unobserved, and asks how the candle acquired its \"world-illuminating fire\" that even teaches a \"humble worm\" (moth) the divine fire of Moses.[^2]\n\nHere is the full poem in English translation:\n\n> Last night, I said to the candle of my desolate dwelling:  \n> \"Your tresses are combed by the wing of a moth.[^3]  \n> \n> In this world, I am like the lamp of a desert tulip,  \n> Destined for no gathering, fated for no private chamber.[^4]  \n> \n> For ages, like you, I too have burned with every breath,  \n> Yet around my flame, no moth has ever stirred its wings.[^5]  \n> \n> A hundred splendors throb within my weary soul,  \n> But from this gathering, no impassioned soul takes flight.[^6]  \n> \n> From where did you gather this world-illuminating fire,  \n> To teach a humble worm the fire that Moses knew?\"[^7]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 19 \"Shama aur Shair\" ([/works/allama-iqbal-bang-e-dara-part-3-cc61e8/19-shama-aur-shair/translation/](works/allama-iqbal-bang-e-dara-part-3-cc61e8/19-shama-aur-shair/translation/)).\n\n[^2]: Ibid., [p-515a3b](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/19-shama-aur-shair/translation/#p-515a3b).\n\n[^3]: Ibid., [p-8f74a7](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/19-shama-aur-shair/translation/#p-8f74a7).\n\n[^4]: Ibid., [p-76b139](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/19-shama-aur-shair/translation/#p-76b139).\n\n[^5]: Ibid., [p-937cf3](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/19-shama-aur-shair/translation/#p-937cf3).\n\n[^6]: Ibid., [p-5b7d30](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/19-shama-aur-shair/translation/#p-5b7d30).\n\n[^7]: Ibid., [p-515a3b](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/19-shama-aur-shair/translation/#p-515a3b).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Shama aur Shair"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"candle\" poet"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 19
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.19\\nverse · 5¶ · 99w · vocab 47 (TTR 90%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"last night said\\\" · \\\"night said candle\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 19,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 19,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 19,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-3-cc61e8 (original)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 19,
+      "paragraph_id": "p-515a3b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 19,
+      "paragraph_id": "p-8f74a7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 19,
+      "paragraph_id": "p-76b139"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 19,
+      "paragraph_id": "p-937cf3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 19,
+      "paragraph_id": "p-5b7d30"
+    }
+  ],
+  "duration_ms": 36641,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 23632,
+    "completion_tokens": 3790,
+    "total_tokens": 27422,
+    "cached_tokens": 16411,
+    "api_calls": 5,
+    "cost_usd": 0.00415975,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 462,
+        "total_tokens": 2367,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005895
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2836,
+        "completion_tokens": 298,
+        "total_tokens": 3134,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00043405
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 5513,
+        "completion_tokens": 252,
+        "total_tokens": 5765,
+        "cached_tokens": 2831,
+        "cost_usd": 0.00080395
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 6046,
+        "completion_tokens": 914,
+        "total_tokens": 6960,
+        "cached_tokens": 5508,
+        "cost_usd": 0.00084
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 7332,
+        "completion_tokens": 1864,
+        "total_tokens": 9196,
+        "cached_tokens": 6041,
+        "cost_usd": 0.00149225
+      }
+    ]
+  }
+}

@@ -1,0 +1,191 @@
+{
+  "answer": "**In Manusmṛti chapter 2, the text establishes the Brahmin's superior authority—likened to a paternal role—over other varṇas (notably the Kṣatriya, represented by a king) primarily through knowledge of the Veda, which outweighs age, wealth, kinship, or action as the grounds for respect.**[^1][^2]\n\nThis hierarchy is explicit in verses 135–137, where even a young Brahmin commands respect over an elderly king, with knowledge ranked highest among the five grounds for deference across the upper varṇas.[^3] The chapter emphasizes Vedic study and initiation as defining the twice-born (dvija) status of Brahmins, Kṣatriyas, and Vaiśyas, but Brahmins' preeminence stems from their role as bearers of sacred knowledge, as reinforced throughout the student (brahmacārin) duties and etiquette rules.[^4]\n\n[^1]: Manusmṛti, ch.2, [p-369b0d](/works/unknown-manusmrti-347b76/02/translation/#p-369b0d). \"A Brahmana of ten years and a king of a hundred years should be known as father and son; but of the two, the Brahmana is the father. // Mn_2.135 //\"\n\n[^2]: Manusmṛti, ch.2, [p-4648f6](/works/unknown-manusmrti-347b76/02/translation/#p-4648f6). \"Wealth, kinship, age, action, and knowledge as the fifth—these are the grounds for respect; each succeeding one is more weighty. // Mn_2.136 //\"\n\n[^3]: Manusmṛti, ch.2, [p-3ebb05](/works/unknown-manusmrti-347b76/02/translation/#p-3ebb05). \"Whichever man of the three upper *varnas* possesses the most of these five qualities in abundance is worthy of respect... // Mn_2.137 //\"\n\n[^4]: Manusmṛti, ch.2, [p-5ac6c9](/works/unknown-manusmrti-347b76/02/translation/#p-5ac6c9). (Chapter close, tying perfection to Vedic studentship: \"A Brahmana who thus practices his studentship without breaking his vow goes to the highest abode... // Mn_2.249 //\"); cf. also [p-7223f8](/works/unknown-manusmrti-347b76/02/translation/#p-7223f8) (\"Not by years... he who is learned among us is the great one. // Mn_2.154 //\").",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chapter 2\" Brahmin varnas"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmana\" varna",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmin\" varna",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahmana\" \"other varnas\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "authority varnas Brahmana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-369b0d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-4648f6"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-3ebb05"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-5ac6c9"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-7223f8"
+    }
+  ],
+  "duration_ms": 35071,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 32720,
+    "completion_tokens": 3707,
+    "total_tokens": 36427,
+    "cached_tokens": 14121,
+    "api_calls": 5,
+    "cost_usd": 0.0062793499999999995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1914,
+        "completion_tokens": 491,
+        "total_tokens": 2405,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00034615
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2784,
+        "completion_tokens": 145,
+        "total_tokens": 2929,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006068
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3767,
+        "completion_tokens": 673,
+        "total_tokens": 4440,
+        "cached_tokens": 2779,
+        "cost_usd": 0.00067305
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 5554,
+        "completion_tokens": 676,
+        "total_tokens": 6230,
+        "cached_tokens": 3762,
+        "cost_usd": 0.0008845
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 18701,
+        "completion_tokens": 1722,
+        "total_tokens": 20423,
+        "cached_tokens": 5549,
+        "cost_usd": 0.00376885
+      }
+    ]
+  }
+}

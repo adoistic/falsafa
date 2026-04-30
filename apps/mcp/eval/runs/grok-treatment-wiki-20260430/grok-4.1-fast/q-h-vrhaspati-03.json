@@ -1,0 +1,146 @@
+{
+  "answer": "**The work is *Vrhaspatitattva* (unknown author), Chapter 1.**[^1]\n\nThis chapter stages the described parable in a teacher-pupil (*guru-śiṣya*) dialogue between Lord Īśvara (the teacher) and the sage Vṛhaspati (the pupil). Vṛhaspati asks why the Lord \"has given so many different versions in His teachings... There is one called *Śaiva*, one called *Pāśupata*, one called *Alepaka*.\"[^2] Īśvara later answers Vṛhaspati's follow-up question about \"confusion (*bhrānta*)\" with the elephant parable, likening partial, deluded graspers of scripture to blind men who \"did not know the true form of the elephant,\" then coining *andhatattva* (\"principle of the blind men\") for their resulting bewilderment (*vyāmoha*, \"*bhrānta*\").[^3]\n\nThe six blind-men comparisons, quoted verbatim:\n\n> One touched the head and said, ‘An elephant is like a **water jar**.’  \n> Another touched the ear and said, ‘An elephant is like a **winnowing fan**.’  \n> Another touched the trunk and said, ‘An elephant is like a **snake**.’  \n> Another touched the belly and said, ‘An elephant is like a **granary**.’  \n> Another touched the tail and said, ‘An elephant is like an **eel**.’  \n> Another touched a leg and said, ‘An elephant is like a **pillar**.’[^3]\n\n[^1]: *Vrhaspatitattva*, [Chapter 1](/works/unknown-vrhaspatitattva-b60b28/01/translation/).\n\n[^2]: *Vrhaspatitattva*, [Chapter 1](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-68812c).\n\n[^3]: *Vrhaspatitattva*, [Chapter 1](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-85eacf/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "andhatattva",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"blind men\" elephant",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Śaiva Pāśupata Alepaka",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"water jar\" elephant blind",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "{\"markdown\":\"# Vrhaspatitattva\\nBṛhaspati · Medieval · kawi · prose · 1 chapters · 14,791 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"venerable vṛhaspati replied\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vrhaspatitattva · ch.1\\nprose · 234¶ · 14791w · vocab 1895 (TTR 28%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"venerable vṛhaspati replied\\\" · \\\"lor"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-85eacf"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-68812c"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-85eacf"
+    }
+  ],
+  "duration_ms": 28556,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 36580,
+    "completion_tokens": 2039,
+    "total_tokens": 38619,
+    "cached_tokens": 4598,
+    "api_calls": 4,
+    "cost_usd": 0.0076458,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 2040,
+        "completion_tokens": 388,
+        "total_tokens": 2428,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0003191
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2417,
+        "completion_tokens": 277,
+        "total_tokens": 2694,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005994
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3205,
+        "completion_tokens": 386,
+        "total_tokens": 3591,
+        "cached_tokens": 2412,
+        "cost_usd": 0.0004722
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 28918,
+        "completion_tokens": 988,
+        "total_tokens": 29906,
+        "cached_tokens": 150,
+        "cost_usd": 0.0062551
+      }
+    ]
+  }
+}

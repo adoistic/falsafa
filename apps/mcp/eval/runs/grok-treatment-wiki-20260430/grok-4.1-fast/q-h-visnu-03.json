@@ -1,0 +1,174 @@
+{
+  "answer": "**Viṣṇu Smṛti, Chapter 100** closes in this way.[^1]\n\n> This excellent Dharmaśāstra was spoken by the god himself; /  \n> Those twice-born men who will uphold it, for them the highest state is in heaven. || Vi_100.1 ||\n>\n> This is purifying, auspicious, conducive to heaven, and life-giving, /  \n> And it brings knowledge, fame, and increases wealth and good fortune. || Vi_100.2 ||\n>\n> It should be studied, upheld, recited, and listened to; /  \n> And it should be recited at *śrāddhas* (श्राद्धs) by men who always desire prosperity. || Vi_100.3 ||\n>\n> The man who, desiring prosperity, always recites this, /  \n> This supreme secret has been told to you, **O Dhara**. || Vi_100.4 ||\n>\n> By me, being pleased, for the welfare of the world, this eternal Dharmaśāstra, /  \n> Which is supreme good fortune, famous, **a destroyer of bad dreams**, endowed with much merit, and **an abode of auspiciousness**. || Vi_100.5 ||\n\n[^1]: [Paragraph](/works/unknown-visnu-smrti-27f0d8/100/translation/#p-9d11b3).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "O Dhara"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"destroyer of bad dreams\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"abode of auspiciousness\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"spoken by the god himself\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 100
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.100\\nverse · 3¶ · 295w · vocab 128 (TTR 85%, hapax 84%)\\n\\n## Distinctive trigrams\\n\\\"literally one follows\\\" · \\\"one follows v"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.1\\nverse · 66¶ · 1956w · vocab 562 (TTR 57%, hapax 74%)\\n\\n## Distinctive trigrams\\n\\\"vi_1 good people\\\" · \\\"eternal laws *dhar"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.5\\nverse · 198¶ · 3105w · vocab 726 (TTR 47%, hapax 74%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement vi_5\\\" · \\\"fined high"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 100
+      },
+      "result_summary": "Read ch.100 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 100,
+        "paragraph_ids": [
+          "p-9d11b3"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 100,
+      "paragraph_id": "p-9d11b3"
+    }
+  ],
+  "duration_ms": 30970,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 39108,
+    "completion_tokens": 3158,
+    "total_tokens": 42266,
+    "cached_tokens": 18135,
+    "api_calls": 5,
+    "cost_usd": 0.006680350000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1972,
+        "completion_tokens": 521,
+        "total_tokens": 2493,
+        "cached_tokens": 1886,
+        "cost_usd": 0.000372
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2537,
+        "completion_tokens": 628,
+        "total_tokens": 3165,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0005385
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 10848,
+        "completion_tokens": 411,
+        "total_tokens": 11259,
+        "cached_tokens": 2532,
+        "cost_usd": 0.0019953
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 11686,
+        "completion_tokens": 540,
+        "total_tokens": 12226,
+        "cached_tokens": 150,
+        "cost_usd": 0.0025847
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 12065,
+        "completion_tokens": 1058,
+        "total_tokens": 13123,
+        "cached_tokens": 11681,
+        "cost_usd": 0.00118985
+      }
+    ]
+  }
+}

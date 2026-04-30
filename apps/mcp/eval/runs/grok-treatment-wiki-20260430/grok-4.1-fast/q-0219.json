@@ -1,0 +1,287 @@
+{
+  "answer": "**The four poems—**Bacha aur Shama** (ch. 15), **Bachay Ki Dua** (ch. 16), **Maa ka Khwab** (ch. 29), and **Parinde Ki Faryad** (ch. 34)—form a cycle of didactic verse for children, unified by Iqbal's project of awakening *khudi* (selfhood) through metaphors of inner light, selfless aspiration, national service, independence from stifling attachments, and liberation from confinement.[^1][^2][^3][^4]\n\nThis emerges across the poems' shared motifs and morals:\n\n- **Inner light as divine potential**: In *Bacha aur Shama*, the mother reveals her child's veiled \"pure light\" akin to the candle's flame, amid nature's beauty that stirs the soul's deeper yearning.[^5] Likewise, *Bachay Ki Dua* prays for the child's life to \"dispel the darkness of the world,\" like a candle or moth drawn to knowledge.[^6]\n- **Selfless service and patriotism**: The child's prayer aspires to be \"my homeland's grace and pride,\" championing the poor and weak while shunning wrong.[^7]\n- **Hindrances to growth**: *Maa ka Khwab* warns that a mother's tears extinguish the son's lamp, blocking his path among lamp-bearing boys; independence is urged.[^8]\n- **Freedom's yearning**: *Parinde Ki Faryad* voices the caged bird's lament for garden liberty, friends, and nature—echoing the soul trapped from its true domain.[^9]\n\nIqbal deploys child-accessible symbols (candle, lamp, bird, dream) to pedagogically forge resilient, enlightened Muslim youth: spiritually luminous, nationally devoted, unbound by sentiment or oppression. No single prefatory note declares this in the corpus, but the texts cohere around it.[^1][^2][^3][^4]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch.15 \"Bacha aur Shama\" (/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, ch.16 \"Bachay Ki Dua\" (/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch.29 \"Maa ka Khwab\" (/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, ch.34 \"Parinde Ki Faryad\" (/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/translation/).\n\n[^5]: Ibid., ch.15, [p-a036dd](/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/#p-a036dd), [p-0b0025](/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/#p-0b0025), [p-1ce332](/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/#p-1ce332).\n\n[^6]: Ibid., ch.16, [p-28b7ba](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-28b7ba), [p-4bb8de](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-4bb8de), [p-01b332](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-01b332).\n\n[^7]: Ibid., ch.16, [p-b049bf](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-b049bf), [p-877b09](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-877b09).\n\n[^8]: Ibid., ch.29, [p-4feffc](/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/#p-4feffc), [p-508d74](/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/#p-508d74).\n\n[^9]: Ibid., ch.34, [p-f1e47c](/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/translation/#p-f1e47c), [p-941bb0](/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/translation/#p-941bb0), [p-983c20](/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/translation/#p-983c20).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bachay ki Dua\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bacha aur Shama\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Parinde ki Faryad\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Maa ka Khwab\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bachay ki Dua\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 15-bacha-aur-shama.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 16-bachay-ki-dua.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.29\\nverse · 15¶ · 222w · vocab 86 (TTR 82%, hapax 85%)\\n\\n## Distinctive trigrams\\n\\\"one night slept\\\" · \\\"night slept saw\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 1 · ch.34\\nverse · 11¶ · 193w · vocab 79 (TTR 93%, hapax 94%)\\n\\n## Distinctive trigrams\\n\\\"bird lament garden\\\" · \\\"lament gar"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.34 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-a036dd"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-0b0025"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-1ce332"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-28b7ba"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-4bb8de"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-01b332"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-b049bf"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-877b09"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-4feffc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-508d74"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-f1e47c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-941bb0"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-983c20"
+    }
+  ],
+  "duration_ms": 41137,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 48354,
+    "completion_tokens": 5555,
+    "total_tokens": 53909,
+    "cached_tokens": 31507,
+    "api_calls": 5,
+    "cost_usd": 0.00772225,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1933,
+        "completion_tokens": 545,
+        "total_tokens": 2478,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006366
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7491,
+        "completion_tokens": 663,
+        "total_tokens": 8154,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018072
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11365,
+        "completion_tokens": 508,
+        "total_tokens": 11873,
+        "cached_tokens": 7486,
+        "cost_usd": 0.0014041
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 12366,
+        "completion_tokens": 624,
+        "total_tokens": 12990,
+        "cached_tokens": 11360,
+        "cost_usd": 0.0010812
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 15199,
+        "completion_tokens": 3215,
+        "total_tokens": 18414,
+        "cached_tokens": 12361,
+        "cost_usd": 0.00279315
+      }
+    ]
+  }
+}

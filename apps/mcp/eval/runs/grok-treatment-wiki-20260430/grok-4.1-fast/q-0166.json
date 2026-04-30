@@ -1,0 +1,232 @@
+{
+  "answer": "**The Pārāśara Smṛti is presented as the authoritative *dharma* specifically for the Kali *yuga*.**[^1][^2]\n\nIts opening frames the entire text as detailing the *dharma* beneficial for the present Kali age, including rules of purity and conduct.[^3] It explicitly states that Parāśara's *dharmas* are to be followed in the Kali *yuga*, succeeding those of Śaṅkha and Likhita from the Dvāpara.[^4]\n\nThe core duties of Brāhmaṇas are the famous **six daily acts (*ṣaṭkarma*)**, which a Brāhmaṇa devoted to them—along with worship of deities and guests, and eating remnants of fire offerings—does not perish.[^5] These are enumerated as:\n\n> Twilight prayers and bathing, recitation of sacred texts (*japa*), fire offerings (*homa*), worship of deities and guests, hospitality to an *atithi* (a guest, who must be honored), and the *Vaiśvadeva* (the daily ritual offering to all deities) — these are the six duties to be performed day by day.[^6]\n\nChapter 2 further specifies that a householder Brāhmaṇa in the Kali *yuga* may engage in agriculture (with caveats on treatment of oxen and sharing produce) *while* performing these six duties, plus feeding learned Brāhmaṇas, the five great sacrifices, and Vedic study.[^7]\n\nNo other chapters contain more specific enumerations of Brāhmaṇa duties tied explicitly to the Kali age; the text's structure positions these as the foundational practices for *dvijas* (especially Brāhmaṇas) in this era.[^8]\n\n[^1]: *Pārāśara Smṛti*, ch.1 (/works/unknown-parasara-smrti-2259be/01/translation/#p-121575).\n\n[^2]: *Pārāśara Smṛti*, ch.1 (/works/unknown-parasara-smrti-2259be/01/translation/#p-d9b4b0).\n\n[^3]: *Pārāśara Smṛti*, ch.1, [p-22e02e](/works/unknown-parasara-smrti-2259be/01/translation/#p-22e02e).\n\n[^4]: *Pārāśara Smṛti*, ch.1, [p-121575](/works/unknown-parasara-smrti-2259be/01/translation/#p-121575).\n\n[^5]: *Pārāśara Smṛti*, ch.1, [p-f4eb93](/works/unknown-parasara-smrti-2259be/01/translation/#p-f4eb93). Par_1.38.\n\n[^6]: *Pārāśara Smṛti*, ch.1, [p-40daa2](/works/unknown-parasara-smrti-2259be/01/translation/#p-40daa2). Par_1.39.\n\n[^7]: *Pārāśara Smṛti*, ch.2 (/works/unknown-parasara-smrti-2259be/02/translation/#p-d394a0).\n\n[^8]: *Pārāśara Smṛti*, ch.1 (/works/unknown-parasara-smrti-2259be/01/translation/). The chapter wiki cards and searches confirm no dedicated later section on Kali-specific Brāhmaṇa duties beyond these.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "parasara"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Parasara Smriti\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kali\" Brahmin duties"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kali\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmin\" OR \"Brahmana\" duties Kali",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Parāśara Smṛti · ch.1\\nverse · 70¶ · 2269w · vocab 591 (TTR 56%, hapax 72%)\\n\\n## Distinctive trigrams\\n\\\"par_1 kṛta *yuga*\\\" · \\\"parāśara chief"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Parāśara Smṛti · ch.2\\nverse · 16¶ · 490w · vocab 157 (TTR 70%, hapax 79%)\\n\\n## Distinctive trigrams\\n\\\"*dharma* four *varṇas*\\\" · \\\"vol part h"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kaliyuga OR \"Kali yuga\" OR Kaliyug OR \"Kali age\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmana\" OR Brahmin Kali OR yuga",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Parāśara Smṛti · ch.8\\nverse · 41¶ · 1266w · vocab 293 (TTR 48%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"eating one meal\\\" · \\\"eating unsolicit"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 2,
+      "paragraph_id": "p-121575"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 2,
+      "paragraph_id": "p-d9b4b0"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 2,
+      "paragraph_id": "p-22e02e"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 2,
+      "paragraph_id": "p-f4eb93"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 2,
+      "paragraph_id": "p-40daa2"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 2,
+      "paragraph_id": "p-d394a0"
+    }
+  ],
+  "duration_ms": 44177,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 32006,
+    "completion_tokens": 3438,
+    "total_tokens": 35444,
+    "cached_tokens": 16687,
+    "api_calls": 5,
+    "cost_usd": 0.0056171500000000004,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 470,
+        "total_tokens": 2375,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005935
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2169,
+        "completion_tokens": 303,
+        "total_tokens": 2472,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00030285
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3572,
+        "completion_tokens": 451,
+        "total_tokens": 4023,
+        "cached_tokens": 2164,
+        "cost_usd": 0.0006153
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8928,
+        "completion_tokens": 477,
+        "total_tokens": 9405,
+        "cached_tokens": 3567,
+        "cost_usd": 0.00148905
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 15432,
+        "completion_tokens": 1737,
+        "total_tokens": 17169,
+        "cached_tokens": 8923,
+        "cost_usd": 0.00261645
+      }
+    ]
+  }
+}

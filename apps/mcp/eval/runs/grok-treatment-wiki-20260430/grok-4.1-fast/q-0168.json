@@ -1,0 +1,282 @@
+{
+  "answer": "**The Āṅgirasa Smṛti (a single-chapter work of 1792 paragraphs) addresses prayascittas (penances or expiations) extensively in its \"Later Āṅgirasa Text\" (starting around paragraph [p-90b022]), framed as a Dharmaśāstra on *dharma*, assemblies (*pariṣad*), and penances (*prāyaścitta*).**[^1]\n\n**General prayascittas for women are prescribed at half the standard rate for intentional sins (Ang_2,10.20), with further reductions (to one quarter) for women alongside children, the elderly, and eunuchs.**[^2] This follows detailed rules on assemblies prescribing penances proportional to sin gravity, caste, age, and intent (Ang_2,1–10). Women are also covered in specific cases like adultery, remarriage (*puṇarbhū*), or self-immolation with a non-husband (*sahagamana*), often requiring travel to sacred sites (e.g., Setu/Rāmeśvaram), vows like Cāndrāyaṇa or Taptakṛcchra, baths, *Pañcagavya*, and Gāyatrī recitation.[^3][^4]\n\nNo dedicated standalone \"section\" exists solely on \"prayascittas for women\"; rules are integrated into broader penance chapters (esp. Ang_2,2–12) and earlier case law on marriage/adultery (paras. ~[p-9684fe]–[p-a7cedd]). Menstruating women (*rajasvalāḥ*) are noted as ritually impure but without unique prayascittas here.[^5]\n\n[^1]: *Āṅgirasa Smṛti*, ch.1, [full chapter](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-90b022).\n\n[^2]: *Āṅgirasa Smṛti*, ch.1, [p-83ee9c](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-83ee9c).\n\n[^3]: *Āṅgirasa Smṛti*, ch.1, [p-9684fe](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-9684fe).\n\n[^4]: *Āṅgirasa Smṛti*, ch.1, [p-73aeea](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-73aeea).\n\n[^5]: *Āṅgirasa Smṛti*, ch.1, [p-d769c5](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-d769c5) (work-level wiki trigram).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Angirasa Smriti",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Angirasa prayascitta",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"prayascittas for women\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "angirasa"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prayascitta women Angirasa",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"for women\" prayascitta",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Āṅgirasa Smṛti · ch.1\\nverse · 1792¶ · 38412w · vocab 5128 (TTR 26%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"according rule ang_1\\\" · \\\"ang_2 *"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rajasvalāḥ prayascitta",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "women penance Angirasa",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Āṅgirasa Smṛti · ch.1\\nverse · 1792¶ · 38412w · vocab 5128 (TTR 26%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"according rule ang_1\\\" · \\\"ang_2 *"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"penance\" woman",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"prāyaścitta\" woman",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "strī prāyaścitta",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prāyaścitta",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"for a woman\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "woman OR wife OR strī OR patnī prayascitta OR prāyaścitta OR penance",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-90b022"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-9684fe"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-a7cedd"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-83ee9c"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-73aeea"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-d769c5"
+    }
+  ],
+  "duration_ms": 46837,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 105246,
+    "completion_tokens": 4368,
+    "total_tokens": 109614,
+    "cached_tokens": 14446,
+    "api_calls": 6,
+    "cost_usd": 0.021066300000000003,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1903,
+        "completion_tokens": 670,
+        "total_tokens": 2573,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006931
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2220,
+        "completion_tokens": 418,
+        "total_tokens": 2638,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006305
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2979,
+        "completion_tokens": 287,
+        "total_tokens": 3266,
+        "cached_tokens": 2215,
+        "cost_usd": 0.00040705
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3542,
+        "completion_tokens": 752,
+        "total_tokens": 4294,
+        "cached_tokens": 2974,
+        "cost_usd": 0.0006383
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki_full",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5425,
+        "completion_tokens": 753,
+        "total_tokens": 6178,
+        "cached_tokens": 3537,
+        "cost_usd": 0.00093095
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 89177,
+        "completion_tokens": 1488,
+        "total_tokens": 90665,
+        "cached_tokens": 5420,
+        "cost_usd": 0.0177664
+      }
+    ]
+  }
+}

@@ -1,0 +1,107 @@
+{
+  "answer": "**Allama Iqbal's poem \"Aaftab\" (The Sun)** appears as Chapter 14 in *Bang-E-Dara Part 1* (1924), his influential Urdu poetry collection. Here is the English translation:[^1]\n\n**The Sun**\n\nO Sun! Thou art the world's own soul, its flowing grace,  \nWho binds the scattered leaves of all of Time and Space.[p-96b3da but clean]\n\nThou art the cause that Being from Unbeing flows,  \nAnd by Thy breath, the garden of Existence grows.\n\nThis pageant of the elements by Thee is held,  \nThe urge for life in every single thing compelled.\n\nFrom Thy bright splendor, all things find their stable state,  \nThy fire and harmony are life incarnate.\n\nThat Sun, whose light makes all the world so bright,  \nIs Heart, is Mind, is Soul, is conscious Light.\n\nO Sun, on us the light of consciousness bestow,  \nAnd make our eye of reason with Thy radiance glow.\n\nFor all Existence, Thou dost furnish and adorn,  \nThe Lord of all on high and low, of night and morn.\n\nThy own perfection is in every living heart,  \nThy splendor shown in mountain ranges set apart.\n\nThou art the Lord who gives all living things their breath,  \nThe crowned King of the sons of light, defying death.\n\nNo first beginning and no final end is Thine,  \nForever free from chains of time, Thy splendors shine.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 14: Aaftab (translation)](/works/allama-iqbal-bang-e-dara-part-1-55b25c/14-aaftab/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Aaftab"
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Aaftab\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal sun poem"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 14
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 14-aaftab.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.14 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 14,
+      "paragraph_id": "p-96b3da"
+    }
+  ],
+  "duration_ms": 23741,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 10372,
+    "completion_tokens": 1873,
+    "total_tokens": 12245,
+    "cached_tokens": 7596,
+    "api_calls": 3,
+    "cost_usd": 0.0018715,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 338,
+        "total_tokens": 2240,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00026725
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3839,
+        "completion_tokens": 376,
+        "total_tokens": 4215,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00067365
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 4631,
+        "completion_tokens": 1159,
+        "total_tokens": 5790,
+        "cached_tokens": 3834,
+        "cost_usd": 0.0009306
+      }
+    ]
+  }
+}
