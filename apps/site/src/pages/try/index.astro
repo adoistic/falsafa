@@ -162,32 +162,6 @@ cd apps/mcp  && bun run dev          # MCP server (stdio)`}</code></pre>
     font-size: 0.92em;
   }
 
-  .try-hero {
-    display: grid;
-    grid-template-columns: 1fr;
-    gap: var(--s-6);
-    margin-bottom: var(--s-12);
-  }
-
-  @media (min-width: 768px) {
-    .try-page {
-      max-width: 90ch;
-    }
-    .try-hero {
-      grid-template-columns: 1fr 1fr;
-      gap: var(--s-8);
-    }
-  }
-
-  .try-byok-card {
-    border: 1px solid var(--rule);
-    padding: var(--s-6);
-  }
-  .try-byok-card-head h2 {
-    font-family: var(--font-display);
-    font-size: var(--fs-h2);
-    margin: 0 0 var(--s-2);
-  }
   .try-byok-card-head p {
     color: var(--ink-muted);
     margin: 0 0 var(--s-6);
@@ -212,4 +186,44 @@ cd apps/mcp  && bun run dev          # MCP server (stdio)`}</code></pre>
     overflow-x: auto;
     margin: var(--s-3) 0;
   }
+
+  /* ── A/B-style outer tabs (CSS :target, zero JS) ─────────────── */
+  .try-tabs {
+    display: inline-flex;
+    gap: var(--s-1);
+    margin: var(--s-4) 0 var(--s-6);
+    flex-wrap: wrap;
+  }
+  .try-tab {
+    padding: var(--s-2) var(--s-4);
+    border: 1px solid var(--rule);
+    border-radius: 999px;
+    font-family: var(--font-sans);
+    font-size: var(--fs-chrome);
+    color: var(--ink);
+    text-decoration: none;
+    line-height: 1;
+  }
+  .try-tab:focus-visible {
+    outline: 2px solid var(--accent);
+    outline-offset: 2px;
+  }
+
+  /* Default state — Install visible, BYOK hidden, Install tab filled. */
+  .try-tab--install { background: color-mix(in oklch, var(--ink) 6%, var(--paper)); }
+  .try-tab--byok    { background: transparent; }
+  .try-panel--install { display: block; }
+  .try-panel--byok    { display: none; }
+
+  /* When #panel-byok is the URL fragment, swap. */
+  body:has(#panel-byok:target) .try-tab--install   { background: transparent; }
+  body:has(#panel-byok:target) .try-tab--byok      { background: color-mix(in oklch, var(--accent) 6%, var(--paper)); }
+  body:has(#panel-byok:target) .try-panel--install { display: none; }
+  body:has(#panel-byok:target) .try-panel--byok    { display: block; }
+
+  /* Defensive: if #panel-install is explicitly targeted, force default. */
+  body:has(#panel-install:target) .try-tab--install   { background: color-mix(in oklch, var(--ink) 6%, var(--paper)); }
+  body:has(#panel-install:target) .try-tab--byok      { background: transparent; }
+  body:has(#panel-install:target) .try-panel--install { display: block; }
+  body:has(#panel-install:target) .try-panel--byok    { display: none; }
 </style>
