@@ -1,0 +1,53 @@
+name: npm publish
+
+on:
+  push:
+    tags: ['v*.*.*']
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: read
+      id-token: write           # required for `npm publish --provenance`
+    steps:
+      - uses: actions/checkout@v4
+      - uses: oven-sh/setup-bun@v2
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          registry-url: 'https://registry.npmjs.org'
+      - run: bun install --frozen-lockfile
+      - name: Build + copy corpus (via prepack)
+        working-directory: apps/mcp
+        run: |
+          node scripts/copy-corpus.mjs
+          bun build ./src/index.ts --target=node --outdir=./dist --format=esm
+      - name: Sanity check tarball
+        working-directory: apps/mcp
+        run: npm pack --dry-run
+      - name: Publish
+        working-directory: apps/mcp
+        run: npm publish --provenance --access public
+        env:
+          NODE_AUTH_TOKEN: ${{ secrets.NPM_TOKEN }}
+
+  smoke:
+    needs: publish
+    runs-on: ${{ matrix.os }}
+    strategy:
+      matrix:
+        os: [ubuntu-latest, macos-latest, windows-latest]
+      fail-fast: false           # collect all OS results even if one fails
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+      - name: Wait for npm propagation
+        shell: bash
+        run: sleep 30
+      - name: Install published package
+        run: npm install -g @falsafa/mcp
+      - name: Smoke test stdio MCP
+        run: node ${{ github.workspace }}/.github/scripts/smoke-mcp.mjs
