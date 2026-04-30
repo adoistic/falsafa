@@ -352,25 +352,6 @@
       "thothica_role": "catalog"
     },
     {
-      "slug": "unknown-nyaya-tilakam-pandulipi-bookny",
-      "title": "Nyaya Tilakam Pandulipi",
-      "author": "Vihārācārya",
-      "author_slug": "viharacarya",
-      "era": "Medieval",
-      "era_slug": "medieval",
-      "genre": "Academic Studies",
-      "genre_slug": "academic-studies",
-      "language": "Sanskrit",
-      "language_slug": "sanskrit",
-      "language_direction": "ltr",
-      "total_logical_chapters": 18,
-      "total_variant_entries": 36,
-      "published_year": 1300,
-      "difficulty": "Advanced",
-      "description": "Sanskrit manuscript on Nyaya philosophy and logic",
-      "thothica_role": "catalog"
-    },
-    {
       "slug": "unknown-old-english-elegies-d5fe9e",
       "title": "Old English Elegies",
       "author": "Unknown",
