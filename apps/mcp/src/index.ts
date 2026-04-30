@@ -34,6 +34,8 @@ import {
 // ─────────────────────────────────────────────────────────────────────────
 
 const corpus = new Corpus();
+const works = corpus.works();
+console.error(`[falsafa-mcp] corpus loaded: ${works.length} works from ${corpus.rootPath}`);
 
 const server = new Server(
   {
