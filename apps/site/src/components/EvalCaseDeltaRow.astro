@@ -1,0 +1,37 @@
+---
+import type { EvalCaseResult } from "../lib/eval-types";
+
+interface Props {
+  arm: "baseline" | "wiki";
+  render: { result: EvalCaseResult; verdict: boolean | null } | null;
+}
+
+const { arm, render } = Astro.props as Props;
+const r = render?.result;
+const v = render?.verdict;
+const tools = r?.tool_calls?.length ?? 0;
+const cost = r?.usage?.cost_usd ?? null;
+const tokens = r?.usage?.total_tokens;
+
+function fmtCost(n: number | null): string {
+  if (n == null) return "—";
+  return `$${n.toFixed(4)}`;
+}
+function fmtTokens(n: number | undefined): string {
+  if (!n) return "—";
+  if (n >= 1_000_000) return `${(n / 1_000_000).toFixed(2)}M`;
+  if (n >= 1_000) return `${(n / 1_000).toFixed(1)}K`;
+  return n.toLocaleString();
+}
+---
+<div class={`eval-delta-row eval-delta-row--${arm}`}>
+  <span class="eval-delta-row-label">{arm === "baseline" ? "Baseline:" : "Wiki:"}</span>
+  <span
+    class={`eval-delta-row-verdict eval-delta-row-verdict--${v === true ? "pass" : v === false ? "fail" : "unjudged"}`}
+  >
+    {v === true ? "✓ pass" : v === false ? "✗ fail" : "— unjudged"}
+  </span>
+  <span class="eval-delta-row-tools">{tools} tools</span>
+  <span class="eval-delta-row-cost">{fmtCost(cost)}</span>
+  <span class="eval-delta-row-tokens">{fmtTokens(tokens)} tok</span>
+</div>

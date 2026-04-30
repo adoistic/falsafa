@@ -1,9 +1,7 @@
 ---
 import Base from "../../layouts/Base.astro";
-import NonDeterminismCaveat from "../../components/NonDeterminismCaveat.astro";
-import ReportThis from "../../components/ReportThis.astro";
-import ToolCallTrace from "../../components/ToolCallTrace.astro";
-import RunItYourself from "../../components/RunItYourself.astro";
+import EvalCaseArm from "../../components/EvalCaseArm.astro";
+import EvalCaseDeltaRow from "../../components/EvalCaseDeltaRow.astro";
 import { listChapters } from "../../lib/corpus";
 import { linkifyHtml } from "../../lib/eval-paragraph-link";
 import { passOf } from "../../lib/eval-types";
@@ -108,63 +106,6 @@ const verdict = abMode ? baselineRender?.verdict ?? null : singleRender?.verdict
 const verdictText = verdict === true ? "Pass" : verdict === false ? "Fail" : "Unjudged";
 const verdictGlyph = verdict === true ? "✓" : verdict === false ? "×" : "—";
 
-const caseUrl = `https://falsafa.ai/eval/${c.id}/`;
-// The runner writes to runs/<run-name>/<model-label>/q-NNNN.json — same
-// shape used by build-eval-json. In A/B mode we link to the baseline
-// arm's source by default; the wiki arm has its own from_run that the
-// reader can find by clicking the Wiki tab and inspecting that source.
-const sourceUrl = (() => {
-  if (abMode) {
-    const b = baselineRender?.result;
-    if (b && baselineId) {
-      return `https://github.com/adoistic/falsafa/tree/main/apps/mcp/eval/runs/${b.from_run}/${baselineId}/${c.id}.json`;
-    }
-    return null;
-  }
-  if (singleRender?.result && primaryModelId) {
-    return `https://github.com/adoistic/falsafa/tree/main/apps/mcp/eval/runs/${singleRender.result.from_run}/${primaryModelId}/${c.id}.json`;
-  }
-  return null;
-})();
-
-// Legacy single-arm shims — keep the existing article body rendering
-// while Task 9 lands. Task 10 replaces the body with the dual-arm
-// dispatch and these shims go away.
-const activeRender = abMode ? baselineRender : singleRender;
-const result = activeRender?.result;
-const answerHtml = activeRender?.html ?? "";
-
-// Citations chip row data — distinct from expected_works (auditor's intent).
-// Citations are what the model actually cited; expected_works is what the
-// auditor said it should land on. Showing both lets the reader compare.
-const citationChips = result?.citations
-  ?.filter((c) => c.work_slug)
-  ?.reduce<Array<{ workSlug: string; chapterNumber?: number; chapterSlug?: string; paragraphIds: string[] }>>(
-    (acc, c) => {
-      const existing = acc.find(
-        (a) => a.workSlug === c.work_slug && a.chapterNumber === c.chapter_number,
-      );
-      if (existing && c.paragraph_id) existing.paragraphIds.push(c.paragraph_id);
-      else {
-        // Resolve chapter_slug at build time so the chip can deep-link to
-        // /works/<work>/<chapter>/translation/#<paragraph_id>. Falls back
-        // to /works/<work>/ when the chapter can't be resolved.
-        let chapterSlug: string | undefined;
-        if (c.chapter_number !== undefined) {
-          const chapters = listChapters(c.work_slug);
-          chapterSlug = chapters.find((ch) => ch.chapter_number === c.chapter_number)?.chapter_slug;
-        }
-        acc.push({
-          workSlug: c.work_slug,
-          chapterNumber: c.chapter_number,
-          chapterSlug,
-          paragraphIds: c.paragraph_id ? [c.paragraph_id] : [],
-        });
-      }
-      return acc;
-    },
-    [],
-  ) ?? [];
 ---
 
 <Base
@@ -196,148 +137,46 @@ const citationChips = result?.citations
       </span>
     </nav>
 
-    <header class="eval-case-header">
-      <p class="kicker">
-        {c.category} · {c.difficulty}
-        {c.tier === "hidden" && (
-          <span class="tier-badge tier-badge--hidden" title="Discovery tier — the question hides the work, testing whether the model can find it by content alone.">
-            · discovery
-          </span>
-        )}
-        {c.tier === "named" && (
-          <span class="tier-badge tier-badge--named" title="Citation tier — the question names the work, testing citation precision.">
-            · citation
-          </span>
-        )}
-      </p>
-      <h1>{c.prompt}</h1>
-      {c.rationale && <p class="rationale">Why this is in the suite: {c.rationale}</p>}
-      {c.expected_works.length > 0 && (
-        <div class="expected-works">
-          <span class="expected-works-label">Expected works:</span>
-          {c.expected_works.map((slug) => (
-            <a class="expected-works-chip" href={`/works/${slug}/`}>{slug}</a>
-          ))}
+    {abMode && baselineRender && wikiRender ? (
+      <Fragment>
+        <nav class="eval-case-tabs" role="tablist" aria-label="A/B arm">
+          <a class="eval-case-tab eval-case-tab--baseline" id="tab-baseline"
+             href="#case-baseline" role="tab" aria-controls="case-baseline">
+            Baseline
+          </a>
+          <a class="eval-case-tab eval-case-tab--wiki" id="tab-wiki"
+             href="#case-wiki" role="tab" aria-controls="case-wiki">
+            Wiki
+          </a>
+        </nav>
+
+        <div class="eval-delta-strip" aria-label="A/B summary">
+          <EvalCaseDeltaRow arm="baseline" render={baselineRender} />
+          <EvalCaseDeltaRow arm="wiki" render={wikiRender} />
         </div>
-      )}
-      {citationChips.length > 0 && (
-        <div class="model-citations">
-          <span class="model-citations-label">Model cited:</span>
-          {citationChips.map((cite) => {
-            const href = cite.chapterSlug
-              ? `/works/${cite.workSlug}/${cite.chapterSlug}/translation/${cite.paragraphIds[0] ? `#${cite.paragraphIds[0]}` : ""}`
-              : `/works/${cite.workSlug}/`;
-            return (
-              <a
-                class="model-citations-chip"
-                href={href}
-                title={`${cite.workSlug}${cite.chapterNumber !== undefined ? ` ch.${cite.chapterNumber}` : ""}${cite.paragraphIds.length ? ` (${cite.paragraphIds.join(", ")})` : ""}`}
-              >
-                {cite.workSlug}{cite.chapterNumber !== undefined && ` · ch ${cite.chapterNumber}`}
-              </a>
-            );
-          })}
+
+        <section id="case-baseline" class="eval-case-arm eval-case-arm--baseline" role="tabpanel" aria-labelledby="tab-baseline">
+          <EvalCaseArm c={c} render={baselineRender} arm="baseline" modelId={baselineId} />
+        </section>
+        <section id="case-wiki" class="eval-case-arm eval-case-arm--wiki" role="tabpanel" aria-labelledby="tab-wiki">
+          <EvalCaseArm c={c} render={wikiRender} arm="wiki" modelId={wikiId} />
+        </section>
+      </Fragment>
+    ) : abMode && baselineRender && !wikiRender ? (
+      <Fragment>
+        <nav class="eval-case-tabs" role="tablist" aria-label="A/B arm">
+          <a class="eval-case-tab eval-case-tab--baseline is-active" href="#case-baseline">Baseline</a>
+        </nav>
+        <div class="eval-delta-strip">
+          <EvalCaseDeltaRow arm="baseline" render={baselineRender} />
+          <div class="eval-delta-row eval-delta-row--pending">Wiki: pending — run not complete</div>
         </div>
-      )}
-    </header>
-
-    {result ? (
-      <>
-        <section class="eval-case-trace">
-          <h2>Tool calls</h2>
-          <ToolCallTrace calls={result.tool_calls} />
+        <section id="case-baseline" class="eval-case-arm eval-case-arm--baseline">
+          <EvalCaseArm c={c} render={baselineRender} arm="baseline" modelId={baselineId} />
         </section>
-
-        {result.usage && (
-          <section class="eval-case-usage">
-            <h2>Cost &amp; tokens</h2>
-            <p class="usage-summary">
-              {typeof result.usage.cost_usd === "number" && (
-                <>
-                  <strong>${result.usage.cost_usd.toFixed(4)}</strong> ·{" "}
-                </>
-              )}
-              <strong>{result.usage.api_calls}</strong> API call{result.usage.api_calls === 1 ? "" : "s"} ·{" "}
-              <strong>{result.usage.total_tokens.toLocaleString()}</strong> tokens
-              {" "}({result.usage.prompt_tokens.toLocaleString()} prompt
-              {result.usage.cached_tokens > 0 && (
-                <> incl. <strong>{result.usage.cached_tokens.toLocaleString()}</strong> cached</>
-              )}
-              {" "}/ {result.usage.completion_tokens.toLocaleString()} completion)
-            </p>
-            {result.usage.usage_per_call && result.usage.usage_per_call.length > 0 && (
-              <details class="usage-per-step">
-                <summary>Per-step trace ({result.usage.usage_per_call.length} call{result.usage.usage_per_call.length === 1 ? "" : "s"})</summary>
-                <table class="usage-table">
-                  <thead>
-                    <tr>
-                      <th scope="col">#</th>
-                      <th scope="col">Trigger</th>
-                      <th scope="col">Preceded by</th>
-                      <th scope="col" class="num">Prompt</th>
-                      <th scope="col" class="num">Completion</th>
-                      <th scope="col" class="num">Cached</th>
-                      <th scope="col" class="num">Cost</th>
-                    </tr>
-                  </thead>
-                  <tbody>
-                    {result.usage.usage_per_call.map((step) => (
-                      <tr>
-                        <td class="num">{step.api_call_index}</td>
-                        <td>{step.trigger}</td>
-                        <td class="preceded-by">
-                          {step.preceded_by && step.preceded_by.length > 0
-                            ? step.preceded_by.join(", ")
-                            : "—"}
-                        </td>
-                        <td class="num">{step.prompt_tokens.toLocaleString()}</td>
-                        <td class="num">{step.completion_tokens.toLocaleString()}</td>
-                        <td class="num">{step.cached_tokens > 0 ? step.cached_tokens.toLocaleString() : "—"}</td>
-                        <td class="num">
-                          {typeof step.cost_usd === "number" ? `$${step.cost_usd.toFixed(5)}` : "—"}
-                        </td>
-                      </tr>
-                    ))}
-                  </tbody>
-                </table>
-              </details>
-            )}
-            <p class="usage-model">
-              <small>Model: <code>{result.usage.model}</code></small>
-            </p>
-          </section>
-        )}
-
-        <section class="eval-case-answer">
-          <h2>Answer</h2>
-          <div class="answer-body" set:html={answerHtml} />
-        </section>
-
-        {result.judge && (
-          <section class="eval-case-judge">
-            <h2>Judge verdict</h2>
-            <ul class="judge-badges">
-              <li class={result.judge.factual_correct ? "ok" : "no"}>factual_correct</li>
-              <li class={result.judge.citation_backed ? "ok" : "no"}>citation_backed</li>
-              <li class={result.judge.hallucinated ? "no" : "ok"}>{result.judge.hallucinated ? "hallucinated" : "not hallucinated"}</li>
-            </ul>
-            <p class="judge-naturalness">Naturalness: {result.judge.naturalness_1to5}/5</p>
-            <blockquote class="judge-reasoning">{result.judge.reasoning}</blockquote>
-            <p class="judge-model"><small>Judged by {result.judge.judge_model}</small></p>
-          </section>
-        )}
-
-        <RunItYourself prompt={c.prompt} toolCalls={result.tool_calls} />
-
-        <NonDeterminismCaveat />
-        <ReportThis caseId={c.id} caseUrl={caseUrl} recordedAnswer={result.answer} />
-
-        {sourceUrl && (
-          <footer class="eval-case-meta">
-            <p>From run <a href={sourceUrl}>{result.from_run}</a> · <code>{c.id}.json</code></p>
-          </footer>
-        )}
-      </>
+      </Fragment>
+    ) : singleRender ? (
+      <EvalCaseArm c={c} render={singleRender} arm={null} modelId={primaryModelId} />
     ) : (
       <p class="eval-case-no-result">No recorded result for this case.</p>
     )}

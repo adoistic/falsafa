@@ -1,0 +1,204 @@
+---
+import type { EvalCase, EvalCaseResult } from "../lib/eval-types";
+import { listChapters } from "../lib/corpus";
+import NonDeterminismCaveat from "./NonDeterminismCaveat.astro";
+import ReportThis from "./ReportThis.astro";
+import ToolCallTrace from "./ToolCallTrace.astro";
+import RunItYourself from "./RunItYourself.astro";
+
+interface Props {
+  c: EvalCase;
+  render: { result: EvalCaseResult; html: string; verdict: boolean | null };
+  arm: "baseline" | "wiki" | null;
+  /** Model id used as the path segment for the GitHub source link. */
+  modelId: string | undefined;
+}
+
+const { c, render, arm, modelId } = Astro.props as Props;
+const result = render.result;
+const answerHtml = render.html;
+
+const caseUrl = `https://falsafa.ai/eval/${c.id}/`;
+// The runner writes to runs/<run-name>/<model-label>/q-NNNN.json — same
+// shape used by build-eval-json. Per-arm source link.
+const sourceUrl = modelId
+  ? `https://github.com/adoistic/falsafa/tree/main/apps/mcp/eval/runs/${result.from_run}/${modelId}/${c.id}.json`
+  : null;
+
+// Citations chip row data — distinct from expected_works (auditor's intent).
+// Citations are what the model actually cited; expected_works is what the
+// auditor said it should land on. Showing both lets the reader compare.
+const citationChips = result?.citations
+  ?.filter((cite) => cite.work_slug)
+  ?.reduce<Array<{ workSlug: string; chapterNumber?: number; chapterSlug?: string; paragraphIds: string[] }>>(
+    (acc, cite) => {
+      const existing = acc.find(
+        (a) => a.workSlug === cite.work_slug && a.chapterNumber === cite.chapter_number,
+      );
+      if (existing && cite.paragraph_id) existing.paragraphIds.push(cite.paragraph_id);
+      else {
+        // Resolve chapter_slug at build time so the chip can deep-link to
+        // /works/<work>/<chapter>/translation/#<paragraph_id>. Falls back
+        // to /works/<work>/ when the chapter can't be resolved.
+        let chapterSlug: string | undefined;
+        if (cite.chapter_number !== undefined) {
+          const chapters = listChapters(cite.work_slug);
+          chapterSlug = chapters.find((ch) => ch.chapter_number === cite.chapter_number)?.chapter_slug;
+        }
+        acc.push({
+          workSlug: cite.work_slug,
+          chapterNumber: cite.chapter_number,
+          chapterSlug,
+          paragraphIds: cite.paragraph_id ? [cite.paragraph_id] : [],
+        });
+      }
+      return acc;
+    },
+    [],
+  ) ?? [];
+---
+
+<header class="eval-case-header">
+  <p class="kicker">
+    {c.category} · {c.difficulty}
+    {c.tier === "hidden" && (
+      <span class="tier-badge tier-badge--hidden" title="Discovery tier — the question hides the work, testing whether the model can find it by content alone.">
+        · discovery
+      </span>
+    )}
+    {c.tier === "named" && (
+      <span class="tier-badge tier-badge--named" title="Citation tier — the question names the work, testing citation precision.">
+        · citation
+      </span>
+    )}
+    {arm && (
+      <span class={`eval-case-arm-tag eval-case-arm-tag--${arm}`}>
+        · {arm}
+      </span>
+    )}
+  </p>
+  <h1>{c.prompt}</h1>
+  {c.rationale && <p class="rationale">Why this is in the suite: {c.rationale}</p>}
+  {c.expected_works.length > 0 && (
+    <div class="expected-works">
+      <span class="expected-works-label">Expected works:</span>
+      {c.expected_works.map((slug) => (
+        <a class="expected-works-chip" href={`/works/${slug}/`}>{slug}</a>
+      ))}
+    </div>
+  )}
+  {citationChips.length > 0 && (
+    <div class="model-citations">
+      <span class="model-citations-label">Model cited:</span>
+      {citationChips.map((cite) => {
+        const href = cite.chapterSlug
+          ? `/works/${cite.workSlug}/${cite.chapterSlug}/translation/${cite.paragraphIds[0] ? `#${cite.paragraphIds[0]}` : ""}`
+          : `/works/${cite.workSlug}/`;
+        return (
+          <a
+            class="model-citations-chip"
+            href={href}
+            title={`${cite.workSlug}${cite.chapterNumber !== undefined ? ` ch.${cite.chapterNumber}` : ""}${cite.paragraphIds.length ? ` (${cite.paragraphIds.join(", ")})` : ""}`}
+          >
+            {cite.workSlug}{cite.chapterNumber !== undefined && ` · ch ${cite.chapterNumber}`}
+          </a>
+        );
+      })}
+    </div>
+  )}
+</header>
+
+{result.usage && (
+  <section class="eval-case-usage">
+    <h2>Cost &amp; tokens</h2>
+    <p class="usage-summary">
+      {typeof result.usage.cost_usd === "number" && (
+        <>
+          <strong>${result.usage.cost_usd.toFixed(4)}</strong> ·{" "}
+        </>
+      )}
+      <strong>{result.usage.api_calls}</strong> API call{result.usage.api_calls === 1 ? "" : "s"} ·{" "}
+      <strong>{result.usage.total_tokens.toLocaleString()}</strong> tokens
+      {" "}({result.usage.prompt_tokens.toLocaleString()} prompt
+      {result.usage.cached_tokens > 0 && (
+        <> incl. <strong>{result.usage.cached_tokens.toLocaleString()}</strong> cached</>
+      )}
+      {" "}/ {result.usage.completion_tokens.toLocaleString()} completion)
+    </p>
+    {result.usage.usage_per_call && result.usage.usage_per_call.length > 0 && (
+      <details class="usage-per-step">
+        <summary>Per-step trace ({result.usage.usage_per_call.length} call{result.usage.usage_per_call.length === 1 ? "" : "s"})</summary>
+        <table class="usage-table">
+          <thead>
+            <tr>
+              <th scope="col">#</th>
+              <th scope="col">Trigger</th>
+              <th scope="col">Preceded by</th>
+              <th scope="col" class="num">Prompt</th>
+              <th scope="col" class="num">Completion</th>
+              <th scope="col" class="num">Cached</th>
+              <th scope="col" class="num">Cost</th>
+            </tr>
+          </thead>
+          <tbody>
+            {result.usage.usage_per_call.map((step) => (
+              <tr>
+                <td class="num">{step.api_call_index}</td>
+                <td>{step.trigger}</td>
+                <td class="preceded-by">
+                  {step.preceded_by && step.preceded_by.length > 0
+                    ? step.preceded_by.join(", ")
+                    : "—"}
+                </td>
+                <td class="num">{step.prompt_tokens.toLocaleString()}</td>
+                <td class="num">{step.completion_tokens.toLocaleString()}</td>
+                <td class="num">{step.cached_tokens > 0 ? step.cached_tokens.toLocaleString() : "—"}</td>
+                <td class="num">
+                  {typeof step.cost_usd === "number" ? `$${step.cost_usd.toFixed(5)}` : "—"}
+                </td>
+              </tr>
+            ))}
+          </tbody>
+        </table>
+      </details>
+    )}
+    <p class="usage-model">
+      <small>Model: <code>{result.usage.model}</code></small>
+    </p>
+  </section>
+)}
+
+<section class="eval-case-answer">
+  <h2>Answer</h2>
+  <div class="answer-body" set:html={answerHtml} />
+</section>
+
+<section class="eval-case-trace">
+  <h2>Tool calls</h2>
+  <ToolCallTrace calls={result.tool_calls} />
+</section>
+
+{result.judge && (
+  <section class="eval-case-judge">
+    <h2>Judge verdict</h2>
+    <ul class="judge-badges">
+      <li class={result.judge.factual_correct ? "ok" : "no"}>factual_correct</li>
+      <li class={result.judge.citation_backed ? "ok" : "no"}>citation_backed</li>
+      <li class={result.judge.hallucinated ? "no" : "ok"}>{result.judge.hallucinated ? "hallucinated" : "not hallucinated"}</li>
+    </ul>
+    <p class="judge-naturalness">Naturalness: {result.judge.naturalness_1to5}/5</p>
+    <blockquote class="judge-reasoning">{result.judge.reasoning}</blockquote>
+    <p class="judge-model"><small>Judged by {result.judge.judge_model}</small></p>
+  </section>
+)}
+
+<RunItYourself prompt={c.prompt} toolCalls={result.tool_calls} />
+
+<NonDeterminismCaveat />
+<ReportThis caseId={c.id} caseUrl={caseUrl} recordedAnswer={result.answer} />
+
+{sourceUrl && (
+  <footer class="eval-case-meta">
+    <p>From run <a href={sourceUrl}>{result.from_run}</a> · <code>{c.id}.json</code></p>
+  </footer>
+)}
