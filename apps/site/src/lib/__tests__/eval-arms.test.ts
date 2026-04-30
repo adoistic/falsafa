@@ -1,8 +1,10 @@
 import { describe, expect, test } from "bun:test";
-import { armOfModelId } from "../eval-arms";
-import { isAbMode } from "../eval-arms";
-import { armVerdicts } from "../eval-arms";
-import { filterByCompare } from "../eval-arms";
+import {
+  armOfModelId,
+  isAbMode,
+  armVerdicts,
+  filterByCompare,
+} from "../eval-arms";
 import type { CompareMode } from "../eval-arms";
 import type { EvalCase } from "../eval-types";
 
