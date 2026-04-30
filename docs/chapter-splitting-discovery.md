@@ -12,7 +12,7 @@ Generated: 2026-04-26T17:44:14.207Z
 | TYPE_D | 15 | already well-split (no action) |
 | TYPE_E | 10 | no auto-detect — manual inspection |
 
-Total works surveyed: 38
+Total works surveyed: 37
 
 ## TYPE_A — Auto-splittable by verse markers
 

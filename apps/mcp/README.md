@@ -1,7 +1,7 @@
 # @falsafa/mcp
 
-Open-source MCP server for the Falsafa corpus — 38 classical and philosophical
-works (1,673 chapter entries / 627 logical chapters) translated, transliterated,
+Open-source MCP server for the Falsafa corpus — 37 classical and philosophical
+works (2,053 variant entries / 818 logical chapters) translated, transliterated,
 and curated by [Thothica](https://thothica.com).
 
 Plug it into any MCP-aware LLM (Claude Desktop, Cursor, Codex, etc.) and your

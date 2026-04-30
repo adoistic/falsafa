@@ -45,10 +45,10 @@ non-hallucinated answers to questions that require finding specific
 passages, comparing across traditions, and reasoning over evidence?
 
 Falsafa is an open-source MCP server distributed via npm
-(`@falsafa/mcp`) over a curated corpus of 38 classical and
+(`@falsafa/mcp`) over a curated corpus of 37 classical and
 philosophical works in six languages (Old English, Sanskrit, Urdu,
-Kawi/Old Javanese, French, German). The corpus contains 836 logical
-chapters, 2,089 variant entries across translation, transliteration,
+Kawi/Old Javanese, French, German). The corpus contains 818 logical
+chapters, 2,053 variant entries across translation, transliteration,
 and original-script forms, and stable per-paragraph identifiers used
 for citation. The server exposes eight tools:
 `list_works`, `list_chapters`, `get_metadata`, `read_chapter`,

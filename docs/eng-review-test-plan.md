@@ -46,7 +46,7 @@ panel viewer are NOT in V1 scope.)
 
 ### MCP integration (run via Claude Desktop or stdio harness)
 - `npx @falsafa/mcp` boots without errors
-- `list_works()` returns 38 entries with full metadata
+- `list_works()` returns 37 entries with full metadata
 - `read_chapter(slug, 1)` returns chapter content as markdown
 - `search_corpus("courage")` returns matches from English-translated chapters only
 - `search_corpus("courage", { scope: "all" })` returns matches across original + translit + translation

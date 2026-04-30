@@ -47,10 +47,10 @@ Numbers from `corpus/manifest.json` (regenerated on every convert):
 
 | | Count |
 |---|---|
-| Works | 38 |
-| Authors | 22 |
-| Logical chapters | 836 |
-| Variant entries (translation, transliteration, original) | 2,089 |
+| Works | 37 |
+| Authors | 21 |
+| Logical chapters | 818 |
+| Variant entries (translation, transliteration, original) | 2,053 |
 | Languages | Old English, Sanskrit, Urdu, Kawi, French, German |
 | Eras | Ancient, Medieval, Early Modern, 19th C, 20th C |
 

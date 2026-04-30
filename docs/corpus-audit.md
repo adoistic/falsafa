@@ -5,8 +5,8 @@ Source: `neondb` (exported 2026-04-26T11:26:21.945195+00:00)
 
 ## Summary
 
-- **Total works:** 38
-- **Total chapters:** 1673
+- **Total works:** 37
+- **Total chapters:** 818
 - **Total words:** 3,090,268
 
 ### Layout distribution

@@ -7,8 +7,8 @@ Mode: Builder (side project)
 
 ## Context
 
-The user owns a corpus of 38 classical / humanities / philosophical works (1,673
-chapters, ~4.7M tokens, mixed languages: Old English, French, German, Sanskrit,
+The user owns a corpus of 37 classical / humanities / philosophical works (818
+logical chapters, ~4.7M tokens, mixed languages: Old English, French, German, Sanskrit,
 Urdu, etc., with English translations) currently stored as a single ~21MB JSON
 file exported from Neon Postgres. They want to:
 
@@ -31,7 +31,7 @@ file exported from Neon Postgres. They want to:
 ```
 
 **works.json schema:**
-- Top-level: `works[]` (38), `counts`, `source: "neondb"`, `exported_at`
+- Top-level: `works[]` (37), `counts`, `source: "neondb"`, `exported_at`
 - Each work: `id`, `title`, `subtitle`, `author{}`, `era{}`, `genre{}`, `language{}`,
   `description`, `difficulty`, `chapters[]`, `sections[]` (mostly empty),
   `published_year`, `cover_image_url`, etc.
@@ -102,7 +102,7 @@ The website should look "absolutely brilliant" — bold, not minimalist.
 
 **New requirement surfaced:** AI-generated **artistic images for every
 work and every chapter**, with deliberate context engineering — a per-work
-style guide that gives the corpus a coherent visual language. ~38 cover
+style guide that gives the corpus a coherent visual language. ~37 cover
 images + ~1,673 chapter images. This is a real piece of the design.
 
 ### Q5: Reader's notebook with portable AI export
@@ -170,7 +170,7 @@ giving you most of the leverage of "research-agent-flavored." If you
 disagree, we go back to Hermes-inside-the-MCP.
 
 **P3. All AI imagery is baked at build time.**
-~38 cover images + ~1,673 chapter images, generated once via Flux or
+~37 cover images + ~818 chapter images, generated once via Flux or
 SDXL through Replicate (~$5-15 one-shot cost), checked into the repo or
 pinned to a CDN. Re-run only when the corpus changes. Zero runtime image
 generation, zero ongoing cost. Style is governed by a per-era prompt
@@ -376,7 +376,7 @@ single npm package.
 
 ### AI imagery pipeline
 
-- **Cover images (38):** Replicate Flux dev, painterly per-era style,
+- **Cover images (37):** Replicate Flux dev, painterly per-era style,
   ~1024x1024. Per-era prompt template lives in
   `scripts/image-prompts/{era}.json`, informed by Studio Whence's house
   aesthetic. Estimated cost: ~$0.50 total.
@@ -577,7 +577,7 @@ downstream depends on that artifact existing on disk.
 | 1 | Conversion + Catalog + paragraph IDs | 1 weekend |
 | 2 | MCP server (8 tools) | 1 weekend |
 | 3 | Astro site + provenance pages + chapter pages | 1-2 weekends |
-| 4 | Cover imagery (38 images, no chapter art) | ~half day |
+| 4 | Cover imagery (37 images, no chapter art) | ~half day |
 | 5 | Polish + launch | 1 weekend |
 
 **Total: ~5 weekends with CC.**
