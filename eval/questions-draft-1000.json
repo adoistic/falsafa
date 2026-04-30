@@ -2162,44 +2162,6 @@
     }
   },
   {
-    "id": "q-0162",
-    "category": "citation",
-    "difficulty": "hard",
-    "prompt": "In Nyaya Tilakam Pandulipi, find the section that defines pratyaksa (perception) as a means of valid knowledge.",
-    "rationale": "Standard Nyaya pramana definition. Tests retrieval inside an 18-chapter Sanskrit logic manuscript.",
-    "expected_works": [
-      "unknown-nyaya-tilakam-pandulipi-bookny"
-    ],
-    "quality": {
-      "groundedness": 5,
-      "specificity": 5,
-      "tool_utility": 5,
-      "insight_value": 4,
-      "naturalness": 4,
-      "total": 23,
-      "included": true
-    }
-  },
-  {
-    "id": "q-0163",
-    "category": "citation",
-    "difficulty": "medium",
-    "prompt": "Where in Nyaya Tilakam does the manuscript discuss anumana (inference)?",
-    "rationale": "Tests inference-chapter retrieval. Expected to be among the early-middle chapters.",
-    "expected_works": [
-      "unknown-nyaya-tilakam-pandulipi-bookny"
-    ],
-    "quality": {
-      "groundedness": 5,
-      "specificity": 4,
-      "tool_utility": 4,
-      "insight_value": 4,
-      "naturalness": 4,
-      "total": 21,
-      "included": true
-    }
-  },
-  {
     "id": "q-0164",
     "category": "citation",
     "difficulty": "medium",
@@ -10967,25 +10929,6 @@
     }
   },
   {
-    "id": "q-0592",
-    "category": "conceptual",
-    "difficulty": "medium",
-    "prompt": "What does 'pramana' (means of valid knowledge) mean in Nyaya Tilakam Pandulipi?",
-    "rationale": "Within-text technical-concept analysis. Tests Nyaya retrieval.",
-    "expected_works": [
-      "unknown-nyaya-tilakam-pandulipi-bookny"
-    ],
-    "quality": {
-      "groundedness": 5,
-      "specificity": 5,
-      "tool_utility": 4,
-      "insight_value": 5,
-      "naturalness": 4,
-      "total": 23,
-      "included": true
-    }
-  },
-  {
     "id": "q-0593",
     "category": "conceptual",
     "difficulty": "medium",
@@ -14453,44 +14396,6 @@
     }
   },
   {
-    "id": "q-0768",
-    "category": "specific-obscure",
-    "difficulty": "hard",
-    "prompt": "In Nyaya Tilakam Pandulipi page 7, what topic is discussed?",
-    "rationale": "Tests precise page-by-page retrieval inside an 18-page Nyaya manuscript.",
-    "expected_works": [
-      "unknown-nyaya-tilakam-pandulipi-bookny"
-    ],
-    "quality": {
-      "groundedness": 5,
-      "specificity": 5,
-      "tool_utility": 5,
-      "insight_value": 5,
-      "naturalness": 4,
-      "total": 24,
-      "included": true
-    }
-  },
-  {
-    "id": "q-0769",
-    "category": "specific-obscure",
-    "difficulty": "hard",
-    "prompt": "Nyaya Tilakam page 12 — what's there?",
-    "rationale": "Tests precise page-level retrieval.",
-    "expected_works": [
-      "unknown-nyaya-tilakam-pandulipi-bookny"
-    ],
-    "quality": {
-      "groundedness": 5,
-      "specificity": 5,
-      "tool_utility": 5,
-      "insight_value": 5,
-      "naturalness": 4,
-      "total": 24,
-      "included": true
-    }
-  },
-  {
     "id": "q-0770",
     "category": "specific-obscure",
     "difficulty": "hard",
@@ -17851,25 +17756,6 @@
       "insight_value": 5,
       "naturalness": 4,
       "total": 23,
-      "included": true
-    }
-  },
-  {
-    "id": "q-0942",
-    "category": "multilingual",
-    "difficulty": "medium",
-    "prompt": "How does the Sanskrit 'pramana' (means of valid knowledge) translate (or fail to translate) into the English vocabulary of epistemology?",
-    "rationale": "Cross-language epistemic-vocabulary analysis.",
-    "expected_works": [
-      "unknown-nyaya-tilakam-pandulipi-bookny"
-    ],
-    "quality": {
-      "groundedness": 5,
-      "specificity": 4,
-      "tool_utility": 4,
-      "insight_value": 5,
-      "naturalness": 4,
-      "total": 22,
       "included": true
     }
   },

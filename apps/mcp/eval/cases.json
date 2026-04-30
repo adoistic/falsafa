@@ -7,38 +7,70 @@
       "id": "needle-quote-andreas-thanes",
       "category": "needle: specific quote",
       "prompt": "I remember reading a passage that begins 'We have heard of heroes in ages past, of twelve true thanes under the turning stars'. Which work and chapter is this from? Cite the work slug and chapter number.",
-      "expected_tool_calls": ["search_corpus"],
-      "expected_answer_contains": ["Andreas", "cynewulf-andreas-07b573"],
+      "expected_tool_calls": [
+        "search_corpus"
+      ],
+      "expected_answer_contains": [
+        "Andreas",
+        "cynewulf-andreas-07b573"
+      ],
       "expects_citation": true,
-      "must_not_hallucinate": ["Beowulf", "Wanderer", "Seafarer"],
+      "must_not_hallucinate": [
+        "Beowulf",
+        "Wanderer",
+        "Seafarer"
+      ],
       "notes": "Distinctive opening of Andreas chapter 1. Search for 'twelve true thanes' or 'turning stars' — both highly specific to this Old English poem."
     },
     {
       "id": "needle-quote-ghalib-place-no-one-known",
       "category": "needle: specific quote",
       "prompt": "Find the poem in the corpus that contains the lines: 'Let's find a place where no one else is known, and be alone. No kindred voice, no soul to call my own, and be alone.' Tell me the work, the author, and the chapter number.",
-      "expected_tool_calls": ["search_corpus"],
-      "expected_answer_contains": ["Ghalib", "Diwan-E-Ghalib", "168"],
+      "expected_tool_calls": [
+        "search_corpus"
+      ],
+      "expected_answer_contains": [
+        "Ghalib",
+        "Diwan-E-Ghalib",
+        "168"
+      ],
       "expects_citation": true,
-      "must_not_hallucinate": ["Iqbal", "Zauq"],
+      "must_not_hallucinate": [
+        "Iqbal",
+        "Zauq"
+      ],
       "notes": "Ghalib ghazal 168 ('Rahiye ab aisi jagah'). The English translation has these exact lines."
     },
     {
       "id": "needle-quote-iqbal-piety",
       "category": "needle: specific quote",
       "prompt": "There's a poem in the corpus that opens with 'What wondrous piety, for all to see, He holds the entire world in enmity.' Find the work and author.",
-      "expected_tool_calls": ["search_corpus"],
-      "expected_answer_contains": ["Iqbal", "Bang-E-Dara"],
+      "expected_tool_calls": [
+        "search_corpus"
+      ],
+      "expected_answer_contains": [
+        "Iqbal",
+        "Bang-E-Dara"
+      ],
       "expects_citation": true,
-      "must_not_hallucinate": ["Ghalib", "Zauq", "Cynewulf"],
+      "must_not_hallucinate": [
+        "Ghalib",
+        "Zauq",
+        "Cynewulf"
+      ],
       "notes": "Iqbal Bang-E-Dara Part 1, ch.1 ('Ajab waaiz ki deen-daari hai ya Rabb'). Distinctive English rendering."
     },
     {
       "id": "needle-quote-manu-sages",
       "category": "needle: specific quote",
       "prompt": "Which work begins with 'The great sages, approaching X who was seated with a concentrated mind, duly honored him according to custom and spoke these words'? Fill in X and tell me the work.",
-      "expected_tool_calls": ["search_corpus"],
-      "expected_answer_contains": ["Manu", "Manusm"],
+      "expected_tool_calls": [
+        "search_corpus"
+      ],
+      "expected_answer_contains": [
+        "Manu",
+        "Manusm"
+      ],
       "expects_citation": true,
       "notes": "Manusmrti chapter 1 verse 1. The framing narrative — sages approach Manu."
     },
@@ -46,18 +78,33 @@
       "id": "needle-quote-yajnavalkya-yogis",
       "category": "needle: specific quote",
       "prompt": "I'm trying to track down a Sanskrit text whose first verse is 'Having honored X, the lord of yogis, the sages spoke: Declare to us in their entirety the dharma of the varnas, the life-stages, and the others.' Who is X and what's the work?",
-      "expected_tool_calls": ["search_corpus"],
-      "expected_answer_contains": ["Yājñavalkya", "Yajnavalkya"],
+      "expected_tool_calls": [
+        "search_corpus"
+      ],
+      "expected_answer_contains": [
+        "Yājñavalkya",
+        "Yajnavalkya"
+      ],
       "expects_citation": true,
-      "must_not_hallucinate": ["Manu", "Vishnu", "Yama"],
+      "must_not_hallucinate": [
+        "Manu",
+        "Vishnu",
+        "Yama"
+      ],
       "notes": "Yājñavalkya Smṛti opens with this. 'Lord of yogis' (yogīśvara) is the standard epithet."
     },
     {
       "id": "needle-quote-visnu-boar",
       "category": "needle: specific quote",
       "prompt": "Find the work in the corpus that describes a god taking the form of a Boar to lift up a submerged Earth out of the waters in a primordial creation scene. Tell me the work and which chapter.",
-      "expected_tool_calls": ["search_corpus"],
-      "expected_answer_contains": ["Vi", "Vishnu", "Viṣṇu"],
+      "expected_tool_calls": [
+        "search_corpus"
+      ],
+      "expected_answer_contains": [
+        "Vi",
+        "Vishnu",
+        "Viṣṇu"
+      ],
       "expects_citation": true,
       "notes": "Viṣṇu Smṛti chapter 1 — the Varāha (boar) avatar lifting up the earth. Distinctively Vaiṣṇava cosmology."
     },
@@ -65,8 +112,13 @@
       "id": "needle-quote-kunjarakarna-six-enemies",
       "category": "needle: specific quote",
       "prompt": "Find a work that contains the phrase 'six heroic enemies within' (referring to internal vices a steadfast practitioner battles). Quote a few surrounding lines and tell me the work.",
-      "expected_tool_calls": ["search_corpus"],
-      "expected_answer_contains": ["Kunjarakarna", "Mpu Dusun"],
+      "expected_tool_calls": [
+        "search_corpus"
+      ],
+      "expected_answer_contains": [
+        "Kunjarakarna",
+        "Mpu Dusun"
+      ],
       "expects_citation": true,
       "notes": "Kunjarakarna Dharmakathana, Canto 1. ṣaḍripu = the six internal enemies (kāma, krodha, lobha, moha, mada, mātsarya)."
     },
@@ -74,28 +126,51 @@
       "id": "needle-quote-comte-introduction",
       "category": "needle: specific quote",
       "prompt": "There's a 19th-century French liberal political treatise in the corpus whose first volume opens with an introduction. Without me telling you the author, find the work, the author, and quote the first sentence of that introduction (in English translation).",
-      "expected_tool_calls": ["search_corpus", "list_chapters", "read_chapter"],
-      "expected_answer_contains": ["Comte", "Traité de Législation"],
+      "expected_tool_calls": [
+        "search_corpus",
+        "list_chapters",
+        "read_chapter"
+      ],
+      "expected_answer_contains": [
+        "Comte",
+        "Traité de Législation"
+      ],
       "expects_citation": true,
-      "must_not_hallucinate": ["Auguste Comte"],
+      "must_not_hallucinate": [
+        "Auguste Comte"
+      ],
       "notes": "Charles Comte (NOT Auguste Comte — different person, common mistake) wrote Traité de Législation. The corpus has 4 volumes. Tests both retrieval and the LLM's ability to NOT confuse Charles Comte with the more famous Auguste Comte (who founded sociology)."
     },
     {
       "id": "needle-theme-kingship",
       "category": "needle: vague thematic",
       "prompt": "Several works in the Falsafa corpus discuss the qualities and duties a king should have. List the works that have substantial sections on kingship, with chapter or section numbers where relevant. Don't make up works that aren't in the corpus.",
-      "expected_tool_calls": ["search_corpus"],
-      "expected_answer_contains": ["Manu", "Kātyāyana"],
+      "expected_tool_calls": [
+        "search_corpus"
+      ],
+      "expected_answer_contains": [
+        "Manu",
+        "Kātyāyana"
+      ],
       "expects_citation": true,
-      "must_not_hallucinate": ["Arthashastra", "Kautilya", "Machiavelli"],
+      "must_not_hallucinate": [
+        "Arthashastra",
+        "Kautilya",
+        "Machiavelli"
+      ],
       "notes": "Several Sanskrit smṛtis have rāja-dharma (king's duties) sections. Kātyāyana's first section is literally 'rājaguṇāḥ' (qualities of a king). Test that the LLM finds the SPECIFIC works in the corpus, not generic priors about Indian political philosophy."
     },
     {
       "id": "needle-theme-exile",
       "category": "needle: vague thematic",
       "prompt": "Where in the corpus are themes of exile, alienation, and being cast out from one's home discussed? Name specific works and characterize how each treats the theme.",
-      "expected_tool_calls": ["search_corpus"],
-      "expected_answer_contains": ["Old English", "Elegies"],
+      "expected_tool_calls": [
+        "search_corpus"
+      ],
+      "expected_answer_contains": [
+        "Old English",
+        "Elegies"
+      ],
       "expects_citation": true,
       "notes": "Old English Elegies (Wanderer, Seafarer, Wife's Lament) are THE corpus locus for exile. Iqbal's Urdu poetry also has separation themes. Cynewulf's Andreas has missionary-journey themes."
     },
@@ -103,7 +178,10 @@
       "id": "needle-theme-divine",
       "category": "needle: vague thematic",
       "prompt": "How do different traditions in the corpus speak about the divine or about gods? Pick three works from three different language traditions and describe the conception of the divine in each.",
-      "expected_tool_calls": ["search_corpus", "list_works"],
+      "expected_tool_calls": [
+        "search_corpus",
+        "list_works"
+      ],
       "expected_answer_contains": [],
       "expects_citation": true,
       "notes": "Open-ended cross-tradition. Should pull from at least 3 of: Sanskrit smṛtis (devas, dharma), Old English (Christian God), Urdu (Allah / divine in Sufi register), Old Javanese (Śaiva tattvas, Buddhist Mahayana). Judge on whether 3 distinct traditions are characterized faithfully."
@@ -112,7 +190,9 @@
       "id": "needle-theme-courage",
       "category": "needle: vague thematic",
       "prompt": "A reader is interested in the concept of courage. Find passages that discuss courage in the corpus, ideally from at least two different traditions. Cite specific chapters.",
-      "expected_tool_calls": ["search_corpus"],
+      "expected_tool_calls": [
+        "search_corpus"
+      ],
       "expected_answer_contains": [],
       "expects_citation": true,
       "notes": "Andreas (Old English heroic literature) has courage as a central virtue. Sanskrit smṛtis discuss vīrya / śaurya in king contexts. Iqbal's Urdu has courage motifs. Test cross-tradition surface."
@@ -121,8 +201,14 @@
       "id": "needle-theme-debt",
       "category": "needle: vague thematic",
       "prompt": "Several works in the corpus discuss the legal procedures around debt — lending, interest, recovery. Find them and tell me which work has the most detailed treatment.",
-      "expected_tool_calls": ["search_corpus", "get_metadata"],
-      "expected_answer_contains": ["Bṛhaspati", "Kātyāyana"],
+      "expected_tool_calls": [
+        "search_corpus",
+        "get_metadata"
+      ],
+      "expected_answer_contains": [
+        "Bṛhaspati",
+        "Kātyāyana"
+      ],
       "expects_citation": true,
       "notes": "Sanskrit dharmaśāstras have rich debt-law sections. Bṛhaspati Smṛti devotes much of its 'vyavahāra' (legal procedure) section to debt. Kātyāyana Smṛti has multiple sections on debt recovery, interest measure, pledges."
     },
@@ -130,28 +216,54 @@
       "id": "needle-theme-european-political-economy",
       "category": "needle: vague thematic",
       "prompt": "Which works in the corpus discuss European political economy or legislation as a subject? List authors, eras, and key works without inventing anything.",
-      "expected_tool_calls": ["list_works", "search_corpus"],
-      "expected_answer_contains": ["Comte", "Dunoyer"],
+      "expected_tool_calls": [
+        "list_works",
+        "search_corpus"
+      ],
+      "expected_answer_contains": [
+        "Comte",
+        "Dunoyer"
+      ],
       "expects_citation": false,
-      "must_not_hallucinate": ["Adam Smith", "Karl Marx", "John Stuart Mill", "David Ricardo"],
+      "must_not_hallucinate": [
+        "Adam Smith",
+        "Karl Marx",
+        "John Stuart Mill",
+        "David Ricardo"
+      ],
       "notes": "Charles Comte (Traité de Législation, Traité de la Propriété) and Charles Dunoyer (Nouveau traité d'économie) — both 19th-century French liberal economists. Common hallucination: Adam Smith / Marx / Mill (NOT in corpus)."
     },
     {
       "id": "factual-cynewulf-works",
       "category": "factual lookup",
       "prompt": "What works did Cynewulf write that are in the Falsafa corpus?",
-      "expected_tool_calls": ["list_works"],
-      "expected_answer_contains": ["Andreas", "Elene", "Juliana"],
+      "expected_tool_calls": [
+        "list_works"
+      ],
+      "expected_answer_contains": [
+        "Andreas",
+        "Elene",
+        "Juliana"
+      ],
       "expects_citation": false,
-      "must_not_hallucinate": ["Christ II", "Fates of the Apostles"],
+      "must_not_hallucinate": [
+        "Christ II",
+        "Fates of the Apostles"
+      ],
       "notes": "Falsafa has 3 Cynewulf works (Andreas, Elene, Juliana). Real-world Cynewulf signed 4 poems but only 3 are in this corpus. Test: list ONLY what's in corpus."
     },
     {
       "id": "factual-corpus-counts",
       "category": "factual lookup",
       "prompt": "How many works total are in the Falsafa corpus, and roughly how are they distributed across eras?",
-      "expected_tool_calls": ["list_works"],
-      "expected_answer_contains": ["38", "Medieval", "Ancient"],
+      "expected_tool_calls": [
+        "list_works"
+      ],
+      "expected_answer_contains": [
+        "38",
+        "Medieval",
+        "Ancient"
+      ],
       "expects_citation": false,
       "notes": "38 works; era distribution: Ancient 9, Medieval 15, Enlightenment 7, 19th Century 4, 20th Century 3."
     },
@@ -159,18 +271,30 @@
       "id": "factual-comte-volumes",
       "category": "factual lookup",
       "prompt": "How many volumes of Charles Comte's writings are in the corpus, and what are the titles?",
-      "expected_tool_calls": ["list_works"],
-      "expected_answer_contains": ["Législation", "Propriété"],
+      "expected_tool_calls": [
+        "list_works"
+      ],
+      "expected_answer_contains": [
+        "Législation",
+        "Propriété"
+      ],
       "expects_citation": false,
-      "must_not_hallucinate": ["Auguste Comte"],
+      "must_not_hallucinate": [
+        "Auguste Comte"
+      ],
       "notes": "6 volumes — Traité de Législation Vols I-IV, Traité de la Propriété Vols I-II. NOT Auguste Comte."
     },
     {
       "id": "factual-manusmrti-chapters",
       "category": "factual lookup",
       "prompt": "How many chapters does Manusmṛti have in the Falsafa corpus, and what's chapter 1 about?",
-      "expected_tool_calls": ["list_chapters", "read_chapter"],
-      "expected_answer_contains": ["12"],
+      "expected_tool_calls": [
+        "list_chapters",
+        "read_chapter"
+      ],
+      "expected_answer_contains": [
+        "12"
+      ],
       "expects_citation": true,
       "notes": "Manusmrti has 12 chapters per the split. Chapter 1 = creation narrative (Manu addressing the sages, cosmogony)."
     },
@@ -178,8 +302,15 @@
       "id": "factual-iqbal-bang-e-dara-parts",
       "category": "factual lookup",
       "prompt": "Iqbal's Bang-E-Dara is in the corpus. How is it structured — is it one work or multiple, and how many ghazals/sections per part?",
-      "expected_tool_calls": ["list_works", "list_chapters"],
-      "expected_answer_contains": ["Part 1", "Part 2", "Part 3"],
+      "expected_tool_calls": [
+        "list_works",
+        "list_chapters"
+      ],
+      "expected_answer_contains": [
+        "Part 1",
+        "Part 2",
+        "Part 3"
+      ],
       "expects_citation": false,
       "notes": "Bang-E-Dara is split across 3 works (Part 1, 2, 3) with ~28-45 chapters each. The convert pipeline kept the source's part structure."
     },
@@ -187,8 +318,15 @@
       "id": "citation-andreas-opening-exact",
       "category": "citation precision",
       "prompt": "Quote me the exact first 6 lines of Andreas chapter 1, in English. I need it byte-accurate, not paraphrased.",
-      "expected_tool_calls": ["read_chapter"],
-      "expected_answer_contains": ["heroes", "thanes", "turning stars", "champions"],
+      "expected_tool_calls": [
+        "read_chapter"
+      ],
+      "expected_answer_contains": [
+        "heroes",
+        "thanes",
+        "turning stars",
+        "champions"
+      ],
       "expects_citation": true,
       "notes": "Test verbatim recall — should call read_chapter and quote, not paraphrase."
     },
@@ -196,8 +334,16 @@
       "id": "citation-manu-1-1",
       "category": "citation precision",
       "prompt": "What does verse Mn_1.1 of Manusmrti say in English? Quote it exactly.",
-      "expected_tool_calls": ["read_chapter", "get_passage"],
-      "expected_answer_contains": ["sages", "Manu", "concentrated", "honored"],
+      "expected_tool_calls": [
+        "read_chapter",
+        "get_passage"
+      ],
+      "expected_answer_contains": [
+        "sages",
+        "Manu",
+        "concentrated",
+        "honored"
+      ],
       "expects_citation": true,
       "notes": "Mn_1.1 = the framing verse where the great sages approach Manu seated in concentration."
     },
@@ -205,8 +351,13 @@
       "id": "citation-ghalib-168-couplet",
       "category": "citation precision",
       "prompt": "Quote me the first couplet of Ghalib's ghazal at chapter 168 of Diwan-E-Ghalib, in English translation.",
-      "expected_tool_calls": ["read_chapter"],
-      "expected_answer_contains": ["place", "alone"],
+      "expected_tool_calls": [
+        "read_chapter"
+      ],
+      "expected_answer_contains": [
+        "place",
+        "alone"
+      ],
       "expects_citation": true,
       "notes": "Diwan-E-Ghalib ch.168 = 'Rahiye ab aisi jagah'. English first couplet: 'Let's find a place where no one else is known, and be alone.'"
     },
@@ -214,8 +365,14 @@
       "id": "citation-iqbal-bang-1-1",
       "category": "citation precision",
       "prompt": "What's the first chapter of Iqbal's Bang-E-Dara Part 1 about? Quote the opening couplet in English translation.",
-      "expected_tool_calls": ["list_chapters", "read_chapter"],
-      "expected_answer_contains": ["piety", "enmity"],
+      "expected_tool_calls": [
+        "list_chapters",
+        "read_chapter"
+      ],
+      "expected_answer_contains": [
+        "piety",
+        "enmity"
+      ],
       "expects_citation": true,
       "notes": "Bang-E-Dara Pt1 ch.1 = 'Ajab waaiz ki deen-daari hai ya Rabb'. English: 'What wondrous piety, for all to see, He holds the entire world in enmity.'"
     },
@@ -223,18 +380,32 @@
       "id": "citation-andreas-original-text",
       "category": "citation precision",
       "prompt": "Show me the original (Old English) text of the opening of Andreas, NOT the English translation. I want the source text exactly as written.",
-      "expected_tool_calls": ["read_chapter"],
-      "expected_answer_contains": ["Hwæt", "we"],
+      "expected_tool_calls": [
+        "read_chapter"
+      ],
+      "expected_answer_contains": [
+        "Hwæt",
+        "we"
+      ],
       "expects_citation": true,
-      "must_not_hallucinate": ["heroes in ages past"],
+      "must_not_hallucinate": [
+        "heroes in ages past"
+      ],
       "notes": "Tests whether the LLM correctly switches variant=original to get Old English source. The OE opening is 'Hwæt! We gefrunan...' Failing case: returns the English translation."
     },
     {
       "id": "comparative-cynewulf-iqbal-divine",
       "category": "cross-tradition comparison",
       "prompt": "Compare how Cynewulf's Andreas and Iqbal's Bang-E-Dara approach the relationship between human action and the divine. Cite specific chapters.",
-      "expected_tool_calls": ["search_corpus", "compare_works", "read_chapter"],
-      "expected_answer_contains": ["Andreas", "Iqbal"],
+      "expected_tool_calls": [
+        "search_corpus",
+        "compare_works",
+        "read_chapter"
+      ],
+      "expected_answer_contains": [
+        "Andreas",
+        "Iqbal"
+      ],
       "expects_citation": true,
       "notes": "Open-ended comparison. Andreas: Christian missionary martyrdom, divine mission. Iqbal: Sufi-tinged commentary on faith/society. Judge: does the answer engage both works substantively?"
     },
@@ -242,8 +413,12 @@
       "id": "comparative-dharma-east-west",
       "category": "cross-tradition comparison",
       "prompt": "The Sanskrit smṛtis discuss dharma extensively. Are there any analogous concepts of moral law or duty in the European works in the corpus? Compare with examples.",
-      "expected_tool_calls": ["search_corpus"],
-      "expected_answer_contains": ["dharma"],
+      "expected_tool_calls": [
+        "search_corpus"
+      ],
+      "expected_answer_contains": [
+        "dharma"
+      ],
       "expects_citation": true,
       "notes": "Cross-tradition: dharma (Sanskrit) vs Comte/Dunoyer's natural-law liberalism vs Fichte's Kantian freedom-of-thought."
     },
@@ -251,8 +426,14 @@
       "id": "comparative-ghalib-zauq-style",
       "category": "cross-tradition comparison",
       "prompt": "Both Ghalib and Zauq wrote Urdu ghazals in the 19th century. They were rivals and contemporaries. Find a chapter from each in the corpus and compare their styles or themes.",
-      "expected_tool_calls": ["compare_works", "read_chapter"],
-      "expected_answer_contains": ["Ghalib", "Zauq"],
+      "expected_tool_calls": [
+        "compare_works",
+        "read_chapter"
+      ],
+      "expected_answer_contains": [
+        "Ghalib",
+        "Zauq"
+      ],
       "expects_citation": true,
       "notes": "Cross-author comparative. Both have their full Diwans in the corpus."
     },
@@ -260,7 +441,10 @@
       "id": "comparative-related-andreas",
       "category": "cross-tradition comparison",
       "prompt": "If a reader loved Andreas, what other chapters in the corpus would you recommend, and why? Use the find_related tool.",
-      "expected_tool_calls": ["find_related", "read_chapter"],
+      "expected_tool_calls": [
+        "find_related",
+        "read_chapter"
+      ],
       "expected_answer_contains": [],
       "expects_citation": true,
       "notes": "Tests find_related. Should surface Cynewulf's other poems (same author), other Old English works, or content-similar matches via TF-IDF."
@@ -269,7 +453,10 @@
       "id": "multistep-mention-divine-wordcount",
       "category": "multi-step reasoning",
       "prompt": "Of all the works in the corpus that mention 'divine', which has the highest total word count? You'll need to search and then check word counts.",
-      "expected_tool_calls": ["search_corpus", "get_metadata"],
+      "expected_tool_calls": [
+        "search_corpus",
+        "get_metadata"
+      ],
       "expected_answer_contains": [],
       "expects_citation": false,
       "notes": "Multi-step: search → identify works → fetch metadata word_count → compare."
@@ -278,7 +465,11 @@
       "id": "multistep-three-variant-works",
       "category": "multi-step reasoning",
       "prompt": "Which works in the corpus ship with all THREE variants (original-script + romanized transliteration + English translation), as opposed to just two? List them.",
-      "expected_tool_calls": ["list_works", "list_chapters", "get_metadata"],
+      "expected_tool_calls": [
+        "list_works",
+        "list_chapters",
+        "get_metadata"
+      ],
       "expected_answer_contains": [],
       "expects_citation": false,
       "notes": "Iqbal Bang-E-Dara parts have all 3 (Urdu nastaliq + romanized + English). Ghalib does. Sanskrit smṛtis. Many Sundanese works are 2-variant."
@@ -287,7 +478,9 @@
       "id": "multistep-medieval-philosophy-shortest",
       "category": "multi-step reasoning",
       "prompt": "Among medieval-era works in the corpus that are tagged as Philosophy, which has the fewest chapters?",
-      "expected_tool_calls": ["list_works"],
+      "expected_tool_calls": [
+        "list_works"
+      ],
       "expected_answer_contains": [],
       "expects_citation": false,
       "notes": "Filter chain: era=Medieval AND genre=Philosophy, then sort by total_logical_chapters."
@@ -296,8 +489,15 @@
       "id": "multistep-cynewulf-trilogy-themes",
       "category": "multi-step reasoning",
       "prompt": "Cynewulf wrote 3 poems in the corpus. List their titles AND give a one-sentence theme or subject of each, based on actual content (not just the title). Cite a chapter for each claim.",
-      "expected_tool_calls": ["list_works", "read_chapter"],
-      "expected_answer_contains": ["Andreas", "Elene", "Juliana"],
+      "expected_tool_calls": [
+        "list_works",
+        "read_chapter"
+      ],
+      "expected_answer_contains": [
+        "Andreas",
+        "Elene",
+        "Juliana"
+      ],
       "expects_citation": true,
       "notes": "Three reads required, one per work. Andreas = Andrew the apostle in Mermedonia. Elene = Helena finding the True Cross. Juliana = St. Juliana's martyrdom."
     },
@@ -305,58 +505,109 @@
       "id": "negative-tamil",
       "category": "negative / hallucination guard",
       "prompt": "What works in Tamil are in the Falsafa corpus?",
-      "expected_tool_calls": ["list_works"],
-      "expected_answer_contains": ["no"],
+      "expected_tool_calls": [
+        "list_works"
+      ],
+      "expected_answer_contains": [
+        "no"
+      ],
       "expects_citation": false,
-      "must_not_hallucinate": ["Tirukkural", "Sangam", "Kambar", "Tolkappiyam"],
+      "must_not_hallucinate": [
+        "Tirukkural",
+        "Sangam",
+        "Kambar",
+        "Tolkappiyam"
+      ],
       "notes": "Falsafa has zero Tamil works. The LLM should report empty cleanly, not invent Tamil works. Famous Tamil works (Tirukkural, Sangam poetry) often hallucinated."
     },
     {
       "id": "negative-greek-philosophy",
       "category": "negative / hallucination guard",
       "prompt": "Does the Falsafa corpus include any of the dialogues of Plato, or any Greek philosophical works?",
-      "expected_tool_calls": ["list_works"],
-      "expected_answer_contains": ["no"],
+      "expected_tool_calls": [
+        "list_works"
+      ],
+      "expected_answer_contains": [
+        "no"
+      ],
       "expects_citation": false,
-      "must_not_hallucinate": ["Republic", "Symposium", "Aristotle", "Nicomachean"],
+      "must_not_hallucinate": [
+        "Republic",
+        "Symposium",
+        "Aristotle",
+        "Nicomachean"
+      ],
       "notes": "No Greek works in corpus. Common hallucinations: Plato dialogues, Aristotle's Ethics."
     },
     {
       "id": "negative-arabic-original",
       "category": "negative / hallucination guard",
       "prompt": "Does the corpus contain any works originally written in Arabic?",
-      "expected_tool_calls": ["list_works"],
-      "expected_answer_contains": ["no"],
+      "expected_tool_calls": [
+        "list_works"
+      ],
+      "expected_answer_contains": [
+        "no"
+      ],
       "expects_citation": false,
-      "must_not_hallucinate": ["Quran", "Hadith", "Ibn Sina", "Al-Ghazali", "Rumi"],
+      "must_not_hallucinate": [
+        "Quran",
+        "Hadith",
+        "Ibn Sina",
+        "Al-Ghazali",
+        "Rumi"
+      ],
       "notes": "Languages in corpus are: French, German, Kawi, Sanskrit, Urdu, Old English. NO Arabic. Iqbal wrote in Urdu, not Arabic."
     },
     {
       "id": "negative-modern-fiction",
       "category": "negative / hallucination guard",
       "prompt": "Are there any 20th-century novels in the Falsafa corpus?",
-      "expected_tool_calls": ["list_works"],
-      "expected_answer_contains": ["no"],
+      "expected_tool_calls": [
+        "list_works"
+      ],
+      "expected_answer_contains": [
+        "no"
+      ],
       "expects_citation": false,
-      "must_not_hallucinate": ["Joyce", "Proust", "Kafka", "Tolstoy", "Dostoevsky"],
+      "must_not_hallucinate": [
+        "Joyce",
+        "Proust",
+        "Kafka",
+        "Tolstoy",
+        "Dostoevsky"
+      ],
       "notes": "20th-century works in corpus: Iqbal Bang-E-Dara parts (poetry, NOT novels). No novels."
     },
     {
       "id": "negative-quantum-mechanics",
       "category": "negative / hallucination guard",
       "prompt": "Does the corpus discuss quantum mechanics, particle physics, or scientific cosmology?",
-      "expected_tool_calls": ["search_corpus"],
-      "expected_answer_contains": ["no"],
+      "expected_tool_calls": [
+        "search_corpus"
+      ],
+      "expected_answer_contains": [
+        "no"
+      ],
       "expects_citation": false,
-      "must_not_hallucinate": ["Einstein", "Planck", "Heisenberg"],
+      "must_not_hallucinate": [
+        "Einstein",
+        "Planck",
+        "Heisenberg"
+      ],
       "notes": "No science works in corpus. The smṛtis have cosmogonic narratives (Brahma's day, the cosmic Boar) but those are religious cosmology, not physics."
     },
     {
       "id": "edge-out-of-range-chapter",
       "category": "edge / error handling",
       "prompt": "Show me chapter 999 of Andreas.",
-      "expected_tool_calls": ["read_chapter", "list_chapters"],
-      "expected_answer_contains": ["does not exist"],
+      "expected_tool_calls": [
+        "read_chapter",
+        "list_chapters"
+      ],
+      "expected_answer_contains": [
+        "does not exist"
+      ],
       "expects_citation": false,
       "notes": "Andreas is single-chapter. Chapter 999 should produce a typed CHAPTER_OUT_OF_RANGE error. The LLM should explain the error gracefully, not retry forever."
     },
@@ -364,18 +615,28 @@
       "id": "edge-invalid-language",
       "category": "edge / error handling",
       "prompt": "List all works in Klingon.",
-      "expected_tool_calls": ["list_works"],
-      "expected_answer_contains": ["no"],
+      "expected_tool_calls": [
+        "list_works"
+      ],
+      "expected_answer_contains": [
+        "no"
+      ],
       "expects_citation": false,
-      "must_not_hallucinate": ["Klingon"],
+      "must_not_hallucinate": [
+        "Klingon"
+      ],
       "notes": "Should return empty cleanly. The LLM should recognize Klingon isn't a real corpus language."
     },
     {
       "id": "edge-empty-search",
       "category": "edge / error handling",
       "prompt": "Search the corpus for chapters discussing the topic of 'xyzzy plugh frobnicate' — these are nonsense words.",
-      "expected_tool_calls": ["search_corpus"],
-      "expected_answer_contains": ["no"],
+      "expected_tool_calls": [
+        "search_corpus"
+      ],
+      "expected_answer_contains": [
+        "no"
+      ],
       "expects_citation": false,
       "notes": "Search should return 0 results. LLM should report empty without inventing matches."
     },
@@ -383,7 +644,9 @@
       "id": "filter-era-medieval",
       "category": "era / filter bounded",
       "prompt": "What philosophical or religious works in the corpus are from the medieval era?",
-      "expected_tool_calls": ["list_works"],
+      "expected_tool_calls": [
+        "list_works"
+      ],
       "expected_answer_contains": [],
       "expects_citation": false,
       "notes": "Medieval-era works: Cynewulf trilogy (3), Old English Elegies, Nyaya Tilakam, several Old Javanese tattvas, Vīramitrodaya, Kātyāyana. ~15 works."
@@ -392,8 +655,14 @@
       "id": "filter-language-sanskrit",
       "category": "era / filter bounded",
       "prompt": "List all works in the corpus whose source language is Sanskrit.",
-      "expected_tool_calls": ["list_works"],
-      "expected_answer_contains": ["Manu", "Yājñavalkya", "Smṛti"],
+      "expected_tool_calls": [
+        "list_works"
+      ],
+      "expected_answer_contains": [
+        "Manu",
+        "Yājñavalkya",
+        "Smṛti"
+      ],
       "expects_citation": false,
       "notes": "Sanskrit works: Manu, Yājñavalkya, Viṣṇu, Yama, Parāśara, Bṛhaspati, Nārada, Kātyāyana, Aṅgirasa smṛtis (9), plus Vīramitrodaya and Nyaya Tilakam."
     },
@@ -401,17 +670,29 @@
       "id": "filter-author-iqbal",
       "category": "era / filter bounded",
       "prompt": "Show me all works by Allama Iqbal in the corpus.",
-      "expected_tool_calls": ["list_works"],
-      "expected_answer_contains": ["Bang-E-Dara"],
+      "expected_tool_calls": [
+        "list_works"
+      ],
+      "expected_answer_contains": [
+        "Bang-E-Dara"
+      ],
       "expects_citation": false,
-      "must_not_hallucinate": ["Asrar-e-Khudi", "Bal-e-Jibril", "Zarb-e-Kalim"],
+      "must_not_hallucinate": [
+        "Asrar-e-Khudi",
+        "Bal-e-Jibril",
+        "Zarb-e-Kalim"
+      ],
       "notes": "Iqbal has 3 works in the corpus — Bang-E-Dara Parts 1, 2, 3. Other Iqbal works NOT in corpus."
     },
     {
       "id": "filter-content-type-original",
       "category": "era / filter bounded",
       "prompt": "Find me works that have an original-language variant available (not just the English translation), so I can read the source text. List a few examples.",
-      "expected_tool_calls": ["list_works", "list_chapters", "get_metadata"],
+      "expected_tool_calls": [
+        "list_works",
+        "list_chapters",
+        "get_metadata"
+      ],
       "expected_answer_contains": [],
       "expects_citation": false,
       "notes": "Most works have content_type='original' variants (Sanskrit Devanagari, Urdu nastaliq, OE source, French, German, Kawi)."
