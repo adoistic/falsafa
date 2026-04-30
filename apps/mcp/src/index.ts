@@ -25,6 +25,8 @@ import {
   search_corpus,
   find_related,
   compare_works,
+  read_wiki,
+  read_wiki_full,
 } from "./tools.ts";
 
 // ─────────────────────────────────────────────────────────────────────────
@@ -191,6 +193,43 @@ const tools = [
       required: ["work_slug_a", "work_slug_b"],
     },
   },
+  {
+    name: "read_wiki",
+    description:
+      "Read the wiki card for a work or specific chapter. Cheap navigation entry-point (~280 tokens). " +
+      "Use this BEFORE read_chapter to decide which chapters are worth a deep read. " +
+      "Cards are rule-based summaries (TF-IDF, TextRank, n-gram extraction) with verbatim openings, " +
+      "closings, and key passages carrying [p-XXXXXX] cite handles. " +
+      "Returns the work card when chapter_number is omitted; the chapter card when it's given.",
+    inputSchema: {
+      type: "object" as const,
+      properties: {
+        work_slug: { type: "string", description: "Work slug, e.g., 'unknown-manusmrti-347b76'" },
+        chapter_number: {
+          type: "integer",
+          description:
+            "Optional. If present, returns the chapter card; otherwise returns the work card with a chapter map.",
+        },
+      },
+      required: ["work_slug"],
+    },
+  },
+  {
+    name: "read_wiki_full",
+    description:
+      "Read the full wiki sheet — same shape as read_wiki but with the heavy statistical detail: " +
+      "n-gram tables, NPMI collocations, all refrains, TextRank top-3 + LexRank cross-check, " +
+      "boundary signals, stylometric outlier flag. ~1,500 tokens. " +
+      "Opt-in for deep analysis; most queries should call read_wiki first and only escalate when needed.",
+    inputSchema: {
+      type: "object" as const,
+      properties: {
+        work_slug: { type: "string" },
+        chapter_number: { type: "integer", description: "Optional. See read_wiki for shape." },
+      },
+      required: ["work_slug"],
+    },
+  },
 ];
 
 // ─────────────────────────────────────────────────────────────────────────
@@ -248,6 +287,20 @@ server.setRequestHandler(CallToolRequestSchema, async (request: CallToolRequest)
           (args as { work_slug_a: string }).work_slug_a,
           (args as { work_slug_b: string }).work_slug_b,
           (args as { topic?: string }).topic,
+        );
+        break;
+      case "read_wiki":
+        result = read_wiki(
+          corpus,
+          (args as { work_slug: string }).work_slug,
+          (args as { chapter_number?: number }).chapter_number,
+        );
+        break;
+      case "read_wiki_full":
+        result = read_wiki_full(
+          corpus,
+          (args as { work_slug: string }).work_slug,
+          (args as { chapter_number?: number }).chapter_number,
         );
         break;
       default:

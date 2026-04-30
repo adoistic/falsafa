@@ -721,3 +721,86 @@ export function compare_works(corpus: Corpus, work_slug_a: string, work_slug_b: 
     },
   };
 }
+
+// ─────────────────────────────────────────────────────────────────────────
+// read_wiki / read_wiki_full — surface the rule-based wiki layer
+// ─────────────────────────────────────────────────────────────────────────
+
+/**
+ * Read the wiki card for a work or specific chapter. Cheap navigation
+ * entry-point — typically ~280 tokens. Use BEFORE read_chapter to decide
+ * which chapters are worth a deep read. Each card is rule-based
+ * (TF-IDF, TextRank, n-gram extraction) and contains verbatim openings,
+ * closings, and key passages with [p-XXXXXX] cite handles.
+ *
+ * Returns work card when chapter_number is omitted; chapter card when
+ * it's given. Polymorphism here is deliberate per design D1 — same tool,
+ * two return shapes both rendered as plain markdown.
+ */
+export function read_wiki(
+  corpus: Corpus,
+  work_slug: string,
+  chapter_number?: number,
+): { markdown: string; path: string } {
+  const work = corpus.findWork(work_slug);
+  if (!work) {
+    throw new MCPError("WORK_NOT_FOUND", `Work not found: ${work_slug}`);
+  }
+  return readWikiFile(corpus, work_slug, chapter_number, "card");
+}
+
+/**
+ * Read the full wiki sheet — same as read_wiki but with the heavy
+ * statistical detail: n-gram tables, NPMI collocations, all refrains,
+ * TextRank top-3 + LexRank cross-check, boundary signals, stylometric
+ * outlier flag. ~1,500 tokens. Opt-in for deep analysis; most queries
+ * should use read_wiki first and only escalate when needed.
+ */
+export function read_wiki_full(
+  corpus: Corpus,
+  work_slug: string,
+  chapter_number?: number,
+): { markdown: string; path: string } {
+  const work = corpus.findWork(work_slug);
+  if (!work) {
+    throw new MCPError("WORK_NOT_FOUND", `Work not found: ${work_slug}`);
+  }
+  return readWikiFile(corpus, work_slug, chapter_number, "full");
+}
+
+function readWikiFile(
+  corpus: Corpus,
+  work_slug: string,
+  chapter_number: number | undefined,
+  variant: "card" | "full",
+): { markdown: string; path: string } {
+  const wikiDir = join(corpus.rootPath, "works", work_slug, "wiki");
+  if (!existsSync(wikiDir)) {
+    throw new MCPError(
+      "WIKI_NOT_BUILT",
+      `Wiki not built for ${work_slug}. Run: bun run scripts/build-wiki.ts --work ${work_slug}`,
+    );
+  }
+
+  let filename: string;
+  if (chapter_number === undefined) {
+    filename = `_work.${variant}.md`;
+  } else {
+    // Resolve chapter_number → chapter_slug via Corpus
+    const meta = corpus.getChapterMeta(work_slug, chapter_number);
+    filename = `${meta.chapter_slug}.${variant}.md`;
+  }
+
+  const fullPath = join(wikiDir, filename);
+  if (!existsSync(fullPath)) {
+    throw new MCPError(
+      "WIKI_FILE_MISSING",
+      `Wiki ${variant} missing: ${filename}. Run: bun run scripts/build-wiki.ts --work ${work_slug}`,
+    );
+  }
+
+  const markdown = readFileSync(fullPath, "utf-8");
+  // Return path relative to corpus root for brevity / portability
+  const relativePath = `works/${work_slug}/wiki/${filename}`;
+  return { markdown, path: relativePath };
+}
