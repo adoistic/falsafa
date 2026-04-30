@@ -1,0 +1,187 @@
+{
+  "answer": "**No work in the Falsafa corpus uses the figure of fire (literal, metaphorical, or symbolic) as its singular central theme or structuring device.** \n\nFire appears frequently but peripherally across several texts:\n\n- **Āṅgirasa Smṛti** (most prominently): Fire is integral to Vedic rituals—e.g., sacred (*aupāsana*), sacrificial, and *śrāddha* fires for offerings, purification, and ancestral rites—but serves as one element among many dharma prescriptions, not the defining figure.[^1][^2]\n- **Cynewulf's Andreas**: Bale-fire symbolizes hellish torment and apocalyptic strife (e.g., \"bale-fire’s torment, hot in hell\"), akin to heroic imagery, but the poem centers on St. Andrew's trials.[^3]\n- **Allama Iqbal's Bang-e-Dara (Parts 1–3)**: Fire recurs poetically as love, passion, ego-annihilation, or light (e.g., firefly/*Jugnu*, candle/*Shama*, moth-flame, inner fire), a Sufi motif amid broader themes of faith and renaissance. Specific poems like \"Jugnu\" elevate it, but not the collections.[^4][^5]\n\nOther mentions (e.g., *Manusmṛti*, *Juliana*) are incidental (hellfire, pyres). The corpus lacks a work like Heraclitus' fragments or a fire-centric allegory.\n\n[^1]: *Āṅgirasa Smṛti*, Ch. 1 (/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-d38615).\n[^2]: *Āṅgirasa Smṛti*, Ch. 1 (/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-00ce10).\n[^3]: *Andreas*, Ch. 1 (/works/cynewulf-andreas-07b573/01/translation/#p-51b3f4).\n[^4]: *Bang-E-Dara Part 1*, Ch. 27 (/works/allama-iqbal-bang-e-dara-part-1-55b25c/27-jugnu/translation/#p-2eeb8b).\n[^5]: *Bang-E-Dara Part 3*, Ch. 4 (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-d9eda1).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fire",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sacrificial fire\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hell fire\" OR \"bale fire\" OR \"fire torment\"",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-d38615"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-00ce10"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-51b3f4"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-2eeb8b"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-d9eda1"
+    }
+  ],
+  "duration_ms": 62260,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 74299,
+    "completion_tokens": 5318,
+    "total_tokens": 79617,
+    "cached_tokens": 45812,
+    "api_calls": 4,
+    "cost_usd": 0.010647,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1900,
+        "completion_tokens": 515,
+        "total_tokens": 2415,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003552
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 17096,
+        "completion_tokens": 1525,
+        "total_tokens": 18621,
+        "cached_tokens": 150,
+        "cost_usd": 0.0041592
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 26694,
+        "completion_tokens": 1337,
+        "total_tokens": 28031,
+        "cached_tokens": 17091,
+        "cost_usd": 0.00344365
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 28609,
+        "completion_tokens": 1941,
+        "total_tokens": 30550,
+        "cached_tokens": 26689,
+        "cost_usd": 0.00268895
+      }
+    ]
+  }
+}

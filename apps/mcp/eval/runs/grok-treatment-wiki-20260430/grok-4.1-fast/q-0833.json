@@ -1,0 +1,97 @@
+{
+  "answer": "**Viṣṇu Smṛti chapter 89** discusses the month of *Kārttika* (कार्तिक), assigning it to the deity Agni and outlining the spiritual merits of daily bathing, prayer recitation, and self-control during that month, which frees one from sins.[^1]\n\nThe chapter is brief (5 verses, ~98 words). It opens by naming the chapter and closes with the benefits of these rituals.[^2]\n\n[^1]: Viṣṇu Smṛti, ch. 89, key passage [p-9b795e](/works/unknown-visnu-smrti-27f0d8/89/translation/#p-9b795e).\n[^2]: Viṣṇu Smṛti, ch. 89, opening [p-c3a34c](/works/unknown-visnu-smrti-27f0d8/89/translation/#p-c3a34c) and closing [p-405f67](/works/unknown-visnu-smrti-27f0d8/89/translation/#p-405f67).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Visnu Smriti",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 89
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Viṣṇu Smṛti · ch.89\\nverse · 5¶ · 98w · vocab 38 (TTR 73%, hapax 76%)\\n\\n## Distinctive trigrams\\n\\\"month *kārttika* कार्तिक\\\" · \\\"**vishnu s"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-9b795e"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-c3a34c"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-405f67"
+    }
+  ],
+  "duration_ms": 19002,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 7846,
+    "completion_tokens": 1594,
+    "total_tokens": 9440,
+    "cached_tokens": 2181,
+    "api_calls": 3,
+    "cost_usd": 0.00203905,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1897,
+        "completion_tokens": 707,
+        "total_tokens": 2604,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007104
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2757,
+        "completion_tokens": 293,
+        "total_tokens": 3050,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00041575
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 3192,
+        "completion_tokens": 594,
+        "total_tokens": 3786,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009129
+      }
+    ]
+  }
+}

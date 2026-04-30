@@ -1,0 +1,187 @@
+{
+  "answer": "In Urdu poetry, *naseeb* (nasīb, lit. \"share\" or \"portion,\" from Arabic roots implying an allotted lot from God or destiny) often carries an intimate, personified agency—as if one's personal destiny is an active bestower or extractor of fortune/misfortune—beyond the more abstract, impersonal inevitability of English \"fate.\" It evokes a relational dynamic, like a portion handed out (or snatched back) by a willful divine hand, blending predestination with emotional intimacy.[^1]\n\nConsider this *sher* (couplet) from Sheikh Ibrahim Zauq's *Diwan-E-Zauq*:\n\n**Transliteration:**  \nShab-e-vasl ke roz-e-firaq mein kya kya  \nNaseeb mujh se mere inteqaam lete hain[^2]\n\n**Translation:**  \nFor one brief night of union, my fates exact their shame;  \nThrough endless days of parting, my revenge they claim, is what they take.[^3]\n\nHere, *naseeb* acts directly on the speaker (\"mujh se ... lete hain\": \"from me ... they take\"), personified as extracting *inteqaam* (revenge) across days of separation after a night of union. English \"fate\" *partially* lets this agency through if pluralized as \"fates\" and paired with vivid verbs like \"exact\" or \"claim\"—as the translator does—but loses the connotation of a bespoke, God-given \"share\" that's intimately tied to the lover's plight, feeling more mechanical than relationally possessive.[^4]\n\n[^1]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch. 8 \"Balaaein aankhon se un ki madaam lete hain\" [translation](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/08-balaaein-aankhon-se-un-ki-madaam-lete-hain/translation/).\n[^2]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch. 8 \"Balaaein aankhon se un ki madaam lete hain\" [transliteration](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/08-balaaein-aankhon-se-un-ki-madaam-lete-hain/transliteration/#p-e12715).\n[^3]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch. 8 \"Balaaein aankhon se un ki madaam lete hain\" [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/08-balaaein-aankhon-se-un-ki-madaam-lete-hain/translation/#p-866af5).\n[^4]: Ibid.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naseeb",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"naseeb\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nasib",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 8,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.8 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 21,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-866af5",
+          "p-e12715"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-866af5"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-e12715"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 8,
+      "paragraph_id": "p-e12715"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 8,
+      "paragraph_id": "p-866af5"
+    }
+  ],
+  "duration_ms": 38911,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 24166,
+    "completion_tokens": 4611,
+    "total_tokens": 28777,
+    "cached_tokens": 14635,
+    "api_calls": 4,
+    "cost_usd": 0.00494345,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1933,
+        "completion_tokens": 493,
+        "total_tokens": 2426,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00035095
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4633,
+        "completion_tokens": 1161,
+        "total_tokens": 5794,
+        "cached_tokens": 150,
+        "cost_usd": 0.0014846
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 7981,
+        "completion_tokens": 1330,
+        "total_tokens": 9311,
+        "cached_tokens": 4628,
+        "cost_usd": 0.001567
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_wiki"
+        ],
+        "prompt_tokens": 9619,
+        "completion_tokens": 1627,
+        "total_tokens": 11246,
+        "cached_tokens": 7976,
+        "cost_usd": 0.0015409
+      }
+    ]
+  }
+}

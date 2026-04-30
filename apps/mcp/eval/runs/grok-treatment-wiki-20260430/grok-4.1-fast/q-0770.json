@@ -1,0 +1,175 @@
+{
+  "answer": "**Chapter 4 of *Kalpabuddha*** (a Medieval Kawi prose text) sets out an esoteric doctrine describing the attributes and bodily location of the deity **Lord Amitābha**.[^1]\n\nThis short chapter (72 words, 2 paragraphs) details:\n- **Direction**: West.\n- **Color**: Red.\n- **Consort (`devī`)**: Lady Pāṇḍaravāsinī.\n- **Mantra**: Hrīḥ.\n- **Jñāna** (wisdom): `pratyavekṣaṇa` (introspective insight).\n- **Mudrā** (seal/gesture): `dhyāna` (meditation).\n- **Implement**: `nāgapāśa` (nāga noose).\n- **Heaven**: Sukhāvatī (Pure Land).\n- **Accompanying deities**: Lords Vajradharma, Vajratīkṣṇa, Vajraketu, Vajrabhāsa.\n- **Bodily abode**: Inside the liver.[^2]\n\nThis fits a tantric Buddhist framework mapping deities to directions, colors, and internal body sites (chakras/organs), akin to other chapters (e.g., ch.2–5 describe similar lords like Ratnasambhava).[^3]\n\n[^1]: *Kalpabuddha*, ch.4 (full chapter).[/works/unknown-kalpabuddha-d760dc/04/translation/]\n[^2]: *Kalpabuddha*, ch.4, [p-60c6c3](/works/unknown-kalpabuddha-d760dc/04/translation/#p-60c6c3).\n[^3]: *Kalpabuddha*, work wiki (chapter map + nearest chapters).[/works/unknown-kalpabuddha-d760dc/wiki/_work.card.md]",
+  "tool_calls": [
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "kalpabuddha",
+        "chapter_number": 4
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: kalpabuddha"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kalpabuddha"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kalpa Buddha"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chapter 4\" kalpabuddha"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kalpabuddha · ch.4\\nprose · 2¶ · 72w · vocab 33 (TTR 73%, hapax 94%)\\n\\n## Distinctive trigrams\\n\\\"### paragraph lord\\\" · \\\"paragraph lord amitābha"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "{\"markdown\":\"# Kalpabuddha\\nUnknown · Medieval · kawi · prose · 6 chapters · 535 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"### paragraph lord\\\" · \\\"his abode ###\\\" · "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "Listed 6 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-fcacdd",
+          "p-60c6c3"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 4,
+      "paragraph_id": "p-60c6c3"
+    }
+  ],
+  "duration_ms": 35688,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 30608,
+    "completion_tokens": 3975,
+    "total_tokens": 34583,
+    "cached_tokens": 16055,
+    "api_calls": 6,
+    "cost_usd": 0.00570085,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1900,
+        "completion_tokens": 709,
+        "total_tokens": 2609,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00045235
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 1969,
+        "completion_tokens": 337,
+        "total_tokens": 2306,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005398
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5552,
+        "completion_tokens": 188,
+        "total_tokens": 5740,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011819
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6437,
+        "completion_tokens": 372,
+        "total_tokens": 6809,
+        "cached_tokens": 5547,
+        "cost_usd": 0.00064135
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7224,
+        "completion_tokens": 919,
+        "total_tokens": 8143,
+        "cached_tokens": 6432,
+        "cost_usd": 0.0009395
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 7526,
+        "completion_tokens": 1450,
+        "total_tokens": 8976,
+        "cached_tokens": 1895,
+        "cost_usd": 0.00194595
+      }
+    ]
+  }
+}

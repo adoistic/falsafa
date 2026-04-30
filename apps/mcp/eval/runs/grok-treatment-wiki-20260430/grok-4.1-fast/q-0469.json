@@ -1,0 +1,309 @@
+{
+  "answer": "**Old English Elegies** (Unknown, Medieval) is a collection of poems that centrally features meditations on the transience of earthly life, glory, wealth, and human endeavors, often contrasted with enduring fate (*wyrd*) or divine order. Iconic examples include *The Ruin* (ch. 16), which contemplates the decay of ancient Roman structures as a symbol of inevitable decline—\"Wondrous is this wall-stone, by Wyrd broken; / Strongholds shattered, the work of giants crumbles\"—and the broader elegiac mode across poems like *The Wanderer* and *The Seafarer*, emphasizing exile, loss, and the fleeting nature of joy.[^1][^2]\n\n**Viṣṇu Smṛti** (Ancient Indic) contains an extended ascetic meditation on impermanence (*anitya*) in Chapter 96, instructing the renunciant to contemplate \"the impermanence of the world,\" the body's impurity and decay (old age, disease, birth pangs, etc.), and the absence of lasting happiness in saṃsāra: \"Thus, in this ever-flowing world, there is no happiness whatsoever. / And whatever is called happiness... that too is impermanent.\" This forms part of yogic practices (breath-control, concentration, meditation) to detach from transient phenomena.[^3]\n\nNo other works in the corpus contain explicit or sustained meditations on transience (e.g., no Ecclesiastes-style \"vanity of vanities\"; searches for related terms like *ephemeral*, *passing away*, *fleeting nature*, or *wyrd* in context yielded only incidental or non-meditative uses, such as in poetry or economic texts). The 37-work corpus focuses heavily on law, poetry, and theory, with limited Buddhist/Christian ubi sunt traditions.\n\n[^1]: *Old English Elegies*, ch. 16 (*The Ruin*), translation, [full chapter](/works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgsted/translation/).\n\n[^2]: *Old English Elegies*, work description and wiki: themes of \"transience of earthly life\"; ch. 3 excerpt on exile's endless sorrow, [p-23cb49](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/#p-23cb49).\n\n[^3]: *Viṣṇu Smṛti*, ch. 96, translation, [p-06324d](/works/unknown-visnu-smrti-27f0d8/96/translation/#p-06324d); [full chapter](/works/unknown-visnu-smrti-27f0d8/96/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "transience",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "impermanence",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"all things pass\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nothing lasts\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fleeting nature\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vanity",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vanity of vanities\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ephemeral",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"passing away\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 96
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.96\\nverse · 5¶ · 1384w · vocab 449 (TTR 64%, hapax 82%)\\n\\n## Distinctive trigrams\\n\\\"his dwelling vi_96\\\" · \\\"great pain vi_96"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 1
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 01-fela-bith-on-foldan-forthgesynra-geongra-geofona-t.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "transient",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "transitory",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fleeting life\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"earthly glory\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wyrd",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"all is vanity\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16
+      },
+      "result_summary": "Read ch.16 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 17
+      },
+      "result_summary": "Read ch.17 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 96
+      },
+      "result_summary": "Read ch.96 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "meditation",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"contemplate the\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 96,
+      "paragraph_id": "p-23cb49"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 96,
+      "paragraph_id": "p-06324d"
+    }
+  ],
+  "duration_ms": 43922,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 48452,
+    "completion_tokens": 4936,
+    "total_tokens": 53388,
+    "cached_tokens": 23117,
+    "api_calls": 4,
+    "cost_usd": 0.00869085,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1900,
+        "completion_tokens": 887,
+        "total_tokens": 2787,
+        "cached_tokens": 150,
+        "cost_usd": 0.000801
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 8939,
+        "completion_tokens": 1421,
+        "total_tokens": 10360,
+        "cached_tokens": 1888,
+        "cost_usd": 0.0022151
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12150,
+        "completion_tokens": 1193,
+        "total_tokens": 13343,
+        "cached_tokens": 8934,
+        "cost_usd": 0.0016864
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 25463,
+        "completion_tokens": 1435,
+        "total_tokens": 26898,
+        "cached_tokens": 12145,
+        "cost_usd": 0.00398835
+      }
+    ]
+  }
+}

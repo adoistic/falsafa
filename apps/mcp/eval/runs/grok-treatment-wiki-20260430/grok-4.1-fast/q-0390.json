@@ -1,0 +1,273 @@
+{
+  "answer": "**Manusmṛti, Yājñavalkya Smṛti, and Viṣṇu Smṛti** are composed entirely in verse (śloka/anuṣṭubh meter), while **Nāradasmṛti** is in prose.[^1][^2][^3][^4] All four are Dharmaśāstras treating legal topics (*vyavahāra*) such as debts, deposits, witnesses, inheritance, assault, theft, adultery, and punishments, alongside broader duties (*ācāra*).\n\nNo text in the corpus explicitly analyzes how verse vs. prose relates to legal content. However, observable patterns emerge:\n\n- **Verse works (Manusmṛti, Yājñavalkya, Viṣṇu)** blend *vyavahāra* with cosmology, varṇa duties, rituals, and ethics. E.g., Manusmṛti Ch. 8 details judicial procedure (*rājadharma*, witnesses, ordeals, debts) amid kingship and varṇa rules;[^5] Yājñavalkya Ch. 2 covers procedure (*vyavahārādhyāya*: plaints, witnesses, ordeals, debts, inheritance);[^6] Viṣṇu Ch. 6 focuses on debts but within a 100-chapter ritual/legal compendium.[^7] Verse suits mnemonic recitation of general principles, aphorisms, and ethical framing (e.g., Manu's trigrams: \"made pay fine,\" \"mind speech body\").[^8]\n\n- **Prose Nāradasmṛti** is a dedicated legal treatise (1 chapter, 27k words), systematizing *vyavahāra* via *mātṛkās* (18 topics: debts, deposits... miscellaneous offenses), with procedural precision (plaints, replies, evidence hierarchies, ordeals).[^9] Prose enables analytical lists, hypotheticals, and case distinctions (e.g., trigrams: \"violence `sāhasam`,\" \"topic litigation nar\").[^10]\n\nVerse may prioritize authoritative, holistic Dharma (prescriptive/moral), suiting oral transmission; prose facilitates casuistic, courtroom detail. Nārada's focus on litigation aligns with prose's clarity for jurists; others embed law in wider soteriology.[^11]\n\n[^1]: Manusmṛti wiki: \"verse · 12 chapters · 80,689 words\" (`/works/unknown-manusmrti-347b76/wiki/_work.card.md`).\n[^2]: Yājñavalkya Smṛti wiki: \"verse · 3 chapters · 27,854 words\" (`/works/unknown-yajnavalkya-smrti-cb88d6/wiki/_work.card.md`).\n[^3]: Viṣṇu Smṛti wiki: \"verse · 100 chapters · 49,517 words\"; Ch. 6 `layout: \"verse\"` (`/works/unknown-visnu-smrti-27f0d8/wiki/_work.card.md`).\n[^4]: Nāradasmṛti wiki: \"prose · 1 chapters · 27,765 words\"; Ch. 1 `layout: \"prose\"` (`/works/unknown-naradasmrti-7650d2/wiki/_work.card.md`).\n[^5]: Manusmṛti Ch. 8 (`/works/unknown-manusmrti-347b76/08/translation/`).\n[^6]: Yājñavalkya Smṛti Ch. 2 (`/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/`).\n[^7]: Viṣṇu Smṛti Ch. 6 (`/works/unknown-visnu-smrti-27f0d8/06/translation/`).\n[^8]: Manusmṛti full wiki trigrams (`/works/unknown-manusmrti-347b76/wiki/_work.full.md`).\n[^9]: Nāradasmṛti Ch. 1 *mātṛkā* lists 18 *vyavahāra* topics (`/works/unknown-naradasmrti-7650d2/01/translation/`).\n[^10]: Nāradasmṛti full wiki trigrams (`/works/unknown-naradasmrti-7650d2/wiki/_work.full.md`).\n[^11]: Compare_works (Manusmṛti/Nāradasmṛti, \"legal content\") pointers: shared chapters on procedure/inheritance.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "narada"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu yajnavalkya vishnu narada smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vishnu\" OR \"visnu\" OR \"viṣṇu\" smriti",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "indic"
+      },
+      "result_summary": "Listed 19 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.1\\nverse · 66¶ · 1956w · vocab 562 (TTR 57%, hapax 74%)\\n\\n## Distinctive trigrams\\n\\\"vi_1 good people\\\" · \\\"eternal laws *dhar"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-naradasmrti-7650d2",
+        "topic": "legal content"
+      },
+      "result_summary": "{\"topic\":\"legal content\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛt"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sloka OR śloka OR verse OR prose OR \"anustubh\" OR meter OR metre legal OR dharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 73418,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 146948,
+    "completion_tokens": 6931,
+    "total_tokens": 153879,
+    "cached_tokens": 28482,
+    "api_calls": 5,
+    "cost_usd": 0.0285828,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1933,
+        "completion_tokens": 512,
+        "total_tokens": 2445,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00036045
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2416,
+        "completion_tokens": 987,
+        "total_tokens": 3403,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009542
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6570,
+        "completion_tokens": 1086,
+        "total_tokens": 7656,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018345
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki_full",
+          "read_wiki_full",
+          "read_wiki_full",
+          "read_wiki_full",
+          "compare_works"
+        ],
+        "prompt_tokens": 19741,
+        "completion_tokens": 2892,
+        "total_tokens": 22633,
+        "cached_tokens": 6565,
+        "cost_usd": 0.00440945
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 116288,
+        "completion_tokens": 1454,
+        "total_tokens": 117742,
+        "cached_tokens": 19736,
+        "cost_usd": 0.0210242
+      }
+    ]
+  }
+}

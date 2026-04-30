@@ -1,0 +1,388 @@
+{
+  "answer": "**Manu on Brahmins as primary recipients of *dakṣiṇā***: In the *Manusmṛti*, *dakṣiṇā* (sacrificial fees or honorific gifts) is repeatedly positioned as a ritual obligation, with Brahmins—especially those learned in the Veda—as the preeminent recipients. This transfer of wealth is not tied to the recipient's manual labor but to their Vedic scholarship, ritual purity, and role in sustaining cosmic order (*dharma*). Foundational passages emphasize kings and householders bestowing jewels, wealth, or food-with-fee on such Brahmins to secure heavenly merit, framing *dakṣiṇā* as a one-way Dharma-driven appropriation from producers (e.g., kings, Vaishyas) to priestly recipients.[^1][^2]\n\n**Comte on property deriving from labor**: In *Traité de la propriété*, Charles Comte grounds property in individual liberty and labor (*travail*), where one appropriates unowned things via occupation (initial seizure with intent) and transforms them through industry into utilities satisfying needs. Labor creates value (\"qualities that render things fit to satisfy our needs\"), making tools, lands, and products one's exclusive domain without harming others. Property emerges from human effort seconded by nature, not gifts or hierarchy; denying it halts progress.[^3][^4]\n\n**Clash on belonging**: These traditions fundamentally diverge on *ownership*'s basis—Manu via ritual hierarchy and merit-earning gifts (*dakshina* to Brahmins as Vedic experts, irrespective of their productive labor), Comte via individual labor/occupation (first seizure + transformation, universal to free agents). Manu's system legitimizes non-labor transfers (e.g., Shudra/Kshatriya/Vaishya wealth to Brahmins) as Dharma, subordinating property to caste roles; Comte's insists labor alone vests title, rejecting unearned claims as violating liberty/progress. The clash centers on *ownership* (hierarchical gift vs. productive act), though it implicates labor's definition: Manu's \"labor\" elevates ritual/Vedic study over physical production; Comte's equates value-creation with tangible/industrial effort.[^5]\n\nThe corpus lacks direct *dakṣiṇā*-property synthesis, but these claims highlight incompatible foundations: caste-ritual vs. labor-liberty.\n\n[^1]: *Manusmṛti*, Ch. 11, [p-f747bb](/works/unknown-manusmrti-347b76/11/translation/#p-f747bb). \"A king should bestow all kinds of jewels on Brahmanas who are learned in the Veda... as a sacrificial fee.\"\n\n[^2]: *Manusmṛti*, Ch. 11, [p-259c16](/works/unknown-manusmrti-347b76/11/translation/#p-259c16). \"But one should bestow wealth according to one's ability on Brahmanas who are learned in the Veda...\"\n\n[^3]: *Traité de la propriété: VOL I*, Ch. 5, [p-cd7e40](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/05-de-lappropriation-des-choses-en-general/translation/#p-cd7e40). \"Labor is therefore the principle that gives birth to properties; almost all come from this source.\"\n\n[^4]: *Traité de la propriété: VOL I*, Ch. 4, [p-8094b8](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-8094b8). \"To the first who seizes it [unowned thing], with the intention of appropriating it... The fact of occupation always requires... labors.\"\n\n[^5]: *Traité de la propriété: VOL I*, Ch. 5, [p-782046](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/05-de-lappropriation-des-choses-en-general/translation/#p-782046). Properties include \"the products of a past labor... specially destined to provide for the existence... of certain determinate persons.\"",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dakṣiṇā Brahmin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "daksina Brahmin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"property\" labour Comte",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Traité de la propriété\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"property\" derives labour",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dakṣiṇā",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "daksina",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"property\" labor",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"property\" labour",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmin\" gift",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Manusmṛti · ch.11\\nverse · 6¶ · 206w · vocab 59 (TTR 64%, hapax 76%)\\n\\n## Distinctive trigrams\\n\\\"brahmanas learned veda\\\" · \\\"one establishin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.3\\nverse · 66¶ · 2063w · vocab 471 (TTR 49%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"his own *varna*\\\" · \\\"one his own\\\" · \\\"mn_3 "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.8\\nverse · 381¶ · 16882w · vocab 2625 (TTR 32%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"made pay fine\\\" · \\\"fine two hundred\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.9\\nverse · 155¶ · 10149w · vocab 1606 (TTR 34%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"son shudra wife\\\" · \\\"established rule mn_"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 0
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.0\\nprose · 53¶ · 4639w · vocab 1015 (TTR 49%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"natural order ideas\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.4\\nprose · 33¶ · 4189w · vocab 870 (TTR 46%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"possession thing master"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.5\\nprose · 27¶ · 2975w · vocab 578 (TTR 43%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"fit satisfy needs\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "property labour OR labor",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmana\" dakṣiṇā OR daksina OR \"sacrificial fee\" OR dakshina",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gift\" Brahmin OR Brahman OR Brahmana Manu",
+        "limit": 10
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dakṣiṇā\" OR \"dakshina\" OR \"fee\" OR \"gift\" Manu Brahmin OR Brahmana",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 5,
+      "paragraph_id": "p-f747bb"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 5,
+      "paragraph_id": "p-259c16"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 5,
+      "paragraph_id": "p-cd7e40"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 5,
+      "paragraph_id": "p-8094b8"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 5,
+      "paragraph_id": "p-782046"
+    }
+  ],
+  "duration_ms": 68318,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 106163,
+    "completion_tokens": 6303,
+    "total_tokens": 112466,
+    "cached_tokens": 14820,
+    "api_calls": 5,
+    "cost_usd": 0.022161100000000003,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1942,
+        "completion_tokens": 630,
+        "total_tokens": 2572,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006809
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3093,
+        "completion_tokens": 1202,
+        "total_tokens": 4295,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00093745
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9556,
+        "completion_tokens": 1857,
+        "total_tokens": 11413,
+        "cached_tokens": 3088,
+        "cost_usd": 0.0023765
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 31132,
+        "completion_tokens": 1077,
+        "total_tokens": 32209,
+        "cached_tokens": 9551,
+        "cost_usd": 0.00533225
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 60440,
+        "completion_tokens": 1537,
+        "total_tokens": 61977,
+        "cached_tokens": 150,
+        "cost_usd": 0.012834
+      }
+    ]
+  }
+}

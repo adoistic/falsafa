@@ -1,0 +1,324 @@
+{
+  "answer": "In Charles Comte's *Traité de Législation: VOL II*, the concepts of *perfectionnement* (perfection or development) and *dégradation* (degradation or decay) form a foundational opposition introduced in Chapter 1, which is explicitly dedicated to defining what constitutes the perfection and degradation of man's diverse parts (physical organs, intellectual faculties, and moral faculties).[^1]\n\n*Perfectionnement* refers to the enhancement or development of these faculties in two primary ways: (1) through their innate constitutional quality (e.g., strength, proportion, and aptitude for natural functions) and (2) through acquired skill or aptitude via practice, study, habit, or education (e.g., dexterity in operations useful to self or others). This dual perfection extends an individual's existence by increasing capacity to feel pleasures/pains, think clearly, and act effectively, yielding advantages like health, security, independence, productivity, and harmony with others—ultimately driving prosperity for individuals, families, and nations.[^2][^3]\n\n*Dégradation* opposes this directly as the restriction, weakening, depravation, or imperfection of the same faculties, also in dual forms mirroring perfectionnement: (1) innate flaws (e.g., weakness, disproportion, or flawed organization leading to imbecility, false judgment, or mania) and (2) failures of development (e.g., unskillfulness from lack of practice, false direction of passions, or excess/weakness in affections). It diminishes existence by reducing capacity for sensation, thought, and action, producing dependency, fear, vice, conflict, and population decline—thus driving decadence.[^4][^5]\n\nThe pair structures Comte's analysis of human and societal progress/decay: faculties influence each other reciprocally (e.g., strong physical organs aid intellectual growth), but governments, climates, and habits can distort this balance toward degradation.[^6] Later chapters apply this framework empirically to \"species\" or varieties of men under varying conditions, showing how degradation manifests in \"savage\" or subordinated states while perfectionnement aligns with civilized advancement.[^7]\n\n[^1]: Charles Comte, *Traité de Législation: VOL II*, ch.1 [chapter](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/).\n\n[^2]: Ibid., [p-07d203](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-07d203), [p-244928](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-244928), [p-c823d7](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-c823d7).\n\n[^3]: Ibid., [p-25e184](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-25e184) to [p-dfbae5](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-dfbae5).\n\n[^4]: Ibid., [p-6c99cd](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-6c99cd), [p-7cd4d8](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-7cd4d8), [p-f4e47a](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-f4e47a).\n\n[^5]: Ibid., [p-89fcf3](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-89fcf3); cf. [p-cff10e](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-cff10e).\n\n[^6]: Ibid., [p-17be61](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-17be61) to [p-f63a17](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-f63a17), [p-44f18f](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-44f18f).\n\n[^7]: Ibid., ch.1 [p-ccd355](/works/charles-comte-traite-de-legislation-vol-ii-20331d/01-de-ce-qui-constitue-le-perfectionnement-et-la-degr/translation/#p-ccd355); ch.2 [chapter](/works/charles-comte-traite-de-legislation-vol-ii-20331d/02-des-limites-mises-par-la-nature-au-perfectionnemen/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"degradation\" perfectionnement",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "degradation perfectionnement",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"degradation\" \"perfect\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL II\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 91,008 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"van di"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "degradation",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "perfect*ment",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL II\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 91,008 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"van di"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"degradation\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "perfection OR improvement OR perfect",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kinds of perfection\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"two kinds\" perfection"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"perfection\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL II · ch.1\\nprose · 51¶ · 8719w · vocab 1268 (TTR 32%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"his intellectual facult"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Traité de Législation: VOL II · ch.2\\nprose · 11¶ · 2263w · vocab 515 (TTR 53%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"perfection human natu"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-legislation-vol-ii-20331d (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-07d203"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-244928"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-c823d7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-25e184"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-dfbae5"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-6c99cd"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-7cd4d8"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-f4e47a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-89fcf3"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-cff10e"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-17be61"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-f63a17"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-44f18f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 1,
+      "paragraph_id": "p-ccd355"
+    }
+  ],
+  "duration_ms": 86322,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 63252,
+    "completion_tokens": 9635,
+    "total_tokens": 72887,
+    "cached_tokens": 28608,
+    "api_calls": 6,
+    "cost_usd": 0.0131767,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1908,
+        "completion_tokens": 832,
+        "total_tokens": 2740,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007751
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2829,
+        "completion_tokens": 1083,
+        "total_tokens": 3912,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010848
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5875,
+        "completion_tokens": 2708,
+        "total_tokens": 8583,
+        "cached_tokens": 2824,
+        "cost_usd": 0.0021054
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki_full",
+          "read_wiki_full",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10374,
+        "completion_tokens": 2376,
+        "total_tokens": 12750,
+        "cached_tokens": 150,
+        "cost_usd": 0.0032403
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14970,
+        "completion_tokens": 475,
+        "total_tokens": 15445,
+        "cached_tokens": 10369,
+        "cost_usd": 0.00167615
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 27296,
+        "completion_tokens": 2161,
+        "total_tokens": 29457,
+        "cached_tokens": 14965,
+        "cost_usd": 0.00429495
+      }
+    ]
+  }
+}

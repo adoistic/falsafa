@@ -1,0 +1,220 @@
+{
+  "answer": "**The term *aśauca* (अशौच), glossed as \"ritual impurity,\" appears once in the corpus, in the *Āṅgirasa Smṛti* (a Dharmashastra verse text attributed to Aṅgiras).**[^1]\n\nNo other works mention *aśauca* (or close variants like *asauca*, *ashauca*, or *ashoucha*). Searches for the associated concept—ritual impurity/pollution specifically tied to birth or death (e.g., \"impurity\" + \"birth\"/\"death,\" \"sutaka,\" \"birth pollution\")—yielded zero results across the English translations.[^2] The single passage lists *aśauca* alongside other impurities (e.g., contact with menstruating women) as grounds for expiation, but does not elaborate on birth or death.\n\nThe *Āṅgirasa Smṛti* discusses many types of ritual impurity (*aśauca*, *rajasvalāḥ*, etc.) and penances (*prāyaścitta*), often in the context of *śrāddha* (ancestral rites) and daily conduct, but birth- or death-related impurity is not explicitly detailed in searchable English text.[^3]\n\n**The corpus (37 works, primarily philosophical/classical translations) has limited Dharmashastra coverage, so this topic may not be fully represented.**\n\n[^1]: *Āṅgirasa Smṛti*, ch. 1, [p-fc4bdb](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-fc4bdb).\n[^2]: Corpus-wide searches (50-result limit) for \"asauca,\" \"aśauca,\" \"ashauca,\" \"\\\"impurity\\\" birth,\" \"\\\"impurity\\\" death,\" \"sutaka,\" \"ashoucha,\" \"\\\"birth pollution,\\\"\" \"\\\"death pollution,\\\"\" \"\\\"ritual impurity,\\\"\" etc.\n[^3]: *Āṅgirasa Smṛti*, work wiki card (distinctive trigrams: \"ritually impure *rajasvalāḥ*\"; \"penance *prāyaścitta*\"; nearest works: *Vīramitrodaya*, *Viṣṇu Smṛti*, *Kātyāyana Smṛti*).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "asauca",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impurity\" birth death",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ashauca",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "aśauca",
+        "limit": 50
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Āṅgirasa Smṛti · ch.1\\nverse · 1792¶ · 38412w · vocab 5128 (TTR 26%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"according rule ang_1\\\" · \\\"ang_2 *"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impurity\" birth",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impurity\" death",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sutaka",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ashoucha",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"birth pollution\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"death pollution\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-fc4bdb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ashauca",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "aśauc",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ritual impurity\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-fc4bdb"
+    }
+  ],
+  "duration_ms": 40745,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 11809,
+    "completion_tokens": 3855,
+    "total_tokens": 15664,
+    "cached_tokens": 7448,
+    "api_calls": 4,
+    "cost_usd": 0.0031720999999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 464,
+        "total_tokens": 2369,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003307
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2278,
+        "completion_tokens": 913,
+        "total_tokens": 3191,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0006298
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3539,
+        "completion_tokens": 868,
+        "total_tokens": 4407,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011193
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 4087,
+        "completion_tokens": 1610,
+        "total_tokens": 5697,
+        "cached_tokens": 3534,
+        "cost_usd": 0.0010923
+      }
+    ]
+  }
+}

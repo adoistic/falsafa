@@ -1,0 +1,253 @@
+{
+  "answer": "One such moment occurs at the poem's close (lines 114b–115), where the caesura in the original Old English text separates a call for human endurance and seeking of divine comfort from the assurance of heavenly stability:\n\n> frofre to fæder on heofonum,[^1]  \n> þær us eal seo fæstnung stondeð.\n\nThe **a-verse** (\"frofre to fæder on heofonum\" — \"comfort from the Father in heaven\") captures the wanderer's grief-stricken turn *toward* God amid earthly loss, while the caesura pauses to mark resolution. The **b-verse** (\"þær us eal seo fæstnung stondeð\" — \"where for us all stability stands\") then delivers the divine perspective of unchangeable permanence, contrasting the poem's prior litany of mutability (exile, death, ruined halls).[^2] This structural break enacts the theological pivot from temporal sorrow to eternal consolation.\n\n[^1]: Unknown, *Old English Elegies*, ch. 11 (*The Wanderer*), [original](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/original/#p-9bd9cc).\n\n[^2]: Unknown, *Old English Elegies*, ch. 11 (*The Wanderer*), [translation](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-5bdc65).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "The Wanderer",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old English"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-5bdc65"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-5bdc65"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_range": {
+          "start": 2,
+          "end": 2
+        },
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9bd9cc"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9cca5e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-5bdc65"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9bd9cc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-5bdc65"
+    }
+  ],
+  "duration_ms": 85738,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 45155,
+    "completion_tokens": 10101,
+    "total_tokens": 55256,
+    "cached_tokens": 33082,
+    "api_calls": 6,
+    "cost_usd": 0.009119200000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1922,
+        "completion_tokens": 524,
+        "total_tokens": 2446,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00036425
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2547,
+        "completion_tokens": 196,
+        "total_tokens": 2743,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00032525
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 4507,
+        "completion_tokens": 597,
+        "total_tokens": 5104,
+        "cached_tokens": 2542,
+        "cost_usd": 0.0008186
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 10882,
+        "completion_tokens": 3504,
+        "total_tokens": 14386,
+        "cached_tokens": 4502,
+        "cost_usd": 0.0032531
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 11404,
+        "completion_tokens": 3041,
+        "total_tokens": 14445,
+        "cached_tokens": 10877,
+        "cost_usd": 0.00216975
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 13893,
+        "completion_tokens": 2239,
+        "total_tokens": 16132,
+        "cached_tokens": 11399,
+        "cost_usd": 0.00218825
+      }
+    ]
+  }
+}

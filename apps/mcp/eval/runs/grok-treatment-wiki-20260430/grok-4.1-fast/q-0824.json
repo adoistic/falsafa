@@ -1,0 +1,198 @@
+{
+  "answer": "**Manusmṛti 2.230** declares that the *ācārya* (teacher/guru), father, and mother—emphasized throughout the preceding verses as objects of supreme reverence and service—correspond to the **three worlds**, **three stages of life** (*āśramas*), **three Vedas**, and **three sacred fires** (*garhapatya*, *dakṣiṇāgni*, and *āhavanīya*, respectively).[^1]\n\nThis is part of a broader rule on filial and pedagogical piety: service to these three constitutes the highest austerity (*tapas*), and no other religious duty should be undertaken without their permission.[^2] Specifically, 2.231 identifies the father as the *garhapatya* fire (householder's fire), the mother as the *dakṣiṇāgni* (southern fire), and the guru as the *āhavanīya* fire (offering fire), making this triad the most venerable.[^3]\n\n[^1]: Manu, *Manusmṛti*, ch. 2, [¶230](/works/unknown-manusmrti-347b76/02/translation/#p-8f1205).\n[^2]: Manu, *Manusmṛti*, ch. 2, [¶229](/works/unknown-manusmrti-347b76/02/translation/#p-696df2).\n[^3]: Manu, *Manusmṛti*, ch. 2, [¶231](/works/unknown-manusmrti-347b76/02/translation/#p-3e3f4a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mother father teacher",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Manu 2.230\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mother father",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "father mother teacher",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "teacher",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mother",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-696df2",
+          "p-8f1205",
+          "p-3e3f4a"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-8f1205"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-696df2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-3e3f4a"
+    }
+  ],
+  "duration_ms": 38805,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 47963,
+    "completion_tokens": 3732,
+    "total_tokens": 51695,
+    "cached_tokens": 7540,
+    "api_calls": 5,
+    "cost_usd": 0.0103276,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 537,
+        "total_tokens": 2442,
+        "cached_tokens": 150,
+        "cost_usd": 0.000627
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2129,
+        "completion_tokens": 720,
+        "total_tokens": 2849,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00050365
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3240,
+        "completion_tokens": 557,
+        "total_tokens": 3797,
+        "cached_tokens": 2124,
+        "cost_usd": 0.0006079
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki_full",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20192,
+        "completion_tokens": 544,
+        "total_tokens": 20736,
+        "cached_tokens": 3235,
+        "cost_usd": 0.00382515
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 20497,
+        "completion_tokens": 1374,
+        "total_tokens": 21871,
+        "cached_tokens": 150,
+        "cost_usd": 0.0047639
+      }
+    ]
+  }
+}

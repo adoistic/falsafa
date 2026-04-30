@@ -1,0 +1,198 @@
+{
+  "answer": "**No works in the Falsafa corpus specifically mention Mughal-era figures (such as Akbar, Aurangzeb, Shah Jahan, Babur, or Bahadur Shah Zafar) or settings (such as the Red Fort or Taj Mahal).**\n\nSearches across the English translations and transliterations for key terms like \"Mughal,\" \"Akbar,\" \"Aurangzeb,\" \"Shah Jahan,\" \"Babur,\" \"Bahadur Shah,\" \"Zafar,\" \"Mogul,\" \"Red Fort,\" \"Taj Mahal,\" and \"Delhi Sultan\" yielded either zero results or incidental non-historical uses (e.g., \"Akbar\" as an adjective meaning \"great\" in religious contexts in Allama Iqbal's *Bang-E-Dara Part 3* and Mirza Ghalib's *Diwan-E-Ghalib*, not referring to the emperor).[^1][^2]\n\nWhile biographical descriptions note associations—e.g., Sheikh Ibrahim Zauq as court poet to the last Mughal emperor—the texts themselves (primarily Urdu poetry collections like *Diwan-E-Ghalib*, *Diwan-E-Zauq*, and Iqbal's *Bang-E-Dara* parts) contain no such specific references. The corpus focuses on philosophical and classical texts, with limited coverage of Mughal history.\n\n[^1]: Search results for \"Akbar\" in *allama-iqbal-bang-e-dara-part-3-cc61e8*, chapter 2 (\"Bilad-e-Islamiya\"): \"Hajj-e-Akbar\" refers to the major Hajj pilgrimage, not the emperor.\n\n[^2]: Search results for \"Akbar\" in *mirza-ghalib-diwan-e-ghalib-74ed4c*, chapter 80: \"khaaliq-e-akbar\" means \"great creator,\" a theological phrase.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mughal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Akbar",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Aurangzeb",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Shah Jahan",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Babur",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Persian"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Arabic"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bahadur Shah\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Zafar",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Shah Jahan\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mogul",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Delhi Sultan",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Red Fort\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Taj Mahal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "19th Century"
+      },
+      "result_summary": "Listed 4 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 39102,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 9625,
+    "completion_tokens": 3373,
+    "total_tokens": 12998,
+    "cached_tokens": 6996,
+    "api_calls": 3,
+    "cost_usd": 0.0025621000000000003,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1899,
+        "completion_tokens": 659,
+        "total_tokens": 2558,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0004264
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3229,
+        "completion_tokens": 1152,
+        "total_tokens": 4381,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0009389
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 4497,
+        "completion_tokens": 1562,
+        "total_tokens": 6059,
+        "cached_tokens": 3224,
+        "cost_usd": 0.0011968
+      }
+    ]
+  }
+}

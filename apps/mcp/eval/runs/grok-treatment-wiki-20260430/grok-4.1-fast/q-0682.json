@@ -1,0 +1,301 @@
+{
+  "answer": "**In Allama Iqbal's *Bang-e-Dara* (The Call of the Marching Bell, 1924)—divided into three parts in this corpus—the Arabic/Urdu term *mu'min* (مؤمن, \"believer\" or \"faithful one\") appears explicitly only once, in Part 1, Chapter 38 (\"Sayed Ki Loh-e-Turbat,\" or \"The Epitaph of the Sayed\").**[^1]\n\n**Iqbal presents the *banda-e momin* (\"true Believer\" or \"Believer's servant\" in a poetic sense, referring to the ideal faithful individual) as a figure of moral purity and fearless resolve:**  \n> A true Believer's heart is free of hypocrisy and fear;  \n> It stands unflinching when the force of worldly power is near.[^2]\n\nThis stanza, voiced through an epitaph on a Sayed's (descendant of the Prophet) tombstone, contrasts the *momin*'s inner strength with superficial piety. The *momin* acts with noble intent (*nek hai neeyat*), undeterred by consequences (*to kya parwa tujhe*), embodying boldness (*be-baak*) before oppressive authority (*quwwat-e farmaan-rawa*). It fits Iqbal's broader motif of spiritual revival, urging poets and statesmen to awaken slumbering hearts without fear.[^3]\n\n**No other instances of *mu'min*, *momin*, *mūmin*, or close English equivalents (\"true believer,\" \"faithful one,\" \"Believer\") appear across *Bang-e-Dara*'s ~100 chapters (Parts 1–3).** Related ideals surface indirectly, e.g., in Part 3, Chapter 10 (\"Har nafas Iqbal tera aah mein mastoor hai,\" titled \"The Muslim\" in translation), which exalts the Muslim as a \"radiant star\" guarding cosmic truth, fearless amid sorrow.[^4] But *mu'min* itself is confined to this single, vivid portrait of dynamic faith.\n\nIqbal's full philosophy of the *momin* as a self-realizing, world-shaping force develops more in later prose like *The Reconstruction of Religious Thought in Islam* (not in this corpus). Here in *Bang-e-Dara*, it emerges as a call to fearless authenticity.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 38 \"Sayed Ki Loh-e-Turbat\" ([translation](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/)).\n\n[^2]: Ibid., [p-c379c6](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/#p-c379c6). Transliteration: \"Banda-e Momin ka dil beem-o-riya se paak hai / Quwwat-e farmaan-rawa ke saamne be-baak hai.\"\n\n[^3]: Ibid., [p-0cf5a4](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/#p-0cf5a4) and [p-2e3845](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/#p-2e3845).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 10 ([translation](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/10-har-nafas-iqbal-tera-aah-mein-mastoor-hai/translation/)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mu'min\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mu'min Bang"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "momin",
+        "limit": 30
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true believer\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "believer Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mūmin\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mūmin"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"faithful one\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 38,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.38 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"momin\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mūmin OR momin OR mumin OR mu'min OR \"true muslim\" OR \"perfect believer\" OR \"faithful servant\" Bang",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Believer\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true believer\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"momin\" OR \"mu min\" OR \"mumin\"",
+        "limit": 30
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 10,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.10 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 38,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.38 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 38
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 1 · ch.38\\nverse · 15¶ · 320w · vocab 135 (TTR 88%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"epitaph sayed bird\\\" · \\\"sayed bir"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-c379c6"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-0cf5a4"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 38,
+      "paragraph_id": "p-2e3845"
+    }
+  ],
+  "duration_ms": 74539,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 66260,
+    "completion_tokens": 6718,
+    "total_tokens": 72978,
+    "cached_tokens": 42496,
+    "api_calls": 5,
+    "cost_usd": 0.0102366,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1911,
+        "completion_tokens": 419,
+        "total_tokens": 2330,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0003091
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7520,
+        "completion_tokens": 1409,
+        "total_tokens": 8929,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0019259
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 8855,
+        "completion_tokens": 1478,
+        "total_tokens": 10333,
+        "cached_tokens": 7515,
+        "cost_usd": 0.00138275
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 22368,
+        "completion_tokens": 1428,
+        "total_tokens": 23796,
+        "cached_tokens": 8850,
+        "cost_usd": 0.0038601
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 25606,
+        "completion_tokens": 1984,
+        "total_tokens": 27590,
+        "cached_tokens": 22363,
+        "cost_usd": 0.00275875
+      }
+    ]
+  }
+}

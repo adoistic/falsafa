@@ -1,0 +1,208 @@
+{
+  "answer": "**In *The Wanderer* (from *Old English Elegies*, ch. 11), the phrase \"Hwaer cwom mearg, hwaer cwom mago\" appears in the famous *ubi sunt* (\"where are they?\") lament near the poem's end (ll. 92b–93).**[^1]\n\nImmediately following it—still within the same line—is **\"Hwaer cwom maththumgyfa?\"** (literally \"Where [has] come treasure-giver?\"; trans. \"Where [has] the treasure-giver gone?\"), evoking the image of a vanished lord or treasure-dispenser from the lost heroic age.[^2]\n\nThis launches the sequence lamenting the transience of earthly glory: treasure-giver → feast-seats (*symbla gesetu*) → hall-joys (*seledreamas*) → bright cup (*beorht bune*) → mailed warrior (*byrnwiga*) → princely majesty (*þeodnes þrym*).[^3]\n\n[^1]: Unknown, *Old English Elegies*, ch. 11 (*The Wanderer*), transliteration, [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/transliteration/#p-2ecb4b).\n[^2]: Unknown, *Old English Elegies*, ch. 11 (*The Wanderer*), transliteration (`ll. 92b–93`): [\"Hwær cwom mearg? Hwær cwom mago? Hwær cwom maþþumgyfa?\"](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/transliteration/#p-2ecb4b); translation: [\"'Where has the horse gone? Where has the warrior gone? Where the treasure-giver?\"](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n[^3]: Unknown, *Old English Elegies*, ch. 11 (*The Wanderer*), transliteration (`ll. 94–95`): [\"Hwaer cwom symbla gesetu? Hwaer sindon seledreamas? / Eala beorht bune! Eala byrnwiga! / Eala þeodnes þrym!\"](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/transliteration/#p-2ecb4b); cf. translation [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Hwaer cwom mearg, hwaer cwom mago",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"where is the horse\" wanderer",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-2ecb4b"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-2ecb4b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9cca5e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-2ecb4b"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (original)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-2ecb4b"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9462cc"
+    }
+  ],
+  "duration_ms": 75727,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 37760,
+    "completion_tokens": 8910,
+    "total_tokens": 46670,
+    "cached_tokens": 18206,
+    "api_calls": 5,
+    "cost_usd": 0.009276099999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1914,
+        "completion_tokens": 699,
+        "total_tokens": 2613,
+        "cached_tokens": 1882,
+        "cost_usd": 0.00045
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3999,
+        "completion_tokens": 984,
+        "total_tokens": 4983,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0010095
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 8545,
+        "completion_tokens": 907,
+        "total_tokens": 9452,
+        "cached_tokens": 3994,
+        "cost_usd": 0.0015634
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 10303,
+        "completion_tokens": 3119,
+        "total_tokens": 13422,
+        "cached_tokens": 150,
+        "cost_usd": 0.0035976
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 12999,
+        "completion_tokens": 3201,
+        "total_tokens": 16200,
+        "cached_tokens": 10298,
+        "cost_usd": 0.0026556
+      }
+    ]
+  }
+}

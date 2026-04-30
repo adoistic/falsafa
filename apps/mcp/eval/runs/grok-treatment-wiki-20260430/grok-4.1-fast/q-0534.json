@@ -1,0 +1,365 @@
+{
+  "answer": "**Several works in the corpus—primarily the ancient Indic *Dharmashāstra* texts known as Smṛtis—engage directly with how the dead are remembered through detailed prescriptions for ancestral rites (*pitṛkṛya* or *śrāddha*), funeral oblations (*pindadāna*), last rites, and offerings that satisfy and sustain the deceased ancestors (*pitṛs*). These rituals ensure the dead are honored, fed, and \"remembered\" perpetually via sons, food gifts, and periodic commemorations, preventing their descent into hellish states and securing family merit.[^1][^2][^3][^4]**\n\n**Key examples include:**\n\n- **Aṅgirasa Smṛti**: Extensively covers *śrāddha* rites \"for the satisfaction of the ancestors,\" including eclipse-timed offerings, tree-planting gifts beloved by ancestors, and last rites even for unclaimed corpses, with rules for sons performing them on behalf of fathers or grandfathers.[^5][^6][^7][^8]\n\n- **Manusmṛti**: Discusses offerings to \"gods [and] ancestors\" as part of daily duties, funeral pyre rites, and purification after handling the dead, framing these as essential for Vedic life from conception to death.[^9][^10]\n\n- **Bṛhaspati Smṛti**: Specifies funeral cake (*pinda*) offerings by sons to save fathers from hell, inheritance rules tied to who performs these obsequies, and shares for kinsmen or pupils in their absence.[^11][^12]\n\n- **Other Smṛtis** (Kātyāyana, Nārada, Paraśara, Viṣṇu, Yama, Yājñavalkya): Similar rules on funeral debts, cakes to maternal grandfathers or seed-fathers, and prohibitions during impurity, all presupposing ritual remembrance as a son's duty.[^13][^14]\n\n**The Old English Elegies** touch indirectly on remembrance through elegiac lament for lost kin, halls, and civilizations—e.g., ruins evoking past builders (\"Wondrous is this wall-stone... earth grows old\"), fathers teaching sons, or wanderers recalling dead lords—but lack prescriptive \"how\" beyond poetic commemoration of transience.[^15]\n\n**No other works (e.g., Cynewulf's saints' lives, Iqbal's poetry, or French political treatises) substantively address this via rites, fame, or memory practices; mentions of \"dead\" are narrative or metaphorical.[^16]** The corpus's 37 works emphasize Indic ritual law here over Western literary or philosophical reflection.\n\n[^1]: Manusmṛti, ch.3, [offerings gods ancestors](works/unknown-manusmrti-347b76/03/translation/#p-17c06a).\n[^2]: Aṅgirasa Smṛti, ch.1, [satisfaction of the ancestors](works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-9f5b93).\n[^3]: Aṅgirasa Smṛti, work wiki, [*śrāddha* श्राद्ध ang_1](works/unknown-angirasa-smrti-2bf9d1/wiki/_work.card.md).\n[^4]: Bṛhaspati Smṛti, ch.1, [funeral cake rite](works/unknown-brhaspati-smrti-0fd070/01/translation/#p-ad27f9).\n[^5]: Aṅgirasa Smṛti, ch.1, [*śrāddha*... satisfaction of the ancestors](works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-8b8d33).\n[^6]: Aṅgirasa Smṛti, ch.1, [ancestors (*Pitṛs*), grandfathers](works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-b4077b).\n[^7]: Aṅgirasa Smṛti, ch.1, [Last Rites for the Unclaimed Dead](works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-211dbe).\n[^8]: Aṅgirasa Smṛti search hits (e.g., son offers to father's ancestors).\n[^9]: Manusmṛti, ch.2, [rites... to the funeral pyre](works/unknown-manusmrti-347b76/02/translation/#p-e3405d).\n[^10]: Manusmṛti, ch.3 wiki, [families... attain great fame](works/unknown-manusmrti-347b76/wiki/03.card.md).\n[^11]: Bṛhaspati Smṛti, ch.1, [funeral cake to him](works/unknown-brhaspati-smrti-0fd070/01/translation/#p-ad27f9).\n[^12]: Bṛhaspati Smṛti, ch.1, [offerer of the funeral oblation](works/unknown-brhaspati-smrti-0fd070/01/translation/#p-05d2bd).\n[^13]: Kātyāyana Smṛti, ch.52/78, [funeral rites](works/unknown-katyayana-smrti-1e06d2/52/translation/#p-4f98be).\n[^14]: Nārada Smṛti, ch.1, [funeral cake to... grandfather](works/unknown-naradasmrti-7650d2/01/translation/#p-d1a156).\n[^15]: Old English Elegies wiki, [earth grows old](works/unknown-old-english-elegies-d5fe9e/wiki/_work.card.md); ch.16, [wyrde yebraecon](works/unknown-old-english-elegies-d5fe9e/16/translation/).\n[^16]: Corpus-wide searches (\"remember the dead,\" \"memory of the dead,\" \"fame posterity,\" etc.) yielded 0 direct hits outside Smṛtis/snippets above.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "remember the dead",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "memory of the dead",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "commemorate the dead",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "remembrance of the dead",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "how the dead are remembered",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "remembered after death",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"memory\" dead",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dead memory",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fame posterity",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"after death\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancestors",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "forefathers",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dead",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "funeral",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "obsequies",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shraddha",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.3\\nverse · 66¶ · 2063w · vocab 471 (TTR 49%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"his own *varna*\\\" · \\\"one his own\\\" · \\\"mn_3 "
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-b4077b",
+          "p-9f5b93",
+          "p-8b8d33"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-211dbe"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ruins remember"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fame death",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-17c06a"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-9f5b93"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-ad27f9"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-8b8d33"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-b4077b"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-211dbe"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-e3405d"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-05d2bd"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-4f98be"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-d1a156"
+    }
+  ],
+  "duration_ms": 56204,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 42016,
+    "completion_tokens": 6533,
+    "total_tokens": 48549,
+    "cached_tokens": 22817,
+    "api_calls": 5,
+    "cost_usd": 0.00824715,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 922,
+        "total_tokens": 2824,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008189
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2283,
+        "completion_tokens": 647,
+        "total_tokens": 2930,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007576
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5845,
+        "completion_tokens": 1011,
+        "total_tokens": 6856,
+        "cached_tokens": 2278,
+        "cost_usd": 0.0013328
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 14404,
+        "completion_tokens": 1718,
+        "total_tokens": 16122,
+        "cached_tokens": 5840,
+        "cost_usd": 0.0028638
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "get_passage",
+          "get_passage",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17582,
+        "completion_tokens": 2235,
+        "total_tokens": 19817,
+        "cached_tokens": 14399,
+        "cost_usd": 0.00247405
+      }
+    ]
+  }
+}

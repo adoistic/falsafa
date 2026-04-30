@@ -1,0 +1,349 @@
+{
+  "answer": "**Charles Comte**, in his *Traité de la propriété*, frames *liberté* (liberty) as the foundational precondition for all human rights and duties, rigorously opposing it to slavery (both domestic and political). He defines it precisely as **\"the state of a person who encounters, in his fellow men, no obstacle, whether to the regular development of his being, or to the innocent exercise of his faculties\"**—a condition enabling the free exercise of physical, intellectual, and moral powers, including the occupation and appropriation of unowned things to form property.[^1][^2] This liberty is civil (no subjugation to another's will) and political (no collective enslavement), inherently tied to property as its product and guarantor: without secure property in one's labor and acquisitions, faculties cannot develop freely.[^3]\n\nComte would deem liberty unmet wherever slavery's remnants persist—e.g., legal or customary barriers to individual appropriation, forced labor, or state interference treating persons as things—preventing the \"innocent exercise\" of faculties and the natural progression from liberty to property ownership.[^4]\n\n**Allama Iqbal** invokes *aazadi* (freedom) poetically in *Bang-e-Dara*, portraying it not as institutional security but as an ecstatic, natural, and spiritual unboundness, glimpsed in the wild liberty of rivers or birds yet mourned in confinement. The strongest evocation appears in \"Bacha aur Shama,\" where beauty (*husn*) inheres in **\"Chashma-e kohsaar mein, darya ki aazadi mein\"** (\"In mountain springs, in rivers flowing free\"), one of nature's boundless expressions amid a world of veiled wonders.[^5] Echoed in the caged bird's lament—\"Those garden splendors... The freedom to come and to go at my call\"—Iqbal laments *aazadi* as lost vitality, a soul's rightful flight thwarted by mortal cages.[^6]\n\nIqbal would see *aazadi* unmet in the soul's (*rooh*) exile from its divine light, trapped in the \"dark lantern of clay\" (*khaak-e-teera ke fanoos*)—a spiritual unfreedom where inner radiance remains veiled by worldly illusion (*faramoshi*), yearning unquenched like a caravan bell in the desert.[^7]\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, Ch. 3, [p-1c5676](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/03-de-ce-qui-constitue-la-liberte/translation/#p-1c5676).\n[^2]: Charles Comte, *Traité de la propriété: VOL I*, Ch. 2, [p-60f07c](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/02-de-la-liberte-consideree-comme-une-condition-de-le/translation/#p-60f07c).\n[^3]: Charles Comte, *Traité de la propriété: VOL I*, Ch. 3, [p-86c544](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/03-de-ce-qui-constitue-la-liberte/translation/#p-86c544).\n[^4]: Charles Comte, *Traité de la propriété: VOL I*, Ch. 2, [p-2cd7a3](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/02-de-la-liberte-consideree-comme-une-condition-de-le/translation/#p-2cd7a3).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, Ch. 15 (\"Bacha aur Shama\"), transliteration [full passage](/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/transliteration/#p-9d4b73); cf. translation [p-0b463b](/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/#p-0b463b).\n[^6]: Allama Iqbal, *Bang-E-Dara Part 1*, Ch. 34 (\"Parinde Ki Faryad\"), [p-c41448](/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/translation/#p-c41448).\n[^7]: Allama Iqbal, *Bang-E-Dara Part 1*, Ch. 15, translation [p-0b0025](/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/#p-0b0025), [p-1ce332](/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/#p-1ce332).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liberté"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "aazadi"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "freedom"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liberty"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 15-bacha-aur-shama.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"aazadi\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "freedom iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.34 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 38,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.38 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty\" property"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"freedom\" self OR khudi OR spirit OR soul iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 1 · ch.34\\nverse · 11¶ · 193w · vocab 79 (TTR 93%, hapax 94%)\\n\\n## Distinctive trigrams\\n\\\"bird lament garden\\\" · \\\"lament gar"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 38
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 1 · ch.38\\nverse · 15¶ · 320w · vocab 135 (TTR 88%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"epitaph sayed bird\\\" · \\\"sayed bir"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi freedom OR liberty OR aazadi"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 15,
+      "paragraph_id": "p-1c5676"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 15,
+      "paragraph_id": "p-60f07c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 15,
+      "paragraph_id": "p-86c544"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 15,
+      "paragraph_id": "p-2cd7a3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 15,
+      "paragraph_id": "p-9d4b73"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 15,
+      "paragraph_id": "p-0b463b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 15,
+      "paragraph_id": "p-c41448"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 15,
+      "paragraph_id": "p-0b0025"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 15,
+      "paragraph_id": "p-1ce332"
+    }
+  ],
+  "duration_ms": 49056,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 90192,
+    "completion_tokens": 5880,
+    "total_tokens": 96072,
+    "cached_tokens": 52183,
+    "api_calls": 5,
+    "cost_usd": 0.01315095,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1935,
+        "completion_tokens": 558,
+        "total_tokens": 2493,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003837
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7387,
+        "completion_tokens": 1167,
+        "total_tokens": 8554,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0017786
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13616,
+        "completion_tokens": 1463,
+        "total_tokens": 15079,
+        "cached_tokens": 7382,
+        "cost_usd": 0.0023474
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 27431,
+        "completion_tokens": 809,
+        "total_tokens": 28240,
+        "cached_tokens": 13611,
+        "cost_usd": 0.00384905
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 39823,
+        "completion_tokens": 1883,
+        "total_tokens": 41706,
+        "cached_tokens": 27426,
+        "cost_usd": 0.0047922
+      }
+    ]
+  }
+}

@@ -1,0 +1,366 @@
+{
+  "answer": "**Sīla** (Pali/Sanskrit: virtue, moral conduct, ethical precepts) is addressed across the Old Javanese (Kawi) Buddhist subcorpus—primarily *San Hyan Kamahayanikan*, *Kunjarakarna Dharmakathana*, and *San Hyan Tattvajnana*—as **śīlapāramitā** (the Perfection of Morality), one of the Six Perfections (*ṣaṭpāramitā*). This frames *sīla* not merely as basic precepts but as a meditative virtue essential for Mahāyāna *bodhisattva* practice, integrated with *samaya* (sacred vows/commitments) in tantric contexts.[^1]\n\n### Core Definition and Components\n*Sīla* is the \"cessation from all that is unskillful (*akuśala*), and likewise the engaging in what is skilled (*kuśala*),\" summarized across **body (*kāya*)**, **speech (*vāk*)**, and **mind (*citta*)**.[^2] It parallels Pāli *pañcasīla* (Five Precepts) and *daśaśīla* (Ten Virtues) but is elevated to a *pāramitā* for accumulating merit toward *bodhi*.\n\n- **Body (*kāya-śīla*)**: Refraining from killing any living being (large/small, faultless/guilty); taking what is not given (any property without consent); sexual misconduct (improper relations, e.g., with ascetics, another's spouse, Guru's family; forbidden near sacred sites/images/Guru).[^3]\n- **Speech (*vāk-śīla*)**: No false speech, slander, harsh words, idle chatter; avoid disparaging food/qualities; no oaths/curses.[^4]\n- **Mind (*citta-śīla*)**: Free from greed (*lobha*), hatred (*dveṣa*), delusion (*moha*), pride, envy, miserliness, anger; cultivate purity, truthfulness, compassion.[^5]\n\nThese align with the Ten Wholesome Courses of Action (*daśakuśala*) and counter the Three Poisons (*triviṣa*: passion, aversion, delusion), which embody the Tathāgatas (e.g., passion as Amitābha).[^6]\n\n### Role in Buddhist Practice\n- **In Tantric Mahāyāna (*Mantranaya*)**: *Sīla* protects *samaya* (vajra-vows), preventing hellish rebirths. Neglect leads to *pantən* (major transgression), expulsion from saṅgha, or cauldron-torment.[^7] It supports *yoga/bhāvanā* (meditation), enabling the Five Wisdoms (*pañcajñāna*) and powers (*siddhi*).\n- **Integration with Pāramitās**: Precedes *kṣānti* (patience: equanimity toward praise/scorn), *vīrya* (effort: wholesome acts day/night), etc. Combined as **Ten Perfections (*daśapāramitā*)**, embodied by Five Goddesses (Locanā = *maitrī*; Māmakī = *karuṇā*, etc.).[^8]\n- **Conduct Guidelines**: Practitioners (lay/monastic) maintain purity via bathing rites, avoid outcastes/gambling, serve Guru (equal to Buddhas), enjoy senses moderately without attachment.[^9]\n\n### Across Texts\n| Work | Key Passages on *Sīla* |\n|------|-------------------------|\n| *San Hyan Kamahayanikan*[^10] | Śīlapāramitā detailed; samaya as \"vajra-water\" (poison/nectar); protect via non-killing/stealing/misconduct. |\n| *Kunjarakarna Dharmakathana*[^11] | Implicit in dharma-sermons; karma (good/evil deeds) drives rebirths, urging virtue for *yogī*-state. |\n| *San Hyan Tattvajnana*[^12] | Vows (*yama/niyama*), *śīla* in *ṣaṭpāramitā*; non-violence/truth as *tattva*-foundation. |\n\nNo comprehensive \"Buddhist *sīla*-code\" like Vinaya; instead, tantric ethics blend precepts with *pāramitās/samaya*, emphasizing non-dual wisdom (*adwayajñāna*) over ritualistic rule-keeping. *Vratisasana* (Śaiva-influenced) parallels with Yamas/Niyamas (ahiṃsā, satya, etc.), mentioning \"five precepts/ten virtues,\" but is outside strict Buddhist focus.[^13]\n\nThe subcorpus lacks exhaustive treatment (e.g., no full *pañcasīla/daśakuśala* recitation), prioritizing *śīla* as *pāramitā* for *bodhi*.\n\n[^1]: *San Hyan Kamahayanikan*, ch.1, [translation/](works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-79c7f3).\n[^2]: Ibid., [¶ on śīlapāramitā](works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-00d9a2).\n[^3]: Ibid., [body precepts](works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-e1e592).\n[^4]: Ibid., [speech precepts](works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-f64214).\n[^5]: Ibid., [mind precepts](works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-31f67f).\n[^6]: *San Hyan Tattvajnana*, ch.1, [triviṣa](works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-f84c96).\n[^7]: *San Hyan Kamahayanikan*, [samaya protection](works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-116e05).\n[^8]: Ibid., [daśapāramitā](works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-7132ca).\n[^9]: Ibid., [conduct](works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-6b124a).\n[^10]: Full chapter read; śīla central to pāramitās.\n[^11]: *Kunjarakarna Dharmakathana*, ch.1, [dharma-karma](works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-c6e7d8).\n[^12]: *San Hyan Tattvajnana*, [śīla in pāramitās](works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-e76e3c).\n[^13]: *Vratisasana*, ch.1, [\"five precepts, ten virtues\"](works/unknown-vratisasana-d0fe75/01/translation/#p-f7f1dc); Yamas/Niyamas detailed, but Śaiva.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sila",
+        "limit": 20
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old Javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Kawi"
+      },
+      "result_summary": "Listed 9 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Kamahayanikan\\nMpu Shri Sambhara Surya Warama · Medieval · kawi · prose · 1 chapters · 14,398 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"body s"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"markdown\":\"# Kunjarakarna Dharmakathana\\nMpu Dusun · Medieval · kawi · prose · 1 chapters · 17,973 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homage feet lord\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "{\"markdown\":\"# Kalpabuddha\\nUnknown · Medieval · kawi · prose · 6 chapters · 535 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"### paragraph lord\\\" · \\\"his abode ###\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Mahajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 6,836 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"dwelling place lord\\\" · \\\"ten sens"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Tattvajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 16,092 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"lacking *yoga* becomes\\\" · \\\"vo"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sīla\" OR \"śīla\" OR śila OR sila",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "precepts OR \"ethical conduct\" OR virtue buddh",
+        "limit": 20
+      },
+      "result_summary": "Found 19 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75"
+      },
+      "result_summary": "{\"markdown\":\"# Vratisasana\\nUnknown · Medieval · kawi · prose · 1 chapters · 17,658 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"one *siddhānta* school\\\" · \\\"sacred vows"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kunjarakarna Dharmakathana · ch.1\\nprose · 349¶ · 17973w · vocab 2570 (TTR 32%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"homage feet lord\\\" · \\\"pay"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Kamahayanikan · ch.1\\nprose · 258¶ · 14398w · vocab 2021 (TTR 29%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"body speech mind\\\" · \\\"divine "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "{\"markdown\":\"# Kalpabuddha\\nUnknown · Medieval · kawi · prose · 6 chapters · 535 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"### paragraph lord\\\" · \\\"his abode ###\\\" · "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"five precepts\" OR \"ten virtues\" OR \"pañcaśīla\" OR \"daśakuśala\" OR \"sīla\" OR śīla Kawi",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vratisasana-d0fe75 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-kalpabuddha-d760dc (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-79c7f3"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-00d9a2"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-e1e592"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-f64214"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-31f67f"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-f84c96"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-116e05"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-7132ca"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-6b124a"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-c6e7d8"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-e76e3c"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 1,
+      "paragraph_id": "p-f7f1dc"
+    }
+  ],
+  "duration_ms": 77708,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 174410,
+    "completion_tokens": 7494,
+    "total_tokens": 181904,
+    "cached_tokens": 43304,
+    "api_calls": 6,
+    "cost_usd": 0.0555299,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 231,
+        "total_tokens": 2140,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004748
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2036,
+        "completion_tokens": 450,
+        "total_tokens": 2486,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006097
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 6670,
+        "completion_tokens": 2199,
+        "total_tokens": 8869,
+        "cached_tokens": 2031,
+        "cost_usd": 0.00212885
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15361,
+        "completion_tokens": 1058,
+        "total_tokens": 16419,
+        "cached_tokens": 6665,
+        "cost_usd": 0.00260145
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18957,
+        "completion_tokens": 973,
+        "total_tokens": 19930,
+        "cached_tokens": 15356,
+        "cost_usd": 0.0019745
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 129477,
+        "completion_tokens": 2583,
+        "total_tokens": 132060,
+        "cached_tokens": 18952,
+        "cost_usd": 0.0477406
+      }
+    ]
+  }
+}

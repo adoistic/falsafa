@@ -1,0 +1,309 @@
+{
+  "answer": "**Manu on *daṇḍa* (the rod of punishment, or coercive authority):** The strongest line explicitly portraying it as divinely instituted appears in *Manusmṛti* 7.14: \"For his sake [the king's], the Lord in the beginning created `Daṇḍa`, his own son, as Dharma, the protector of all beings, formed of the spiritual luster of Brahma.\"[^1] This frames *daṇḍa* as an eternal, primordial creation by the supreme deity (Brahma), inherent to cosmic order (*ṛta*), predating human society and kingship itself—kings merely wield what the gods forged.[^2]\n\n**Charles Comte in *Traité de Législation: VOL II* on state coercion:** No verbatim or direct match for \"state coercion as the conditioned product of historical violence\" appears in English translations of Vol. II (or adjacent volumes). The work primarily examines how governments and authority emerge as *conditioned products* of *historical and environmental circumstances* (e.g., climate, subsistence like hunting/fishing, tribal relations), often implying interpersonal or intertribal violence/disputes as precursors to any \"authority,\" but without centralized states in most cases studied. The strongest proximate line is from ch. 14: \"There exists, therefore, within a tribe, no authority to settle the disputes that may arise among the members of which it is composed.\"[^3] Here, coercion defaults to individual strength amid historical tribal conflicts/wars (e.g., raids), not divine mandate or formal state—authority is emergent from survival needs, not transcendent. (If referring to *Traité de la Propriété* Vol. II or another, no such line surfaced; Vol. II *Législation* fits the anthropological framing best.)\n\n**Durability across regime change:** Manu's divine framing is more durable. As a metaphysical absolute (Brahma's \"spiritual luster\"), *daṇḍa* transcends human regimes—any new ruler inherits the gods' tool, legitimizing coercion eternally regardless of ideology, conquest, or reform.[^4] Comte's circumstantial view ties legitimacy to historical violence/survival (e.g., tribal raids yielding chiefs), so radical regime shifts (e.g., from nomadic hordes to sedentary states) could obsolete it, demanding rejustification via new conditions. Divine permanence weathers upheaval better than contingent history.\n\n[^1]: *Manusmṛti*, [7.14](/works/unknown-manusmrti-347b76/07/translation/#p-73f910).\n\n[^2]: *Manusmṛti*, ch. 7 overview ([full chapter](/works/unknown-manusmrti-347b76/07/translation/)); *daṇḍa* as \"Dharma itself\" in 7.18 ([/works/unknown-manusmrti-347b76/07/translation/#p-c970b2)).\n\n[^3]: *Traité de Législation: VOL II*, [ch. 14](/works/charles-comte-traite-de-legislation-vol-ii-20331d/14-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-fc5016).\n\n[^4]: Reinforced in *Manusmṛti* 7.15: fear of *daṇḍa* enforces Dharma universally ([/works/unknown-manusmrti-347b76/07/translation/#p-55e886)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manusmriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "manu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "danda divine manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"danda\" book 7 manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "danda manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"divine\" rod OR staff OR punishment manu"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL II\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 91,008 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"van di"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"violence\" coercion OR force OR punishment state OR government OR sovereign comte"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"danda\" OR \"rod of punishment\" OR \"punishment\" OR \"coercion\" OR \"force\" manu chapter 7 OR book 7"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "danda OR \"rod of punishment\" \"divine\" OR brahma OR god OR gods manu"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"violence\" OR \"force\" OR \"conquest\" OR \"war\" (state OR government OR sovereign OR power OR authority) origin OR product OR arise OR from OR conditioned charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL II\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 91,008 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"van di"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-73f910"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-55e886",
+          "p-73f910",
+          "p-c970b2"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 14
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL II · ch.14\\nprose · 22¶ · 4505w · vocab 1053 (TTR 49%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"forty-fifth degree lat"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"force\" OR \"violence\" OR \"conquest\" OR \"war\" OR \"coercion\" (government OR state OR sovereign OR king OR power OR authority OR danda OR punishment) (origin OR arose OR product OR conditioned OR from OR born OR produced) \"charles comte\"",
+        "limit": 20
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL II · ch.13\\nprose · 15¶ · 2324w · vocab 494 (TTR 47%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"peoples diverse species"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-73f910"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-c970b2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-fc5016"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-55e886"
+    }
+  ],
+  "duration_ms": 48577,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 86287,
+    "completion_tokens": 6053,
+    "total_tokens": 92340,
+    "cached_tokens": 50010,
+    "api_calls": 5,
+    "cost_usd": 0.012782400000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1930,
+        "completion_tokens": 866,
+        "total_tokens": 2796,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007965
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2948,
+        "completion_tokens": 625,
+        "total_tokens": 3573,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0006198
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13650,
+        "completion_tokens": 1068,
+        "total_tokens": 14718,
+        "cached_tokens": 2943,
+        "cost_usd": 0.00282255
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 31395,
+        "completion_tokens": 1754,
+        "total_tokens": 33149,
+        "cached_tokens": 13645,
+        "cost_usd": 0.00510925
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 36364,
+        "completion_tokens": 1740,
+        "total_tokens": 38104,
+        "cached_tokens": 31390,
+        "cost_usd": 0.0034343
+      }
+    ]
+  }
+}

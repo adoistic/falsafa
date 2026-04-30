@@ -1,0 +1,242 @@
+{
+  "answer": "**Hindu Dharma texts (Smṛtis)** prominently engage with *mleccha* (often rendered as \"barbarian\" or \"outsider\") as foreigners, speakers of impure languages, inhabitants of lands beyond Āryāvarta, or those outside the *varṇa* system, frequently in contexts of purity, law, geography, and punishment.[^1][^2][^3][^4][^5]\n\n- *Manusmṛti*: Defines *mleccha*-lands beyond the black antelope's range; equates non-*varṇa* groups (even if speaking Aryan languages) with barbarians; discusses \"outsiders\" as defiled castes below Shudras.[^6][^7][^8]\n- *Viṣṇu Smṛti*: Prohibits ancestral rites (*śrāddha*) in *mlecchadeśa* (barbarian lands); restricts contact and travel there.[^9]\n- *Kātyāyana Smṛti*: No fines for beating *mlecchas* (barbarians), alongside untouchables and sinners.[^10]\n- *Nāradasmṛti*: Outsiders as witnesses only among their own.[^11]\n\n**Urdu/Persian poetry** (Islamic context) engages *kāfir* (\"infidel,\" non-believer) theologically or satirically, questioning justice, philosophy, or prophecy.\n\n- *Bang-E-Dara* (Allama Iqbal, Parts 1 & 3): Critiques views calling Hindus non-*kāfirs*; posits paradise rewards for *kafirs* following Muslim law.[^12][^13]\n- *Diwan-E-Zauq* (Sheikh Ibrahim Zauq): Fears an \"infidel\" claiming prophethood via love's \"seal.\"[^14]\n\nNo other works in the corpus substantially engage these figures; French texts use \"barbarian\" historically/ethnographically without the religious/caste connotations.[^15]\n\n[^1]: *Manusmṛti*, Ch. 2, [p-265a9e](/works/unknown-manusmrti-347b76/02/translation/#p-265a9e).\n[^2]: *Manusmṛti*, Ch. 10, [p-19acb7](/works/unknown-manusmrti-347b76/10/translation/#p-19acb7).\n[^3]: *Viṣṇu Smṛti*, Ch. 84, [p-e5a586](/works/unknown-visnu-smrti-27f0d8/84/translation/#p-e5a586).\n[^4]: *Kātyāyana Smṛti*, Ch. 66, [p-6be7c8](/works/unknown-katyayana-smrti-1e06d2/66/translation/#p-6be7c8).\n[^5]: *Manusmṛti*, Ch. 10, [p-550c60](/works/unknown-manusmrti-347b76/10/translation/#p-550c60).\n[^6]: *Manusmṛti*, Ch. 2, [p-265a9e](/works/unknown-manusmrti-347b76/02/translation/#p-265a9e).\n[^7]: *Manusmṛti*, Ch. 10, [p-19acb7](/works/unknown-manusmrti-347b76/10/translation/#p-19acb7).\n[^8]: *Manusmṛti*, Ch. 10, [p-04bffd](/works/unknown-manusmrti-347b76/10/translation/#p-04bffd).\n[^9]: *Viṣṇu Smṛti*, Ch. 84, [p-e5a586](/works/unknown-visnu-smrti-27f0d8/84/translation/#p-e5a586).\n[^10]: *Kātyāyana Smṛti*, Ch. 66, [p-6be7c8](/works/unknown-katyayana-smrti-1e06d2/66/translation/#p-6be7c8).\n[^11]: *Nāradasmṛti*, Ch. 1, [p-68eb5f](/works/unknown-naradasmrti-7650d2/01/translation/#p-68eb5f).\n[^12]: *Bang-E-Dara Part 1*, Ch. 44, [p-266324](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-266324).\n[^13]: *Bang-E-Dara Part 3*, Ch. 4, [p-072edd](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-072edd).\n[^14]: *Diwan-E-Zauq*, Ch. 59, [p-bc68e3](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/59-koi-in-tang-dahanon-se-mohabbat-na-kare/translation/#p-bc68e3).\n[^15]: *Nouveau traité d'économie: VOL I* (Charles Dunoyer), various chapters.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kafir",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mleccha",
+        "limit": 20
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "outsider",
+        "limit": 20
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "infidel",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "barbarian",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-265a9e"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-19acb7"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 84,
+        "paragraph_ids": [
+          "p-e5a586"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 66,
+        "paragraph_ids": [
+          "p-6be7c8"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "paragraph_ids": [
+          "p-00d472"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-072edd"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 59,
+        "paragraph_ids": [
+          "p-a53fba"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-68eb5f"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-265a9e"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-19acb7"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-e5a586"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-6be7c8"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-550c60"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-04bffd"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-68eb5f"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-266324"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-072edd"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-bc68e3"
+    }
+  ],
+  "duration_ms": 35912,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 24547,
+    "completion_tokens": 4410,
+    "total_tokens": 28957,
+    "cached_tokens": 12653,
+    "api_calls": 3,
+    "cost_usd": 0.00521645,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 535,
+        "total_tokens": 2442,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006264
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10622,
+        "completion_tokens": 1676,
+        "total_tokens": 12298,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0026795
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 12018,
+        "completion_tokens": 2199,
+        "total_tokens": 14217,
+        "cached_tokens": 10617,
+        "cost_usd": 0.00191055
+      }
+    ]
+  }
+}

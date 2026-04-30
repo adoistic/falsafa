@@ -1,0 +1,269 @@
+{
+  "answer": "**Manusmṛti** (Chapter 7) contains the most prominent moral vice-lists in the corpus: a \"tenfold group born of desire\" for kings (hunting, gambling, sleeping by day, slander, women, intoxication, song/dance/music, aimless wandering)[^1] and an \"eightfold group born of anger\" (malice, violence, treachery, envy, calumny, misappropriation of property, harshness of speech/punishment).[^2]\n\n**Bṛhaspati Smṛti** (Chapter 1) includes a shorter vice-list under \"The Vices of Women\": drinking, wandering, sleeping by day, and idleness.[^3]\n\nNo other works in the corpus contain comparable structured lists of moral vices (e.g., no matches for \"seven deadly sins,\" \"capital vices,\" or similar Western catalogues; scattered mentions of \"vice\" appear but lack list form).\n\n[^1]: Manusmṛti, [p-afbfa2](/works/unknown-manusmrti-347b76/07/translation/#p-afbfa2).\n\n[^2]: Manusmṛti, [p-701061](/works/unknown-manusmrti-347b76/07/translation/#p-701061) and [p-79fa07](/works/unknown-manusmrti-347b76/07/translation/#p-79fa07).\n\n[^3]: Bṛhaspati Smṛti, [p-6d8ba9](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-6d8ba9) and [p-2e7097](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-2e7097).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vice",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vices",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"list of vices\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seven deadly sins\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"capital vices\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bṛhaspati Smṛti · ch.1\\nprose · 1220¶ · 32934w · vocab 2880 (TTR 19%, hapax 44%)\\n\\n## Distinctive trigrams\\n\\\"plea former judgment\\\" · \\\"made pa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vices born of\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vices of\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ten vices",
+        "limit": 5
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eight vices",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-afbfa2",
+          "p-701061",
+          "p-79fa07"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-2e7097"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-6d8ba9"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-afbfa2"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-701061"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-79fa07"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-6d8ba9"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-2e7097"
+    }
+  ],
+  "duration_ms": 40187,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 179263,
+    "completion_tokens": 4227,
+    "total_tokens": 183490,
+    "cached_tokens": 99442,
+    "api_calls": 5,
+    "cost_usd": 0.0230498,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1899,
+        "completion_tokens": 884,
+        "total_tokens": 2783,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007993
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9237,
+        "completion_tokens": 827,
+        "total_tokens": 10064,
+        "cached_tokens": 150,
+        "cost_usd": 0.0022384
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12313,
+        "completion_tokens": 701,
+        "total_tokens": 13014,
+        "cached_tokens": 9232,
+        "cost_usd": 0.0014283
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 77607,
+        "completion_tokens": 1018,
+        "total_tokens": 78625,
+        "cached_tokens": 12308,
+        "cost_usd": 0.0141842
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 78207,
+        "completion_tokens": 797,
+        "total_tokens": 79004,
+        "cached_tokens": 77602,
+        "cost_usd": 0.0043996
+      }
+    ]
+  }
+}

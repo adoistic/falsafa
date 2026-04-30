@@ -1,0 +1,205 @@
+{
+  "answer": "**'Ahl-e-junoon' (literally \"people of madness\" or \"the mad ones\") appears in Mirza Ghalib's *Diwan-e-Ghalib*, specifically in ghazal chapter 78 (\"Husn ghamze ki kashakash se chhoota mere baad\").**[^1][^2]\n\nIn the original Urdu (transliterated):\n> Hai junoon ahl-e-junoon ke liye aaghosh-e-vidaa  \n> Chaak hota hai garebaan se juda mere baad[^1]\n\n**English translation:**  \n> For madmen, madness is a final, parting moan,  \n> The collar and the tear now grieve, each one alone, now I am gone.[^2]\n\nHere, *ahl-e-junoon* refers to lovers (or poet-lovers like Ghalib himself) overwhelmed by *junoon*—an ecstatic frenzy or madness of love (*ishq*). After the beloved departs (\"mere baad\"), this madness becomes their sole comfort, like a farewell embrace (*aaghosh-e-vidaa*), while the torn collar (*chaak...garebaan*) symbolizes grief-stricken separation.[^2]\n\n**In broader Urdu poetic tradition (as seen across the Falsafa corpus):**  \n*Junoon* recurs as a motif for divine or romantic passion bordering on insanity, especially in Ghalib and Allama Iqbal's works.[^3] For instance:  \n- Ghalib's ch. 11: Poets/lovers as \"*junoon-jolaan*\" (\"flames of madness\"), headless mendicants driven by passion.[^4]  \n- Iqbal's *Bang-e-Dara* often evokes *junoon* for spiritual fervor (e.g., \"aawara-e-junoon\" or wandering madmen of passion).[^5]  \n\n**Thus, for Urdu poets, 'ahl-e-junoon' evokes the archetype of the love-maddened soul—poet, lover, or mystic—whose frenzy sustains them amid loss, a core theme in ghazal poetics.** The corpus has no further explicit definitions, but this usage aligns with *ishq*'s ecstatic, self-annihilating ideal.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 78, [p-d42a4b](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/78-husn-ghamze-ki-kashakash-se-chhoota-mere-baad/transliteration/#p-d42a4b).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 78, [p-ace4fa](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/78-husn-ghamze-ki-kashakash-se-chhoota-mere-baad/translation/#p-ace4fa).\n[^3]: Multiple hits for \"junoon\" in Ghalib (e.g., ch. 11, 47, 55) and Iqbal (*Bang-e-Dara* Parts 1–2).\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 11 (\"Asad hum woh junoon-jolaan gada-e-be-sar-o-pa hain\").\n[^5]: E.g., Allama Iqbal, *Bang-e-Dara Part 2*, ch. 5 (\"aawara-e-junoon\").",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ahl-e-junoon",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ahl e junoon\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"people of madness\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "junoon",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ahl-e\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 78,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.78 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 78,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.78 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 78
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 78-husn-ghamze-ki-kashakash-se-chhoota-mere-baad.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 78,
+        "paragraph_ids": [
+          "p-ace4fa"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 78,
+        "paragraph_ids": [
+          "p-d42a4b"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"madmen\" OR \"madness\" OR \"frenzy\" ahl OR junoon",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 78,
+      "paragraph_id": "p-d42a4b"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 78,
+      "paragraph_id": "p-ace4fa"
+    }
+  ],
+  "duration_ms": 40402,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 30645,
+    "completion_tokens": 4093,
+    "total_tokens": 34738,
+    "cached_tokens": 15692,
+    "api_calls": 4,
+    "cost_usd": 0.005821700000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 598,
+        "total_tokens": 2504,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006577
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5605,
+        "completion_tokens": 767,
+        "total_tokens": 6372,
+        "cached_tokens": 150,
+        "cost_usd": 0.001482
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 9797,
+        "completion_tokens": 1359,
+        "total_tokens": 11156,
+        "cached_tokens": 5600,
+        "cost_usd": 0.0017989
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 13337,
+        "completion_tokens": 1369,
+        "total_tokens": 14706,
+        "cached_tokens": 9792,
+        "cost_usd": 0.0018831
+      }
+    ]
+  }
+}

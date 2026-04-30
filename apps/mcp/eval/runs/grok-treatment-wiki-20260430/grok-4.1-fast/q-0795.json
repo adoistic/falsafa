@@ -1,0 +1,189 @@
+{
+  "answer": "**In \"The Wanderer\" (ch. 11 of *Old English Elegies*), the speaker—a lone exile deprived of his retainers and homeland—refers to his lost human lord/protector with three compound Old English terms: *goldwine* (\"gold-friend,\" i.e., generous lord), *winedryhten* (\"friend-lord\"), and *mondryhten* (\"liege-lord\" or \"protector of [his] man\").**[^1][^2][^3]\n\nThese appear in his lamenting monologue (lines 20–23, 36–38, 40), e.g.:\n\n> siþþan geara iu **goldwine** minne  \n> hrusan heolstre biwrah  \n> ...  \n> his **winedryhtnes** leofes larcwidum  \n> ...  \n> þæt he his **mondryhten** clyppe ond cysse.[^4]\n\nAmong these, ***mondryhten*** most precisely evokes \"protector,\" as *mon-* (\"man\") implies the retainer's sworn protector, and the passage describes (in dream) embracing/kissing him \"on cneo lecge honda ond heafod\" (laying hands and head on knee).[^4] The translation renders it \"liege-lord,\" capturing the feudal bond.[^5]\n\nHe also notes having \"few beloved protectors\" (*lyt hafað leofra geholena*), using *geholena* (guardians/helpers) in plural for such figures generally.[^5]\n\n[^1]: *Old English Elegies*, ch. 11 (*The Wanderer*), original variant, [full chapter](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/original/).\n\n[^2]: Ibid., [p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/original/#p-9462cc) (main speech; *goldwine* at l. 23).\n\n[^3]: Ibid., *mondryhten* (l. 40), *winedryhtnes* (genitive, l. 36–38).\n\n[^4]: *Old English Elegies*, ch. 11, translation variant, [p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^5]: Ibid. (whole speech). \n\n*(Note: Paragraph IDs align across variants; chapter has 3 logical paragraphs in translation, with the core lament in the middle. No single non-compound *dryhten* or *hlaford* names the human lord—*dryhten* elsewhere denotes God.)*",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wanderer lord protector"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "unknown"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the wanderer\" lord"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "protector lord wanderer"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9462cc"
+    }
+  ],
+  "duration_ms": 79973,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 25646,
+    "completion_tokens": 5769,
+    "total_tokens": 31415,
+    "cached_tokens": 7650,
+    "api_calls": 5,
+    "cost_usd": 0.006866199999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 545,
+        "total_tokens": 2450,
+        "cached_tokens": 150,
+        "cost_usd": 0.000631
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2445,
+        "completion_tokens": 309,
+        "total_tokens": 2754,
+        "cached_tokens": 150,
+        "cost_usd": 0.000621
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "list_works"
+        ],
+        "prompt_tokens": 4765,
+        "completion_tokens": 428,
+        "total_tokens": 5193,
+        "cached_tokens": 2440,
+        "cost_usd": 0.000801
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5083,
+        "completion_tokens": 481,
+        "total_tokens": 5564,
+        "cached_tokens": 4760,
+        "cost_usd": 0.0005431
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 11448,
+        "completion_tokens": 4006,
+        "total_tokens": 15454,
+        "cached_tokens": 150,
+        "cost_usd": 0.0042701
+      }
+    ]
+  }
+}

@@ -1,0 +1,340 @@
+{
+  "answer": "The metaphorical pair of *rah* (path, road, or journey) and *manzil* (destination or stage) does not appear verbatim using those Urdu terms (or direct English calques like \"way\" and \"destination\") across the translations in this corpus. Searches for the original terms, their Romanizations, and conceptual English equivalents yielded no literal matches in Ghalib or Zauq, and only one explicit conceptual pairing in Iqbal.[^1] The corpus translations prioritize poetic naturalness over literal terms, so the *idea* of endless journeying toward (or questioning) an endpoint recurs thematically in Sufi-influenced Urdu ghazals/nazms, but not as a fixed refrain.\n\n### Iqbal (Bang-E-Dara Part 2, \"Chaand aur Taare\")\nThe stars lament their ceaseless motion from dusk to dawn and explicitly question if the \"great journey\" will ever end or yield a \"destination.\" The moon responds that life's essence is ceaseless motion on \"this path,\" where pausing invites death—echoing *rah* as eternal striving, *manzil* as elusive beauty.[^2]\n\n> Will this great journey ever cease?  \n> Will a **destination** meet our gaze?[^3]  \n> ...  \n> To pause upon **this path** is but a flaw,  \n> For hidden in Stillness is death's own law.[^4]\n\n### Ghalib (Diwan-e-Ghalib, Ghazal 100)\n\"Don't mock my **path** toward the holy site\" (*Kaaba*, a sacred *manzil*) contrasts the pilgrim's road with lost tavern fellowship, implying virtue's endpoint amid fate's deviations. *Rah* is literal/spiritual journey; *manzil* inferred as sanctuary.[^5]\n\n> Don't mock **my path** toward the holy site, you see,  \n> The tavern's fellowship is lost to me.[^6]\n\n### Ghalib (Diwan-e-Ghalib, Ghazal 195)\nThe lover journeys to the beloved's street (*manzil* as endpoint), fainting upon arrival; later, hope draws him along \"the **road**\" toward grace's shrine. *Rah* is arduous travel; *manzil* as anticipated (yet overwhelming) arrival.[^7]\n\n> A single hope, O Ghalib, leads me onward past despair;  \n> **The road** I walk, drawn by the hook of Grace's holy name...[^8]\n\nNo clear instance of the pair appears in *Diwan-e-Zauq* despite scanning wiki cards/full sheets and targeted searches—Zauq favors \"way\" in isolation (e.g., \"faithless way,\" \"human way\") without paired endpoint imagery.[^9] The concept is consistent where present: *rah* evokes striving/journey (physical, spiritual, or erotic); *manzil* (implied) as goal/arrival, with no semantic shift across authors.[^1]\n\n[^1]: *Allama Iqbal, Bang-E-Dara Part 2*, ch. 9, [full chapter](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/09-chaand-aur-taare/translation/).\n[^2]: Ibid., [p-a7f06e](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/09-chaand-aur-taare/translation/#p-a7f06e).\n[^3]: Ibid.\n[^4]: Ibid., [p-fb94a9](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/09-chaand-aur-taare/translation/#p-fb94a9).\n[^5]: *Mirza Ghalib, Diwan-E-Ghalib*, ch. 100, [full chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/100-kaaba-mein-jaa-raha-toh-na-do-tana-kya-kahein/translation/).\n[^6]: Ibid., [p-fa6504](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/100-kaaba-mein-jaa-raha-toh-na-do-tana-kya-kahein/translation/#p-fa6504).\n[^7]: *Mirza Ghalib, Diwan-E-Ghalib*, ch. 195, [full chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/195-waan-pahunch-kar-jo-ghash-aata-paye-ham-hai-hum-ko/translation-2/).\n[^8]: Ibid., [p-30dc4d](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/195-waan-pahunch-kar-jo-ghash-aata-paye-ham-hai-hum-ko/translation-2/#p-30dc4d).\n[^9]: *Sheikh Ibrahim Zauq, Diwan-E-Zauq*, [wiki card](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/wiki/_work.card.md).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ibrahim zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rah\" \"manzil\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rah manzil",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"path\" \"station\" OR \"way\" \"destination\" OR \"path\" \"destination\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"manzil\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"raah\" OR \"rah\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"path\" \"manzil\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"way\" \"manzil\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"path\" OR \"way\" OR \"road\" OR \"journey\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"destination\" OR \"station\" OR \"stage\" OR \"stop\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 9
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 100
+      },
+      "result_summary": "Read ch.100 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 195
+      },
+      "result_summary": "Read ch.195 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"path\" OR \"road\" OR \"way\" OR \"journey\" ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"path\" OR \"road\" OR \"way\" OR \"journey\" zauq",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 195,
+      "paragraph_id": "p-a7f06e"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 195,
+      "paragraph_id": "p-fb94a9"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 195,
+      "paragraph_id": "p-fa6504"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 195,
+      "paragraph_id": "p-30dc4d"
+    }
+  ],
+  "duration_ms": 79566,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 77257,
+    "completion_tokens": 8054,
+    "total_tokens": 85311,
+    "cached_tokens": 45332,
+    "api_calls": 5,
+    "cost_usd": 0.0126786,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1940,
+        "completion_tokens": 779,
+        "total_tokens": 2719,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00049535
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5646,
+        "completion_tokens": 1686,
+        "total_tokens": 7332,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019497
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 11366,
+        "completion_tokens": 1488,
+        "total_tokens": 12854,
+        "cached_tokens": 5641,
+        "cost_usd": 0.00217105
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki_full",
+          "read_wiki_full",
+          "read_wiki_full",
+          "read_wiki_full",
+          "read_wiki_full",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 26304,
+        "completion_tokens": 1944,
+        "total_tokens": 28248,
+        "cached_tokens": 11361,
+        "cost_usd": 0.00452865
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 32001,
+        "completion_tokens": 2157,
+        "total_tokens": 34158,
+        "cached_tokens": 26299,
+        "cost_usd": 0.00353385
+      }
+    ]
+  }
+}

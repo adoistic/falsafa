@@ -1,0 +1,312 @@
+{
+  "answer": "The Falsafa corpus contains numerous Indic *smṛti* texts (traditional law codes) that prescribe detailed rules on food and dietary practices. These include prohibitions on certain foods (e.g., meat, forbidden items), purity requirements for eating, ritual handling of food offerings (*nivedita*), penances involving restricted diets or fasting (*upavāsa*, *kṛcchra*), vows (*niyamas*, *vrata*) emphasizing lightness of diet (*laghu-āhāra*), and contextual abstentions (e.g., during impurity/*āśauca*, festivals, or eclipses). Such rules are embedded in discussions of *dharma* (duty), expiation (*prāyaścitta*), ancestral rites (*śrāddha*), and daily observances.\n\nNo works explicitly frame these as \"dietary laws\" in a modern sense, nor do any advocate vegetarianism per se (though meat-eating is often restricted). Descriptive claims about dietary customs appear rarely, mainly in narrative poetry. French political-economic treatises mention diet (*régime*) incidentally in physiological or societal contexts, without prescriptive rules.[^1]\n\n### Works with substantive rules or claims\nThe following 11 works engage meaningfully (via rules, vows, or penances). Others (e.g., *Charles Comte*'s *Traité de Législation* vols., *Dunoyer*'s *Nouveau traité d'économie*) have only passing, non-normative references.\n\n- **Manusmṛti**: Rules permitting meat-eating only when ritually sprinkled, at Brahmin invitation, or in danger; otherwise, abstain to avoid rebirth as an animal.[^2]\n- **Āṅgirasa Smṛti**: Extensive rules on forbidden foods, food purity in rituals/*śrāddha*, mixing offered/unoffered food, hot food offerings, and eclipse fasting.[^3]\n- **Viṣṇu Smṛti**: Vows requiring abstention from meat; penances with controlled diets (e.g., *parāka*: 12-day fast with cow products); widow fasting prohibited.[^4]\n- **Vratisaṃsana**: *Niyama* vows prescribe \"lightness of diet\" (*laghu-āhāra*): eat only proper foods contentedly, avoiding pleasure-seeking excess.[^5]\n- **Yama Smṛti**: Purification diets (e.g., barley gruel + cow urine for 10 nights) after eating outcaste/*cāṇḍāla* food.[^6]\n- **Vīramitrodaya**: Festival prohibitions: no eating or meat; detailed *tithi* rules for fasting/*upavāsa* timing and purity.[^7]\n- **Kātyāyana Smṛti**: Penal meager diets for royal laborers; vows/fasting for women.[^8]\n- **Paraśara Smṛti**: Fasting penances (1 day/night) for killing edible birds/animals, implying dietary classifications.[^9]\n- **Bṛhaspati Smṛti**: Fasting required before boundary demarcation rituals.[^10]\n- **Nārada Smṛti**: Fasting before solo boundary adjudication.[^11]\n- **Andreas** (Cynewulf): Descriptive claim of Mermedonian cannibalism as tribal \"law/custom\" (*þeaw*, \"habit\").[^12]\n\nNo other works in the 37-work corpus match these criteria (e.g., no engagement in *Bang-e-Dara*, *Diwan-e-Ghalib*, *Elene*, *Traité de la propriété*, etc.).\n\n[^1]: E.g., *Charles Dunoyer, Nouveau traité d'économie: VOL I*, ch. 2, [p-d7cc02](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-d7cc02).\n\n[^2]: *Manusmṛti*, ch. 5, [p-77c420](/works/unknown-manusmrti-347b76/05/translation/#p-77c420).\n\n[^3]: *Āṅgirasa Smṛti*, ch. 1, [p-86bddc](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-86bddc).\n\n[^4]: *Viṣṇu Smṛti*, ch. 19, [p-449301](/works/unknown-visnu-smrti-27f0d8/19/translation/#p-449301).\n\n[^5]: *Vratisaṃsana*, ch. 1, [p-fc4101](/works/unknown-vratisasana-d0fe75/01/translation/#p-fc4101).\n\n[^6]: *Yama Smṛti*, ch. 1, [p-00038f](/works/unknown-yama-smrti-552f8d/01/translation/#p-00038f).\n\n[^7]: *Vīramitrodaya*, ch. 1, [p-aab1cb](/works/unknown-viramitrodaya-d4b632/01/translation/#p-aab1cb).\n\n[^8]: *Kātyāyana Smṛti*, ch. 68, [p-ecceef](/works/unknown-katyayana-smrti-1e06d2/68/translation/#p-ecceef).\n\n[^9]: *Paraśara Smṛti*, ch. 6, [p-aa2384](/works/unknown-parasara-smrti-2259be/06/translation/#p-aa2384).\n\n[^10]: *Bṛhaspati Smṛti*, ch. 1, [p-26406b](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-26406b).\n\n[^11]: *Nārada Smṛti*, ch. 1, [p-4992da](/works/unknown-naradasmrti-7650d2/01/translation/#p-4992da).\n\n[^12]: *Andreas*, ch. 1, [p-f6e450](/works/cynewulf-andreas-07b573/01/translation/#p-f6e450).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "diet",
+        "limit": 50
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "food",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eat meat",
+        "limit": 50
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "abstain from",
+        "limit": 50
+      },
+      "result_summary": "Found 42 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fasting",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dietary laws",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vegetarian",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-77c420"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-86bddc"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 19,
+        "paragraph_ids": [
+          "p-449301"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-fc4101"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-00038f"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-aab1cb"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 68,
+        "paragraph_ids": [
+          "p-ecceef"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-aa2384"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-26406b"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-4992da"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f6e450"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-d7cc02"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-77c420"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-86bddc"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-449301"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-fc4101"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-00038f"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-aab1cb"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ecceef"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-aa2384"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-26406b"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-4992da"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-f6e450"
+    }
+  ],
+  "duration_ms": 49738,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 54766,
+    "completion_tokens": 6523,
+    "total_tokens": 61289,
+    "cached_tokens": 29228,
+    "api_calls": 3,
+    "cost_usd": 0.0098305,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 768,
+        "total_tokens": 2672,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00048265
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 25471,
+        "completion_tokens": 3022,
+        "total_tokens": 28493,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00632305
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 27391,
+        "completion_tokens": 2733,
+        "total_tokens": 30124,
+        "cached_tokens": 25466,
+        "cost_usd": 0.0030248
+      }
+    ]
+  }
+}

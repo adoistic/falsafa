@@ -1,0 +1,316 @@
+{
+  "answer": "In Mirza Ghalib's *Diwan-e-Ghalib*, the Urdu term *fanaa* (often rendered in transliteration as *fana*) evokes both literal destruction or dissolution (e.g., natural processes like evaporation or waning) and mystical self-annihilation (e.g., ecstatic union with the divine or beloved, akin to Sufi *fana fi Allah*). The poetry does not explicitly theorize this duality but activates it through metaphor, often blurring the senses via natural imagery that symbolizes spiritual merger.[^1][^2]\n\n### Ordinary Destruction (Literal Dissolution/Fading)\nGhalib frequently ties *fanaa* to everyday impermanence or physical decay, such as dew evaporating or existence diminishing:\n- Dewdrop (*shabnam*) receives \"instruction\" (*ta'leem*) in *fanaa* from the sun's ray (*partau-e-khur*), portraying annihilation as a natural fading.[^3]\n- Existence (*hasti*) itself serves as \"proof\" (*daleel*) of one's own *fanaa*, implying inevitable waning (*wane* in translation).[^4]\n\nThese evoke ordinary destruction: transient beauty succumbs to cosmic forces without transcendence.\n\n### Mystical Self-Annihilation (Ecstatic Union)\nConversely, *fanaa* signals blissful self-loss in unity, often with Sufi overtones of the drop (*qatra*) merging into the ocean (*darya*) or the soul dissolving before divine majesty:\n- The \"bliss\" (*ishrat*) of a drop is to *fana ho jaana* (become annihilated) in the river—a classic metaphor for ego-death yielding cure (*dawa*) and merger.[^5]\n- Dewdrops *fana* (vanish) in the sun's display (*jalwa-e-khur*), paralleling the poet's own loss (*lost*) before \"the Names of Divine Majesty\"—a direct Sufi activation of self-annihilation in the divine.[^6]\n- A \"taste\" (*zauq*) for *fanaa* marks the poet's lifelong obsession, granted \"ecstasy\" (*nasha*) via an \"empty cup\" (*saaghar-e-khaali*), evoking mystical intoxication over annihilation.[^7]\n\nGhalib pivots fluidly: ch. 86 opens with pure mystical bliss (*drop-river*), while chs. 3 and 46 use dew-sun as literal destruction that ladders to spiritual *fanaa*. This ambiguity enriches the term, mirroring Sufi phenomenology where physical end prefigures eternal union. The corpus lacks a direct lexicon or commentary on *fanaa*, but these ghazals exemplify its dual activation.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 86 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/86-ishrat-e-qatra-hai-darya-mein-fana-ho-jaana/translation/).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 46 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/46-garm-faryaad-rakha-shakl-e-nihaali-ne-mujhe/translation/).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 3, [p-9ed8d2](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/03-aah-ko-chahiye-ik-umr-asar-hote-tak/translation/#p-9ed8d2).\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 18, [p-da73dd](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/18-be-etedaaliyon-se-subuk-sab-mein-hum-huay/translation/#p-da73dd).\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 86, [p-a9ff31](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/86-ishrat-e-qatra-hai-darya-mein-fana-ho-jaana/translation/#p-a9ff31).\n[^6]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 46, [p-6b73ab](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/46-garm-faryaad-rakha-shakl-e-nihaali-ne-mujhe/translation/#p-6b73ab).\n[^7]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 46 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/46-garm-faryaad-rakha-shakl-e-nihaali-ne-mujhe/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fanaa",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fana",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self-annihilation\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 86
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 86-ishrat-e-qatra-hai-darya-mein-fana-ho-jaana.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 46
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.46\\nverse · 7¶ · 141w · vocab 67 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"sapling form kept\\\" · \\\"form kept constant\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 18
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 18-be-etedaaliyon-se-subuk-sab-mein-hum-huay.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.3\\nverse · 8¶ · 132w · vocab 70 (TTR 86%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"till morning light\\\" · \\\"sigh wait age\\\" "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 86,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.86 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 46,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.46 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 18,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.18 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fana\" ghalib annihilation OR destruction OR vanish OR lost",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 86,
+        "paragraph_ids": [
+          "a9ff31"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 46,
+        "paragraph_ids": [
+          "6b73ab"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "9ed8d2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 18,
+        "paragraph_ids": [
+          "da73dd"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 86,
+        "paragraph_ids": [
+          "a9ff31"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 46,
+        "paragraph_ids": [
+          "6b73ab"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-9ed8d2"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-da73dd"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-a9ff31"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-6b73ab"
+    }
+  ],
+  "duration_ms": 43466,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 50381,
+    "completion_tokens": 6213,
+    "total_tokens": 56594,
+    "cached_tokens": 32919,
+    "api_calls": 5,
+    "cost_usd": 0.00824485,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1921,
+        "completion_tokens": 774,
+        "total_tokens": 2695,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007487
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7163,
+        "completion_tokens": 1079,
+        "total_tokens": 8242,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019496
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10572,
+        "completion_tokens": 658,
+        "total_tokens": 11230,
+        "cached_tokens": 7158,
+        "cost_usd": 0.0013697
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14899,
+        "completion_tokens": 1582,
+        "total_tokens": 16481,
+        "cached_tokens": 10567,
+        "cost_usd": 0.00218575
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 15826,
+        "completion_tokens": 2120,
+        "total_tokens": 17946,
+        "cached_tokens": 14894,
+        "cost_usd": 0.0019911
+      }
+    ]
+  }
+}

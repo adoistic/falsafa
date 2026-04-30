@@ -1,0 +1,251 @@
+{
+  "answer": "Mirza Ghalib's couplet from *Diwan-E-Ghalib* (ch. 168), titled \"Rahiye ab aisi jagah chal kar jahan koi na ho,\" presents solitude as a deliberate, almost defiant choice—a sought-after refuge from all human ties, even in illness or death.[^1] The speaker envisions an utterly isolated existence: \"Let's find a place where no one else is known, and be alone. / No kindred voice, no soul to call my own, and be alone,\" extending to a home \"of neither wall nor stone\" without neighbors, and a death unmourned.[^2] The refrain \"and be alone\" (ek hona) underscores a rhythmic embrace of radical independence, evoking Sufi-like withdrawal from worldly connections in the Persianate ghazal tradition.\n\nIn stark contrast, \"The Wanderer\" (ch. 11 of *Old English Elegies*) depicts solitude as an imposed exile, born of catastrophe—loss of lord, kin, and hall through war and *wyrd* (fate).[^3] The \"lone-dweller\" (*anhaga*) roams \"ice-bound waves,\" binding grief inwardly: \"Often I must alone, at each dawn, / lament my sorrows. There is none now living / to whom I dare my heart's secrets / openly speak.\"[^4] Memories of past joys haunt him amid \"fallow waves\" and \"frost and snow,\" fostering stoic wisdom about earthly transience (\"this middle-earth / each and every day droops and decays\").[^5] Unlike Ghalib's elective isolation, the Wanderer's ends in cautious hope: turning inward for \"secret counsel\" and seeking \"grace, / comfort from the Father in heaven.\"[^6]\n\n**Thematic divergences**: Ghalib romanticizes absolute aloneness as self-sufficient peace, rejecting society proactively; the Wanderer suffers involuntary *eardstapa* (earth-stepper's) loneliness, which tempers heroism into patient wisdom but craves lost community and divine stability. **Cultural worlds**: Ghalib's 19th-century Urdu verse thrives on mystical paradox and personal agency amid Mughal decline; the anonymous Anglo-Saxon poem (c. 10th c.) blends pagan fatalism with Christian consolation in a warrior society shattered by invasions. **Formally**, Ghalib's tight couplets with refrain evoke hypnotic desire; the Wanderer's meditative monologue builds through ubi sunt laments (\"Where has the horse gone? Where the warrior?\"). Both exalt solitude's profundity, but Ghalib wills it as liberation, while the Wanderer endures it as trial.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 168 (\"Rahiye ab aisi jagah chal kar jahan koi na ho\"), [translation](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/168-rahiye-ab-aisi-jagah-chal-kar-jahan-koi-na-ho/translation/).\n\n[^2]: Ibid., [¶1-3](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/168-rahiye-ab-aisi-jagah-chal-kar-jahan-koi-na-ho/translation/#p-3a3448).\n\n[^3]: Unknown, *Old English Elegies*, ch. 11 (\"The Wanderer\"), [translation](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/).\n\n[^4]: Ibid., [¶2](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^5]: Ibid., [¶2](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^6]: Ibid., [¶3](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-5bdc65).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Rahiye ab aisi jagah"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the wanderer\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wanderer"
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 168-rahiye-ab-aisi-jagah-chal-kar-jahan-koi-na-ho.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.168 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "unknown-old-english-elegies-d5fe9e",
+        "topic": "solitude"
+      },
+      "result_summary": "{\"topic\":\"solitude\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwa"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 168,
+        "paragraph_ids": [
+          "p-3a3448",
+          "p-09bdfe",
+          "p-07c752"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9cca5e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9462cc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-5bdc65"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-3a3448"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-5bdc65"
+    }
+  ],
+  "duration_ms": 42437,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 40206,
+    "completion_tokens": 5087,
+    "total_tokens": 45293,
+    "cached_tokens": 23315,
+    "api_calls": 4,
+    "cost_usd": 0.0070874499999999995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1923,
+        "completion_tokens": 1436,
+        "total_tokens": 3359,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00082045
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9198,
+        "completion_tokens": 897,
+        "total_tokens": 10095,
+        "cached_tokens": 150,
+        "cost_usd": 0.0022656
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "read_chapter",
+          "compare_works"
+        ],
+        "prompt_tokens": 12096,
+        "completion_tokens": 1095,
+        "total_tokens": 13191,
+        "cached_tokens": 9193,
+        "cost_usd": 0.00158775
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 16989,
+        "completion_tokens": 1659,
+        "total_tokens": 18648,
+        "cached_tokens": 12091,
+        "cost_usd": 0.00241365
+      }
+    ]
+  }
+}

@@ -1,0 +1,289 @@
+{
+  "answer": "In Mirza Ghalib's *Diwan-e-Ghalib*, the Urdu poetic term *naqsh* (literally \"imprint,\" \"trace,\" \"mark,\" or \"design\") frequently carries a layered, symbolic resonance beyond its denotative senses of physical mark or image. It often evokes the **fleeting, transformative trace of the beloved's presence**—most iconically as *naqsh-e-qadam* (\"footprint\" or \"footstep's trace\")—imbuing mundane paths or landscapes with paradisiacal beauty, longing, or spiritual ecstasy amid love's torment.[^1][^2] This motif underscores themes of absence, desire, and illusion: the lover discerns the beloved's *naqsh* where none fully persists, mirroring the heart's obsessive projection.[^3]\n\nIt also appears in compounds like *naqsh-e-wafa* (\"imprint/mark of fidelity\"), lamenting loyalty's failure to endure or remedy worldly pain.[^4] Less commonly, it suggests an ephemeral \"design\" or \"image\" of the self, akin to a vanishing footprint in sand or wave.[^5][^6]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 90 (\"Jahan tera naqsh-e-qadam dekhte hain\"), [translation/](works/mirza-ghalib-diwan-e-ghalib-74ed4c/90-jahan-tera-naqsh-e-qadam-dekhte-hain/translation/#p-b88355).\n[^2]: Ibid., [translation/](works/mirza-ghalib-diwan-e-ghalib-74ed4c/90-jahan-tera-naqsh-e-qadam-dekhte-hain/translation/).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 6 (\"Aamad-e-khat se hua hai sard jo bazaar-e-dost\"), [translation/](works/mirza-ghalib-diwan-e-ghalib-74ed4c/06-aamad-e-khat-se-hua-hai-sard-jo-bazaar-e-dost/translation/#p-6f525a).\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 29 (\"Dehr mein naqsh-e-wafa wajah-e-tasalli na hua\"), [translation/](works/mirza-ghalib-diwan-e-ghalib-74ed4c/29-dehr-mein-naqsh-e-wafa-wajah-e-tasalli-na-hua/translation/#p-cffc40).\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 145 (\"Na hoga yak-biyabaan maandagi se zauq kam mera\"), [translation/](works/mirza-ghalib-diwan-e-ghalib-74ed4c/145-na-hoga-yak-biyabaan-maandagi-se-zauq-kam-mera/translation/#p-070a9e).\n[^6]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 7 (\"Aamad-e-sailaab-e-toofan-e-sada-e-aab hai\"), [translation/](works/mirza-ghalib-diwan-e-ghalib-74ed4c/07-aamad-e-sailaab-e-toofan-e-sada-e-aab-hai/translation/#p-e53fdb).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naqsh"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mark\" \"image\" OR \"design\" ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 29
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 29-dehr-mein-naqsh-e-wafa-wajah-e-tasalli-na-hua.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 90
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.90\\nverse · 8¶ · 153w · vocab 67 (TTR 83%, hapax 93%)\\n\\n## Distinctive trigrams\\n\\\"wherever trace footstep\\\" · \\\"trace footste"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 6
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 06-aamad-e-khat-se-hua-hai-sard-jo-bazaar-e-dost.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"naqsh-e\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 90,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.90 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 145,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.145 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 90,
+        "paragraph_ids": [
+          "b88355"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 29,
+        "paragraph_ids": [
+          "cffc40"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "6f525a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 145,
+        "paragraph_ids": [
+          "070a9e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "e53fdb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 7,
+      "paragraph_id": "p-b88355"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 7,
+      "paragraph_id": "p-6f525a"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 7,
+      "paragraph_id": "p-cffc40"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 7,
+      "paragraph_id": "p-070a9e"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 7,
+      "paragraph_id": "p-e53fdb"
+    }
+  ],
+  "duration_ms": 48799,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 47799,
+    "completion_tokens": 5402,
+    "total_tokens": 53201,
+    "cached_tokens": 34981,
+    "api_calls": 5,
+    "cost_usd": 0.00701365,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 396,
+        "total_tokens": 2302,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0002966
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7136,
+        "completion_tokens": 818,
+        "total_tokens": 7954,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0015536
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10194,
+        "completion_tokens": 1051,
+        "total_tokens": 11245,
+        "cached_tokens": 7131,
+        "cost_usd": 0.00149465
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 13898,
+        "completion_tokens": 1605,
+        "total_tokens": 15503,
+        "cached_tokens": 10189,
+        "cost_usd": 0.00205375
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 14665,
+        "completion_tokens": 1532,
+        "total_tokens": 16197,
+        "cached_tokens": 13893,
+        "cost_usd": 0.00161505
+      }
+    ]
+  }
+}

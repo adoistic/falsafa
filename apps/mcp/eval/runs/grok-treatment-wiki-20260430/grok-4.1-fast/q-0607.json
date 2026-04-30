@@ -1,0 +1,218 @@
+{
+  "answer": "For Allama Iqbal, *wataniyat*—translated here as territorial nationalism or simply \"Nationalism\"—is a modern idol forged by Western civilization and its philosophy. He portrays it as the greatest among \"newer gods,\" one that desecrates Islamic faith by masquerading in religious garb while laying waste to the Prophet's teachings on unity and piety.[^1] It confines believers to a single geographic place (a \"calamity\"), sows rivalry among peoples, turns trade into conquest, corrupts politics with deceit, and severs the universal brotherhood of Islam.[^2]\n\nIqbal offers **Islam itself as the true \"homeland\"** (*vatan*) in its place—not a fixed territory of land defined by the state, but a divine, universal command encompassing the strength of God's Oneness (*tawhid*), service to the Prophet, and freedom to roam like a fish in the ocean.[^3] He urges Muslims (\"O Mustafavi,\" i.e., followers of Muhammad) to reject nationalism's \"hollow idol\" through faithful action.[^4]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 25 \"Wataniyat\" (translation), [p-79b1e9](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-79b1e9).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 25 \"Wataniyat\" (translation), [p-97937b](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-97937b) and [p-a723b2](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-a723b2).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 25 \"Wataniyat\" (translation), [p-2737d5](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-2737d5) and [p-a723b2](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-a723b2).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 25 \"Wataniyat\" (translation), [p-2737d5](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-2737d5).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wataniyat",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "territorial nationalism",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal wataniyat",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 25-wataniyat.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"territorial nationalism\" OR wataniyat OR \"love of country\" Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nationalism OR millat OR qawmiyat Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "paragraph_ids": [
+          "p-79b1e9",
+          "p-2737d5",
+          "p-a723b2",
+          "p-97937b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "paragraph_ids": [
+          "p-3b9de1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "limit": 5
+      },
+      "result_summary": "Found 5 related"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"homeland is Islam\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "millat OR ummah OR qom Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-79b1e9"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-97937b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-a723b2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 25,
+      "paragraph_id": "p-2737d5"
+    }
+  ],
+  "duration_ms": 33891,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 27836,
+    "completion_tokens": 3752,
+    "total_tokens": 31588,
+    "cached_tokens": 16682,
+    "api_calls": 4,
+    "cost_usd": 0.0049409,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1911,
+        "completion_tokens": 481,
+        "total_tokens": 2392,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0003401
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 3032,
+        "completion_tokens": 739,
+        "total_tokens": 3771,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0006933
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9892,
+        "completion_tokens": 967,
+        "total_tokens": 10859,
+        "cached_tokens": 3027,
+        "cost_usd": 0.00200785
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "find_related",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13001,
+        "completion_tokens": 1565,
+        "total_tokens": 14566,
+        "cached_tokens": 9887,
+        "cost_usd": 0.00189965
+      }
+    ]
+  }
+}

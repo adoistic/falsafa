@@ -1,0 +1,291 @@
+{
+  "answer": "**Ghalib's rind-couplet (Ghazal 61):**  \nO pious man, the tavern's revelers are coarse and bold;  \nDon't mix with them, I'm weary of the judgments they despise.[^1]\n\n**Zauq's rind-couplet (Ghazal 37):**  \nThe flask's song rose, a gurgling, sweet acclaim;  \nBring wine, O Sāqi, my resolve went up in flame.[^2]\n\nGhalib's *rind* (here, \"tavern's revelers,\" from *rindaan-e-dar-e-maikada*) is the more theological figure: a defiant libertine at the tavern door, boldly scorning the *zahid*'s (pious man's) piety and legalistic disdain, embodying the classic Sufi antithesis of ecstatic irreverence over hypocritical asceticism.[^3] Zauq's, by contrast, is the more social figure: the voice amid a lively *mehfil* (assembly), stirred by the flask's gurgle into calling the *sāqi* (cupbearer) for wine in convivial revelry, amid a gathering's noise before veering mystical.[^4]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [ch. 61, p-d0f118](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/61-hai-bazm-e-butaan-mein-sukhan-aazurda-labon-se/translation/#p-d0f118).\n[^2]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [ch. 37, p-c2396a](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/37-mehfil-mein-shor-e-qulqul-e-meena-e-mul-hua/translation/#p-c2396a).\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [ch. 61](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/61-hai-bazm-e-butaan-mein-sukhan-aazurda-labon-se/translation/).\n[^4]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [ch. 37](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/37-mehfil-mein-shor-e-qulqul-e-meena-e-mul-hua/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rind",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rind\" ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rind\" zauq",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rendan",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rindan",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rinda",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"maikada\" OR \"meikhana\" OR \"saghar\" OR \"saaqi\" zauq",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "drunkard OR libertine OR tavern OR winebibber",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 61,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.61 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 61,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.61 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 22,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.22 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 22,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.22 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "zahid OR rind OR saqi OR mekhana OR maikhana OR mey-khana OR tavern OR drunk OR wine OR cup OR goblet OR flask zauq OR ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 37
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Zauq · ch.37\\nverse · 7¶ · 131w · vocab 74 (TTR 94%, hapax 93%)\\n\\n## Distinctive trigrams\\n\\\"flask song rose\\\" · \\\"song rose gurgling\\\" · "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 37,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.37 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 37,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.37 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (transliteration)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 15
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Zauq · ch.15\\nverse · 10¶ · 218w · vocab 109 (TTR 84%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"wine domain within\\\" · \\\"heart own smoke\\\" "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tavern\" OR \"reveler\" OR \"drunk\" OR \"wine\" OR \"cupbearer\" OR \"saki\" OR \"saqi\" OR \"rind\" OR \"libertine\" zauq",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 37,
+      "paragraph_id": "p-d0f118"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 37,
+      "paragraph_id": "p-c2396a"
+    }
+  ],
+  "duration_ms": 68674,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 52267,
+    "completion_tokens": 8124,
+    "total_tokens": 60391,
+    "cached_tokens": 7563,
+    "api_calls": 5,
+    "cost_usd": 0.013380949999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1929,
+        "completion_tokens": 513,
+        "total_tokens": 2442,
+        "cached_tokens": 1882,
+        "cost_usd": 0.00036
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5237,
+        "completion_tokens": 1644,
+        "total_tokens": 6881,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018469
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10835,
+        "completion_tokens": 2288,
+        "total_tokens": 13123,
+        "cached_tokens": 5232,
+        "cost_usd": 0.0025262
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 14492,
+        "completion_tokens": 1383,
+        "total_tokens": 15875,
+        "cached_tokens": 149,
+        "cost_usd": 0.00356755
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki_full",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19774,
+        "completion_tokens": 2296,
+        "total_tokens": 22070,
+        "cached_tokens": 150,
+        "cost_usd": 0.0050803
+      }
+    ]
+  }
+}

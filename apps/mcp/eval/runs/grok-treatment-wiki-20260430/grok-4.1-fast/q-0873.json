@@ -1,0 +1,305 @@
+{
+  "answer": "In Charles Comte's *Traité de Législation* (Vol. I, ch. 3), \"moeurs\" is central to the chapter's thesis on how false or incomplete analyses (sophisms, paradoxes) distort public judgment, thereby reshaping societal habits and institutions.[^1] The chapter opens by declaring its subject to be precisely this dynamic: \"Of the influence exercised on **morals** and laws by a false analysis; or of the effects of sophisms and false systems in morality or legislation.\"[^2]\n\nHere, \"moeurs\" (rendered \"morals\") names the domain of ingrained social habits (*habitudes*)—beneficent or baneful—which public opinion classifies, encourages, or proscribes based on their perceived consequences for human preservation and progress. Comte illustrates with economy (*économie*): a false analysis might omit its benefits (e.g., independence, capital for laborers) while blaming it for unrelated ills (e.g., worker misery), causing society to reclassify it as a vice, weaken its practice, and elevate prodigality instead. This \"corrupts the **morals** [moeurs] of the persons whose judgment it has distorted,\" as good habits atrophy without opinion's support.[^3]\n\nNeither \"morals\" (suggesting abstract ethical precepts or *morale*) nor \"manners\" (etiquette or superficial conduct) fully captures \"moeurs,\" which fuses habitual behaviors, normative customs, and moral valences into a dynamic social force analogous—but not reducible—to laws (*lois*). A translator fixated on \"morals\" would lose the behavioral concreteness: Comte treats *moeurs* as observable, propagative practices (*habits contracted, multiplied, or destroyed*), not disembodied virtues. \"Manners\" would dilute the stakes, implying polite conventions rather than existence-shaping norms that false ideas can \"corrupt\" or \"proscribe,\" paralyzing progress. Rendering it invariably as one word flattens this polysemy, obscuring how *moeurs* mediates between individual action, public opinion, and institutions in Comte's analytical framework.\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, ch. 3 (“De l’influence qu’exerce sur les mœurs et sur les lois une analyse fausse”), [translation](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/03-de-l-influence-qu-exerce-sur-les-moeurs-et-sur-les/translation/).\n\n[^2]: Ibid., [p-a16a07](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/03-de-l-influence-qu-exerce-sur-les-moeurs-et-sur-les/translation/#p-a16a07).\n\n[^3]: Ibid., [p-af5ebe](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/03-de-l-influence-qu-exerce-sur-les-moeurs-et-sur-les/translation/#p-af5ebe).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "moeurs",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moeurs\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Comte moeurs",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Charles Comte\" moeurs",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.3\\nprose · 35¶ · 5833w · vocab 989 (TTR 38%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"sophisms false systems\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL II · ch.13\\nprose · 15¶ · 2324w · vocab 494 (TTR 47%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"peoples diverse species"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 18
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL II · ch.18\\nprose · 34¶ · 4754w · vocab 1012 (TTR 47%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"among hunter peoples\\\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 3,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.3 of charles-comte-traite-de-legislation-vol-i-7e62a2 (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "a16a07"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "af5ebe"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "a16a07",
+          "4bcf6b",
+          "dcd435"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 24
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL II · ch.24\\nprose · 15¶ · 2360w · vocab 676 (TTR 61%, hapax 75%)\\n\\n## Distinctive trigrams\\n\\\"peoples malay species\\\""
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 3,
+      "paragraph_id": "p-a16a07"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 3,
+      "paragraph_id": "p-af5ebe"
+    }
+  ],
+  "duration_ms": 75607,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 99802,
+    "completion_tokens": 8293,
+    "total_tokens": 108095,
+    "cached_tokens": 70329,
+    "api_calls": 8,
+    "cost_usd": 0.013557549999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1937,
+        "completion_tokens": 528,
+        "total_tokens": 2465,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00036925
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2665,
+        "completion_tokens": 884,
+        "total_tokens": 3549,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00069285
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2915,
+        "completion_tokens": 475,
+        "total_tokens": 3390,
+        "cached_tokens": 2660,
+        "cost_usd": 0.0004215
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 5390,
+        "completion_tokens": 853,
+        "total_tokens": 6243,
+        "cached_tokens": 2910,
+        "cost_usd": 0.001068
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 11450,
+        "completion_tokens": 769,
+        "total_tokens": 12219,
+        "cached_tokens": 5385,
+        "cost_usd": 0.00186675
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 14047,
+        "completion_tokens": 774,
+        "total_tokens": 14821,
+        "cached_tokens": 11445,
+        "cost_usd": 0.00147965
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 30130,
+        "completion_tokens": 1541,
+        "total_tokens": 31671,
+        "cached_tokens": 14042,
+        "cost_usd": 0.0046902
+      },
+      {
+        "api_call_index": 8,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_wiki"
+        ],
+        "prompt_tokens": 31268,
+        "completion_tokens": 2469,
+        "total_tokens": 33737,
+        "cached_tokens": 30125,
+        "cost_usd": 0.00296935
+      }
+    ]
+  }
+}

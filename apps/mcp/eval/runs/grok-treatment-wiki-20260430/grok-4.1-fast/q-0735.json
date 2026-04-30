@@ -1,0 +1,167 @@
+{
+  "answer": "In Allama Iqbal's poem \"Laaon woh tinke kahin se aashiyane ke liye\" (Bang-E-Dara Part 1, ch. 8), the central conceit compares **the soul to a bird** that contemplates (but ultimately rejects) building a nest from gathered straws (*tinke*). The nest symbolizes futile worldly attachment—a fragile, illusory attempt at permanence in an impermanent garden (the material world), doomed by restless lightning bolts representing divine will, fate, or cosmic upheaval that will inevitably erase it.[^1][^2] The bird (soul) recognizes this as a lowly disgrace and aspires instead to unfettered freedom, scorning the garden as unworthy of its \"anthem of the free.\"[^3]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 8 (\"Laaon woh tinke kahin se aashiyane ke liye\"), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/08-laaon-woh-tinke-kahin-se-aashiyane-ke-liye/translation/#p-73e9bf).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 8 (\"Laaon woh tinke kahin se aashiyane ke liye\"), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/08-laaon-woh-tinke-kahin-se-aashiyane-ke-liye/translation/#p-4cee3b).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 8 (\"Laaon woh tinke kahin se aashiyane ke liye\"), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/08-laaon-woh-tinke-kahin-se-aashiyane-ke-liye/translation/#p-c4ec62).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Laaon woh tinke\" OR \"aashiyane ke liye\" OR \"twigs\" nest iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.8\\nverse · 7¶ · 136w · vocab 63 (TTR 93%, hapax 92%)\\n\\n## Distinctive trigrams\\n\\\"gather straws build\\\" · \\\"straws build n"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-73e9bf",
+          "p-4cee3b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-c4ec62"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 8,
+      "paragraph_id": "p-73e9bf"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 8,
+      "paragraph_id": "p-4cee3b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 8,
+      "paragraph_id": "p-c4ec62"
+    }
+  ],
+  "duration_ms": 36378,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 19437,
+    "completion_tokens": 4107,
+    "total_tokens": 23544,
+    "cached_tokens": 15912,
+    "api_calls": 5,
+    "cost_usd": 0.0035541,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1925,
+        "completion_tokens": 795,
+        "total_tokens": 2720,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0005002
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2984,
+        "completion_tokens": 287,
+        "total_tokens": 3271,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00045815
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4274,
+        "completion_tokens": 404,
+        "total_tokens": 4678,
+        "cached_tokens": 2979,
+        "cost_usd": 0.00060995
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 4906,
+        "completion_tokens": 1259,
+        "total_tokens": 6165,
+        "cached_tokens": 4269,
+        "cost_usd": 0.00097035
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 5348,
+        "completion_tokens": 1362,
+        "total_tokens": 6710,
+        "cached_tokens": 4901,
+        "cost_usd": 0.00101545
+      }
+    ]
+  }
+}

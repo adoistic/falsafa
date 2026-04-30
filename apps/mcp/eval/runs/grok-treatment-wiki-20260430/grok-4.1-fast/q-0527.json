@@ -1,0 +1,186 @@
+{
+  "answer": "Several works in the Falsafa corpus engage with the figure of the river, either literally (as sacred entities in ritual contexts) or figuratively (as symbols of flow, journey, purity, or divine action). The most substantive engagements are listed below, grouped by work. Other passing mentions exist but do not constitute significant \"engagement.\"\n\n### Āṅgirasa Smṛti (unknown-angirasa-smrti-2bf9d1)\nThis text extensively treats rivers as purifying agents in Hindu ritual law, including expiations via bathing, lists of major rivers (e.g., Gaṅgā as supreme), their ritual purity/impurity cycles, and hierarchy among them.[^1][^2]\n\n### Andreas (cynewulf-andreas-07b573)\nThe poem depicts a miraculous flooding river summoned by divine command from stone foundations as punishment on a corrupt people, blending Old English heroic style with Christian miracle.[^3]\n\n### Bang-E-Dara Part 1 (allama-iqbal-bang-e-dara-part-1-55b25c)\nRivers appear in poetic imagery, such as standing by the Ravi River's shore in mystical disorientation (\"Kinaar-e-Ravi\") or as free-flowing elements in nature.[^4]\n\n### Bang-E-Dara Part 2 (allama-iqbal-bang-e-dara-part-2-9bc58c)\nRivers evoke spiritual dissolution and journey, e.g., a drop merging into the river's embrace to become an eternal pearl (\"Swami Ram Tirath\").[^5]\n\n### Bang-E-Dara Part 3 (allama-iqbal-bang-e-dara-part-3-cc61e8)\nThe moon's reflection is shown \"in river-mirrors,\" symbolizing revelation and beauty in nature (\"Chaand\").[^6]\n\n[^1]: *Āṅgirasa Smṛti*, Chapter 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-a7b462).\n[^2]: *Āṅgirasa Smṛti*, Chapter 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-e42aa8).\n[^3]: *Andreas*, Chapter 1, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-2e50c1).\n[^4]: *Bang-E-Dara Part 1*, Chapter 28, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/#p-7ee613).\n[^5]: *Bang-E-Dara Part 2*, Chapter 23, [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/23-swami-ram-tirath/translation/#p-d1bdd5).\n[^6]: *Bang-E-Dara Part 3*, Chapter 3, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/03-chaand/translation/#p-1d3db6).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "river",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rivers",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the river\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-2e50c1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-a7b462"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e42aa8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28,
+        "paragraph_ids": [
+          "p-7ee613"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 23,
+        "paragraph_ids": [
+          "p-d1bdd5"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-1d3db6"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 3,
+      "paragraph_id": "p-a7b462"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 3,
+      "paragraph_id": "p-e42aa8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 3,
+      "paragraph_id": "p-2e50c1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 3,
+      "paragraph_id": "p-7ee613"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 3,
+      "paragraph_id": "p-d1bdd5"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 3,
+      "paragraph_id": "p-1d3db6"
+    }
+  ],
+  "duration_ms": 36695,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 24345,
+    "completion_tokens": 4471,
+    "total_tokens": 28816,
+    "cached_tokens": 10851,
+    "api_calls": 3,
+    "cost_usd": 0.00547685,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1899,
+        "completion_tokens": 452,
+        "total_tokens": 2351,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005833
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10556,
+        "completion_tokens": 1886,
+        "total_tokens": 12442,
+        "cached_tokens": 150,
+        "cost_usd": 0.0030317
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 11890,
+        "completion_tokens": 2133,
+        "total_tokens": 14023,
+        "cached_tokens": 10551,
+        "cost_usd": 0.00186185
+      }
+    ]
+  }
+}

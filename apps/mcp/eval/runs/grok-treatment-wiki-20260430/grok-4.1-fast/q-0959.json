@@ -1,0 +1,184 @@
+{
+  "answer": "**In Iqbal's *Sair-e-Falak* (*Bang-E-Dara Part 3*, ch. 18), the speaker journeys through the heavens accompanied by Imagination, passing stars, Paradise (with its Houris and Saqian), and finally a frozen cosmic void identified by the angel Surosh as Hell.**[^1] The surveyor's posture—adventurous, philosophical, and empowered—crystallizes at the poem's close, where Surosh reveals the true nature of this \"grim abode\": not an externally imposed inferno, but an empty realm where damned souls \"bring their own embers\" forged from earthly deeds.[^2] This internalizes cosmic judgment as self-inflicted, reflecting Iqbal's modernist, self-realizing Islamic vision: the order is knowable through bold exploration, with agency over fate, evoking curiosity and assurance rather than dread.\n\n**In Cynewulf's *Elene* (ch. 1), the poem's narrative arc—Constantine's vision, Elene's quest for the True Cross, Judas/Cyriacus's conversion, miracles, and establishment of the church—culminates in the poet's runic coda surveying eschaton.**[^3] Here, Cynewulf pins the cosmic order's readability in a vivid judgment tableau: the world consumed by flame, humanity triply divided (righteous unscathed atop, sinners mid-fire refined like gold, worst abyssed eternally), with salvation for the penitent via Christ's mercy.[^4] The posture is doctrinal confidence, homiletic surety in divine hierarchy and purgative justice, tempered by personal reflection on life's transience but anchored in redemptive hope—no fear, but exhortative certainty.\n\n**Iqbal's surveyor appears more curious (journey as imaginative quest yielding insight), Cynewulf more sure (declarative prophecy of ordered judgment); neither shows fright, though Cynewulf's is more fearlessly absolute, Iqbal's dynamically inquisitive.** \n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 18 (*Sair-e-Falak*), [translation](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/18-sair-e-falak/translation/).\n[^2]: Ibid., [p-b5be43](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/18-sair-e-falak/translation/#p-b5be43).\n[^3]: Cynewulf, *Elene*, ch. 1, [translation](/works/cynewulf-elene-d2d132/01/translation/).\n[^4]: Ibid., [p-dcbbfe](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sair-e-Falak"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Elene"
+      },
+      "result_summary": "Found 29 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 3 · ch.18\\nverse · 15¶ · 227w · vocab 119 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"celestial journey companion\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.18 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 3 · ch.18\\nverse · 15¶ · 227w · vocab 119 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"celestial journey companion\\\" · \\\""
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-b5be43"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    }
+  ],
+  "duration_ms": 30273,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 91616,
+    "completion_tokens": 3078,
+    "total_tokens": 94694,
+    "cached_tokens": 10360,
+    "api_calls": 4,
+    "cost_usd": 0.0183082,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1948,
+        "completion_tokens": 569,
+        "total_tokens": 2517,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00039195
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6453,
+        "completion_tokens": 471,
+        "total_tokens": 6924,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00124395
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 18348,
+        "completion_tokens": 925,
+        "total_tokens": 19273,
+        "cached_tokens": 6448,
+        "cost_usd": 0.0031649
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki_full",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 64867,
+        "completion_tokens": 1113,
+        "total_tokens": 65980,
+        "cached_tokens": 150,
+        "cost_usd": 0.0135074
+      }
+    ]
+  }
+}

@@ -1,0 +1,211 @@
+{
+  "answer": "In the ghazals comprising *Diwan-E-Ghalib* and *Diwan-E-Zauq*, the **maqta** functions as the structural closing couplet (*sher*) of the poem.[^1] It conventionally concludes the ghazal and typically incorporates the poet's *takhallus* (pen name)—*Ghalib* or *Asad* for Mirza Ghalib, and *Zauq* for Sheikh Ibrahim Zauq—serving as a signature that personalizes the finale, often with self-referential irony, lament, or summation.[^2] This unit provides closure after the radif-repeating body, distinguishing it from earlier *matla*-opening or intervening couplets.\n\n### Examples from the Corpus\n\n**Ghalib's *Diwan-E-Ghalib*, Ghazal 149:**  \nThe maqta explicitly names \"Ghalib\" while depicting poetic restraint amid emotional overflow:  \n> I had to stop Ghalib last night, or you would have seen it all;  \n> in his flood of tears, the sky was just a handful of the squall.[^3]\n\n**Ghalib's *Diwan-E-Ghalib*, Ghazal 88:**  \nOne maqta-like instance invokes \"Ghalib\" amid themes of artistic thirst (not the absolute final couplet, but a signed pivot):  \n> O Ghalib, themes of thirst could not be penned with art,  \n> Though to the endless river of my open heart,  \n> A limiting and lonely shore was tied.[^4]\n\n**Zauq's *Diwan-E-Zauq*, Ghazal 5:**  \nThe terminal maqta signs with \"Zauq,\" capturing surrender to the beloved's poise:  \n> Ah Zauq, I fell, and clutched my heart, its every door ajar,  \n> when she just stood, with such a grace, and on her hip she laid a hand.[^5]\n\n**Zauq's *Diwan-E-Zauq*, Ghazal 16:**  \nThe maqta closes by contrasting lovelessness with \"Zauq\"'s inner fire:  \n> O Zauq, a heart that has no fire of love  \n> Is worse than stone, which has a fiery core, at least.[^6]\n\n**Ghalib's *Diwan-E-Ghalib*, Ghazal 4:**  \n\"Asad\" (Ghalib's alternate takhallus) appears in a near-final couplet evoking fiery passion:  \n> Asad, consumed by waiting's restless, burning might,  \n> A moth before the flame of sacred light was.[^7]\n\nThe English translations do not define *maqta* explicitly (transliteration variants retain the Urdu term incidentally, e.g., \"Maqta_silsila-e_shauq\" in Ghazal 195, but without gloss).[^8] These examples illustrate its role empirically from the verse structure.\n\n[^1]: *Diwan-E-Ghalib*, ch. 4, [translation](https://falsafa.corpus/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/translation/). Cf. *Diwan-E-Zauq*, ch. 5, [translation](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/05-ae-zauq-waqt-naale-ke-rakh-le-jigar-pe-haath/translation/).\n[^2]: *Diwan-E-Ghalib*, ch. 149, [translation](https://falsafa.corpus/works/mirza-ghalib-diwan-e-ghalib-74ed4c/149-naala-e-dil-mein-shab-andaaz-e-asar-naayaab-tha/translation/#p-f26b94).\n[^3]: *Diwan-E-Ghalib*, ch. 149, ¶ [p-f26b94](https://falsafa.corpus/works/mirza-ghalib-diwan-e-ghalib-74ed4c/149-naala-e-dil-mein-shab-andaaz-e-asar-naayaab-tha/translation/#p-f26b94).\n[^4]: *Diwan-E-Ghalib*, ch. 88, ¶ [p-422ffb](https://falsafa.corpus/works/mirza-ghalib-diwan-e-ghalib-74ed4c/88-jab-ba-taqreeb-e-safar-yaar-ne-mehmil-baandha/translation/#p-422ffb).\n[^5]: *Diwan-E-Zauq*, ch. 5, ¶ [p-938be9](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/05-ae-zauq-waqt-naale-ke-rakh-le-jigar-pe-haath/translation/#p-938be9).\n[^6]: *Diwan-E-Zauq*, ch. 16, ¶ [p-df8cda](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/16-ek-sadma-dard-e-dil-se-meri-jaan-par-toh-hai/translation/#p-df8cda).\n[^7]: *Diwan-E-Ghalib*, ch. 4, ¶ [p-d266ce](https://falsafa.corpus/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/translation/#p-d266ce).\n[^8]: *Diwan-E-Ghalib*, ch. 195, [transliteration](https://falsafa.corpus/works/mirza-ghalib-diwan-e-ghalib-74ed4c/195-waan-pahunch-kar-jo-ghash-aata-paye-ham-hai-hum-ko/transliteration/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maqta",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "takhallus",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"closing couplet\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maqta takhallus",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ghazal\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib takhallus",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"maqta\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 88
+      },
+      "result_summary": "Read ch.88 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 149
+      },
+      "result_summary": "Read ch.149 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 16
+      },
+      "result_summary": "Read ch.16 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 16,
+      "paragraph_id": "p-f26b94"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 16,
+      "paragraph_id": "p-422ffb"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 16,
+      "paragraph_id": "p-938be9"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 16,
+      "paragraph_id": "p-df8cda"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 16,
+      "paragraph_id": "p-d266ce"
+    }
+  ],
+  "duration_ms": 42051,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 21322,
+    "completion_tokens": 5481,
+    "total_tokens": 26803,
+    "cached_tokens": 12912,
+    "api_calls": 4,
+    "cost_usd": 0.005068100000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1914,
+        "completion_tokens": 374,
+        "total_tokens": 2288,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0002872
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2805,
+        "completion_tokens": 1197,
+        "total_tokens": 4002,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0008769
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6349,
+        "completion_tokens": 1227,
+        "total_tokens": 7576,
+        "cached_tokens": 2800,
+        "cost_usd": 0.0014633
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 10254,
+        "completion_tokens": 2683,
+        "total_tokens": 12937,
+        "cached_tokens": 6344,
+        "cost_usd": 0.0024407
+      }
+    ]
+  }
+}

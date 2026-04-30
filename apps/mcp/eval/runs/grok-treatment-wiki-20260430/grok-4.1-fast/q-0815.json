@@ -1,0 +1,184 @@
+{
+  "answer": "**In Cynewulf's *Elene* (chapter 1), Judas locates the True Cross (along with two others) buried on Calvary after prayer elicits a confirming sign from God (smoke rising from the earth).[^1] Elene asks which of the three is Christ's, but Judas does not know. The crosses are displayed publicly in Jerusalem. At the ninth hour, a crowd brings a dead youth (*geong*) on a bier. Judas tests the first two over the corpse to no effect. The third revives him instantly, identifying it as the True Cross:**\n\n> Then a multitude came, no small folk, and a dead man they brought on a bier in a throng of men nearby (it was then the ninth hour), a youth, spiritless. Then Judas was in his mind-spirit greatly gladdened. He commanded them to set down the soulless one, the life-departed body on the earth, the unliving, and he, a champion of right, raised up two of the roods in his arms, the deep-thinking, over that fated house. It was dead as before, the corpse fast in its lair. The limbs grew cold, covered in death-pangs. Then the third was raised, the holy one. The body was in waiting until upon it the prince’s Rood was raised, the Sky-King’s beam, the true victory-beacon. He at once arose, with spirit endowed, together both body and soul.[^2]\n\n[^1]: Cynewulf, *Elene*, ch. 1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n[^2]: Cynewulf, *Elene*, ch. 1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true cross\" elene",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"young man\" elene cross",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dead raised elene",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"young\" dead elene",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"judas\" elene",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cross dead elene",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true cross\" OR cross OR cruc OR judas OR helena OR elene dead OR youth OR young",
+        "limit": 20
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    }
+  ],
+  "duration_ms": 36035,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 49520,
+    "completion_tokens": 3289,
+    "total_tokens": 52809,
+    "cached_tokens": 24053,
+    "api_calls": 5,
+    "cost_usd": 0.007940550000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 315,
+        "total_tokens": 2221,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00025655
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2383,
+        "completion_tokens": 420,
+        "total_tokens": 2803,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00040445
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2969,
+        "completion_tokens": 379,
+        "total_tokens": 3348,
+        "cached_tokens": 2378,
+        "cost_usd": 0.0004266
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14954,
+        "completion_tokens": 469,
+        "total_tokens": 15423,
+        "cached_tokens": 2964,
+        "cost_usd": 0.0027807
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 27308,
+        "completion_tokens": 1706,
+        "total_tokens": 29014,
+        "cached_tokens": 14949,
+        "cost_usd": 0.00407225
+      }
+    ]
+  }
+}

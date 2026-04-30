@@ -1,0 +1,144 @@
+{
+  "answer": "**Charles Comte discusses property rights in inventions and industrial procedures primarily in Chapter 29 (\"On the property of inventions or industrial processes\") of *Traité de la propriété Vol. II*.**[^1]\n\nRather than arguing strongly *for* exclusive property rights as a natural or perpetual entitlement (which he critiques extensively as a flawed analogy to the occupation of material goods, leading to absurdities like perpetual monopolies on basic innovations such as bread-making or footwear), Comte concedes a limited, non-exclusive natural right: **\"Every person who makes a discovery in the arts certainly has the right to exploit it for his profit.\"**[^2] He stresses this requires no special government act beyond general guarantees of liberty and property; the *exclusive* privilege (i.e., patents) is instead a temporary *monopoly* granted by statute, justified only hypothetically for encouragement and inferior to free industry.[^3] Chapter 30 details the relevant laws (English, French, American), treating them as restrictions on liberty rather than inherent property.[^4]\n\n[^1]: Charles Comte, *Traité de la propriété Vol. II*, [Chapter 29](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/).\n\n[^2]: Charles Comte, *Traité de la propriété Vol. II*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/#p-0668a8).\n\n[^3]: Charles Comte, *Traité de la propriété Vol. II*, [paragraphs](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/#p-0668a8) from p-0668a8 through p-d81732 (right to exploit vs. exclusion).\n\n[^4]: Charles Comte, *Traité de la propriété Vol. II*, [Chapter 30](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/30-des-lois-relatives-a-la-propriete-des-inventions-i/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"invention\" OR \"inventions\" OR \"industrial\" OR \"procedure\" property",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"procédés industriels\" OR \"inventions\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 29
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.29\\nprose · 58¶ · 6572w · vocab 1138 (TTR 38%, hapax 57%)\\n\\n## Distinctive trigrams\\n\\\"privilege exploiting"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 30
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.30\\nprose · 52¶ · 6554w · vocab 1102 (TTR 36%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"godson *practical tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 30,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.30 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 30,
+      "paragraph_id": "p-0668a8"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 30,
+      "paragraph_id": "p-d81732"
+    }
+  ],
+  "duration_ms": 31639,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 42706,
+    "completion_tokens": 3302,
+    "total_tokens": 46008,
+    "cached_tokens": 9447,
+    "api_calls": 4,
+    "cost_usd": 0.008775149999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1915,
+        "completion_tokens": 560,
+        "total_tokens": 2475,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006405
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5811,
+        "completion_tokens": 514,
+        "total_tokens": 6325,
+        "cached_tokens": 150,
+        "cost_usd": 0.0013967
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 9002,
+        "completion_tokens": 562,
+        "total_tokens": 9564,
+        "cached_tokens": 150,
+        "cost_usd": 0.0020589
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 25978,
+        "completion_tokens": 1666,
+        "total_tokens": 27644,
+        "cached_tokens": 8997,
+        "cost_usd": 0.00467905
+      }
+    ]
+  }
+}

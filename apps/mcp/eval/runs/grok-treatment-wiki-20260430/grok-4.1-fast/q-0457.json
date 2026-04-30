@@ -1,0 +1,232 @@
+{
+  "answer": "**The Falsafa corpus contains several works that explicitly engage with key European Enlightenment political concepts—such as liberty (*liberté*), the state of nature, social organization, climate's influence on laws and mores, the savage vs. civilized human condition, slavery, property rights, and human faculties—primarily through direct critique, quotation, or extension of thinkers like Rousseau, Montesquieu, and Voltaire. These engagements appear almost exclusively in the French-language political and social theory works by Charles Comte and Charles Dunoyer (the latter building explicitly on Enlightenment debates), as well as Johann Gottlieb Fichte's pamphlet. No other works in the 37-work corpus (e.g., the Old English poems, Indic *smṛti* texts, or Urdu poetry collections) show such explicit interaction; searches for major Enlightenment figures (Rousseau, Locke, Montesquieu, Voltaire) and phrases like \"social contract,\" \"natural rights,\" or \"separation of powers\" yield zero or irrelevant poetic hits outside these texts.[^1][^2]**\n\n### Works with Explicit Engagement:\n\n1. **Nouveau traité d'économie: VOL I** (Charles Dunoyer, 19th Century): This work repeatedly critiques and quotes Rousseau (e.g., on savage liberty, civilization's degenerative effects, and the *Social Contract*), Montesquieu (e.g., on nomads' liberty, climate, and Roman republicanism), and Voltaire (e.g., on Germanic morals and conquest). It frames industrial society as true liberty against their views of pre-industrial \"freedom.\"[^3][^4][^5]\n\n2. **Traité de Législation** series (Charles Comte, labeled \"Enlightenment\"): \n   - **VOL I**: Engages Rousseau on the state of nature and sovereignty.[^6]\n   - **VOL II–IV**: References Voltaire (on climate, slavery, morals) and Montesquieu (on laws and climate); critiques Helvétius alongside them on human faculties and inequality from slavery.[^7][^8]\n\n3. **Traité de la propriété** series (Charles Comte, labeled \"Enlightenment\"):\n   - **VOL I–II**: Discusses property origins against ancient jurisprudence (echoing Locke/Rousseau debates) and references Montesquieu/Voltaire on laws, equity, and literary property.[^9]\n\n4. **Zurückforderung der Denkfreiheit von den Fürsten Europens** (Johann Gottlieb Fichte, Enlightenment): A direct political intervention demanding \"inalienable human rights,\" freedom of thought against princes, moral law, and rights over external actions—core post-Kantian Enlightenment political concepts.[^10]\n\n**No other works qualify as \"explicit\" (e.g., Allama Iqbal's poetry or *Manusmṛti* discuss philosophy but not these European concepts). If the query intends native Enlightenment texts (e.g., Locke directly), none are present; the corpus focuses on translated responses to/ extensions of them.**\n\n[^1]: Corpus-wide searches for \"Rousseau\" (20 hits, all Dunoyer VOL I/Comte), \"Montesquieu\" (20 hits, Dunoyer VOL I/Comte), \"Voltaire\" (20 hits, Dunoyer/Comte), \"\\\"social contract\\\"\" (0), \"\\\"natural rights\\\"\" (0), \"\\\"separation of powers\\\"\" (0), \"\\\"natural law\\\" OR \\\"droit naturel\\\" OR \\\"loi naturelle\\\"\" (scattered, non-political).\n\n[^2]: *List of works in the Falsafa corpus*, full metadata confirms 37 works; no Locke, Rousseau, etc., as primary texts.\n\n[^3]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, ch. 1, ¶ [p-b8546d](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-b8546d): \"Rousseau may well place the liberty of the savage man above that of the civilized man.\"\n\n[^4]: Ibid., ch. 6, ¶ [p-366d6c](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/06-i-liberte-compatible-avec-la-maniere-de-vivre-des-/translation/#p-366d6c): Quotes Montesquieu on nomadic liberty.\n\n[^5]: Ibid., ch. 3, ¶ [p-1f97b0](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-1f97b0): Cites Voltaire on legislators and local position.\n\n[^6]: Charles Comte, *Traité de Législation: VOL I*, wiki card ch. 6: \"Rousseau knows only two positions... *state of nature*.\"\n\n[^7]: *Traité de Législation: VOL IV*, ch. 23 (multiple Voltaire on slavery/morals, e.g., [p-ff37bb](/works/charles-comte-traite-de-legislation-vol-iv-bca040/23-de-l-inegalite-des-fortunes-produite-par-l-esclava/translation/#p-ff37bb)): \"The fundamental law of any country,” says Voltaire...\"\n\n[^8]: *Traité de Législation: VOL II*, ch. 6: Critiques Voltaire/Volney on climate/faculties.\n\n[^9]: *Traité de la propriété: VOL II*, ch. 47, ¶ [p-aa8d40](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/47-des-opinions-des-jurisconsultes-sur-lorigine-et-la/translation/#p-aa8d40): Montesquieu on property/laws.\n\n[^10]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit...*, wiki: distinctive trigrams \"inalienable human rights,\" \"rights external actions.\"",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Rousseau",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Locke",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Montesquieu",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Voltaire",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"social contract\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"natural rights\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"separation of powers\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "{\"markdown\":\"# Zurückforderung der Denkfreiheit von den Fürsten Europens\\nJohann Gottlieb Fichte · Enlightenment · german · prose · 2 chapters · 10,652 words\\n\\n## Work-level distinctive trigrams (top"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL II\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 91,008 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"van di"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL III\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 97,522 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"peopl"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL IV\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 188,438 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*voya"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"natural law\" OR \"droit naturel\" OR \"loi naturelle\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-b8546d"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-366d6c"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-1f97b0"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-ff37bb"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-aa8d40"
+    }
+  ],
+  "duration_ms": 70305,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 50376,
+    "completion_tokens": 5793,
+    "total_tokens": 56169,
+    "cached_tokens": 24026,
+    "api_calls": 4,
+    "cost_usd": 0.0093678,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 511,
+        "total_tokens": 2412,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006132
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 5224,
+        "completion_tokens": 1115,
+        "total_tokens": 6339,
+        "cached_tokens": 1888,
+        "cost_usd": 0.0013191
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16774,
+        "completion_tokens": 1733,
+        "total_tokens": 18507,
+        "cached_tokens": 5219,
+        "cost_usd": 0.00343845
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 26477,
+        "completion_tokens": 2434,
+        "total_tokens": 28911,
+        "cached_tokens": 16769,
+        "cost_usd": 0.00399705
+      }
+    ]
+  }
+}

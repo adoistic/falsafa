@@ -1,0 +1,289 @@
+{
+  "answer": "In Allama Iqbal's *Khitāb ba Jawānān-e-Islām* (\"An Address to the Muslim Youth\"), the young Muslim man is most sternly demanded to cease being \"all talk\" and inert, instead embodying the dynamic, world-conquering action of his forebears: \"You can have no true kinship with your forefathers, for you are all talk, they were all action; you are static, they were ever-moving.\"[^1]\n\nIn Manusmṛti Book 2, which extensively details the *brahmacārin* (celibate Vedic student), the young Brahmana is most stringently demanded to maintain absolute sexual continence amid sensory temptations: \"He should sleep alone everywhere and should never spill his seed; for by spilling his seed from desire, he breaks his vow.\"[^2] (The chapter culminates by promising that unbroken adherence to the full regimen yields ultimate liberation: \"A Brahmana who thus practices his studentship without breaking his vow goes to the highest abode and is not born here again.\"[^3])\n\nIqbal's youth—urged toward bold revivalism, imperial pride, and recovery of lost civilizational inheritance—could not realistically live up to Manu's text, which prescribes years of guru-service, alms-begging, ritual purity, total sense-restraint (even one lapse lets \"wisdom flow away\"[^4]), and avoidance of women, wealth, and action beyond study.[^5] Conversely, Manu's *brahmacārin*—an inward-facing ascetic vowed to Vedic study, fuel-gathering, and celibacy until marriage—could not embody Iqbal's extroverted ideal of relentless motion, world-seizing, and rejection of stasis for glory. The two paradigms are culturally and spiritually incompatible.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch.13 (*Khitab ba Jawanan-e-Islam*), [p-365462](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).\n[^2]: *Manusmṛti*, ch.2, [p-51cabf](/works/unknown-manusmrti-347b76/02/translation/#p-51cabf).\n[^3]: *Manusmṛti*, ch.2, [p-5ac6c9](/works/unknown-manusmrti-347b76/02/translation/#p-5ac6c9).\n[^4]: *Manusmṛti*, ch.2, [p-2e26d1](/works/unknown-manusmrti-347b76/02/translation/#p-2e26d1).\n[^5]: *Manusmṛti*, ch.2 (full chapter overview).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "hindu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Khitāb ba Jawānān-e-Islām\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"young men of Islam\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmacārin"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khitab OR khitaab OR jawan OR jawanan OR \"young men\" OR \"young muslims\" OR youth islam",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"address to the young\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.13\\nverse · 2¶ · 268w · vocab 118 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"address muslim youth\\\" · \\\"muslim yout"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-365462"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-51cabf"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-5ac6c9"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-2e26d1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-365462"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-51cabf"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-5ac6c9"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-2e26d1"
+    }
+  ],
+  "duration_ms": 46227,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 70276,
+    "completion_tokens": 5281,
+    "total_tokens": 75557,
+    "cached_tokens": 42905,
+    "api_calls": 5,
+    "cost_usd": 0.01025995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1947,
+        "completion_tokens": 718,
+        "total_tokens": 2665,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00046625
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3195,
+        "completion_tokens": 1169,
+        "total_tokens": 4364,
+        "cached_tokens": 150,
+        "cost_usd": 0.001201
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11312,
+        "completion_tokens": 580,
+        "total_tokens": 11892,
+        "cached_tokens": 3190,
+        "cost_usd": 0.0020739
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 26382,
+        "completion_tokens": 1361,
+        "total_tokens": 27743,
+        "cached_tokens": 11307,
+        "cost_usd": 0.00426085
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 27440,
+        "completion_tokens": 1453,
+        "total_tokens": 28893,
+        "cached_tokens": 26377,
+        "cost_usd": 0.00225795
+      }
+    ]
+  }
+}

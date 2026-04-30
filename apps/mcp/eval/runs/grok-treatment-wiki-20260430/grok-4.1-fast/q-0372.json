@@ -1,0 +1,281 @@
+{
+  "answer": "Iqbal's \"Bilad-e-Islamiya\" employs the catalogue form as a poetic litany of sacred Islamic cities (Delhi, Baghdad, Cordoba, Constantinople, and Medina/Yathrib), each exalted in successive stanzas with vivid, emotive imagery of blood-soaked soil, prophetic footsteps, civilizational flames, and spiritual centrality.[^1] The rhetorical effect is one of cumulative invocation: the rhythmic listing builds a crescendo of nostalgia, pride, and pan-Islamic unity, transforming geographical enumeration into a mystical pilgrimage that culminates in Medina as the \"focal point that gathers all the rays of our soul's devotion,\" urging the reader toward revivalist fervor rather than mere description.[^2]\n\nIn contrast, Manu's chapter 1 uses catalogues within a cosmogonic narrative to enumerate the orderly emanation of creation—from sages (e.g., Marichi, Atri), divine hosts (gods, Yakshas, Gandharvas), celestial phenomena (thunderbolts, comets), fauna (monkeys, fish, birds, beasts), insects, and flora (trees, creepers)—followed by modes of birth (womb, egg, sweat, shoot).[^3] This exhaustive taxonomy rhetorically underscores divine hierarchy and inevitability: by linking each category to the Self-Existent One's deliberate acts (\"Thus by my command was this whole universe... created... according to their actions\"), the lists assert the Veda-derived origins of *varnas*, Dharma, and natural law, legitimizing social order as an eternal, unalterable blueprint.[^4]\n\nVisnu Smrti chapters 4–10 deploy catalogues in a starkly juridical mode, listing weights/measures (e.g., \"*akṣa*, *māṣas*, *suvarṇa*\"), fines for offenses (e.g., killing animals: \"one hundred *kārṣāpaṇas*\"), witnesses/procedures, ordeals (balance, water, fire), and duties like debt repayment or evidence rules.[^5] The rhetoric here is procedural exhaustiveness: terse, formulaic enumerations (e.g., amercements as \"two hundred... five hundred... one thousand\") function as a mnemonic code for *dharma*śāstra application, emphasizing precision and totality to bind society through enforceable norms, devoid of poetic elevation.[^6]\n\nWhile all three exploit the catalogue's power of accumulation for authority and completeness—Iqbal for affective unity, Manu for mythic ontology, Visnu for legal pragmatism—their tones diverge sharply: lyrical exaltation, primordial sanction, and bureaucratic rigor, reflecting their genres (Urdu verse, Sanskrit epic, Smrti digest).[^7]\n\n[^1]: *Bang-E-Dara Part 3*, ch. 2 (\"Bilad-e-Islamiya\"), [translation](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/).\n\n[^2]: *Bang-E-Dara Part 3*, ch. 2, [p-f92993](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/#p-f92993).\n\n[^3]: *Manusmṛti*, ch. 1, [translation](/works/unknown-manusmrti-347b76/01/translation/). See esp. [p-23fa2c](/works/unknown-manusmrti-347b76/01/translation/#p-23fa2c) (sages); [p-0b52d8](/works/unknown-manusmrti-347b76/01/translation/#p-0b52d8) (hosts); [p-3f5b1f](/works/unknown-manusmrti-347b76/01/translation/#p-3f5b1f)–[p-267109](/works/unknown-manusmrti-347b76/01/translation/#p-267109) (fauna/insects); [p-645374](/works/unknown-manusmrti-347b76/01/translation/#p-645374)–[p-f19a12](/works/unknown-manusmrti-347b76/01/translation/#p-f19a12) (birth modes).\n\n[^4]: *Manusmṛti*, ch. 1, [p-25ac80](/works/unknown-manusmrti-347b76/01/translation/#p-25ac80).\n\n[^5]: *Viṣṇu Smṛti*, chs. 4–10, [translations](/works/unknown-visnu-smrti-27f0d8/04/translation/), [/05/translation](/works/unknown-visnu-smrti-27f0d8/05/translation/), etc. E.g., ch. 4 [p-a51b11](/works/unknown-visnu-smrti-27f0d8/04/translation/#p-a51b11); ch. 5 (animal fines); chs. 9–10 (ordeals).\n\n[^6]: *Viṣṇu Smṛti*, ch. 4, [p-34c611](/works/unknown-visnu-smrti-27f0d8/04/translation/#p-34c611).\n\n[^7]: Cross-corpus nearest: *Manusmṛti* ch. 1 wiki nearest *Viṣṇu Smṛti*-adjacent works (cosine ~0.04–0.07); Iqbal's poetic catalogues stylistically distant.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bilad-e-Islamiya"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"city catalogue\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"catalogue of created beings\" Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"catalogues of duties\" Visnu Vishnu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 02-bilad-e-islamiya.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Indic"
+      },
+      "result_summary": "Listed 19 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vishnu duties chapters"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chapters 4\" duties"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.4\\nverse · 15¶ · 169w · vocab 56 (TTR 71%, hapax 82%)\\n\\n## Distinctive trigrams\\n\\\"**vishnu smriti 4**\\\" · \\\"smriti 4** speck\\"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-f92993"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-23fa2c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-0b52d8"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-3f5b1f"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-267109"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-645374"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-f19a12"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-25ac80"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-a51b11"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-34c611"
+    }
+  ],
+  "duration_ms": 41497,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 33930,
+    "completion_tokens": 5212,
+    "total_tokens": 39142,
+    "cached_tokens": 11749,
+    "api_calls": 4,
+    "cost_usd": 0.00762965,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1935,
+        "completion_tokens": 831,
+        "total_tokens": 2766,
+        "cached_tokens": 150,
+        "cost_usd": 0.00078
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3277,
+        "completion_tokens": 1165,
+        "total_tokens": 4442,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0009553
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6448,
+        "completion_tokens": 898,
+        "total_tokens": 7346,
+        "cached_tokens": 3272,
+        "cost_usd": 0.0012478
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 22270,
+        "completion_tokens": 2318,
+        "total_tokens": 24588,
+        "cached_tokens": 6443,
+        "cost_usd": 0.00464655
+      }
+    ]
+  }
+}

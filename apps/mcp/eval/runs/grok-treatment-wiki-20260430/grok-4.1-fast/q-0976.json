@@ -1,0 +1,213 @@
+{
+  "answer": "In Manusmṛti chapter 12, the threefold *guṇas* (*sattva* as knowledge and purity; *rajas* as passion; *tamas* as ignorance and delusion) determine the soul's transmigration through births, from beasts to gods.[^1] The strongest verse is:\n\n> By which of these *guṇas* one enters into which cycles of rebirth, those I will declare in summary for this entire world, in due order. // Mn_12.39 // The *sāttvic* go to the state of gods; the *rājasic*, to the state of men; the *tāmasic* always go to the state of beasts; this is the threefold state.[^2]\n\nIqbal's *Bang-e-Dara* (in three parts) is present in the corpus, but contains no explicit reference to *khudi* (\"selfhood\") in the English translations—searches surface the term only in Ghalib and Zauq as *be-khudi* (ecstatic self-loss), not Iqbal's signature concept of dynamic ego-realization.[^3] The nearest thematic passage, arguably on self-perfection beyond mortal cycles, is from Part 1, chapter 42:\n\n> True life is that which knows not Death's decree;  \n> What life is this, where Death demands its fee?  \n> [...]  \n> And in the dust, eternal life I'd find,  \n> And show the fire of love to all mankind.[^4]\n\nCould Iqbal's *khudi*—self-forged through striving in *one* life—fit Manu's *guṇa*-driven reincarnations, or must it dismantle them? \n\n[^1]: *Manusmṛti*, ch.12, [full chapter](/works/unknown-manusmrti-347b76/12/translation/).\n\n[^2]: *Manusmṛti*, ch.12, [paragraph](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n\n[^3]: Corpus-wide search results for \"khudi\"; wiki cards for all *Bang-e-Dara* parts.\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, ch.42, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/42-subah-ka-sitara/translation/#p-e76893).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"book 12\" Manu guna soul birth",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu chapter 12 guna rebirth transmigration",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self\" Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-074f6e"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "self",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: high\\n---\\n\\n# Bang-E-Dara Part 3 · ch.12\\nverse · 6¶ · 100w · vocab 45 (TTR 94%, hapax 93%)\\n\\n## Distinctive trigrams\\n\\\"human scenes garden\\\" · \\\"scenes garde"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 42
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.42\\nverse · 20¶ · 339w · vocab 161 (TTR 88%, hapax 88%)\\n\\n## Distinctive trigrams\\n\\\"joy sun moon\\\" · \\\"sun moon forsake\\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"single life\" OR \"one life\" self OR ego OR khudi Iqbal OR bang",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-074f6e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-e76893"
+    }
+  ],
+  "duration_ms": 47674,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 72770,
+    "completion_tokens": 5344,
+    "total_tokens": 78114,
+    "cached_tokens": 24742,
+    "api_calls": 4,
+    "cost_usd": 0.0135147,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1955,
+        "completion_tokens": 533,
+        "total_tokens": 2488,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00037505
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8176,
+        "completion_tokens": 1389,
+        "total_tokens": 9565,
+        "cached_tokens": 150,
+        "cost_usd": 0.0023072
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 14543,
+        "completion_tokens": 1665,
+        "total_tokens": 16208,
+        "cached_tokens": 8171,
+        "cost_usd": 0.00251545
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 48096,
+        "completion_tokens": 1757,
+        "total_tokens": 49853,
+        "cached_tokens": 14538,
+        "cost_usd": 0.008317
+      }
+    ]
+  }
+}

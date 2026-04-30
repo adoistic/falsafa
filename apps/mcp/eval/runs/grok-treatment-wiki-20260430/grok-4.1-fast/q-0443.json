@@ -1,0 +1,182 @@
+{
+  "answer": "**The Falsafa corpus contains several ancient Indian Dharmaśāstra (legal) texts—specifically Smṛtis—that discuss the nature of legitimate evidence (pramāṇa) in legal disputes (vyavahāra). These works outline types of evidence (e.g., documents, witnesses, possession, reasoning/inference, and divine ordeals), qualifications for witnesses, relative strengths, when certain evidence applies, and consequences for false testimony. The primary works are:**\n\n- **Bṛhaspati Smṛti** (Chapter 1): Describes legal procedure's \"four feet,\" including the \"foot of evidence\"; discusses inadmissible plaints lacking provable evidence; equality of evidence resolved by compromise; boundary disputes via witnesses.[^1]\n\n- **Kātyāyana Smṛti** (primarily Chapters 24–29): Specifies three main kinds of evidence (documents, witnesses, possession), plus reasoning and ordeals (e.g., poison); king decides via evidence, reason, or ordeal; defects in evidence; witnesses by caste.[^2]\n\n- **Manusmṛti** (Chapter 8): Details who qualifies as witnesses (e.g., householders of certain varṇas, not relatives/enemies); interrogation methods; punishments for false evidence (fines, expulsion); reversal if false evidence proven; oaths as fallback.[^3]\n\n- **Nārada Smṛti** (Chapter 1): Evidence as human (documents, witnesses) or divine (ordeals like balance); when ordeals apply (e.g., no witnesses available); protecting evidence; plaintiff proves initial plaint via evidence.[^4]\n\n**No other works in the corpus (e.g., poetry like Bang-e-Dara or narrative like Andreas) substantively address legitimate evidence in legal disputes; mentions of \"witness\" or \"ordeal\" there are metaphorical or unrelated.** \n\n[^1]: Bṛhaspati Smṛti, Chapter 1, [p-efecbd](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-efecbd).\n\n[^2]: Kātyāyana Smṛti, Chapter 24, [p-b4ce2a](/works/unknown-katyayana-smrti-1e06d2/24/translation/#p-b4ce2a).\n\n[^3]: Manusmṛti, Chapter 8, [p-803bc3](/works/unknown-manusmrti-347b76/08/translation/#p-803bc3).\n\n[^4]: Nārada Smṛti, Chapter 1, [p-b07fd1](/works/unknown-naradasmrti-7650d2/01/translation/#p-b07fd1).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "evidence",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"legal evidence\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"legitimate proof\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "witness testimony",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"proof\" dispute",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"valid evidence\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-efecbd"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 24,
+        "paragraph_ids": [
+          "p-b4ce2a"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-803bc3"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-b07fd1"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "proof OR witness OR ordeal OR document dispute",
+        "limit": 20
+      },
+      "result_summary": "Found 15 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-efecbd"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-b4ce2a"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-803bc3"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-b07fd1"
+    }
+  ],
+  "duration_ms": 28685,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 27671,
+    "completion_tokens": 3284,
+    "total_tokens": 30955,
+    "cached_tokens": 9561,
+    "api_calls": 3,
+    "cost_usd": 0.00574205,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 821,
+        "total_tokens": 2723,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007684
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7529,
+        "completion_tokens": 1098,
+        "total_tokens": 8627,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00177175
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18240,
+        "completion_tokens": 1365,
+        "total_tokens": 19605,
+        "cached_tokens": 7524,
+        "cost_usd": 0.0032019
+      }
+    ]
+  }
+}

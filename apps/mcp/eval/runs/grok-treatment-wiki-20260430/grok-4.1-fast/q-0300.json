@@ -1,0 +1,323 @@
+{
+  "answer": "**Manusmṛti** opens with great sages approaching Manu—seated in concentration—and requesting him to declare the *dharmas* of the *varṇas* and mixed castes, as he alone knows \"the true meaning of the purpose and reality of this entire ordinance of the Self-existent One.\" Manu agrees: \"Let it be heard.\"[^1] The text traces authority genealogically: the Self-existent composed and taught the *śāstra* first to Manu, who taught it to Marīci and other sages; Bhrigu, having learned it fully from Manu, now recites it.[^2]\n\n**Yājñavalkya Smṛti** opens similarly with sages honoring Yājñavalkya and requesting the *dharmas* of *varṇas*, *āśramas*, etc. He directs them to antelope lands and lists the fourteen sources of knowledge/*dharma* (Vedas + Aṅgas, Purāṇas, Nyāya, Mīmāṃsā, Dharmaśāstras), naming twenty smṛti authors including Manu, Viṣṇu, himself, etc. The root of *dharma* is \"Revelation (the Vedas), tradition (the Smṛtis), the conduct of the virtuous, what is pleasing to one's own self, and desire born of right resolve.\"[^3]\n\n**Viṣṇu Smṛti** opens mythically: After cosmic night, Vishnu as Boar lifts the submerged Earth, creates the worlds, etc. Earth—fearing loss of support—asks him directly for the eternal *dharmas* of *varṇas*/*āśramas*. Vishnu replies that \"good people who delight in the practices of the *varṇas* and *āśramas*, devoted solely to the scriptures... will support you.\" He then promises to declare them.[^4]\n\n**Most genealogical**: *Manusmṛti*, via explicit divine-to-sage teaching chain (Self-existent → Manu → Bhrigu et al.).\n\n**Most procedural**: *Yājñavalkya Smṛti*, via enumerated sources, authors, and interpretive roots.\n\n**Hardest to argue with**: *Viṣṇu Smṛti*, as direct speech from the supreme god to Earth herself—unmediated cosmic command.\n\n[^1]: Manusmṛti, ch. 1, [paragraphs](/works/unknown-manusmrti-347b76/01/translation/#p-879544).\n[^2]: Manusmṛti, ch. 1, [paragraphs](/works/unknown-manusmrti-347b76/01/translation/#p-fe9249).\n[^3]: Yājñavalkya Smṛti, ch. 1, [paragraphs](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-97f0a4).\n[^4]: Viṣṇu Smṛti, ch. 1, [paragraphs](/works/unknown-visnu-smrti-27f0d8/01/translation/#p-199ee0).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmasastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu Yājñavalkya Viṣṇu dharmic authority"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.1\\nverse · 66¶ · 1956w · vocab 562 (TTR 57%, hapax 74%)\\n\\n## Distinctive trigrams\\n\\\"vi_1 good people\\\" · \\\"eternal laws *dhar"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-879544",
+          "p-b51d68",
+          "p-f3134c",
+          "p-35908f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-97f0a4",
+          "p-4d4d87",
+          "p-b83e2e",
+          "p-0f4ad0",
+          "p-95ef53"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 5 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-199ee0",
+          "p-e8a664"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-fe9249",
+          "p-9c6199"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7d795b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-879544"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-fe9249"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-97f0a4"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-199ee0"
+    }
+  ],
+  "duration_ms": 48326,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 113795,
+    "completion_tokens": 4986,
+    "total_tokens": 118781,
+    "cached_tokens": 65801,
+    "api_calls": 6,
+    "cost_usd": 0.015381849999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1939,
+        "completion_tokens": 652,
+        "total_tokens": 2591,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006913
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2391,
+        "completion_tokens": 234,
+        "total_tokens": 2625,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005727
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6006,
+        "completion_tokens": 587,
+        "total_tokens": 6593,
+        "cached_tokens": 2386,
+        "cost_usd": 0.0011368
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 12400,
+        "completion_tokens": 872,
+        "total_tokens": 13272,
+        "cached_tokens": 6001,
+        "cost_usd": 0.00201585
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 44724,
+        "completion_tokens": 1289,
+        "total_tokens": 46013,
+        "cached_tokens": 12395,
+        "cost_usd": 0.00773005
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 46335,
+        "completion_tokens": 1352,
+        "total_tokens": 47687,
+        "cached_tokens": 44719,
+        "cost_usd": 0.00323515
+      }
+    ]
+  }
+}

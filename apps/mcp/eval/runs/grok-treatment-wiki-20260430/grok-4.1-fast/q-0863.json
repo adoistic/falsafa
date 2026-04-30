@@ -1,0 +1,179 @@
+{
+  "answer": "**One clear example of intra-line code-switching appears in the *maqta* (signature couplet) of Ghalib's first ghazal:**\n\n> Tu ne qasam **mai-kashi** ki khaayi hai Ghalib  \n> Teri qasam ka kuch **aitbaar** nahin hai[^1]\n\n**Transliteration with bolding for code-switched elements:** The first line pivots mid-phrase from colloquial Urdu (\"Tu ne ... ki khaayi hai\" — everyday syntax for \"you ... have taken\") to Persian (\"**mai-kashi**\" — wine-drinking, a sophisticated poetic trope evoking Sufi/ecstatic excess). The second line follows suit: Urdu frame (\"Teri ... ka ... nahin hai\" — \"your ... 's ... is not\") embeds Persian \"**aitbaar**\" (reliability/faith, an abstract Perso-Arabic term for trust in oaths).\n\n**Language roles:** Persian sets the elevated register with loaded, metaphorical vocabulary (**mai-kashi** conjures forbidden revelry; **aitbaar** implies solemn credibility), drawing on the *ishq*-divine love tradition. Urdu carries the punch — its direct particles and negation (\"nahin hai\") deliver the ironic twist, undercutting the pretension with raw skepticism (\"no trust in that at all\"). This rekhta style (Persianized Urdu) is Ghalib's hallmark: Persian for philosophical depth, Urdu for visceral immediacy.[^2]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 1 (\"Aa ke meri jaan ko qarar nahin hai\"), transliteration, [final couplet paragraphs](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/01-aa-ke-meri-jaan-ko-qarar-nahin-hai/transliteration/#p-ce62e8).\n\n[^2]: The full ghazal reinforces this pattern; e.g., earlier: \"Qatl ka mere kiya hai ahd to baare / Waaye agar ahd ustuwaar nahin hai\" mixes similarly (Urdu \"Waaye\" exclamation punches against Persian \"ustuwaar\"). Mirza Ghalib, *Diwan-E-Ghalib*, ch. 1, transliteration, [passage](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/01-aa-ke-meri-jaan-ko-qarar-nahin-hai/transliteration/#p-8c0e6c). The corpus provides the texts but no explicit linguistic analysis of code-switching.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"code-switch\" OR persian urdu ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 01-aa-ke-meri-jaan-ko-qarar-nahin-hai.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 2
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 02-aabroo-kya-khaak-uss-gul-ki-ke-gulshan-mein-nahin.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.3\\nverse · 8¶ · 132w · vocab 70 (TTR 86%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"till morning light\\\" · \\\"sigh wait age\\\" "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 2,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.2 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.3 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 5,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.5 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 5,
+      "paragraph_id": "p-ce62e8"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 5,
+      "paragraph_id": "p-8c0e6c"
+    }
+  ],
+  "duration_ms": 56906,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 33572,
+    "completion_tokens": 6530,
+    "total_tokens": 40102,
+    "cached_tokens": 18236,
+    "api_calls": 4,
+    "cost_usd": 0.0072440000000000004,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1932,
+        "completion_tokens": 582,
+        "total_tokens": 2514,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006549
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7478,
+        "completion_tokens": 1183,
+        "total_tokens": 8661,
+        "cached_tokens": 150,
+        "cost_usd": 0.0020646
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10468,
+        "completion_tokens": 1271,
+        "total_tokens": 11739,
+        "cached_tokens": 7473,
+        "cost_usd": 0.00160815
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 13694,
+        "completion_tokens": 3494,
+        "total_tokens": 17188,
+        "cached_tokens": 10463,
+        "cost_usd": 0.00291635
+      }
+    ]
+  }
+}

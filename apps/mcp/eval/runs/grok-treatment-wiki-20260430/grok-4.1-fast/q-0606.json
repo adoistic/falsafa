@@ -1,0 +1,327 @@
+{
+  "answer": "**Iqbal directly references *tasawwuf* (Sufism) only once in the Falsafa corpus, in the poem \"Zuhd aur Rindi\" (\"Asceticism and Rapture\") from *Bang-E-Dara Part 1*.**[^1][^2] Here, he positions it through a satirical portrait of a cleric (Maulvi) with a \"Sufi air\" known to all, who claims that *shariat* (Islamic law) is \"hidden\" or \"concealed\" within *tasawwuf*, like deep meaning embedded in words.[^3][^4] The cleric embodies a fusion of outward piety (*zuhd*, asceticism) and mystical flair (*rindi*, rapture or libertine ecstasy), with his \"heart’s own flask... filled\" with \"pious wine\"—evoking Sufi metaphors of divine intoxication—but tainted by \"dregs of pride.\"[^5]\n\n### Endorsements\nIqbal implicitly endorses *tasawwuf* as a profound, integrative path when authentic:\n- It conceals and elevates *shariat*, suggesting mysticism fulfills rather than opposes law.[^3]\n- True Sufis achieve unity of opposites: awareness of both \"Sinner’s path\" and \"Law’s decree,\" akin to Mansur (Al-Hallaj, the ecstatic martyr who proclaimed \"I am the Truth\").[^6]\n- Iqbal aligns himself with this ideal, describing his own elusive self as a \"paradox... a sage’s mind, a melancholy soul,\" unknowable even to himself—like a mystic in self-annihilation (*fana*). He swears, “Iqbal is of ‘Iqbal’ unaware,” emphasizing humble self-strangerhood over boastful miracles (which the cleric claims).[^7][^8]\n\n### Critiques\nIqbal sharply critiques degenerate *tasawwuf* as practiced by pretenders:\n- The cleric boasts \"his own miracles\" to gain disciples, revealing pride and showmanship beneath Sufi garb.[^9]\n- He hypocritically judges others (including Iqbal) for unorthodox views—e.g., not deeming Hindus infidels, praising Ali, embracing music as worship, or associating with dancers—while excusing his own inconsistencies.[^10]\n- This leads to a false \"new Islam of the mind,\" sterile and sectarian, contrasting Iqbal's dynamic self.[^11]\n\n**No other Iqbal works in the corpus (only *Bang-E-Dara* Parts 1–3, poetic collections) discuss *tasawwuf*, Sufism, or related terms like *faqir*, *dervish*, or *irfan* in depth.** His prose (e.g., *The Reconstruction of Religious Thought in Islam*, where he famously critiques passive mysticism) is absent. Iqbal thus portrays *tasawwuf* poetically as a high ideal corrupted by ego, endorsing its essence for self-transcendence while lampooning its clerical distortions.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 44: \"Zuhd aur Rindi\" ([translation](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/)).\n[^2]: Ibid., transliteration: \"Kehte the ke pinhan hai tasawwuf mein shariat\" ([transliteration](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/transliteration/#p-00d472)).\n[^3]: Ibid., [p-8c3c35](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-8c3c35).\n[^4]: Ibid., transliteration: \"soofi-munshi\" ([p-d52cd4](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/transliteration/#p-d52cd4)).\n[^5]: Ibid., [p-52b34d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-52b34d), [p-f39e58](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-f39e58).\n[^6]: Ibid., [p-ea39dc](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-ea39dc).\n[^7]: Ibid., [p-d56a1f](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-d56a1f)–[p-b1ce70](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-b1ce70).\n[^8]: Ibid., [p-9c3aa8](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-9c3aa8).\n[^9]: Ibid., [p-a65be3](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-a65be3).\n[^10]: Ibid., [p-e2c656](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-e2c656)–[p-875901](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-875901).\n[^11]: Ibid., [p-d0a4e4](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-d0a4e4), [p-f9aaa0](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-f9aaa0).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tasawwuf Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sufism\" Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tasawwuf OR Sufism OR mysticism Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sufi OR Sufism OR dervish OR faqir OR pir OR tasawwuf OR zuhd OR irfan Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sufi\" OR \"Sufism\" OR mysticism OR \"tasawwuf\"",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Philosophy"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "20th Century"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.44\\nverse · 27¶ · 437w · vocab 181 (TTR 77%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"cleric tale mean\\\" · \\\"tale mean tell"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44
+      },
+      "result_summary": "Read ch.44 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.44 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "paragraph_ids": [
+          "p-52b34d",
+          "p-8c3c35",
+          "p-6b29d4",
+          "p-d56a1f",
+          "p-9c3aa8",
+          "p-b1ce70"
+        ]
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "paragraph_range": {
+          "start": 0,
+          "end": 26
+        }
+      },
+      "result_summary": "Returned 27 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sufi\" OR faqir OR dervish OR \"mystic\" OR zuhd OR rindi Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-00d472"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-8c3c35"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-d52cd4"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-52b34d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-f39e58"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-ea39dc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-d56a1f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-b1ce70"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-9c3aa8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-a65be3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-e2c656"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-875901"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-d0a4e4"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 44,
+      "paragraph_id": "p-f9aaa0"
+    }
+  ],
+  "duration_ms": 79670,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 62116,
+    "completion_tokens": 7548,
+    "total_tokens": 69664,
+    "cached_tokens": 37096,
+    "api_calls": 5,
+    "cost_usd": 0.010632800000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1914,
+        "completion_tokens": 407,
+        "total_tokens": 2321,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005638
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5958,
+        "completion_tokens": 1606,
+        "total_tokens": 7564,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019721
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works",
+          "read_wiki"
+        ],
+        "prompt_tokens": 12217,
+        "completion_tokens": 1023,
+        "total_tokens": 13240,
+        "cached_tokens": 5953,
+        "cost_usd": 0.00206195
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 18636,
+        "completion_tokens": 2036,
+        "total_tokens": 20672,
+        "cached_tokens": 12212,
+        "cost_usd": 0.0029134
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 23391,
+        "completion_tokens": 2476,
+        "total_tokens": 25867,
+        "cached_tokens": 18631,
+        "cost_usd": 0.00312155
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "answer": "**Cynewulf's *Juliana* (epilogue):** On the \"Great Day,\" the Trinity—Father, Son, and Holy Spirit—will sit in majesty as Judge of deeds, assigning eternal rewards or punishments to every person according to their works.[^1]\n\n**Viṣṇu Smṛti** (late chapters, e.g., ch. 97 on yoga/eschatology):** One who meditates properly on the imperishable *puruṣa* (the 25th principle, Viṣṇu) attains him and becomes liberated (*muktim āpnoti*), transcending rebirth.[^2]\n\nCynewulf's final reckoning is far more visible: a dramatic, universal \"Great Day\" with the Trinity publicly judging all humanity's deeds at once, evoking doomsday imagery throughout the poem (e.g., hell's king, soul's journey, rewards in glory). Viṣṇu Smṛti's is abstract and individual—quiet yogic insight yielding mokṣa, with no collective event or vivid judgment scene (late chapters emphasize meditation over hells/rebirth, which appear earlier, e.g., ch. 44).[^3]\n\nViṣṇu Smṛti gives the wicked vastly more time to repent: sins lead to temporary hells and animal rebirths, but one can pursue yoga/liberation across countless lives via karma. *Juliana* implies a single life's deeds seal fate until the final Judgment (no reincarnation), though repentance is urged before death.[^4]\n\n[^1]: Cynewulf, *Juliana*, ch. 1 [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-1f8ce8).\n\n[^2]: *Viṣṇu Smṛti*, ch. 97 [paragraph](/works/unknown-visnu-smrti-27f0d8/97/translation/#p-92883f).\n\n[^3]: *Viṣṇu Smṛti*, ch. 44 [chapter](/works/unknown-visnu-smrti-27f0d8/44/translation/).\n\n[^4]: Cf. *Juliana*, ch. 1 [paragraphs](/works/cynewulf-juliana-9a2157/01/translation/#p-e769dc) (soul judged by life's deeds post-separation).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Viṣṇu Smṛti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vishnu Smriti"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Juliana Cynewulf judgement"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hell OR heaven OR naraka OR svarga OR afterlife OR judgement OR judgment OR doom OR reckoning OR eschatolog",
+        "limit": 30
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"final judgment\" OR \"day of judgment\" OR \"last judgment\" OR \"doomsday\" OR \"final reckoning\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "doom OR judgement OR judgment OR reckoning",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 100
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.100\\nverse · 3¶ · 295w · vocab 128 (TTR 85%, hapax 84%)\\n\\n## Distinctive trigrams\\n\\\"literally one follows\\\" · \\\"one follows v"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 99
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.99\\nverse · 2¶ · 960w · vocab 279 (TTR 66%, hapax 79%)\\n\\n## Distinctive trigrams\\n\\\"blooming red lotuses\\\" · \\\"blooming red lo"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 98
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: high\\n---\\n\\n# Viṣṇu Smṛti · ch.98\\nverse · 3¶ · 863w · vocab 153 (TTR 43%, hapax 76%)\\n\\n## Distinctive trigrams\\n\\\"lord creatures vi_98\\\" · \\\"*dharma* धर्म "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 97
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: high\\n---\\n\\n# Viṣṇu Smṛti · ch.97\\nverse · 3¶ · 590w · vocab 185 (TTR 67%, hapax 82%)\\n\\n## Distinctive trigrams\\n\\\"meditation *dhyāna* ध्यान\\\" · \\\"vi_97 una"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cynewulf juliana \"judgment\" OR \"doom\" OR \"hell\" OR \"judgement\" OR \"reckoning\" OR \"doomsday\""
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 97
+      },
+      "result_summary": "Read ch.97 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 98
+      },
+      "result_summary": "Read ch.98 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 99
+      },
+      "result_summary": "Read ch.99 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 100
+      },
+      "result_summary": "Read ch.100 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hell\" OR naraka OR \"final\" OR judgement OR judgment OR reckoning OR svarga OR moksha OR \"afterlife\" OR \"next world\" OR \"after death\"",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 44
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.44\\nverse · 45¶ · 478w · vocab 150 (TTR 64%, hapax 87%)\\n\\n## Distinctive trigrams\\n\\\"animals vi_44 committed\\\" · \\\"great sinne"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 100,
+      "paragraph_id": "p-1f8ce8"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 100,
+      "paragraph_id": "p-92883f"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 100,
+      "paragraph_id": "p-e769dc"
+    }
+  ],
+  "duration_ms": 56267,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 94464,
+    "completion_tokens": 6476,
+    "total_tokens": 100940,
+    "cached_tokens": 52873,
+    "api_calls": 5,
+    "cost_usd": 0.01419985,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1938,
+        "completion_tokens": 797,
+        "total_tokens": 2735,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00050395
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5541,
+        "completion_tokens": 1152,
+        "total_tokens": 6693,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00140205
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15928,
+        "completion_tokens": 1598,
+        "total_tokens": 17526,
+        "cached_tokens": 5536,
+        "cost_usd": 0.0031542
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 27657,
+        "completion_tokens": 1388,
+        "total_tokens": 29045,
+        "cached_tokens": 15923,
+        "cost_usd": 0.00383695
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 43400,
+        "completion_tokens": 1541,
+        "total_tokens": 44941,
+        "cached_tokens": 27652,
+        "cost_usd": 0.0053027
+      }
+    ]
+  }
+}

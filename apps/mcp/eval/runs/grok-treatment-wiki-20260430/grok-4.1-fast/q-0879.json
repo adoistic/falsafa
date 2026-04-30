@@ -1,0 +1,187 @@
+{
+  "answer": "**Āśauca** (also *sūtaka* for birth-related cases) refers to a temporary period of ritual ineligibility triggered automatically by events like a death in the family or a childbirth, during which participants are barred from certain sacred rites, offerings, or food consumption.[^1][^2]\n\nA clear Smṛti rule hinging on *āśauca* appears in the *Manusmṛti*: A twice-born man must avoid \"food from a house under impurity from childbirth\" (*sūtaka*), alongside other taboo foods like those prepared by violent persons or physicians.[^3] This rule \"turns on\" *āśauca* by prohibiting commensality (sharing food) with those in the state, as it could transmit the ritual disqualification—much like how *āśauca* from death similarly restricts *śrāddha* rites in the *Āṅgirasa Smṛti*.[^4]\n\nEnglish \"impurity\" misleads an English-only reader by evoking *moral* sinfulness (e.g., guilt from wrongdoing) or *physical* filth (e.g., contamination needing hygiene), rather than *āśauca*'s precise sense of a calendrical, event-triggered *ritual quarantine*. One incurs *āśauca* involuntarily via kinship ties to birth/death, not personal fault; it expires via fixed durations (e.g., 10 days for *sapiṇḍa* death impurity), bathing, or mantras, without confession or penance for sin.[^1] Equating it to \"impurity\" risks projecting Christian/Western notions of pollution as ethical taint, obscuring its function as a juridical timer for resuming Dharma observances in a pure *ritual* state.[^2]\n\n[^1]: *Manusmṛti*, Chapter 6 [paragraph](/works/unknown-manusmrti-347b76/06/translation/#p-89d810).\n\n[^2]: *Manusmṛti*, Chapter 6 [paragraph](/works/unknown-manusmrti-347b76/06/translation/#p-89d810). Here, *āśauca* is explicitly named for a guru's death (3 nights), with analogous rules for birth/death among kin.\n\n[^3]: *Manusmṛti*, Chapter 5 [paragraph](/works/unknown-manusmrti-347b76/05/translation/#p-7851cc).\n\n[^4]: *Āṅgirasa Smṛti*, Chapter 1 [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-bf0738). *Sūtaka* obstructs *śrāddha* unless cooking has begun.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "asauca",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "asaucha",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impurity\" birth death smriti",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impurity\" \"birth\" \"death\" OR \"death\" \"birth\" \"impurity\" smriti OR manu",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-7851cc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-89d810"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sūtaka",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impurity from childbirth\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"impurity\" birth OR death OR childbirth OR \"death pollution\"",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-89d810"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-7851cc"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 6,
+      "paragraph_id": "p-bf0738"
+    }
+  ],
+  "duration_ms": 35738,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 26085,
+    "completion_tokens": 3752,
+    "total_tokens": 29837,
+    "cached_tokens": 7361,
+    "api_calls": 3,
+    "cost_usd": 0.00598885,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1934,
+        "completion_tokens": 726,
+        "total_tokens": 2660,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007273
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5335,
+        "completion_tokens": 954,
+        "total_tokens": 6289,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00126185
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 18816,
+        "completion_tokens": 2072,
+        "total_tokens": 20888,
+        "cached_tokens": 5330,
+        "cost_usd": 0.0039997
+      }
+    ]
+  }
+}

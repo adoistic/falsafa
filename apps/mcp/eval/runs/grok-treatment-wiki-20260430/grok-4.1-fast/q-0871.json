@@ -1,0 +1,209 @@
+{
+  "answer": "In *San Hyan Kamahayanikan*, Sanskrit doctrinal terms are indeed embedded directly within Old Javanese (Kawi) sentences, untranslated, as seen in the transliteration (e.g., *bajra*, *samaya*, *maṇḍala*) and mirrored in the English translation.[^1][^2] Three clear examples:\n\n- *Vajra* (*bajra*): \"the Lord of the Three Syllables is the ultimate reality, the *vajra* [*bajra*] of body, speech, and mind.\"[^3]\n- *Samaya*: Appears ~30× untranslated (e.g., \"protecting the *samaya* [*samaya*]\"; \"your *samaya* [*samaya*], O Vajrin\").[^4]\n- *Maṇḍala*: \"You must not teach about the sacred *vajra* [*bajra*], *ghaṇṭā*, and *mudrā* to a person who has not seen the *maṇḍala* [*maṇḍala*].\"[^5]\n\nAre they kept untranslated because they have no Old Javanese equivalent, or because the Sanskrit form carries authority the Javanese would dilute?\n\n[^1]: `unknown-san-hyan-kamahayanikan-2a0c19/01/transliteration/#p-f5c28f`\n[^2]: `unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-906a8d`\n[^3]: `unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-906a8d`\n[^4]: `unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-1c4aa5`\n[^5]: `unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-4b996f`",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "San Hyan Kamahayanikan"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Old Javanese\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sanskrit\" doctrinal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kamahayanikan"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Kamahayanikan\\nMpu Shri Sambhara Surya Warama · Medieval · kawi · prose · 1 chapters · 14,398 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"body s"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Kamahayanikan · ch.1\\nprose · 258¶ · 14398w · vocab 2021 (TTR 29%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"body speech mind\\\" · \\\"divine "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (transliteration)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Kamahayanikan · ch.1\\nprose · 258¶ · 14398w · vocab 2021 (TTR 29%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"body speech mind\\\" · \\\"divine "
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5c28f"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-906a8d"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-1c4aa5"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-4b996f"
+    }
+  ],
+  "duration_ms": 28522,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 87393,
+    "completion_tokens": 3066,
+    "total_tokens": 90459,
+    "cached_tokens": 14594,
+    "api_calls": 5,
+    "cost_usd": 0.0168225,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1943,
+        "completion_tokens": 711,
+        "total_tokens": 2654,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007216
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2127,
+        "completion_tokens": 455,
+        "total_tokens": 2582,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006304
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5611,
+        "completion_tokens": 339,
+        "total_tokens": 5950,
+        "cached_tokens": 2122,
+        "cost_usd": 0.0009734
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6571,
+        "completion_tokens": 664,
+        "total_tokens": 7235,
+        "cached_tokens": 5606,
+        "cost_usd": 0.0008053
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 71141,
+        "completion_tokens": 897,
+        "total_tokens": 72038,
+        "cached_tokens": 6566,
+        "cost_usd": 0.0136918
+      }
+    ]
+  }
+}

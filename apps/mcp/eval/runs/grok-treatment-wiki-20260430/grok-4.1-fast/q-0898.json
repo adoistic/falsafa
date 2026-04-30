@@ -1,0 +1,330 @@
+{
+  "answer": "**No direct mentions of \"punya\" and \"paap\" appear in the English translations of Smṛti texts in this corpus (e.g., Manu, Bṛhaspati, Pārāśara, etc.), likely due to translation choices favoring terms like \"merit\" and \"demerit\"/\"sin\".** However, the Bṛhaspati Smṛti explicitly equates the karmic fruits of merit (*puṇya*) and demerit (*pāpa*) in a moral accounting between spouses, portraying the wife as half the husband's body with shared consequences.[^1]\n\nThis rule weighs **the fruits (phala) of a wife's merits against her demerits**—they produce identical outcomes to the husband's own actions, such that good deeds elevate both equally while bad ones degrade both equally. No transactional offset is specified (e.g., no formula balancing one against the other); instead, it emphasizes inherent equality in karmic liability, underscoring spousal unity beyond mere partnership. A virtuous wife benefits her husband regardless of her fate (sati or long-lived), but her demerits bind him karmically as his own.[^1]\n\nManusmṛti similarly references merits (*guṇa*, good qualities/merit) weighed against demerits (*doṣa*, faults/demerit) in evaluating past actions or foods, but without the spousal balancing seen in Bṛhaspati.[^2][^3]\n\n[^1]: Bṛhaspati Smṛti, [ch.1 §25.14](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-0e8ca8).\n\n[^2]: Manusmṛti, [ch.8 §178-179](/works/unknown-manusmrti-347b76/08/translation/#p-803bc3).\n\n[^3]: Manusmṛti, [ch.5 §71](/works/unknown-manusmrti-347b76/05/translation/#p-cb1317).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "punya paap",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"punya\" \"paap\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"punya\" \"papa\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "punya papa",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "shastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"merit\" \"sin\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "merit sin",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"good deeds\" \"evil deeds\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.5\\nverse · 106¶ · 3213w · vocab 848 (TTR 51%, hapax 72%)\\n\\n## Distinctive trigrams\\n\\\"heron mode life\\\" · \\\"brahmana never eat\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Manusmṛti · ch.11\\nverse · 6¶ · 206w · vocab 59 (TTR 64%, hapax 76%)\\n\\n## Distinctive trigrams\\n\\\"brahmanas learned veda\\\" · \\\"one establishin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Parāśara Smṛti · ch.11\\nverse · 56¶ · 1831w · vocab 435 (TTR 49%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"par_11 clarified butter\\\" · \\\"water k"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "punya"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"good\" \"evil\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"merit\" OR \"sin\" OR \"demerit\" OR \"vice\" OR \"papa\" OR \"punya\"",
+        "limit": 20
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-0e8ca8"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-803bc3"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-0e8ca8"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-803bc3"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-cb1317"
+    }
+  ],
+  "duration_ms": 50174,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 128699,
+    "completion_tokens": 4855,
+    "total_tokens": 133554,
+    "cached_tokens": 24874,
+    "api_calls": 6,
+    "cost_usd": 0.024436199999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1937,
+        "completion_tokens": 411,
+        "total_tokens": 2348,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00031075
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2212,
+        "completion_tokens": 597,
+        "total_tokens": 2809,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00045875
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3745,
+        "completion_tokens": 798,
+        "total_tokens": 4543,
+        "cached_tokens": 2207,
+        "cost_usd": 0.00081695
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6379,
+        "completion_tokens": 910,
+        "total_tokens": 7289,
+        "cached_tokens": 3740,
+        "cost_usd": 0.0011698
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8796,
+        "completion_tokens": 955,
+        "total_tokens": 9751,
+        "cached_tokens": 6374,
+        "cost_usd": 0.0012806
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "read_chapter",
+          "get_passage",
+          "read_wiki"
+        ],
+        "prompt_tokens": 105630,
+        "completion_tokens": 1184,
+        "total_tokens": 106814,
+        "cached_tokens": 8791,
+        "cost_usd": 0.02039935
+      }
+    ]
+  }
+}

@@ -1,0 +1,222 @@
+{
+  "answer": "### Passages Mentioning Wine\n\nWine (*wine*, often metaphorical for ecstasy, love, or divine joy) appears frequently in poetic works, especially Persian/Urdu ghazals and nazms, as well as in Christian Old English poetry (e.g., miraculous transformation) and some prose. Searches returned over 100 snippets; here are representative passages:\n\n- Cynewulf, *Andreas*, Chapter 1 (miracle at Cana): \"He hallowed for the host of men wine from water, and willed it to change, for the joy of the people, to the better kind.\"[^1]\n- Cynewulf, *Andreas*, Chapter 1 (famine scene): \"The horn-halls stood empty, the wine-halls wasted; the warriors had no wealth to enjoy in that bitter time.\"[^2]\n- Allama Iqbal, *Bang-E-Dara Part 1*, Chapter 4: \"For the sake of love, seek out a heart that is ready to break; this is a wine that is kept only in delicate crystal goblets.\"[^3]\n- Mirza Ghalib, *Diwan-E-Ghalib*, Chapter 1: \"They trade you heaven for this worldly life, But for that wine, the coming ache's not fair; it is not there.\"[^4]\n\nWine is a central motif in *Diwan-E-Ghalib* (dozens of chapters, e.g., 2, 6–7, 9, 14, 20, 22–23, 29, 35, 43, 45, 48–50, 54, 59, 61–62, 66, 68, 70, 75, 77–78, 83, 85, 100, 105–106, 108, 111, 116–117, 128–132, 136–139, 141, 145–146), *Bang-E-Dara* Parts 1–3 (e.g., Chapters 5, 9, 17–18, 23, 28, 32, 36, 40, 44 in Part 1; 3–4, 8, 11, 14, 26, 28 in Part 2; 4, 7, 11, 14, 17–18, 20, 25 in Part 3), symbolizing intoxication with love or divine unity.\n\n### Passages Mentioning Intoxication\n\nIntoxication (*intoxication*, *intoxicate*, *drunk*, *drunken*) appears in legal/ethical Dharma texts (Smṛtis) as a vice prohibiting valid testimony, contracts, or purity, and poetically as spiritual ecstasy. Over 150 snippets total:\n\n**Legal Contexts (Smṛtis):**\n- Manusmṛti, Chapter 7: \"Hunting, gambling, sleeping by day, slander, women, **intoxication**, the triad of song, dance, and music, and aimless wandering—this is the tenfold group born of desire.\"[^5]\n- Kunjarakarṇa Dharmakathāna, Chapter 1: \"Such a scornful person has a broken understanding in his heart. It is not truly broken, but only doubt and **intoxication**. Better is the state of a tree than such a base and deluded person...\"[^6]\n- Slokāntara, Chapter 1: \"The things that cause **intoxication** in a person are of three kinds... *Surā* means palm wine. *Sarasvatī*... *Lakṣmī*... These are the causes of **intoxication** that reside in the mind.\"[^7]\n\nSimilar in *Bṛhaspati Smṛti* Ch1 (e.g., invalid contracts by intoxicated), *Kātyāyana Smṛti* Ch14/26/41/62, *Manusmṛti* Ch3/5/8/9/12, *Nāradasmṛti* Ch1, *Parāśara Smṛti* Ch9/10, *Vṛatiśāsana* Ch1, *Viṣṇu Smṛti* Ch7/8/24/63/71, *Yājñavalkya Smṛti* Ch1–2.\n\n**Poetic Contexts:**\n- Allama Iqbal, *Bang-E-Dara Part 1*, Ch17: \"Each heart is **drunk** on wines of its own mind...\"\n- Mirza Ghalib, *Diwan-E-Ghalib*, Ch6: \"A **drunken** stumbling, Asad, a fevered, wild display...\"\n\nThe corpus has no exhaustive index beyond these searches; not every philosophical text covers this (e.g., absent in many Western works). For full lists, see search results across 20+ works.\n\n[^1]: Cynewulf, *Andreas*, [p-ba1f68](/works/cynewulf-andreas-07b573/01/translation/#p-ba1f68).\n[^2]: Cynewulf, *Andreas*, [p-72e9c3](/works/cynewulf-andreas-07b573/01/translation/#p-72e9c3).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, [p-6a25c9](/works/allama-iqbal-bang-e-dara-part-1-55b25c/04-jinhein-main-dhoondta-tha-aasmanon-mein-zameenon-m/translation/#p-6a25c9).\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, [p-564520](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/01-aa-ke-meri-jaan-ko-qarar-nahin-hai/translation/#p-564520).\n[^5]: *Manusmṛti*, [p-701061](/works/unknown-manusmrti-347b76/07/translation/#p-701061).\n[^6]: *Kunjarakarṇa Dharmakathāna*, [p-386a1b](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-386a1b).\n[^7]: *Slokāntara*, [p-05622a](/works/unknown-slokantara-d7a628/01/translation/#p-05622a).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wine",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intoxication",
+        "limit": 100
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intoxicate",
+        "limit": 100
+      },
+      "result_summary": "Found 41 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "drunk",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "drunken",
+        "limit": 100
+      },
+      "result_summary": "Found 41 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-ba1f68"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-72e9c3"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-6a25c9"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-564520"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-701061"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-386a1b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-05622a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-ba1f68"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-72e9c3"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-6a25c9"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-564520"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-701061"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-386a1b"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-05622a"
+    }
+  ],
+  "duration_ms": 45832,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 84122,
+    "completion_tokens": 4538,
+    "total_tokens": 88660,
+    "cached_tokens": 42227,
+    "api_calls": 3,
+    "cost_usd": 0.01275935,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1898,
+        "completion_tokens": 796,
+        "total_tokens": 2694,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007551
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 40201,
+        "completion_tokens": 1795,
+        "total_tokens": 41996,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00865555
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 42023,
+        "completion_tokens": 1947,
+        "total_tokens": 43970,
+        "cached_tokens": 40196,
+        "cost_usd": 0.0033487
+      }
+    ]
+  }
+}

@@ -1,0 +1,383 @@
+{
+  "answer": "**The Falsafa corpus contains poignant laments for lost or ruined civilizations primarily in two works: the Anglo-Saxon elegiac poems collected in *Old English Elegies* and Allama Iqbal's *Bang-E-Dara Part 3*.**[^1][^2]\n\nIn *Old English Elegies* (Medieval, Old English poetry), **Chapter 16 (\"The Ruin\")** meditates on the shattered remnants of a once-great city—likely evoking Roman ruins in Britain—with crumbling giant-built walls, toppled roofs, decayed bath-houses, and vanished feasts, all overtaken by time (Wyrd). The speaker marvels at the contrast between past splendor and present desolation.[^3]\n\nThe same collection's **Chapter 11 (\"The Wanderer\")** evokes a broader sense of civilizational decay: frost-covered walls, crumbling wine-halls, and empty giant-works left after wars, plagues, and slaughters dispersed lords, warriors, and citizens.[^4]\n\nIn **Allama Iqbal's *Bang-E-Dara Part 3* (20th Century, Urdu poetry), Chapter 9 (\"Goristan-e-Shahi,\" or \"The Royal Graveyard\")** is an extended elegy over the tombs of Mughal emperors in Delhi. It grieves fallen empires—Egypt, Babylon, Persia, Rome, and Islam's glory—now reduced to dust and ruins, pondering the transience of nations amid nature's indifference.[^5]\n\nNo other works feature such direct, poetic laments for ruined civilizations. Prose texts (e.g., Charles Comte's *Traité de Législation*) reference historical ruins analytically, without elegiac tone.[^6]\n\n[^1]: /works/unknown-old-english-elegies-d5fe9e/translation/.\n[^2]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/.\n[^3]: /works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgsted/translation/#p-d0d2bd.\n[^4]: /works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc.\n[^5]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-9890bf.\n[^6]: /works/charles-comte-traite-de-legislation-vol-iii-ca589a/33-des-relations-observees-entre-l-aristocratie-milit/translation/#p-a2fa72.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ruined civilization",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fallen civilization",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lost civilization",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lament ruined",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fallen empire",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "destroyed city lament",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ruin",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ruins",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ruined city",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fallen city",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "destroyed city",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lament city",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "elegy"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "anglo-saxon"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ruin\" city",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ruin\" empire",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lament ruin",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"broken walls\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wondrous wall\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 17
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.17\\nprose · 10¶ · 807w · vocab 240 (TTR 55%, hapax 72%)\\n\\n## Distinctive trigrams\\n\\\"father taught his\\\" · \\\"father again"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the ruin\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.9\\nverse · 59¶ · 970w · vocab 394 (TTR 72%, hapax 77%)\\n\\n## Distinctive trigrams\\n\\\"royal graveyard sky\\\" · \\\"graveyard sk"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16
+      },
+      "result_summary": "Read ch.16 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 9
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.16\\nprose · 3¶ · 314w · vocab 160 (TTR 86%, hapax 86%)\\n\\n## Distinctive trigrams\\n\\\"wondrous wall-stone wyrd\\\" · \\\"wall-s"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-d0d2bd"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9890bf"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-a2fa72"
+    }
+  ],
+  "duration_ms": 56242,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 60245,
+    "completion_tokens": 6348,
+    "total_tokens": 66593,
+    "cached_tokens": 39373,
+    "api_calls": 6,
+    "cost_usd": 0.00931705,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1897,
+        "completion_tokens": 634,
+        "total_tokens": 2531,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006739
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2256,
+        "completion_tokens": 1084,
+        "total_tokens": 3340,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0007109
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 8041,
+        "completion_tokens": 1159,
+        "total_tokens": 9200,
+        "cached_tokens": 2251,
+        "cost_usd": 0.00185005
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11672,
+        "completion_tokens": 1015,
+        "total_tokens": 12687,
+        "cached_tokens": 8036,
+        "cost_usd": 0.0016365
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 15392,
+        "completion_tokens": 911,
+        "total_tokens": 16303,
+        "cached_tokens": 11667,
+        "cost_usd": 0.00178385
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 20987,
+        "completion_tokens": 1545,
+        "total_tokens": 22532,
+        "cached_tokens": 15387,
+        "cost_usd": 0.00266185
+      }
+    ]
+  }
+}

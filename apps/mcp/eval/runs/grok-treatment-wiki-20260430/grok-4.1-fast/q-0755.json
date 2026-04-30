@@ -1,0 +1,192 @@
+{
+  "answer": "**The Yama Smṛti (also spelled Yama Smṛti) in this corpus does not prescribe a *specific* procedure for purification after contact with a corpse.**[^1]\n\nThe text focuses primarily on penances (*vrata*, *kṛcchra*, *cāndrāyaṇa*, etc.) for various sins (e.g., eating forbidden food, intercourse with prohibited persons or animals, killing, etc.), general rules for ritual purity (e.g., water as a purifier), and punishments involving corpses (e.g., smearing a punished person with corpse ashes or hair as a form of degradation).[^2][^3]\n\nA general rule appears for contact with *any* impure substance (*amedhya*):  \n> A twice-born who is touched by an impure substance, by night or by day, / should immediately bathe and touch fire; and at the two twilights, he is always pure.[^4]\n\nCorpse contact is not singled out here or elsewhere (unlike in other smṛtis like Manu Smṛti or Viṣṇu Smṛti, which address it explicitly). No terms like *śava* (corpse), *preta* (departed spirit), or death-related *aśauca* (impurity) appear in purification contexts.[^5]\n\n[^1]: Full chapters: Yama Smṛti, ch. 1 ([/works/unknown-yama-smrti-552f8d/01/translation/](#)) and ch. 2 ([/works/unknown-yama-smrti-552f8d/02/translation/](#)). The work has only these two chapters.\n[^2]: Yama Smṛti, ch. 1, [p-65c739](/works/unknown-yama-smrti-552f8d/01/translation/#p-65c739).\n[^3]: Yama Smṛti, ch. 2, [p-c0845b](/works/unknown-yama-smrti-552f8d/02/translation/#p-c0845b) (punishment: \"With his body smeared with ashes and fumigated with the hair and bones of a corpse...\").\n[^4]: Yama Smṛti, ch. 1, [p-65c739](/works/unknown-yama-smrti-552f8d/01/translation/#p-65c739).\n[^5]: Confirmed via full-text search across the work for corpse/death/purification terms; no matches in relevant contexts.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yama Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Yama Smriti\" corpse"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Yama Smriti\" purification corpse"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yama"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d"
+      },
+      "result_summary": "{\"markdown\":\"# Yama Smṛti\\nYama · Ancient · sanskrit · verse · 2 chapters · 4,467 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"fined one hundred\\\" · \\\"his sacred fire\\\""
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d"
+      },
+      "result_summary": "Listed 2 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yama Smṛti · ch.1\\nverse · 63¶ · 2149w · vocab 523 (TTR 53%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"two *aindava* vows\\\" · \\\"one perform *sāṃtap"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yama Smṛti · ch.2\\nverse · 77¶ · 2318w · vocab 531 (TTR 47%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"fined one hundred\\\" · \\\"his sacred fire\\\" · "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "corpse purification"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"touch\" corpse OR dead OR \"death impurity\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yama-smrti-552f8d (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-yama-smrti-552f8d (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"corpse\" OR dead OR \"death\" OR śava OR preta OR purification OR śuddhi OR māṃsa OR aśauca",
+        "limit": 5
+      },
+      "result_summary": "Found 5 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-65c739"
+    },
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-c0845b"
+    }
+  ],
+  "duration_ms": 26153,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 31019,
+    "completion_tokens": 2725,
+    "total_tokens": 33744,
+    "cached_tokens": 11882,
+    "api_calls": 5,
+    "cost_usd": 0.005784,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 427,
+        "total_tokens": 2333,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00031255
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2183,
+        "completion_tokens": 182,
+        "total_tokens": 2365,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005051
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 2769,
+        "completion_tokens": 394,
+        "total_tokens": 3163,
+        "cached_tokens": 2178,
+        "cost_usd": 0.0004241
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7528,
+        "completion_tokens": 469,
+        "total_tokens": 7997,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017176
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16633,
+        "completion_tokens": 1253,
+        "total_tokens": 17886,
+        "cached_tokens": 7523,
+        "cost_usd": 0.00282465
+      }
+    ]
+  }
+}

@@ -1,0 +1,265 @@
+{
+  "answer": "**The Falsafa corpus engages the concept of revelation primarily through the Hindu notion of *śruti* (revealed scripture, i.e., the Vedas as divinely heard), which is treated as the highest authority on *dharma* and ritual validity, superior to *smṛti* (tradition).**[^1][^2][^3] No works directly discuss *wahy* (Qur'anic revelation) or \"divine speech\" as such; searches for those terms and related phrases like \"divine revelation\" or \"divine inspiration\" yield zero results. Mentions of \"prophet\" appear poetically in Allama Iqbal's *Bang-e-Dara* (Islamic context) and Cynewulf's *Andreas* (Christian prophets), but without substantive treatment of revelation mechanics.[^4]\n\n**Key works and their engagement:**\n\n- **Manusmṛti**: Defines *śruti* as the Veda (revealed) and *smṛti* as its subordinate; calls certain rules \"Vedic revelation\" (e.g., ritual timing); urges adherence for spiritual reward.[^5][^6][^7]\n\n- **Yājñavalkya Smṛti**: Positions revelation (*śruti*, the Vedas) as a root of *dharma* alongside tradition and virtuous conduct; prescribes conduct \"prescribed by revelation (*śruti*) and tradition (*smṛti*)\"; elevates Vedic study.[^8][^9][^10]\n\n- **Āṅgirasa Smṛti**: Defines *dharma* via scriptural injunctions (*codanā*) known through *śruti* indicators (e.g., verbal moods), which grant liberation; repeatedly invokes *śruti* for rites, expiation, ancestor satisfaction, and validity.[^11][^12]\n\n**Other minor engagements:**\n- **Bṛhaspati Smṛti**: References *smṛti* as tradition but ties legal norms to Vedic/*smṛti* rites indirectly.[^13]\n- No Abrahamic or other non-Hindu systematic treatments of revelation found.\n\n[^1]: Multiple Dharmaśāstra works, e.g., [Āṅgirasa Smṛti, Ch. 1](https://falsafa.corpus/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-07cb57).\n\n[^2]: [Manusmṛti, Ch. 2](https://falsafa.corpus/works/unknown-manusmrti-347b76/02/translation/#p-a3859b).\n\n[^3]: [Yājñavalkya Smṛti, Ch. 1](https://falsafa.corpus/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-7d795b).\n\n[^4]: E.g., [Bang-E-Dara Part 3](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-d22740); [Andreas, Ch. 1](https://falsafa.corpus/works/cynewulf-andreas-07b573/01/translation/#p-bb7698).\n\n[^5]: [Manusmṛti, Ch. 2, ¶p-a3859b](https://falsafa.corpus/works/unknown-manusmrti-347b76/02/translation/#p-a3859b).\n\n[^6]: [Manusmṛti, Ch. 1, ¶p-47b537](https://falsafa.corpus/works/unknown-manusmrti-347b76/01/translation/#p-47b537).\n\n[^7]: [Manusmṛti, Ch. 2](https://falsafa.corpus/works/unknown-manusmrti-347b76/02/translation/).\n\n[^8]: [Yājñavalkya Smṛti, Ch. 1, ¶p-7d795b](https://falsafa.corpus/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-7d795b).\n\n[^9]: [Yājñavalkya Smṛti, Ch. 1, ¶p-25ce19](https://falsafa.corpus/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-25ce19).\n\n[^10]: [Yājñavalkya Smṛti, Ch. 1](https://falsafa.corpus/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/).\n\n[^11]: [Āṅgirasa Smṛti, Ch. 1, ¶p-07cb57](https://falsafa.corpus/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-07cb57).\n\n[^12]: [Āṅgirasa Smṛti, Ch. 1](https://falsafa.corpus/works/unknown-angirasa-smrti-2bf9d1/01/translation/).\n\n[^13]: [Bṛhaspati Smṛti, Ch. 1](https://falsafa.corpus/works/unknown-brhaspati-smrti-0fd070/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wahy",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sruti",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"divine speech\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "revelation",
+        "limit": 20
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"divine revelation\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "śruti",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Vedic revelation\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "śruti",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smṛti",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"divine inspiration\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prophet",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "scripture",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-a3859b"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7d795b"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-07cb57"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-47b537"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-25ce19"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-07cb57"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-a3859b"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-7d795b"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-d22740"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-bb7698"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-47b537"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-25ce19"
+    }
+  ],
+  "duration_ms": 43709,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 37161,
+    "completion_tokens": 5262,
+    "total_tokens": 42423,
+    "cached_tokens": 5572,
+    "api_calls": 4,
+    "cost_usd": 0.0092274,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 550,
+        "total_tokens": 2457,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006339
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3396,
+        "completion_tokens": 1543,
+        "total_tokens": 4939,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00116855
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15470,
+        "completion_tokens": 1270,
+        "total_tokens": 16740,
+        "cached_tokens": 3391,
+        "cost_usd": 0.00322035
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 16388,
+        "completion_tokens": 1899,
+        "total_tokens": 18287,
+        "cached_tokens": 150,
+        "cost_usd": 0.0042046
+      }
+    ]
+  }
+}

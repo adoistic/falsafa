@@ -1,0 +1,197 @@
+{
+  "answer": "**No works in the corpus are dedicated treatises on poetics or the theory of poetry akin to Aristotle's *Poetics*. However, a few explicitly center poets, poetry, or song-craft (Anglo-Saxon *scop*-craft) as their narrative or thematic subject, often through meta-reflection by poet-protagonists or prologues invoking the poetic tradition:**\n\n- **Old English Elegies** (ch. 13, \"Deor\"): This elegy is spoken by Deor, a displaced *scop* (poet/bard), who recounts his lost patronage to his lord among the Heodenings, supplanted by Heorrenda, \"that song-crafty man.\" It explicitly laments the life and rivalries of poet-singers.[^1]\n\n- **Kunjarakarna Dharmakathana** (ch. 1): The extended poetic prologue explicitly addresses \"accomplished poets\" (*kavi*), humbly positions the author among \"lords of poetry,\" and reflects on the craft of composing verse, imitating famed poets for beauty's sake while disclaiming mastery.[^2]\n\n- **Bang-E-Dara Part 1** (ch. 39, \"Shair\"): This poem takes the *shair* (poet) as its explicit subject, portraying the poet's societal role amid nation, government, and suffering—unique in the collection for its direct focus on poetic identity.[^3]\n\n**Incidental mentions** occur elsewhere (e.g., poets in economic treatises by Dunoyer/Comte as cultural exemplars; Iqbal's other poems reflecting on verse's power), but no other works make poetry/poets/song-craft their core subject. Poetry collections like *Diwan-E-Ghalib*, *Diwan-E-Zauq*, or Cynewulf's saints' lives (*Andreas*, *Elene*, *Juliana*) are poetic artifacts, not reflections *on* poetry.[^4]\n\n[^1]: *Old English Elegies*, ch. 13, [p-6b7e51](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-6b7e51).\n[^2]: *Kunjarakarna Dharmakathana*, ch. 1, [p-24bfee](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-24bfee), [p-b61ff2](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-b61ff2), [p-c0ea0f](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-c0ea0f).\n[^3]: *Bang-E-Dara Part 1*, ch. 39 (\"Shair\"), [work wiki card](/works/allama-iqbal-bang-e-dara-part-1-55b25c/wiki/_work.card.md).\n[^4]: Searches for \"poetics,\" \"song-craft,\" and related terms yielded no additional explicit subjects; corpus-wide hits were metaphorical or passing.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poetry",
+        "limit": 30
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poets",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poetics",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "song-craft",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"song craft\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "songcraft",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13
+      },
+      "result_summary": "Read ch.13 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"markdown\":\"# Kunjarakarna Dharmakathana\\nMpu Dusun · Medieval · kawi · prose · 1 chapters · 17,973 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homage feet lord\\\" · \\\""
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "scop"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shair"
+      },
+      "result_summary": "Found 9 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-6b7e51"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-24bfee"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-b61ff2"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-c0ea0f"
+    }
+  ],
+  "duration_ms": 43417,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 64800,
+    "completion_tokens": 4426,
+    "total_tokens": 69226,
+    "cached_tokens": 15858,
+    "api_calls": 3,
+    "cost_usd": 0.0127943,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 695,
+        "total_tokens": 2600,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0004456
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12091,
+        "completion_tokens": 2248,
+        "total_tokens": 14339,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0032593
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_chapter",
+          "read_wiki",
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 50804,
+        "completion_tokens": 1483,
+        "total_tokens": 52287,
+        "cached_tokens": 12086,
+        "cost_usd": 0.0090894
+      }
+    ]
+  }
+}

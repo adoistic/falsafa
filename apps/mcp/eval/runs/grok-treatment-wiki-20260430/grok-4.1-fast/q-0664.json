@@ -1,0 +1,262 @@
+{
+  "answer": "In Charles Comte's *Traité de Législation*, Vol. IV, **\"moeurs\"** (translated as \"morals\") denotes the collective behavioral patterns, ethical dispositions, habits, and social character of individuals and classes within a society, particularly as shaped by institutions like domestic slavery (*esclavage domestique*).[^1] It is not treated in a narrowly normative sense—as prescriptions for individual virtue or vice—but sociologically, as observable phenomena arising from causal relationships between social structures (e.g., slavery) and human conduct across masters, slaves, free laborers, and entire populations (ancient Romans, modern colonists).[^2] Comte empirically traces how slavery systematically produces moral degeneration: idleness, sensuality, cruelty, pride, perfidy, and licentiousness among masters; brutality and resignation among slaves; and degradation or emigration among free non-slaveholders.[^3]\n\nThis sociological function is evident in the volume's structure, where multiple chapters dissect slavery's \"influence\" (*influence*) on *moeurs* in specific contexts (e.g., Romans, Dutch/English/French colonies).[^4] For instance, slavery fosters masters' contempt for labor, leading to gluttony, sexual corruption (adultery, incest via enslaved women), and violent spectacles (gladiatorial games), while slaves endure torments that normalize cruelty as a social norm.[^5] Free industrious persons, facing contempt for their work, either beg, emigrate, or vanish, leaving societies stratified by moral castes.[^6] These effects recur across climates and eras, underscoring *moeurs* as structural outcomes rather than innate or moralistic failings.[^7]\n\n[^1]: Charles Comte, *Traité de Législation: VOL IV*, ch. 5 [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/05-de-l-influence-de-l-esclavage-sur-l-existence-des-/translation/#p-82b0de). (Opening frame: \"The effects of servitude on the *morals* of masters and slaves are phenomena of great importance to observe.\")\n[^2]: Ibid., ch. 6 [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/#p-a911ee). (Chapter title: \"On the influence of slavery on the *morals* of the Romans.\")\n[^3]: Ibid., ch. 6 [passage](/works/charles-comte-traite-de-legislation-vol-iv-bca040/06-de-l-influence-de-l-esclavage-sur-les-moeurs-des-r/translation/#p-dbaf78)–[p-ea415d).\n[^4]: Ibid., work-level wiki: ch.6 (\"*morals* of the Romans\"); ch.7 (\"*morals* of masters and slaves in the modern colonies\").\n[^5]: Ibid., ch. 7 [passage](/works/charles-comte-traite-de-legislation-vol-iv-bca040/07-de-l-influence-de-l-esclavage-sur-les-moeurs-des-m/translation/#p-a9c818)–[p-6a9b9b). (E.g., colonists' idleness, cruelty, pride: \"the first title to consideration is to be of the master race; the first cause of contempt is to be of the slave race.\")\n[^6]: Ibid., ch. 5 [passage](/works/charles-comte-traite-de-legislation-vol-iv-bca040/05-de-l-influence-de-l-esclavage-sur-l-existence-des-/translation/#p-e1fd8b)–[p-22e987).\n[^7]: Ibid., ch. 7 [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/07-de-l-influence-de-l-esclavage-sur-les-moeurs-des-m/translation/#p-7f085e). (\"[I]n all countries, at all epochs, and among all races, similar causes have produced the same effects.\")",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moeurs\" OR manners OR customs \"traite de legislation\" OR \"charles comte\"",
+        "limit": 20
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "moeurs",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL IV\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 188,438 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*voya"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moeurs\" OR \"manners\" OR \"customs\" OR \"morals\" OR \"habits\" \"charles comte\" OR \"traite de legislation\"",
+        "limit": 20
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"customs\" OR \"manners\" OR \"morals\" \"legislation\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.6\\nprose · 23¶ · 4686w · vocab 1058 (TTR 49%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"development intellectua"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.5\\nprose · 14¶ · 1829w · vocab 497 (TTR 59%, hapax 70%)\\n\\n## Distinctive trigrams\\n\\\"among peoples antiquity\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.7\\nprose · 49¶ · 6961w · vocab 1555 (TTR 47%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"cape good hope\\\" · \\\"mo"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.4\\nprose · 19¶ · 3059w · vocab 763 (TTR 54%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"cape good hope\\\" · \\\"act"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morals\" OR \"morals of\" OR \"manners\" OR \"customs\" \"slavery\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morals\" OR \"moeurs\" \"charles-comte-traite-de-legislation-vol-iv-bca040\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 5,
+      "paragraph_id": "p-82b0de"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 5,
+      "paragraph_id": "p-a911ee"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 5,
+      "paragraph_id": "p-dbaf78"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 5,
+      "paragraph_id": "p-ea415d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 5,
+      "paragraph_id": "p-a9c818"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 5,
+      "paragraph_id": "p-6a9b9b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 5,
+      "paragraph_id": "p-e1fd8b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 5,
+      "paragraph_id": "p-22e987"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 5,
+      "paragraph_id": "p-7f085e"
+    }
+  ],
+  "duration_ms": 45774,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 60634,
+    "completion_tokens": 4763,
+    "total_tokens": 65397,
+    "cached_tokens": 29205,
+    "api_calls": 5,
+    "cost_usd": 0.010127549999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1919,
+        "completion_tokens": 351,
+        "total_tokens": 2270,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005368
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3929,
+        "completion_tokens": 801,
+        "total_tokens": 4730,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0009037
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9493,
+        "completion_tokens": 1015,
+        "total_tokens": 10508,
+        "cached_tokens": 3924,
+        "cost_usd": 0.0018175
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13764,
+        "completion_tokens": 924,
+        "total_tokens": 14688,
+        "cached_tokens": 9488,
+        "cost_usd": 0.0017916
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 31529,
+        "completion_tokens": 1672,
+        "total_tokens": 33201,
+        "cached_tokens": 13759,
+        "cost_usd": 0.00507795
+      }
+    ]
+  }
+}

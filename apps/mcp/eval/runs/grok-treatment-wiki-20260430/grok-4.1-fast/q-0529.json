@@ -1,0 +1,358 @@
+{
+  "answer": "**Old English Elegies** (specifically \"Soul and Body II\") contains a stark reflection on the indignity of the body. Here, the soul addresses the corpse post-mortem, portraying the body as a corrupt prison: \"filth of the earth, all withered away, likeness of loam\"; a vessel that bound the soul with \"wicked pleasures\" and \"hard hunger\"; destined for worms (\"mound-worms shall chew you\") and better off as a \"bird, or a fish... or a beast\" than human form.[^1]\n\n**Manusmṛti** (Chapter 6) reflects on the body's indignity in the context of ascetic renunciation, urging its abandonment as a \"foul-smelling\" structure of \"bones... bound with sinews, plastered with flesh and blood, covered with skin... full of urine and feces,\" overcome by \"old age and sorrow, the abode of disease... subject to passion, and impermanent.\"[^2]\n\nNo works in the corpus were found extolling the dignity of the body itself (as opposed to moral/social dignity). Other mentions of the body (e.g., in Cynewulf's *Andreas*, where it endures torment but is divinely healed; or smṛti texts on ritual impurity) emphasize suffering or impurity without philosophical reflection on inherent worth.[^3]\n\n[^1]: Unknown, *Old English Elegies*, [\"Soul and Body II\"](/works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/).\n[^2]: Unknown, *Manusmṛti*, [Chapter 6](/works/unknown-manusmrti-347b76/06/translation/#p-00e87b).\n[^3]: Searches for phrases like \"dignity body,\" \"noble body,\" \"soul body,\" and reviews of wiki cards/chapters (e.g., *Andreas*, *Aṅgirasa Smṛti*) yielded no matching reflections.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dignity of the body",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dignity\" body",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "indignity body",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"body\" dignity",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "noble body",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "baseness body",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dignity",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "indignity",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"human body\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "body soul",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nobility body",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"body\" noble",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "body",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the body\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "flesh",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the flesh\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "carcass"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"body\" soul",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"soul\" body",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "body prison"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"this body\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 10
+      },
+      "result_summary": "Read ch.10 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "verse"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"foul body\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "body contempt"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-00e87b"
+    }
+  ],
+  "duration_ms": 44051,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 83341,
+    "completion_tokens": 5277,
+    "total_tokens": 88618,
+    "cached_tokens": 39245,
+    "api_calls": 6,
+    "cost_usd": 0.01341995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1903,
+        "completion_tokens": 719,
+        "total_tokens": 2622,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0004572
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2282,
+        "completion_tokens": 673,
+        "total_tokens": 2955,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00050985
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5354,
+        "completion_tokens": 817,
+        "total_tokens": 6171,
+        "cached_tokens": 2277,
+        "cost_usd": 0.00113775
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12857,
+        "completion_tokens": 1161,
+        "total_tokens": 14018,
+        "cached_tokens": 5349,
+        "cost_usd": 0.00234955
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14999,
+        "completion_tokens": 808,
+        "total_tokens": 15807,
+        "cached_tokens": 12852,
+        "cost_usd": 0.001476
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 45946,
+        "completion_tokens": 1099,
+        "total_tokens": 47045,
+        "cached_tokens": 14994,
+        "cost_usd": 0.0074896
+      }
+    ]
+  }
+}

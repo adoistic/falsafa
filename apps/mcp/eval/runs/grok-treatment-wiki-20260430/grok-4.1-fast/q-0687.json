@@ -1,0 +1,208 @@
+{
+  "answer": "In the Urdu corpus—primarily poetic works by Allama Iqbal (*Bang-e-Dara* Parts 1–3), Mirza Ghalib (*Diwan-e-Ghalib*), and Sheikh Ibrahim Zauq (*Diwan-e-Zauq*)—*shama* (شعلہ, candle or lamp) is a recurrent Sufi-inspired metaphor for radiant beauty, self-sacrificial light, divine love, transience, and spiritual illumination.[^1] The candle burns itself to give light to others, embodying selfless devotion, inner fire (*soz*), and the pain of existence, often personified as a suffering entity aware of its fleeting glow.[^2] It appears most prominently in Iqbal's *Bang-e-Dara Part 1*, where dedicated poems like \"Shama,\" \"Shama-o-Parwana,\" and \"Bacha aur Shama\" explore its philosophical depth, contrasting worldly illusion with eternal truth.[^3]\n\n### Key Themes and Symbolism of *Shama*\n- **Self-Sacrifice and Light-Giving**: The *shama* dispels darkness but consumes itself, mirroring the ideal life of service. In a child's prayer, the speaker wishes: \"O God, may my life be like a candle's flare. / May my life's spark dispel the darkness of the world.\"[^4]\n- **Beauty and Deception**: It attracts yet destroys, fixed in silent awareness: \"Your gaze is fixed as one who keeps a secret deep, / While my own eyes the seeds of separation reap.\"[^5]\n- **Spiritual Union and Exile**: The *shama* evokes separation from the divine source, akin to a soul in worldly exile: \"You burn because you are from Heaven's lightning far, / The heedless think your burning is the light you are.\"[^6]\n- **In Ghalib and Zauq**: Less central but present as transience or sorrow's companion, e.g., Ghalib likens a burnt-out lamp to exhausted loyalty: \"Show mercy, tyrant—what is left to dread? / It is a lamp burnt out and dead.\"[^7]\n\n### Contrast with the Moth (*Parwana*)\nThe *parwana* (پروانہ, moth) is the *shama*'s foil: the ardent lover drawn fatally to the flame's beauty, symbolizing passionate annihilation (*fana*) in divine or romantic love.[^8] Unlike the *shama*'s steady, self-aware burning (illumination through sacrifice), the *parwana* is restless, mercurial, and self-destructive—circling, singed, and consumed in ecstatic union.[^9]\n\n| Aspect          | *Shama* (Candle/Lamp)                          | *Parwana* (Moth)                              |\n|-----------------|------------------------------------------------|-----------------------------------------------|\n| **Role**       | Beloved; source of light/beauty; self-burning giver | Lover; seeker; self-annihilating worshiper   |\n| **Nature**     | Fixed, veiled, aware of fate; \"a candle at a feast, or on a lonely tomb\"[^10] | Restless, tiny, thirsting; \"a simple moth, and such a thirst for light's display\"[^11] |\n| **Fate**       | Burns steadily, embraced by tears; eternal in purpose | Circles and perishes in flame; bliss in death |\n| **Philosophy** | Divine order, awareness (*khabar*), exile from origin | Ecstatic surrender, passion (*ishq*), illusion-shattering |\n\nIqbal elevates this pair to explore self-realization: the child gazes at the *shama* like a *parwana* but *is* pure light, veiled in flesh—\"The candle is a flame, but you are pure light.\"[^12] In dialogue, the *shama* questions the moth's love: \"O Candle, why for you does it hold love so vast? / Why is its restless soul upon your altar cast?\"—highlighting the moth's innate drive toward the eternal.[^13] The corpus lacks explicit philosophical treatises but uses this motif (absent in non-Urdu works) for mystical insight into love's paradox.[^14]\n\n[^1]: Searches for \"shama,\" \"candle,\" and \"lamp\" yield 30+ hits, 90% in Iqbal's *Bang-e-Dara*.\n[^2]: Allama Iqbal, *Bang-e-Dara Part 1*, ch. 40 (*Shama*), /works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/.\n[^3]: *Bang-e-Dara Part 1* wiki card notes chs. 40–41 as candle-moth core.\n[^4]: Allama Iqbal, *Bang-e-Dara Part 1*, ch. 16 (*Bachay Ki Dua*), [p-28b7ba](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-28b7ba).\n[^5]: Allama Iqbal, *Bang-e-Dara Part 1*, ch. 40 (*Shama*), [p-248ecd](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-248ecd).\n[^6]: Ibid., [p-df7e0d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-df7e0d).\n[^7]: Mirza Ghalib, *Diwan-e-Ghalib*, ch. 171, /works/mirza-ghalib-diwan-e-ghalib-74ed4c/171-reham-kar-zaalim-ke-kya-bood-e-charaagh-e-kushta-h/translation/.\n[^8]: \"Parwana\" searches confirm moth-as-lover trope.\n[^9]: Allama Iqbal, *Bang-e-Dara Part 1*, ch. 41 (*Shama-o-Parwana*), /works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/.\n[^10]: Ibid., ch. 40, [p-dfb0a8](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-dfb0a8).\n[^11]: Ibid., ch. 41, [p-366a1c](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-366a1c).\n[^12]: Ibid., ch. 15 (*Bacha aur Shama*), [p-a036dd](/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/#p-a036dd).\n[^13]: Ibid., ch. 41, [p-21ea6d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-21ea6d).\n[^14]: Allama Iqbal, *Bang-e-Dara Part 3*, ch. 19 (*Shama aur Shair*), /works/allama-iqbal-bang-e-dara-part-3-cc61e8/19-shama-aur-shair/translation/. No non-poetic Urdu philosophy in corpus.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shama",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "candle",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lamp",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "moth",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parwana",
+        "limit": 30
+      },
+      "result_summary": "Found 24 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 40,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.40 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.41 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 19,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 19,
+      "paragraph_id": "p-28b7ba"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 19,
+      "paragraph_id": "p-248ecd"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 19,
+      "paragraph_id": "p-df7e0d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 19,
+      "paragraph_id": "p-dfb0a8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 19,
+      "paragraph_id": "p-366a1c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 19,
+      "paragraph_id": "p-a036dd"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 19,
+      "paragraph_id": "p-21ea6d"
+    }
+  ],
+  "duration_ms": 52168,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 51947,
+    "completion_tokens": 4483,
+    "total_tokens": 56430,
+    "cached_tokens": 27699,
+    "api_calls": 4,
+    "cost_usd": 0.00847605,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1912,
+        "completion_tokens": 298,
+        "total_tokens": 2210,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0002488
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2561,
+        "completion_tokens": 789,
+        "total_tokens": 3350,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0006241
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21380,
+        "completion_tokens": 910,
+        "total_tokens": 22290,
+        "cached_tokens": 2556,
+        "cost_usd": 0.0043476
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 26094,
+        "completion_tokens": 2486,
+        "total_tokens": 28580,
+        "cached_tokens": 21375,
+        "cost_usd": 0.00325555
+      }
+    ]
+  }
+}

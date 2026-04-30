@@ -1,0 +1,356 @@
+{
+  "answer": "**Cynewulf's *Elene*** (cynewulf-elene-d2d132) centrally explores the authority of \"ancient writings\" and \"holy books\" (scriptures). Queen Elene repeatedly interrogates Hebrew scholars on their scriptural knowledge to establish religious truths, such as prophecies about Christ and the location of the True Cross. The Jews fear revealing secrets lest their \"ancient writings\" and \"fathers’ lore\" be overturned, treating scripture as the authoritative basis for law, history, and identity. Judas contrasts the enduring authority of written records of the Trojan War with suppressed scriptural knowledge of the Crucifixion.[^1][^2]\n\n**Indic Dharmaśāstras (Smṛtis)** treat writing—especially *Śruti* (revealed, orally transmitted but fixed in scriptural form) and *Smṛti* (remembered/composed texts)—as the foundation of *dharma*'s authority, with a clear hierarchy: *Śruti* is supreme, *Smṛti* secondary but binding.\n\n- ***Āṅgirasa Smṛti*** (unknown-angirasa-smrti-2bf9d1): Defines *dharma* via scriptural injunctions (*codanā*), with *Śruti* granting liberation as ultimate authority. Aṅgiras's own *Smṛti* claims comprehensive authority (\"all that was stated by Aṅgiras\"), positioning it as the \"supreme Dharmaśāstra... authority for all.\"[^3][^4]\n- ***Manusmṛti*** (unknown-manusmrti-347b76): \"*Śruti* [is] the supreme authority\" for knowing *dharma*, overriding conflicting texts.[^5]\n\nOther Smṛtis (*Bṛhaspati Smṛti*, *Kātyāyana Smṛti*) reference judicial or documentary \"authority\" (e.g., written agreements, guild customs) but not scripture-writing directly. No other works (e.g., no Plato on writing's dangers; sparse mentions in poetry) substantively address this relationship.[^6]\n\n[^1]: Cynewulf, *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n\n[^2]: Cynewulf, *Elene*, [Chapter 1](/works/cynewulf-elene-d2d132/01/translation/).\n\n[^3]: Aṅgirasa, *Āṅgirasa Smṛti*, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-07cb57).\n\n[^4]: Aṅgirasa, *Āṅgirasa Smṛti*, [paragraphs](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-e0ca24#p-e3e429).\n\n[^5]: Manu, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/02/translation/#p-d6ca1b).\n\n[^6]: E.g., *Kātyāyana Smṛti* Ch. 80 discusses interpretive authority in legal texts but not scripture-writing per se.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "writing authority",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"authority\" scripture",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "scriptural authority",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"writing\" authority",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "scripture authority",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"written law\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "writing speech",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"art of writing\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "plato writing",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "authority",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "scripture",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "writing",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"written\" law",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shruti smriti",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smriti authority",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f5d1f1"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-d6ca1b"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e3e429",
+          "p-e0ca24"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-07cb57"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-07cb57"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-e0ca24"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-e3e429"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-d6ca1b"
+    }
+  ],
+  "duration_ms": 59633,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 78173,
+    "completion_tokens": 6357,
+    "total_tokens": 84530,
+    "cached_tokens": 39091,
+    "api_calls": 6,
+    "cost_usd": 0.01294945,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1903,
+        "completion_tokens": 758,
+        "total_tokens": 2661,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007371
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2208,
+        "completion_tokens": 771,
+        "total_tokens": 2979,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00054495
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5771,
+        "completion_tokens": 999,
+        "total_tokens": 6770,
+        "cached_tokens": 2203,
+        "cost_usd": 0.00132325
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12701,
+        "completion_tokens": 1000,
+        "total_tokens": 13701,
+        "cached_tokens": 5766,
+        "cost_usd": 0.0021753
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 16400,
+        "completion_tokens": 1330,
+        "total_tokens": 17730,
+        "cached_tokens": 12696,
+        "cost_usd": 0.0020406
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 39190,
+        "completion_tokens": 1499,
+        "total_tokens": 40689,
+        "cached_tokens": 16395,
+        "cost_usd": 0.00612825
+      }
+    ]
+  }
+}

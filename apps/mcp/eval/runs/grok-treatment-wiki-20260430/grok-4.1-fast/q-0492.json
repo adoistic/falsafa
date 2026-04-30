@@ -1,0 +1,300 @@
+{
+  "answer": "**Old English Elegies** (particularly *Maxims I*, ch. 6) contains direct counsel on writing as a virtuous act alongside speaking and singing: \"One should speak counsel, *write runes*, sing a song, earn praise, declare glory, hasten through the day.\"[^1] This gnomic wisdom reflects on writing runes—likely futhorc inscriptions—as a deliberate, praiseworthy craft akin to other forms of expression.[^2] Similarly, ch. 15 (*Vainglory*) urges the listener to \"inscribe in his mind the word-hoard's craft,\" framing inscription metaphorically as internalizing poetic wisdom.[^3]\n\n**Cynewulf's signed poems**—*Elene*, *Juliana*, and *Andreas*—offer meta-reflections on authorship as an act of \"weaving word-craft\" (OE *seegan fore 'word-craeft' gewefan*) through the frail body, often concluding with the poet's runic signature of his name (Cƿēnƿulf). In *Elene* (ch. 1), Cynewulf describes composing amid sorrow: \"Thus I... through this frail house have woven word-craft and wondrously gathered... I did not know the truth of the Rood until a roomier thought... unveiled wisdom in my mind’s chamber.\"[^4] *Juliana* (ch. 1) ends with a plea for prayers upon reciting (\"who recites this poem\"), tying the act to eternal judgment.[^5] *Andreas* (ch. 1) embeds similar authorial anxiety, though less explicit.[^6] These are self-aware inscriptions, where the poet reflects on writing as a redemptive struggle against mortality, embedding his name in runes (visible in transliterations).[^7]\n\nLegal texts like *Bṛhaspati Smṛti* (ch. 1) mention scribes and signatures routinely (\"signature of the debtor, witnesses, and scribe\"), but without philosophical reflection on the act itself.[^8] No other works in the corpus (e.g., *Aṅgirasa Smṛti*, French political treatises) yield comparable contemplation.\n\n[^1]: *Old English Elegies*, ch. 6 (*Maxims I*), [paragraph](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/translation/#p-84cf09).\n\n[^2]: The wiki card notes \"unlocked his word-hoard\" as a distinctive phrase, linking to poetic craft.[^9]\n\n[^3]: *Old English Elegies*, ch. 15, [paragraph](/works/unknown-old-english-elegies-d5fe9e/15-wilt-thu-fus-haele-fremdne-monnan/translation/#p-583181).\n\n[^4]: *Elene*, ch. 1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607).\n\n[^5]: *Juliana*, ch. 1, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-e769dc).\n\n[^6]: *Andreas*, ch. 1; wiki highlights \"unlocked his word-hoard\" as Cynewulfian.[^10]\n\n[^7]: Searches confirm \"rune\" clusters in transliterations (e.g., *Elene* ch. 1 [p-624562]); these are the poet's acrostic signatures, reflecting on inscription.\n\n[^8]: *Bṛhaspati Smṛti*, ch. 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-dc2d5a).\n\n[^9]: read_wiki(*unknown-old-english-elegies-d5fe9e*), work card.\n\n[^10]: read_wiki(*cynewulf-andreas-07b573*), work card.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "scribe",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "act of writing",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "inscribe",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"I write\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "inscription",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Cynewulf",
+        "limit": 10
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rune",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "signature",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"I, Cynewulf\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "scribe hand",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Cynewulf\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "runic signature"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of unknown-old-english-elegies-d5fe9e (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 15,
+      "paragraph_id": "p-84cf09"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 15,
+      "paragraph_id": "p-583181"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 15,
+      "paragraph_id": "p-d2e607"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 15,
+      "paragraph_id": "p-e769dc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 15,
+      "paragraph_id": "p-624562"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 15,
+      "paragraph_id": "p-dc2d5a"
+    }
+  ],
+  "duration_ms": 46831,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 89110,
+    "completion_tokens": 5172,
+    "total_tokens": 94282,
+    "cached_tokens": 32334,
+    "api_calls": 5,
+    "cost_usd": 0.0155579,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 494,
+        "total_tokens": 2399,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006055
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6391,
+        "completion_tokens": 1251,
+        "total_tokens": 7642,
+        "cached_tokens": 1889,
+        "cost_usd": 0.00162035
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 11105,
+        "completion_tokens": 747,
+        "total_tokens": 11852,
+        "cached_tokens": 6386,
+        "cost_usd": 0.0016366
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12814,
+        "completion_tokens": 1136,
+        "total_tokens": 13950,
+        "cached_tokens": 11100,
+        "cost_usd": 0.0014658
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 56895,
+        "completion_tokens": 1544,
+        "total_tokens": 58439,
+        "cached_tokens": 12809,
+        "cost_usd": 0.01022965
+      }
+    ]
+  }
+}

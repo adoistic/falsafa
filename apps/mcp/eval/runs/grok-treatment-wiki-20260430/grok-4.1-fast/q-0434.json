@@ -1,0 +1,241 @@
+{
+  "answer": "Several works in the Falsafa corpus engage with the figure of the prison or imprisonment, either literally (as a narrative device, site of torture, or legal institution) or metaphorically (as a symbol of sorrow, love, life, or spiritual confinement). The most substantial literal engagements appear in Cynewulf's Old English saint's lives, where imprisonment tests faith amid persecution. Charles Comte's *Traité de Législation* volumes discuss prisons/dungeons in the context of slavery, punishment, and state power. Indian *smṛti* texts treat confinement/prison instrumentally in jurisprudence. Urdu ghazals by Mirza Ghalib (and to a lesser extent Allama Iqbal and Sheikh Ibrahim Zauq) evoke \"prison\" (or \"jail\") poetically for existential or romantic bondage.[^1]\n\n### Literal engagements\n- **Cynewulf, *Juliana***: The saint is confined in a dungeon (*neowle*, \"prison-house\") after torture, praising Christ amid shadows; her foe leads her there post-beating.[^2]\n- **Cynewulf, *Andreas***: The apostle Matthew praises God \"in his grim prison\"; later, Andreas endures a \"dim dungeon\" (*dunstræt* \"dark prison-street\") with icy torment before executioners arrive.[^3]\n- **Cynewulf, *Elene***: Judas is confined seven nights in a \"dry well\" (*wæl* \"prison of need\") under hunger and fetters until revealing the True Cross; he calls it \"confinement\" (*bean* \"bone-house/prison\").[^4]\n- **Charles Comte, *Traité de Législation: VOL IV***: Prisons/dungeons as slave punishment (\"imprisonment in dungeons\"); critiques English limits on whippings as insufficient, alongside threats and other cruelties.[^5]\n- **Kātyāyana Smṛti**: Debtors/suspects confined in prison (*bandhana*) if without surety; confinement as recovery method.[^6]\n- Other *smṛti* texts (*Pārśara Smṛti*, *Bṛhaspati Smṛti*, *Āṅgirasa Smṛti*, *Nārada Smṛti*) reference confinement (*bandhana*) for debts, cows, or theft, often with penances.[^7]\n\n### Metaphorical engagements\n- **Mirza Ghalib, *Diwan-E-Ghalib***: Life/sorrow as \"prison\" or \"jail\" (dozens of ghazals); e.g., mind \"locked in jail\" amid despair; life's \"prison\" dissolves in death.[^8]\n- **Allama Iqbal, *Bang-E-Dara***: Stars \"in heaven’s prison\"; soul \"imprisoned by its strife\"; Muslims as \"prisoners in sectarianism's chains.\"[^9]\n- **Sheikh Ibrahim Zauq, *Diwan-E-Zauq***: Life as \"prison-house\"; Majnun freed from \"dark prison-cell.\"[^10]\n\nComte's other volumes (*VOL I-III*) and Dunoyer's *Nouveau traité d'économie: VOL I* mention prisons historically (e.g., paternal power to imprison children; fear of \"prison, irons, and death\").[^11] No single work centers prisons philosophically like Foucault's analyses (absent from corpus); engagements are contextual to hagiography, law, slavery critique, or Sufi poetics.\n\n[^1]: Compiled from corpus-wide searches for \"prison OR imprisonment OR dungeon OR jail OR captivity OR confinement\"; top matches cluster in these works.\n\n[^2]: *Juliana*, ch. 1, [paragraphs](/works/cynewulf-juliana-9a2157/01/translation/#p-8666d0).\n\n[^3]: *Andreas*, ch. 1, [paragraphs](/works/cynewulf-andreas-07b573/01/translation/#p-da0c5e).\n\n[^4]: *Elene*, ch. 1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n\n[^5]: *Traité de Législation: VOL IV*, ch. 20, [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/20-de-la-protection-accordee-aux-esclaves-contre-les-/translation/#p-b59349).\n\n[^6]: *Kātyāyana Smṛti*, ch. 53, [paragraph](/works/unknown-katyayana-smrti-1e06d2/53/translation/#p-216b90).\n\n[^7]: E.g., *Pārśara Smṛti*, ch. 9 (*confinement* of cows); *Bṛhaspati Smṛti*, ch. 1 (thieves \"tormented in prison\").\n\n[^8]: *Diwan-E-Ghalib*, ch. 32 (among 10+ matches), [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/32-dhamki-mein-mar-gaya-jo-na-baab-e-nabard-tha/translation/#p-0b4002).\n\n[^9]: *Bang-E-Dara Part 2*, ch. 14 (\"heaven’s prison\"); Part 3, ch. 8 (\"prisoners in sectarianism's chains\").\n\n[^10]: *Diwan-E-Zauq*, ch. 22 (\"dark prison-cell\"), ch. 23 (\"prison-house\").\n\n[^11]: E.g., *Traité de Législation: VOL I*, ch. 21 (\"prison, irons, and death\"); *Nouveau traité d'économie: VOL I*, ch. 7 (paternal \"prison\").",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prison OR imprisonment OR prisoner OR jail OR dungeon OR captivity",
+        "limit": 50
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"in prison\" OR \"the prison\" OR \"a prison\" OR imprisoned",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "incarceration OR confinement OR locked up",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL IV\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 188,438 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*voya"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-8666d0",
+          "p-89a6c9"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-da0c5e",
+          "p-5d78fc"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f5d1f1"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 32,
+        "paragraph_ids": [
+          "p-0b4002"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-b59349"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 53,
+        "paragraph_ids": [
+          "p-216b90"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 53,
+      "paragraph_id": "p-8666d0"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 53,
+      "paragraph_id": "p-da0c5e"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 53,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 53,
+      "paragraph_id": "p-b59349"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 53,
+      "paragraph_id": "p-216b90"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 53,
+      "paragraph_id": "p-0b4002"
+    }
+  ],
+  "duration_ms": 45580,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 65028,
+    "completion_tokens": 4619,
+    "total_tokens": 69647,
+    "cached_tokens": 34681,
+    "api_calls": 4,
+    "cost_usd": 0.010112949999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1898,
+        "completion_tokens": 364,
+        "total_tokens": 2262,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00027915
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13937,
+        "completion_tokens": 1328,
+        "total_tokens": 15265,
+        "cached_tokens": 150,
+        "cost_usd": 0.0034289
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 18721,
+        "completion_tokens": 1056,
+        "total_tokens": 19777,
+        "cached_tokens": 13932,
+        "cost_usd": 0.0021824
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 30472,
+        "completion_tokens": 1871,
+        "total_tokens": 32343,
+        "cached_tokens": 18716,
+        "cost_usd": 0.0042225
+      }
+    ]
+  }
+}

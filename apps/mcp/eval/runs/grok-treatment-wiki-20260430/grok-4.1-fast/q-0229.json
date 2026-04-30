@@ -1,0 +1,181 @@
+{
+  "answer": "In *Maah-e-Nau* (Bang-E-Dara Part 1, ch. 30), the new moon (*maah-e-nau*) appears as a distant, enigmatic cosmic fragment—a remnant of the sun's \"great vessel\" shattered and drowned in the \"azure deep,\" silently traversing the sky like a caravan whose footfall humans cannot hear.[^1] Its waxing and waning phases evoke mystery about its \"homeland\" and purpose, while the poet, restless with \"longing's thorn,\" pleads to be towed along by this seemingly fixed \"planet,\" confessing his own suffocation as a light-seeker trapped like a child in the \"school of existence.\"[^2] The moon here symbolizes elusive transcendence and the poet's passive yearning amid existential darkness.\n\nBy contrast, *Chaand* (Bang-E-Dara Part 3, ch. 3; *chaand* also meaning \"moon\") directly apostrophizes the moon as a graceful, timeless beauty embodying \"all Nature's grace,\" watching over earth with a \"stain\" or \"scar of deep desire\" on its breast.[^3] The moon shares the poet's restlessness and quest: both seek the same light, with the poet questioning if humanity itself is \"the candle for your hall of night.\"[^4] Rather than pleading, the poet assumes the role of guide, revealing the hidden object of desire in earthly life—cypress trees, nightingales, buds, river-mirrors, dew, deserts, mountains, man's heart, and even the moon's own face.[^5]\n\n**Key differences**:\n- **Tone and relationship**: *Maah-e-Nau* treats the moon distantly as an inscrutable wanderer inspiring awe and supplication; *Chaand* makes it an intimate companion in mutual pursuit, with the poet empowered to illuminate its path.\n- **Moon's agency and attributes**: Silent, fragmented drifter in *Maah-e-Nau* (tied to solar ruin and imperceptibility); desirous, scarred seeker mirroring human quest in *Chaand* (embodying beauty, embedded in nature).\n- **Resolution**: Unresolved longing and entrapment in *Maah-e-Nau*; optimistic revelation of immanent light within creation in *Chaand*, aligning with Iqbal's themes of self-realization through earthly engagement.[^6]\n\n[^1]: [/works/allama-iqbal-bang-e-dara-part-1-55b25c/30-maah-e-nau/translation/#p-85f443]\n[^2]: [/works/allama-iqbal-bang-e-dara-part-1-55b25c/30-maah-e-nau/translation/#p-04dbb8]\n[^3]: [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/03-chaand/translation/#p-ed353d]\n[^4]: [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/03-chaand/translation/#p-e9764a]\n[^5]: [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/03-chaand/translation/#p-3c6a6b]\n[^6]: [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/03-chaand/translation/]",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Maah-e-Nau"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Chand\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Part 3\" Chand Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 30
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.30\\nverse · 7¶ · 146w · vocab 72 (TTR 94%, hapax 93%)\\n\\n## Distinctive trigrams\\n\\\"sun great vessel\\\" · \\\"great vessel sha"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Chand"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 3 · ch.3\\nverse · 8¶ · 136w · vocab 61 (TTR 91%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"moon beauty nature\\\" · \\\"beauty natur"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 30,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.30 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 3,
+      "paragraph_id": "p-85f443"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 3,
+      "paragraph_id": "p-04dbb8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 3,
+      "paragraph_id": "p-ed353d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 3,
+      "paragraph_id": "p-e9764a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 3,
+      "paragraph_id": "p-3c6a6b"
+    }
+  ],
+  "duration_ms": 38964,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 32040,
+    "completion_tokens": 3767,
+    "total_tokens": 35807,
+    "cached_tokens": 17927,
+    "api_calls": 4,
+    "cost_usd": 0.00560245,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1920,
+        "completion_tokens": 706,
+        "total_tokens": 2626,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00045485
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3251,
+        "completion_tokens": 541,
+        "total_tokens": 3792,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008982
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12655,
+        "completion_tokens": 538,
+        "total_tokens": 13193,
+        "cached_tokens": 3246,
+        "cost_usd": 0.0023131
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 14214,
+        "completion_tokens": 1982,
+        "total_tokens": 16196,
+        "cached_tokens": 12650,
+        "cost_usd": 0.0019363
+      }
+    ]
+  }
+}

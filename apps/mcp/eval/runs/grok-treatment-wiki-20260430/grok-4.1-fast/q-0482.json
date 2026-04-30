@@ -1,0 +1,223 @@
+{
+  "answer": "**Several works in the Falsafa corpus explicitly engage with \"liberty\" (or \"freedom\") as a philosophical, political, or economic category, particularly in the context of human faculties, industry, property rights, commerce, and social progress. These are primarily found in 19th-century French liberal treatises, where the term is analyzed systematically rather than poetically or incidentally. Poetic uses (e.g., in Allama Iqbal's *Bang-E-Dara* or Mirza Ghalib's *Diwan-E-Ghalib*) are metaphorical and do not treat it as a structured category. Religious or legal senses in Indic texts (e.g., *Manusmṛti*, *Āṅgirasa Smṛti*) refer to freedom from debt, disease, or rebirth (*mokṣa*), not political/philosophical liberty. No matches for \"liberté\", \"hurriyat\", or \"freodom\" appear in English translations.[^1][^2][^3][^4]**\n\n### Primary works engaging \"liberty\" as a central category:\n- **Charles Dunoyer's *Nouveau traité d'économie: VOL I***: This work centers on liberty as a core concept, defining it explicitly in Chapter 1 (\"What the author means by the word *liberty*\") as the *power* humans acquire to exercise their faculties freely by overcoming obstacles through industry and morality. The Introduction outlines how liberty emerges from societal progress, critiques misconceptions (e.g., that industry harms liberty), and structures the entire treatise around degrees of liberty across lifestyles (savage, nomadic, agricultural, industrial). Liberty is treated as a measurable phenomenon born from skill, habits, and power.[^5][^6][^7][^8][^9]  \n  VOL II continues this, discussing liberty in manufacturing and commerce.[^10]\n\n- **Charles Comte's *Traité de la propriété*** (Vols. I & II): Metadata confirms it argues \"liberty is the foundation of rights,\" with occupation/appropriation flowing from human freedom. It critiques slavery-based jurisprudence as undermining property-derived liberty, framing property as essential for development. (Direct term hits are sparse in searches, but the philosophical engagement aligns with corpus descriptions.)[^11]\n\n### Works engaging \"freedom\" (or related liberties) substantively:\n- **Charles Comte's *Traité de Législation* (Vols. I–IV)**: Discusses *freedom of commerce*, *industry*, *press*, *worship*, *conscience*, and *thought*, often as elements of moral/political progress via analytical method. Contrasts with slavery, where \"freedom\" is manumission. E.g., Vol. I links analytical method to abolishing restrictions on freedoms.[^12][^13] Vol. III notes China's complete freedom of worship/thought.[^14] Vols. III–IV analyze slavery's impact on freedoms.[^15]\n\n- **Johann Gottlieb Fichte's *Zurückforderung der Denkfreiheit von den Fürsten Europens***: Engages *Denkfreiheit* (freedom of thought) as a political right reclaimed from princes, fitting Enlightenment discourse on intellectual liberty.[^16]\n\n**No other works (e.g., Cynewulf's poems, Indic Smṛtis, or additional poetry) treat these terms as analytical categories; uses are contextual or absent.[^17]**\n\n[^1]: *Nouveau traité d'économie: VOL I*, Ch. 0 [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-67acca). (Representative \"liberty\" hit; ~50 total in this work.)\n[^2]: Search: \"liberté\" (0 results).\n[^3]: Search: \"hurriyat\" (0 results).\n[^4]: Search: \"freodom\" (0 results).\n[^5]: *Nouveau traité d'économie: VOL I*, Ch. 0 [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-67acca).\n[^6]: *Nouveau traité d'économie: VOL I*, Ch. 1 [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-89dba3).\n[^7]: *Nouveau traité d'economia: VOL I*, Ch. 1 [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-fc8999).\n[^8]: *Nouveau traité d'économie: VOL I*, Ch. 0 [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-ed4810).\n[^9]: *Nouveau traité d'économie: VOL I*, Ch. 0 overview [chapter](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/).\n[^10]: *Nouveau traité d'économie: VOL II*, Ch. 16 [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/16-vi-de-la-liberte-de-lindustrie-manufacturiere/translation/#p-8f24cb).\n[^11]: Metadata for *Traité de la propriété: VOL I* [work](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99).\n[^12]: *Traité de Législation: VOL I*, Ch. 1 [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/01-chapitre-premier/translation/#p-ce366c).\n[^13]: *Traité de Législation: VOL I*, Ch. 2 [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/02-de-la-methode-analytique-appliquee-a-l-etude-de-la/translation/#p-6acd75).\n[^14]: *Traité de Législation: VOL III*, Ch. 28 [paragraph](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/28-des-rapports-observes-entre-les-moyens-d-existence/translation/#p-2ea79e).\n[^15]: *Traité de Législation: VOL IV*, Ch. 12 [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/12-de-l-influence-de-l-esclavage-sur-la-liberte-des-i/translation/#p-a7b71e).\n[^16]: *Zurückforderung der Denkfreiheit...* metadata [work](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde).\n[^17]: Corpus overview: 37 works; searches/list_works confirm scope.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liberty",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "freedom",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liberté",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hurriyat",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "freodom",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty\" OR \"freedom\" property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-67acca"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-89dba3"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-fc8999"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-ed4810"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-8f24cb"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-ce366c"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-6acd75"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-2ea79e"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-a7b71e"
+    }
+  ],
+  "duration_ms": 61600,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 57268,
+    "completion_tokens": 5992,
+    "total_tokens": 63260,
+    "cached_tokens": 18153,
+    "api_calls": 4,
+    "cost_usd": 0.01172665,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1913,
+        "completion_tokens": 800,
+        "total_tokens": 2713,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007601
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14813,
+        "completion_tokens": 1873,
+        "total_tokens": 16686,
+        "cached_tokens": 150,
+        "cost_usd": 0.0038766
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17708,
+        "completion_tokens": 609,
+        "total_tokens": 18317,
+        "cached_tokens": 150,
+        "cost_usd": 0.0038236
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 22834,
+        "completion_tokens": 2710,
+        "total_tokens": 25544,
+        "cached_tokens": 17703,
+        "cost_usd": 0.00326635
+      }
+    ]
+  }
+}

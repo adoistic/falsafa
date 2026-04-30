@@ -1,0 +1,493 @@
+{
+  "answer": "**Kātyāyana Smṛti** (ch. 2) explicitly addresses the conditions under which a sovereign may lose his kingdom: if surrounded by flatterers among his ministers, assessors, and physicians, \"the sovereign is quickly deprived of his kingdom, righteousness, and happiness.\"[^1] It also notes that a king who unjustly seizes taxes, fines, crops, or duties \"becomes a partaker in sin,\" implying moral and practical limits to authority, though it advises against destroying even a wicked king's realm if he acts with popular consent.[^2]\n\n**Manusmṛti** (ch. 7, \"The Duties of a King\") extensively outlines rājadharma, portraying the king as a divine protector whose failure to wield punishment (*daṇḍa*) justly leads to his own destruction by *daṇḍa* itself, along with his kin, kingdom, and even cosmic order.[^3] Misrule through vices like greed or anger deprives him of wealth, dharma, or self; yet it emphasizes his supreme role without endorsing subject-led deposition.\n\n**Traité de Législation: VOL IV** (ch. 23) by Charles Comte examines despotic systems, noting that under Muslim doctrine, a sultan \"cannot be deposed... whatever crimes he may have committed against his people,\" but can be if he violates priestly prerogatives—highlighting how authority is religiously limited, not popularly.[^4]\n\nOther Smṛtis (**Yājñavalkya Smṛti** ch. 1; **Nārada Smṛti**; **Paraśara Smṛti**) discuss kingly duties and punishments but not deposition directly. No works frame a general \"right of resistance\" or subject-led deposition akin to Western contract theory; engagement is via dharma's constraints on misrule and indirect loss of legitimacy/power.[^5]\n\n[^1]: Kātyāyana Smṛti, [p-dd6cb2](/works/unknown-katyayana-smrti-1e06d2/02/translation/#p-dd6cb2).\n[^2]: Kātyāyana Smṛti, [ch. 2](/works/unknown-katyayana-smrti-1e06d2/02/translation/).\n[^3]: Manusmṛti, [ch. 7](/works/unknown-manusmrti-347b76/07/translation/).\n[^4]: Charles Comte, *Traité de Législation: VOL IV*, [p-98e169](/works/charles-comte-traite-de-legislation-vol-iv-bca040/23-de-l-inegalite-des-fortunes-produite-par-l-esclava/translation/#p-98e169).\n[^5]: See chapter maps in respective wikis; e.g., Yājñavalkya Smṛti ch. 1 on punishment calibrated to offense.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "depose king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "depose the king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king deposed",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "deposing king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "limit king authority",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tyrant deposed",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kill tyrant",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "right to resist king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tyrant king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "depose tyrant",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tyrannicide",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "right resistance",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "resist king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king tyrant",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "limit royal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tyrant",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tyranny",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sovereign",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "depose",
+        "limit": 30
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "deposition",
+        "limit": 30
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rajadharma",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king duty",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL IV\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 188,438 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*voya"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "{\"markdown\":\"# Zurückforderung der Denkfreiheit von den Fürsten Europens\\nJohann Gottlieb Fichte · Enlightenment · german · prose · 2 chapters · 10,652 words\\n\\n## Work-level distinctive trigrams (top"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"deprived of his kingdom\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king duties",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kātyāyana Smṛti · ch.2\\nprose · 22¶ · 596w · vocab 216 (TTR 75%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"king appoint his\\\" · \\\"duties king due"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 23
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.23\\nprose · 236¶ · 87937w · vocab 8919 (TTR 20%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"*voyage around world"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-katyayana-smrti-1e06d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-dd6cb2"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 23,
+        "paragraph_ids": [
+          "p-98e169"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-dd6cb2"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 23,
+      "paragraph_id": "p-98e169"
+    }
+  ],
+  "duration_ms": 62302,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 145959,
+    "completion_tokens": 6961,
+    "total_tokens": 152920,
+    "cached_tokens": 70497,
+    "api_calls": 7,
+    "cost_usd": 0.02209775,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 776,
+        "total_tokens": 2683,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007469
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2392,
+        "completion_tokens": 675,
+        "total_tokens": 3067,
+        "cached_tokens": 1891,
+        "cost_usd": 0.00053225
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6129,
+        "completion_tokens": 853,
+        "total_tokens": 6982,
+        "cached_tokens": 2387,
+        "cost_usd": 0.00129425
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22991,
+        "completion_tokens": 1448,
+        "total_tokens": 24439,
+        "cached_tokens": 150,
+        "cost_usd": 0.0052997
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 27702,
+        "completion_tokens": 715,
+        "total_tokens": 28417,
+        "cached_tokens": 150,
+        "cost_usd": 0.0058754
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 38077,
+        "completion_tokens": 1029,
+        "total_tokens": 39106,
+        "cached_tokens": 27697,
+        "cost_usd": 0.00397535
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 46761,
+        "completion_tokens": 1465,
+        "total_tokens": 48226,
+        "cached_tokens": 38072,
+        "cost_usd": 0.0043739
+      }
+    ]
+  }
+}

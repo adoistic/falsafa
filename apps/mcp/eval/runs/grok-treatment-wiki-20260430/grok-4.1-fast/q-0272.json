@@ -1,0 +1,400 @@
+{
+  "answer": "**Kalpabuddha** (ch. 6) culminates its esoteric exposition by claiming that the five Tathāgatas (Pañcatathāgata)—Akṣobhya, Ratnasambhava, Amitābha, Amoghasiddhi, and Vairocana—return from their realms (*lokadhātu*) to indwell the practitioner's body as the five wisdoms (*pañcajñāna*: *cakṣus*, *śrotra*, *ghrāṇa*, *jihvā*, *hṛdaya*), which manifest as the five senses (*pañcendriya*: eyes, ears, nose, mouth, liver/heart/mind), together with their *devī*s, forming the \"Divine Five-Souls\" (*Pañcātma*) that constitute the self.[^1]<sup title=\"read_chapter citation for ch. 6; key claim in [p-c8567e]\">[works/unknown-kalpabuddha-d760dc/06/translation/](#p-c8567e)</sup> This \"supreme secret\" integrates macrocosmic deities into microcosmic physiology as innate gnosis (*jñāna*), but it does not reference *kevala-jñāna* (or *kaivalya*) explicitly—searches for \"kevala\" yielded zero results across the corpus.[^2]\n\n**San Hyan Mahājñāna** (ch. 1, its sole chapter) teaches *tattva*-jñāna across states of consciousness (*jāgrat*/waking, *svapna*/dream, *suṣupti*/deep sleep, *tūrya*/fourth), escalating to *kaivalya*, *tūryānta*, and *paraṃ kaivalya* (supreme isolation), equated with *paramātmā*, *nirāśraya* (supportless), and union with Paramaśiva beyond *prakṛti*/*puruṣa*, *vyakta*/*avyakta*, and *saṃsāra*—the \"void within the void,\" *mokṣa*, and \"Sacred Supreme Wisdom\" (*saṅ hyaṅ mahājñāna*).[^3]<sup title=\"read_chapter citation for ch. 1; central claims in [p-9194a6] (kaivalya), [p-7777f3] (state-gods), [p-0f7a95] (end)\">[works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-9194a6]</sup> Its key passage maps gods (Brahma, Viṣṇu, Rudra, Maheśvara, Mahādeva, Īśvara, Paramaśiva) onto these states culminating in liberation.[^4]\n\nThese do not name the *same end-state*: *Kalpabuddha* (Vajrayāna-inflected, five-Buddha *pañcajñāna* as embodied self) emphasizes tantric immanence of wisdom-deities in senses, while *San Hyan Mahājñāna* (Śaiva) progresses through Vedāntic/Yogic states to transcendent *paramakaivalya* in Śiva. The former's gnosis (*pañcajñāna*) aligns more with a *milestone* (integrated sensory wisdom) en route to the latter's *terminus* (isolation from manifestation), as corpus stats link them (cosine 0.15)[^5] and both invoke *jñāna*, but no text equates them—*Mahājñāna* treats *kaivalya* as a higher progression beyond lower *tattva*s.[^6]\n\n[^1]: [works/unknown-kalpabuddha-d760dc/06/translation/#p-c8567e] (core passage); full ch. [works/unknown-kalpabuddha-d760dc/06/translation/].\n\n[^2]: Corpus-wide search: `{\"query\": \"\\\"kevala\\\" OR \\\"kewala\\\" OR \\\"kaivalya-jnana\\\"\"}` → 0 results; *Kalpabuddha* hits only generic *jñāna*.\n\n[^3]: [works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-9194a6]; cf. [p-7777f3], [p-cf67ae], [p-0f7a95] (colophon).\n\n[^4]: Full ch. [works/unknown-san-hyan-mahajnana-11c531/01/translation/].\n\n[^5]: *Kalpabuddha* wiki: nearest works include *San Hyan Mahajnana* (cosine 0.15); vice versa (0.23 via *Kamahayanikan* proxy).\n\n[^6]: *Mahājñāna* wiki ch.1 key: states → *kaivalya* → *paraṃ kaivalya* as \"seven skies\"; no *pañcatathāgata*/*pañcajñāna*.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kalpabuddha"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "San Hyan Mahājñāna"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kewala-jñāna"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mahājñāna"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "prakrit"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "jain"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "{\"markdown\":\"# Kalpabuddha\\nUnknown · Medieval · kawi · prose · 6 chapters · 535 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"### paragraph lord\\\" · \\\"his abode ###\\\" · "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "Listed 6 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kevala\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mahajñana\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"great knowledge\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "jain"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"San Hyan\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mahajnana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mahajñana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "san"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: high\\n---\\n\\n# Kalpabuddha · ch.6\\nprose · 4¶ · 153w · vocab 48 (TTR 66%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"### paragraph lord\\\" · \\\"paragraph lord pañcat"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "{\"markdown\":\"# Kalpabuddha\\nUnknown · Medieval · kawi · prose · 6 chapters · 535 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"### paragraph lord\\\" · \\\"his abode ###\\\" · "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kamahayanikan"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"San Hyan\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mahajnana",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Mahajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 6,836 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"dwelling place lord\\\" · \\\"ten sens"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Kamahayanikan\\nMpu Shri Sambhara Surya Warama · Medieval · kawi · prose · 1 chapters · 14,398 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"body s"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: high\\n---\\n\\n# Kalpabuddha · ch.6\\nprose · 4¶ · 153w · vocab 48 (TTR 66%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"### paragraph lord\\\" · \\\"paragraph lord pañcat"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "Listed 6 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jñāna",
+        "limit": 5
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Mahajnana · ch.1\\nprose · 178¶ · 6836w · vocab 905 (TTR 29%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"dwelling place lord\\\" · \\\"ten senses"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: high\\n---\\n\\n# Kalpabuddha · ch.6\\nprose · 4¶ · 153w · vocab 48 (TTR 66%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"### paragraph lord\\\" · \\\"paragraph lord pañcat"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Mahajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 6,836 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"dwelling place lord\\\" · \\\"ten sens"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: high\\n---\\n\\n# Kalpabuddha · ch.6\\nprose · 4¶ · 153w · vocab 48 (TTR 66%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"### paragraph lord\\\" · \\\"paragraph lord pañcat"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-mahajnana-11c531 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-c8567e"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-9194a6"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-7777f3"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-0f7a95"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-cf67ae"
+    }
+  ],
+  "duration_ms": 72437,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 62951,
+    "completion_tokens": 6453,
+    "total_tokens": 69404,
+    "cached_tokens": 10709,
+    "api_calls": 7,
+    "cost_usd": 0.01421035,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1935,
+        "completion_tokens": 492,
+        "total_tokens": 2427,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006105
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2335,
+        "completion_tokens": 715,
+        "total_tokens": 3050,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00054235
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 3299,
+        "completion_tokens": 885,
+        "total_tokens": 4184,
+        "cached_tokens": 2330,
+        "cost_usd": 0.0007528
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "read_wiki",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 5903,
+        "completion_tokens": 633,
+        "total_tokens": 6536,
+        "cached_tokens": 150,
+        "cost_usd": 0.0014746
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 9400,
+        "completion_tokens": 634,
+        "total_tokens": 10034,
+        "cached_tokens": 5898,
+        "cost_usd": 0.0013123
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11627,
+        "completion_tokens": 759,
+        "total_tokens": 12386,
+        "cached_tokens": 150,
+        "cost_usd": 0.0026824
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki_full",
+          "read_wiki_full",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 28452,
+        "completion_tokens": 2335,
+        "total_tokens": 30787,
+        "cached_tokens": 150,
+        "cost_usd": 0.0068354
+      }
+    ]
+  }
+}

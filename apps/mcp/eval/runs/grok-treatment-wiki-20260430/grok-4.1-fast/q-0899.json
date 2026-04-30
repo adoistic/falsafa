@@ -1,0 +1,267 @@
+{
+  "answer": "In *Andreas*, Matthew prays amid cannibalistic captivity for divine aid against tormentors, invoking Christ as **Savior of souls** to emphasize deliverance from mortal and spiritual peril, securing not just physical rescue but eternal protection.[^1]\n\nIn *Elene*, Constantine beholds a celestial vision of the cross, termed the **Savior’s Rood**, spotlighting Christ's atoning death as the radiant sign of redemptive victory over sin and death for humanity.[^2]\n\nIn *Juliana*, the saint endures solitary imprisonment yet praises the **Savior of men** within, underscoring Christ's intimate, sustaining companionship amid trial, as the indwelling Holy Spirit fortifies her resolve.[^3]\n\n[^1]: Cynewulf, *Andreas*, [p-26403d](/works/cynewulf-andreas-07b573/01/translation/#p-26403d).\n\n[^2]: Cynewulf, *Elene*, [p-acdc07](/works/cynewulf-elene-d2d132/01/translation/#p-acdc07).\n\n[^3]: Cynewulf, *Juliana*, [p-8666d0](/works/cynewulf-juliana-9a2157/01/translation/#p-8666d0).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Crist\" OR \"haelend\" OR \"dryhten\" cynewulf",
+        "limit": 30
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Christ\" OR \"Savior\" OR \"Lord\" cynewulf",
+        "limit": 30
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dryhten cynewulf",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "haelend cynewulf",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Crist cynewulf",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-992aeb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-26403d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-acdc07"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-8666d0"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-74e29a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-26403d"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-acdc07"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-8666d0"
+    }
+  ],
+  "duration_ms": 50649,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 67093,
+    "completion_tokens": 5451,
+    "total_tokens": 72544,
+    "cached_tokens": 28710,
+    "api_calls": 5,
+    "cost_usd": 0.0118376,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1935,
+        "completion_tokens": 329,
+        "total_tokens": 2264,
+        "cached_tokens": 150,
+        "cost_usd": 0.000529
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2280,
+        "completion_tokens": 744,
+        "total_tokens": 3024,
+        "cached_tokens": 1930,
+        "cost_usd": 0.0005385
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5760,
+        "completion_tokens": 1096,
+        "total_tokens": 6856,
+        "cached_tokens": 2275,
+        "cost_usd": 0.00135875
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_passage"
+        ],
+        "prompt_tokens": 18605,
+        "completion_tokens": 2148,
+        "total_tokens": 20753,
+        "cached_tokens": 5755,
+        "cost_usd": 0.00393175
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 38513,
+        "completion_tokens": 1134,
+        "total_tokens": 39647,
+        "cached_tokens": 18600,
+        "cost_usd": 0.0054796
+      }
+    ]
+  }
+}

@@ -1,0 +1,216 @@
+{
+  "answer": "**Iqbal's \"Subah ka Sitara\" (\"Morning Star\") from *Bang-e-Dara Part 1* (ch. 42) personifies the Morning Star—explicitly its role as herald of dawn—lamenting its celestial existence as a repetitive cycle of \"daily die and live,\" a false immortality punctuated by death at each sunrise (\"the morning-draught that Death's hands give\").[^1] The star rejects the \"joy of sun and moon\" and \"starry realm,\" yearning instead for earthly lowliness: to become a pearl, jewel, dew, or tear, ultimately finding \"eternal life\" in human dust, igniting \"the fire of love to all mankind.\"[^2] This eschatological tension pits transient heavenly routine against true, death-transcending life through passionate, mortal service—a motif in Iqbal's Islamic modernism, where self-annihilation (*fana*) yields divine union and communal renewal.[^3]\n\n**Cynewulf's *Elene* (ch. 1), however, contains no explicit references to dawn, morning stars, or related imagery in the translation, despite searches for terms like \"dawn,\" \"morning,\" \"daybreak,\" \"sunrise,\" \"morning star,\" \"herald of dawn,\" or \"morning herald.\"** The poem's light motifs center on the True Cross as a \"shining\" \"victory-beacon\" and \"tree of glory,\" revealed to Constantine by a \"shining spirit\" or \"heavenly herald\" in a dream—evoking heraldic announcement but tied to salvific light, not dawn.[^4] Eschatology emerges vividly at the close: Cynewulf envisions Judgment Day's \"consuming flame\" dividing souls—righteous refined like gold for \"eternal blessedness,\" sinners tormented eternally—stressing repentance, the Cross's remedial power, and heaven's inheritance.[^5]\n\n**Limited direct overlap exists for comparison, as *Elene* lacks dawn imagery.** Indirect resonance lies in shared celestial rejection for earthly/cross-centered salvation: Iqbal's star forsakes starry eternity for human \"fire of love\" (eternal life via *khudi*-selfhood); *Elene*'s heralded Cross-sign heralds eschatological purification, where heavenly lights yield to fire-forged glory. Both critique illusory permanence (starry cycles vs. pre-Cross darkness), aspiring to post-judgment eternity through humble embrace of divine/human ordeal. The corpus does not support deeper dawn-specific parallels in *Elene*.\n\n[^1]: *Bang-E-Dara Part 1*, ch. 42 [*Subah Ka Sitara*](/works/allama-iqbal-bang-e-dara-part-1-55b25c/42-subah-ka-sitara/translation/#p-aab796), [p-ec866d](#p-ec866d), [p-f7ffd9](#p-f7ffd9) (`/works/allama-iqbal-bang-e-dara-part-1-55b25c/42-subah-ka-sitara/translation/#p-f7ffd9`).\n\n[^2]: Ibid., [p-658448](#p-658448), [p-e76893](#p-e76893), [p-2aceb1](#p-2aceb1) (`/works/allama-iqbal-bang-e-dara-part-1-55b25c/42-subah-ka-sitara/translation/#p-2aceb1`).\n\n[^3]: Ibid., full chapter (`/works/allama-iqbal-bang-e-dara-part-1-55b25c/42-subah-ka-sitara/translation/`).\n\n[^4]: *Elene*, ch. 1 [`/works/cynewulf-elene-d2d132/01/translation/#p-acdc07`] (`/works/cynewulf-elene-d2d132/01/translation/#p-acdc07`), [p-306e06](#p-306e06).\n\n[^5]: Ibid., [p-dcbbfe](#p-dcbbfe) (`/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe`), full chapter (`/works/cynewulf-elene-d2d132/01/translation/`).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Subah ka Sitara"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morning star\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 42
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.42\\nverse · 20¶ · 339w · vocab 161 (TTR 88%, hapax 88%)\\n\\n## Distinctive trigrams\\n\\\"joy sun moon\\\" · \\\"sun moon forsake\\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dawn\" Elene Cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dawn OR morning OR \"morning star\" \"cynewulf-elene\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 42,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.42 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dawn OR morning OR daybreak OR sunrise Elene"
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morning star\" OR lucifer OR \"dawn star\" OR \"herald of dawn\" OR \"morning herald\" Cynewulf"
+      },
+      "result_summary": "Found 9 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-aab796"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-ec866d"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-f7ffd9"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-658448"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-e76893"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-2aceb1"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-acdc07"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-306e06"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    }
+  ],
+  "duration_ms": 33794,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 37123,
+    "completion_tokens": 3953,
+    "total_tokens": 41076,
+    "cached_tokens": 14854,
+    "api_calls": 4,
+    "cost_usd": 0.0071730000000000006,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1918,
+        "completion_tokens": 766,
+        "total_tokens": 2684,
+        "cached_tokens": 1884,
+        "cost_usd": 0.000484
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3234,
+        "completion_tokens": 599,
+        "total_tokens": 3833,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0006637
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7862,
+        "completion_tokens": 714,
+        "total_tokens": 8576,
+        "cached_tokens": 3229,
+        "cost_usd": 0.00144505
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 24109,
+        "completion_tokens": 1874,
+        "total_tokens": 25983,
+        "cached_tokens": 7857,
+        "cost_usd": 0.00458025
+      }
+    ]
+  }
+}

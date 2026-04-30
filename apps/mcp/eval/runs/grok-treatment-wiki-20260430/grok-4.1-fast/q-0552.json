@@ -1,0 +1,312 @@
+{
+  "answer": "In the smṛti corpus, *karma* is framed dually: (1) as ritual action (*saṃskāras*, sacrifices, daily/occasional/optional rites), where its validity and efficacy depend on Vedic purity, orthopraxy, and freedom from impurity (*āśauca*), with supremacy over non-Vedic or Purāṇic practices; and (2) ethically/philosophically as moral/volitional action arising from mind, speech, and body, instigated by the mind and bearing good/bad fruits in states of rebirth (*saṃsāra*), heaven/hell, or this life, modulated by the three *guṇas* (*sattva*, *rajas*, *tamas*).\n\n### Ritual Framing (Dominant in Aṅgirasa, Viṣṇu, Pārāśara, etc.)\n*Karma* denotes obligatory/permissible rites (*jātakarman*, *nāmakarman*, *śrāddha*, *homayajña*, etc.), whose performance confers merit but is nullified by flaws (e.g., non-Vedic mantras, impurity). Vedic *karma* is \"superior to charity, pilgrimage, vows, and even *kṛcchra* penances,\" and must occur in purity.[^2] Transgressions (e.g., skipping birth rites) require expiation (*prāyaścitta*); improper *karma* yields fruitlessness or downfall (e.g., outcaste status). Consequence arises immediately in ritual efficacy or ancestral/divine disfavor, not deferred rebirth.[^4]\n\n### Ethical/Philosophical Framing (Explicit in Manu, Yājñavalkya)\nActions (*karma*)—classified threefold (mind: coveting/falsehood; speech: slander/harshness; body: theft/violence/adultery)—yield corresponding fruits: mental actions affect mind-states, etc. The mind instigates; embodied soul (*jīva*) experiences via post-mortem judgment by \"Great One\" and \"knower of field,\" who weigh *dharma/adharma*.[^1] \n\n- **Sāttvic** (*veda*-study, *tapas*, sense-control): divine births, highest good (Brahma-union).\n- **Rājasic** (action-attachment): human births.\n- **Tāmasic** (greed/cruelty): beastly/hellish rebirths (e.g., brāhmaṇa-killer → dog/camel; thief → rat/spider).[^1][^3]\n\nAction \"becomes\" consequence at death: sinful form a torment-body from elements, suffers Yama's hells, then rebirth per *guṇa*-*karma* (e.g., bodily faults → immovable births; verbal → beasts). Remorse/*tapas*/*veda*-study burns unripe *karma*; full ripening varies (this life, death, or mixed). *Karma* binds via desire/aversion/delusion until *sattva*-*jñāna* yields liberation.[^3]\n\nOther smṛtis (e.g., Bṛhaspati, Kātyāyana) echo ritual/penitential *karma* without deep rebirth mechanics. No uniform \"smṛti corpus\" theory; Manu/Yājñavalkya systematize action-consequence most explicitly.\n\n[^1]: Manusmṛti, [Chapter 12, ¶ starting Mn_12.2](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n\n[^2]: Aṅgirasa Smṛti, [Chapter 1, ¶¶ on Vedic supremacy](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-deebb9).\n\n[^3]: Yājñavalkya Smṛti, [Chapter 3, ¶¶ 131–140 on guṇas/rebirths](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-8a37bd).\n\n[^4]: Viṣṇu Smṛti, [Chapters 38–56 on penances for flawed karma](/works/unknown-visnu-smrti-27f0d8/wiki/_work.card.md) (wiki summary; full chapters ritual-focused).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "karma",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smriti",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fruit\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fruits of karma\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"action\" consequence"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "reborn karma"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"good deeds\" OR \"evil deeds\" OR \"fruits\" karma",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-074f6e"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-a40410",
+          "p-074f6e"
+        ],
+        "paragraph_range": {
+          "start": 0,
+          "end": 10
+        }
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-24d1d5"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-074f6e"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-deebb9"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-8a37bd"
+    }
+  ],
+  "duration_ms": 57831,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 141745,
+    "completion_tokens": 6002,
+    "total_tokens": 147747,
+    "cached_tokens": 69604,
+    "api_calls": 5,
+    "cost_usd": 0.0209094,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 922,
+        "total_tokens": 2826,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00055965
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 8369,
+        "completion_tokens": 1286,
+        "total_tokens": 9655,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00203465
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 15430,
+        "completion_tokens": 1032,
+        "total_tokens": 16462,
+        "cached_tokens": 8364,
+        "cost_usd": 0.0023474
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 42058,
+        "completion_tokens": 1234,
+        "total_tokens": 43292,
+        "cached_tokens": 15425,
+        "cost_usd": 0.00671485
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 73984,
+        "completion_tokens": 1528,
+        "total_tokens": 75512,
+        "cached_tokens": 42053,
+        "cost_usd": 0.00925285
+      }
+    ]
+  }
+}

@@ -1,0 +1,231 @@
+{
+  "answer": "**'Ishq' (عشق), a central concept in Urdu poetry denoting intense, passionate love—often blending erotic longing, spiritual yearning, and existential pain—manifests distinctly across these poets, though the term appears explicitly only in Iqbal's works within the English transliterations and translations of the corpus.**\n\n### Mirza Ghalib (*Diwan-e-Ghalib*)\nThe corpus translations do not preserve the Urdu term *ishq* explicitly.[^1] Instead, Ghalib's ghazals evoke its essence through recurring motifs of profound, unrequited passion as a consuming fire, inseparable from suffering, separation (*firāq*), and the heart's (*dil*) torment. Love is no mere emotion but a metaphysical force that defies cure, demands veils of pain, and binds the lover in eternal paradox—joy in ruin, life in death-like agony. It is the \"deep core\" of the heart, tested by disdain, where the lover cherishes grief over healing.[^2][^3] This aligns with classical *ishq* as a path to self-annihilation (*fanā*), blending human desire with divine alienation.\n\n### Sheikh Ibrahim Zauq (*Diwan-e-Zauq*)\nSimilarly, *ishq* does not appear verbatim in the English translations.[^4] Zauq portrays love as a \"strange and potent spell\" (*sih'r-e-gharīb*), a fatal arrow piercing the heart, leaving indelible stains of pain and smoke from inner fire. It is a game (*bāzīchah*) of life, chaining the soul in toxic balm, courteous slaying, and endless ills from the beloved's eyes. Love strikes home relentlessly, demanding submission to its cruel courtesies and silencing pleas.[^5][^6] In the refined courtly tradition, Zauq's *ishq* emphasizes refined torment (*dard*), loyalty amid betrayal, and the lover's stained endurance—more earthly and formulaic than Ghalib's philosophical depth.\n\n### Allama Iqbal (*Bang-e-Dara* Parts 1–3)\n'Ishq' is frequent and untranslated in transliterations, rendered as \"Love\" (capitalized, implying transcendence) in English.[^7] For Iqbal, it is a dynamic, spiritual force (*soz-e-ishq*, fire of love): the \"final reach\" (*intihā*) sought audaciously before the Divine, a \"pearl of purest water\" (*gohar-e-āb-dār*) hidden from the unworthy, unfit for shallow modern assemblies or reason's gaze.[^8] It is anguish (*dard-e-ishq*) spurring perfection (*kamāl*), freeing the heart (*dil*) via trials, lightning, and union (*visāl*); Beauty (*husn*) births it, yet it surpasses, as in the lover's culmination amid the Beloved's torrent.[^9][^10] Iqbal elevates *ishq* to an Islamic renaissance tool—self-realizing, anti-materialist, urging eternal striving (*koshish*) over worldly joy.\n\n**Summary contrasts**: Ghalib's *ishq* is paradoxical philosophy in pain; Zauq's, courtly spell of fatal grace; Iqbal's, revolutionary divine anguish for awakening. The corpus covers this unevenly—abundant for Iqbal, thematic for the others—reflecting their eras: Mughal decline (Ghalib/Zauq) vs. modernist revival (Iqbal). Not every ghazal details it exhaustively.\n\n[^1]: From searches across *Diwan-e-Ghalib* English bodies; no verbatim \"ishq\" (mirza-ghalib-diwan-e-ghalib-74ed4c/translation/).\n[^2]: [Chapter 64](https://falsafa.corpus/works/mirza-ghalib-diwan-e-ghalib-74ed4c/64/translation/).\n[^3]: [Chapter 26](https://falsafa.corpus/works/mirza-ghalib-diwan-e-ghalib-74ed4c/26/translation/).\n[^4]: From searches across *Diwan-e-Zauq* English bodies; no verbatim \"ishq\" (sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/translation/).\n[^5]: [Chapter 2](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/02/translation/).\n[^6]: [Chapter 43](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/43/translation/).\n[^7]: Hits in transliterations across *Bang-e-Dara* Parts 1–3 (e.g., allama-iqbal-bang-e-dara-part-1-55b25c/transliteration/).\n[^8]: [Chapter 17, \"Dard-e-Ishq\"](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/17/translation/#p-b75085).\n[^9]: [Chapter 12, \"Tere ishq ki inteha chahta hoon\"](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/12/translation/#p-34168f).\n[^10]: [Chapter 13 (Part 2), \"Husn o Ishq\"](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/13/translation/#p-3bf497).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ishq",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ishq\" ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ishq\" zauq",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "love",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"love\" ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"love\" zauq"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"love\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 13,
+      "paragraph_id": "p-b75085"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 13,
+      "paragraph_id": "p-34168f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 13,
+      "paragraph_id": "p-3bf497"
+    }
+  ],
+  "duration_ms": 59829,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 50544,
+    "completion_tokens": 6274,
+    "total_tokens": 56818,
+    "cached_tokens": 13751,
+    "api_calls": 4,
+    "cost_usd": 0.01118315,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1915,
+        "completion_tokens": 747,
+        "total_tokens": 2662,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00047435
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9815,
+        "completion_tokens": 1171,
+        "total_tokens": 10986,
+        "cached_tokens": 1910,
+        "cost_usd": 0.002262
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15407,
+        "completion_tokens": 1708,
+        "total_tokens": 17115,
+        "cached_tokens": 9810,
+        "cost_usd": 0.0024639
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 23407,
+        "completion_tokens": 2648,
+        "total_tokens": 26055,
+        "cached_tokens": 150,
+        "cost_usd": 0.0059829
+      }
+    ]
+  }
+}

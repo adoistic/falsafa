@@ -1,0 +1,232 @@
+{
+  "answer": "**No, these are not the same Bṛhaspati, nor the same work.**[^1][^2]\n\nBoth texts are pseudonymously attributed to the mythical figure Bṛhaspati (preceptor of the gods in Vedic and Purāṇic lore), a common device in Indic literature for lending authority.[^3] However, a content comparison reveals they are distinct compositions by different authors (or traditions), separated by era, language, genre, and purpose.\n\n### Genre and Purpose\n- *Bṛhaspati Smṛti* (Sanskrit, ancient) is a *dharmashāstra*: a comprehensive legal code outlining judicial procedures (*vyavahāra*), court structures, evidence (witnesses, documents), punishments (*daṇḍa*), and topics like debts, deposits, sales without title, partnerships, inheritance, assault, theft, adultery, and gambling.[^4] It prioritizes *rājadharma* (kingship), social order, and *varṇāśrama-dharma* (caste/life-stage duties), e.g., \"A legal dispute is of two kinds, arising from wealth and from violence.\"[^5]\n- *Vṛhaspatitattva* (Kawi/Old Javanese, medieval) is a *tattva-śāstra*: a Śaiva philosophical dialogue between Śiva and Vṛhaspati on metaphysics (*tattvas* from *paramaśiva* to *pañcamahābhūta*), cosmology (*cetana/acetana*), yoga (*ṣaḍaṅgayoga*, *aṣṭaiśvarya*), and liberation (*mokṣa*). It dismisses legalism for ontology, e.g., \"The supreme *tattva* is twofold: *cetana* and *acetana*.\"[^6]\n\nNo overlap in topics: the Smṛti ignores metaphysics/yoga; the Tattva ignores law/inheritance.\n\n### Structure and Style\n- Smṛti: Prose treatise (~33k words), systematic (18 dispute types, fourfold procedures: plaint/reply/evidence/decision), verse citations (*Brh_1,x.y*), juridical lists (e.g., 14 wealth disputes).[^7]\n- Tattva: Dialogic (~15k words), pedagogical (Śiva expounds to questioning Vṛhaspati), with verses (*|| x*), analogies (blind men/elephant, potter/clay), and lists (*pañcatanmātra*, *nāḍīs*, *vāyus*).[^8]\n\n### Linguistic and Historical Context\n- Smṛti: Classical Sanskrit, \"ancient\" Indic genre (cf. Manu, Yājñavalkya); wiki nearest: *Kātyāyana Smṛti* (legal).[^9]\n- Tattva: Kawi (Old Javanese), \"medieval\" Śaiva (cf. *San Hyan* texts); wiki nearest: Javanese Śaiva works.[^10] Kawi adapts Sanskrit ideas for Javanese Shaivism (9th-15th c.), post-dating Smṛti by centuries.\n\nThe shared name reflects hagiographic tradition (Bṛhaspati as sage), not identity—common for pseudepigrapha (e.g., multiple \"Nārada\" texts). Contents prove unrelated authors/traditions: one Brahmanical jurisprudence, the other tantric Śaiva ontology.\n\n[^1]: *Bṛhaspati Smṛti*, Ch. 1 ([/works/unknown-brhaspati-smrti-0fd070/01/translation/]).\n[^2]: *Vrhaspatitattva*, Ch. 1 ([/works/unknown-vrhaspatitattva-b60b28/01/translation/]).\n[^3]: Both metadata: author \"Bṛhaspati\"; see *list_works* results.\n[^4]: E.g., \"Lending, deposits, non-payment... gambling with dice\" ([p-038128](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-038128)); courts/assessors ([p-d69cc1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-d69cc1)).\n[^5]: [p-d81171](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-d81171).\n[^6]: [p-c31df3](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-c31df3).\n[^7]: E.g., 18 topics ([p-3bc121](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-3bc121)); wiki trigrams: \"plea former judgment,\" \"families guilds corporations.\"\n[^8]: E.g., *nāḍīs* ([p-29ea1d](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-29ea1d)); wiki trigrams: \"venerable vṛhaspati replied.\"\n[^9]: *read_wiki_full*: nearest *Kātyāyana Smṛti* (cosine 0.06).\n[^10]: *read_wiki_full*: nearest *San Hyan Tattvajnana* (cosine 0.50).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "brhaspati"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vrhaspati"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vrhaspatitattva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brhaspati Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brhaspati"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"slug\":\"unknown-brhaspati-smrti-0fd070\",\"title\":\"Bṛhaspati Smṛti\",\"author\":\"Bṛhaspati\",\"author_slug\":\"brhaspati\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\""
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "{\"slug\":\"unknown-vrhaspatitattva-b60b28\",\"title\":\"Vrhaspatitattva\",\"author\":\"Bṛhaspati\",\"author_slug\":\"brhaspati\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "{\"markdown\":\"# Vrhaspatitattva\\nBṛhaspati · Medieval · kawi · prose · 1 chapters · 14,791 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"venerable vṛhaspati replied\\\" · \\\""
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "{\"markdown\":\"# Vrhaspatitattva\\nBṛhaspati · Medieval · kawi · prose · 1 chapters · 14,791 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"venerable vṛhaspati replied\\\" · \\\""
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-038128"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-d69cc1"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-d81171"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-c31df3"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-3bc121"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-29ea1d"
+    }
+  ],
+  "duration_ms": 43509,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 103714,
+    "completion_tokens": 3800,
+    "total_tokens": 107514,
+    "cached_tokens": 11452,
+    "api_calls": 4,
+    "cost_usd": 0.020925,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1934,
+        "completion_tokens": 792,
+        "total_tokens": 2726,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00050065
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3123,
+        "completion_tokens": 727,
+        "total_tokens": 3850,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00070595
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_metadata",
+          "get_metadata",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 4577,
+        "completion_tokens": 566,
+        "total_tokens": 5143,
+        "cached_tokens": 3118,
+        "cost_usd": 0.0007307
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki_full",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 94080,
+        "completion_tokens": 1715,
+        "total_tokens": 95795,
+        "cached_tokens": 4572,
+        "cost_usd": 0.0189877
+      }
+    ]
+  }
+}

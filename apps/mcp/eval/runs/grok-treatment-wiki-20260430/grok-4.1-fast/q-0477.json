@@ -1,0 +1,195 @@
+{
+  "answer": "Several works in the Falsafa corpus, primarily Hindu *Dharmashāstra* texts (*Smṛtis*), discuss inheritance and succession rules across generations. These typically cover how paternal property is partitioned among sons (and sometimes daughters or other heirs), the rights of legitimate vs. appointed sons, succession through grandsons in the absence of direct heirs, and partitions extending to later degrees of kinship (e.g., up to the fourth generation). The discussions emphasize generational transfer to ensure lineage continuity, funeral rites (*pīṇḍa*), and ancestral debts.\n\nKey works include:\n\n**Manusmṛti** (*unknown-manusmrti-347b76*): Chapter 9 extensively details the law of inheritance, including equal division among brothers after parents' death, the eldest son's pre-eminence, daughter's sons as heirs, twelve types of sons and their generational rights, and succession through grandsons.[^1]\n\n**Bṛhaspati Smṛti** (*unknown-brhaspati-smrti-0fd070*): Chapter 1 covers partition of inheritance (section 1.26), shares for sons by birth order and qualities, illegitimate sons as heirs, daughters' rights, and further partitions \"up to the fourth degree\" for undivided kinsmen.[^2]\n\n**Kātyāyana Smṛti** (*unknown-katyayana-smrti-1e06d2*): Chapters 71–72 and 77 outline partition rules, protection of minors' shares, succession for nephews (e.g., a deceased brother's son inheriting), and exclusions from inheritance.[^3]\n\n**Āṅgirasa Smṛti** (*unknown-angirasa-smrti-2bf9d1*): Chapter 1 addresses adoption and how an adopted son inherits across lineages while preserving the giver's generational line.[^4]\n\n**Viṣṇu Smṛti** (*unknown-visnu-smrti-27f0d8*): Chapter 6 briefly notes shares \"according to their inheritance\" in divided families.[^5]\n\nOther works contain metaphorical or tangential references (e.g., ancestral legacy in poetry), but not systematic legal discussions of generational succession.\n\n[^1]: Manusmṛti, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-29f6da).\n\n[^2]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-982688).\n\n[^3]: Kātyāyana Smṛti, Chapter 71, [paragraph](/works/unknown-katyayana-smrti-1e06d2/71/translation/#p-d58e52).\n\n[^4]: Āṅgirasa Smṛti, Chapter 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-d7ede5).\n\n[^5]: Viṣṇu Smṛti, Chapter 6, [paragraph](/works/unknown-visnu-smrti-27f0d8/06/translation/#p-8da038).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "inheritance",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "succession generations",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"across generations\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heir inheritance",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-982688"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 71,
+        "paragraph_ids": [
+          "p-d58e52"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-29f6da"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d7ede5"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-8da038"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"partition of inheritance\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sons inherit",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 6,
+      "paragraph_id": "p-29f6da"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 6,
+      "paragraph_id": "p-982688"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 6,
+      "paragraph_id": "p-d58e52"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 6,
+      "paragraph_id": "p-d7ede5"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 6,
+      "paragraph_id": "p-8da038"
+    }
+  ],
+  "duration_ms": 35009,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 21625,
+    "completion_tokens": 3859,
+    "total_tokens": 25484,
+    "cached_tokens": 7450,
+    "api_calls": 3,
+    "cost_usd": 0.005136999999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1897,
+        "completion_tokens": 506,
+        "total_tokens": 2403,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0003495
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5419,
+        "completion_tokens": 1451,
+        "total_tokens": 6870,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017868
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14309,
+        "completion_tokens": 1902,
+        "total_tokens": 16211,
+        "cached_tokens": 5414,
+        "cost_usd": 0.0030007
+      }
+    ]
+  }
+}

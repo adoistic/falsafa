@@ -1,0 +1,486 @@
+{
+  "answer": "**Rājadharma**, or the \"king's duty\" (also termed *rājadharmān* or duties of kingship), is a central concept in these Smṛti texts, denoting the sovereign's sacred obligation to uphold cosmic and social order (*dharma*) through protection of subjects, just administration of punishment (*daṇḍa*), maintenance of the state apparatus (army, treasury, forts), righteous taxation, consultation with ministers and priests, and personal virtues like self-control, truthfulness, and generosity to Brahmins.[^1][^2][^3][^4]\n\n### Core Elements Across Texts\nWhile emphases vary slightly (e.g., Manu's focus on the king's divine origin and *daṇḍa*; Viṣṇu's on administrative structure), rājadharma consistently revolves around **protection (*rakṣā*) of the *varṇas* and *āśramas***, ensuring Dharma prevails via measured force.[^5] Key duties include:\n\n1. **Protection and Justice (*daṇḍa*)**:\n   - The king is created from divine particles (Indra, Yama, etc.) to prevent anarchy; without *daṇḍa*, the strong devour the weak.[^6]\n   - Administer courts with Brahmin assessors; punish proportionally (verbal reprimand, fines, corporal punishment, execution for heinous crimes).[^7][^8]\n   - Protect the vulnerable (women, minors, Brahmins) and eradicate \"thorns\" (thieves, tyrants).[^9][^10]\n\n2. **Statecraft and Administration**:\n   - Appoint wise ministers (7-8, hereditary, pure), a purohita (astrologer-priest), spies, envoys; deliberate on war/peace (*ṣaḍguṇya*: peace, war, march, halt, alliance, duplicity).[^11][^12][^13]\n   - Build forts (hill-preferred); levy taxes (1/6 grain/crops, 1/20 imports, none on Brahmins).[^14][^15][^16]\n   - Perform sacrifices; gift to Brahmins (inexhaustible treasury).[^17]\n\n3. **Personal Conduct**:\n   - Virtues: energetic, grateful, humble, sense-controlled, avoiding vices (hunting, gambling, women, drink). Consult elders/Vedas; rise early for spies/duties.[^18][^19]\n   - Daily routine: worship, inspect revenue/army, adjudicate, evening spies.[^20]\n\n| Text          | Key Focus                          | Signature Verse/Para |\n|---------------|------------------------------------|----------------------|\n| **Manusmṛti 7** | Divine origin; *daṇḍa* as Dharma's guarantor; ministers/forts/war. | \"I will now declare the Dharma of Kings...\" [p-b46e87][^21] |\n| **Yājñavalkya 1.309-368** | Qualities (pure, wise); council (*maṇḍala*, *ṣaḍguṇya*); forts/taxes/punishment. | \"A king should be of great energy...\" [p-179181][^22] |\n| **Viṣṇu 3**   | Protection; hierarchy (village chiefs to district); taxes (1/6 grain); *aṅgas* of state. | \"Now, the duties of a king (*rājadharma*).\" [p-6528bf][^23] |\n| **Bṛhaspati 1** | Court (*sabhā*); qualities; *daṇḍa*; forts/protection/taxes. | King's origin from gods; *daṇḍa* protects. [p-cf6fee][^24] |\n\nRājadharma ensures prosperity: just kings gain heaven/fame; unjust ones perish with kin.[^25] The corpus lacks a uniform definition but converges on sovereignty as *dharma*'s enforcer, blending ethics, polity (*nīti*), and theology.\n\n[^1]: Manusmṛti 7, full chapter: [/works/unknown-manusmrti-347b76/07/translation/].\n[^2]: Yājñavalkya Smṛti 1.309ff: [/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/].\n[^3]: Viṣṇu Smṛti 3, full chapter: [/works/unknown-visnu-smrti-27f0d8/03/translation/].\n[^4]: Bṛhaspati Smṛti 1 (various): [/works/unknown-brhaspati-smrti-0fd070/01/translation/].\n[^5]: [p-915921] (Manu 7.3); [p-401a6f] (Viṣṇu 3.2-3).\n[^6]: [p-73f910] (Manu 7.14); [p-55e886] (Manu 7.15).\n[^7]: [p-ab7b2a] (Manu 7.16); Yājñavalkya 1.360-368.\n[^8]: Viṣṇu 3.72-74; Bṛhaspati 1.1.22ff.\n[^9]: [p-2264d1] (Manu 7.35); Viṣṇu [p-abc78d].\n[^10]: [p-1a1093] (Bṛhaspati 1.1.39).\n[^11]: [p-0952cb] (Manu 7.54); Yājñavalkya [p-806dcc].\n[^12]: Viṣṇu [p-d5c75f]; Bṛhaspati [p-4657a0].\n[^13]: Yājñavalkya [p-0a3bbf].\n[^14]: [p-2f8219] (Manu 7.69ff); Viṣṇu [p-99b261].\n[^15]: Yājñavalkya [p-7b0ff3]; Bṛhaspati [p-20d68c].\n[^16]: Viṣṇu [p-99b261]; Bṛhaspati [p-9429ac].\n[^17]: [p-69b6a8] (Manu 7.79); Yājñavalkya [p-9485fa].\n[^18]: Yājñavalkya [p-179181]; Viṣṇu [p-272cd7].\n[^19]: Manu [p-afbfa2]; Bṛhaspati [p-cb5a36].\n[^20]: Manu [p-436d33]; Yājñavalkya [p-60c71f].\n[^21]: Manusmṛti 7.1: [/works/unknown-manusmrti-347b76/07/translation/#p-b46e87].\n[^22]: Yājñavalkya 1.309: [/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-179181].\n[^23]: Viṣṇu 3.1: [/works/unknown-visnu-smrti-27f0d8/03/translation/#p-6528bf].\n[^24]: Bṛhaspati 1.1.5ff: [/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-cb5a36].\n[^25]: [p-ee833c] (Viṣṇu 3.97); [p-404192] (Viṣṇu 3.98).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rajadharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "brhaspati"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duties of the king\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duty of the king\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king's duty\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rajadharma",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.8\\nverse · 381¶ · 16882w · vocab 2625 (TTR 32%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"made pay fine\\\" · \\\"fine two hundred\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.9\\nverse · 155¶ · 10149w · vocab 1606 (TTR 34%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"son shudra wife\\\" · \\\"established rule mn_"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.3\\nverse · 99¶ · 1569w · vocab 391 (TTR 53%, hapax 75%)\\n\\n## Distinctive trigrams\\n\\\"villages vi_3 superintendents\\\" · \\\"unabl"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma of kings\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king should\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-b46e87"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-179181"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-6528bf"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-cf6fee"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-915921"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-401a6f"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-73f910"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-55e886"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-ab7b2a"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-2264d1"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-abc78d"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-1a1093"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-0952cb"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-806dcc"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-d5c75f"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-4657a0"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-0a3bbf"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-2f8219"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-99b261"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-7b0ff3"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-20d68c"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-9429ac"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-69b6a8"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-9485fa"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-272cd7"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-afbfa2"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-cb5a36"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-436d33"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-60c71f"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-ee833c"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-404192"
+    }
+  ],
+  "duration_ms": 54963,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 154211,
+    "completion_tokens": 5285,
+    "total_tokens": 159496,
+    "cached_tokens": 38879,
+    "api_calls": 5,
+    "cost_usd": 0.02765285,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1917,
+        "completion_tokens": 580,
+        "total_tokens": 2497,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00039095
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2535,
+        "completion_tokens": 689,
+        "total_tokens": 3224,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0005689
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6798,
+        "completion_tokens": 1055,
+        "total_tokens": 7853,
+        "cached_tokens": 2530,
+        "cost_usd": 0.0015076
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 25794,
+        "completion_tokens": 702,
+        "total_tokens": 26496,
+        "cached_tokens": 6793,
+        "cost_usd": 0.00449085
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 117167,
+        "completion_tokens": 2259,
+        "total_tokens": 119426,
+        "cached_tokens": 25789,
+        "cost_usd": 0.02069455
+      }
+    ]
+  }
+}

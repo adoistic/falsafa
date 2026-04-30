@@ -1,0 +1,180 @@
+{
+  "answer": "**Manusmṛti chapter 12 and Yājñavalkya Smṛti chapter 3 both frame the soul's afterlife and rebirth (saṃsāra) through the three guṇas—sattva, rajas, and tamas—as the primary mechanism determining one's next state, with sattvic karma yielding divine births, rājasic human ones, and tāmasic animal or lower ones.[^1][^2] They agree that actions of mind, speech, and body (or their absence) propel the soul through these guṇa-based cycles after death, often via intermediate heavens/hells or elemental dissolution.[^3][^4]**\n\n**The texts converge on the guṇas' role but diverge in specificity, emphasis, and soteriology:**\n\n1. **Granularity of rebirth mappings**: Manu offers exhaustive, sin-specific rebirths (e.g., a Brahmin-killer reborn as a dog, pig, etc.; liquor-drinker as worm/insect), tying precise karmic faults to animal/insect/plant wombs after hells, with the soul first assuming a torment-body from the five elements.[^5] Yājñavalkya is more general, classifying by guṇa traits without such lists, and integrates rebirth into detailed embryology (e.g., soul's entry into womb via semen-blood union in the sixth month, forming from elements month-by-month).[^6]\n\n2. **Post-death trajectories and liberation**: Manu stresses karmic fruition in heavens/hells then guṇa-determined rebirth, with knowledge of Self/Veda as the highest escape but no explicit \"paths.\"[^7] Yājñavalkya explicitly contrasts devayāna (path of gods: fire → day → bright fortnight → gods → sun → lightning → Brahma, no return for knowers/yogins) vs. pitṛyāna (smoke → night → dark fortnight → ancestors → moon → back to earth for ritualists/sacrificers), emphasizing yoga, self-knowledge, and breath-control for mokṣa over mere penance.[^8]\n\n**In sum, Manu mechanizes rebirth as detailed, retributive karma-fruition via guṇas post-hell/heaven, prioritizing dharma observance; Yājñavalkya generalizes it within guṇas/embryology while elevating no-return paths through jñāna/yoga, aligning more with Upaniṣadic soteriology.**\n\n[^1]: Manusmṛti, ch.12, [Mn_12.39](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n\n[^2]: Yājñavalkya Smṛti, ch.3, [Yj_3.137-139](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-9f8a2c).\n\n[^3]: Manusmṛti, ch.12, [Mn_12.3-9](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n\n[^4]: Yājñavalkya Smṛti, ch.3, [Yj_3.134-136](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-841137).\n\n[^5]: Manusmṛti, ch.12, [Mn_12.15-17, 54-69](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n\n[^6]: Yājñavalkya Smṛti, ch.3, [Yj_3.72, 75-82](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-32c279).\n\n[^7]: Manusmṛti, ch.12, [Mn_12.19-23, 82-93](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n\n[^8]: Yājñavalkya Smṛti, ch.3, [Yj_3.184-196](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-cf730e).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chapter 12\" soul rebirth OR afterlife manu"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rebirth OR reincarnation OR transmigration OR samsara OR \"next birth\" OR \"next world\" OR afterlife",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-074f6e"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-9f8a2c"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-841137"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-32c279"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-cf730e"
+    }
+  ],
+  "duration_ms": 38118,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 57633,
+    "completion_tokens": 3795,
+    "total_tokens": 61428,
+    "cached_tokens": 18290,
+    "api_calls": 4,
+    "cost_usd": 0.0106806,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1917,
+        "completion_tokens": 927,
+        "total_tokens": 2844,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00056475
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5858,
+        "completion_tokens": 380,
+        "total_tokens": 6238,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00107945
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 8680,
+        "completion_tokens": 671,
+        "total_tokens": 9351,
+        "cached_tokens": 5853,
+        "cost_usd": 0.00119355
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 41178,
+        "completion_tokens": 1817,
+        "total_tokens": 42995,
+        "cached_tokens": 8675,
+        "cost_usd": 0.00784285
+      }
+    ]
+  }
+}

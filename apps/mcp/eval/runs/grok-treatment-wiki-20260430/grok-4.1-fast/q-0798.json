@@ -1,0 +1,93 @@
+{
+  "answer": "**Iqbal does not name a specific historical figure as an exemplary ancestor in this chapter.** Instead, he refers collectively to the Muslim youth's \"**forefathers**\" and \"**ancestors**\" as the desert Arabs—\"camel-herders\" from \"**the Arabian desert**\"—who rose to create civilization and empire. He exemplifies their greatness by noting how \"**that very nation**\" \"**crushed underfoot the crown upon the head of Darius**\" (a reference to Persian kings symbolizing defeated empires, poetically attributed to early Muslim/Arab conquerors).[^1]\n\nThe chapter also alludes to the prophet **Jacob** (Yaqub) in a metaphorical couplet about lost Islamic knowledge now in Europe—like \"**the light of his own eye**\" (his son Joseph/Yusuf) \"**brightens Zulaikha's gaze**\"—but this is not presented as an ancestor in the same historical/exemplary sense.[^2]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 13 \"Khitab ba Jawanan-e-Islam\" ([paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462)).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 13 \"Khitab ba Jawanan-e-Islam\" ([paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.13\\nverse · 2¶ · 268w · vocab 118 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"address muslim youth\\\" · \\\"muslim yout"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-365462"
+    }
+  ],
+  "duration_ms": 51371,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 11150,
+    "completion_tokens": 3526,
+    "total_tokens": 14676,
+    "cached_tokens": 4505,
+    "api_calls": 4,
+    "cost_usd": 0.00331725,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1925,
+        "completion_tokens": 388,
+        "total_tokens": 2313,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0002967
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2328,
+        "completion_tokens": 286,
+        "total_tokens": 2614,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005861
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 3066,
+        "completion_tokens": 388,
+        "total_tokens": 3454,
+        "cached_tokens": 2323,
+        "cost_usd": 0.00045875
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 3831,
+        "completion_tokens": 2464,
+        "total_tokens": 6295,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019757
+      }
+    ]
+  }
+}

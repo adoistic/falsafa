@@ -1,0 +1,187 @@
+{
+  "answer": "**\"Eardstapa\" appears in *The Wanderer* (lines 5b–6a of the Old English poem):**  \n*Swa cwæð eardstapa, earfeþa gemyndig*[^1]  \n(\"So spoke the earth-stepper, mindful of hardships\"[^2]).  \n\nThis occurs at the start of the wanderer's monologue, immediately following the opening reflection on *wyrd* (\"fate\") as unyielding amid exile.[^3]  \n\nThe compound *eardstapa* fuses *eard* (\"earth, land, native place, home\") and *stapa* (\"stepper, tramper\"), evoking a figure who physically treads the earth in hardship-bound motion.[^4] Modern English \"wanderer\" (the poem's title) flattens this into a vague roamer, stripping the kenning's layered purchase:  \n\n- **Earth/home as lost ground**: *Eard* implies not just soil but homeland (*eard* as \"dwelling\"), underscoring exile (*wræclastas*) from rooted life—treading what was once \"home\" now alienates.[^5]  \n- **Stepper's endurance**: *Stapa* connotes laborious foot-travel over terrain, tying to the poem's imagery of rime-cold seas, ice-bound waves, and fallow paths; it buys grim, embodied motion versus abstract drifting.[^6]  \n\nTogether, it densifies the exile's plight: a home-lost stepper, earth as both path and reminder of loss. \"Wanderer\" cannot convey this native poetic economy, where compounds encode cultural exile (lordless, kinless) in two syllables.[^7]  \n\n[^1]: *Unknown*, *Old English Elegies*, ch. 11 (*The Wanderer*), [p-9bd9cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/original/#p-9bd9cc).  \n[^2]: Ibid., [p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).  \n[^3]: Ibid., full chapter [translation](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/).  \n[^4]: *Eardstapa* etymology from context and standard Old English lexicography (e.g., *Bosworth-Toller*); see [p-9bd9cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/original/#p-9bd9cc).  \n[^5]: Cf. *eard* in \"eardgeard\" (\"earth-realm,\" line 85); [full original](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/original/).  \n[^6]: Echoes opening \"wadan wræclastas\" (\"tread exile-paths\"); [p-9cca5e](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9cca5e).  \n[^7]: Full monologue [p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eardstapa"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"eardstapa\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-2ecb4b"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9462cc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9462cc"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9bd9cc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9cca5e"
+    }
+  ],
+  "duration_ms": 29186,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 22590,
+    "completion_tokens": 3442,
+    "total_tokens": 26032,
+    "cached_tokens": 12261,
+    "api_calls": 4,
+    "cost_usd": 0.00439985,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1939,
+        "completion_tokens": 302,
+        "total_tokens": 2241,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0002565
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2521,
+        "completion_tokens": 551,
+        "total_tokens": 3072,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004974
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "get_passage"
+        ],
+        "prompt_tokens": 5986,
+        "completion_tokens": 938,
+        "total_tokens": 6924,
+        "cached_tokens": 2516,
+        "cost_usd": 0.0012888
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 12144,
+        "completion_tokens": 1651,
+        "total_tokens": 13795,
+        "cached_tokens": 5981,
+        "cost_usd": 0.00235715
+      }
+    ]
+  }
+}

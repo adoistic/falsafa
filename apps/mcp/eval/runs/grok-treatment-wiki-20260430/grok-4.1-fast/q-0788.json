@@ -1,0 +1,204 @@
+{
+  "answer": "In Allama Iqbal's poem \"Swami Ram Tirath\" from *Bang-E-Dara Part 2* (ch. 23), the speaker addresses the titular Hindu mystic (Swami Ram Tirath, 1873–1906, a revered figure known for his Vedantic teachings and ascetic life) as one who has achieved profound spiritual annihilation (*fana*) and union with the divine, transcending worldly distinctions through ecstatic love.[^1]\n\nThe poem opens by likening him to a \"restless drop\" that merges into the river (a classic Sufi metaphor for the soul's dissolution into the ocean of divinity), transforming from a mere pearl into one \"beyond price.\"[^2] Iqbal marvels at how gracefully Ram Tirath \"unveiled the secret of color and scent\"—esoteric knowledge of unity beneath multiplicity—while the poet-speaker confesses to remaining \"a prisoner of their distinctions.\"[^3]\n\nFurther stanzas portray his death not as loss but exaltation: his annihilation turns \"life's clamor\" into the \"tumult of Judgment Day,\" and his extinguished spark becomes \"the fire-temple of Azar\" (a reference to the prophet Abraham's rejection of idolatry in fire, symbolizing purified faith).[^4] Iqbal extols the \"negation of being\" (*la ilaha*, \"there is no god\") as a \"wonder of the knowing heart,\" revealing the affirming pearl of *illa-Allah* (\"but Allah\") hidden within; to the blind, this ultimate reality remains veiled, akin to quicksilver stabilizing into silver once \"restlessness ceases.\"[^5]\n\nThe climax invokes Love (*ishq*) as the path's fulfillment: the \"Abraham of Love shatters the idol of the Self,\" and reason's cure lies in the intoxicating ecstasy of Love's \"Tasnim\" (a paradisal spring in Islamic tradition, evoking Sufi rapture).[^6] Overall, Iqbal celebrates Ram Tirath as a universal mystic exemplar, bridging Hindu *Vedanta* and Islamic *Sufism* in self-transcending devotion.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 23: \"Swami Ram Tirath\" (/works/allama-iqbal-bang-e-dara-part-2-9bc58c/23-swami-ram-tirath/translation/).\n\n[^2]: Ibid., [p-d1bdd5](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/23-swami-ram-tirath/translation/#p-d1bdd5).\n\n[^3]: Ibid., [p-cb1e8e](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/23-swami-ram-tirath/translation/#p-cb1e8e).\n\n[^4]: Ibid., [p-420405](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/23-swami-ram-tirath/translation/#p-420405).\n\n[^5]: Ibid., [p-ef7cac](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/23-swami-ram-tirath/translation/#p-ef7cac) and [p-fc9342](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/23-swami-ram-tirath/translation/#p-fc9342).\n\n[^6]: Ibid., [p-7de605](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/23-swami-ram-tirath/translation/#p-7de605).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Swami Ram Tirath\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara \"Swami Ram Tirath\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 23
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 23-swami-ram-tirath.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-2-9bc58c"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Ram Tirath\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 23,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 23,
+        "paragraph_ids": [
+          "p-d1bdd5",
+          "p-cb1e8e",
+          "p-420405",
+          "p-ef7cac",
+          "p-fc9342",
+          "p-7de605"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 23,
+        "paragraph_ids": [
+          "p-d1bdd5"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 23,
+      "paragraph_id": "p-d1bdd5"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 23,
+      "paragraph_id": "p-cb1e8e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 23,
+      "paragraph_id": "p-420405"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 23,
+      "paragraph_id": "p-ef7cac"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 23,
+      "paragraph_id": "p-fc9342"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 23,
+      "paragraph_id": "p-7de605"
+    }
+  ],
+  "duration_ms": 35690,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 21126,
+    "completion_tokens": 3487,
+    "total_tokens": 24613,
+    "cached_tokens": 15047,
+    "api_calls": 5,
+    "cost_usd": 0.0037116499999999995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1919,
+        "completion_tokens": 389,
+        "total_tokens": 2308,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005558
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2463,
+        "completion_tokens": 369,
+        "total_tokens": 2832,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003948
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4993,
+        "completion_tokens": 149,
+        "total_tokens": 5142,
+        "cached_tokens": 2458,
+        "cost_usd": 0.0007044
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 5574,
+        "completion_tokens": 851,
+        "total_tokens": 6425,
+        "cached_tokens": 4988,
+        "cost_usd": 0.0007921
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 6177,
+        "completion_tokens": 1729,
+        "total_tokens": 7906,
+        "cached_tokens": 5569,
+        "cost_usd": 0.00126455
+      }
+    ]
+  }
+}

@@ -1,0 +1,376 @@
+{
+  "answer": "**Charles Comte** provides the most explicit and systematic treatment of the relationship between morals (*moeurs*, or habits) and laws (*lois*) in his *Traité de Législation*, Vol. I. He treats both as parallel domains within the \"moral sciences,\" studied via an analytical method that describes their causes (in men or things), nature, and effects (good or bad) on human prosperity, without prescribing duties or relying on religion or sentiment.[^1] Morals concern habits (e.g., intemperance vs. economy), while laws are powers composed of force elements affecting society; yet both improve through enlightenment and observation of utility: as peoples advance in knowledge, vices decline, virtues rise, and legislation perfects (e.g., abolition of torture, freer commerce).[^2] They are interdependent—vicious habits produce bad laws, good habits enable better ones—but analytically independent: neither is derived from the other, and both trace to primitive facts (organization, climate, etc.). Religion cannot be their exclusive foundation, as this halts progress by excluding fact-based inquiry.[^3]\n\n**Charles Dunoyer** does not offer a comparably direct or \"strong\" formulation in the available works (*Nouveau traité d'économie*, Vols. I-II). He invokes \"morality\" (*morale*) repeatedly in discussing industrial liberty (e.g., as \"good personal morality\" and \"good relational morality\" enabling free industry), but pairs it more with habits/culture than laws explicitly.[^4] No chapter wiki or search yields a focused analysis akin to Comte's; instead, morality appears as a power of labor/faculties supporting prosperity under free regimes, alongside knowledge and capital.[^5]\n\nComte's account thus allows **more independence** between morals and laws (parallel empirical sciences, neither foundational to the other). Dunoyer's (inferred) view implies greater **moral priority** to viable laws/liberty, hence more vulnerable to the reverse objection: that laws/regulations shape morals (e.g., oppressive regimes corrupt habits, as Comte details).[^6]\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [ch.2, ¶1](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/02-de-la-methode-analytique-appliquee-a-l-etude-de-la/translation/#p-5219cf).\n[^2]: Charles Comte, *Traité de Législation: VOL I*, [ch.2, ¶24-27](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/02-de-la-methode-analytique-appliquee-a-l-etude-de-la/translation/#p-5f9167).\n[^3]: Charles Comte, *Traité de Législation: VOL I*, [ch.8](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/#p-89a0f7).\n[^4]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [ch.15, ¶?](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/15-v-application-de-ces-moyens-de-liberte-aux-diverse/translation/#p-6d9be7).\n[^5]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [ch.14](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/14-iv-des-conditions-auxquelles-toute-industrie-peut-/translation/#p-85d580).\n[^6]: Corpus searches (\"morals\" \"laws\"; \"morality\" \"law(s)\"; \"morale\" \"lois\"/\"législation\"; variants) returned no concentrated Dunoyer passages; his emphasis on morality enabling \"liberté compatible\" across regimes suggests precedence over formal laws.[^?]",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morals\" \"laws\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morality\" \"law\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "morals law",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "morality legislation",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral\" \"law\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morals\" \"legislation\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "morale loi",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morale\" \"lois\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL II\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 91,008 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"van di"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL III\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 97,522 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"peopl"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL IV\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 188,438 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*voya"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"natural law\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "morals OR morality law OR laws OR legislation OR \"positive law\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.2\\nprose · 46¶ · 9651w · vocab 1499 (TTR 35%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"application analytical m"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.8\\nprose · 33¶ · 4826w · vocab 830 (TTR 38%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"good morals good\\\" · \\\"mo"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL III\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 97,522 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"peopl"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.3\\nprose · 53¶ · 9431w · vocab 1656 (TTR 38%, hapax 57%)\\n\\n## Distinctive trigrams\\n\\\"first edition volume\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morality\" OR \"morals\" \"law\" OR \"laws\" OR \"legislation\" OR \"loi\" OR \"lois\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 8
+      },
+      "result_summary": "Read ch.8 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 31
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL III · ch.31\\nprose · 40¶ · 5155w · vocab 1290 (TTR 53%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"degree north latitude"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 14
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL II · ch.14\\nprose · 134¶ · 19047w · vocab 2544 (TTR 29%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"*treatise politica"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morals\" OR \"moeurs\" \"laws\" OR \"lois\" OR \"legislation\"",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morale\" \"lois\" OR \"législation\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-5219cf"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-5f9167"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-89a0f7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-6d9be7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 8,
+      "paragraph_id": "p-85d580"
+    }
+  ],
+  "duration_ms": 63568,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 87410,
+    "completion_tokens": 6538,
+    "total_tokens": 93948,
+    "cached_tokens": 42373,
+    "api_calls": 6,
+    "cost_usd": 0.01439505,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1931,
+        "completion_tokens": 339,
+        "total_tokens": 2270,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00027355
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2991,
+        "completion_tokens": 1226,
+        "total_tokens": 4217,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00092905
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3376,
+        "completion_tokens": 1225,
+        "total_tokens": 4601,
+        "cached_tokens": 2986,
+        "cost_usd": 0.0008398
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11654,
+        "completion_tokens": 921,
+        "total_tokens": 12575,
+        "cached_tokens": 3371,
+        "cost_usd": 0.00228565
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20610,
+        "completion_tokens": 971,
+        "total_tokens": 21581,
+        "cached_tokens": 11649,
+        "cost_usd": 0.00286015
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki_full",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 46848,
+        "completion_tokens": 1856,
+        "total_tokens": 48704,
+        "cached_tokens": 20605,
+        "cost_usd": 0.00720685
+      }
+    ]
+  }
+}

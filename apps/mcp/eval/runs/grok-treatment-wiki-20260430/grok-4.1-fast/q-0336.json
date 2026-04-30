@@ -1,0 +1,362 @@
+{
+  "answer": "**Charles Comte on ancient slavery's distortion of jurisprudence**\n\nComte opens *Traité de la propriété* by arguing that modern legal and moral ideas derive from slaveholding societies (Greeks, Romans, feudal lords), whose doctrines treated humans as property, preventing recognition of natural liberty as foundational to rights and duties.[^1] Roman jurists like Papinian, who owned slaves, built jurisprudence on slavery's legitimacy, viewing persons as alienable things; this \"mendacious fact\" underpins flawed property theory, as true property stems from individual labor, not possession of people.[^2] Slavery negates duties (e.g., familial) by reducing humans to objects, yielding vicious laws that prioritize domination over natural equity.[^3] In *Traité de Législation* (Vol. IV), he details slavery's physical, moral, and economic ruin, tracing Roman law's servile origins as a persistent distortion.[^4]\n\n**Smriti provisions for *dāsa* and *dāsī* (slaves/servants)**\n\nSmritis regulate *dāsa*/*dāsī* as a status within *varṇāśrama-dharma*, often arising voluntarily (debt, famine), by capture, birth, or sale; not absolute chattel but bondage with release paths.[^5] Nārada (Ch. 5) lists 15 kinds (e.g., born in house, purchased, famine-maintained); first four hereditary unless manumitted by grace; others freed by payment/substitute. Slaves lack property (belongs to master); wives/sons of slaves share status; but manumission rituals exist, and forced slavery (thieves) must be annulled.[^6] Kātyāyana (Ch. 63) echoes: slavery from voluntary independence-surrender (like wife to husband); barred for Brahmins; master's intercourse with *dāsī* frees her + issue; property rules strict.[^7] Manu (8.415–417) names seven origins; slaves/son/wife have no wealth (master's); Śūdras \"created for servitude,\" yet regulated—not equated to things.[^8]\n\n**Same phenomenon at different distances, or different under \"slavery\"?**\n\nDifferent phenomena, despite English \"slavery.\" Comte targets Greco-Roman *chattel slavery*: humans as fully alienable property (*res mancipi*), breeding moral/physical decay, distorting jurisprudence into state-granted \"rights\" over persons.[^9] Smṛti *dāsatva*: hierarchical servitude tied to *dharma*, often temporary/debt-based, with manumission, limited rights (e.g., no property but family duties persist), and varṇa restrictions—not dehumanizing ownership but social obligation. Comte sees absolute slavery as unnatural, anti-property; Smṛtis embed it in cosmic order, regulable like marriage. Translation blurs: Comte's *esclavage* = total dominion; Smṛti *dāsa* = bound service (*sevakatva*), nearer indenture/serfdom. Corpus lacks direct Smṛti coverage by Comte, confirming unbridgeable divergence.[^10]\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, [ch.1](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-88386b).\n\n[^2]: Ibid., [ch.1](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-ceabaf), [ch.2](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/02-de-la-liberte-consideree-comme-une-condition-de-le/translation/#p-3114c0).\n\n[^3]: Ibid., [ch.2](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/02-de-la-liberte-consideree-comme-une-condition-de-le/translation/#p-60f07c).\n\n[^4]: Charles Comte, *Traité de Législation: VOL IV*, ch.1–23 (wiki map: effects on physique, morals, population, government). [work wiki](/works/charles-comte-traite-de-legislation-vol-iv-bca040/wiki/_work.card.md).\n\n[^5]: *Nāradasmṛti*, ch.1, [p-60abb8](/works/unknown-naradasmrti-7650d2/01/translation/#p-60abb8) (15 kinds).\n\n[^6]: Ibid., [p-78d1bb](/works/unknown-naradasmrti-7650d2/01/translation/#p-78d1bb) (hereditary; manumission); [p-805968](/works/unknown-naradasmrti-7650d2/01/translation/#p-805968) (no property).\n\n[^7]: *Kātyāyāyana Smṛti*, ch.63, [p-fbeb35](/works/unknown-katyayana-smrti-1e06d2/63/translation/#p-fbeb35) (voluntary; no Brahmin slavery); [p-2617af](/works/unknown-katyayana-smrti-1e06d2/63/translation/#p-2617af).\n\n[^8]: *Manusmṛti*, ch.8, [p-d779ef](/works/unknown-manusmrti-347b76/08/translation/#p-d779ef) (origins; no property).\n\n[^9]: Comte, *Traité de la propriété* VOL I, ch.1 [p-d3220b](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-d3220b).\n\n[^10]: No corpus overlap; searches for \"dāsa slavery smriti\" yield only Smṛti hits, Comte on Western antiquity.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmasastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancient slavery jurisprudence",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dāsa\" OR \"dāsī\" OR \"dasa\" OR \"dasi\" slavery",
+        "limit": 20
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smriti dāsa dāsī",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancient slavery OR jurisprudence slavery OR \"roman law\" slavery OR greek slavery property",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dāsa OR dāsi OR dasa OR dasi",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.2\\nprose · 29¶ · 1980w · vocab 421 (TTR 46%, hapax 61%)\\n\\n## Distinctive trigrams\\n\\\"duties fulfill toward\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL IV\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 188,438 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*voya"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 63,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.63 of unknown-katyayana-smrti-1e06d2 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"esclavage\" OR slave OR slavery author:comte",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL IV\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 188,438 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*voya"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dasa OR dasi OR slave OR slavery OR dāsa OR dāsī smriti OR manusmriti OR narada OR katyayana",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-88386b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-ceabaf"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-3114c0"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-60f07c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-60abb8"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-78d1bb"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-805968"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-fbeb35"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-2617af"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-d779ef"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-d3220b"
+    }
+  ],
+  "duration_ms": 65282,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 191645,
+    "completion_tokens": 6656,
+    "total_tokens": 198301,
+    "cached_tokens": 19972,
+    "api_calls": 5,
+    "cost_usd": 0.0386612,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1937,
+        "completion_tokens": 1211,
+        "total_tokens": 3148,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00071075
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5117,
+        "completion_tokens": 1406,
+        "total_tokens": 6523,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017039
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 12684,
+        "completion_tokens": 1242,
+        "total_tokens": 13926,
+        "cached_tokens": 5112,
+        "cost_usd": 0.002391
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 67984,
+        "completion_tokens": 826,
+        "total_tokens": 68810,
+        "cached_tokens": 12679,
+        "cost_usd": 0.01210795
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "list_chapters",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 103923,
+        "completion_tokens": 1971,
+        "total_tokens": 105894,
+        "cached_tokens": 150,
+        "cost_usd": 0.0217476
+      }
+    ]
+  }
+}

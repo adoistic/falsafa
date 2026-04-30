@@ -1,0 +1,185 @@
+{
+  "answer": "**In the Yājñavalkya Smṛti (Chapter 1, verse 1.115 and immediate context), there is no direct prescription about the wife's duties.**[^1][^2]\n\nThis verse falls within the section on the duties of a householder (gṛhasthadharmaprakaraṇam, starting at 1.97). It advises rising at the Brāhma muhūrta (roughly 96 minutes before sunrise) to reflect on one's welfare, while balancing *dharma*, artha (wealth), and kāma (desire) according to ability.[^1] The preceding verse (1.114) describes the householder's evening routine: twilight worship, fire oblations, eating without excess, and retiring to bed.[^2] The following verse (1.116) concerns honoring people based on learning, virtue, age, etc.[^3]\n\n**Duties of wives (*patnīdharmāḥ*) are prescribed earlier in Chapter 1 (vivāhaprakaraṇam and related sections, verses ~70–89),** including obedience to the husband as the highest *dharma* for women (1.77);[^4] managing household utensils, being skillful/cheerful/economical/devoted to the husband, and saluting in-laws (1.83);[^5] renouncing adornment/socializing/laughter when the husband is away (1.84);[^6] and lifelong dependence on male protectors (1.85).[^7] These may inform the householder context indirectly, as the householder (*gṛhastha*) is typically married.\n\nIf \"1.115 area\" refers to a different edition's numbering or broader context, no matching prescription appears in searches or statistical wiki layers for this work.[^8]\n\n[^1]: Yājñavalkya Smṛti, ch. 1, [¶60edb7](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-60edb7).\n[^2]: Yājñavalkya Smṛti, ch. 1, [¶47c683](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-47c683).\n[^3]: Yājñavalkya Smṛti, ch. 1, [¶5fc775](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-5fc775).\n[^4]: Yājñavalkya Smṛti, ch. 1, [¶c2ffdb](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-c2ffdb).\n[^5]: Yājñavalkya Smṛti, ch. 1, [¶b3ed86](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-b3ed86).\n[^6]: Yājñavalkya Smṛti, ch. 1, [¶d35f05](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-d35f05).\n[^7]: Yājñavalkya Smṛti, ch. 1, [¶04adc1](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-04adc1).\n[^8]: Full Chapter 1 wiki card/sheet; corpus searches for \"Yajnavalkya 1.115\", \"wife/patni duties\", etc. (no hits in this work near 1.115). Yājñavalkya Smṛti, ch. 1, [full chapter](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya 1.115",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife\" OR \"wives\" OR patni duties Yajnavalkya",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"patni\" OR \"wife\" OR \"wives\" Yajnavalkya",
+        "limit": 20
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"1.115\" OR \"Yj_1.115\" OR \"verse 115\" OR \"115 //\"",
+        "limit": 5
+      },
+      "result_summary": "Found 5 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-60edb7"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-47c683"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-5fc775"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-c2ffdb"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-b3ed86"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-d35f05"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-04adc1"
+    }
+  ],
+  "duration_ms": 44646,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 40042,
+    "completion_tokens": 3973,
+    "total_tokens": 44015,
+    "cached_tokens": 10106,
+    "api_calls": 4,
+    "cost_usd": 0.008479,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 578,
+        "total_tokens": 2484,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006477
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2714,
+        "completion_tokens": 533,
+        "total_tokens": 3247,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00052715
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5371,
+        "completion_tokens": 938,
+        "total_tokens": 6309,
+        "cached_tokens": 2709,
+        "cost_usd": 0.00113685
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki_full",
+          "search_corpus"
+        ],
+        "prompt_tokens": 30051,
+        "completion_tokens": 1924,
+        "total_tokens": 31975,
+        "cached_tokens": 5366,
+        "cost_usd": 0.0061673
+      }
+    ]
+  }
+}

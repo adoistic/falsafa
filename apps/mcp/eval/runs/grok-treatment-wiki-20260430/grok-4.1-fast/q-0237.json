@@ -1,0 +1,268 @@
+{
+  "answer": "In Part 1 of *Bang-e-Dara*, Iqbal's lyrical \"we\" evokes an inclusive, territorially rooted Indian patriotism centered on Hindustan as a shared homeland blending Muslim, Hindu, Sikh, Persian, and other legacies.[^1][^2] The collective voice celebrates the subcontinent's composite cultural and spiritual history—from Chishti and Nanak to biblical prophets and Tatar migrations—as \"my homeland, this land of mine,\" positioning the \"we\" within a syncretic national geography guarded by the Himalaya.[^1][^2]\n\nBy Part 3, this shifts to a pan-Islamic \"we\" defined by the global Muslim *ummah* (*millat*) and its sacred abodes (Delhi, Baghdad, Cordoba, Constantinople, Medina), unbound by any single nation-state like India.[^3][^4][^5] The voice now laments Muslim decline in *Shikwa* as champions of God's oneness (\"It was we, and we alone\"), spans \"Chin to Arab lands,\" and urges youth to reclaim Arabian forebears' world-conquering spirit, with Hijaz/Medina as the true \"homeland\" and heart.[^4][^5][^6] India appears but subordinated; the ummah's story transcends it.[^3]\n\nThis reflects Iqbal's evolution from early (pre-WWI) Hindustani nationalism to post-WWI advocacy for Muslim political self-determination.[^4]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 26: \"Hindustani Bachon Ka Qaumi Geet\" ([/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/)).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 25: \"Himalaya\" ([/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/](/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/)).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 2: \"Bilad-e-Islamiya\" ([/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/)).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 23: \"Tarana-e-Milli\" ([/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/)).\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 20: \"Shikwa\" ([/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/)).\n\n[^6]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 13: \"Khitab ba Jawanan-e-Islam\" ([/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"we\" OR \"our\" OR \"us\" muslim OR nation OR india OR hindustan",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.26\\nverse · 4¶ · 163w · vocab 71 (TTR 78%, hapax 87%)\\n\\n## Distinctive trigrams\\n\\\"homeland land mine\\\" · \\\"chishti first "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.25\\nverse · 25¶ · 444w · vocab 213 (TTR 86%, hapax 86%)\\n\\n## Distinctive trigrams\\n\\\"himalaya himalaya rampart\\\" · \\\"himal"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.23\\nverse · 11¶ · 205w · vocab 96 (TTR 91%, hapax 91%)\\n\\n## Distinctive trigrams\\n\\\"chin arab lands\\\" · \\\"arab lands story"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.20\\nverse · 32¶ · 2057w · vocab 682 (TTR 68%, hapax 75%)\\n\\n## Distinctive trigrams\\n\\\"complaint choose path\\\" · \\\"choose p"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 02-bilad-e-islamiya.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.13\\nverse · 2¶ · 268w · vocab 118 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"address muslim youth\\\" · \\\"muslim yout"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"we\" OR \"our\" OR \"us\" OR \"nation\" OR \"muslim\" OR \"india\" OR \"hindustan\" OR \"ummah\" OR \"millat\"",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.23 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 58376,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 84778,
+    "completion_tokens": 6298,
+    "total_tokens": 91076,
+    "cached_tokens": 36751,
+    "api_calls": 5,
+    "cost_usd": 0.01459195,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1924,
+        "completion_tokens": 638,
+        "total_tokens": 2562,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004215
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 8070,
+        "completion_tokens": 1029,
+        "total_tokens": 9099,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00184635
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 17528,
+        "completion_tokens": 1393,
+        "total_tokens": 18921,
+        "cached_tokens": 8065,
+        "cost_usd": 0.00299235
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 24778,
+        "completion_tokens": 1279,
+        "total_tokens": 26057,
+        "cached_tokens": 150,
+        "cost_usd": 0.0055726
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 32478,
+        "completion_tokens": 1959,
+        "total_tokens": 34437,
+        "cached_tokens": 24773,
+        "cost_usd": 0.00375915
+      }
+    ]
+  }
+}

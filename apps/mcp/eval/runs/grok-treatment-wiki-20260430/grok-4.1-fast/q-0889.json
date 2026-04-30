@@ -1,0 +1,251 @@
+{
+  "answer": "In Allama Iqbal's poem *Shama* (\"The Candle\"), from *Bang-E-Dara Part 1*, the following couplet fuses *yaad* with both remembrance and the ache of absence:[^1]\n\n> Ghurbat ke gham-kade ko watan jaanta hoon main  \n> **Yaad-e-watan fasurdagi-e-be-sabab bani**  \n> Shauq nazar kabhi, kabhi zauq-e-talab bani\n\n> This house of exile is my homeland and my light.  \n> **The memory of home became a causeless ache,**[^2]  \n> A thirst to see, a questing passion for its sake.\n\nHere, *yaad-e-watan* (memory/remembrance of the homeland) is not neutral recollection but actively *becomes* (*bani*) *fasurdagi-e-be-sabab*—a groundless melting, languishing, or pining away. The speaker (personified consciousness) has reimagined its prison as homeland, yet the *yaad* itself generates causeless emotional dissolution: it recalls the lost *watan* (homeland/absent origin) while instantiating longing as physical erosion (*fasurdagi*). This duality evokes Sufi exile from divine origin, where remembering God/home *is* the yearning torment.\n\nTranslating *yaad* flatly as \"memory\" collapses the line: \"The **memory** of the homeland became a causeless ache.\" English \"memory\" connotes detached cognition (e.g., \"I remember my childhood home fondly\"), severing the inseparability of recall-from-longing. The *yaad* loses its dynamism—no longer an agent that *melts* the heart in real-time absence—but a static noun awkwardly \"becoming\" pain without inherent emotional physics. Iqbal's radix (*yaad* as vivifying torment) flattens to paradox, diluting the Urdu's phenomenological fusion.[^3]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 40 (*Shama*), transliteration [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/transliteration/#p-b0d063).\n[^2]: Ibid., translation [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-e73be2).\n[^3]: Full chapter for context: [ch. 40](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yaad"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"yaad\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "memory longing"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "hindi"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.34 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.34 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 40,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.40 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 40,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.40 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 52,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.52 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 52,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.52 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 40,
+        "paragraph_ids": [
+          "b0d063",
+          "e73be2"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 40,
+        "paragraph_ids": [
+          "e73be2",
+          "28baca"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "645e3e",
+          "cb3992"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "cb3992"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-b0d063"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 34,
+      "paragraph_id": "p-e73be2"
+    }
+  ],
+  "duration_ms": 53854,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 42410,
+    "completion_tokens": 5452,
+    "total_tokens": 47862,
+    "cached_tokens": 27363,
+    "api_calls": 4,
+    "cost_usd": 0.00710355,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1938,
+        "completion_tokens": 451,
+        "total_tokens": 2389,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003308
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 7327,
+        "completion_tokens": 1583,
+        "total_tokens": 8910,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0019746
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 16282,
+        "completion_tokens": 1686,
+        "total_tokens": 17968,
+        "cached_tokens": 7322,
+        "cost_usd": 0.0030011
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 16863,
+        "completion_tokens": 1732,
+        "total_tokens": 18595,
+        "cached_tokens": 16277,
+        "cost_usd": 0.00179705
+      }
+    ]
+  }
+}

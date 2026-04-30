@@ -1,0 +1,500 @@
+{
+  "answer": "### Manusmṛti (Manu) on Śrāddha\n\nManusmṛti provides extensive rules for śrāddha (ancestral rites), emphasizing daily, monthly, and seasonal observance. It stresses purity, learned Brāhmaṇas, piṇḍas (food balls), and specific foods for varying durations of ancestral satisfaction.[^1]\n\n#### Designated Days\n- **Daily**: A simple śrāddha with food, water, milk, roots, or fruits.[^2]\n- **Monthly**: *Pindanvaharyaka* śrāddha at the dark of the moon (new moon/amāvāsyā); *Anvaharya* with meat.[^3]\n- **Seasonal**: Three times a year (winter, summer, rainy season).[^4]\n- **Other**: *Aṣṭakā* and *anvaṣṭakā* days for ancestors; avoid nights, twilights, sunrise.[^5]\n- Dark fortnight tithis (10th–13th, excluding 14th) are superior; even tithis/nakṣatras for desires, odd for progeny.[^6]\n\n#### Foods Used\n- **General**: Piṇḍas from oblation remnants; side-dishes (soups, vegetables); milk, curds, ghṛta (clarified butter), honey; solid/soft foods, roots, fruits, meats, drinks.[^7] Hot food served silently to Brāhmaṇas.[^8]\n- **By Satisfaction Duration** (with water/sesame as base):\n  | Food | Duration |\n  |------|----------|\n  | Sesame, rice, barley, black lentils, water, roots, fruits | 1 month[^9] |\n  | Fish | 2 months[^10] |\n  | Deer | 3 months[^11] |\n  | Mutton | 4 months[^12] |\n  | Birds | 5 months[^13] |\n  | Goat | 6 months[^14] |\n  | Spotted deer | 7 months[^15] |\n  | Black antelope | 8 months[^16] |\n  | Ruru deer | 9 months[^17] |\n  | Wild boar, buffalo | 10 months[^18] |\n  | Hare, tortoise | 11 months[^19] |\n  | Cow's milk, rice pudding | 1 year[^20] |\n  | Rhinoceros | 12 years[^21] |\n- **Eternal (*akṣaya*)**: *Kālaśāka* (potherb), *mahāśalka* (fish), rhinoceros/red goat meat, honey, hermit foods (milk, roots, etc.).[^22] Honey-mixed on 13th tithi, rainy season, or under Maghā.[^23]\n\n### Viṣṇu Smṛti on Śrāddha\n\nViṣṇu Smṛti details procedures, focusing on invitations, piṇḍas, oblations, and exclusions (e.g., no dogs, Śūdras viewing). Foods are practical; piṇḍas placed on kuśa grass.[^24]\n\n#### Designated Days\n- **General**: Forenoon of bright fortnight or afternoon of dark fortnight.[^25]\n- **New moon (*amāvāsyā*)**: Specific final five-mantra oblations.[^26]\n- **Post-Āgrahāyaṇī & Aṣṭakā** (dark fortnight, sequential): First/middle/last five-mantra groups.[^27]\n- **Anvaṣṭakā**: As Aṣṭakā (god-rite first).[^28]\n\n#### Foods Used\n- **General**: Ghṛta-soaked food (offered to east-facing for Viśvedevas); piṇḍas (one each for father/grandfather/great-grandfather: earth/atmosphere/heaven as \"ladle, inexhaustible\"); water/ghṛta/sesame/honey pitcher; arghya (hand-water), flowers, incense, ointments, edibles.[^29] Scattered remnants for unrited dead, abandoned women, honest servants.[^30]\n- **Aṣṭakā/Anvaṣṭakā**: Vegetables (*śāka*), meat (*māṃsa*), cakes (*pūpaiḥ*); karṣūs (trenches) filled: men (food/water), women (food/milk), each (curd/meat/milk). Imperishable formula muttered.[^31]\n\n### Where Viṣṇu Specifies What Manu Leaves General\nManu provides *general* meat durations/food satisfaction (e.g., deer=3 months, no occasion tied) and seasonal nods (e.g., Aṣṭakā without foods/mantras).[^32] Viṣṇu *specifies* for Aṣṭakā/Anvaṣṭakā: vegetables/meat/cakes (god-rite first), sequential mantras post-Āgrahāyaṇī, karṣūs fillings (food/water/milk/curd/meat), tying to dark fortnight—elaborating Manu's broader frames.[^33] Piṇḍa formulas (\"earth/atmosphere/heaven... inexhaustible\") add ritual precision absent in Manu's generality.[^34]\n\n[^1]: Manusmṛti, Chapter 3, [full chapter](/works/unknown-manusmrti-347b76/03/translation/#p-d8ebfe).\n[^2]: [p-0db4cc].\n[^3]: [p-a6dada], [p-5b37f3].\n[^4]: [p-8b8ea4].\n[^5]: [p-4e643], [p-993e15].\n[^6]: [p-276], [p-eb7526].\n[^7]: [p-215], [p-226].\n[^8]: [p-236].\n[^9]: [p-267].\n[^10]: [p-268].\n[^11]: [p-268].\n[^12]: [p-268].\n[^13]: [p-268].\n[^14]: [p-269].\n[^15]: [p-269].\n[^16]: [p-269].\n[^17]: [p-269].\n[^18]: [p-270].\n[^19]: [p-270].\n[^20]: [p-271].\n[^21]: [p-271].\n[^22]: [p-272].\n[^23]: [p-273].\n[^24]: Viṣṇu Smṛti, Chapter 81, [full chapter](/works/unknown-visnu-smrti-27f0d8/81/translation/#p-aa620c).\n[^25]: [p-8c4ba3].\n[^26]: [p-424599].\n[^27]: [p-aada5a].\n[^28]: [p-ddbaed].\n[^29]: Chapter 73, [full chapter](/works/unknown-visnu-smrti-27f0d8/73/translation/#p-02c162), esp. [p-acf316], [p-1bc935].\n[^30]: [p-f002cf].\n[^31]: Chapter 74, [full chapter](/works/unknown-visnu-smrti-27f0d8/74/translation/#p-cbec50).\n[^32]: Manusmṛti 3.267–272, 281.\n[^33]: Viṣṇu 73.7–9, 74.1–8.\n[^34]: Viṣṇu 73.17–19.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sraddha",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shraddha",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "śrāddha",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "viṣṇu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Viṣṇu Smṛti\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Viṣṇu śrāddha"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vishnu shraddha"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "śrāddha food"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.3\\nverse · 66¶ · 2063w · vocab 471 (TTR 49%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"his own *varna*\\\" · \\\"one his own\\\" · \\\"mn_3 "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "śrāddha Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancestral rite"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "food pitṛ"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manes"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pitṛ"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pitar"
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fathers ancestor"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"offer\" food ancestor"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.3\\nverse · 66¶ · 2063w · vocab 471 (TTR 49%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"his own *varna*\\\" · \\\"one his own\\\" · \\\"mn_3 "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "śrāddha OR sraddha OR shraddha OR \"ancestral offering\" OR \"rites for the manes\" OR pinda OR piṇḍa OR \"ball of rice\"",
+        "limit": 30
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"new moon\" pitṛ OR manes OR fathers"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.3\\nverse · 66¶ · 2063w · vocab 471 (TTR 49%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"his own *varna*\\\" · \\\"one his own\\\" · \\\"mn_3 "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 73
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.73\\nverse · 34¶ · 1005w · vocab 273 (TTR 57%, hapax 71%)\\n\\n## Distinctive trigrams\\n\\\"*piṇḍa* पिण्ड his\\\" · \\\"ladle inexhausti"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 81
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.81\\nverse · 22¶ · 358w · vocab 94 (TTR 67%, hapax 82%)\\n\\n## Distinctive trigrams\\n\\\"eat restrained speech\\\" · \\\"**vishnu smrit"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 74
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Viṣṇu Smṛti · ch.74\\nverse · 9¶ · 202w · vocab 56 (TTR 59%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"three *karṣūs* कर्षूs\\\" · \\\"*aṣṭakā* अष्"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 73
+      },
+      "result_summary": "Read ch.73 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 74
+      },
+      "result_summary": "Read ch.74 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 81
+      },
+      "result_summary": "Read ch.81 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 72
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Viṣṇu Smṛti · ch.72\\nverse · 6¶ · 165w · vocab 51 (TTR 70%, hapax 78%)\\n\\n## Distinctive trigrams\\n\\\"**vishnu smriti 72**\\\" · \\\"smriti 72** a"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-d8ebfe"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-0db4cc"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-a6dada"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-5b37f3"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-8b8ea4"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-993e15"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-eb7526"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-aa620c"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-8c4ba3"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-424599"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-aada5a"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-ddbaed"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-02c162"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-acf316"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-1bc935"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-f002cf"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 81,
+      "paragraph_id": "p-cbec50"
+    }
+  ],
+  "duration_ms": 71530,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 138830,
+    "completion_tokens": 8117,
+    "total_tokens": 146947,
+    "cached_tokens": 79174,
+    "api_calls": 7,
+    "cost_usd": 0.019948399999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1926,
+        "completion_tokens": 688,
+        "total_tokens": 2614,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007067
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4636,
+        "completion_tokens": 942,
+        "total_tokens": 5578,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00111605
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 5705,
+        "completion_tokens": 767,
+        "total_tokens": 6472,
+        "cached_tokens": 4631,
+        "cost_usd": 0.00082985
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14607,
+        "completion_tokens": 1181,
+        "total_tokens": 15788,
+        "cached_tokens": 5700,
+        "cost_usd": 0.0026569
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 22789,
+        "completion_tokens": 912,
+        "total_tokens": 23701,
+        "cached_tokens": 14602,
+        "cost_usd": 0.0028235
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 29431,
+        "completion_tokens": 1168,
+        "total_tokens": 30599,
+        "cached_tokens": 22784,
+        "cost_usd": 0.0030526
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 59736,
+        "completion_tokens": 2459,
+        "total_tokens": 62195,
+        "cached_tokens": 29426,
+        "cost_usd": 0.0087628
+      }
+    ]
+  }
+}

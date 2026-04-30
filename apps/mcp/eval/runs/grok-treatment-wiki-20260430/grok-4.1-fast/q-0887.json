@@ -1,0 +1,236 @@
+{
+  "answer": "In Allama Iqbal's *Bang-E-Dara Part 3*, chapter 4 (\"Dil se jo baat nikalti hai asar rakhti hai\"), he invokes *iman* (transliterated directly from the Urdu as **imaan**) as a totalizing, self-dissolving force in the ideal Muslim's life—*khud-gudaazi* (\"self-effacement\") via the \"wine of faith.\" Pinpoint the verse:[^1]\n\n> The Muslim’s speech was fearless in its truth,  \n> His justice strong, untainted by the sleight  \n> Of preference; his nature, from his youth,  \n> Was steeped in modesty, a gentle light.  \n> In courage, he was something to behold,  \n> A being that transcended mortal mold.  \n> **His very essence melted in the wine**  \n> **Of faith**; to lose himself was his design.\n\nHere, *iman* (rendered \"faith\" in English translation) is operative as the culminating quality of authentic Muslim character: not ornamental or intellectual, but a intoxicating elixir that liquefies ego, fueling fearless speech, selfless justice, modesty, and transcendent courage. It *orders a life* by design (*soorat-e-meenaash bood* in the original), demanding annihilation in the divine (*fana*) to achieve true selfhood (*baqa*).\n\nAn English-only reader, encountering \"faith\" in isolation, would likely mistake the line for a bland endorsement of doctrinal orthodoxy or passive creedal assent—like ticking checkboxes of belief (e.g., \"I believe in X articles\") without behavioral upheaval. Iqbal's *iman*, by contrast, is no mere opinion; it's existential alchemy, where conviction reshapes ontology itself.[^2]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 4 (\"Dil se jo baat nikalti hai asar rakhti hai\"), [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-fdd24f).\n\n[^2]: The full stanza ([p-fdd24f]) and surrounding context ([p-abb76d]) contrast this with modern Muslims' fear of death over fear of God, underscoring *iman* as lived discipline, not abstract piety: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 4, [passage](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-fdd24f) (via multi-paragraph highlight from ch. read). The Urdu original confirms: *...khud-gudaazi nam-e-kaifiyat-e-sehbaayash bood* (\"self-effacement [was] the name of [his] state in the wine-cup companionship\").",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iman iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iman",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.4\\nverse · 37¶ · 2284w · vocab 724 (TTR 63%, hapax 73%)\\n\\n## Distinctive trigrams\\n\\\"word heart begins\\\" · \\\"heart begins "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"iman\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "faith iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 18,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.18 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 42,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.42 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"faith\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.4\\nverse · 37¶ · 2284w · vocab 724 (TTR 63%, hapax 73%)\\n\\n## Distinctive trigrams\\n\\\"word heart begins\\\" · \\\"heart begins "
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-fdd24f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-abb76d"
+    }
+  ],
+  "duration_ms": 43861,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 50130,
+    "completion_tokens": 5673,
+    "total_tokens": 55803,
+    "cached_tokens": 31245,
+    "api_calls": 5,
+    "cost_usd": 0.00817575,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1940,
+        "completion_tokens": 478,
+        "total_tokens": 2418,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00034485
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5215,
+        "completion_tokens": 955,
+        "total_tokens": 6170,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00123835
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8023,
+        "completion_tokens": 776,
+        "total_tokens": 8799,
+        "cached_tokens": 5210,
+        "cost_usd": 0.0012111
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 14260,
+        "completion_tokens": 783,
+        "total_tokens": 15043,
+        "cached_tokens": 8018,
+        "cost_usd": 0.0020408
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 20692,
+        "completion_tokens": 2681,
+        "total_tokens": 23373,
+        "cached_tokens": 14255,
+        "cost_usd": 0.00334065
+      }
+    ]
+  }
+}

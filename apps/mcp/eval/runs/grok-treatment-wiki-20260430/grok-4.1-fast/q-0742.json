@@ -1,0 +1,99 @@
+{
+  "answer": "**In Allama Iqbal's poem \"Mashriq mein usool deen ban jaate\" (Bang-e-Dara Part 3, ch. 28), the principle described is the contrast between Eastern and Western approaches to innovation: in the East, new \"Principles of Faith\" (or religious tenets, *usool-e-deen*) are decreed but fail to take root or multiply (\"not a single one we get to keep\"), while in the West, new machines are invented and productively replicated (\"from one, they go and fashion three\").**[^1]\n\nThis short verse critiques the East's tendency to generate spiritual or doctrinal innovations without practical sustenance, versus the West's material and technological productivity.[^2]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 28 \"Mashriq mein usool deen ban jaate\" ([paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/28-mashriq-mein-usool-deen-ban-jaate/translation/#p-13a391)).\n\n[^2]: Ibid. (Key passage and distinctive trigrams like \"new principles faith\" from wiki card analysis).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mashriq Mein Usool Deen Ban Jaate"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 28
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.28\\nverse · 1¶ · 36w · vocab 14 (TTR 88%, hapax 86%)\\n\\n## Distinctive trigrams\\n\\\"east new principles\\\" · \\\"new principles"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 28,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.28 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 28,
+      "paragraph_id": "p-13a391"
+    }
+  ],
+  "duration_ms": 18415,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 18401,
+    "completion_tokens": 2166,
+    "total_tokens": 20567,
+    "cached_tokens": 8087,
+    "api_calls": 3,
+    "cost_usd": 0.00355015,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1923,
+        "completion_tokens": 557,
+        "total_tokens": 2480,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006406
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7792,
+        "completion_tokens": 409,
+        "total_tokens": 8201,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017404
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 8686,
+        "completion_tokens": 1200,
+        "total_tokens": 9886,
+        "cached_tokens": 7787,
+        "cost_usd": 0.00116915
+      }
+    ]
+  }
+}

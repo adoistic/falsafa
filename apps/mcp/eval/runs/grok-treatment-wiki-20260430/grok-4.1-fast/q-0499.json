@@ -1,0 +1,395 @@
+{
+  "answer": "**Allama Iqbal's poems in the corpus—specifically from *Bang-E-Dara Part 3*—allude to several specific historical Muslim victories and defeats, often in the context of Islamic glory, lament, or revival. Direct mentions of battles like Badr or Uhud are absent, but the following poems reference key events:**\n\n### Victories\n- **Shikwa** (*Bang-E-Dara Part 3*, ch. 20): Refers to the Muslim conquest of Khaybar (\"tore out Khyber’s mighty door\"), where Muhammad's forces defeated the Jewish tribes in 628 CE; the conquest of Constantinople (\"laid Caesar’s city flat upon the floor\"), captured by the Ottomans in 1453; and the extinguishing of Zoroastrian fire in Persia, alluding to early Muslim victories over the Sassanids (e.g., Qadisiyyah in 636 CE).[^1]\n- **Bilad-e-Islamiya** (*Bang-E-Dara Part 3*, ch. 2): Celebrates Constantinople (\"once the abode of Caesar, Now an eternal symbol of the Ummah's power\"), again referencing its 1453 conquest.[^2]\n- **Khitab ba Jawanan-e-Islam** (*Bang-E-Dara Part 3*, ch. 13): Alludes to the defeat of the Persian Empire (\"crushed underfoot the crown upon the head of Darius\"), evoking the Rashidun Caliphate's triumphs like Qadisiyyah.[^3]\n\n### Defeats\n- **Bilad-e-Islamiya** (*Bang-E-Dara Part 3*, ch. 2): Laments the fall of Cordoba/Andalusia (\"Its flame went out, and scattered the Shining Nation's assembly\"), referring to the collapse of Muslim Spain culminating in Granada's surrender in 1492.[^2]\n- **Huzoor Risalat Ma'ab Mein** (*Bang-E-Dara Part 3*, ch. 11): Mentions \"the blood of Tripoli's martyrs,\" likely the Ottoman defeat and Italian occupation of Tripoli in 1911–1912.[^4]\n\n**No other Iqbal works in the corpus (*Bang-E-Dara Parts 1–2*) contain such specific historical references; they focus more on philosophy, nature, and spirituality.** These allusions serve Iqbal's themes of past Muslim dynamism versus modern decline.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 20 \"Shikwa\" (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-ec4443).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 2 \"Bilad-e-Islamiya\" (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/#p-43c1b0).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 13 \"Khitab ba Jawanan-e-Islam\" (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 11 \"Huzoor Risalat Ma'ab Mein\" (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/#p-e4e5a8).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Battle of Badr\" OR Uhud OR Yarmuk OR Qadisiyyah OR \"Hittin\" OR \"Ain Jalut\" OR Granada OR \"fall of Constantinople\" iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal (Badr OR Uhud OR Karbala OR Tariq OR Saladin OR Yarmuk OR Qadisiyyah OR Granada OR Constantinople OR \"Ain Jalut\" OR Hittin OR Andalusia OR Spain OR \"fall of Granada\")",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Badr OR Uhud OR Karbala OR Yarmuk OR Qadisiyyah OR \"Ain Jalut\" OR Hattin OR Granada OR Constantinople OR \"fall of Granada\" OR Andalusia",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Battle of\" OR Ghazwa OR jihad OR conquest OR victory Muslim",
+        "limit": 20
+      },
+      "result_summary": "Found 19 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.20\\nverse · 32¶ · 2057w · vocab 682 (TTR 68%, hapax 75%)\\n\\n## Distinctive trigrams\\n\\\"complaint choose path\\\" · \\\"choose p"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.23\\nverse · 11¶ · 205w · vocab 96 (TTR 91%, hapax 91%)\\n\\n## Distinctive trigrams\\n\\\"chin arab lands\\\" · \\\"arab lands story"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 02-bilad-e-islamiya.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.9\\nverse · 59¶ · 970w · vocab 394 (TTR 72%, hapax 77%)\\n\\n## Distinctive trigrams\\n\\\"royal graveyard sky\\\" · \\\"graveyard sk"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.13\\nverse · 2¶ · 268w · vocab 118 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"address muslim youth\\\" · \\\"muslim yout"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 3 · ch.11\\nverse · 12¶ · 219w · vocab 95 (TTR 83%, hapax 84%)\\n\\n## Distinctive trigrams\\n\\\"exalted prophet presence\\\" · \\\"prop"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 9
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "ec4443"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "1e5b8c"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "365462"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "e4e5a8"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "43c1b0",
+          "e0bfb3"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "c07dbc"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-ec4443"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-43c1b0"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-365462"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-e4e5a8"
+    }
+  ],
+  "duration_ms": 53347,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 89414,
+    "completion_tokens": 6752,
+    "total_tokens": 96166,
+    "cached_tokens": 65996,
+    "api_calls": 7,
+    "cost_usd": 0.011359399999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 723,
+        "total_tokens": 2624,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004594
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2566,
+        "completion_tokens": 671,
+        "total_tokens": 3237,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0005664
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4876,
+        "completion_tokens": 851,
+        "total_tokens": 5727,
+        "cached_tokens": 2561,
+        "cost_usd": 0.00101655
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13945,
+        "completion_tokens": 699,
+        "total_tokens": 14644,
+        "cached_tokens": 4871,
+        "cost_usd": 0.00240785
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 16397,
+        "completion_tokens": 903,
+        "total_tokens": 17300,
+        "cached_tokens": 13940,
+        "cost_usd": 0.0016399
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 24473,
+        "completion_tokens": 1314,
+        "total_tokens": 25787,
+        "cached_tokens": 16392,
+        "cost_usd": 0.0030928
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 25256,
+        "completion_tokens": 1591,
+        "total_tokens": 26847,
+        "cached_tokens": 24468,
+        "cost_usd": 0.0021765
+      }
+    ]
+  }
+}

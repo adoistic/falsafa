@@ -1,0 +1,327 @@
+{
+  "answer": "**Charles Comte's *Traité de la propriété: VOL II* (1834)** is the primary work in the corpus that discusses intellectual property, or what it terms \"property of inventions or industrial processes\" (chapters 29–30) and \"literary property\" (chapters 31–33).[^1][^2][^3][^4]\n\nComte dedicates chapter 29 (\"On the property of inventions or industrial processes\") to critiquing the notion that inventions confer natural property rights on inventors akin to first occupation of material goods, arguing instead that such \"privileges\" are temporary monopolies granted by governments (e.g., English letters patent under James I or French decrees of the Constituent Assembly).[^5] He rejects perpetual exclusivity as absurd, as it would halt progress, and traces historical legislation from Elizabeth I to Anglo-American laws.[^6] Chapter 30 (\"On the laws relative to the property of industrial inventions\") surveys English, French, and U.S. patent laws in detail, including requirements for novelty, specifications, durations (e.g., 14 years in England/U.S., 5–15 in France), and judicial interpretations favoring liberty over monopoly.[^7]\n\nChapters 31 (\"On the foundations and nature of literary property\"), 32 (\"On the causes that have deprived literary compositions of the guarantees accorded to other properties\"), and 33 (\"On the laws relative to the property of literary compositions\") argue that authors' works are true property (like other labor products), citing English common law precedents (e.g., Blackstone) and statutes (Queen Anne's 1710 act), French revolutionary laws (1791–1793), and U.S. acts. However, Comte laments limited durations (e.g., 14–28 years in England, life + 10 years in France post-1793) as turning property into temporary usufruct, influenced by feudal prejudices and public utility rationales.[^8]\n\n**Charles Dunoyer's *Nouveau traité d'économie: VOL II* (1827)** briefly critiques patents as monopolies analogous to medical diplomas, arguing they permit impunity for incompetence and hinder liberty in professions acting on men.[^9] This is tangential, not a focused discussion.\n\nNo other works in the corpus cover these topics; searches for related terms (e.g., \"intellectual property,\" \"copyright,\" \"rights of inventors/authors\") yielded zero results beyond these.[^10]\n\n[^1]: Charles Comte, *Traité de la propriété: VOL II*, [ch.29](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/).\n\n[^2]: Charles Comte, *Traité de la propriété: VOL II*, [ch.30](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/30-des-lois-relatives-a-la-propriete-des-inventions-i/translation/).\n\n[^3]: Charles Comte, *Traité de la propriété: VOL II*, [ch.31](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/31-des-fondemens-et-de-la-nature-de-la-propriete-litt/translation/).\n\n[^4]: Charles Comte, *Traité de la propriété: VOL II*, [ch.32](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/32-des-causes-qui-ont-prive-les-compositions-litterai/translation/) and [ch.33](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/33-des-lois-relatives-a-la-propriete-des-compositions/translation/).\n\n[^5]: Charles Comte, *Traité de la propriété: VOL II*, ch.29 [p-6bf8bb](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/#p-6bf8bb).\n\n[^6]: Charles Comte, *Traité de la propriété: VOL II*, ch.29 [p-f85794](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/#p-f85794) to [p-814e5c](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/#p-814e5c).\n\n[^7]: Charles Comte, *Traité de la propriété: VOL II*, ch.30 [p-6dd9e6](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/30-des-lois-relatives-a-la-propriete-des-inventions-i/translation/#p-6dd9e6).\n\n[^8]: Charles Comte, *Traité de la propriété: VOL II*, ch.31 [p-66656e](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/31-des-fondemens-et-de-la-nature-de-la-propriete-litt/translation/#p-66656e); ch.33 [p-503983](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/33-des-lois-relatives-a-la-propriete-des-compositions/translation/#p-503983).\n\n[^9]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, ch.18 [p-ea8982](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/18-viii-application-des-memes-moyens-de-liberte-aux-a/translation/#p-ea8982).\n\n[^10]: Corpus searches for \"intellectual property\" (0 hits), \"copyright\" (5 hits, all Comte VOL II), \"patent\" (20 hits, mostly Comte VOL II chs.29–30), \"rights of authors/inventors\" (0), etc., confirmed via `search_corpus`.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intellectual property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rights of authors\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rights of inventors\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "copyright",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "patent",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"property in ideas\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"exclusive right\" invention",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"literary property\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"inventions\" property",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"author\" monopoly",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 29
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.29\\nprose · 58¶ · 6572w · vocab 1138 (TTR 38%, hapax 57%)\\n\\n## Distinctive trigrams\\n\\\"privilege exploiting"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 30
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.30\\nprose · 52¶ · 6554w · vocab 1102 (TTR 36%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"godson *practical tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 31
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.31\\nprose · 48¶ · 5507w · vocab 1011 (TTR 41%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"according common law"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 33
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.33\\nprose · 53¶ · 6543w · vocab 1262 (TTR 40%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"eighth year reign\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 32
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.32\\nprose · 36¶ · 4374w · vocab 825 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"fall public domain\\\" "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 30,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.30 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 31,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.31 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 32,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.32 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 33,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.33 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 18,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.18 of charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 18,
+      "paragraph_id": "p-6bf8bb"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 18,
+      "paragraph_id": "p-f85794"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 18,
+      "paragraph_id": "p-814e5c"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 18,
+      "paragraph_id": "p-6dd9e6"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 18,
+      "paragraph_id": "p-66656e"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 18,
+      "paragraph_id": "p-503983"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 18,
+      "paragraph_id": "p-ea8982"
+    }
+  ],
+  "duration_ms": 44954,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 105576,
+    "completion_tokens": 5145,
+    "total_tokens": 110721,
+    "cached_tokens": 30625,
+    "api_calls": 5,
+    "cost_usd": 0.01909395,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 695,
+        "total_tokens": 2597,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007054
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5860,
+        "completion_tokens": 856,
+        "total_tokens": 6716,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0013171
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "list_works"
+        ],
+        "prompt_tokens": 8184,
+        "completion_tokens": 735,
+        "total_tokens": 8919,
+        "cached_tokens": 5855,
+        "cost_usd": 0.00112605
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 14560,
+        "completion_tokens": 1014,
+        "total_tokens": 15574,
+        "cached_tokens": 8179,
+        "cost_usd": 0.00219215
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 75070,
+        "completion_tokens": 1845,
+        "total_tokens": 76915,
+        "cached_tokens": 14555,
+        "cost_usd": 0.01375325
+      }
+    ]
+  }
+}

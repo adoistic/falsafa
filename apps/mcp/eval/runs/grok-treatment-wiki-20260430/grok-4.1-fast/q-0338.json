@@ -1,0 +1,202 @@
+{
+  "answer": "Iqbal's poem \"Phool ka Tohfa Ata Hone Par\" (ch. 15 of *Bang-E-Dara Part 3*) indeed stands out as a tender, intimate reflection amid the volume's predominantly philosophical and exhortatory tone—evident in surrounding chapters like \"Khitab ba Jawanan-e-Islam\" (Address to Muslim Youth, ch. 13) and \"Tarana-e-Milli\" (Anthem of the Community, ch. 23), which urge spiritual revival and communal action.[^1] The poem personifies a garden's buds praying to be plucked by a graceful woman (\"queen of graceful airs\"), celebrating the severed flower's fulfillment while lamenting the speaker's own untouched \"lotus\" as a symbol of unrealized beauty and longing in youth—a melancholic meditation on desire, severance, and purpose.[^2]\n\nIn contrast, *Bang-E-Dara Part 1* features lighter, child-oriented poems that employ simple imagery, moral fables, and innocent wonder, often with didactic optimism suited for young readers. For instance, \"Bachay Ki Dua\" (A Child's Prayer, ch. 16) is a straightforward supplication for a life of service: like a candle's light banishing darkness, a flower's adornment to the garden, or a moth's devotion to knowledge—pure aspiration without the pathos of unfulfillment.[^3] Similarly, \"Bacha aur Shama\" (Child and Candle, ch. 15) captures a mother's gentle dialogue with her wonderstruck child, drawn to the flame, unfolding into a celebration of Beauty's ubiquity in nature (mountains, rivers, birdsong), veiled only by human perception—a philosophical spark delivered playfully.[^4] Even the fable \"Ek Makra aur Makhi\" (A Spider and a Fly, ch. 20) uses animal protagonists for a cautionary tale against flattery, ending abruptly with the fly's devouring: whimsical yet moralistic, lacking the erotic undertones or existential wistfulness of the flower-gift poem.[^5]\n\nThe Part 3 poem's sensuous garden (with rivals \"writhe\" in envy) elevates a gift into Sufi-like ecstasy-through-separation, threading personal emotion into the volume's deeper themes. Part 1's children's verses, by comparison, prioritize moral uplift and sensory delight—brighter, less shadowed, priming Iqbal's vision of empowerment from innocence rather than reflective solitude.[^6]\n\n[^1]: *Bang-E-Dara Part 3*, ch. 13 (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/) and ch. 23 (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/).\n[^2]: *Bang-E-Dara Part 3*, ch. 15 (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/15-phool-ka-tohfa-ata-hone-par/translation/#p-10eae3).\n[^3]: *Bang-E-Dara Part 1*, ch. 16 (/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/).\n[^4]: *Bang-E-Dara Part 1*, ch. 15 (/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/).\n[^5]: *Bang-E-Dara Part 1*, ch. 20 (/works/allama-iqbal-bang-e-dara-part-1-55b25c/20-ek-makra-aur-makhi/translation/).\n[^6]: *Bang-E-Dara Part 1* (/works/allama-iqbal-bang-e-dara-part-1-55b25c/wiki/_work.card.md); *Bang-E-Dara Part 3* (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/wiki/_work.card.md).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Phool ka Tohfa\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"flower\" \"gift\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"phool\" OR \"flower\" OR \"gift\" OR \"tohfah\" iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 15
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.15\\nverse · 1¶ · 151w · vocab 73 (TTR 89%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"she queen graceful\\\" · \\\"queen graceful"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 15
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 16-bachay-ki-dua.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 15-bacha-aur-shama.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 20
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 20,
+      "paragraph_id": "p-10eae3"
+    }
+  ],
+  "duration_ms": 38603,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 34007,
+    "completion_tokens": 4467,
+    "total_tokens": 38474,
+    "cached_tokens": 17226,
+    "api_calls": 4,
+    "cost_usd": 0.006451,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1933,
+        "completion_tokens": 555,
+        "total_tokens": 2488,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006416
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2493,
+        "completion_tokens": 747,
+        "total_tokens": 3240,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00058995
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12712,
+        "completion_tokens": 924,
+        "total_tokens": 13636,
+        "cached_tokens": 2488,
+        "cost_usd": 0.0026312
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "read_wiki",
+          "read_chapter",
+          "read_wiki",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 16869,
+        "completion_tokens": 2241,
+        "total_tokens": 19110,
+        "cached_tokens": 12707,
+        "cost_usd": 0.00258825
+      }
+    ]
+  }
+}

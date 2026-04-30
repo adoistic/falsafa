@@ -1,0 +1,142 @@
+{
+  "answer": "**The Falsafa corpus contains Allama Iqbal's *Bang-e-Dara* (The Call of the Marching Bell) across three parts (1924), his major collection of Urdu poems translated into English with transliterations available.[^1][^2][^3] These works explore themes of Islamic renaissance, self-realization, nationalism, and spiritual awakening through verse, but they do not discuss or analyze Iqbal's linguistic choices—such as mixing Persian, Arabic, or native Urdu vocabulary—or how such choices serve specific doctrinal purposes across different poems.**\n\n**Iqbal is known historically for writing in both Urdu (e.g., *Bang-e-Dara*) and Persian (e.g., *Asrar-i Khudi*, *Rumuz-i Bekhudi*), often drawing on Arabic for religious concepts, but the corpus includes only his Urdu poetry here. Searches for terms like \"Persian,\" \"Arabic,\" \"Urdu,\" or \"vocabulary\" in connection with Iqbal yield no results in the English translations or metadata.[^4] The wiki cards and chapter previews highlight poetic content, trigrams, and collocations in translation (e.g., \"homeland land mine,\" \"endless loving care\"), but nothing on original-language vocabulary strategies or doctrinal adaptations.[^5]**\n\n**This specific question about vocabulary serving doctrinal needs cannot be answered from the corpus, which prioritizes the primary texts over linguistic criticism or stylistic analysis.**",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Iqbal\" Persian",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Iqbal\" Arabic",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Iqbal\" Urdu",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Persian\" \"Arabic\" \"Urdu\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vocabulary Persian Arabic Urdu Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 26110,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 14874,
+    "completion_tokens": 3126,
+    "total_tokens": 18000,
+    "cached_tokens": 7712,
+    "api_calls": 3,
+    "cost_usd": 0.0033810000000000003,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 641,
+        "total_tokens": 2548,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006794
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5686,
+        "completion_tokens": 1547,
+        "total_tokens": 7233,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00162855
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "read_wiki"
+        ],
+        "prompt_tokens": 7281,
+        "completion_tokens": 938,
+        "total_tokens": 8219,
+        "cached_tokens": 5681,
+        "cost_usd": 0.00107305
+      }
+    ]
+  }
+}

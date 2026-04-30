@@ -1,0 +1,371 @@
+{
+  "answer": "**In \"Soul and Body II\"**, the soul returns repeatedly after death to berate the corpse for its earthly sins, culminating in a mutual accountability at Doomsday.[^1] The most uncomfortable line for the body—the one it would least like addressed to it—is the soul's prophecy of inescapable joint torment: \"For you must answer for us both on that great day... But what will you say to the Lord there on Doomsday? ... Then we must together forever endure such miseries as you prescribed for us.\"[^2] This tradition is most worried about the body's indulgence in \"wicked pleasures\" corrupting the soul, dooming both to Christ's final judgment.[^3]\n\n**In the Smṛti tradition** (e.g., Yama Smṛti, Maṇusmṛti, Aṅgirasa Smṛti), the soul is delivered post-death to Yama (god of death) for judgment on karma/dharma violations, often via torments before rebirth.[^4] No verbatim \"soul returns to address body\" exists, but Yama (or equivalents) indicts sinners; the most uncomfortable line (Yama to sage on unrepentant sinners) is: \"so many spikes he swallows upon reaching Yama, the son of Vivasvat.\"[^5] This tradition is most worried about unexpiated sins/caste breaches accumulating as karmic debt, adjudicated by Yama into hellish rebirths.[^6]\n\n[^1]: *Old English Elegies*, ch.10 [chapter](/works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/).\n[^2]: Ibid., [p-7f7247](/works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/#p-7f7247).\n[^3]: Ibid., [p-00ea0f](/works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/#p-00ea0f), [p-34bcc7](/works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/#p-34bcc7).\n[^4]: *Aṅgirasa Smṛti*, ch.1 [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-3c396a); *Maṇusmṛti*, ch.12 [p-12.21](/works/unknown-manusmrti-347b76/12/translation/#p-12.21?query=Yama).\n[^5]: *Aṅgirasa Smṛti*, ch.1 [p-3c396a](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-3c396a).\n[^6]: *Maṇusmṛti*, ch.12 [p-a549f5](/works/unknown-manusmrti-347b76/12/translation/#p-a549f5) to [p-e464cc](/works/unknown-manusmrti-347b76/12/translation/#p-e464cc); *Yama Smṛti*, ch.1 [chapter](/works/unknown-yama-smrti-552f8d/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Soul and Body",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yama smriti",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Soul and Body II\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "delivered to Yama",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 10
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.10\\nprose · 4¶ · 917w · vocab 318 (TTR 72%, hapax 77%)\\n\\n## Distinctive trigrams\\n\\\"flesh wicked pleasures\\\" · \\\"truly be"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yama",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smriti",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"delivered to\" death"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "hindu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 10,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.10 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d"
+      },
+      "result_summary": "Listed 2 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"to Yama\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yamaduta"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"messengers of Yama\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yama Smṛti · ch.1\\nverse · 63¶ · 2149w · vocab 523 (TTR 53%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"two *aindava* vows\\\" · \\\"one perform *sāṃtap"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yama Smṛti · ch.2\\nverse · 77¶ · 2318w · vocab 531 (TTR 47%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"fined one hundred\\\" · \\\"his sacred fire\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Yama's messengers\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yama judgment soul"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"slug\":\"unknown-angirasa-smrti-2bf9d1\",\"title\":\"Āṅgirasa Smṛti\",\"author\":\"Aṅgirasa\",\"author_slug\":\"angirasa\",\"era\":\"Ancient\",\"era_slug\":\"ancient\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language\":\"S"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yama-smrti-552f8d (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-yama-smrti-552f8d (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-7f7247"
+    },
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-00ea0f"
+    },
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-34bcc7"
+    },
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-3c396a"
+    },
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-a549f5"
+    },
+    {
+      "work_slug": "unknown-yama-smrti-552f8d",
+      "chapter_number": 2,
+      "paragraph_id": "p-e464cc"
+    }
+  ],
+  "duration_ms": 68455,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 183386,
+    "completion_tokens": 8547,
+    "total_tokens": 191933,
+    "cached_tokens": 59799,
+    "api_calls": 6,
+    "cost_usd": 0.031980850000000005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1950,
+        "completion_tokens": 666,
+        "total_tokens": 2616,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00044085
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2786,
+        "completion_tokens": 770,
+        "total_tokens": 3556,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009197
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 8782,
+        "completion_tokens": 1501,
+        "total_tokens": 10283,
+        "cached_tokens": 2781,
+        "cost_usd": 0.00208975
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11914,
+        "completion_tokens": 1237,
+        "total_tokens": 13151,
+        "cached_tokens": 8777,
+        "cost_usd": 0.00168475
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 34306,
+        "completion_tokens": 2685,
+        "total_tokens": 36991,
+        "cached_tokens": 11909,
+        "cost_usd": 0.00641735
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_metadata",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 123648,
+        "completion_tokens": 1688,
+        "total_tokens": 125336,
+        "cached_tokens": 34301,
+        "cost_usd": 0.02042845
+      }
+    ]
+  }
+}

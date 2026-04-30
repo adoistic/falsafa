@@ -1,0 +1,152 @@
+{
+  "answer": "**The matlaʿ (opening couplet) of *Bang-e-Dara* Part 1, chapter 13, states:**\n\n> Zahir ki aankh se na tamasha kare koi  \n> Ho dekhna to deeda-e-dil wa kare koi[^1]\n\nIts claim is a caution against superficial, outward observation (*zahīr kī āñkh se tamāshā*) of spectacles—likely worldly phenomena, divine realities, or mystical experiences—and an exhortation to perceive truly only through the \"eye of the heart\" (*dīdā-e-dil*), emphasizing inner, spiritual vision over literal sight.[^2]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 13 (\"Zahir ki aankh se na tamasha kare koi\") [paragraph](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/13-zahir-ki-aankh-se-na-tamasha-kare-koi/transliteration/#p-464c98).\n\n[^2]: The poem continues this theme, referencing the mystic Mansoor (al-Hallaj), who faced execution for ecstatic declarations of divine union, underscoring that true love (*ishq*) demands inner sight, not claims provable by outward eyes.[^1] No English translation is available in the corpus for this chapter (only original and transliteration variants).",
+  "tool_calls": [
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "bang-e-dara"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: bang-e-dara"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Zahir ki aankh se na tamasha kare koi\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bang-e-dara chapter 13"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 13
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 13-zahir-ki-aankh-se-na-tamasha-kare-koi.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "error VARIANT_NOT_FOUND: Variant 'translation' not found in allama-iqbal-bang-e-dara-part-1-55b25c chapter 13"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 13,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-464c98"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 13,
+      "paragraph_id": "p-464c98"
+    }
+  ],
+  "duration_ms": 27570,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 34733,
+    "completion_tokens": 3518,
+    "total_tokens": 38251,
+    "cached_tokens": 27106,
+    "api_calls": 5,
+    "cost_usd": 0.0046397,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1920,
+        "completion_tokens": 776,
+        "total_tokens": 2696,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00048985
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7123,
+        "completion_tokens": 250,
+        "total_tokens": 7373,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00126745
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 7254,
+        "completion_tokens": 389,
+        "total_tokens": 7643,
+        "cached_tokens": 7118,
+        "cost_usd": 0.0005776
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 8982,
+        "completion_tokens": 692,
+        "total_tokens": 9674,
+        "cached_tokens": 7249,
+        "cost_usd": 0.00105505
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 9454,
+        "completion_tokens": 1411,
+        "total_tokens": 10865,
+        "cached_tokens": 8977,
+        "cost_usd": 0.00124975
+      }
+    ]
+  }
+}

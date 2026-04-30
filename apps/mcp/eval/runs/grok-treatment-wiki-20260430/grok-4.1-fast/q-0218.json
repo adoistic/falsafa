@@ -1,0 +1,302 @@
+{
+  "answer": "In Mirza Ghalib's ghazal \"Naala-e-dil mein shab andaaz-e-asar naayaab tha\" (Diwan-E-Ghalib, ch. 149), the heart is figured as *naala*—a lament rendered physical, restless, and volatile like a \"nervous spark\" amid a rival's feast, yet transforming into something impotent: \"My heart’s lament, last night, had lost its power to move.\"[^1] This *naala* erupts in a \"flood of tears\" and \"storm of calamitous fate,\" where the sky drowns in its deluge, but ultimately fizzles, restrained lest it overwhelm all.[^2] The transformation is one of exhaustion: from embodied, sparking agony to futile, contained excess, underscoring love's rivalry and the beloved's indifference.\n\nIn Allama Iqbal's \"Nawa-e-Gham\" (Bang-E-Dara Part 2, ch. 19), lament-imagery centers on the self as a \"silent, waiting lute\" harboring mute songs in its bosom, revered by the cosmos yet untouched by love's \"plectrum.\"[^3] A \"celestial sigh\" from \"Sinai's hill\" transforms this silence: it plucks \"the single string of life,\" releasing a \"faint sound of a hopeless song\"—a \"marching-bell for caravans of cries\" that elevates the soul and nature itself \"in sorrow's song its height.\"[^4] Here, lament evolves from latent, guarded quietude to resonant melody, divinely sparked, affirming sorrow as ascent and self-realization.\n\nGhalib's *naala* physicalizes heartbreak into chaotic, rival-thwarted fire that burns out; Iqbal's transmutes inner silence into cosmic, prophetic song via grace.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/149-naala-e-dil-mein-shab-andaaz-e-asar-naayaab-tha/translation/#p-0cd48c).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/149-naala-e-dil-mein-shab-andaaz-e-asar-naayaab-tha/translation/#p-948b46).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 2*, [passage](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/19-nawa-e-gham/translation/#p-635722).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 2*, [passage](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/19-nawa-e-gham/translation/#p-a7ec60).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naala heart",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Nawa-e-Gham\"",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "naala dil OR heart lament Ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 19,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 149
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.149\\nverse · 12¶ · 281w · vocab 124 (TTR 87%, hapax 87%)\\n\\n## Distinctive trigrams\\n\\\"heart lament last\\\" · \\\"lament last n"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 75
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.75\\nverse · 11¶ · 244w · vocab 126 (TTR 86%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"flood sighs leaves\\\" · \\\"sighs leaves "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 212
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.212\\nverse · 3¶ · 63w · vocab 32 (TTR 86%, hapax 91%)\\n\\n## Distinctive trigrams\\n\\\"sighs compound interest\\\" · \\\"compound inte"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 6
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 06-aamad-e-khat-se-hua-hai-sard-jo-bazaar-e-dost.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" naala OR groan OR wail OR lament Ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dil naala",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 149,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.149 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 75,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.75 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 212,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.212 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 149,
+        "paragraph_ids": [
+          "p-0cd48c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 149,
+        "paragraph_range": {
+          "start": 0,
+          "end": 1
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 19,
+        "paragraph_ids": [
+          "p-fd7909",
+          "p-635722",
+          "p-12f19a",
+          "p-380e0d",
+          "p-5c0a90",
+          "p-584129",
+          "p-adb355",
+          "p-a7ec60",
+          "p-a766ad"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 9 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-0cd48c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-948b46"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-635722"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-a7ec60"
+    }
+  ],
+  "duration_ms": 66770,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 51026,
+    "completion_tokens": 6331,
+    "total_tokens": 57357,
+    "cached_tokens": 28193,
+    "api_calls": 5,
+    "cost_usd": 0.00914175,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1927,
+        "completion_tokens": 1086,
+        "total_tokens": 3013,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00064625
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6857,
+        "completion_tokens": 1523,
+        "total_tokens": 8380,
+        "cached_tokens": 150,
+        "cost_usd": 0.0021104
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10748,
+        "completion_tokens": 949,
+        "total_tokens": 11697,
+        "cached_tokens": 150,
+        "cost_usd": 0.0026016
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 15274,
+        "completion_tokens": 1294,
+        "total_tokens": 16568,
+        "cached_tokens": 10743,
+        "cost_usd": 0.00209035
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 16220,
+        "completion_tokens": 1479,
+        "total_tokens": 17699,
+        "cached_tokens": 15269,
+        "cost_usd": 0.00169315
+      }
+    ]
+  }
+}

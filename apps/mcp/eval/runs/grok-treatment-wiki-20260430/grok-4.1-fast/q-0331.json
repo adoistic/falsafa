@@ -1,0 +1,315 @@
+{
+  "answer": "In \"Huzoor Risalat Ma'ab Mein\" (*Bang-E-Dara Part 3*, ch. 11), Iqbal depicts himself in a visionary audience with the Prophet Muhammad (peace be upon him), employing the utmost reverence and poetic deference in the address.[^1] The poem opens by situating the scene explicitly \"In the Exalted Prophet's Presence,\" portraying the Prophet as \"Mercy's guiding Light.\"[^2] The Prophet himself initiates dialogue with exalted, metaphorical praise—\"O Nightingale of Hijaz's garden-bower\"—elevating Iqbal's poetry as heart-melting and devotionally intoxicating.[^3] Iqbal's sole direct address in response is a humble invocation: \"O Presence!\"—a terse, worshipful plea amid lamentation over worldly woes, underscoring total submission and spiritual elevation.[^4]\n\nBy contrast, in \"Sach keh doon ae Brahman! gar tu bura na maane\" (*Bang-E-Dara Part 1*, ch. 36), Iqbal addresses a Brahmin directly yet courteously, softening his impending critique with a conditional plea for tolerance: \"O Brahmin, if you will not take offense.\"[^5] This familiar \"O Brahmin\" (transliterated as *ae Brahman*) signals equality among humans, not divine hierarchy, while the preface acknowledges potential offense, blending candor with empathy before challenging idol worship and religious division.[^6] The tone shifts to fraternal invitation—\"Come, let us lift the veils of otherness\"—proposing shared renewal without subservience.[^7]\n\n**Etiquette comparison**: The address to the Prophet is hierarchically supreme—honorific-laden, visionary, and prostrate, befitting Islam's ultimate spiritual authority and Iqbal's self-positioning as a humble petitioner in a celestial court. The Brahmin address, however, is egalitarian and diplomatic: direct, preemptively polite, and reconciliatory, treating the addressee as a peer in earthly critique and unity, without flattery or exaltation. Both reflect Iqbal's contextual decorum—sacred awe for the divine exemplar, respectful candor for a religious interlocutor.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 11 (\"Huzoor Risalat Ma'ab Mein\"), [translation/](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/).\n\n[^2]: Ibid., [p-50452a](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/#p-50452a).\n\n[^3]: Ibid., [p-c8ea02](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/#p-c8ea02), [p-ae07ba](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/#p-ae07ba), [p-f1396d](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/#p-f1396d).\n\n[^4]: Ibid., [p-14a317](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/#p-14a317).\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 36 (\"Sach keh doon ae Brahman! gar tu bura na maane\"), [translation/](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/).\n\n[^6]: Ibid., [p-752d60](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-752d60), [p-c536e2](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-c536e2).\n\n[^7]: Ibid., [p-3a582d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-3a582d).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Huzoor Risalat-Maab"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sach Keh Doon Ae Brahman"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Huzoor Risalat-Maab Mein\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sach Keh Doon Ae Brahman\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Huzoor Risalat"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Huzur Risalat"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Risalat-Maab\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 3 · ch.11\\nverse · 12¶ · 219w · vocab 95 (TTR 83%, hapax 84%)\\n\\n## Distinctive trigrams\\n\\\"exalted prophet presence\\\" · \\\"prop"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.36 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-50452a",
+          "p-14a317"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-c8ea02",
+          "p-ae07ba",
+          "p-f1396d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "paragraph_ids": [
+          "p-752d60",
+          "p-c536e2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "paragraph_ids": [
+          "p-3a582d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-50452a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-c8ea02"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-ae07ba"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-f1396d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-14a317"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-752d60"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-c536e2"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-3a582d"
+    }
+  ],
+  "duration_ms": 38552,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 48252,
+    "completion_tokens": 5063,
+    "total_tokens": 53315,
+    "cached_tokens": 35899,
+    "api_calls": 6,
+    "cost_usd": 0.006797050000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1923,
+        "completion_tokens": 616,
+        "total_tokens": 2539,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006701
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2877,
+        "completion_tokens": 577,
+        "total_tokens": 3454,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00058175
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 9484,
+        "completion_tokens": 380,
+        "total_tokens": 9864,
+        "cached_tokens": 2872,
+        "cost_usd": 0.001656
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 9993,
+        "completion_tokens": 418,
+        "total_tokens": 10411,
+        "cached_tokens": 9479,
+        "cost_usd": 0.00078575
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 11534,
+        "completion_tokens": 1240,
+        "total_tokens": 12774,
+        "cached_tokens": 9988,
+        "cost_usd": 0.0014286
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 12441,
+        "completion_tokens": 1832,
+        "total_tokens": 14273,
+        "cached_tokens": 11529,
+        "cost_usd": 0.00167485
+      }
+    ]
+  }
+}

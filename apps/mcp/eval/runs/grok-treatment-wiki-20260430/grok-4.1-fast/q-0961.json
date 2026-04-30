@@ -1,0 +1,316 @@
+{
+  "answer": "**The Wife's Lament** (ch. 3 of *Old English Elegies*, anonymous, Old English): The speaker, a woman exiled and confined to a cave under an oak tree after her husband's kin plotted to separate them, wants reunion with her husband, to whom she swore eternal vows.[^1] The text presents this as unattainable: she dwells joylessly alone, weeping endlessly through \"paths of exile,\" while he suffers in a \"dreary hall\"; it ends with generalized woe for \"the one who must in longing wait for the beloved,\" implying perpetual sorrow without resolution.[^2]\n\n**Maa ka Khwab** (\"Mother's Dream,\" ch. 29 of *Bang-E-Dara Part 1* by Allama Iqbal): In her dream, the mother—tormented by her son's absence—wants him to return home and care for her, as she strings \"each day a garland of [her] tears\" over his departure.[^3] The text reveals through the son's rebuke that she hinders his own path (he trails a procession of lamp-bearing boys because \"your tears... have extinguished it\"), suggesting her desire traps him; her possessiveness prevents both reunion and his success, with no fulfillment indicated.[^4]\n\n[^1]: *Old English Elegies*, ch. 3 (*The Wife's Lament*), [p-66ceaf](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/#p-66ceaf).\n[^2]: *Old English Elegies*, ch. 3 (*The Wife's Lament*), [p-956fe7](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/#p-956fe7).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 29 (*Maa ka Khwab*), [p-c4bed6](/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/#p-c4bed6).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 29 (*Maa ka Khwab*), [p-4feffc](/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/#p-4feffc).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife's lament\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"maa ka khwab\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mother's dream\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wife lament"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife's lament\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mother dream iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mother\" dream iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.3\\nprose · 6¶ · 407w · vocab 165 (TTR 77%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"under oak tree\\\" · \\\"oak tree earth-ca"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Old English Elegies · ch.5\\nprose · 11¶ · 1002w · vocab 366 (TTR 72%, hapax 80%)\\n\\n## Distinctive trigrams\\n\\\"make true song\\\" · \\\"true song my"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mother dream"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"maa ka khwab\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mother's dream"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.3\\nprose · 6¶ · 407w · vocab 165 (TTR 77%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"under oak tree\\\" · \\\"oak tree earth-ca"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.29\\nverse · 15¶ · 222w · vocab 86 (TTR 82%, hapax 85%)\\n\\n## Distinctive trigrams\\n\\\"one night slept\\\" · \\\"night slept saw\\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 29,
+      "paragraph_id": "p-66ceaf"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 29,
+      "paragraph_id": "p-956fe7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 29,
+      "paragraph_id": "p-c4bed6"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 29,
+      "paragraph_id": "p-4feffc"
+    }
+  ],
+  "duration_ms": 44374,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 55599,
+    "completion_tokens": 4725,
+    "total_tokens": 60324,
+    "cached_tokens": 35467,
+    "api_calls": 5,
+    "cost_usd": 0.00816225,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1939,
+        "completion_tokens": 572,
+        "total_tokens": 2511,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006513
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5862,
+        "completion_tokens": 1057,
+        "total_tokens": 6919,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00141875
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10043,
+        "completion_tokens": 1271,
+        "total_tokens": 11314,
+        "cached_tokens": 5857,
+        "cost_usd": 0.00176555
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17546,
+        "completion_tokens": 465,
+        "total_tokens": 18011,
+        "cached_tokens": 10038,
+        "cost_usd": 0.002236
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 20209,
+        "completion_tokens": 1360,
+        "total_tokens": 21569,
+        "cached_tokens": 17541,
+        "cost_usd": 0.00209065
+      }
+    ]
+  }
+}

@@ -1,0 +1,336 @@
+{
+  "answer": "**Iqbal's operative claims in \"Wataniyat\" (Bang-E-Dara Part 3, ch. 25):**\n\nIqbal portrays the modern Nation (\"wataniyat\") as the greatest idol forged by contemporary philosophy and civilization, which desecrates faith by appropriating religion's garb.[^1] He contrasts state discourse, where \"Homeland\" (*wataniyat*) is mere land, with the Prophet's teaching, where it is divinely commanded and universal.[^2] Territorial confinement is a calamity; true freedom for Muslims lies in the global ocean of Islam, echoing the Prophet's migratory way.[^3] Nationalism fosters rivalry among peoples, turns trade into conquest, corrupts politics with deceit, subjugates the weak, fragments God's creation, and severs Islam's brotherhood—urging its destruction as a hollow idol.[^4]\n\n**Charles Comte's operative claims on national territory (Traité de la propriété Vol. I):**\n\nComte establishes national territory as the highest property after common things, naturally belonging to each people/nation as its basin defined by mountains/seas, essential for existence and enclosing all lesser properties (individual/communal/provincial); even egalitarians recognize it as indestructible.[^5] This territory originates in natural occupation by families/tribes/hordes since antiquity, guaranteed by necessity/defense rather than governments.[^6] Its conversion into private properties via cultivation advances society: savages needing vast uncultivated land for hunting yield to agriculturists who multiply subsistence/population/wealth on fractions thereof, abandoning \"primitive\" shares while enhancing communal value—thus no usurpation, but creation of security, industry, and progress from barbarism.[^7]\n\n**Substantive disagreement vs. vocabulary difference:**\n\nThe core tension is substantive, not mere vocabulary. Iqbal rejects *territorial confinement as such*—even natural/divine—as idolatrous when elevated to \"Nation,\" prioritizing Islamic universalism/brotherhood over bounded loyalty, which inevitably breeds rivalry/conquest.[^8] Comte *affirms* bounded territory (natural, not arbitrary) as foundational property enabling moral/civilizational progress: secure existence, labor division, population growth, wealth creation, and escape from savage misery—implicitly moral via liberty/property rights vs. violence/slavery.[^9]\n\nVocabulary partially diverges: Iqbal's \"Nation\" evokes 20th-century political nationalism (statist, rivalrous, faith-usurping idol); Comte's \"nation/peuple\" denotes pre-political natural grouping (tribal/ethnic basin-occupiers), akin to extended family property. Yet substantively, both address *territorial bounding*: Iqbal deems it calamitous/divisive; Comte, providential/progressive. No corpus evidence of Comte explicitly tying it to \"moral progress,\" but his framework frames property-secured cultivation as civilizational ascent (physical/intellectual/moral implicitly). Iqbal's religious universalism clashes with Comte's naturalistic particularism; the corpus lacks direct reconciliation.\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, [ch. 25 \"Wataniyat\"](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-79b1e9).\n\n[^2]: Charles Comte, *Traité de la propriété: VOL I*, [ch. 25 \"Wataniyat\"](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-a723b2).\n\n[^3]: Charles Comte, *Traité de la propriété: VOL I*, [ch. 25 \"Wataniyat\"](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-a723b2).\n\n[^4]: Charles Comte, *Traité de la propriété: VOL I*, [ch. 25 \"Wataniyat\"](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-97937b).\n\n[^5]: Charles Comte, *Traité de la propriété: VOL I*, [ch. 7 \"Du territoire propre à chaque nation\"](https://falsafa-corpus.com/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-2cfb18).\n\n[^6]: Charles Comte, *Traité de la propriété: VOL I*, [ch. 7 \"Du territoire propre à chaque nation\"](https://falsafa-corpus.com/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-982e4a); [ch. 8 \"Des limites naturelles du territoire propre à chaque nation... \"](https://falsafa-corpus.com/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/08-des-limites-naturelles-du-territoire-propre-a-chaq/translation/#p-f47250).\n\n[^7]: Charles Comte, *Traité de la propriété: VOL I*, [ch. 10 \"De la conversion du territoire national en propriétés privées\"](https://falsafa-corpus.com/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/10-de-la-conversion-du-territoire-national-en-proprie/translation/#p-30fbf4).\n\n[^8]: Allama Iqbal, *Bang-E-Dara Part 3*, [ch. 25 \"Wataniyat\"](https://falsafa-corpus.com/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/).\n\n[^9]: Charles Comte, *Traité de la propriété: VOL I*, [ch. 10 \"De la conversion du territoire national en propriétés privées\"](https://falsafa-corpus.com/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/10-de-la-conversion-du-territoire-national-en-proprie/translation/#p-944baa).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Wataniyat"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"territorial nationalism\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nation-building\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Comte nation moral progress"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 25-wataniyat.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "territory nation"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "national property moral"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral progress\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nation property"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "national territory"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "progress nation"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 0
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.0\\nprose · 53¶ · 4639w · vocab 1015 (TTR 49%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"natural order ideas\\\" "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 10
+      },
+      "result_summary": "Read ch.10 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 8
+      },
+      "result_summary": "Read ch.8 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "moral progress"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "progress territory"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 8,
+      "paragraph_id": "p-79b1e9"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 8,
+      "paragraph_id": "p-a723b2"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 8,
+      "paragraph_id": "p-97937b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 8,
+      "paragraph_id": "p-2cfb18"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 8,
+      "paragraph_id": "p-982e4a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 8,
+      "paragraph_id": "p-f47250"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 8,
+      "paragraph_id": "p-30fbf4"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 8,
+      "paragraph_id": "p-944baa"
+    }
+  ],
+  "duration_ms": 62401,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 70107,
+    "completion_tokens": 6225,
+    "total_tokens": 76332,
+    "cached_tokens": 33567,
+    "api_calls": 5,
+    "cost_usd": 0.01209885,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1928,
+        "completion_tokens": 604,
+        "total_tokens": 2532,
+        "cached_tokens": 1884,
+        "cost_usd": 0.000405
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4557,
+        "completion_tokens": 1076,
+        "total_tokens": 5633,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00116725
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 7265,
+        "completion_tokens": 1088,
+        "total_tokens": 8353,
+        "cached_tokens": 4552,
+        "cost_usd": 0.0013142
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 17995,
+        "completion_tokens": 1067,
+        "total_tokens": 19062,
+        "cached_tokens": 7260,
+        "cost_usd": 0.0030435
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 38362,
+        "completion_tokens": 2390,
+        "total_tokens": 40752,
+        "cached_tokens": 17990,
+        "cost_usd": 0.0061689
+      }
+    ]
+  }
+}

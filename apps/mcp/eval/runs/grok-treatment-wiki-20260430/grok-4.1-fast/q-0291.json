@@ -1,0 +1,302 @@
+{
+  "answer": "**'Hāh' (ch. 11) and 'Nawā-e-Gham' (ch. 19) both appear in *Bang-E-Dara Part 2*, Iqbal's 1924 Urdu poetry collection, confirming they share the same volume.[^3]**\n\nBoth poems operate in a lament-register, framed as cries ('Hāh' = \"Alas!\" or an interjection of grief; 'Nawā-e-Gham' = \"The Melody of Sorrow\"). Their rhetoric coincides in rejecting deferred consolations—afterlife paradises or unplucked potential—in favor of the immediate, vital *pulse* of existence: youth's burning longing in 'Hāh', the lute-like life's silent songs in 'Nawā-e-Gham'. Exclamations (\"Ah, Youth!\", \"Alas!\") and metaphors of contained fire/energy (youth's \"hopeful longing burn\", life's \"bosom holds all songs\") underscore a shared urgency to seize or elevate the present amid existential frustration.[^1][^2]\n\n**'Hāh' stakes its territory in defiant carpe diem for youth**, scorning Houris, Saqi, and Paradise as \"too late\" for a soul craving instant joy:  \n> How strange and wondrous is this very pulse of life!  \n> For Youth's one creed is *'The Joy of Today,'* beyond all strife.[^4]\n\nIts most charged line pulses with wonder at life's immediacy, prioritizing earthly \"beauty\" that \"needs [no] practiced eye\" over eschatological bait.[^5]\n\n**'Nawā-e-Gham' carves out sorrow (*gham*) as soul-elevating ascent**, likening life to a \"silent, waiting lute\" whose \"hopeless song\" rises via divine sigh from Sinai, culminating in transformative height:  \n> As dew is raised by its desire for flight,  \n> My nature finds in sorrow's song its height.[^6]\n\nIts peak charge lies here, where grief's \"marching-bell\" (*nawā*)—not joy—frees the \"imprisoned\" soul, nearest in corpus to *Bang-E-Dara Part 3*'s \"Philosophy of Sorrow\" (ch. 7).[^7]\n\n'Hāh' claims youth's bold now; 'Nawā' sorrow's redemptive strain—rhetorically twin laments, tonally divergent paths.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 11 \"Hah\", [translation/](works/allama-iqbal-bang-e-dara-part-2-9bc58c/11-hah/translation/).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 19 \"Nawa-e-Gham\", [translation/](works/allama-iqbal-bang-e-dara-part-2-9bc58c/19-nawa-e-gham/translation/).\n\n[^3]: `list_chapters` + wiki cards for *Bang-E-Dara Part 2* (works/allama-iqbal-bang-e-dara-part-2-9bc58c/wiki/_work.card.md).\n\n[^4]: [p-3e10ab](works/allama-iqbal-bang-e-dara-part-2-9bc58c/11-hah/translation/#p-3e10ab).\n\n[^5]: TextRank key passage [p-52b7ac](works/allama-iqbal-bang-e-dara-part-2-9bc58c/11-hah/translation/#p-52b7ac) (via read_chapter).\n\n[^6]: [p-a766ad](works/allama-iqbal-bang-e-dara-part-2-9bc58c/19-nawa-e-gham/translation/#p-a766ad); TextRank/LexRank #1-2.\n\n[^7]: Wiki nearest: Part 3 ch. 7 cosine 0.16 (works/allama-iqbal-bang-e-dara-part-2-9bc58c/wiki/19-nawa-e-gham.full.md).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Hāh",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Nawā-e-Gham",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-hah.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-2-9bc58c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 19
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 2 · ch.19\\nverse · 9¶ · 128w · vocab 65 (TTR 88%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"melody sorrow life\\\" · \\\"sorrow life"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 19,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki full missing: 11-hah.full.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-2-9bc58c"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 19
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 2 · ch.19\\nverse · 9¶ · 128w · vocab 65 (TTR 88%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"melody sorrow life\\\" · \\\"sorrow life"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-52b7ac",
+          "p-3e10ab"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 19,
+        "paragraph_ids": [
+          "p-5c0a90",
+          "p-a766ad"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 11,
+        "paragraph_range": {
+          "start": 0,
+          "end": 8
+        },
+        "variant": "translation"
+      },
+      "result_summary": "error PASSAGE_OUT_OF_RANGE: Paragraph range [0, 8] is invalid"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 19,
+        "paragraph_range": {
+          "start": 0,
+          "end": 9
+        },
+        "variant": "translation"
+      },
+      "result_summary": "error PASSAGE_OUT_OF_RANGE: Paragraph range [0, 9] is invalid"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-3e10ab"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-52b7ac"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-a766ad"
+    }
+  ],
+  "duration_ms": 54243,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 65179,
+    "completion_tokens": 6093,
+    "total_tokens": 71272,
+    "cached_tokens": 46752,
+    "api_calls": 6,
+    "cost_usd": 0.0090695,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1940,
+        "completion_tokens": 659,
+        "total_tokens": 2599,
+        "cached_tokens": 150,
+        "cost_usd": 0.000695
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 4273,
+        "completion_tokens": 792,
+        "total_tokens": 5065,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012281
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 12535,
+        "completion_tokens": 441,
+        "total_tokens": 12976,
+        "cached_tokens": 4268,
+        "cost_usd": 0.0020873
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 13608,
+        "completion_tokens": 452,
+        "total_tokens": 14060,
+        "cached_tokens": 12530,
+        "cost_usd": 0.0010681
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki_full",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 16056,
+        "completion_tokens": 1562,
+        "total_tokens": 17618,
+        "cached_tokens": 13603,
+        "cost_usd": 0.00195175
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 16767,
+        "completion_tokens": 2187,
+        "total_tokens": 18954,
+        "cached_tokens": 16051,
+        "cost_usd": 0.00203925
+      }
+    ]
+  }
+}

@@ -1,0 +1,218 @@
+{
+  "answer": "**Iqbal's \"Kali\" (Bang-e-Dara Part 2, ch. 16)** employs botanical imagery of a dawn-responsive **bud** undergoing natural maturation toward the sun.[^1] The bud's \"gold breast\" opens with dawn's \"rosy cheek,\" it \"sips on splendor in the tavern of morn,\" drawing \"life from the Sun's own goblet,\" and \"tears its breast apart\" in blissful anticipation before the sun—evoking a dynamic, solar-driven blossoming process akin to heliotropism and phototropism in buds like tulips or roses.[^2] This floral life cycle symbolizes the poet's soul yearning to \"behold my Sun\" and reveal its \"restless truth,\" mirroring the bud's organic unfolding.[^3]\n\nIn contrast, **\"Phool ka Tohfa Ata Hone Par\" (Bang-e-Dara Part 3, ch. 15)** centers on a **plucked flower** (gift) and competing **buds** in a garden, personified as praying: \"O Lord! From all the flowers, let her choose but me, / From bud to a bloom that shames the sun, let me be.\"[^4] The chosen flower's \"sharp pain of severance\" elevates it to \"communion’s height\" and \"perfection’s purest light,\" while unplucked rivals \"writhe\" in envy; the poet laments his own \"lotus\"—pride of his \"garden of youth\"—which \"never met its purpose,\" remains unembraced, its \"petals\" unopened, \"sad and cold\" without a gatherer's hand.[^5] Here, botany stresses artificial interruption (plucking) over natural growth, with **lotus** (Nelumbo nucifera) specified for its cultural symbolism of purity, contrasting rivals' thwarted blooming.\n\n**Botanical comparison**:\n- **Life stage**: \"Kali\" fixates on pre-bloom **bud** vitality (opening, sipping light); \"Phool\" spans **buds** to **full bloom**, privileging post-pluck fulfillment over mere maturation.\n- **Agency**: Solar/divine (sun as goblet-giver) in \"Kali\" (autonomous heliotic response); human/queenly (plucking as grace) in \"Phool,\" with severance as ecstatic climax.\n- **Floral peril/bliss**: Bud's self-rending \"blissful pleasure\" vs. flower's \"sharp pain\" yielding perfection; unchosen lotus wilts inertly.\n- **Specificity**: Generic \"bud\" (dawn-gold, sun-oriented) vs. \"lotus\" (static, beloved-awaiting); both shame the sun but via different paths—natural radiance vs. selected sacrifice.[^6]\n\nThe poems share garden longing and solar rivalry but diverge: \"Kali\" celebrates innate photic ecstasy, \"Phool\" romantic severance as floral telos (purpose). Statistically, they are nearest neighbors (cosine 0.13), with shared trigrams like bud-sun dynamics.[^7]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 16 \"Kali\" ([/works/allama-iqbal-bang-e-dara-part-2-9bc58c/16-kali/translation/](#p-d0dbd0)).\n[^2]: Ibid., ([/works/allama-iqbal-bang-e-dara-part-2-9bc58c/16-kali/translation/#p-ae86d8]).\n[^3]: Ibid., ([/works/allama-iqbal-bang-e-dara-part-2-9bc58c/16-kali/translation/#p-44ef90]).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 15 \"Phool ka tohfa ata hone par\" ([/works/allama-iqbal-bang-e-dara-part-3-cc61e8/15-phool-ka-tohfa-ata-hone-par/translation/#p-10eae3]).\n[^5]: Ibid.\n[^6]: Cross-citation: \"Kali\" bud-sun ([/works/allama-iqbal-bang-e-dara-part-2-9bc58c/16-kali/translation/#p-99fffa]); \"Phool\" bud-sun shame ([/works/allama-iqbal-bang-e-dara-part-3-cc61e8/15-phool-ka-tohfa-ata-hone-par/translation/#p-10eae3]).\n[^7]: Wiki cards confirm proximity: Part 2 ch.16 nearest to Part 3 ch.15 ([/works/allama-iqbal-bang-e-dara-part-3-cc61e8/wiki/15-phool-ka-tohfa-ata-hone-par.card.md]).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Kali\" bud Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Phool ka Tohfa\" flower Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 16
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 2 · ch.16\\nverse · 10¶ · 151w · vocab 59 (TTR 70%, hapax 80%)\\n\\n## Distinctive trigrams\\n\\\"bud dawn rosy\\\" · \\\"dawn rosy cheek\\\" "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "flower gift Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"phool\" \"tohfah\" OR \"gift\" \"flower\" Iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 15
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.15\\nverse · 1¶ · 151w · vocab 73 (TTR 89%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"she queen graceful\\\" · \\\"queen graceful"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "topic": "flower bud"
+      },
+      "result_summary": "{\"topic\":\"flower bud\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"allama-iqbal-bang-e-dara-part-2-9bc58c\",\"title\""
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 15,
+      "paragraph_id": "p-d0dbd0"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 15,
+      "paragraph_id": "p-ae86d8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 15,
+      "paragraph_id": "p-44ef90"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 15,
+      "paragraph_id": "p-10eae3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 15,
+      "paragraph_id": "p-99fffa"
+    }
+  ],
+  "duration_ms": 34909,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 42101,
+    "completion_tokens": 3959,
+    "total_tokens": 46060,
+    "cached_tokens": 26670,
+    "api_calls": 5,
+    "cost_usd": 0.006399199999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1934,
+        "completion_tokens": 574,
+        "total_tokens": 2508,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003915
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2453,
+        "completion_tokens": 530,
+        "total_tokens": 2983,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00047345
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 5158,
+        "completion_tokens": 662,
+        "total_tokens": 5820,
+        "cached_tokens": 2448,
+        "cost_usd": 0.0009954
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15311,
+        "completion_tokens": 546,
+        "total_tokens": 15857,
+        "cached_tokens": 5153,
+        "cost_usd": 0.00256225
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "compare_works"
+        ],
+        "prompt_tokens": 17245,
+        "completion_tokens": 1647,
+        "total_tokens": 18892,
+        "cached_tokens": 15306,
+        "cost_usd": 0.0019766
+      }
+    ]
+  }
+}

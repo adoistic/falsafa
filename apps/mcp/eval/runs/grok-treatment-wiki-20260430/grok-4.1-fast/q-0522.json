@@ -1,0 +1,461 @@
+{
+  "answer": "**The Falsafa corpus contains no works that reject the binding authority of the past on the present.** Instead, several Dharmaśāstra texts (ancient Indic legal codes attributed to sages) centrally engage this question through explicit discussions of the hierarchy of *dharma* sources.[^1] [^2] [^3] [^4] These rank Vedic revelation (*śruti*) highest, followed by remembered tradition (*smṛti*), the customs/practices of the virtuous/regional past (*ācāra*/*caritra*/*deśadharma*, i.e., binding precedents and ancestral conduct), and finally royal edicts (which may override unreasonable customs but not scripture).[^5] [^6] Custom—constant regional practice, even by the unrighteous—binds as law unless contradicted by higher sources or reason, superseding general rules in some cases.[^7] [^8] Past conduct of the learned virtuous is authoritative, especially in Āryāvarta.[^9]\n\nNo other works (e.g., poetry like Iqbal's *Bang-e-Dara*, Old English elegies, or Comte/Dunoyer's property treatises) systematically address this; searches for related concepts (precedent, ancestors' law, tradition's authority) surface only passing poetic references to clinging to \"ancient customs\" without analysis.[^10]\n\n### Key Engaging Works\n1. **Kātyāyana Smṛti** (Ch. 4): Custom (*caritra*)—regional constant practice—is a source superseding legal procedure (*vyavahāra*) if sovereign-approved; king sets aside unreasonable custom via edict; sacred law (*dharma*) binds first.[^11]\n2. **Bṛhaspati Smṛti** (Ch. 1): Four decision means: *dharma*, procedure, custom (local usage/community approval supersedes general rule), king's edict (supersedes custom).[^12]\n3. **Manusmṛti** (Ch. 2): *Dharma* sources: Veda, *smṛti*, virtuous conduct (*ācāra*, binding regional tradition), conscience; Brahmavarta customs authoritative.[^13]\n4. **Āṅgirasa Smṛti** (Ch. 1): Upholds *smṛti*/custom as binding unless contradicted by Veda; adoption/precedents from elders bind.[^14]\n\nOther Smṛtis (e.g., Nārada, Yama, Yājñavalkya, Viṣṇu, Pārāśara) parallel this via shared Dharmaśāstra framework on *ācāra*'s authority, but lack unique chapters scanned here.\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, [Chapter 0](works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/00-preface/translation/#p-unknown) (property from past occupation binds).\n\n[^2]: *Kātyāyana Smṛti*, Ch. 4, [p-44d48b](/works/unknown-katyayana-smrti-1e06d2/04/translation/#p-44d48b).\n\n[^3]: *Bṛhaspati Smṛti*, Ch. 1, [p-7409b9](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-7409b9).\n\n[^4]: *Manusmṛti*, Ch. 2, [p-d70b97](/works/unknown-manusmrti-347b76/02/translation/#p-d70b97).\n\n[^5]: *Kātyāyana Smṛti*, Ch. 4, [p-6035ab](/works/unknown-katyayana-smrti-1e06d2/04/translation/#p-6035ab) to [p-e8d6a5](/works/unknown-katyayana-smrti-1e06d2/04/translation/#p-e8d6a5).\n\n[^6]: *Bṛhaspati Smṛti*, Ch. 1, [p-6bd9fb](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-6bd9fb).\n\n[^7]: *Kātyāyana Smṛti*, Ch. 4, [p-7351ad](/works/unknown-katyayana-smrti-1e06d2/04/translation/#p-7351ad).\n\n[^8]: *Āṅgirasa Smṛti*, Ch. 1, [p-3e50e7](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-3e50e7).\n\n[^9]: *Manusmṛti*, Ch. 2, [p-1627a6](/works/unknown-manusmrti-347b76/02/translation/#p-1627a6).\n\n[^10]: Allama Iqbal, *Bang-E-Dara Part 3*, Ch. 1, [p-cce50f](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/01-bazm-e-anjum/translation/#p-cce50f).\n\n[^11]: *Kātyāyana Smṛti*, Ch. 4, [p-44d48b](/works/unknown-katyayana-smrti-1e06d2/04/translation/#p-44d48b).\n\n[^12]: *Bṛhaspati Smṛti*, Ch. 1, [p-7409b9](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-7409b9).\n\n[^13]: *Manusmṛti*, Ch. 2, [p-d70b97](/works/unknown-manusmrti-347b76/02/translation/#p-d70b97).\n\n[^14]: *Āṅgirasa Smṛti*, Ch. 1, [p-4c73fa](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-4c73fa).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "past bind present",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"past\" \"bind\" \"present\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancestors bind",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tradition bind",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "precedent bind",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"authority of the past\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the dead\" living",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"past\" \"future\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"past\" \"present\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancestors law",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "custom bind",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tradition authority",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"law of our fathers\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "precedent law",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"binding on\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "custom law",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tradition law",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ancient law\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "precedent",
+        "limit": 30
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "custom",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tradition",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"our ancestors\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smṛti custom",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"source of dharma\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of unknown-katyayana-smrti-1e06d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-44d48b"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-7409b9"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-d70b97"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-6035ab"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-e8d6a5"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-6bd9fb"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-7351ad"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-3e50e7"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-1627a6"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-cce50f"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-4c73fa"
+    }
+  ],
+  "duration_ms": 82690,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 221316,
+    "completion_tokens": 7358,
+    "total_tokens": 228674,
+    "cached_tokens": 46490,
+    "api_calls": 6,
+    "cost_usd": 0.0733002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 995,
+        "total_tokens": 2901,
+        "cached_tokens": 1890,
+        "cost_usd": 0.0005952
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5666,
+        "completion_tokens": 1165,
+        "total_tokens": 6831,
+        "cached_tokens": 150,
+        "cost_usd": 0.0016932
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6161,
+        "completion_tokens": 750,
+        "total_tokens": 6911,
+        "cached_tokens": 5661,
+        "cost_usd": 0.00075805
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13873,
+        "completion_tokens": 1207,
+        "total_tokens": 15080,
+        "cached_tokens": 6156,
+        "cost_usd": 0.0024547
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18770,
+        "completion_tokens": 1048,
+        "total_tokens": 19818,
+        "cached_tokens": 13868,
+        "cost_usd": 0.0021978
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters",
+          "read_wiki"
+        ],
+        "prompt_tokens": 174940,
+        "completion_tokens": 2193,
+        "total_tokens": 177133,
+        "cached_tokens": 18765,
+        "cost_usd": 0.06560125
+      }
+    ]
+  }
+}

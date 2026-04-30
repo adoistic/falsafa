@@ -1,0 +1,251 @@
+{
+  "answer": "**Cynewulf's signature in *Elene*** appears at the poem's close as a runic acrostic: the final passages spell out his name (C-Y-N-E-W-U-L-F) using the first letters of select words/lines in the original Old English, a technique unique to his four signed poems.[^1] Here is the translation of that personal epilogue:\n\n> Thus I, old and ready for my journey, through this frail house have woven word-craft and wondrously gathered, at times I pondered and sifted my thoughts in the narrow night. I did not know the truth of the Rood until a roomier thought, through that glorious might, unveiled wisdom in my mind’s chamber. I was stained by my deeds, shackled by sins, worn down by sorrows, bitterly bound, beset by troubles, until the mighty King granted me learning through a luminous form as a help to an old man, a gift without blame he measured and poured into my mind, made it bright and clear, in time made it spacious, unbound my bone-house, unwound my breast-lock, unlocked the art of song. This I joyfully used, willingly in the world. Of that tree of glory I was often, not just once, mindful before I had unveiled the wonder about that bright beam, as I found in books, in the course of events, made known in writings about that victory-beacon.[^2]\n\n> Until then, the man was always tossed by waves of care, drooping with sorrow, though in the mead-hall he received treasures, appled gold. He mourned, a companion to need, he endured narrow sorrow, a secret anxiety, where the horse measured the mile-paths before him, proudly prancing, adorned with wires. Joy has waned with the years, youth is gone, the old pride. The gleam of youth was once his. Now the old days, after their allotted time, have passed away, life’s joys have slipped by as water glides, as floods are driven. Wealth is for everyone fleeting under the sky; the land’s adornments depart under the clouds most like the wind, when it rises loud before men, rushes by the clouds, travels raging, and then suddenly becomes silent, narrowly hemmed in a prison of need, crushed by force.[^3]\n\n> So this whole world shall pass away, and also those who were born into it; a consuming flame will take them, when the Lord himself seeks his judgment with a host of angels. Every speaker there shall hear the right judgment for every deed from the Judge’s mouth, and for his words as well give a reckoning, for all the folly spoken before, for all bold thoughts. Then into the fire’s grasp he will divide every person into three, of all who have ever been in this wide life over the broad earth. The righteous will be uppermost in that fire, the blessed company, a host eager for glory; they can endure it and without hardship easily bear it, that host of the brave. The flame’s heat will be tempered for them, as is easiest for them, most gentle for themselves. The sinful, mixed with malice, will be tormented in the middle, the heart-sorrowful men, in the hot surge, covered with soot. The third part, the accursed evil-doers, will be in the fire’s depths, the faithless traitors, fastened in flame for their former deeds, the godless host, in the grip of the embers. They will never again come to the mind of God, of the Glory-King, from that house of murder, but they will be cast from that battle-heat into hell’s abyss, the bitter foes. For the two parts it will be unlike. They may see the Lord of angels, the God of triumphs. They will be refined, sundered from sins, like fine gold that in the fire-whelm is cleansed of every impurity by the oven’s fire, purified and smelted. So shall each of those men be shorn and separated from every guilt, from deep transgressions, through the fire of judgment. Then they may afterwards enjoy peace, eternal blessedness. The Warden of angels will be mild and blithe to them, because they forsook every evil, the works of sin, and to the Son of the Shaper cried out with words. Therefore they now shine in beauty, like the angels, they enjoy the inheritance of the Glory-King for all time. Amen.[^4]\n\n**Iqbal's signature** occurs via *maqta* (تخلص, takhallus), the traditional final couplet(s) of a ghazal where the poet embeds his pen-name. A representative example from *Bang-E-Dara Part 1* (many ghazals end similarly):\n\n> O Iqbal, why should my verse seem in vain? They are my broken heart's own cries of pain.[^5]\n\n**Purposes compared**: No, the poets sign for **different purposes**. Cynewulf's hidden runes **claim authorship** amid a humble plea for **memory**—he reveals his sinful self, credits divine grace for his poetry, and invokes Judgment Day, implicitly begging readers' prayers for his soul (a medieval Christian convention for enduring spiritual merit).[^6] Iqbal's overt *maqta*, by contrast, fulfills a **poetic convention** in Urdu ghazals, often with ironic humility or philosophical twist (here, self-deprecation as \"cries of pain\"), blending **license** (formal closure) and mild **vanity** (name-dropping in theme). Cynewulf seeks eternal salvation; Iqbal crafts aesthetic unity.\n\n[^1]: Cynewulf, *Elene*, ch.1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607).\n[^2]: Ibid., [paragraphs](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607).\n[^3]: Ibid., [paragraphs](/works/cynewulf-elene-d2d132/01/translation/#p-8f8a1b).\n[^4]: Ibid., [paragraphs](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, ch.2, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/02/translation/#p-0118fb).\n[^6]: The epilogue's context ties poetic gift to sin/redemption, standard for Cynewulf's signatures (cf. *Andreas*, *Juliana*). Cynewulf, *Elene*, ch.1, [chapter](/works/cynewulf-elene-d2d132/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Cynewulf runes signature"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal maqtas signature"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"runes\" OR \"rune\" OR signature OR sign",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (transliteration)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d2e607",
+          "p-8f8a1b",
+          "p-dcbbfe"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-0118fb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Iqbal\" maqta OR takhallus OR signature",
+        "limit": 10
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 2,
+      "paragraph_id": "p-d2e607"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 2,
+      "paragraph_id": "p-8f8a1b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 2,
+      "paragraph_id": "p-dcbbfe"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 2,
+      "paragraph_id": "p-0118fb"
+    }
+  ],
+  "duration_ms": 62354,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 159627,
+    "completion_tokens": 6139,
+    "total_tokens": 165766,
+    "cached_tokens": 84589,
+    "api_calls": 5,
+    "cost_usd": 0.02230655,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1939,
+        "completion_tokens": 460,
+        "total_tokens": 2399,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005953
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2835,
+        "completion_tokens": 913,
+        "total_tokens": 3748,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00074135
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 8182,
+        "completion_tokens": 1260,
+        "total_tokens": 9442,
+        "cached_tokens": 2830,
+        "cost_usd": 0.0018419
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki_full",
+          "read_chapter"
+        ],
+        "prompt_tokens": 71556,
+        "completion_tokens": 1239,
+        "total_tokens": 72795,
+        "cached_tokens": 8177,
+        "cost_usd": 0.01370415
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 75115,
+        "completion_tokens": 2267,
+        "total_tokens": 77382,
+        "cached_tokens": 71551,
+        "cost_usd": 0.00542385
+      }
+    ]
+  }
+}

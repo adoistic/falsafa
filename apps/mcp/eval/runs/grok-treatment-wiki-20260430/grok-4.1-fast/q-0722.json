@@ -1,0 +1,246 @@
+{
+  "answer": "**There is no passage in *Andreas* that names a specific number of days spent at sea.**\n\nThe poem describes Andrew's sea voyage to Mermedonia in vivid, metaphorical terms (e.g., boarding a divinely provided ship, a storm, divine intervention via angels carrying the sleepers ashore), but it provides no explicit duration like \"X days\" or \"X nights\" for time afloat.[^1][^2] Other numbered time periods appear, but they refer to Matthew's captivity (\"thirty days\"),[^3] Andrew's torments (\"three days\"),[^4] or his stay in the city (\"seven nights\"),[^5] not the sea journey itself.\n\n[^1]: *Andreas*, ch. 1, [¶ p-c4d450](/works/cynewulf-andreas-07b573/01/translation/#p-c4d450) (instructions to find the ship; boarding and storm begin).\n[^2]: *Andreas*, ch. 1, [¶ p-c11ef8](/works/cynewulf-andreas-07b573/01/translation/#p-c11ef8) (sleep; angels ferry them to land).\n[^3]: *Andreas*, ch. 1, [¶ p-58182e](/works/cynewulf-andreas-07b573/01/translation/#p-58182e).\n[^4]: *Andreas*, ch. 1, [¶ p-dbf56f](/works/cynewulf-andreas-07b573/01/translation/#p-dbf56f).\n[^5]: *Andreas*, ch. 1, [¶ p-ecb179](/works/cynewulf-andreas-07b573/01/translation/#p-ecb179).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"days at sea\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "andreas days sea"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "days",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sea",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-36b773"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-58182e"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"days\" voyage"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"days\" ship"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nine days"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"three days\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nine days OR seven days OR three days OR thirty days sea OR voyage OR journey OR ship"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nine nights\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-c4d450"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-c11ef8"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-58182e"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-dbf56f"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-ecb179"
+    }
+  ],
+  "duration_ms": 47931,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 52471,
+    "completion_tokens": 4187,
+    "total_tokens": 56658,
+    "cached_tokens": 22724,
+    "api_calls": 5,
+    "cost_usd": 0.009179099999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 395,
+        "total_tokens": 2297,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00029575
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2793,
+        "completion_tokens": 489,
+        "total_tokens": 3282,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00052095
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7547,
+        "completion_tokens": 1040,
+        "total_tokens": 8587,
+        "cached_tokens": 2788,
+        "cost_usd": 0.0016112
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8637,
+        "completion_tokens": 982,
+        "total_tokens": 9619,
+        "cached_tokens": 7542,
+        "cost_usd": 0.0010871
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 31592,
+        "completion_tokens": 1281,
+        "total_tokens": 32873,
+        "cached_tokens": 8632,
+        "cost_usd": 0.0056641
+      }
+    ]
+  }
+}

@@ -1,0 +1,155 @@
+{
+  "answer": "In Allama Iqbal's poem *Aashiq Harjaai* (\"The Roving Lover\" or \"The Faithless Lover\"), the titular *harjaai* (faithless or capricious) lover offers a vivid, paradoxical self-portrait as a restless, contradictory figure—vibrant yet solitary, celestial yet earthly, devout yet irreverent, wise yet mad, ever-changing and disloyal in love, embodying the mercurial nature of quicksilver.[^1]\n\nThe full account unfolds across the poem's stanzas:\n\n> The Roving Lover[^2]\n> \n> What a strange collection of contradictions you are, Iqbal!  \n> You are the life of the gathering, and yet you are also alone.[^3]\n> \n> From your clamor, O wild, melodious soul,  \n> You are the life of the garden, and the grace of the desert too.[^4]\n> \n> Companion to the stars in your high flight,  \n> Yet you tread the earth, your steps also measuring the sky.[^5]\n> \n> In the midst of worldly pleasure, your brow is bowed in prayer;  \n> Your path holds something of the creed of the wine-cup.[^6]\n> \n> Like a flower’s scent, you are free from the garment of color;  \n> You are a creator of wisdom, yet you possess a touch of madness.[^7]\n> \n> You flow toward your goal, trackless as a wave,  \n> And yet lie still, like the river’s shore.[^8]\n> \n> Feminine beauty is lightning to your nature,  \n> Yet strangely, your love remains aloof.[^9]\n> \n> The law of your being is built on constant change;  \n> Do you ever bow your head at a single threshold?[^10]\n> \n> Among the beautiful, you are known as one who knows no loyalty;  \n> O mercurial one, you are famous and infamous alike.[^11]\n> \n> You have brought into this world the nature of quicksilver;  \n> A marvel, this restlessness of yours; how strangely restless you are![^12]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 28 \"Aashiq Harjaai\" ([translation](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/28-aashiq-harjaai/translation/)).\n[^2]-[^12]: Ibid., [p-59c9ed](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/28-aashiq-harjaai/translation/#p-59c9ed) through [p-bc0cec](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/28-aashiq-harjaai/translation/#p-bc0cec). (URLs constructed per standard corpus format from paragraph IDs in tool results; each links to the specific stanza.)",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Aashiq Harjaai"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"harjaai\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 28
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 28-aashiq-harjaai.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-2-9bc58c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 28,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.28 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 28,
+        "paragraph_ids": [
+          "p-59c9ed",
+          "p-b540d5",
+          "p-b46c1b",
+          "p-6391bf",
+          "p-9368f5",
+          "p-dec829",
+          "p-055cb4",
+          "p-57555a",
+          "p-7fefba",
+          "p-b6eefc",
+          "p-bc0cec"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 11 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 28
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki full missing: 28-aashiq-harjaai.full.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-2-9bc58c"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 28,
+      "paragraph_id": "p-59c9ed"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 28,
+      "paragraph_id": "p-bc0cec"
+    }
+  ],
+  "duration_ms": 32347,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 13090,
+    "completion_tokens": 3715,
+    "total_tokens": 16805,
+    "cached_tokens": 6564,
+    "api_calls": 4,
+    "cost_usd": 0.0034909,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1926,
+        "completion_tokens": 411,
+        "total_tokens": 2337,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005682
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2726,
+        "completion_tokens": 246,
+        "total_tokens": 2972,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006457
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 3548,
+        "completion_tokens": 1444,
+        "total_tokens": 4992,
+        "cached_tokens": 2721,
+        "cost_usd": 0.00102345
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "read_wiki",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 4890,
+        "completion_tokens": 1614,
+        "total_tokens": 6504,
+        "cached_tokens": 3543,
+        "cost_usd": 0.00125355
+      }
+    ]
+  }
+}

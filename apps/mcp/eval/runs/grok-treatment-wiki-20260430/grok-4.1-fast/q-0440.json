@@ -1,0 +1,291 @@
+{
+  "answer": "**Allama Iqbal's *Bang-E-Dara* (across Parts 1–3) engages extensively with the figure of the Prophet Muhammad (often \"the Prophet\" or via *nabi* in Urdu), portraying him as central to Muslim identity, unity, and spiritual revival, while also referencing biblical prophets like Noah (*Nuh Nabi*), Moses, and others in poetic invocations of Islamic heritage and geography.[^1][^2][^3]**\n\nFor instance, in \"Dil se jo baat nikalti hai,\" Iqbal laments the ummah's disconnection from the Prophet's teachings, urging fidelity to Muhammad as the unifying force: \"This nation’s profit and its loss are one, / Its Prophet, faith, and creed are also one.\"[^4] Similar motifs recur in \"Shikwa,\" \"Wataniyat,\" \"Huzoor Risalat Ma'ab Mein,\" and others, framing the Prophet as a beacon against modern decline.[^5]\n\n**Cynewulf's *Andreas* invokes ancient prophets (e.g., Abraham, Isaac, Jacob) raised by divine command to testify to God's power among the Canaanites, emphasizing prophetic resurrection and revelation in a Christian Old English context.[^6]**\n\n**Cynewulf's *Elene* references \"the holy prophets\" and the \"lore of Moses\" as sources of divine wisdom, critiquing the Jews' rejection of Christ while summoning learned men versed in prophetic texts.[^7]**\n\n**The *Old English Elegies* (\"Vainglory\") opens with a \"clever prophet\" imparting wisdom against vainglory, drawing on prophetic teaching to contrast prideful fiends with the humble who ascend to glory.[^8]**\n\n**Minor or transliterated references** appear in *Diwan-E-Ghalib* (*jaanasheen-e-Nabi*, successor to the Prophet) and *Diwan-E-Zauq* (*mohr-e-nabuwat*, seal of prophethood), but these are poetic allusions rather than sustained engagement.[^9]\n\nNo works in the corpus engage \"dhrtatman\" (or \"dhṛtātmā\"), a likely Sanskrit term absent from search results. Passing mentions of Muhammad or Moses occur in French treatises (e.g., Charles Comte, Charles Dunoyer) as historical or analytical asides, without deeper philosophical engagement.[^10]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 26 \"Hindustani Bachon Ka Qaumi Geet\" (/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-a9f72d).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 4 \"Dil se jo baat nikalti hai asar rakhti hai\" (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-9aa6ea).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 11 \"Huzoor Risalat Ma'ab Mein\" (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/#p-50452a).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 4 (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-fd7840).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 20 \"Shikwa\" (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-ed83b1); ch. 25 \"Wataniyat\" (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-2737d5).\n[^6]: Cynewulf, *Andreas*, ch. 1 (/works/cynewulf-andreas-07b573/01/translation/#p-bb7698).\n[^7]: Cynewulf, *Elene*, ch. 1 (/works/cynewulf-elene-d2d132/01/translation/#p-7b1c1f).\n[^8]: *Old English Elegies*, ch. 12 \"Vainglory\" (/works/unknown-old-english-elegies-d5fe9e/12-vainglory/translation/#p-946b37).\n[^9]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 193 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/193-tum-apne-shikwe-ki-baatein-na-khod-khod-ke-poocho/transliteration/); Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch. 59 (/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/59-koi-in-tang-dahanon-se-mohabbat-na-kare/translation/#p-bc68e3).\n[^10]: Charles Comte, *Traité de Législation: VOL I*, ch. 1 (/works/charles-comte-traite-de-legislation-vol-i-7e62a2/01-chapitre-premier/translation/#p-605721).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prophet",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nabi",
+        "limit": 20
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dhrtatman",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dhṛtātmā\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"prophets\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Muhammad",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nabi OR nabī OR \"the Prophet\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-bb7698"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-d22740",
+          "p-7a9795",
+          "p-fd7840"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "paragraph_ids": [
+          "p-a9f72d"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7b1c1f"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-946b37"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nabi OR nabī OR prophet OR \"the Prophet\" OR Muhammad OR Moses OR Noah",
+        "limit": 30
+      },
+      "result_summary": "Found 18 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-a9f72d"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-9aa6ea"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-50452a"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-fd7840"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-ed83b1"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-2737d5"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-bb7698"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-7b1c1f"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-946b37"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-bc68e3"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 12,
+      "paragraph_id": "p-605721"
+    }
+  ],
+  "duration_ms": 39538,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 36836,
+    "completion_tokens": 4939,
+    "total_tokens": 41775,
+    "cached_tokens": 15164,
+    "api_calls": 4,
+    "cost_usd": 0.0075620999999999996,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 474,
+        "total_tokens": 2378,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00033535
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5974,
+        "completion_tokens": 1111,
+        "total_tokens": 7085,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00146785
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 11253,
+        "completion_tokens": 1422,
+        "total_tokens": 12675,
+        "cached_tokens": 150,
+        "cost_usd": 0.0029391
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17705,
+        "completion_tokens": 1932,
+        "total_tokens": 19637,
+        "cached_tokens": 11248,
+        "cost_usd": 0.0028198
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "answer": "**The Persianate title *Bang-e-Dara* (\"The Call [or Sound] of the Bell,\" evoking a caravan bell's resounding march-call to awaken and mobilize) commits Iqbal to framing his Urdu poetry within the classical Persian literary tradition's grandeur, universality, and philosophical depth—specifically, as a vessel (*goblet/flask*) for pure Hijazi (Arab-Islamic, Qur'anic-Prophetic) spiritual essence, rather than a purely vernacular Urdu expression tied to Indian locality or novelty.[^1][^2]**\n\n**An Urdu title (e.g., something like *Ghanti ki Pukar*) would lack this explicit nod to Persian poetics' prestige (Hafiz, Rumi, etc.), risking perception as folksy, regional, or modernist without that trans-national Islamic pedigree—which Iqbal, a bilingual master, strategically claims here for his Urdu debut.[^3]**\n\n**This commitment does real work in \"Shikwa\" (*The Complaint*, Bang-e-Dara Part 3, ch. 20), where Iqbal's lament to God explicitly blends Persian form with Hijazi content: the caravan bell (*bang-e-kafila*) awakens slumbering Muslim hearts to revival, mirroring the title's mobilizing \"call,\" while the closing lines declare the Persian flask holds Hijazi wine, and the Indian song carries Hijazi melody—precisely analogizing the Persian title's role for Urdu verse.[^4]**\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, work description (published 1924, Urdu verse on Islamic philosophy/self-realization/spiritual destiny). [work](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 20 (*Shikwa*), [p-847833](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-847833).\n[^3]: *Bang-E-Dara Part 1* wiki card: distinctive trigrams evoke Persianate motifs (e.g., \"garden stranger stare\"); nearest works are Persian-Urdu divans (*Diwan-E-Ghalib*, *Diwan-E-Zauq*). [wiki](/works/allama-iqbal-bang-e-dara-part-1-55b25c/wiki/_work.card.md).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 20 (*Shikwa*), full chapter: nightingale's lament + caravan bell rouses Muslims; \"flask is Persian... wine... from Hijaz... song is Indian... melody... from Hijaz.\" [chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/). Specific: [p-847833](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-847833); Sassanid Persians contextualize pre-Islamic world. [p-0b0b8c](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-0b0b8c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bell\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"call of the\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"marching bell\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.13\\nverse · 2¶ · 268w · vocab 118 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"address muslim youth\\\" · \\\"muslim yout"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 10
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.10\\nverse · 21¶ · 403w · vocab 153 (TTR 81%, hapax 83%)\\n\\n## Distinctive trigrams\\n\\\"muslim iqbal every\\\" · \\\"iqbal every "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Persian",
+        "limit": 5
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Farsi"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"call\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-0b0b8c",
+          "p-847833"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-847833"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-0b0b8c"
+    }
+  ],
+  "duration_ms": 61173,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 74402,
+    "completion_tokens": 6303,
+    "total_tokens": 80705,
+    "cached_tokens": 51564,
+    "api_calls": 5,
+    "cost_usd": 0.010297299999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1935,
+        "completion_tokens": 442,
+        "total_tokens": 2377,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00032585
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12265,
+        "completion_tokens": 1186,
+        "total_tokens": 13451,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00276385
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14548,
+        "completion_tokens": 1452,
+        "total_tokens": 16000,
+        "cached_tokens": 12260,
+        "cost_usd": 0.0017966
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21004,
+        "completion_tokens": 1572,
+        "total_tokens": 22576,
+        "cached_tokens": 14543,
+        "cost_usd": 0.00280535
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 24650,
+        "completion_tokens": 1651,
+        "total_tokens": 26301,
+        "cached_tokens": 20999,
+        "cost_usd": 0.00260565
+      }
+    ]
+  }
+}

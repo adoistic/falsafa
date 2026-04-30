@@ -1,0 +1,258 @@
+{
+  "answer": "**Iqbal's \"Sayed ki Loh-e-Turbat\" (Bang-E-Dara Part 1, ch. 38) and the Old English \"The Wanderer\" (Old English Elegies, ch. 11) both elegize lost leaders—the former an epitaph-like inscription for Sir Syed Ahmed Khan (a 19th-century Muslim reformer), the latter a thane's lament for his unnamed \"gold-friend\" (gold-lord).**[^1][^2] **Yet they differ markedly in voice, focus, cultural worldview, and resolution.**\n\n**Voice and perspective set them apart most sharply. \"The Wanderer\" is a first-person monologue from the exiled survivor, consumed by personal grief over his lord's death, kinsmen's slaughter, and ensuing isolation: \"Often I must alone... lament my sorrows. There is none now living to whom I dare my heart's secrets openly speak.\"**[^3] **The speaker wanders frost-bound seas, haunted by memories of mead-hall joys and his \"gold-friend\" who \"the earth's darkness covered.\"**[^4] **Iqbal's poem, by contrast, personifies the tombstone itself (\"my very tombstone is enraptured by my speech\"), speaking *from* the grave in a prophetic, second-person address to the living reader (\"O you, whose bird of soul is by the thread of breath confined\").**[^5][^6] **Sir Syed's \"spirit's bird\" is liberated, surveying his life's \"harvest,\" not lamenting loss.**\n\n**Purpose diverges too: \"The Wanderer\" broods on *transience* (wyrd/fate), ruins, and *ubi sunt* motifs (\"Where has the horse gone? Where has the warrior?\"), evolving toward stoic wisdom and heavenly consolation.**[^7] **Iqbal's inscription celebrates achievement (\"This is the gathering that was my constant, anxious thought\") while exhorting reform: teach unity, shun division, wield \"poetry's great might\" against \"falsehood.\"**[^8][^9] **Anglo-Saxon fatalism yields to Iqbal's activist Islamic optimism.**\n\n**Worldviews reflect eras: the Wanderer invokes a decaying \"middle-earth,\" storm-battered halls, wolves devouring the dead—pagan-heroic echoes fused with Christian patience (\"Good is he who... seeks grace... from the Father in heaven\").**[^10] **Iqbal urges modern statesmanship (\"Courage is the staff of those who master statecraft's design\"), pen as \"Jamshid's Cup,\" and anti-hypocrisy in a colonial Muslim context.**[^11]\n\n**Formally, \"The Wanderer\" (prose layout in translation, ~882 words) builds through dream-kisses of the lost lord, awakening to \"fallow waves,\" ending in secret counsel.**[^12] **Iqbal's verse (15 stanzas, 320 words) mimics an animated inscription, imperative couplets culminating in fiery call: \"set the harvest of all falsehood alight!\"**[^13]\n\n**In sum, \"The Wanderer\" internalizes loss for solitary wisdom amid inevitable decay; Iqbal's animates the leader's legacy to ignite communal revival.**\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 38 (\"Sayed Ki Loh-e-Turbat\"), [translation](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/).\n[^2]: Unknown, *Old English Elegies*, ch. 11 (\"The Wanderer\"), [translation](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/).\n[^3]: *Old English Elegies*, ch. 11, [p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n[^4]: Ibid., [p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n[^5]: *Bang-E-Dara Part 1*, ch. 38, [p-f55cb3](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/#p-f55cb3).\n[^6]: Ibid., [p-3ab597](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/#p-3ab597).\n[^7]: *Old English Elegies*, ch. 11, [p-9cca5e](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9cca5e) to [p-5bdc65](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-5bdc65).\n[^8]: *Bang-E-Dara Part 1*, ch. 38, [p-6189a3](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/#p-6189a3).\n[^9]: Ibid., [p-2e3845](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/#p-2e3845).\n[^10]: *Old English Elegies*, ch. 11, [p-5bdc65](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-5bdc65).\n[^11]: *Bang-E-Dara Part 1*, ch. 38, [p-ee0ccd](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/#p-ee0ccd) and [p-77c740](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/#p-77c740).\n[^12]: *Old English Elegies*, ch. 11, full [translation](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/).\n[^13]: *Bang-E-Dara Part 1*, ch. 38, full [translation](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sayed ki Loh-e-Turbat Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"The Wanderer\" \"Old English\" lord",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sir syed\" OR \"sayyid\" OR \"syed\" OR turbat OR \"tomb\" OR \"epitaph\" iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wanderer\" OR \"lost lord\" OR \"gold lord\" elegy",
+        "limit": 10
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 38
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 1 · ch.38\\nverse · 15¶ · 320w · vocab 135 (TTR 88%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"epitaph sayed bird\\\" · \\\"sayed bir"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "work_slug_b": "unknown-old-english-elegies-d5fe9e",
+        "topic": "elegy lost lord"
+      },
+      "result_summary": "{\"topic\":\"elegy lost lord\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"allama-iqbal-bang-e-dara-part-1-55b25c\",\"t"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 38,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.38 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-f55cb3"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-3ab597"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9cca5e"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-5bdc65"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-6189a3"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-2e3845"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-ee0ccd"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-77c740"
+    }
+  ],
+  "duration_ms": 46491,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 31986,
+    "completion_tokens": 5074,
+    "total_tokens": 37060,
+    "cached_tokens": 20172,
+    "api_calls": 5,
+    "cost_usd": 0.0059084,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1933,
+        "completion_tokens": 898,
+        "total_tokens": 2831,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00055345
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2923,
+        "completion_tokens": 812,
+        "total_tokens": 3735,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009681
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7142,
+        "completion_tokens": 757,
+        "total_tokens": 7899,
+        "cached_tokens": 2918,
+        "cost_usd": 0.0013692
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "compare_works"
+        ],
+        "prompt_tokens": 8091,
+        "completion_tokens": 508,
+        "total_tokens": 8599,
+        "cached_tokens": 7137,
+        "cost_usd": 0.00080165
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 11897,
+        "completion_tokens": 2099,
+        "total_tokens": 13996,
+        "cached_tokens": 8086,
+        "cost_usd": 0.002216
+      }
+    ]
+  }
+}

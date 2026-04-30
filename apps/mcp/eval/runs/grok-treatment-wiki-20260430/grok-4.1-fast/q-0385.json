@@ -1,0 +1,206 @@
+{
+  "answer": "Iqbal's \"Khitab ba Jawanan-e-Islam\" (\"An Address to the Muslim Youth\") is a direct poetic exhortation to young Muslims, contrasting their current inertia and mere \"talk\" with the dynamic, world-conquering action of their Arabian forebears, who embodied spiritual pride amid material poverty and built empires from the desert.[^1] He urges solemn self-reflection on this lost heritage—especially the \"pearls of knowledge\" now held by Europeans—and calls implicitly for revival through action: reclaiming that inheritance of movement, pride, and civilizational creation rather than static lamentation over transient political losses.[^2]\n\nCynewulf's runic epilogue in *Elene*—his personal signature woven into runes at the poem's close—similarly exhorts readers (a Christian audience) to action amid life's transience and coming Judgment.[^3] Having reflected on his own sinful past redeemed by divine wisdom, Cynewulf bids all to commemorate the Invention of the True Cross (May 3), shutting hell's door through mindful honor of Christ's Rood, and to forsake evil deeds now, crying out to the Son for salvation.[^4] At Judgment, he warns, the righteous (who repent) will rise purified like gold, while sinners burn; thus, act in faith to join the blessed.[^5]\n\n**Similarities:** Both poets, as \"old\" voices (Iqbal via ancestral lament, Cynewulf explicitly), address youth/audience directly amid decline (Muslim stasis vs. worldly vanity), demanding reflection on glory past (ancestors/Rood's miracles) and urgent action—embodying forefathers' spirit or Christ's law—to avert doom (cultural fall/Judgment fire). Calls blend worldly renewal (empire/knowledge) with spiritual (pride/repentance).\n\n**Differences:** Iqbal seeks temporal revival—dynamic *action* to rule/adorn the world, recovering books from \"Europe\"—while Cynewulf prioritizes eschatological *remembrance/repentance*, honoring the Cross for eternal life over earthly treasures.[^6]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 13 \"Khitab ba Jawanan-e-Islam\" [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).\n[^2]: Ibid. [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).\n[^3]: Cynewulf, *Elene*, ch. 1 [chapter](/works/cynewulf-elene-d2d132/01/translation/).\n[^4]: Ibid. [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).\n[^5]: Ibid. [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).\n[^6]: For Iqbal: *Bang-E-Dara Part 3*, ch. 13 [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462); for Cynewulf: *Elene*, ch. 1 [paragraphs](/works/cynewulf-elene-d2d132/01/translation/#p-d2e607:p-dcbbfe).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Khitab ba Jawanan-e-Islam\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Jawanan-e-Islam\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"khitab\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.13\\nverse · 2¶ · 268w · vocab 118 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"address muslim youth\\\" · \\\"muslim yout"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-365462"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-d2e607"
+    }
+  ],
+  "duration_ms": 38474,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 55236,
+    "completion_tokens": 4417,
+    "total_tokens": 59653,
+    "cached_tokens": 25360,
+    "api_calls": 5,
+    "cost_usd": 0.0094517,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1931,
+        "completion_tokens": 449,
+        "total_tokens": 2380,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005882
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2713,
+        "completion_tokens": 882,
+        "total_tokens": 3595,
+        "cached_tokens": 1884,
+        "cost_usd": 0.000701
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "list_works"
+        ],
+        "prompt_tokens": 3788,
+        "completion_tokens": 535,
+        "total_tokens": 4323,
+        "cached_tokens": 2708,
+        "cost_usd": 0.0006189
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 16840,
+        "completion_tokens": 652,
+        "total_tokens": 17492,
+        "cached_tokens": 3783,
+        "cost_usd": 0.00312655
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 29964,
+        "completion_tokens": 1899,
+        "total_tokens": 31863,
+        "cached_tokens": 16835,
+        "cost_usd": 0.00441705
+      }
+    ]
+  }
+}

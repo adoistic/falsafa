@@ -1,0 +1,175 @@
+{
+  "answer": "**Manusmṛti Book 1** opens in a dialogic frame, with a group of great sages approaching Manu—seated in deep concentration—and honoring him before posing their request.[^1] They address him as the \"divine Lord\" who alone knows \"the true meaning of the purpose and reality of this entire ordinance of the Self-existent One,\" imploring him to declare \"precisely and in order, the sacred laws [*dharma*] for all the four *varṇas* (social orders) and for those born between them.\"[^2] Manu responds by honoring them and saying, \"Let it be heard,\" before launching into a cosmogonic account of creation from primordial darkness.[^3]\n\nThis opening commits the text to a hierarchical transmission of *dharma*śāstra: authoritative sacred law flows from the divine Manu (linked to primordial creation and the Self-Existent), through sages, as an exposition of cosmic order applied to human social divisions (*varṇas*) and law. The frame positions the treatise as both revealed wisdom and a structured guide to *varṇa*-specific duties, rooted in the Veda and the universe's foundational acts.[^4]\n\n**Yājñavalkya Smṛti Book 1** (titled \"Chapter on Conduct\") similarly opens in dialogue: sages honor Yājñavalkya, \"lord of yogis,\" and request him to \"declare... in their entirety the *dharma* of the *varṇas*, the life-stages, and the others.\"[^5] Yājñavalkya, residing in Mithilā, briefly instructs them to learn *dharma* \"in the land where the black antelope is found,\" then lists the fourteen sources of knowledge and *dharma* (Vedas, etc.) and eighteen *smṛti* authors (including himself).[^6]\n\nThis commits the text to a comprehensive, sourced manual of conduct (*ācāra*), emphasizing practical *varṇa* and *āśrama* duties, ethical roots (e.g., *śruti*, *smṛti*, virtuous conduct), and yogic insight, while asserting Yājñavalkya's authority among *smṛti*-makers as a direct, rule-based exposition rather than mythic narrative.[^7]\n\nBoth texts frame *dharma* as sage-to-sage instruction on *varṇa* law but diverge in emphasis: Manusmṛti embeds it in creation theology, signaling cosmic eternity; Yājñavalkya prioritizes enumerated sources and conduct, signaling systematic jurisprudence.\n\n[^1]: *Manusmṛti*, [1.1](/works/unknown-manusmrti-347b76/01/translation/#p-879544).\n[^2]: *Manusmṛti*, [1.2-3](/works/unknown-manusmrti-347b76/01/translation/#p-b51d68).\n[^3]: *Manusmṛti*, [1.4-5](/works/unknown-manusmrti-347b76/01/translation/#p-35908f).\n[^4]: *Manusmṛti*, [ch. 1](/works/unknown-manusmrti-347b76/01/translation/).\n[^5]: *Yājñavalkya Smṛti*, [1.1](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-97f0a4).\n[^6]: *Yājñavalkya Smṛti*, [1.2-5](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-4d4d87).\n[^7]: *Yājñavalkya Smṛti*, [ch. 1](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmṛti"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yājñavalkya Smṛti"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-879544"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-b51d68"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-35908f"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-97f0a4"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-4d4d87"
+    }
+  ],
+  "duration_ms": 38796,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 43029,
+    "completion_tokens": 3466,
+    "total_tokens": 46495,
+    "cached_tokens": 9952,
+    "api_calls": 4,
+    "cost_usd": 0.008846,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1932,
+        "completion_tokens": 618,
+        "total_tokens": 2550,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00041325
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2644,
+        "completion_tokens": 292,
+        "total_tokens": 2936,
+        "cached_tokens": 1927,
+        "cost_usd": 0.00038575
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3510,
+        "completion_tokens": 832,
+        "total_tokens": 4342,
+        "cached_tokens": 2639,
+        "cost_usd": 0.00072215
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki_full",
+          "read_wiki_full",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 34943,
+        "completion_tokens": 1724,
+        "total_tokens": 36667,
+        "cached_tokens": 3505,
+        "cost_usd": 0.00732485
+      }
+    ]
+  }
+}

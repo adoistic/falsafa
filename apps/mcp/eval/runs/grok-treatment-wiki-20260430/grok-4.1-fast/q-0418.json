@@ -1,0 +1,204 @@
+{
+  "answer": "**The figure of the cup-bearer (*saqi*, often rendered as \"Saqi,\" \"Cupbearer,\" or \"Cup-bearer\" in translations) is a prominent motif in classical Urdu ghazal poetry, symbolizing the beloved, divine grace, or the server of wine in mystical and romantic contexts.** It appears extensively in the following works from the corpus, primarily 19th- and 20th-century Urdu poetry collections:\n\n- **Diwan-E-Ghalib** by Mirza Ghalib (19th century): Numerous ghazals invoke the *saqi* as a figure of intoxicating beauty and reluctance, such as pleas for wine amid heartbreak.[^1][^2]\n- **Diwan-E-Zauq** by Sheikh Ibrahim Zauq (19th century): Features direct addresses to the *saqi* in humorous and desperate calls for wine, exemplifying courtly poetic tradition.[^3]\n- **Bang-E-Dara** by Allama Iqbal (1924; spans Parts 2 and 3 in the corpus): Uses the *saqi* metaphorically in modern nationalist and spiritual verses, critiquing eras or praising revelry.[^4][^5]\n\n**Incidental mentions of \"cup-bearer\" (not *saqi*) appear in Old English works like *Andreas* and *Old English Elegies*, but these refer to mead-hall servers in a Germanic heroic context, unrelated to the Persianate poetic figure.** No other works in the 37-work corpus engage the *saqi* motif substantively.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/02-aabroo-kya-khaak-uss-gul-ki-ke-gulshan-mein-nahin/translation/#p-6cadea).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/14-bahut-sahi-gham-e-geeti-sharaab-kam-kya-hai/translation/#p-74a1cf).\n[^3]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/58-kahan-talak-kahoon-saqi-ke-laa-sharaab-to-de/translation/#p-8b86a8).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 2*, [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/05-zamana-aaya-hai-be-hijabi-ka-aam-deedaar-e-yaar-ho/translation/#p-445c2f).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-79b1e9).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saqi",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cup-bearer",
+        "limit": 20
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cupbearer",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cup bearer\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "persian"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-445c2f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "paragraph_ids": [
+          "p-79b1e9"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-6cadea"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 58,
+        "paragraph_ids": [
+          "p-8b86a8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"slug\":\"allama-iqbal-bang-e-dara-part-2-9bc58c\",\"title\":\"Bang-E-Dara Part 2\",\"author\":\"Allama Iqbal\",\"author_slug\":\"allama-iqbal\",\"era\":\"20th Century\",\"era_slug\":\"20th-century\",\"genre\":\"Literature\",\""
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"slug\":\"allama-iqbal-bang-e-dara-part-3-cc61e8\",\"title\":\"Bang-E-Dara Part 3\",\"author\":\"Allama Iqbal\",\"author_slug\":\"allama-iqbal\",\"era\":\"20th Century\",\"era_slug\":\"20th-century\",\"genre\":\"Literature\",\""
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-Ghalib\",\"author\":\"Mirza Ghalib\",\"author_slug\":\"mirza-ghalib\",\"era\":\"19th Century\",\"era_slug\":\"19th-century\",\"genre\":\"Literature\",\"genre_sl"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"slug\":\"sheikh-ibrahim-zauq-diwan-e-zauq-0fa798\",\"title\":\"Diwan-E-Zauq\",\"author\":\"Sheikh Ibrahim Zauq\",\"author_slug\":\"sheikh-ibrahim-zauq\",\"era\":\"19th Century\",\"era_slug\":\"19th-century\",\"genre\":\"Lite"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 58,
+      "paragraph_id": "p-6cadea"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 58,
+      "paragraph_id": "p-74a1cf"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 58,
+      "paragraph_id": "p-8b86a8"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 58,
+      "paragraph_id": "p-445c2f"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 58,
+      "paragraph_id": "p-79b1e9"
+    }
+  ],
+  "duration_ms": 35528,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 18213,
+    "completion_tokens": 3910,
+    "total_tokens": 22123,
+    "cached_tokens": 10577,
+    "api_calls": 3,
+    "cost_usd": 0.00401105,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 437,
+        "total_tokens": 2341,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00031715
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 6815,
+        "completion_tokens": 1952,
+        "total_tokens": 8767,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0020561
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata",
+          "get_metadata"
+        ],
+        "prompt_tokens": 9494,
+        "completion_tokens": 1521,
+        "total_tokens": 11015,
+        "cached_tokens": 6810,
+        "cost_usd": 0.0016378
+      }
+    ]
+  }
+}

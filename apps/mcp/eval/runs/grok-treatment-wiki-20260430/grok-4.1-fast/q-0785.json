@@ -1,0 +1,186 @@
+{
+  "answer": "**In Manusmṛti 11.74, as part of the penances prescribed for a Brahmana-slayer (one of the mahāpātakas or great sins, introduced at 11.71–72),** the text states that the offender **\"may sacrifice with a horse-sacrifice, or a Svarjit, or a Gosava; or with an Abhijit or a Vishvajit, or with a Trivrit Agnishtut.\"**[^1]\n\nThis verse offers these elaborate Vedic sacrifices as alternatives to other penances like living twelve years in a forest hut (11.72) or self-immolation (11.73). The broader chapter (11) details expiations (prāyaścitta) for sins across castes, with 11.74 specifically continuing options for the worst offense of Brahmana-slaughter.[^2]\n\n[^1]: Manusmṛti, [paragraph](/works/unknown-manusmrti-347b76/12/translation/#p-f8b471).\n\n[^2]: Manusmṛti, Chapter 11 (full), [chapter](/works/unknown-manusmrti-347b76/11/translation/). Note on numbering: The translation labels this as Mn_11.74 but places it in the chapter 12 file due to verse overflow from chapter 11.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "11.74",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu 11.74",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Manusmṛti · ch.11\\nverse · 6¶ · 206w · vocab 59 (TTR 64%, hapax 76%)\\n\\n## Distinctive trigrams\\n\\\"brahmanas learned veda\\\" · \\\"one establishin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"11.74\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Gosava",
+        "limit": 5
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mn_11.74\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-f8b471"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-f8b471"
+    }
+  ],
+  "duration_ms": 34633,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 58218,
+    "completion_tokens": 3743,
+    "total_tokens": 61961,
+    "cached_tokens": 34895,
+    "api_calls": 5,
+    "cost_usd": 0.00828085,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1897,
+        "completion_tokens": 348,
+        "total_tokens": 2245,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00027125
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2244,
+        "completion_tokens": 645,
+        "total_tokens": 2889,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00048915
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3917,
+        "completion_tokens": 735,
+        "total_tokens": 4652,
+        "cached_tokens": 2239,
+        "cost_usd": 0.00081505
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 24987,
+        "completion_tokens": 801,
+        "total_tokens": 25788,
+        "cached_tokens": 3912,
+        "cost_usd": 0.0048111
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 25173,
+        "completion_tokens": 1214,
+        "total_tokens": 26387,
+        "cached_tokens": 24982,
+        "cost_usd": 0.0018943
+      }
+    ]
+  }
+}

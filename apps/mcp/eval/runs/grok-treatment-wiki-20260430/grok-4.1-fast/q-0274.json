@@ -1,0 +1,277 @@
+{
+  "answer": "**No direct match exists in Charles Comte's *Traité de Législation, Vol. I* for Johann Gottlieb Fichte's explicit claim—advanced in *Zurückforderung der Denkfreiheit von den Fürsten Europens* (ch. 2)—that freedom of thought is an inalienable right preceding and constraining legitimate civil authority.[^1][^2]**\n\nFichte roots legitimate rule in a social contract alienating only *permitted* (not commanded) external actions; freedom of thought, as a core of personhood essential to morality and reason, cannot be alienated and thus limits princely power, which derives solely from society (itself so limited).[^3] Princes may protect rights but never suppress thought-communication, as society lacks authority to demand such renunciation.[^4]\n\nComte, by contrast, analyzes authority as composed of observable \"elements of force\" (opinions, passions, physical sanctions of influential classes/princes), distinguishing *arbitrary regimes* (undescribed, irregular power) from *legal regimes* (pre-described actions, yielding uniformity—but no inherent goodness).[^5] Submission to either is mere \"obedience to necessity,\" not guaranteeing liberty or justice; even \"legal\" power oppresses if malevolent.[^6] He rejects mythical contracts/general will (chs. 6–7) as veiling arbitrary force, insisting legislation be fact-based observation of human nature/effects—but nowhere privileges thought-freedom as logically prior/constraining.[^7][^8]\n\nBoth constrain \"legitimacy\" (Comte via empirical regularity/analysis; Fichte via inalienable rights/contract limits), rejecting Rousseauvian fictions enabling despotism. Yet Comte's focus is power's *composition/effects*, not Fichte's *thought-right precedence*.[^9] The corpus lacks \"freedom of thought\"/\"liberté de penser\" in Vol. I; nearest are general liberty critiques, unmatching Fichte's claim.[^10]\n\n[^1]: J. G. Fichte, *Zurückforderung der Denkfreiheit...*, ch. 2 [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-e62dae).\n\n[^2]: Ibid., [p-900390](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-900390), [p-b77ba3](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-b77ba3).\n\n[^3]: Ibid., [p-7062a4](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-7062a4), [p-ff7538](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-ff7538).\n\n[^4]: Ibid., [p-be3fae](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-be3fae).\n\n[^5]: C. Comte, *Traité de Législation, Vol. I*, ch. 13 [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/13-distinction-entre-un-regime-arbitraire-et-un-regim/translation/#p-72aa45).\n\n[^6]: Ibid., [p-fadb97](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/13-distinction-entre-un-regime-arbitraire-et-un-regim/translation/#p-fadb97), [p-9f5b65](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/13-distinction-entre-un-regime-arbitraire-et-un-regim/translation/#p-9f5b65).\n\n[^7]: Ibid., ch. 6 (full) [chapter](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/06-du-systeme-dans-lequel-on-considere-les-lois-civil/translation/).\n\n[^8]: Ibid., ch. 7 (full) [chapter](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/07-du-systeme-dans-lequel-on-considere-les-lois-comme/translation/).\n\n[^9]: TF-IDF links chs. 6–7 to Fichte ch. 2 (cosine ~0.32), but via shared anti-Rousseauvian themes, not thought-freedom.\n\n[^10]: Corpus-wide searches (\"freedom of thought\" OR \"liberté de penser\" OR Denkfreiheit + authority/rule) yield 0 hits in Vol. I.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "fichte"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"thought freedom\" OR \"freedom of thought\" OR \"liberté de penser\" authority OR rule OR government OR législation",
+        "limit": 20
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "{\"markdown\":\"# Zurückforderung der Denkfreiheit von den Fürsten Europens\\nJohann Gottlieb Fichte · Enlightenment · german · prose · 2 chapters · 10,652 words\\n\\n## Work-level distinctive trigrams (top"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.1\\nprose · 36¶ · 6839w · vocab 1192 (TTR 38%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"application analytical m"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Zurückforderung der Denkfreiheit von den Fürsten Europens · ch.1\\nprose · 12¶ · 2172w · vocab 673 (TTR 68%, hapax 77%)\\n\\n## Distinctive trigrams\\n"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Zurückforderung der Denkfreiheit von den Fürsten Europens · ch.2\\nprose · 52¶ · 8480w · vocab 1547 (TTR 42%, hapax 60%)\\n\\n## Distinctive trigrams\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.13\\nprose · 12¶ · 2082w · vocab 424 (TTR 47%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"arbitrary regime legal\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.7\\nprose · 40¶ · 6827w · vocab 1126 (TTR 39%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"general always right\\\" ·"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"freedom of thought\" OR \"liberté de penser\" OR \"liberté de la pensée\" OR Denkfreiheit authority OR pouvoir OR légitime OR légal OR règle OR rule",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "work_slug_b": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "topic": "legitimate authority freedom of thought"
+      },
+      "result_summary": "{\"topic\":\"legitimate authority freedom of thought\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"charles-comte-trai"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 13
+      },
+      "result_summary": "Read ch.13 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "limit": 5
+      },
+      "result_summary": "Found 5 related"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-e62dae"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-900390"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-b77ba3"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-7062a4"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-ff7538"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-be3fae"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-72aa45"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-fadb97"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-9f5b65"
+    }
+  ],
+  "duration_ms": 47957,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 76979,
+    "completion_tokens": 5583,
+    "total_tokens": 82562,
+    "cached_tokens": 30099,
+    "api_calls": 5,
+    "cost_usd": 0.01367245,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1925,
+        "completion_tokens": 428,
+        "total_tokens": 2353,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003167
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5301,
+        "completion_tokens": 853,
+        "total_tokens": 6154,
+        "cached_tokens": 150,
+        "cost_usd": 0.0014642
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 9319,
+        "completion_tokens": 991,
+        "total_tokens": 10310,
+        "cached_tokens": 5296,
+        "cost_usd": 0.0015649
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "compare_works"
+        ],
+        "prompt_tokens": 13462,
+        "completion_tokens": 1520,
+        "total_tokens": 14982,
+        "cached_tokens": 9314,
+        "cost_usd": 0.0020553
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "find_related"
+        ],
+        "prompt_tokens": 46972,
+        "completion_tokens": 1791,
+        "total_tokens": 48763,
+        "cached_tokens": 13457,
+        "cost_usd": 0.00827135
+      }
+    ]
+  }
+}

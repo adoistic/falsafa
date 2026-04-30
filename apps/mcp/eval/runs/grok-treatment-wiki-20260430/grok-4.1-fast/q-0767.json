@@ -1,0 +1,145 @@
+{
+  "answer": "**In Chapter 2 of Johann Gottlieb Fichte's *Zurückforderung der Denkfreiheit von den Fürsten Europens* (1793), Fichte defines and discusses \"contract\" (Vertrag) primarily in the context of social contract theory, as the mechanism for exchanging alienable rights to establish civil society, while emphasizing limits on what can be alienated.**[^1][^2]\n\nHe explains that contracts emerge from mutual renunciations of *alienable* rights—those merely *permitted* (but not commanded) by the moral law, limited to **external actions** (not internal dispositions like truthfulness or love, which cannot be verified or enforced contractually): \"From such an exchange of alienable rights for alienable rights arises the contract. I renounce the exercise of one of my rights on the condition that the other party likewise renounces the exercise of one of theirs.\"[^1]\n\nCivil society itself is founded on such a contract: all members renounce some alienable rights conditionally (each gives up some if others do too), voluntarily accepting civil laws as self-imposed, since no one can legitimately be *given* laws by another.[^2] Breach of contract justifies compulsion (executive power), transferred to a prince.[^3]\n\nHowever, Fichte stresses that **inalienable rights** (e.g., freedom/personality, free thought/communication) **cannot be alienated via contract**, rendering any such promise void and immoral.[^4][^5] Princes derive authority from this contract but inherit no right to suppress thought, as society could never possess or transfer it.[^6]\n\n[^1]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [p-c72eae](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-c72eae).\n[^2]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [p-7062a4](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-7062a4).\n[^3]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [p-1164f9](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-1164f9).\n[^4]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [p-b77ba3](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-b77ba3).\n[^5]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [p-a1dcbf](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/#p-a1dcbf).\n[^6]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, ch.2, [full chapter](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/02/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "fichte"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fichte zurückforderung contract"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"zurückforderung\" contract"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Zurückforderung der Denkfreiheit von den Fürsten Europens · ch.2\\nprose · 52¶ · 8480w · vocab 1547 (TTR 42%, hapax 60%)\\n\\n## Distinctive trigrams\\"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "Listed 2 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "{\"markdown\":\"# Zurückforderung der Denkfreiheit von den Fürsten Europens\\nJohann Gottlieb Fichte · Enlightenment · german · prose · 2 chapters · 10,652 words\\n\\n## Work-level distinctive trigrams (top"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-c72eae"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-7062a4"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-1164f9"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-b77ba3"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-a1dcbf"
+    }
+  ],
+  "duration_ms": 25195,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 22552,
+    "completion_tokens": 2759,
+    "total_tokens": 25311,
+    "cached_tokens": 2612,
+    "api_calls": 4,
+    "cost_usd": 0.0054981,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 487,
+        "total_tokens": 2394,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006024
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2167,
+        "completion_tokens": 278,
+        "total_tokens": 2445,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005499
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3869,
+        "completion_tokens": 357,
+        "total_tokens": 4226,
+        "cached_tokens": 2162,
+        "cost_usd": 0.000628
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 14609,
+        "completion_tokens": 1637,
+        "total_tokens": 16246,
+        "cached_tokens": 150,
+        "cost_usd": 0.0037178
+      }
+    ]
+  }
+}

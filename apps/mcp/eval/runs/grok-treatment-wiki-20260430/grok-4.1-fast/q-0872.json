@@ -1,0 +1,256 @@
+{
+  "answer": "In the Old English elegy *The Wanderer*, the compound *goldwine* (\"gold-friend,\" denoting a generous lord who bestows gold treasures on his retainers) evokes the warmth of lost patronage and social bonds: \"since long ago my **gold-friend** / the earth's darkness covered.\"[^1]\n\nIn Allama Iqbal's Urdu poem \"Mehr-e-roshan\" (\"The Shining Sun\"), the polysemous *mehr* (sun, but also kindness/affection/sun-like generosity) opens with solar imagery of setting warmth: \"**Mehr-e-roshan** chhip gaya\" (\"The shining sun has gone from sight\").[^2]\n\nDoes the \"warmth\" in each—material/economic bonds via gifts (*goldwine*) versus radiant affection or natural light (*mehr*)—stem from the same metaphorical place, or something culturally distinct?\n\n[^1]: Unknown, *Old English Elegies*, [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/32-mehr-e-roshan/transliteration/#p-6d3166).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gold-wine",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "goldwine",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mehr",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old English"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-2ecb4b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-624562"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-2ecb4b"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32,
+        "paragraph_ids": [
+          "p-6d3166"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32,
+        "paragraph_ids": [
+          "p-6d3166"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.32\\nverse · 27¶ · 590w · vocab 240 (TTR 79%, hapax 85%)\\n\\n## Distinctive trigrams\\n\\\"inquiry sleepers dust\\\" · \\\"sleepers "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.32 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.32 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gold wine\" OR \"gold-lord\" OR \"gold friend\"",
+        "limit": 5
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sun\" kindness OR affection \"mehr\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 32,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 32,
+      "paragraph_id": "p-6d3166"
+    }
+  ],
+  "duration_ms": 50096,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 45448,
+    "completion_tokens": 5797,
+    "total_tokens": 51245,
+    "cached_tokens": 19835,
+    "api_calls": 4,
+    "cost_usd": 0.00901285,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1950,
+        "completion_tokens": 585,
+        "total_tokens": 2535,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00040035
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 6007,
+        "completion_tokens": 1868,
+        "total_tokens": 7875,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00185325
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "get_passage",
+          "get_passage",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10076,
+        "completion_tokens": 1526,
+        "total_tokens": 11602,
+        "cached_tokens": 6002,
+        "cost_usd": 0.0018779
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 27415,
+        "completion_tokens": 1818,
+        "total_tokens": 29233,
+        "cached_tokens": 10071,
+        "cost_usd": 0.00488135
+      }
+    ]
+  }
+}

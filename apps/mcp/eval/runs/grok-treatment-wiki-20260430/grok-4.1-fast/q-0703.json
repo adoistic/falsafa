@@ -1,0 +1,147 @@
+{
+  "answer": "**Chapter 51 of the *Viṣṇu Smṛti* primarily treats penances (*prāyaścitta*) for consuming forbidden or impure foods and substances.**[^1]\n\nIt details specific expiations for offenses such as:\n- Drinking liquor or eating pungent foods like garlic and onions (*cāndrāyaṇa* penance).[^2]\n- Eating impure meats (e.g., pork, beef, five-toed animals, carnivores, dogs, donkeys), fish (except certain species), birds (except a few), insects, mushrooms, and stale or uncooked foods—ranging from fasting (three to seven nights), subsisting on milk, to *taptakṛcchra* or *prājāpatya* penances.[^3]\n- Consuming food from impure sources (e.g., low castes, courtesans, thieves, menstruating women, or polluted items)—often requiring milk diets or fasting.[^4]\n- Eating leftovers (*ucchishṭa*) from lower varṇas (e.g., seven nights for a Brāhmaṇa eating Śūdra leftovers; scaled by caste).[^5]\n\nThe chapter concludes (from verse 59) with rules on meat-eating: Brāhmaṇas may only consume animals consecrated with mantras in sacrifices (*madhuparka*, ancestral/god rites); non-sacrificial killing or eating is condemned as violent sin, equivalent to countless deaths, while Vedic ahimsa (*non-violence*) permits sacrificial harm for higher states, extolling meat abstainers' supreme merit.[^6]\n\n[^1]: *Viṣṇu Smṛti*, [Chapter 51](/works/unknown-visnu-smrti-27f0d8/51/translation/).\n[^2]: *Viṣṇu Smṛti*, [Chapter 51](/works/unknown-visnu-smrti-27f0d8/51/translation/#p-dd7e4f).\n[^3]: *Viṣṇu Smṛti*, [Chapter 51](/works/unknown-visnu-smrti-27f0d8/51/translation/#p-180a83) (e.g., [p-6f109c], [p-af4790]).\n[^4]: *Viṣṇu Smṛti*, [Chapter 51](/works/unknown-visnu-smrti-27f0d8/51/translation/#p-d09c4f).\n[^5]: *Viṣṇu Smṛti*, [Chapter 51](/works/unknown-visnu-smrti-27f0d8/51/translation/#p-fce389).\n[^6]: *Viṣṇu Smṛti*, [Chapter 51](/works/unknown-visnu-smrti-27f0d8/51/translation/#p-4a3c8c).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Visnu Smriti chapter 51"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vishnu Smriti chapter 51"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 51
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.51\\nverse · 60¶ · 1694w · vocab 398 (TTR 51%, hapax 75%)\\n\\n## Distinctive trigrams\\n\\\"three nights vi_51\\\" · \\\"vi_51 eating me"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 51
+      },
+      "result_summary": "Read ch.51 of unknown-visnu-smrti-27f0d8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-dd7e4f"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-180a83"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-6f109c"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-af4790"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-d09c4f"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-fce389"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 51,
+      "paragraph_id": "p-4a3c8c"
+    }
+  ],
+  "duration_ms": 39832,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 16511,
+    "completion_tokens": 3362,
+    "total_tokens": 19873,
+    "cached_tokens": 6309,
+    "api_calls": 4,
+    "cost_usd": 0.00403685,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 749,
+        "total_tokens": 2650,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007322
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2817,
+        "completion_tokens": 290,
+        "total_tokens": 3107,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004261
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 4132,
+        "completion_tokens": 804,
+        "total_tokens": 4936,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012059
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 7661,
+        "completion_tokens": 1519,
+        "total_tokens": 9180,
+        "cached_tokens": 4127,
+        "cost_usd": 0.00167265
+      }
+    ]
+  }
+}

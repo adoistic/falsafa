@@ -1,0 +1,368 @@
+{
+  "answer": "**Ghalib and Zauq, contemporaries and rivals in the Mughal court poetic tradition, both invoke wine (*baada* or *sharab*) and intoxication as metaphors for ecstatic love, passion, and existential abandon—common in Urdu ghazal—but with nuanced differences in agency, tone, and scope.**\n\n**A representative Ghalib couplet on wine (from Ghazal 77):**  \n> Let wine persuade your heart to gently sway one day,  \n> Or I'll feign drunkenness and have my sway one day.[^1]\n\nGhalib treats intoxication playfully and proactively here: wine (*mai*) is a persuader of the heart toward joyful movement (*sway*), and the poet-speaker wields feigned drunkenness (*mai-parasti*) as a deliberate ruse for dominance or union. It evokes liberation, even control amid life's impermanence (echoed in the ghazal's motifs of decay and fragile instruments). Across his diwan, wine often expands cosmically, as in Ghazal 160's \"wave of wine\" (*mauj-e-sharab*) vitalizing seasons, vines, and existence itself—a fevered, world-embracing ecstasy.[^2]\n\n**A representative Zauq couplet on wine/intoxication (from Ghazal 15):**  \n> That wildness, that estrangement, that intoxicated state—  \n> Is in your eyes, or in your lover, driven insane within.[^3]\n\nZauq frames intoxication more viscerally and interrogatively, as a bewildering madness (*intoxicated state*) blurring lover and beloved—tied to love's torment rather than chosen revelry. Wine appears in his work as alchemical transformation (water to wine in a humble cup) or a gurgling call amid grief-stained gatherings (Ghazal 37), but intoxication remains personal, pained, and involuntary, staining the heart's \"house of pain.\"[^4]\n\n**Key differences:** Ghalib's intoxication is dynamic and philosophical—agentic, seasonal, a vital force blending play, fire, and cosmic flow. Zauq's is relational and anguished—an estranging wildness from the beloved's gaze, amplifying love's isolating insanity over triumphant abandon.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [ch. 77, p-236777](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/77-humse-khul-jaao-ba-waqt-e-mai-parasti-ek-din/translation/#p-236777).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [ch. 160](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/160-phir-hua-waqt-ke-ho-baal-kusha-mauj-e-sharab/translation/).\n[^3]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [ch. 15, p-437658](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/15-dood-e-dil-se-hai-yeh-taareeki-mere-gham-khaane-me/translation/#p-437658).\n[^4]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [ch. 37](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/37-mehfil-mein-shor-e-qulqul-e-meena-e-mul-hua/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ibrahim-zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib wine",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "zauq wine",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wine\" intoxication ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wine\" intoxication zauq",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wine",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "drunk",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intoxicated",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intoxication",
+        "limit": 20
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sharab",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mai",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 6
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 06-aamad-e-khat-se-hua-hai-sard-jo-bazaar-e-dost.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.7\\nverse · 6¶ · 124w · vocab 62 (TTR 95%, hapax 95%)\\n\\n## Distinctive trigrams\\n\\\"flood approach water\\\" · \\\"approach water th"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 77
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.77\\nverse · 5¶ · 96w · vocab 43 (TTR 62%, hapax 84%)\\n\\n## Distinctive trigrams\\n\\\"sway one day\\\" · \\\"way one day\\\" · \\\"play on"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 106
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.106\\nverse · 4¶ · 69w · vocab 39 (TTR 95%, hapax 95%)\\n\\n## Distinctive trigrams\\n\\\"wine itself lips\\\" · \\\"itself lips learns\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 160
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.160\\nverse · 12¶ · 259w · vocab 101 (TTR 68%, hapax 83%)\\n\\n## Distinctive trigrams\\n\\\"once season comes\\\" · \\\"season comes "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 15
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Zauq · ch.15\\nverse · 10¶ · 218w · vocab 109 (TTR 84%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"wine domain within\\\" · \\\"heart own smoke\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 37
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Zauq · ch.37\\nverse · 7¶ · 131w · vocab 74 (TTR 94%, hapax 93%)\\n\\n## Distinctive trigrams\\n\\\"flask song rose\\\" · \\\"song rose gurgling\\\" · "
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "topic": "wine"
+      },
+      "result_summary": "{\"topic\":\"wine\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "topic": "intoxication"
+      },
+      "result_summary": "{\"topic\":\"intoxication\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\""
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "topic": "drunk"
+      },
+      "result_summary": "{\"topic\":\"drunk\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 77
+      },
+      "result_summary": "Read ch.77 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 160
+      },
+      "result_summary": "Read ch.160 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 37
+      },
+      "result_summary": "Read ch.37 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 15
+      },
+      "result_summary": "Read ch.15 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 106
+      },
+      "result_summary": "Read ch.106 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 106,
+      "paragraph_id": "p-236777"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 106,
+      "paragraph_id": "p-437658"
+    }
+  ],
+  "duration_ms": 52018,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 77674,
+    "completion_tokens": 5627,
+    "total_tokens": 83301,
+    "cached_tokens": 46496,
+    "api_calls": 5,
+    "cost_usd": 0.0113739,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1913,
+        "completion_tokens": 537,
+        "total_tokens": 2450,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006286
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2827,
+        "completion_tokens": 992,
+        "total_tokens": 3819,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00077925
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 20035,
+        "completion_tokens": 1227,
+        "total_tokens": 21262,
+        "cached_tokens": 150,
+        "cost_usd": 0.004598
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "compare_works",
+          "compare_works",
+          "compare_works"
+        ],
+        "prompt_tokens": 24290,
+        "completion_tokens": 979,
+        "total_tokens": 25269,
+        "cached_tokens": 20030,
+        "cost_usd": 0.002343
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 28609,
+        "completion_tokens": 1892,
+        "total_tokens": 30501,
+        "cached_tokens": 24285,
+        "cost_usd": 0.00302505
+      }
+    ]
+  }
+}

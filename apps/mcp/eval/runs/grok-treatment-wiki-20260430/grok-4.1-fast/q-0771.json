@@ -1,0 +1,178 @@
+{
+  "answer": "**In *San Hyan Kamahayanikan* (ch. 1), the Five Tathāgatas are introduced with their characteristic wisdoms in the following passage:**[^1]\n\n> Here is the order of the wisdom of the Five Tathāgatas in the Sacred Mahāyāna.  \n> *ŚĀŚVATAJÑĀNABUDDHAŚ CA ADARŚAJÑĀNĀKṢOBHYAŚ CA*  \n> *SAMATA RATNASAMBHAVAḤ KṚTYAÑ CĀMOGHASIDDHIDAḤ*  \n> *PRATYAVEKṢAṆA VIJÑEYO LOKEŚVARA PARAṀSUKHAṀ*  \n> *ETĀNI PAÑCAJÑĀNĀNI GUHYAÑ CA PARIKĪRTYATE.*\n\nThe commentary explains them in order (Vairocana, Akṣobhya, Ratnasambhava, Amitābha, Amoghasiddhi):\n\n> The non-conceptual wisdom in which there is grasping to a self is called eternal wisdom (*śāśvatajñāna*). That is the wisdom of Lord Vairocana.  \n> The luminous wisdom, wisdom that shines like the splendor of the sun, is called **mirror-like wisdom (*ādarśajñāna*)**. **That is the wisdom of Lord Akṣobhya**.[^2]  \n> The wisdom that is free from perceiver and perceived... is called the wisdom of the equality of space (*ākāśamatajñāna*). That is the wisdom of Lord Ratnasambhava.  \n> ...[continues similarly for the rest]. Such are the distinctions of the Five Wisdoms for the lord of yogis. They are a supreme secret.\n\n**Akṣobhya (the second) is described elsewhere in the chapter as well—for instance, as consort to the Divine Lady Locanā** (with their essences unified as one),[^3] **with seed-syllable *hūṁ*,**[^4] **embodying aversion (*dveṣa*) among the three poisons,**[^5] **consciousness (*vijñāna*) among the five aggregates,**[^6] **the space element (*ākāśadhātu*),**[^7] **and mind (*citta*) among the three bodies (*trikāya*).**[^8]\n\n[^1]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-36988a).\n[^2]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-ff7d3d).\n[^3]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-53bcda).\n[^4]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-358765).\n[^5]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-f4b362).\n[^6]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-7298d4).\n[^7]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-cee005).\n[^8]: *San Hyan Kamahayanikan*, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-39287a).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "San Hyan Kamahayanikan",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Aksobhya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"five Tathagatas\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Kamahayanikan\\nMpu Shri Sambhara Surya Warama · Medieval · kawi · prose · 1 chapters · 14,398 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"body s"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Kamahayanikan · ch.1\\nprose · 258¶ · 14398w · vocab 2021 (TTR 29%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"body speech mind\\\" · \\\"divine "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Kamahayanikan · ch.1\\nprose · 258¶ · 14398w · vocab 2021 (TTR 29%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"body speech mind\\\" · \\\"divine "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-36988a"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-ff7d3d"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-53bcda"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-358765"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-f4b362"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-7298d4"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-cee005"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-39287a"
+    }
+  ],
+  "duration_ms": 35219,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 47168,
+    "completion_tokens": 3791,
+    "total_tokens": 50959,
+    "cached_tokens": 12117,
+    "api_calls": 4,
+    "cost_usd": 0.00951155,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1915,
+        "completion_tokens": 855,
+        "total_tokens": 2770,
+        "cached_tokens": 150,
+        "cost_usd": 0.000788
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5434,
+        "completion_tokens": 455,
+        "total_tokens": 5889,
+        "cached_tokens": 149,
+        "cost_usd": 0.00129195
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6394,
+        "completion_tokens": 598,
+        "total_tokens": 6992,
+        "cached_tokens": 5429,
+        "cost_usd": 0.00076345
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki_full",
+          "read_chapter"
+        ],
+        "prompt_tokens": 33425,
+        "completion_tokens": 1883,
+        "total_tokens": 35308,
+        "cached_tokens": 6389,
+        "cost_usd": 0.00666815
+      }
+    ]
+  }
+}

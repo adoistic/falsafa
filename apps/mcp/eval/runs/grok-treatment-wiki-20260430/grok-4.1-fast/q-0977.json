@@ -1,0 +1,353 @@
+{
+  "answer": "**In the *Manusmṛti*, the Brahmin's unique authority to teach sacred knowledge (the Veda) is explicitly tied both to birth into the highest *varṇa* and to the exclusive duty of the \"twice-born\" (*dvija*) classes, from which only Brahmins may instruct others:**\n\n> The three *varnas* of the twice-born, abiding in their own duties, may study; but a Brahmana alone should teach them, not the other two; this is the decision.[^1]\n\n**The *Yājñavalkya Smṛti* similarly structures authority hierarchically by birth into *varṇas*, with Brahmins at the apex for Vedic rites (*śrauta smārta rites*) and daily studies, as signalled in its distinctive phrasing (though no single verse isolates \"birth + Veda command\" as starkly as Manu 10.1; the work repeatedly enumerates *varṇa*-specific duties starting with Brahmins).**[^2]\n\n**Cynewulf's *Elene* depicts clerical authority (bishop/priest) as derived from faith, baptism, and installation within the Christian community—the \"body\" of Christ—rather than birth. Judas (renamed Cyriacus) transitions from Jew to bishop via revelation, baptism, and appointment by Eusebius:**\n\n> Indeed, fate decreed that he so faithful and so dear to God in this worldly kingdom should become, pleasing to Christ. That was made known, after Elene commanded Eusebius, the bishop of Rome, a man of deep counsel, to be fetched for support... that he might install in the priesthood in Jerusalem Judas as bishop for the people.[^3]\n\nThe Brahmin office is harder for an outsider to assume. Birth into the Brahmin *varṇa* is immutable (a Shudra or non-twice-born cannot become one, per the *varṇāśrama* system), whereas Veda mastery is restricted but secondary to heredity.[^4] A Christian priestly role requires conversion (\"pleasing to Christ\" via faith/baptism) and ordination, both accessible to outsiders (as with Judas), embodying membership in Christ's body (the Church). Hereditary caste trumps acquirable spiritual status.\n\n[^1]: *Manusmṛti*, ch. 10, [p-4999b4](/works/unknown-manusmrti-347b76/10/translation/#p-4999b4).\n\n[^2]: *Yājñavalkya Smṛti*, ch. 1, [full wiki](/works/unknown-yajnavalkya-smrti-cb88d6/01/wiki/full/), highlighting \"vedic study,\" \"śrauta smārta rites,\" and *varṇa* ordering (e.g., \"brāhmaṇa kṣatriya vaiśya\").\n\n[^3]: Cynewulf, *Elene*, ch. 1, [p-f5d1f1](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1) (context: Judas's faith makes him \"inside Christ's body\" via baptism/spiritual rebirth; bishopric follows).\n\n[^4]: *Manusmṛti*, ch. 10 opening, [p-4999b4](/works/unknown-manusmrti-347b76/10/translation/#p-4999b4); birth primacy recurs (e.g., Mn_2.19 on Brahmana-born conduct).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmin\" birth Veda",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"priest\" OR \"priesthood\" \"Christ\" body",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmana veda",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahmana\" birth OR born OR \"by birth\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yajnavalkya brahmana veda"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cynewulf priest OR bishop OR cleric \"christ\" body OR church"
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahmana knows veda\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmin OR brahmana birth OR caste OR varna veda",
+        "limit": 20
+      },
+      "result_summary": "Found 19 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.10\\nverse · 132¶ · 3840w · vocab 764 (TTR 42%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"next lower caste\\\" · \\\"women next lower\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"church\" OR \"body\" OR \"member\" priest OR bishop OR cleric cynewulf"
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bishop\" OR priest OR \"priest\" cynewulf",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-4999b4"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahmana\" teach OR study OR veda OR \"sacred text\" OR \"recite\" OR \"knows\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"varna\" study OR teach OR veda",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bishop\" OR priest OR \"priest*\" OR cleric OR \"church\" cynewulf",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-4999b4"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    }
+  ],
+  "duration_ms": 74523,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 75234,
+    "completion_tokens": 8493,
+    "total_tokens": 83727,
+    "cached_tokens": 35950,
+    "api_calls": 6,
+    "cost_usd": 0.013900800000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1946,
+        "completion_tokens": 495,
+        "total_tokens": 2441,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006142
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2550,
+        "completion_tokens": 1097,
+        "total_tokens": 3647,
+        "cached_tokens": 150,
+        "cost_usd": 0.001036
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4783,
+        "completion_tokens": 910,
+        "total_tokens": 5693,
+        "cached_tokens": 2545,
+        "cost_usd": 0.00102985
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 10323,
+        "completion_tokens": 1460,
+        "total_tokens": 11783,
+        "cached_tokens": 4778,
+        "cost_usd": 0.0020779
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18014,
+        "completion_tokens": 2611,
+        "total_tokens": 20625,
+        "cached_tokens": 10318,
+        "cost_usd": 0.0033606
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki_full",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 37618,
+        "completion_tokens": 1920,
+        "total_tokens": 39538,
+        "cached_tokens": 18009,
+        "cost_usd": 0.00578225
+      }
+    ]
+  }
+}

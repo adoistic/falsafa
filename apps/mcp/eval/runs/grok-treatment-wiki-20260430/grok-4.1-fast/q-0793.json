@@ -1,0 +1,157 @@
+{
+  "answer": "**There is no line in Cynewulf's *Elene* where Constantine specifically asks for the meaning of the cross-vision.**\n\nConstantine receives the vision directly from an angel during a dream before battle (lines 91–122 in standard editions). The heavenly messenger appears without prompting, displays the radiant cross (the \"sign of the Savior’s Rood\"), and immediately explains its significance and purpose: to conquer his enemies (\"By this sign, conquer\"). Constantine awakens inspired, without questioning it, and orders his craftsmen to replicate the symbol as a battle standard.[^1][^2]\n\nThe poem then shifts abruptly to Elene's quest for the True Cross; Constantine does not speak or consult advisors about the vision's meaning.[^3]\n\n[^1]: Cynewulf, *Elene*, ch. 1, [p-acdc07](/works/cynewulf-elene-d2d132/01/translation/#p-acdc07).\n[^2]: Cynewulf, *Elene*, ch. 1, [p-306e06](/works/cynewulf-elene-d2d132/01/translation/#p-306e06).\n[^3]: Cynewulf, *Elene*, ch. 1, [p-86294a](/works/cynewulf-elene-d2d132/01/translation/#p-86294a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Constantine\" \"cross\" \"meaning\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"what mean\" OR \"meaning of\" cross Constantine",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cross\" \"sign\" OR \"vision\" Constantine Elene",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Constantine \"sign\" OR \"cross\" OR \"vision\" OR \"sky\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"what does\" OR \"what mean\" OR \"meaning\" OR \"signify\" cross OR sign Constantine",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-acdc07"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-306e06"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-86294a"
+    }
+  ],
+  "duration_ms": 43297,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 56562,
+    "completion_tokens": 2894,
+    "total_tokens": 59456,
+    "cached_tokens": 24252,
+    "api_calls": 4,
+    "cost_usd": 0.0091216,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1910,
+        "completion_tokens": 670,
+        "total_tokens": 2580,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006945
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4929,
+        "completion_tokens": 430,
+        "total_tokens": 5359,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0009185
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17301,
+        "completion_tokens": 543,
+        "total_tokens": 17844,
+        "cached_tokens": 4924,
+        "cost_usd": 0.0029931
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 32422,
+        "completion_tokens": 1251,
+        "total_tokens": 33673,
+        "cached_tokens": 17296,
+        "cost_usd": 0.0045155
+      }
+    ]
+  }
+}

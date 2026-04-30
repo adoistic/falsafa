@@ -1,0 +1,324 @@
+{
+  "answer": "In Allama Iqbal's *Sair-e-Falak* (\"Journey through the Sky\"), the speaker embarks on an imaginative celestial voyage beyond the stars and planetary rings, through paradisiacal visions (Tooba's birds, Houris, and the cupbearer Saqian), into a frozen cosmic void revealed as Hell.[^1] The central vision-moment arrives when the angel Surosh explains this bleak realm: Hell lacks inherent fire or light—damned souls import their own \"embers\" from earthly deeds, rendering punishment self-inflicted.[^2] The speaker seeks transcendent insight into cosmic and spiritual realities, particularly the self-determining nature of the soul across divine realms.\n\nIn the Old English *Wanderer*, the speaker (\"earth-stepper,\" \"lone-dweller\") traverses frozen exile-paths across rime-cold seas amid storms, hail, and encroaching darkness, haunted by memories of lost lords, kinsmen, and hall-joys; visions of sea-birds and ruined \"wind-blown walls\" evoke middle-earth's cosmic decay under Wyrd and the Fates.[^3] The central vision-moment fuses dream (clasping a lost liege-lord) with awakening to this transience, yielding wisdom: true stability lies in seeking \"grace\" and \"comfort from the Father in heaven.\"[^4] The speaker hopes to find mercy, a new treasure-giver (lord), or ultimately divine consolation amid inevitable loss.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch.18 (*Sair-e-Falak*), [translation](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/18-sair-e-falak/translation/).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, ch.18 (*Sair-e-Falak*), [paragraphs](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/18-sair-e-falak/translation/#p-3ccdfb).\n[^3]: Unknown, *Old English Elegies*, ch.11 (*The Wanderer*), [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n[^4]: Unknown, *Old English Elegies*, ch.11 (*The Wanderer*), [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-5bdc65).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sair-e-Falak",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Sair",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"The Wanderer\" elegy",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Wanderer cosmic",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old English"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 3 · ch.18\\nverse · 15¶ · 227w · vocab 119 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"celestial journey companion\\\" · \\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Wanderer",
+        "limit": 10
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old English"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "Anglo-Saxon"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 3 · ch.18\\nverse · 15¶ · 227w · vocab 119 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"celestial journey companion\\\" · \\\""
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki full missing: 11-the-wanderer.full.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.18 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18,
+        "paragraph_ids": [
+          "p-3ccdfb",
+          "p-9d0a05",
+          "p-a22f19",
+          "p-b5be43"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 18,
+        "paragraph_ids": [
+          "p-7bcfb8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9462cc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-9cca5e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-5bdc65"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-3ccdfb"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 11,
+      "paragraph_id": "p-5bdc65"
+    }
+  ],
+  "duration_ms": 54646,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 39547,
+    "completion_tokens": 6114,
+    "total_tokens": 45661,
+    "cached_tokens": 16793,
+    "api_calls": 6,
+    "cost_usd": 0.00844745,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1935,
+        "completion_tokens": 544,
+        "total_tokens": 2479,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006365
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3189,
+        "completion_tokens": 569,
+        "total_tokens": 3758,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00064015
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 4731,
+        "completion_tokens": 820,
+        "total_tokens": 5551,
+        "cached_tokens": 3184,
+        "cost_usd": 0.0008786
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki_full",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 6707,
+        "completion_tokens": 687,
+        "total_tokens": 7394,
+        "cached_tokens": 4726,
+        "cost_usd": 0.000976
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 10398,
+        "completion_tokens": 1966,
+        "total_tokens": 12364,
+        "cached_tokens": 6702,
+        "cost_usd": 0.0020573
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 12587,
+        "completion_tokens": 1528,
+        "total_tokens": 14115,
+        "cached_tokens": 150,
+        "cost_usd": 0.0032589
+      }
+    ]
+  }
+}

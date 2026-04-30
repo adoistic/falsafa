@@ -1,0 +1,423 @@
+{
+  "answer": "**Apaddharma** (Sanskrit: आपद्दर्म, \"dharma in calamity\" or \"emergency dharma\") refers to the codified exceptions in Smṛti texts permitting temporary deviations from one's *svadharma* (personal duty tied to *varṇa* and *āśrama*) during crises such as famine, war, disease, or personal ruin (*āpaddharma* or *āpadkāla*). These provisions prioritize survival while enjoining a return to normal duties post-crisis, often with penance. The concept underscores the hierarchy of duties: one's own imperfect dharma > another's perfect dharma, but necessity (*āpad*) justifies pragmatic adaptation.[^1][^2]\n\nNo text uses the exact compound \"apaddharma,\" but the doctrine permeates Smṛtis via phrases like \"time of distress\" (*duḥkhasyāpadām kālaḥ*), \"calamity\" (*vyasana*), and \"when unable to subsist\" (*na śaknuyād vṛttikāriṇī*). It applies mainly to *varṇadharma* (caste duties), allowing higher *varṇas* to adopt lower occupations temporarily, but never vice versa or permanent shifts. Key examples:\n\n### Manusmṛti (Primary Exposition)\nChapter 10 systematically outlines *āpaddharma* for *varṇas*:\n- A Brāhmaṇa unable to subsist by teaching/sacrificing may adopt a Kṣatriya's arms-bearing (e.g., for protection), then a Vaiśya's trade/agriculture, but avoid farming's violence.[^3]\n- A Kṣatriya in distress may live by Vaiśya occupations but not superiors.[^4]\n- A Vaiśya may resort to Śūdra service; a Śūdra to artisanry.[^5]\n- \"Better is one's own duty, though imperfect, than the duty of another well-performed; he who acts thus falls not from his caste.\" Exceptions are strictly temporary.[^6]\nChapter 9 extends to inheritance/progeny (e.g., *niyoga* for lineage in extinction risk, but only in extremity).[^7] Chapter 12 warns against non-distress use of emergency rules.[^8]\n\n### Nāradasmṛti\nChapter 1 permits \"next successive occupation\" in calamity (*vyasana*), reversing normal *varṇadharma* (e.g., Brāhmaṇa as Kṣatriya, then Vaiśya), but not Śūdra work. Usury allowed for Vaiśya in crisis. Post-calamity, abandon and purify.[^9]\n\n### Other Smṛtis\n- **Bṛhaspati Smṛti** Ch. 1: Documents invalid if made in calamity/distress (*vyasanaklinnasya*); interest stipulated in distress is binding.[^10]\n- **Kātyāyana Smṛti** Chs. 45, 52: Higher interest in \"time of distress\" (*duḥkhakāle*) valid; debts for family calamity borne by heirs.[^11]\n- **Viṣṇu Smṛti** Ch. 64: Bathing in another's pond allowed in distress after earth-offering.[^12]\n- **Pārāśara Smṛti** Ch. 7: Post-distress, resume purification/conduct.[^13]\n- **Aṅgirasa Smṛti** Ch. 1: Penances lighter in non-distress vs. distress.[^14]\n\nThe corpus (37 works, ~10 Smṛtis) lacks comprehensive treatment in one text but converges: emergencies suspend rigidity without abolishing *svadharma*. Non-corpus topics (e.g., later Digests like Hemādri) unavailable. Return post-*āpanna* via penance (e.g., *kṛcchra*, *cāndrāyaṇa*) prevents degradation.[^15]\n\n[^1]: Manusmṛti, Ch. 10, [para](/works/unknown-manusmrti-347b76/10/translation/#p-53206d).\n[^2]: Nāradsmṛti, Ch. 1, [para](/works/unknown-naradasmrti-7650d2/01/translation/#p-699700).\n[^3]: Manusmṛti 10.81-83, 97, [ch.](/works/unknown-manusmrti-347b76/10/translation/).\n[^4]: Ibid., 10.95.\n[^5]: Ibid., 10.98-99.\n[^6]: Ibid., 10.97, [para](/works/unknown-manusmrti-347b76/10/translation/#p-53206d).\n[^7]: Ibid., Ch. 9 (e.g., 9.59), [ch.](/works/unknown-manusmrti-347b76/09/translation/).\n[^8]: Ibid., 11.27-28, [para](/works/unknown-manusmrti-347b76/12/translation/#p-9a4c35).\n[^9]: Nāradsmṛti 1.51-55, [ch.](/works/unknown-naradasmrti-7650d2/01/translation/).\n[^10]: Bṛhaspati Smṛti, Ch. 1, [paras](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-a9b952) (calamity-invalid docs), [#p-8f587b] (distress interest).\n[^11]: Kātyāyana Smṛti 45.497, 52.542, [ch.](/works/unknown-katyayana-smrti-1e06d2/45/translation/), [ch.](/works/unknown-katyayana-smrti-1e06d2/52/translation/).\n[^12]: Viṣṇu Smṛti 64.2, [para](/works/unknown-visnu-smrti-27f0d8/64/translation/#p-06d333).\n[^13]: Pārāśara Smṛti 7.37, [para](/works/unknown-parasara-smrti-2259be/07/translation/#p-ccff92).\n[^14]: Aṅgirasa Smṛti 1 (penance norms), [paras](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-3a6005), etc.\n[^15]: E.g., Manusmṛti 10.102-112 (gleaning/begging in distress); cross-ref. Nārada 1.55.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "apaddharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma in extremity\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"svadharma\" crisis"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" calamity"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" distress"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" emergency"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "apad dharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "apaddharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"in times of distress\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma calamity"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"time of calamity\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"times of distress\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smriti",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmasastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "distress",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "calamity"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "crisis dharma"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "time of distress"
+      },
+      "result_summary": "Found 25 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "svadharma",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"in distress\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10
+      },
+      "result_summary": "Read ch.10 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smr"
+      },
+      "result_summary": "Listed 0 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-53206d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-699700"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-9a4c35"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-a9b952"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-8f587b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-06d333"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-ccff92"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-3a6005"
+    }
+  ],
+  "duration_ms": 71706,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 147401,
+    "completion_tokens": 6079,
+    "total_tokens": 153480,
+    "cached_tokens": 26088,
+    "api_calls": 6,
+    "cost_usd": 0.0286065,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1914,
+        "completion_tokens": 562,
+        "total_tokens": 2476,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006413
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2247,
+        "completion_tokens": 653,
+        "total_tokens": 2900,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0004933
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3614,
+        "completion_tokens": 849,
+        "total_tokens": 4463,
+        "cached_tokens": 2242,
+        "cost_usd": 0.000811
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11242,
+        "completion_tokens": 1147,
+        "total_tokens": 12389,
+        "cached_tokens": 3609,
+        "cost_usd": 0.00228055
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18058,
+        "completion_tokens": 849,
+        "total_tokens": 18907,
+        "cached_tokens": 150,
+        "cost_usd": 0.0040136
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 110326,
+        "completion_tokens": 2019,
+        "total_tokens": 112345,
+        "cached_tokens": 18053,
+        "cost_usd": 0.02036675
+      }
+    ]
+  }
+}

@@ -1,0 +1,201 @@
+{
+  "answer": "In the *Manusmṛti*, a key rule demarcating *mlecchas* (barbarians or foreigners) appears in its classification of castes and outsiders: \"Whatever castes in the world are outside those born from the mouth, arms, thighs, and feet, whether they speak the language of the `mlecchas` or of the Aryans, they are all remembered as barbarians.\"[^1] This draws a rigid *inside/outside* line rooted in the ritual and social purity of the four-*varṇa* hierarchy (Brahmin from the mouth, etc.), with *Āryāvarta* as the sacred core. Linguistic corruption—speaking like *mlecchas*—overrides even Aryan speech, marking one as irredeemably barbarian and polluting the ordered cosmos; the boundary is ethno-cultural, hereditary, and territorial, enforcing separation to preserve *dharma*.[^2]\n\nIn Allama Iqbal's *Bang-e-Dara Part 3*, a verse spoken by the Divine voice invokes *kāfirs* (unbelievers) to critique complacent Muslims:  \n> You say We promise Houris just for you?  \n> A baseless charge requires wisdom, too.  \n> The law of Justice, from eternity,  \n> Is from the Maker of all things you see.  \n> If Kafirs live by Muslim codes, they’ll find  \n> Both palaces and Houris for their kind.[^3]\n\nIqbal's line is theological and merit-based: *inside* is not birth, nation, or sect, but fidelity to universal divine justice and \"Muslim codes\" (Qur'anic/Muhammadan principles), open even to *kāfirs* who adopt them—rewards transcend nominal identity. This shames inward-looking Muslims as the true outsiders, promoting a dynamic, inclusive ummah defined by action and revival, with expansive political reach toward global *khilāfat*.\n\n[^1]: Manu, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/10/translation/#p-19acb7).\n[^2]: Manu, *Manusmṛti*, Chapter 10,[^2] full chapter.\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-072edd).\n\n[^2]: Manu, *Manusmṛti*, [Chapter 10](/works/unknown-manusmrti-347b76/10/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mleccha",
+        "limit": 20
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kafir Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kafir",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.10\\nverse · 132¶ · 3840w · vocab 764 (TTR 42%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"next lower caste\\\" · \\\"women next lower\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.44\\nverse · 27¶ · 437w · vocab 181 (TTR 77%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"cleric tale mean\\\" · \\\"tale mean tell"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.4\\nverse · 37¶ · 2284w · vocab 724 (TTR 63%, hapax 73%)\\n\\n## Distinctive trigrams\\n\\\"word heart begins\\\" · \\\"heart begins "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10
+      },
+      "result_summary": "Read ch.10 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-19acb7"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-072edd"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-19acb7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 4,
+      "paragraph_id": "p-072edd"
+    }
+  ],
+  "duration_ms": 30479,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 42877,
+    "completion_tokens": 3680,
+    "total_tokens": 46557,
+    "cached_tokens": 26233,
+    "api_calls": 4,
+    "cost_usd": 0.0064804500000000004,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1942,
+        "completion_tokens": 514,
+        "total_tokens": 2456,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00036325
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 4456,
+        "completion_tokens": 1099,
+        "total_tokens": 5555,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00115855
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 18025,
+        "completion_tokens": 682,
+        "total_tokens": 18707,
+        "cached_tokens": 4451,
+        "cost_usd": 0.00327835
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 18454,
+        "completion_tokens": 1385,
+        "total_tokens": 19839,
+        "cached_tokens": 18020,
+        "cost_usd": 0.0016803
+      }
+    ]
+  }
+}

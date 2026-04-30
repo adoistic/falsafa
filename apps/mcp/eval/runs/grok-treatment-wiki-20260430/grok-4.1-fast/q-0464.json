@@ -1,0 +1,484 @@
+{
+  "answer": "**Several works in the Indic *Dharmaśāstra* tradition discuss the relationship between rulers (kings) and religious classes (primarily Brahmins as priests, advisors, and court officials). These texts prescribe kings appointing Brahmin priests (*purohita*), consulting them in justice and governance, and relying on them for legitimacy and counsel, often framing the king as protector of *varṇas* with Brahmins at the apex.[^1][^2][^3]**\n\n- **Kātyāyana Smṛti**: Chapter 2 details the king's duties, emphasizing appointment of a qualified Brahmin priest (*purohita*) free from greed.[^4]\n- **Bṛhaspati Smṛti**: Describes the king examining disputes with ministers and a family priest (*purohita*), alongside assessors.[^5]\n- **Manusmṛti**: Chapter 7 outlines the king's origin from divine particles, his duty to serve aged Brahmins learned in the Vedas for counsel, and protection of *varṇas* with Brahmin priority.[^6]\n\n**Western works like Charles Comte's *Traité de Législation* (Vol. I, ch. 8) critique historical clerical influence on rulers and laws, viewing clergy as rivals to civil power.[^7] No other works (e.g., poetry or elegies) cover this topic institutionally.**\n\n[^1]: Kātyāyana Smṛti, ch. 2, [/works/unknown-katyayana-smrti-1e06d2/02/translation/](https://falsafa.corpus/works/unknown-katyayana-smrti-1e06d2/02/translation/).\n\n[^2]: Bṛhaspati Smṛti, ch. 1, [/works/unknown-brhaspati-smrti-0fd070/01/translation/](https://falsafa.corpus/works/unknown-brhaspati-smrti-0fd070/01/translation/).\n\n[^3]: Manusmṛti, ch. 7, [/works/unknown-manusmrti-347b76/07/translation/](https://falsafa.corpus/works/unknown-manusmrti-347b76/07/translation/).\n\n[^4]: Kātyāyana Smṛti, ch. 2, [/works/unknown-katyayana-smrti-1e06d2/02/translation/#p-ba5f1a](https://falsafa.corpus/works/unknown-katyayana-smrti-1e06d2/02/translation/#p-ba5f1a).\n\n[^5]: Bṛhaspati Smṛti, ch. 1, [/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-e91140](https://falsafa.corpus/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-e91140).\n\n[^6]: Manusmṛti, ch. 7, [/works/unknown-manusmrti-347b76/07/translation/#p-cbe0d7](https://falsafa.corpus/works/unknown-manusmrti-347b76/07/translation/#p-cbe0d7).\n\n[^7]: *Traité de Législation: VOL I*, ch. 8, [/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/](https://falsafa.corpus/works/charles-comte-traite-de-legislation-vol-i-7e62a2/08-du-systeme-qui-fait-d-une-religion-positive-le-fon/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king priest",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ruler clergy",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ruler priest",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sovereign priest",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prince bishop",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"religious class\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ruler ulama",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"church and state\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "priest king"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" priest"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "emperor pope"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"papacy\" emperor"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "caliph ulama"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" brahmin",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmin king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"priest\" king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king priestly",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ruler\" \"brahmin\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sultan ulama",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"church\" state",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmin",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "priest",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "clergy"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "church"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bishop"
+      },
+      "result_summary": "Found 23 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kātyāyana Smṛti · ch.2\\nprose · 22¶ · 596w · vocab 216 (TTR 75%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"king appoint his\\\" · \\\"duties king due"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bṛhaspati Smṛti · ch.1\\nprose · 1220¶ · 32934w · vocab 2880 (TTR 19%, hapax 44%)\\n\\n## Distinctive trigrams\\n\\\"plea former judgment\\\" · \\\"made pa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.8\\nprose · 33¶ · 4826w · vocab 830 (TTR 38%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"good morals good\\\" · \\\"mo"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-katyayana-smrti-1e06d2 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-ba5f1a"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 2,
+      "paragraph_id": "p-ba5f1a"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 2,
+      "paragraph_id": "p-e91140"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 2,
+      "paragraph_id": "p-cbe0d7"
+    }
+  ],
+  "duration_ms": 75258,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 213413,
+    "completion_tokens": 6603,
+    "total_tokens": 220016,
+    "cached_tokens": 79869,
+    "api_calls": 8,
+    "cost_usd": 0.03400375,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 773,
+        "total_tokens": 2674,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0004838
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2328,
+        "completion_tokens": 589,
+        "total_tokens": 2917,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007376
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5959,
+        "completion_tokens": 703,
+        "total_tokens": 6662,
+        "cached_tokens": 2323,
+        "cost_usd": 0.00119485
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6407,
+        "completion_tokens": 730,
+        "total_tokens": 7137,
+        "cached_tokens": 5954,
+        "cost_usd": 0.0007533
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 28076,
+        "completion_tokens": 849,
+        "total_tokens": 28925,
+        "cached_tokens": 6402,
+        "cost_usd": 0.0050794
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 32330,
+        "completion_tokens": 937,
+        "total_tokens": 33267,
+        "cached_tokens": 28071,
+        "cost_usd": 0.00272385
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 34938,
+        "completion_tokens": 648,
+        "total_tokens": 35586,
+        "cached_tokens": 150,
+        "cost_usd": 0.0072891
+      },
+      {
+        "api_call_index": 8,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 101474,
+        "completion_tokens": 1374,
+        "total_tokens": 102848,
+        "cached_tokens": 34933,
+        "cost_usd": 0.01574185
+      }
+    ]
+  }
+}

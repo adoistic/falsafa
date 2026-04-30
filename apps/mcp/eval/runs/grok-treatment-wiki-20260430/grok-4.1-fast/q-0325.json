@@ -1,0 +1,229 @@
+{
+  "answer": "Iqbal's *Tarana-e-Hindi* (titled \"Hindustani Bachon Ka Qaumi Geet\" or \"National Anthem of Indian Children\" in the corpus), from *Bang-E-Dara Part 1*, is an exuberant patriotic ode that repeatedly affirms Hindostan (India) as \"my homeland, this land of mine.\" It praises the subcontinent's spiritual and historical preeminence through a litany of religious figures, events, and invaders-turned-settlers: Khwaja Moinuddin Chishti's Sufi call to Truth, Guru Nanak's song of Oneness, Tatars claiming it as homeland, Hijaz's sons drawn from the desert, Greek wisdom, Turkish diamonds, Persian stars realigned, Arab breeze to the Prophet, Moses' people, Sinai's peaks, and Noah's ark.[^1] The refrain fuses territorial affection with Islamic universalism and syncretic pride in India's role as a cradle of divine revelation and paradise on earth (\"To live here is a paradise of pure delight\").[^2]\n\nIn contrast, Cynewulf's *Andreas*—an Old English verse hagiography of St. Andrew's divinely aided mission to rescue Matthew from cannibalistic Mermedonians—contains no comparable \"territorial-pride material,\" nor any speech by Andrew about \"his land.\" Searches across the poem's English translation yield no instances of Andrew praising his homeland (e.g., Galilee or Judea), native soil, or territorial heritage.[^3] The work's wiki highlights focus on Christian heroism, prayer, miracles, and glory to God/Christ (e.g., key passages emphasize Andreas greeting Matthew, rebuking foes, or calming followers amid sea perils with faith-talk).[^4] Andrew's speeches underscore missionary obedience (\"Go now across all the earth’s corners... Preach in the cities the bright belief\"), divine protection over earthly attachments, and trials in \"a hostile folk\" or \"strange kingdom\"—without pride in origins.[^5] Any \"land\" references evoke foreign dangers (e.g., Mermedonia's \"grim land,\" \"sea-boat\" voyages) or middle-earth under God's rule, not personal/national boasting.[^6]\n\n**Key differences**: Iqbal's praise is lyrical, repetitive, and earthbound-nationalist, elevating Hindostan as a sacred geography blending Hindu, Muslim, Biblical, and pre-Islamic motifs. *Andreas* subordinates place to spiritual journey; pride inheres in apostolic service and heavenly \"glory,\" not territory—typical of Anglo-Saxon Christian poetry where homeland nostalgia appears in elegies (*e.g.*, *The Wanderer*), not Cynewulf's signed saint's lives.[^7] No direct parallel exists in the corpus.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 26 \"Hindustani Bachon Ka Qaumi Geet\" [full chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/).\n\n[^2]: Ibid., [p-da6786](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-da6786); [p-a9f72d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-a9f72d).\n\n[^3]: Cynewulf, *Andreas*, ch. 1 [full chapter](/works/cynewulf-andreas-07b573/01/translation/).\n\n[^4]: Ibid., wiki card key passage [p-74e29a](/works/cynewulf-andreas-07b573/01/translation/#p-74e29a).\n\n[^5]: Ibid., TextRank #2 [p-355089](/works/cynewulf-andreas-07b573/01/translation/#p-355089).\n\n[^6]: Ibid., TextRank #3 [p-f66b6a](/works/cynewulf-andreas-07b573/01/translation/#p-f66b6a).\n\n[^7]: *Old English Elegies*, ch. 11 \"The Wanderer\" (related via TF-IDF), [p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tarana-e-Hindi"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Andrew\" land pride OR homeland OR native"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas Andrew \"his land\" OR \"my land\" OR homeland"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.26\\nverse · 4¶ · 163w · vocab 71 (TTR 78%, hapax 87%)\\n\\n## Distinctive trigrams\\n\\\"homeland land mine\\\" · \\\"chishti first "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "work_slug_b": "cynewulf-andreas-07b573",
+        "topic": "praise of homeland"
+      },
+      "result_summary": "{\"topic\":\"praise of homeland\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"allama-iqbal-bang-e-dara-part-1-55b25c\""
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "work_slug_b": "cynewulf-andreas-07b573",
+        "topic": "territorial pride Andrew land"
+      },
+      "result_summary": "{\"topic\":\"territorial pride Andrew land\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"allama-iqbal-bang-e-dara-par"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Andrew\" \"land\" OR \"country\" OR \"home\" OR \"native\" site:cynewulf-andreas-07b573"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-bdbda7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"land\" \"Andrew\" OR \"Andrew\" \"people\" OR \"Andrew\" \"country\" OR \"Andrew\" \"home\" OR \"Andrew\" \"native land\" OR \"my land\" OR \"his land\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "limit": 10
+      },
+      "result_summary": "Found 10 related"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-da6786"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-a9f72d"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-74e29a"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-355089"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-f66b6a"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-9462cc"
+    }
+  ],
+  "duration_ms": 49913,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 48902,
+    "completion_tokens": 5599,
+    "total_tokens": 54501,
+    "cached_tokens": 27115,
+    "api_calls": 4,
+    "cost_usd": 0.00851265,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1923,
+        "completion_tokens": 802,
+        "total_tokens": 2725,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007631
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11028,
+        "completion_tokens": 1118,
+        "total_tokens": 12146,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00248245
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "compare_works",
+          "compare_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14066,
+        "completion_tokens": 1577,
+        "total_tokens": 15643,
+        "cached_tokens": 11023,
+        "cost_usd": 0.00194825
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki_full",
+          "get_passage",
+          "search_corpus",
+          "find_related"
+        ],
+        "prompt_tokens": 21885,
+        "completion_tokens": 2102,
+        "total_tokens": 23987,
+        "cached_tokens": 14061,
+        "cost_usd": 0.00331885
+      }
+    ]
+  }
+}

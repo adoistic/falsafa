@@ -1,0 +1,283 @@
+{
+  "answer": "In \"The Seafarer\" (Old English Elegies, ch. 5), the speaker, enduring voluntary exile on the sea, projects onto his lost homeland (the \"strongholds\" of middle-earth) images of communal warmth, earthly pleasures, and social bonds: the harp's music, rings bestowed by a lord, a wife's joy, mead-drinking, and laughter among kinsmen.[^1] These are contrasted sharply with the sea's desolation—no sheltering kin, only bird cries mistaken for human merriment—but the homeland remains a site of untested ease for the \"blessed man\" who dwells there.[^2] Ultimately, the speaker reorients longing toward a spiritual \"home\" in heaven, deeming earthly strongholds transient amid decaying kingdoms and inevitable death.[^3]\n\nIqbal's \"Saqaliya\" (Bang-E-Dara Part 2, ch. 21), by contrast, stages a collective exile from a civilizational homeland: Sicily as the \"cradle\" and \"honor\" of Hejazi (Arab-Islamic) culture, once a watery \"desert\" mastered by desert-dwellers whose ships treated seas as playgrounds, swords nested lightning, and presence trembled emperors' courts.[^4] The lost place evokes imperial renewal—a \"dead world\" revived, humanity freed from superstition—its \"world-consuming beauty\" like fire, now silenced in ruins whose very shores lament.[^5] Unlike the personal domesticity of the Seafarer's homeland, Iqbal's speaker projects epic, transformative power onto this Muslim Mediterranean past, mourning its grave while vowing to transplant its memory to Hindustan.\n\nBoth speakers idealize the absent homeland as a locus of lost vitality—the Seafarer's intimate and fading earthly ties, Iqbal's monumental cultural blaze—but pivot from despair: the former to Christian eternity, the latter to diasporic revival.[^6]\n\n[^1]: Old English Elegies, [ch. 5](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-549618).\n[^2]: Old English Elegies, [ch. 5](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-8c53e7).\n[^3]: Old English Elegies, [ch. 5](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-1c332d).\n[^4]: Bang-E-Dara Part 2, [ch. 21](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-13e58a).\n[^5]: Bang-E-Dara Part 2, [ch. 21](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-ab88c0).\n[^6]: Old English Elegies, [ch. 5](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-eff626); Bang-E-Dara Part 2, [ch. 21](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/21-saqaliya/translation/#p-82cbe3).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Seafarer"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Saqaliya"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"The Seafarer\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "seafarer exile"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Old English Elegies · ch.5\\nprose · 11¶ · 1002w · vocab 366 (TTR 72%, hapax 80%)\\n\\n## Distinctive trigrams\\n\\\"make true song\\\" · \\\"true song my"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 21
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 2 · ch.21\\nverse · 17¶ · 315w · vocab 142 (TTR 87%, hapax 87%)\\n\\n## Distinctive trigrams\\n\\\"weep unburden heart\\\" · \\\"unburden he"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 21,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-old-english-elegies-d5fe9e",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "topic": "exile"
+      },
+      "result_summary": "{\"topic\":\"exile\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-old-english-elegies-d5fe9e\",\"title\":\"Old Eng"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-8c53e7",
+          "p-bfb487",
+          "p-549618",
+          "p-f52e2e",
+          "p-eff626",
+          "p-1c332d"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 21,
+        "paragraph_ids": [
+          "p-13e58a",
+          "p-ac137c",
+          "p-ab88c0",
+          "p-82cbe3",
+          "p-379aeb",
+          "p-08760e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-549618"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-8c53e7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-1c332d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-13e58a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-ab88c0"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-eff626"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 21,
+      "paragraph_id": "p-82cbe3"
+    }
+  ],
+  "duration_ms": 49050,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 45843,
+    "completion_tokens": 5537,
+    "total_tokens": 51380,
+    "cached_tokens": 22586,
+    "api_calls": 6,
+    "cost_usd": 0.0085492,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1920,
+        "completion_tokens": 589,
+        "total_tokens": 2509,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00039635
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3382,
+        "completion_tokens": 593,
+        "total_tokens": 3975,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00069075
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6519,
+        "completion_tokens": 532,
+        "total_tokens": 7051,
+        "cached_tokens": 3377,
+        "cost_usd": 0.00106325
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 8788,
+        "completion_tokens": 633,
+        "total_tokens": 9421,
+        "cached_tokens": 6514,
+        "cost_usd": 0.001097
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "compare_works"
+        ],
+        "prompt_tokens": 11958,
+        "completion_tokens": 1456,
+        "total_tokens": 13414,
+        "cached_tokens": 8783,
+        "cost_usd": 0.00180215
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 13276,
+        "completion_tokens": 1734,
+        "total_tokens": 15010,
+        "cached_tokens": 150,
+        "cost_usd": 0.0034997
+      }
+    ]
+  }
+}

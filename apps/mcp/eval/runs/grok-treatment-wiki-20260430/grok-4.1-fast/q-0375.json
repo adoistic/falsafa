@@ -1,0 +1,359 @@
+{
+  "answer": "**Manu** (*Manusmṛti*, Book 1) catalogues the four *varṇas* in hierarchical order of origin from the body of the Self-Existent One: (1) Brāhmaṇa from the mouth, (2) Kṣatriya from the arms, (3) Vaiśya from the thighs, and (4) Śūdra from the feet.[^1] Their core duties (*dharma*) are correspondingly fixed: Brāhmaṇas to teach and study (among other Vedic rites); Kṣatriyas to protect the people; Vaiśyas to protect cattle and engage in trade/agriculture; and Śūdras solely \"to serve these other *varṇas* without malice.\"[^2]\n\n**Viṣṇu** (*Viṣṇu Smṛti*, early chapters, especially ch. 2) likewise orders them: (1) Brāhmaṇa, (2) Kṣatriya, (3) Vaiśya, and (4) Śūdra.[^3] Duties are parallel but summarized more concisely: Brāhmaṇas to teach; Kṣatriyas to practice arms; Vaiśyas to tend cattle; Śūdras to serve the twice-born.[^4]\n\nViṣṇu's treatment admits **more mobility between *varṇas***, explicitly permitting \"in times of distress, one may adopt the livelihood of the next lower *varṇa*.\"[^5] Manu allows some occupational flexibility in distress (detailed later, in ch. 10), but Book 1 stresses innate, irrevocable hierarchy without such proviso.\n\n**Rigidity shows up most explicitly in Manu**, via the body-part origin (elevating the mouth-pure Brāhmaṇa as \"lord of this whole creation\" and entitled to all property), the Shudra's singular servile duty \"without malice,\" and Brāhmaṇas as \"the best\" of all beings by birth alone.[^6] Viṣṇu implies hierarchy (e.g., Śūdras serving \"twice-born\") but lacks such vivid, absolutist declarations in its early chapters.[^7]\n\n[^1]: *Manusmṛti* 1.31, [para. p-13a2db](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db).\n[^2]: *Manusmṛti* 1.88–91, [paras. p-71a5c2 to p-26a572](/works/unknown-manusmrti-347b76/01/translation/#p-71a5c2:p-26a572).\n[^3]: *Viṣṇu Smṛti* 2.1, [para. p-883be2](/works/unknown-visnu-smrti-27f0d8/02/translation/#p-883be2).\n[^4]: *Viṣṇu Smṛti* 2.5–8, [paras. p-354ee5 to p-f34593](/works/unknown-visnu-smrti-27f0d8/02/translation/#p-354ee5:p-f34593).\n[^5]: *Viṣṇu Smṛti* 2.15, [para. p-600695](/works/unknown-visnu-smrti-27f0d8/02/translation/#p-600695).\n[^6]: *Manusmṛti* 1.31, 1.91–93, 1.100, [paras. p-13a2db, p-26a572, p-7c0113, p-cc748e](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db:p-cc748e).\n[^7]: *Viṣṇu Smṛti* chs. 1–2, [ch. 1](/works/unknown-visnu-smrti-27f0d8/01/translation/), [ch. 2](/works/unknown-visnu-smrti-27f0d8/02/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "varna catalogue"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"four varnas\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "varna",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brāhmaṇa\" kṣatriya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Viṣṇu\" varna"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brāhmaṇa\" \"kṣatriya\" \"vaiśya\" \"śūdra\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mouth brāhmaṇa arms",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.1\\nverse · 66¶ · 1956w · vocab 562 (TTR 57%, hapax 74%)\\n\\n## Distinctive trigrams\\n\\\"vi_1 good people\\\" · \\\"eternal laws *dhar"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.2\\nverse · 18¶ · 251w · vocab 84 (TTR 69%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"**vishnu smriti 2**\\\" · \\\"smriti 2** brāhma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.3\\nverse · 99¶ · 1569w · vocab 391 (TTR 53%, hapax 75%)\\n\\n## Distinctive trigrams\\n\\\"villages vi_3 superintendents\\\" · \\\"unabl"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brāhmaṇa kṣatriya vaiśya śūdra",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahmana\" \"kshatriya\" \"vaishya\" \"shudra\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 16
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.16\\nverse · 19¶ · 309w · vocab 86 (TTR 67%, hapax 83%)\\n\\n## Distinctive trigrams\\n\\\"vi_16 born wives\\\" · \\\"**vishnu smriti 16*"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"from his mouth\" varna"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmana kshatriya vaishya shudra order"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 2,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 2,
+      "paragraph_id": "p-71a5c2"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 2,
+      "paragraph_id": "p-26a572"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 2,
+      "paragraph_id": "p-883be2"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 2,
+      "paragraph_id": "p-354ee5"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 2,
+      "paragraph_id": "p-f34593"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 2,
+      "paragraph_id": "p-600695"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 2,
+      "paragraph_id": "p-7c0113"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 2,
+      "paragraph_id": "p-cc748e"
+    }
+  ],
+  "duration_ms": 51234,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 75388,
+    "completion_tokens": 5891,
+    "total_tokens": 81279,
+    "cached_tokens": 47907,
+    "api_calls": 6,
+    "cost_usd": 0.01083705,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1938,
+        "completion_tokens": 543,
+        "total_tokens": 2481,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00037695
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2225,
+        "completion_tokens": 623,
+        "total_tokens": 2848,
+        "cached_tokens": 150,
+        "cost_usd": 0.000734
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 7090,
+        "completion_tokens": 799,
+        "total_tokens": 7889,
+        "cached_tokens": 2220,
+        "cost_usd": 0.0014845
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14508,
+        "completion_tokens": 835,
+        "total_tokens": 15343,
+        "cached_tokens": 7085,
+        "cost_usd": 0.00225635
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22073,
+        "completion_tokens": 1058,
+        "total_tokens": 23131,
+        "cached_tokens": 14503,
+        "cost_usd": 0.00276815
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 27554,
+        "completion_tokens": 2033,
+        "total_tokens": 29587,
+        "cached_tokens": 22068,
+        "cost_usd": 0.0032171
+      }
+    ]
+  }
+}

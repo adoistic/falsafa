@@ -1,0 +1,259 @@
+{
+  "answer": "In Allama Iqbal's *Bang-E-Dara Part 3*, the poem \"Bilad-e-Islamiya\" evokes Baghdad as a *gulshan* symbolizing the lost splendor of an ideal Islamic polity—a vibrant, self-renewing community of prophetic successors whose power made empires tremble.[^1] The key couplet (in transliteration and facing-page translation) reads:\n\n> Jis ke ghunche thay chaman saamaan, woh *gulshan* hai yahi  \n> Kaanpta tha jin se Roma, un ka madfan hai yahi  \n>   \n> This is that garden whose every bud was a garden in itself;[^2]  \n> This is the final tomb of those before whom Rome would tremble.[^3]\n\nHere, Baghdad is no mere plot of land but a *gulshan* whose constituent elements (*ghunche*, or buds) are themselves *chaman* (gardens), figuring a fractal, infinitely generative ideal community under Islam's early caliphs. It rivals Iram (Qur'an 89:7, the paradigmatic lost paradise) as an earthly idyll of sacralized sovereignty and cultural efflorescence.[^4]\n\nRendering *gulshan* as plain \"garden\" understates its dense Persian-Urdu freight: not horticulture but a topos of eternal *bahaar* (spring), synesthetic harmony (rose-fragrance, nightingale-song, wine-cup), and erotic-spiritual enclosure—the beloved's realm in ghazal, Sufi *maqam* of divine proximity, or Timurid/Mughal utopia of ordered plenitude. English \"garden\" flattens this to botany; *gulshan* pulses with the *ishq* (passion) binding community in paradisial, anti-entropic renewal.[^5]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 2 \"Bilad-e-Islamiya\" (/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/transliteration/).\n[^2]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/#p-9bfa99.\n[^3]: Ibid.\n[^4]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/#p-3ddf5a.\n[^5]: Cf. *Bang-E-Dara Part 3*, ch. 4, on nations as fruit-pickers or barren trees in \"life’s great garden\" (*gulshan-e-hasti*; /works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-5b3059).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gulshan",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gulshan\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "persian"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 02-bilad-e-islamiya.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 24,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.24 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "error BAD_QUERY: get_passage requires either paragraph_ids or paragraph_range"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "variant": "transliteration"
+      },
+      "result_summary": "error BAD_QUERY: get_passage requires either paragraph_ids or paragraph_range"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ideal community\" OR utopia OR \"perfect society\" OR \"imagined community\" gulshan",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "9bfa99"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "c959b9",
+          "3ddf5a",
+          "9bfa99"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "9bfa99"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 56,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.56 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 56,
+      "paragraph_id": "p-9bfa99"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 56,
+      "paragraph_id": "p-3ddf5a"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 56,
+      "paragraph_id": "p-5b3059"
+    }
+  ],
+  "duration_ms": 60354,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 49849,
+    "completion_tokens": 6933,
+    "total_tokens": 56782,
+    "cached_tokens": 31596,
+    "api_calls": 5,
+    "cost_usd": 0.0086969,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1940,
+        "completion_tokens": 362,
+        "total_tokens": 2302,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005465
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5803,
+        "completion_tokens": 1637,
+        "total_tokens": 7440,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019566
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 9864,
+        "completion_tokens": 1708,
+        "total_tokens": 11572,
+        "cached_tokens": 5798,
+        "cost_usd": 0.0019571
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15644,
+        "completion_tokens": 1607,
+        "total_tokens": 17251,
+        "cached_tokens": 9859,
+        "cost_usd": 0.00245345
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 16598,
+        "completion_tokens": 1619,
+        "total_tokens": 18217,
+        "cached_tokens": 15639,
+        "cost_usd": 0.00178325
+      }
+    ]
+  }
+}

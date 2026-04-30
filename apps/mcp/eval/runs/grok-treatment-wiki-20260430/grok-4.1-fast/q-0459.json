@@ -1,0 +1,275 @@
+{
+  "answer": "**Manusmṛti** (also known as the *Laws of Manu*) extensively addresses the privileges and duties of Brahmins (*brāhmaṇas*) as the highest *varṇa*. Chapter 1 describes their origin from Brahmā's mouth, assigning them teaching/studying the Veda, sacrificing for self/others, and giving/receiving alms; they are declared lords of creation due to birth, Veda-preservation, and ritual superiority.[^1] Their food/clothes/alms are \"their own,\" sustaining others through compassion.[^2] Chapter 2 details initiation, sacred thread, staff, begging formulas, and purity rules specific to Brahmins.[^3] Chapter 10 outlines their six occupations (prioritizing teaching/sacrificing/accepting pure gifts) and allowances in distress (e.g., Kṣatriya/Vaiśya livelihoods temporarily).[^4]\n\n**Āṅgirasa Smṛti** discusses Brahmin identity markers (top-knot/sacred thread as \"root of Brahminhood\"), rights (e.g., exclusive Veda recitation), duties (e.g., rites with Brahmin permission, river baths as expiation), and privileges (e.g., adoption from *sapiṇḍas*, superiority in rituals).[^5]\n\nNo other works in the corpus directly engage this topic based on searches/phrase matches; related Dharmaśāstras (e.g., Kātyāyana Smṛti, Viṣṇu Smṛti) share genre/era but lack specific hits here.\n\n[^1]: Manusmṛti, Chapter 1, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-71a5c2).\n\n[^2]: Manusmṛti, Chapter 1, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-cc748e).\n\n[^3]: Manusmṛti, Chapter 2, [full chapter](/works/unknown-manusmrti-347b76/02/translation/).\n\n[^4]: Manusmṛti, Chapter 10, [full chapter](/works/unknown-manusmrti-347b76/10/translation/).\n\n[^5]: Āṅgirasa Smṛti, Chapter 1, [full chapter](/works/unknown-angirasa-smrti-2bf9d1/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahmin",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahmana",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duties of the Brahmin\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"privileges of Brahmins\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Brahmin duties\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Āṅgirasa Smṛti · ch.1\\nverse · 1792¶ · 38412w · vocab 5128 (TTR 26%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"according rule ang_1\\\" · \\\"ang_2 *"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smruti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmin varna duties",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Chapter 10\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brāhmana duties OR privileges",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.10\\nverse · 132¶ · 3840w · vocab 764 (TTR 42%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"next lower caste\\\" · \\\"women next lower\\\" ·"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10
+      },
+      "result_summary": "Read ch.10 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahmin\" OR \"brāhmaṇa\" OR \"brāhmaṇa\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "limit": 10
+      },
+      "result_summary": "Found 10 related"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-71a5c2"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-cc748e"
+    }
+  ],
+  "duration_ms": 47143,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 147200,
+    "completion_tokens": 4346,
+    "total_tokens": 151546,
+    "cached_tokens": 38934,
+    "api_calls": 5,
+    "cost_usd": 0.0257729,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 577,
+        "total_tokens": 2481,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0003864
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8791,
+        "completion_tokens": 797,
+        "total_tokens": 9588,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00187425
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11253,
+        "completion_tokens": 936,
+        "total_tokens": 12189,
+        "cached_tokens": 8786,
+        "cost_usd": 0.0014007
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 15136,
+        "completion_tokens": 1023,
+        "total_tokens": 16159,
+        "cached_tokens": 11248,
+        "cost_usd": 0.0018515
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "find_related"
+        ],
+        "prompt_tokens": 110116,
+        "completion_tokens": 1013,
+        "total_tokens": 111129,
+        "cached_tokens": 15131,
+        "cost_usd": 0.02026005
+      }
+    ]
+  }
+}

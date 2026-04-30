@@ -1,0 +1,212 @@
+{
+  "answer": "**Manusmṛti 2.87** (also known as Manu 2.87) states that a Brahmana can attain perfection through recitation (*japa*, or mantra-recitation) alone, irrespective of performing other rites, provided he is benevolent toward all beings.[^1]\n\nThis verse concludes a passage extolling *japa* as the supreme spiritual practice. The preceding verses emphasize its superiority: the \"sacrifice of recitation\" surpasses ritual *yajña* tenfold, whispered recitation is a hundred times better, mental recitation a thousand times superior (2.85), and even the five great sacrifices pale in comparison to the *japa-yajña* (2.86).[^2]\n\n[^1]: Manusmṛti, [paragraph](/works/unknown-manusmrti-347b76/02/translation/#p-fc9632).\n[^2]: Manusmṛti, [passage](/works/unknown-manusmrti-347b76/02/translation/#p-608007-p-fc9632).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu 2.87"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "japa Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "japa mantra recitation Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76\">\n<parameter name=\"chapter_number\">2"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: unknown-manusmrti-347b76\">\n<parameter name=\"chapter_number\">2"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "japa"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mantra recitation\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-fc9632"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-2599c3",
+          "p-fc9632"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-608007",
+          "p-2599c3",
+          "p-fc9632"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-fc9632"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-608007"
+    }
+  ],
+  "duration_ms": 34421,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 48893,
+    "completion_tokens": 3143,
+    "total_tokens": 52036,
+    "cached_tokens": 6012,
+    "api_calls": 5,
+    "cost_usd": 0.0104483,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1903,
+        "completion_tokens": 635,
+        "total_tokens": 2538,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006756
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2169,
+        "completion_tokens": 427,
+        "total_tokens": 2596,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006248
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3403,
+        "completion_tokens": 298,
+        "total_tokens": 3701,
+        "cached_tokens": 2164,
+        "cost_usd": 0.000505
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20360,
+        "completion_tokens": 963,
+        "total_tokens": 21323,
+        "cached_tokens": 3398,
+        "cost_usd": 0.0040438
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 21058,
+        "completion_tokens": 820,
+        "total_tokens": 21878,
+        "cached_tokens": 150,
+        "cost_usd": 0.0045991
+      }
+    ]
+  }
+}

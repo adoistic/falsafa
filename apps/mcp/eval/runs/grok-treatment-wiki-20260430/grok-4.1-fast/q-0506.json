@@ -1,0 +1,352 @@
+{
+  "answer": "**Charles Dunoyer's *Nouveau traité d'économie: VOL I* (1824) most directly engages this question through historical analysis.**[^1][^2] Dunoyer critiques the prejudice that civilizations decline due to \"excessive\" culture or moral enervation at their peak, using the Roman Empire as a prime example: he argues that Rome's fall stemmed not from over-civilization but from its foundational reliance on brigandage, conquest, slavery, and depopulation of conquered lands, which left it vulnerable to barbarian invasions despite its arts and industry.[^3][^4] He traces societal evolution from savage/nomadic to sedentary/slave-based to industrial stages, positing that true liberty (and thus civilizational vitality) increases with moral and industrial progress, not warlike parasitism—contrasting Rome's \"useful labor... executed by men more or less enslaved\" with freer modern societies.[^5] His introduction frames this as examining \"diverse ages of society\" to show how peoples become freer (or decline) via their capacities in arts, morals, and industry.[^6]\n\n**Allama Iqbal's *Bang-E-Dara Part 3* (1924) touches it poetically.** In poems like \"Khitab ba Jawanan-e-Islam,\" Iqbal celebrates Muslim Arabs as \"creators of civilization, architects of the laws of empire\" rising from desert nomadism to conquer Persia, yet laments later Islamic lands as \"the tomb of that civilization.\"[^7] \"Bilad-e-Islamiya\" evokes a \"Shining Nation\" whose dying breath lit Europe's lamp, implying cycles of rise via spirit and fall via stagnation.[^8] \"Goristan-e-Shahi\" questions the \"end of all their mighty fame\" for Mughal emperors whose \"statecraft put Decline itself to shame.\"[^9]\n\n**Manusmṛti (c. 200 BCE–200 CE) frames decline cyclically via cosmic ages (yugas).** Dharma shrinks progressively from Kṛta (full virtue, tapas-dominant) through Tretā, Dvāpara, to Kali (1/4 virtue, donation-dominant), mirroring civilizational decay in austerity, knowledge, and power.[^10]\n\nNo other works systematically theorize rise/fall (e.g., no full Gibbon/Spengler analog). Charles Comte's *Traité de Législation* and *Traité de la propriété* discuss societal progress via property/liberty but not explicitly civilizational cycles.[^11] Elegies like *The Ruin* lament earthly transience poetically (\"dominion descends\"), without causal theory.[^12] Indic Smṛtis (e.g., Bṛhaspati, Aṅgirasa) note age-based decline but focus on ritual/dharma, not civilizations broadly.[^13]\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [work wiki](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/wiki/_work.card.md).\n\n[^2]: Id., ch.4 (\"V. Influence de la culture sur la liberté\"), [wiki card](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/wiki/04-v-influence-de-la-culture-sur-la-liberte.card.md).\n\n[^3]: Id., ch.4, [p-a2c4c0](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/04-v-influence-de-la-culture-sur-la-liberte/translation/#p-a2c4c0).\n\n[^4]: Id., ch.4, [p-da6ed2](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/04-v-influence-de-la-culture-sur-la-liberte/translation/#p-da6ed2).\n\n[^5]: Id., ch.7 (\"II. Liberté compatible avec la manière de vivre des peuples sédentaires qui se font entretenir par des esclaves\"), [wiki card](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/wiki/07-ii-liberte-compatible-avec-la-maniere-de-vivre-des.card.md).\n\n[^6]: Id., ch.0 (\"INTRODUCTION\"), [wiki card](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/wiki/00-introduction.card.md).\n\n[^7]: Allama Iqbal, *Bang-E-Dara Part 3*, ch.13 (\"Khitab ba Jawanan-e-Islam\"), [p-365462](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462); [work wiki](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/wiki/_work.card.md).\n\n[^8]: Id., ch.2 (\"Bilad-e-Islamiya\"), [p-43c1b0](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/#p-43c1b0).\n\n[^9]: Id., ch.9 (\"Goristan-e-Shahi\"), [p-48606f](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-48606f).\n\n[^10]: *Manusmṛti*, ch.1, [p-4f03a9](/works/unknown-manusmrti-347b76/01/translation/#p-4f03a9); ch.1 [wiki](/works/unknown-manusmrti-347b76/wiki/01.card.md).\n\n[^11]: Charles Comte, *Traité de Législation: VOL I*, [work wiki](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/wiki/_work.card.md).\n\n[^12]: *Old English Elegies*, ch.16 (\"Wraetlic is thes wealstan...\"), [p-ba51da](/works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgstede-burston-brosnath-enta-yeweorc-hrofas/translation/#p-ba51da).\n\n[^13]: E.g., *Bṛhaspati Smṛti*, ch.1, [p-722626](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-722626).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rise and fall",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "civilizations rise",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "empires decline",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "decline of empire",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rise of civilization",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fall of empires",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "decline",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rise",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fall",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "empire",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "civilization",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "society",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "decay",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL II\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 91,008 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"van di"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.4\\nprose · 50¶ · 7088w · vocab 1604 (TTR 49%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"mode existence man\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.7\\nprose · 68¶ · 11261w · vocab 2259 (TTR 42%, hapax 61%)\\n\\n## Distinctive trigrams\\n\\\"*histoire décadence e"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.0\\nprose · 54¶ · 5812w · vocab 1146 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"take great care\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-a2c4c0"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-da6ed2"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 4,
+      "paragraph_id": "p-a2c4c0"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 4,
+      "paragraph_id": "p-da6ed2"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 4,
+      "paragraph_id": "p-365462"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 4,
+      "paragraph_id": "p-43c1b0"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 4,
+      "paragraph_id": "p-48606f"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 4,
+      "paragraph_id": "p-4f03a9"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 4,
+      "paragraph_id": "p-ba51da"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 4,
+      "paragraph_id": "p-722626"
+    }
+  ],
+  "duration_ms": 45427,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 95988,
+    "completion_tokens": 5474,
+    "total_tokens": 101462,
+    "cached_tokens": 52849,
+    "api_calls": 5,
+    "cost_usd": 0.01400725,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1903,
+        "completion_tokens": 738,
+        "total_tokens": 2641,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007271
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5588,
+        "completion_tokens": 786,
+        "total_tokens": 6374,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0012277
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22969,
+        "completion_tokens": 948,
+        "total_tokens": 23917,
+        "cached_tokens": 150,
+        "cost_usd": 0.0050453
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 27704,
+        "completion_tokens": 997,
+        "total_tokens": 28701,
+        "cached_tokens": 22964,
+        "cost_usd": 0.0025947
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 37824,
+        "completion_tokens": 2005,
+        "total_tokens": 39829,
+        "cached_tokens": 27699,
+        "cost_usd": 0.00441245
+      }
+    ]
+  }
+}

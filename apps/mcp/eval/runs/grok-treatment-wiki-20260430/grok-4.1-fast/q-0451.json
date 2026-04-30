@@ -1,0 +1,268 @@
+{
+  "answer": "The following works in the corpus mention one or more specific Indian rivers (primarily the Ganges/Ganga, Yamunā/Yamuna, and Sarasvatī, along with the associated Driṣadvatī). No mentions were found for rivers such as the Indus, Brahmaputra, Godāvarī, Narmadā, or Kāverī.[^1]\n\n**Āṅgirasa Smṛti** (unknown-angirasa-smrti-2bf9d1): Mentions the Ganges (bank thereof).[^2]\n\n**Nouveau traité d'économie: VOL I** by Charles Dunoyer (charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce): Mentions the Ganges (as a geographical boundary of regions).[^3][^4]\n\n**Traité de Législation: VOL II** by Charles Comte (charles-comte-traite-de-legislation-vol-ii-20331d): Mentions the Ganges (as a geographical boundary).[^5]\n\n**Viṣṇu Smṛti** (unknown-visnu-smrti-27f0d8): Multiple mentions of the Ganges (its waters for ritual immersion, etc.) and Yamunā (its bank as a sacred site).[^6]\n\n**Manusmṛti** (unknown-manusmrti-347b76): Mentions Sarasvatī and Driṣadvatī (defining the Brahmāvarta region); Sarasvatī (in expiatory rites); and Ganga (in a warning about false witness).[^7][^8]\n\n**Vīramitrodaya** (unknown-viramitrodaya-d4b632): Mentions Gaṅgā and Yamunā (in a compound illustrating grammar).[^9]\n\n[^1]: Based on searches for \"Ganges\", \"Ganga\", \"Yamuna\", \"Indus\", \"Brahmaputra\", \"Godavari\", \"Narmada\", \"Kaveri\", and \"Sarasvati\" across English translations.\n\n[^2]: Āṅgirasa Smṛti, [Chapter 1, paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-543a9d).\n\n[^3]: Nouveau traité d'économie: VOL I, [Chapter 2, paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/02-i-influence-de-la-race-sur-la-liberte/translation/#p-6ac2b8).\n\n[^4]: Nouveau traité d'économie: VOL I, [Chapter 3, paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/03-ii-influence-des-circonstances-exterieures-sur-la-/translation/#p-1f97b0).\n\n[^5]: Traité de Législation: VOL II, [Chapter 3, paragraph](/works/charles-comte-traite-de-legislation-vol-ii-20331d/03-des-diverses-especes-ou-varietes-dont-se-compose-l/translation/#p-f0c315).\n\n[^6]: Viṣṇu Smṛti, [Chapter 19, paragraph](/works/unknown-visnu-smrti-27f0d8/19/translation/#p-eaf423) (Ganges); also Chapters 20, 23, 64, 85 (Ganges and Yamunā banks).\n\n[^7]: Manusmṛti, [Chapter 2, paragraph](/works/unknown-manusmrti-347b76/02/translation/#p-a9e644).\n\n[^8]: Manusmṛti, [Chapter 8, paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-803bc3) (Ganga and Sarasvatī); also Chapter 12.\n\n[^9]: Vīramitrodaya, [Chapter 1, paragraph](/works/unknown-viramitrodaya-d4b632/01/translation/#p-4c32c7).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ganges",
+        "limit": 20
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ganga",
+        "limit": 20
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yamuna",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Indus",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahmaputra",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Godavari",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Narmada",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kaveri",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sarasvati",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-543a9d"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-6ac2b8"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-1f97b0"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-f0c315"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 19,
+        "paragraph_ids": [
+          "p-eaf423"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-a9e644"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-803bc3"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-4c32c7"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-543a9d"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-6ac2b8"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-1f97b0"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-f0c315"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-eaf423"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-a9e644"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-803bc3"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-4c32c7"
+    }
+  ],
+  "duration_ms": 32568,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 27533,
+    "completion_tokens": 4388,
+    "total_tokens": 31921,
+    "cached_tokens": 11618,
+    "api_calls": 3,
+    "cost_usd": 0.0059579,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1896,
+        "completion_tokens": 927,
+        "total_tokens": 2823,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0005598
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7850,
+        "completion_tokens": 1525,
+        "total_tokens": 9375,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00204945
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 17787,
+        "completion_tokens": 1936,
+        "total_tokens": 19723,
+        "cached_tokens": 7845,
+        "cost_usd": 0.00334865
+      }
+    ]
+  }
+}

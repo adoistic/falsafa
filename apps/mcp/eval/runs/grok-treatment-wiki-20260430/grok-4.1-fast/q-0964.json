@@ -1,0 +1,356 @@
+{
+  "answer": "**Manu’s *Manusmṛti* Chapter 1 does not depict the universe as Brahma’s exhalation.** No such motif appears in the text (or elsewhere in the work); searches for relevant terms (e.g., \"exhalation,\" \"breath,\" \"Brahma exhale\") yielded zero results across the corpus.[^1] Its central cosmogenic line is instead a sequential emanation from an unmanifest Self-existent One: from primordial darkness, He manifests with creative power; produces waters into which He casts seed (forming a golden egg from which Brahma emerges); then mind (*of the nature of both being and non-being*), ego, great elements/senses, and subtle particles composing all beings; followed by names/actions from Veda, gods/sacrifice/Vedas/time/regions/*tapas*/pairs-of-opposites/varṇas.[^2] This is a hierarchical, body-based creation yielding dharma, varṇas, and cyclic yugas/manvantaras.\n\n**Vrhaspatitattva’s central cosmogenic line is the union of *cetana* (Conscious Principle: eternal, unobscured awareness/knowledge; threefold as *Paramaśivatattva*, *Sadāśivatattva*, *Śivatattva*) and *acetana* (Unconscious Principle: inert, like stone).** Their conjunction yields *pradhānatattva* (gross *māyā*, forgetfulness-inducing), *triguṇatattva* (*sattva-rajas-tamas*), *buddhi*, *ahaṅkāra*, senses/*tanmātras*/*mahābhūtas*—the full *sarvatattva* (all principles, akin to Śaiva 36 tattvas). Creation proceeds downward (*Śiva* pervades/stains *māyā* with *mala*, binding *ātmans* in *saṃsāra* via *vāsanā*/*citta*); liberation reverses via *jñāna*/*ṣaḍaṅgayoga*/*daśaśīla* yielding *aṣṭaiśvarya*.[^3]\n\n### Refinements of Manu by Vrhaspatitattva’s dualism\n- **Dual principles systematize Manu’s proto-dualism**: Manu’s mind as \"nature of both being and non-being\" (echoed in cyclic sleep/wake) gains analytic rigor as *cetana*/*acetana*—pervasive seeds of all *tattvas*, mirroring Manu’s subtle/gross particles entering beings (body as \"six subtle particles\"). Both emphasize sequential production (elements/senses from prior; qualities inherited downward).[^4]\n- **Cyclic structure refined**: Manu’s Brahma-day/night (absorption into Self; re-creation via mind/elements/yugas) parallels *cetana* binding in *māyā*/*pradhāna* (forgetfulness/sleep states: *jāgrat*/*svapna*/*suṣupti*; vital airs bind *ātmā*). *Triguṇa*/*citta* specify Manu’s action-driven rebirth/varṇas/dharma-decline.[^5]\n\n### Where Vrhaspatitattva cuts against Manu\n- **Dualism vs. monistic emanation**: Manu’s singular Self-existent/Brahma/Viraj (body-parts yield varṇas/gods/beings; no binding *mala*) clashes with *cetana* souls trapped in *acetana-māyā* (*ātmā* \"dazed\"/inverted by *pradhāna*, needing yoga; gods/souls hierarchically below *Śiva*). No egg, no varṇas/dharma-focus; Śaiva *mokṣa* trumps Vedic *ṛta*/sacrifice.[^6]\n- **Tantric agency vs. Vedic fate**: Manu’s beings assume preset actions (seasons analogy; yugas dictate dharma); Vrhaspatitattva stresses *ātmā*-agency (*vāsanā*/*citta* drive births, but *jñāna*/*samādhi* burns karma for *tūrya*/*aiśvarya*). Sleep as *pradhāna*-forgetting (not divine slumber) inverts Manu’s cosmic rest.[^7]\n\nThe corpus lacks exact \"exhalation\" parallels, but both evoke breath-like vital airs (*prāṇa*-*etc.* in Vrhaspati tying *ātmā*-body). For deeper cross-checks, nearest works: *Manusmṛti* Ch1 ~ *Vrhaspatitattva* Ch1 (cosine 0.04).[^8]\n\n[^1]: *Manusmṛti*, Ch1, [full chapter](/works/unknown-manusmrti-347b76/01/translation/).\n\n[^2]: *Manusmṛti*, Ch1, [p-61df11 to p-27d4b4](/works/unknown-manusmrti-347b76/01/translation/#p-61df11); key: [p-f689c4](/works/unknown-manusmrti-347b76/01/translation/#p-f689c4).\n\n[^3]: *Vrhaspatitattva*, Ch1, [p-04d69c to p-c31df3](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-04d69c); [full chapter](/works/unknown-vrhaspatitattva-b60b28/01/translation/).\n\n[^4]: *Manusmṛti*, [p-f689c4](/works/unknown-manusmrti-347b76/01/translation/#p-f689c4); *Vrhaspatitattva*, [p-c31df3](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-c31df3).\n\n[^5]: *Manusmṛti*, [p-946051-p-4cb590](/works/unknown-manusmrti-347b76/01/translation/#p-946051); *Vrhaspatitattva*, [p-695576](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-695576).\n\n[^6]: *Manusmṛti*, [p-13a2db-p-1d82e4](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db); *Vrhaspatitattva*, [p-643885](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-643885).\n\n[^7]: *Manusmṛti*, [p-1c4c70](/works/unknown-manusmrti-347b76/01/translation/#p-1c4c70); *Vrhaspatitattva*, [p-72a66e](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-72a66e).\n\n[^8]: *Manusmṛti* wiki, Ch1 card.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahma exhalation",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cetana acetana",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vrhaspati",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu universe Brahma",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vrhaspati"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Indic"
+      },
+      "result_summary": "Listed 19 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"vrhaspati\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"manu\" brahma",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "exhalation breath universe creation",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "{\"markdown\":\"# Vrhaspatitattva\\nBṛhaspati · Medieval · kawi · prose · 1 chapters · 14,791 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"venerable vṛhaspati replied\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vrhaspatitattva · ch.1\\nprose · 234¶ · 14791w · vocab 1895 (TTR 28%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"venerable vṛhaspati replied\\\" · \\\"lor"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cetana"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "conscious unconscious"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-04d69c",
+          "p-c31df3"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vrhaspatitattva · ch.1\\nprose · 234¶ · 14791w · vocab 1895 (TTR 28%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"venerable vṛhaspati replied\\\" · \\\"lor"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahma exhale breath"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prajapati breath creation"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-61df11"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-27d4b4"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-f689c4"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-04d69c"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-c31df3"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-946051"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-4cb590"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-695576"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-1d82e4"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-643885"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-1c4c70"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-72a66e"
+    }
+  ],
+  "duration_ms": 59041,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 70155,
+    "completion_tokens": 6074,
+    "total_tokens": 76229,
+    "cached_tokens": 28092,
+    "api_calls": 5,
+    "cost_usd": 0.0128542,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1961,
+        "completion_tokens": 692,
+        "total_tokens": 2653,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00045605
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2358,
+        "completion_tokens": 853,
+        "total_tokens": 3211,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00061595
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5496,
+        "completion_tokens": 723,
+        "total_tokens": 6219,
+        "cached_tokens": 2353,
+        "cost_usd": 0.00110775
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16491,
+        "completion_tokens": 1309,
+        "total_tokens": 17800,
+        "cached_tokens": 5491,
+        "cost_usd": 0.00312905
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "read_wiki_full",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 43849,
+        "completion_tokens": 2497,
+        "total_tokens": 46346,
+        "cached_tokens": 16486,
+        "cost_usd": 0.0075454
+      }
+    ]
+  }
+}

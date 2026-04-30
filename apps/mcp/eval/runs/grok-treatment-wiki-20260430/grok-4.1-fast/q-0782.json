@@ -1,0 +1,156 @@
+{
+  "answer": "**In the Falsafa corpus's edition of *Manusmṛti* (attributed to Manu), Chapter 7 contains exactly 86 verses (paragraphs), numbered Mn_7.1 through Mn_7.86.**[^1]\n\nThere is no verse 7.99 (or any verse beyond 86) in this chapter.[^2] The chapter opens by declaring the king's *dharma* (e.g., \"I will now declare the Dharma of Kings...\") and closes with guidance on the fruits of gifts: \"[p-c7410f] For according to the special quality of the recipient and according to faith, one reaps the fruit of a gift, whether small or great, after death. // Mn_7.86 //\"[^3]\n\nThis chapter overall prescribes the duties of a king: protecting subjects via *daṇḍa* (punishment), appointing worthy ministers and envoys, avoiding vices, choosing forts and allies, and honoring Brahmanas with gifts.[^1] If your reference uses a different verse numbering, translation, or edition (e.g., the traditional 216-verse Chapter 7 in some Sanskrit recensions), it is not present here.\n\n[^1]: *Manusmṛti*, Chapter 7 (86 paragraphs, translation), [chapter](/works/unknown-manusmrti-347b76/07/translation/).\n[^2]: *Manusmṛti*, Chapter 7, [paragraph p-b46e87 (verse 1)](/works/unknown-manusmrti-347b76/07/translation/#p-b46e87) to [paragraph p-c7410f (verse 86)](/works/unknown-manusmrti-347b76/07/translation/#p-c7410f).\n[^3]: *Manusmṛti*, Chapter 7, [paragraph p-c7410f](/works/unknown-manusmrti-347b76/07/translation/#p-c7410f).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu chapter 7 verse 99"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"7.99\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chapter 7\" Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"7.\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-c7410f"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-b46e87"
+    }
+  ],
+  "duration_ms": 28654,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 17793,
+    "completion_tokens": 2880,
+    "total_tokens": 20673,
+    "cached_tokens": 6241,
+    "api_calls": 4,
+    "cost_usd": 0.0040624500000000004,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 479,
+        "total_tokens": 2384,
+        "cached_tokens": 150,
+        "cost_usd": 0.000598
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2178,
+        "completion_tokens": 329,
+        "total_tokens": 2507,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005776
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3773,
+        "completion_tokens": 466,
+        "total_tokens": 4239,
+        "cached_tokens": 2173,
+        "cost_usd": 0.00066165
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki_full",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9937,
+        "completion_tokens": 1606,
+        "total_tokens": 11543,
+        "cached_tokens": 3768,
+        "cost_usd": 0.0022252
+      }
+    ]
+  }
+}

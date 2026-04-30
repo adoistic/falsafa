@@ -1,0 +1,299 @@
+{
+  "answer": "**One topic Manu treats expansively is *inheritance and partition* among heirs (especially sons), along with classifications of sons and their shares.**[^1]\n\nThis occupies much of *Manusmṛti* Chapter 9 (starting around verse 103, spanning dozens of verses across ~155 paragraphs total in the chapter), with elaborate rules: brothers may divide equally or the eldest takes all (with juniors subordinate); special portions for the eldest (e.g., best animals, 1/20th share); graduated shares by birth order or maternal *varṇa* (e.g., Brāhmaṇa son gets 4/10, Śūdra son 1/10); 12 types of sons (6 full heirs like *aurasa* and *kṣetraja*, 6 kinsmen only); appointed daughters (*putrikā*); daughter's sons; self-acquired vs. paternal property; indivisibles like clothing; etc.[^2][^3]\n\n**By contrast, *Yājñavalkya Smṛti* treats it far more concisely, mainly in a few verses of Chapter 2 (on legal procedure):** Sons take gifts from parents as their own; upon father's death, sons (and mother) divide estate equally; brief notes on daughters' shares, etc.[^4]\n\n| Aspect                  | *Manusmṛti* Ch. 9 (expansive)                                                                 | *Yājñavalkya Smṛti* Ch. 2 (concise)                                                  |\n|-------------------------|----------------------------------------------------------------------------------------|-------------------------------------------------------------------------------------|\n| **Partition basics**   | Brothers divide paternal estate equally after parents' death; eldest may take all (others subordinate as under father); special eldest share (1/20 + best items).[^5] | Sons divide estate equally after father's death; mother takes equal share.[^6]      |\n| **Types of sons/heirs**| 12 types: 6 heirs (*aurasa*, etc.); 6 kinsmen; detailed rules (e.g., *kṣetraja* gets 1/6).[^7] | Minimal; focuses on equal shares among legitimate sons.                            |\n| **Varṇa-based shares** | Sons by wives' *varṇas*: e.g., 4:3:2:1 out of 10 parts.[^8]                           | Not detailed here (covered briefly in Ch. 1 on conduct).[^9]                        |\n\n*Yājñavalkya* streamlines by prioritizing equality and omitting lengthy classifications/special cases.[^10]\n\n[^1]: Manusmṛti, Chapter 9, [full chapter](/works/unknown-manusmrti-347b76/09/translation/).\n\n[^2]: Yājñavalkya Smṛti, Chapter 2, [full chapter](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/).\n\n[^3]: E.g., Mn_9.103–9.219 details partition; Mn_9.158–9.181 lists 12 sons.\n\n[^4]: Key: Yj_2.123 (parents' gifts to son are his; sons + mother divide equally post-father).\n\n[^5]: Mn_9.104–9.119, [passage Mn_9.104–9.112](/works/unknown-manusmrti-347b76/09/translation/#p-29f6da) (TextRank excerpt).\n\n[^6]: Yj_2.123, [passage](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-4743c7).\n\n[^7]: Mn_9.158–9.179, [passage](/works/unknown-manusmrti-347b76/09/translation/#p-29f6da).\n\n[^8]: Mn_9.149–9.157, [passage](/works/unknown-manusmrti-347b76/09/translation/#p-29f6da).\n\n[^9]: Yj_1.57–92 (mixed-caste offspring), [Ch. 1 wiki](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/).\n\n[^10]: *compare_works* on \"inheritance\" flags Manusmṛti Ch. 9 vs. Yājñavalkya Chs. 1–2. *Yājñavalkya* total: 938 verses (3 chs.); *Manusmṛti*: ~2,685 verses (12 chs.).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.8\\nverse · 381¶ · 16882w · vocab 2625 (TTR 32%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"made pay fine\\\" · \\\"fine two hundred\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.9\\nverse · 155¶ · 10149w · vocab 1606 (TTR 34%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"son shudra wife\\\" · \\\"established rule mn_"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Manusmṛti · ch.11\\nverse · 6¶ · 206w · vocab 59 (TTR 64%, hapax 76%)\\n\\n## Distinctive trigrams\\n\\\"brahmanas learned veda\\\" · \\\"one establishin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "inheritance"
+      },
+      "result_summary": "{\"topic\":\"inheritance\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\""
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "debt"
+      },
+      "result_summary": "{\"topic\":\"debt\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\",\"autho"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "marriage"
+      },
+      "result_summary": "{\"topic\":\"marriage\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\",\"a"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"inheritance\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"partition\" \"brothers\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shares\" son",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.9\\nverse · 155¶ · 10149w · vocab 1606 (TTR 34%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"son shudra wife\\\" · \\\"established rule mn_"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-29f6da"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-4743c7"
+    }
+  ],
+  "duration_ms": 53463,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 79542,
+    "completion_tokens": 5681,
+    "total_tokens": 85223,
+    "cached_tokens": 34421,
+    "api_calls": 5,
+    "cost_usd": 0.01358575,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1922,
+        "completion_tokens": 581,
+        "total_tokens": 2503,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006524
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3050,
+        "completion_tokens": 495,
+        "total_tokens": 3545,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00057535
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4918,
+        "completion_tokens": 1492,
+        "total_tokens": 6410,
+        "cached_tokens": 3045,
+        "cost_usd": 0.00127285
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "compare_works",
+          "compare_works",
+          "compare_works"
+        ],
+        "prompt_tokens": 24437,
+        "completion_tokens": 1159,
+        "total_tokens": 25596,
+        "cached_tokens": 4913,
+        "cost_usd": 0.00472995
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki_full",
+          "read_wiki_full",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 45215,
+        "completion_tokens": 1954,
+        "total_tokens": 47169,
+        "cached_tokens": 24432,
+        "cost_usd": 0.0063552
+      }
+    ]
+  }
+}

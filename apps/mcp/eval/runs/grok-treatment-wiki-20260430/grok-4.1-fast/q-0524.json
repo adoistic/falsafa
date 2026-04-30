@@ -1,0 +1,248 @@
+{
+  "answer": "Song and singing as social practices appear in several works, often in contexts of communal distress, war mobilization, labor coordination, national identity, or bardic recitation of histories and exploits. Below are representative examples from each relevant work, focusing on bards reciting, communities chanting/lamenting, mourning songs, or anthems. These are drawn directly from the corpus; other mentions (e.g., ritual prohibitions in Smṛti texts or metaphorical bird songs) do not qualify as social practices.[^1]\n\n### Cynewulf, *Andreas*\nCommunal chanting of \"harm-songs,\" \"grieving-songs,\" and \"death-songs\" occurs in public gatherings amid crisis, such as before ritual sacrifice or as a city burns in divine punishment. A young man, bound for sacrifice, chants a harm-song before the assembled host; later, fearful citizens chant a death-song collectively.[^2]\n\n> A cry rose up when the young man began / with a grieving voice, held fast before the host, / to chant a harm-song, bereft of his friends, / to wish for peace.[^3]  \n> There was easily found within the city / a grieving-song woven. Many a fearful one / mourned his misery, they chanted a death-song.[^4]\n\n### Unknown, *Old English Elegies* (\"Widsith\")\nBardic recitation is central: the speaker Widsith, a wandering scop (poet/bard), unlocks his \"word-hoard\" to recite tales of his travels among tribes, kings, battles, and treasures before an audience, framing song as a social exchange of history and fame.[^5]\n\n### Allama Iqbal, *Bang-E-Dara Part 1* (\"Hindustani Bachon Ka Qaumi Geet\")\nA communal anthem (\"qaumi geet\") for Indian children, evoking shared national history through collective singing of unity and heritage across Chishti, Nanak, Tatar, and Hijazi influences.[^6]\n\n> Where Chishti first Truth's holy call conveyed, / And Nanak's song of Oneness was displayed, / The land the Tatars for their homeland made, / Which drew Hijaz's sons from desert shade, / This is my homeland, this land of mine.[^7]\n\n### Charles Comte, *Traité de Législation: Vol II*\nWarriors traverse villages singing recruitment chants to rally youth for feasts and raids, proclaiming vengeance in a communal call to arms (\"Let us go, and eat this people\").[^8]\n\n> When a warrior has resolved to undertake a military expedition, he goes from village to village to invite the young men to the feast; they go to his hut, singing: I am going to war, I am going to avenge the death of my kinsman; I will kill, I will burn, I will bring back slaves, I will eat men.[^9]\n\n### Charles Comte, *Traité de Législation: Vol III*\nPort porters and sailors sing call-and-response verses while unloading boats and handling heavy loads, synchronizing communal labor through rhythmic song.[^10]\n\n> [W]ith what ardor the porters unload a boat and transport the heaviest *couffes*; always singing and responding in verses to one of them who commands, they execute all movements in cadence and double their strength by uniting them through measure.[^11]\n\n[^1]: Searches across \"song,\" \"singing,\" \"bard,\" \"chant,\" \"hymn,\" \"lament,\" \"anthem,\" and \"mourning song\" yielded these as the clearest social-practice matches; ritual/penitential hymns in Smṛtis (e.g., *Āṅgirasa Smṛti*, *Manusmṛti*) or poetic metaphors elsewhere (e.g., Iqbal's nightingale laments) were excluded. [*Andreas* wiki card](/works/cynewulf-andreas-07b573/wiki/_work.card.md); [*Old English Elegies* wiki card](/works/unknown-old-english-elegies-d5fe9e/wiki/_work.card.md).\n\n[^2]: *Andreas*, ch. 1, [p-a8aa9a](/works/cynewulf-andreas-07b573/01/translation/#p-a8aa9a), [p-e5ccfa](/works/cynewulf-andreas-07b573/01/translation/#p-e5ccfa), [p-fcbffe](/works/cynewulf-andreas-07b573/01/translation/#p-fcbffe).\n\n[^3]: *Andreas*, ch. 1, [p-a8aa9a](/works/cynewulf-andreas-07b573/01/translation/#p-a8aa9a).\n\n[^4]: *Andreas*, ch. 1, [p-e5ccfa](/works/cynewulf-andreas-07b573/01/translation/#p-e5ccfa).\n\n[^5]: *Old English Elegies*, \"Widsith\" (ch. 14), [p-68f796](/works/unknown-old-english-elegies-d5fe9e/14/translation/#p-68f796).\n\n[^6]: *Bang-E-Dara Part 1*, ch. 26, [p-da6786](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-da6786).\n\n[^7]: *Bang-E-Dara Part 1*, ch. 26, [p-da6786](/works/allama-iqbal-bang-e-dara-part-1-55b25c/26-hindustani-bachon-ka-qaumi-geet/translation/#p-da6786).\n\n[^8]: *Traité de Législation: Vol II*, ch. 16, [p-3588b3](/works/charles-comte-traite-de-legislation-vol-ii-20331d/16-des-relations-qui-existent-entre-les-diverses-peup/translation/#p-3588b3).\n\n[^9]: *Traité de Législation: Vol II*, ch. 16, [p-3588b3](/works/charles-comte-traite-de-legislation-vol-ii-20331d/16-des-relations-qui-existent-entre-les-diverses-peup/translation/#p-3588b3).\n\n[^10]: *Traité de Législation: Vol III*, ch. 34, [p-52a1af](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/34-parallele-entre-la-portion-de-richesses-qui-est-la/translation/#p-52a1af).\n\n[^11]: *Traité de Législation: Vol III*, ch. 34, [p-52a1af](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/34-parallele-entre-la-portion-de-richesses-qui-est-la/translation/#p-52a1af).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "song",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "singing",
+        "limit": 50
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bard",
+        "limit": 50
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "chant",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hymn",
+        "limit": 50
+      },
+      "result_summary": "Found 41 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lament",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "anthem",
+        "limit": 50
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mourning song\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-a8aa9a",
+          "p-e5ccfa",
+          "p-fcbffe"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 14,
+        "paragraph_ids": [
+          "p-68f796"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-8c53e7"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26,
+        "paragraph_ids": [
+          "p-da6786"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-3588b3"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "p-52a1af"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 34,
+      "paragraph_id": "p-a8aa9a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 34,
+      "paragraph_id": "p-e5ccfa"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 34,
+      "paragraph_id": "p-fcbffe"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 34,
+      "paragraph_id": "p-68f796"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 34,
+      "paragraph_id": "p-da6786"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 34,
+      "paragraph_id": "p-3588b3"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+      "chapter_number": 34,
+      "paragraph_id": "p-52a1af"
+    }
+  ],
+  "duration_ms": 38808,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 65216,
+    "completion_tokens": 4769,
+    "total_tokens": 69985,
+    "cached_tokens": 33703,
+    "api_calls": 3,
+    "cost_usd": 0.01037225,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1926,
+        "completion_tokens": 792,
+        "total_tokens": 2718,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00049905
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 29946,
+        "completion_tokens": 1706,
+        "total_tokens": 31652,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00656005
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 33344,
+        "completion_tokens": 2271,
+        "total_tokens": 35615,
+        "cached_tokens": 29941,
+        "cost_usd": 0.00331315
+      }
+    ]
+  }
+}

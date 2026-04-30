@@ -1,0 +1,187 @@
+{
+  "answer": "In *Sayed Ki Loh-e-Turbat* (Bang-E-Dara Part 1, ch. 38), Iqbal's apostrophe is indirect and ventriloquistic: he personifies Sayyid Ahmed Khan's tombstone (loh-e-turbat), allowing it to speak in the first person as if the deceased reformer's spirit lives on, dispensing pragmatic advice on leadership, communal harmony, fearless expression, and poetry's awakening power.[^1] The tomb addresses a living audience (\"you\"), transforming the apostrophe into a posthumous legacy that critiques division while affirming the Sayed's enduring influence (\"See how my very tombstone is enraptured by my speech\").[^2]\n\nBy contrast, the apostrophe to the unnamed Brahman (*Sach keh doon ae Brahman! gar tu bura na maane*, Bang-E-Dara Part 1, ch. 36) is direct and confrontational: Iqbal hails the figure as \"O Brahmin\" and speaks to him bluntly in the second person, challenging idol worship (\"Your ancient idols have lost reverence\"), rejecting divisive traditions, and urging a shared pilgrimage of love transcending religious boundaries (\"Come, let us lift the veils of otherness anew\").[^3] This strategy lacks personification, positioning the Brahman as a living (or archetypal) interlocutor to provoke immediate reflection and unity.[^4]\n\nThe key difference lies in **perspective and tone**: the tomb apostrophe employs dramatic impersonation for inspirational continuity and subtle critique of the Sayed's era; the Brahman apostrophe uses raw, personal address for bold philosophical provocation.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 38 (*Sayed Ki Loh-e-Turbat*), [translation](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/).\n\n[^2]: *Ibid.*, [p-f55cb3](/works/allama-iqbal-bang-e-dara-part-1-55b25c/38-sayed-ki-loh-e-turbat/translation/#p-f55cb3).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 36 (*Sach keh doon ae Brahman! gar tu bura na maane*), [translation](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/).\n\n[^4]: *Ibid.*, [p-752d60](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-752d60) and [p-3a582d](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-3a582d).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sayed ki Loh-e-Turbat"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sir Syed\" OR \"Sayyid Ahmed Khan\" tomb"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Brahman OR Brahmin"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahmin OR Brahman OR Brahmana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"unnamed\" Brahman OR Brahmin"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 38
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 1 · ch.38\\nverse · 15¶ · 320w · vocab 135 (TTR 88%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"epitaph sayed bird\\\" · \\\"sayed bir"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 38,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.38 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.36 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 36
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-f55cb3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-752d60"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 36,
+      "paragraph_id": "p-3a582d"
+    }
+  ],
+  "duration_ms": 33996,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 26919,
+    "completion_tokens": 3853,
+    "total_tokens": 30772,
+    "cached_tokens": 13934,
+    "api_calls": 4,
+    "cost_usd": 0.0052202,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1927,
+        "completion_tokens": 716,
+        "total_tokens": 2643,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004611
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3326,
+        "completion_tokens": 848,
+        "total_tokens": 4174,
+        "cached_tokens": 1922,
+        "cost_usd": 0.0008009
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 9985,
+        "completion_tokens": 483,
+        "total_tokens": 10468,
+        "cached_tokens": 150,
+        "cost_usd": 0.002216
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 11681,
+        "completion_tokens": 1806,
+        "total_tokens": 13487,
+        "cached_tokens": 9980,
+        "cost_usd": 0.0017422
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "answer": "**In the *Manusmṛti*, the first prescribed action for a Brahmin householder (*snātaka*) upon waking is to rise during the *Brahma-muhūrta* (the auspicious \"hour of Brahmā,\" roughly the last watch of the night before dawn) and contemplate *dharma* (sacred duty), *artha* (wealth), the afflictions arising from failure to balance them, and the true meaning of the Veda.**[^1] He then performs his \"necessary duties\" (bodily functions like urination/defecation), purifies himself, and stands in devotion during the morning twilight while reciting sacred texts.[^2]\n\n**In the *Yājñavalkya Smṛti*, the first action for a twice-born householder is likewise rising (*utthāya*) at the *Brāhma muhūrta* to reflect (*vicārayet*) on his own welfare (*hitam*), before tending to bodily needs, purifying himself (including cleaning his teeth), and performing twilight worship.**[^3]\n\nThe two texts agree on both **what** comes first—rising at the *Brahma-muhūrta* followed immediately by inward reflection (*vicārayet* / contemplation)—and the **ordering** of the subsequent routine (purification, twilight rites). The phrasing differs slightly (Manu emphasizes balancing *dharma*/*artha* and Vedic meaning; Yājñavalkya stresses personal welfare), but this reflects stylistic variation rather than substantive disagreement. Both frame it as the foundational mental preparation before physical/ritual acts.\n\n[^1]: *Manusmṛti*, [Mn_4.92](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).\n[^2]: *Manusmṛti*, [Mn_4.93](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).\n[^3]: *Yājñavalkya Smṛti*, [Yj_1.98](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-596a25) (bodily needs/purification/twilight worship) & [Yj_1.115](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-60edb7) (rising/reflection).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manusmriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya-smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahmin daily routine"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"first thing\" OR \"upon waking\" OR \"first duty\" brahmin"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"upon rising\" OR \"having risen\" OR \"when he awakes\" OR \"on waking\" brahmin OR twice-born"
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rise OR awake OR wake OR woken brahmin daily OR morning OR \"first\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.4\\nverse · 226¶ · 12792w · vocab 2184 (TTR 34%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"five great sac"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.5\\nverse · 106¶ · 3213w · vocab 848 (TTR 51%, hapax 72%)\\n\\n## Distinctive trigrams\\n\\\"heron mode life\\\" · \\\"brahmana never eat\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahma-muhurta\" OR \"before dawn\" OR \"last watch\" brahmin"
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "awaken OR rise OR \"having risen\" OR \"on rising\" OR \"after waking\" brahmin OR \"twice-born\" OR householder"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-8b8ea4"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-596a25"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-60edb7"
+    }
+  ],
+  "duration_ms": 34651,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 123020,
+    "completion_tokens": 3595,
+    "total_tokens": 126615,
+    "cached_tokens": 22858,
+    "api_calls": 5,
+    "cost_usd": 0.0229728,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1937,
+        "completion_tokens": 678,
+        "total_tokens": 2615,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007039
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6326,
+        "completion_tokens": 646,
+        "total_tokens": 6972,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00130605
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14361,
+        "completion_tokens": 564,
+        "total_tokens": 14925,
+        "cached_tokens": 6321,
+        "cost_usd": 0.00220605
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 25346,
+        "completion_tokens": 623,
+        "total_tokens": 25969,
+        "cached_tokens": 14356,
+        "cost_usd": 0.0032273
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 75050,
+        "completion_tokens": 1084,
+        "total_tokens": 76134,
+        "cached_tokens": 150,
+        "cost_usd": 0.0155295
+      }
+    ]
+  }
+}

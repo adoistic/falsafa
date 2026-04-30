@@ -1,0 +1,145 @@
+{
+  "answer": "**The Falsafa corpus contains Cynewulf's *Elene* (slug: `cynewulf-elene-d2d132`), which narrates Saint Helena's recovery of the True Cross.[^1] However, it does not contain Iqbal's tomb-inscription (or epitaph) for Sayyid Ahmed Khan (also known as Sir Syed Ahmad Khan), nor any matching passage across Iqbal's included works (*Bang-E-Dara* Parts 1–3). Searches for relevant terms like \"Sayyid Ahmed Khan,\" \"Sir Syed,\" \"Sayyid Ahmad,\" \"tomb inscription,\" and close variants returned zero results in English translations.[^2]**\n\n**Without access to the operative line from Iqbal's inscription, a direct comparison of the two moments' cultural authority—Helena's uncovering of the Cross versus the inscription fixing Sayyid Ahmed Khan into history—is not possible from the corpus. The corpus has 37 works, focused on specific philosophical, classical, and literary texts; not every referenced text is covered.**\n\n[^1]: Cynewulf, *Elene*, metadata and wiki card. [Work wiki](/works/cynewulf-elene-d2d132/wiki/_work.card.md).\n\n[^2]: Corpus-wide searches conducted on English translation bodies; e.g., `search_corpus(\"Sayyid Ahmed Khan\")`, `search_corpus(\"\\\"Sir Syed\\\"\")`, `search_corpus(\"tomb inscription\")`; all returned empty. Iqbal works: `allama-iqbal-bang-e-dara-part-1-55b25c`, etc.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sayyid Ahmed Khan"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tomb inscription\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Helena cross Cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal",
+        "era": "20th Century"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sir Syed\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sayyid Ahmad\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tomb inscription"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true cross\" OR Helena OR Elene Cynewulf"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 35704,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 12993,
+    "completion_tokens": 3665,
+    "total_tokens": 16658,
+    "cached_tokens": 6625,
+    "api_calls": 3,
+    "cost_usd": 0.00343735,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1960,
+        "completion_tokens": 714,
+        "total_tokens": 2674,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00046685
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2868,
+        "completion_tokens": 1051,
+        "total_tokens": 3919,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00081695
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 8165,
+        "completion_tokens": 1900,
+        "total_tokens": 10065,
+        "cached_tokens": 2863,
+        "cost_usd": 0.00215355
+      }
+    ]
+  }
+}

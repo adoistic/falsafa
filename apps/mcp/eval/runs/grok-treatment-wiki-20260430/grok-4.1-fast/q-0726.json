@@ -1,0 +1,221 @@
+{
+  "answer": "**In the Old English poem *Deor* (chapter 13 of *Old English Elegies*), there are seven strophes (or stanzas), each corresponding to one of the seven paragraphs in the translation.[^1]**\n\nThe refrain—\"That passed over; so may this.\" (rendering Old English *Þæs ofereode, þisses swā mæg*)—appears at the end of the first **five strophes** (¶¶ 1–5, on Weland, Beadohild, Mæðhild, Theodric, and Eormanric).[^2][^3][^4][^5][^6]\n\nIt **ceases** in the sixth strophe (a gnomic reflection on sorrow and divine fortune).[^7]\n\nThe refrain then **returns** once more in the seventh and final strophe (Deor's personal lament about losing his position to Heorrenda).[^8]\n\nThus, there are **five strophes** before the refrain ceases.[^1]\n\n[^1]: *Old English Elegies*, ch.13 *Deor*, [chapter](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/).\n\n[^2]: Ibid., [¶1](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-1308a0).\n\n[^3]: Ibid., [¶2](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-d11ebc).\n\n[^4]: Ibid., [¶3](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-5821a4).\n\n[^5]: Ibid., [¶4](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-ac23ab).\n\n[^6]: Ibid., [¶5](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-160f1c).\n\n[^7]: Ibid., [¶6](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-b4d6b7).\n\n[^8]: Ibid., [¶7](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-6b7e51).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Deor",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Þæs ofereode\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Þes oferēode, þisses swā mæg\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.13\\nprose · 7¶ · 296w · vocab 115 (TTR 79%, hapax 84%)\\n\\n## Distinctive trigrams\\n\\\"passed heard tell\\\" · \\\"weland knew w"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"passed away\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Deor\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.13\\nprose · 7¶ · 296w · vocab 115 (TTR 79%, hapax 84%)\\n\\n## Distinctive trigrams\\n\\\"passed heard tell\\\" · \\\"weland knew w"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-1308a0"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-d11ebc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-5821a4"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-ac23ab"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-160f1c"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-b4d6b7"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 13,
+      "paragraph_id": "p-6b7e51"
+    }
+  ],
+  "duration_ms": 38718,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 28581,
+    "completion_tokens": 4407,
+    "total_tokens": 32988,
+    "cached_tokens": 18668,
+    "api_calls": 5,
+    "cost_usd": 0.0051195,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 646,
+        "total_tokens": 2548,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00042125
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3572,
+        "completion_tokens": 578,
+        "total_tokens": 4150,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009809
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 5578,
+        "completion_tokens": 655,
+        "total_tokens": 6233,
+        "cached_tokens": 3567,
+        "cost_usd": 0.00090805
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7502,
+        "completion_tokens": 653,
+        "total_tokens": 8155,
+        "cached_tokens": 5573,
+        "cost_usd": 0.00099095
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 10027,
+        "completion_tokens": 1875,
+        "total_tokens": 11902,
+        "cached_tokens": 7497,
+        "cost_usd": 0.00181835
+      }
+    ]
+  }
+}

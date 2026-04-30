@@ -1,0 +1,123 @@
+{
+  "answer": "**The Falsafa corpus contains three works by Allama Iqbal: *Bang-E-Dara* Parts 1, 2, and 3 (1924 Urdu poetry collections with English translations available).**[^1]\n\n**However, Iqbal's critique of *taqlid* (imitation or uncritical adherence to tradition, especially in Islamic jurisprudence, as opposed to *ijtihad* or independent reasoning) cannot be directly answered from this corpus.** Searches across English translation bodies for \"taqlid\", \"\\\"taqlid\\\" Iqbal\", \"ijtihad Iqbal\", \"\\\"blind imitation\\\" Iqbal\", and related terms returned zero results.[^2] Iqbal's most explicit discussions of *taqlid* appear in his prose works like *The Reconstruction of Religious Thought in Islam* (not present here), where he portrays it as a cause of intellectual stagnation in Muslim societies.\n\n**The corpus focuses on his Urdu poetry, which explores Islamic renaissance, selfhood (*khudi*), and spirituality but does not address *taqlid* in the available English texts.** If you're seeking classical or related philosophical texts on *taqlid* more broadly, the corpus lacks coverage of this term entirely based on searches—no works discuss it.[^3]\n\n[^1]: From `list_works` results for authors \"iqbal\", \"allama-iqbal\", etc.\n[^2]: From multiple `search_corpus` calls on English bodies.\n[^3]: From `search_corpus(\"taqlid\")`. Iqbal works: [\"/works/allama-iqbal-bang-e-dara-part-1-55b25c/translation/\"], [\"/works/allama-iqbal-bang-e-dara-part-2-9bc58c/translation/\"], [\"/works/allama-iqbal-bang-e-dara-part-3-cc61e8/translation/\"].",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "taqlid Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"taqlid\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "taqlid",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"blind imitation\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ijtihad Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "20th Century"
+      },
+      "result_summary": "Listed 3 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 20275,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 7803,
+    "completion_tokens": 2168,
+    "total_tokens": 9971,
+    "cached_tokens": 450,
+    "api_calls": 3,
+    "cost_usd": 0.0025770999999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 372,
+        "total_tokens": 2281,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005453
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2462,
+        "completion_tokens": 712,
+        "total_tokens": 3174,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008259
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 3432,
+        "completion_tokens": 1084,
+        "total_tokens": 4516,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012059
+      }
+    ]
+  }
+}

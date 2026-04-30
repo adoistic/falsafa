@@ -1,0 +1,272 @@
+{
+  "answer": "**Charles Comte's *Traité de la propriété* (Volumes I and II) are the primary works in the corpus dedicated to property rights.** These Enlightenment-era treatises systematically analyze property as a fundamental right, its origins, limits imposed by law, and applications to land, literary works, communal properties, and more.[^1][^2] Volume I covers topics like public domain dependencies, navigable rivers, mines, and servitudes on private property.[^3] Volume II extends to literary property, accession rights, and critiques of legal restrictions on disposition.[^4]\n\nAncient Indian *dharmaśāstra* texts like *Bṛhaspati Smṛti* and *Āṅgirasa Smṛti* address property rights extensively in legal contexts, including sales, debts, pledges, inheritance, deposits, partitions, and punishments for disputes over ownership—though more as prescriptive law than philosophical theory.[^5][^6] These single-chapter compilations detail procedures for immovable/movable property, creditor claims, and protections against seizure.[^7]\n\nComte's related *Traité de législation* series (Vols. I–IV) likely touch on property in political theory but are not centered on it.[^8] No other works match as directly; the corpus lacks classical treatments like Locke's.\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, work wiki overview (distinctive focus on property rights, public domain, servitudes). [Work wiki](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/wiki/_work.card.md).\n[^2]: Charles Comte, *Traité de la propriété: VOL II*, work wiki overview (focus on enjoyment/disposition rights, literary property). [Work wiki](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/wiki/_work.card.md).\n[^3]: Charles Comte, *Traité de la propriété: VOL I*, Ch. 15: \"The woods of private individuals are therefore subject, with respect to property rights, to two transitory exceptions...\" [/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/15-des-lois-destinees-a-prevenir-le-deboisement-des-m/translation/#p-e5607c].\n[^4]: Charles Comte, *Traité de la propriété: VOL II*, Ch. 33: \"...have engaged in philosophical discussions on property rights?\" [/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/33-des-lois-relatives-a-la-propriete-des-compositions/translation/#p-f14bea].\n[^5]: Unknown, *Āṅgirasa Smṛti*, Ch. 1: rules on obstructing rites to seize property. [/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-15cc9c].\n[^6]: Unknown, *Bṛhaspati Smṛti*, Ch. 1: \"When property is sold or taken for the purpose of a debt...\" [/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-6805b9].\n[^7]: *Bṛhaspati Smṛti* and *Āṅgirasa Smṛti* wiki overviews (legal disputes, ownership transfers). [Bṛhaspati wiki](/works/unknown-brhaspati-smrti-0fd070/wiki/_work.card.md); [Āṅgirasa wiki](/works/unknown-angirasa-smrti-2bf9d1/wiki/_work.card.md).\n[^8]: Structural relations from *Traité de la propriété* Vols. I/II (same-author links to *Traité de législation*).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "property rights",
+        "limit": 50
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"property right\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ownership property",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"right of property\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "property",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"private property\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"natural right\" property",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "limit": 20
+      },
+      "result_summary": "Found 6 related"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "limit": 20
+      },
+      "result_summary": "Found 6 related"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 15,
+        "paragraph_ids": [
+          "p-e5607c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 33,
+        "paragraph_ids": [
+          "p-f14bea"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-15cc9c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-6805b9"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "law"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "legal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "inheritance property",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-e5607c"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-f14bea"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-15cc9c"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-6805b9"
+    }
+  ],
+  "duration_ms": 48159,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 27491,
+    "completion_tokens": 5222,
+    "total_tokens": 32713,
+    "cached_tokens": 16102,
+    "api_calls": 4,
+    "cost_usd": 0.0056939,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1896,
+        "completion_tokens": 358,
+        "total_tokens": 2254,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0002753
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2852,
+        "completion_tokens": 937,
+        "total_tokens": 3789,
+        "cached_tokens": 1886,
+        "cost_usd": 0.000756
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "find_related",
+          "find_related"
+        ],
+        "prompt_tokens": 9488,
+        "completion_tokens": 2055,
+        "total_tokens": 11543,
+        "cached_tokens": 2847,
+        "cost_usd": 0.00249805
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13255,
+        "completion_tokens": 1872,
+        "total_tokens": 15127,
+        "cached_tokens": 9483,
+        "cost_usd": 0.00216455
+      }
+    ]
+  }
+}

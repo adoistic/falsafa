@@ -1,0 +1,357 @@
+{
+  "answer": "**Charles Comte's strongest comparative claim** appears in the conclusion to *Traité de Législation* Vol. III (Ch. 37), where he synthesizes observations across continents, species (*espèces*: Caucasian, Mongol, Malay, American, Ethiopian), and climates: civilization originates in central (hot/temperate) equatorial regions due to abundant means of subsistence (plant/animal species thriving there), spreads poleward but halts at certain latitudes/elevations due to scarcity; polar/barbarian (hunter/pastoral) hordes perpetually invade centers, imposing uniform military aristocracies/slavery despite species differences—proving *local physical circumstances* (soil, heat, resources) dictate social organization/morals far more than innate racial traits.[^1] Similar governments/vices recur everywhere barbarism conquers industry (e.g., feudal-like regimes in Africa, Abyssinia, Malay archipelagos, pre-Columbian America), with no species exceptions.[^2]\n\n**Charles Dunoyer's strongest comparative claim** is in his *Nouveau traité d'économie* Vol. I Introduction: human liberty—defined as free exercise of faculties via industry (skill overcoming nature) + morality (restraining violence)—increases monotonically across evolutionary \"modes of existence\" (*manières de vivre*): savage (hunting/war: minimal, via bare survival/independence); nomadic (pastoral: more, via herds/mobility); sedentary/slave-supported; serfdom; privilege/monopoly; office-seeking; culminating in *pure industry* (division of useful labor sans exploitation), where all professions (agriculture to governance) produce accumulating utilities in things/men, maximizing liberty.[^3] He reiterates in Vol. II Ch. 13: species progresses through these, with liberty proportional to culture (rejecting innate racial barriers).[^4]\n\n**Methods**: Comte is more *empirical*, grounding claims in exhaustive traveler accounts (e.g., Bruce on Abyssinians, Cook on Tierra del Fuego/Van Diemen, Péron on New Holland), systematically comparing specific peoples/climates (e.g., Mongols cold vs. hot Asia: latter less barbarous), rejecting deductive racial superiority (e.g., Blumenbach/Lawrence cranial claims) due to contradictory facts/local variance.[^5] Dunoyer is more *deductive*: starts with axiomatic liberty=industry+morality (contra \"rights\" declamations), deduces progression across modes, selectively illustrates via history/travelers (e.g., Raynal/Rousseau critiqued), fitting facts to theory rather than inducting from raw data.[^6]\n\n[^1]: Charles Comte, *Traité de Législation: VOL III*, Ch. 37 \"Conclusion de ce livre\" [paragraph](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/37-conclusion-de-ce-livre/translation/#p-a4473d).\n\n[^2]: Ibid., [Ch. 37](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/37-conclusion-de-ce-livre/translation/).\n\n[^3]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, Ch. 0 \"INTRODUCTION\" [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-d5b62b).\n\n[^4]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, Ch. 13 \"III. Des divers ordres de travaux...\" [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-c248a1).\n\n[^5]: Charles Comte, *Traité de Législation: VOL III*, Ch. 47 [paragraph](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/47-parallele-entre-les-diverses-especes-d-hommes-de-l/translation/#p-696635); Ch. 48 [paragraph](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/48-de-la-superiorite-des-peuples-d-espece-caucasienne/translation/#p-ccdae1).\n\n[^6]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, Ch. 0 [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-a373e4); Ch. 5 [full chapter](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/05-liberte-compatible-avec-la-maniere-de-vivre-des-pe/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "auguste-comte"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"modes of existence\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"comparative sociology\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL III\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 97,522 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"peopl"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "Listed 13 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "Listed 7 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "comparative society OR societies"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"modes of\" society OR existence OR life"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 47
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL III · ch.47\\nprose · 28¶ · 5504w · vocab 850 (TTR 36%, hapax 54%)\\n\\n## Distinctive trigrams\\n\\\"peoples caucasian spec"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 46
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL III · ch.46\\nprose · 21¶ · 3010w · vocab 762 (TTR 55%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"*the man nature*\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 48
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL III · ch.48\\nprose · 17¶ · 4085w · vocab 746 (TTR 41%, hapax 61%)\\n\\n## Distinctive trigrams\\n\\\"peoples caucasian spec"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 37
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL III · ch.37\\nprose · 18¶ · 2951w · vocab 676 (TTR 49%, hapax 61%)\\n\\n## Distinctive trigrams\\n\\\"one ascends toward\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 30
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL III · ch.30\\nprose · 36¶ · 4089w · vocab 988 (TTR 52%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"peoples caucasian spec"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.0\\nprose · 54¶ · 5812w · vocab 1146 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"take great care\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL II · ch.13\\nprose · 45¶ · 9942w · vocab 1631 (TTR 35%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"*traité économie pol"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.12\\nprose · 54¶ · 8696w · vocab 1612 (TTR 40%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"*traité économie poli"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"means of existence\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"way of life\" OR \"modes of existence\" OR \"manner of living\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 37
+      },
+      "result_summary": "Read ch.37 of charles-comte-traite-de-legislation-vol-iii-ca589a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 47
+      },
+      "result_summary": "Read ch.47 of charles-comte-traite-de-legislation-vol-iii-ca589a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 48
+      },
+      "result_summary": "Read ch.48 of charles-comte-traite-de-legislation-vol-iii-ca589a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0
+      },
+      "result_summary": "Read ch.0 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 13
+      },
+      "result_summary": "Read ch.13 of charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 5,
+      "paragraph_id": "p-a4473d"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 5,
+      "paragraph_id": "p-d5b62b"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 5,
+      "paragraph_id": "p-c248a1"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 5,
+      "paragraph_id": "p-696635"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 5,
+      "paragraph_id": "p-ccdae1"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 5,
+      "paragraph_id": "p-a373e4"
+    }
+  ],
+  "duration_ms": 53141,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 124884,
+    "completion_tokens": 6074,
+    "total_tokens": 130958,
+    "cached_tokens": 35418,
+    "api_calls": 5,
+    "cost_usd": 0.022701100000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1931,
+        "completion_tokens": 705,
+        "total_tokens": 2636,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00045655
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3200,
+        "completion_tokens": 929,
+        "total_tokens": 4129,
+        "cached_tokens": 150,
+        "cost_usd": 0.001082
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12948,
+        "completion_tokens": 1574,
+        "total_tokens": 14522,
+        "cached_tokens": 3195,
+        "cost_usd": 0.00289735
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 30047,
+        "completion_tokens": 1048,
+        "total_tokens": 31095,
+        "cached_tokens": 150,
+        "cost_usd": 0.0065109
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 76758,
+        "completion_tokens": 1818,
+        "total_tokens": 78576,
+        "cached_tokens": 30042,
+        "cost_usd": 0.0117543
+      }
+    ]
+  }
+}

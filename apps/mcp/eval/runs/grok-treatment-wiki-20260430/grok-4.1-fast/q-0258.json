@@ -1,0 +1,267 @@
+{
+  "answer": "**In the *Manusmṛti* (Chapter 9), *niyoga*—the practice of appointing a widow (or childless wife of an impotent/deceased man) to a kinsman (brother-in-law or *sapiṇḍa*) for the sake of offspring—is conditionally permitted only when the family line faces extinction.**[^1] The appointee must approach her silently at night, anointed with ghee, to beget one son (and arguably a second if needed); post-conception, they must treat each other as guru and daughter-in-law.[^2] Yet Manu immediately condemns it as absent from marriage rites, \"bestial,\" a product of the lustful king Vena's era (which mixed *varṇas*), and something \"the virtuous condemn,\" lest it \"destroy the eternal Dharma.\"[^3] This reflects **permission-with-reluctance**, framed as an archaic, decline-era expedient swiftly rejected.\n\n**In the *Yājñavalkya Smṛti* (Chapter 1), *niyoga* is straightforwardly endorsed for a childless wife: a younger brother, *sapiṇḍa*, or *sagotra* kinsman, authorized by elders, may approach her (anointed with ghee) at her fertile period until conception, yielding a legitimate *kṣetraja* son; violation (extra intercourse) makes him an outcaste.**[^4] No condemnation follows; it fits seamlessly among inheritance and wifely duties (*kṣetraja* sons rank with *aurasa* heirs).[^5] This shows **approval**, as a routine, elder-sanctioned duty.\n\nYājñavalkya treats *niyoga* as normative Dharma (like Manu’s rules but sans rejection); Manu voices it only to prohibit it, suiting Kali Yuga's decline.[^6]\n\n[^1]: *Manusmṛti*, Chapter 9, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-a1e160).\n[^2]: *Manusmṛti*, Chapter 9, [paragraphs](/works/unknown-manusmrti-347b76/09/translation/#p-f4dfaf).\n[^3]: *Manusmṛti*, Chapter 9, [paragraphs](/works/unknown-manusmrti-347b76/09/translation/#p-5e27f5).\n[^4]: *Yājñavalkya Smṛti*, Chapter 1, [paragraphs](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-b6655a).\n[^5]: *Yājñavalkya Smṛti*, Chapter 2, [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-3d46e3).\n[^6]: *Br̥haspati Smr̥ti*, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-579dc5) (cross-ref: Manu stated but forbade *niyoga* due to age-decline).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "niyoga",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "levirate",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brother-in-law\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "niyoga OR appoint OR brother husband son",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.9\\nverse · 155¶ · 10149w · vocab 1606 (TTR 34%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"son shudra wife\\\" · \\\"established rule mn_"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "niyoga OR \"appointed of\" OR \"appoint her\" OR widow brother OR \"son by\" brother-in-law",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-a1e160"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-f4dfaf"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-5e27f5"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-b6655a"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-3d46e3"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-579dc5"
+    }
+  ],
+  "duration_ms": 47624,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 134600,
+    "completion_tokens": 4087,
+    "total_tokens": 138687,
+    "cached_tokens": 3320,
+    "api_calls": 5,
+    "cost_usd": 0.0284655,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1937,
+        "completion_tokens": 388,
+        "total_tokens": 2325,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005589
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2725,
+        "completion_tokens": 972,
+        "total_tokens": 3697,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010085
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 7064,
+        "completion_tokens": 804,
+        "total_tokens": 7868,
+        "cached_tokens": 2720,
+        "cost_usd": 0.0014068
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 34636,
+        "completion_tokens": 611,
+        "total_tokens": 35247,
+        "cached_tokens": 150,
+        "cost_usd": 0.0072102
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 88238,
+        "completion_tokens": 1312,
+        "total_tokens": 89550,
+        "cached_tokens": 150,
+        "cost_usd": 0.0182811
+      }
+    ]
+  }
+}

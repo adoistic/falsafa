@@ -1,0 +1,347 @@
+{
+  "answer": "**Allama Iqbal's *Bang-E-Dara* (in three parts) contains several poems that evoke or center on particular cities (or closely associated locations), often in a meditative or lamenting mode reflecting on Islamic heritage, transience, and glory.**[^1][^2][^3]\n\nWhile no poem is *exclusively* a civic ode (unlike, say, some later Iqbal works not in the corpus), the following take specific cities or their iconic sites as primary subjects/settings:\n\n- **Bang-E-Dara Part 1, ch. 24 (\"Fikr-e-insaan par teri hasti se yeh roshan hua\")**: Laments ruined Delhi (explicitly named, also called Jahanabad/Old Delhi), contrasting its dust-enshrouded graves with poetic genius akin to Goethe's in Weimar. The city is personified as a cradle of art now wailing in silence.[^4]\n\n- **Bang-E-Dara Part 1, ch. 28 (\"Kinaar-e-Ravi\")**: Set on the banks of the Ravi River (flowing through Lahore, Iqbal's hometown), evoking the city's minarets, palaces, and timeless flow amid evening silence—a poignant scene of human life's fleeting passage.[^5]\n\n- **Bang-E-Dara Part 3, ch. 9 (\"Goristan-e-Shahi\")**: Meditates on the Royal Graveyard (likely Lahore's imperial Mughal cemetery), portraying it as a \"fallen nation’s final treasury\" amid ruins, where past conquerors sleep eternally under nature's indifferent gaze.[^6]\n\n- **Bang-E-Dara Part 3, ch. 2 (\"Bilad-e-Islamiya\")**: Surveys *multiple* \"Abodes of Islam\" as a collective subject—Delhi as a \"shrine for the grief-stricken heart,\" Baghdad, Cordoba, Constantinople (Istanbul), and Medina (Yathrib)—each as sacred soil of Muslim sovereignty and memory.[^7]\n\n**Notes**: \n- Ch. 25 of Part 1 (\"Himalaya\") personifies the mountain range (not a city) as Hindustan's eternal rampart.[^8] \n- No explicit poems on other cities like Lahore (named directly) appear; searches for \"Lahore,\" \"New York,\" etc., yielded zero translation hits, though place-evocation is poetic/subtle.[^9]\n- The corpus has no other Iqbal works.\n\n[^1]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/translation/\n[^2]: /works/allama-iqbal-bang-e-dara-part-2-9bc58c/translation/\n[^3]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/translation/\n[^4]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/24-fikr-e-insaan-par-teri-hasti-se-yeh-roshan-hua/translation/#p-a685bf\n[^5]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/28-kinaar-e-ravi/translation/\n[^6]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/\n[^7]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/02-bilad-e-islamiya/translation/#p-876603\n[^8]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/\n[^9]: Corpus search results for \"Lahore,\" \"Baghdad\" (contextual only), etc.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Lahore"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"New York\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"London\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Delhi"
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"city of\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Lahore",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "city",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 24
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 1 · ch.24\\nverse · 15¶ · 278w · vocab 146 (TTR 90%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"life revealed human\\\" · \\\"revealed"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 02-bilad-e-islamiya.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-Dara-part-3-cc61e8",
+        "chapter_number": 9
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: allama-iqbal-bang-e-Dara-part-3-cc61e8"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.25\\nverse · 25¶ · 444w · vocab 213 (TTR 86%, hapax 86%)\\n\\n## Distinctive trigrams\\n\\\"himalaya himalaya rampart\\\" · \\\"himal"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 28-kinaar-e-ravi.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Baghdad"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Lahore",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 24
+      },
+      "result_summary": "Read ch.24 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 28
+      },
+      "result_summary": "Read ch.28 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 9
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ravi\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-a685bf"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 9,
+      "paragraph_id": "p-876603"
+    }
+  ],
+  "duration_ms": 57580,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 63213,
+    "completion_tokens": 6980,
+    "total_tokens": 70193,
+    "cached_tokens": 42575,
+    "api_calls": 6,
+    "cost_usd": 0.009746349999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1900,
+        "completion_tokens": 598,
+        "total_tokens": 2498,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003967
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2786,
+        "completion_tokens": 705,
+        "total_tokens": 3491,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0006274
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5045,
+        "completion_tokens": 685,
+        "total_tokens": 5730,
+        "cached_tokens": 2781,
+        "cost_usd": 0.00093435
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 14589,
+        "completion_tokens": 1114,
+        "total_tokens": 15703,
+        "cached_tokens": 5040,
+        "cost_usd": 0.0027188
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16411,
+        "completion_tokens": 1227,
+        "total_tokens": 17638,
+        "cached_tokens": 14584,
+        "cost_usd": 0.0017081
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22482,
+        "completion_tokens": 2651,
+        "total_tokens": 25133,
+        "cached_tokens": 16406,
+        "cost_usd": 0.003361
+      }
+    ]
+  }
+}

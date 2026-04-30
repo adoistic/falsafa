@@ -1,0 +1,200 @@
+{
+  "answer": "**\"Tazmeen bar sher-e Aneesi Shamlu\" (Chapter 24 of *Bang-e-Dara Part 3*) is a poetic elaboration known as a *tazmeen*, a traditional Urdu/Persian form where the poet takes a *sher* (couplet) by another and weaves it into a longer narrative poem, developing its theme.**[^1][^2]\n\nThe chapter opens by quoting or alluding to Aneesi Shamlu's couplet (presented in translation as the wandering breeze preferring love's journey over its end), then expands into a dramatic monologue.[^3] The speaker, likened to the lover Qais (Majnun), wanders restlessly until reaching the \"land of Pir Sanjar\" (likely evoking Sufi mysticism or a shrine). There, a voice from a tomb—representing ancestral Islamic tradition or the sacred *haram*—rebukes him as a \"deserter of the ancestral way.\"[^4] It accuses him of forsaking the inner fire of faith (symbolized by Laila/divine love), failing to cultivate *La Ilaha* (the Islamic declaration of monotheism), and instead building \"foreign temples\" filled with \"church hymns\" despite being nurtured in the \"House of God\" (Kaaba/Bait-Ullah).[^5] The poem culminates by embedding Shamlu's original *sher* (italicized in translation):  \n*You learned devotion from us, to serve another's art;*  \n*You stole a pearl from our hands, to grace another's heart.*[^6]\n\nThis critiques cultural/religious apostasy: Muslims adopting Western/foreign influences while abandoning their roots, framed through Sufi love imagery (Majnun-Laila as metaphor for divine passion). The form is *verse* (as marked in metadata), structured as a *tazmeen* in rhymed, metered lines resembling a *nazm* or extended *ghazal* stanza, with the source *sher* integrated at the close.[^7][^8]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 24 \"Tazmeen bar sher-e Aneesi Shamlu\" (translation), title and frontmatter ([paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24-tazmeen-bar-sher-e-aneesi-shamlu/translation/#p-e54d95)).\n\n[^2]: Ibid., transliteration variant, title confirms \"(Tazmeen)\" ([full chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24-tazmeen-bar-sher-e-aneesi-shamlu/transliteration/)).\n\n[^3]: Ibid., translation, opening lines ([passage](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24-tazmeen-bar-sher-e-aneesi-shamlu/translation/#p-33dc81)).\n\n[^4]: Ibid. ([passage](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24-tazmeen-bar-sher-e-aneesi-shamlu/translation/?p-33dc81#p-33dc81)).\n\n[^5]: Ibid., core rebuke ([passage](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24-tazmeen-bar-sher-e-aneesi-shamlu/translation/#p-33dc81)).\n\n[^6]: Ibid., closing *sher* ([paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24-tazmeen-bar-sher-e-aneesi-shamlu/translation/#p-ed2ccc)).\n\n[^7]: *Bang-E-Dara Part 3* metadata: \"layout\":\"verse\" ([full chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24-tazmeen-bar-sher-e-aneesi-shamlu/translation/)).\n\n[^8]: Original Urdu confirms poetic structure with rhyme (e.g., *paimaai* / *na-shakeebaai*) ([full chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/24-tazmeen-bar-sher-e-aneesi-shamlu/original/)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 24
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 24-tazmeen-bar-sher-e-aneesi-shamlu.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 24,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.24 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 24
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 24-tazmeen-bar-sher-e-aneesi-shamlu.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 24,
+        "paragraph_ids": [
+          "p-e54d95",
+          "p-33dc81",
+          "p-ed2ccc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 24,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.24 of allama-iqbal-bang-e-dara-part-3-cc61e8 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 24,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.24 of allama-iqbal-bang-e-dara-part-3-cc61e8 (original)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 24
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki full missing: 24-tazmeen-bar-sher-e-aneesi-shamlu.full.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 24,
+      "paragraph_id": "p-e54d95"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 24,
+      "paragraph_id": "p-33dc81"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 24,
+      "paragraph_id": "p-ed2ccc"
+    }
+  ],
+  "duration_ms": 44155,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 43710,
+    "completion_tokens": 4468,
+    "total_tokens": 48178,
+    "cached_tokens": 32189,
+    "api_calls": 5,
+    "cost_usd": 0.00614765,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1919,
+        "completion_tokens": 493,
+        "total_tokens": 2412,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00034785
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7822,
+        "completion_tokens": 409,
+        "total_tokens": 8231,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00148645
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki"
+        ],
+        "prompt_tokens": 9591,
+        "completion_tokens": 564,
+        "total_tokens": 10155,
+        "cached_tokens": 7817,
+        "cost_usd": 0.00102765
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 11025,
+        "completion_tokens": 1204,
+        "total_tokens": 12229,
+        "cached_tokens": 9586,
+        "cost_usd": 0.0013691
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 13353,
+        "completion_tokens": 1798,
+        "total_tokens": 15151,
+        "cached_tokens": 11020,
+        "cost_usd": 0.0019166
+      }
+    ]
+  }
+}

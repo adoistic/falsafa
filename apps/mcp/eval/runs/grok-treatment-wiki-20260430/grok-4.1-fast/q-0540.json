@@ -1,0 +1,253 @@
+{
+  "answer": "**No works in the corpus contain explicit theological arguments about God's nature in a systematic or philosophical sense** (e.g., proofs of existence, attributes like omnipotence/omniscience, or Trinitarian analysis akin to scholastic theology). The 37 works are primarily poetic hagiographies, Indic legal texts (*smṛti*), Urdu verse, and French political theory; theological content is devotional, narrative, or ritualistic rather than argumentative.[^1]\n\nCynewulf's Old English Christian poems (*Andreas*, *Elene*, *Juliana*) come closest, with dialogic proclamations of God's nature as the singular, eternal creator amid miracles and martyrdoms:\n\n- **Andreas** affirms God as \"the one eternal God of all creation,\" ruler over heaven/earth, who performs wonders and protects the faithful.[^2]\n- **Elene** features prophetic quotes and debates (e.g., Judas vs. Jews) portraying God as incarnate Son, prefigured in scriptures, creator of world/heavens.[^3]\n- **Juliana** has the saint debating a devil who indirectly confesses God's supremacy over hellish powers.[^4]\n\nAllama Iqbal's *Bang-E-Dara* invokes Allah poetically (e.g., divine beauty, unity via *La ilaha illallah*), but as Sufi verse, not argument.[^5] Indic *smṛti* use \"divine\" ritually (e.g., vegetables, ordeals), without ontology.[^6]\n\n[^1]: From full corpus scan via `list_works` (37 works, no theology treatises like Anselm/Fichte's corpus mentions freedom, not divine essence). `search_corpus` for \"God\" (30 hits, mostly OE poems), \"divine\" (ritual/legal).\n[^2]: *Andreas*, ch.1.[https://falsafa-corpus.com/works/cynewulf-andreas-07b573/01/translation/]\n[^3]: *Elene*, ch.1.[https://falsafa-corpus.com/works/cynewulf-elene-d2d132/01/translation/]\n[^4]: *Juliana*, ch.1.[https://falsafa-corpus.com/works/cynewulf-juliana-9a2157/01/translation/]\n[^5]: *Bang-E-Dara Part 1*, various (e.g., ch.18 \"Dil\"). `search_corpus(\"Allah\")`.\n[^6]: E.g., *Aṅgirasa Smṛti*, ch.1.[https://falsafa-corpus.com/works/unknown-angirasa-smrti-2bf9d1/01/translation/]",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nature of God",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "God's nature",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "essence of God",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "divine nature",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "attributes of God",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "God is one",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "God",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Allah",
+        "limit": 30
+      },
+      "result_summary": "Found 23 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "divine",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "theology",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nature of the divine\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 17
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.17\\nprose · 10¶ · 807w · vocab 240 (TTR 55%, hapax 72%)\\n\\n## Distinctive trigrams\\n\\\"father taught his\\\" · \\\"father again"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 53989,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 101350,
+    "completion_tokens": 5097,
+    "total_tokens": 106447,
+    "cached_tokens": 26413,
+    "api_calls": 5,
+    "cost_usd": 0.01885655,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1899,
+        "completion_tokens": 905,
+        "total_tokens": 2804,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008098
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5580,
+        "completion_tokens": 808,
+        "total_tokens": 6388,
+        "cached_tokens": 150,
+        "cost_usd": 0.0014975
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16182,
+        "completion_tokens": 881,
+        "total_tokens": 17063,
+        "cached_tokens": 5575,
+        "cost_usd": 0.00284065
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 18656,
+        "completion_tokens": 1185,
+        "total_tokens": 19841,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00404065
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 59033,
+        "completion_tokens": 1318,
+        "total_tokens": 60351,
+        "cached_tokens": 18651,
+        "cost_usd": 0.00966795
+      }
+    ]
+  }
+}

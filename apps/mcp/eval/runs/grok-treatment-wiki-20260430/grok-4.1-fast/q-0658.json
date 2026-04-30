@@ -1,0 +1,428 @@
+{
+  "answer": "In the Smṛti corpus, *dāna* (दान, giving or charitable donation) is presented as a core religious and ethical duty (*dharma*), particularly emphasized as the supreme practice in the Kali *yuga* (current cosmic age), superseding austerity, knowledge, or sacrifice from prior ages.[^1] It purifies sins, generates heavenly rewards, and sustains the social order by supporting Brāhmaṇas, guests (*atithi*), ascetics, students (*brahmacārin*), and other worthy recipients (*pātra*, lit. \"vessels\"). Gifts must be given according to one's capacity, with faith, to qualified recipients to yield full merit; unworthy giving is fruitless or inferior.[^2]\n\n### Organization Across Recipients\nSmṛtis organize *dāna* hierarchically by recipient worthiness (primarily Brāhmaṇas of specific qualities), type of gift (e.g., food, cows, land), occasion (e.g., full moon, sacrifices), and merit (e.g., worlds attained). No single work exhaustively catalogs all, but patterns emerge:\n\n1. **Brāhmaṇas (primary recipients, esp. learned in Veda, maintaining sacred fire, or in specific situations)**:\n   - Learned recluses (*saṃnyāsin*), Vedic scholars (*sārvavedasaḥ*), those establishing families, performing sacrifices, traveling, studying, ill, or serving *gurus*/parents.[^3]\n   - Specific gifts: jewels/sacrificial fees (*dakṣiṇā*) from kings; tawny cows, black antelope skins (*kṛṣṇājina*) laden with gold/sesame on *Vaiśākha* full moon; food with fees.[^4]\n   - Merits: Heaven, progeny, overcoming sins, fellowship with gods (e.g., Agni via gold).[^5]\n\n2. **Guests (*atithi*) and mendicants (uninvited arrivals during *Vaiśvadeva* ritual)**:\n   - Honor with water (*arghya*), seats, food; even sinners qualify if timely. Failure risks ancestral displeasure.[^6]\n   - Even ascetics (*yati*) or students get priority portions (3+); equals Mount Meru in merit.[^7]\n\n3. **General worthy persons (*pātra*)**:\n   - Cherished items (e.g., food=everything; grain=satisfaction; sesame=offspring; seat=high position; bed=wife; shoes=chariot; umbrella=heaven). Safety (*abhaya*) > all; land/cows yield heavenly worlds proportional to quantity/quality.[^8]\n   - Infrastructure: Wells/ponds (Varuṇa world), trees (sons in afterlife), bridges/temples (deity's world).[^9]\n\nOther Smṛtis (e.g., Yājñavalkya, Nārada) reference *dāna* peripherally in penances or law without dedicated recipient lists; the corpus lacks a unified \"dānadāna\" section but aligns on Brāhmaṇa/guest priority.[^10]\n\n[^1]: Parāśara Smṛti, [Chapter 1](/works/unknown-parasara-smrti-2259be/01/translation/#p-afd7d9).\n[^2]: Parāśara Smṛti, [Chapter 1](/works/unknown-parasara-smrti-2259be/01/translation/#p-75f349); Viṣṇu Smṛti, [Chapter 92](/works/unknown-visnu-smrti-27f0d8/92/translation/#p-473073).\n[^3]: Manusmṛti, [Chapter 11](/works/unknown-manusmrti-347b76/11/translation/#p-259c16).\n[^4]: Viṣṇu Smṛti, [Chapter 87](/works/unknown-visnu-smrti-27f0d8/87/translation/#p-d08ace).\n[^5]: Manusmṛti, [Chapter 11](/works/unknown-manusmrti-347b76/11/translation/#p-f747bb); Viṣṇu Smṛti, [Chapter 92](/works/unknown-visnu-smrti-27f0d8/92/translation/#p-3e6e85).\n[^6]: Parāśara Smṛti, [Chapter 1](/works/unknown-parasara-smrti-2259be/01/translation/#p-d461ee).\n[^7]: Parāśara Smṛti, [Chapter 1](/works/unknown-parasara-smrti-2259be/01/translation/#p-a39d91).\n[^8]: Viṣṇu Smṛti, [Chapter 92](/works/unknown-visnu-smrti-27f0d8/92/translation/#p-192b7e).\n[^9]: Viṣṇu Smṛti, [Chapter 91](/works/unknown-visnu-smrti-27f0d8/91/translation/#p-ca41d5).\n[^10]: The full Smṛti works (e.g., Yājñavalkya Smṛti chapters 1-3) yield no dedicated *dāna* sections via search/wiki scans.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dadan",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dāna",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dānadharma\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "donation recipient",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smṛti",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharmaśāstra",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dānapātra\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dāna brahmin",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"worthy of gift\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu dāna",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Manusmṛti · ch.11\\nverse · 6¶ · 206w · vocab 59 (TTR 64%, hapax 76%)\\n\\n## Distinctive trigrams\\n\\\"brahmanas learned veda\\\" · \\\"one establishin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 92
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.92\\nverse · 28¶ · 435w · vocab 110 (TTR 56%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"attains world heaven\\\" · \\\"giver ten cows"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 87
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Viṣṇu Smṛti · ch.87\\nverse · 9¶ · 241w · vocab 71 (TTR 66%, hapax 70%)\\n\\n## Distinctive trigrams\\n\\\"honey clarified butter\\\" · \\\"**vishnu sm"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 88
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: high\\n---\\n\\n# Viṣṇu Smṛti · ch.88\\nverse · 5¶ · 83w · vocab 29 (TTR 81%, hapax 83%)\\n\\n## Distinctive trigrams\\n\\\"**vishnu smriti 88**\\\" · \\\"smriti 88** cow\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 89
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Viṣṇu Smṛti · ch.89\\nverse · 5¶ · 98w · vocab 38 (TTR 73%, hapax 76%)\\n\\n## Distinctive trigrams\\n\\\"month *kārttika* कार्तिक\\\" · \\\"**vishnu s"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Parāśara Smṛti · ch.1\\nverse · 70¶ · 2269w · vocab 591 (TTR 56%, hapax 72%)\\n\\n## Distinctive trigrams\\n\\\"par_1 kṛta *yuga*\\\" · \\\"parāśara chief"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dāna pātra"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gift to\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 92
+      },
+      "result_summary": "Read ch.92 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 91
+      },
+      "result_summary": "Read ch.91 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 87
+      },
+      "result_summary": "Read ch.87 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dāna recipient"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-afd7d9"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-75f349"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-473073"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-259c16"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-d08ace"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-f747bb"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-3e6e85"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-d461ee"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-a39d91"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-192b7e"
+    },
+    {
+      "work_slug": "unknown-parasara-smrti-2259be",
+      "chapter_number": 1,
+      "paragraph_id": "p-ca41d5"
+    }
+  ],
+  "duration_ms": 75672,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 79787,
+    "completion_tokens": 8492,
+    "total_tokens": 88279,
+    "cached_tokens": 47776,
+    "api_calls": 6,
+    "cost_usd": 0.013036999999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1910,
+        "completion_tokens": 1000,
+        "total_tokens": 2910,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0005994
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4689,
+        "completion_tokens": 2038,
+        "total_tokens": 6727,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019343
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10724,
+        "completion_tokens": 1231,
+        "total_tokens": 11955,
+        "cached_tokens": 150,
+        "cost_usd": 0.0027378
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 15950,
+        "completion_tokens": 1277,
+        "total_tokens": 17227,
+        "cached_tokens": 10719,
+        "cost_usd": 0.00222065
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18933,
+        "completion_tokens": 943,
+        "total_tokens": 19876,
+        "cached_tokens": 15945,
+        "cost_usd": 0.00186635
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 27581,
+        "completion_tokens": 2003,
+        "total_tokens": 29584,
+        "cached_tokens": 18928,
+        "cost_usd": 0.0036785
+      }
+    ]
+  }
+}

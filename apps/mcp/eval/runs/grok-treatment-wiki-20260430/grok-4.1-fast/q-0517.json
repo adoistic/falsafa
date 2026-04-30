@@ -1,0 +1,284 @@
+{
+  "answer": "**Cynewulf's *Andreas*** engages centrally with religious conversion, as Saint Andrew's mission leads the cannibalistic Mermedonians from devil-worship to Christianity: they pledge to \"loyally obey... receive eagerly the bath of baptism for the Lord’s will, and the devil-gilds, the old idol-steads, they would abandon,\" after which \"baptism was raised... and God’s law was rightly established.\"[^1] The poem narrates their mass turn from paganism, marked by destruction of idols and erection of a church.[^2]\n\n**Cynewulf's *Elene*** portrays conversion through Helena's quest for the True Cross: Judas converts after torment, receives baptism (\"Judas... received the bath of baptism, and was cleansed, true to Christ\"), becomes bishop Cyriacus, and preaches; others follow, leading Jews to Christianity amid miracles.[^3] Constantine's kin also convert.[^4]\n\n**Cynewulf's *Juliana*** engages resistance to forced conversion to paganism (Juliana refuses Eleusius unless he converts to Christianity), culminating in her martyrdom inspiring praise of God among witnesses, though no explicit mass conversion occurs.[^5]\n\nNo other works in the corpus substantially engage religious conversion (one belief system to another). Terms like \"conversion\" appear ~50 times across Charles Comte/Dunoyer's *Traité de Législation*, *Traité de la Propriété*, and *Nouveau Traité d'Économie*, but denote economic/physical changes (e.g., land to property, wheat to flour).[^6] Indic *smṛti* texts discuss *dharma* (duty/law) legally, without narrative conversion.[^7] *Kunjarakarna Dharmakathana* teaches Buddhist ethics but centers Yama's torments and homage to Jinas/Buddha, without clear belief-shift.[^8]\n\n[^1]: *Andreas*, ch. 1, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-2f5cb6).\n\n[^2]: *Andreas*, ch. 1, [full chapter](/works/cynewulf-andreas-07b573/01/translation/).\n\n[^3]: *Elene*, ch. 1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n\n[^4]: *Elene*, ch. 1, [full chapter](/works/cynewulf-elene-d2d132/01/translation/).\n\n[^5]: *Juliana*, ch. 1, [full chapter](/works/cynewulf-juliana-9a2157/01/translation/).\n\n[^6]: E.g., *Traité de la Propriété: VOL I*, ch. 10, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/10/translation/#p-4fee2f); 48 other instances similarly non-religious.\n\n[^7]: E.g., *Āṅgirasa Smṛti*, ch. 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-d38615) (legal *dharma*).\n\n[^8]: *Kunjarakarna Dharmakathana*, ch. 1, [wiki card](/works/unknown-kunjarakarna-dharmakathana-894f4a/wiki/01.card.md).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "conversion",
+        "limit": 50
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "convert",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "converted",
+        "limit": 50
+      },
+      "result_summary": "Found 37 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"turn to the faith\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "religious conversion",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "baptism",
+        "limit": 20
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "baptized",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true cross\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true faith\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mermedon",
+        "limit": 10
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "convert faith",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"came to faith\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"markdown\":\"# Kunjarakarna Dharmakathana\\nMpu Dusun · Medieval · kawi · prose · 1 chapters · 17,973 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homage feet lord\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kunjarakarna Dharmakathana · ch.1\\nprose · 349¶ · 17973w · vocab 2570 (TTR 32%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"homage feet lord\\\" · \\\"pay"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"abandon idols\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-2f5cb6"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-4fee2f"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-d38615"
+    }
+  ],
+  "duration_ms": 45190,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 107203,
+    "completion_tokens": 4333,
+    "total_tokens": 111536,
+    "cached_tokens": 42483,
+    "api_calls": 4,
+    "cost_usd": 0.017234649999999997,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 636,
+        "total_tokens": 2538,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00041625
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 18260,
+        "completion_tokens": 1380,
+        "total_tokens": 19640,
+        "cached_tokens": 150,
+        "cost_usd": 0.0043195
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 22202,
+        "completion_tokens": 985,
+        "total_tokens": 23187,
+        "cached_tokens": 18255,
+        "cost_usd": 0.00219465
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 64839,
+        "completion_tokens": 1332,
+        "total_tokens": 66171,
+        "cached_tokens": 22197,
+        "cost_usd": 0.01030425
+      }
+    ]
+  }
+}

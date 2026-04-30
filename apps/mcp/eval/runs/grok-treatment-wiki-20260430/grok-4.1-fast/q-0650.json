@@ -1,0 +1,443 @@
+{
+  "answer": "In the *Manusmṛti* (Chapter 7, \"The Duties of a King\"), *daṇḍa* (the rod)—personified as a divine son of the primordial Lord—is the foundational instrument of royal *dharma*, created expressly \"for [the king's] sake... as Dharma, the protector of all beings, formed of the spiritual luster of Brahma.\"[^1] It ensures cosmic and social order: all beings (even gods, demons, etc.) submit to their duties only through fear of *daṇḍa*, without which \"the stronger would roast the weaker like fish on a spit,\" castes would corrupt, and chaos would ensue.[^2] The king is its rightful wielder (*daṇḍa* \"rules all subjects, *daṇḍa* alone protects them\"), but only if pure, wise, and deliberative; otherwise, it destroys him and his realm.[^3] Just application requires weighing time, place, ability, and sacred texts; unjust use annihilates everything.[^4] The chapter equates *daṇḍa* with the king himself (\"He is the king, the man, *Daṇḍa*\"), emphasizing its supremacy over even the Vedas for governance.[^5]\n\nParallel treatments appear in *Yājñavalkya Smṛti* (Chapters 1–2, on conduct/*ācāra* and legal procedure/*vyavahāra*). Chapter 1's royal duties section (*rājadharmaprakaraṇam*) requires the king to master *daṇḍanīti* (the \"science of the rod/punishment\") alongside logic, economics, and Vedas; *daṇḍa* is the fourth political expedient (after conciliation, gifts, and division), succeeding when prior measures fail.[^6] It embodies *dharma* (\"For *dharma* was created of old by Brahmā in the form of punishment\"), wieldable only by the pure and wise, delighting the world if scriptural or enraging it otherwise; just *daṇḍa* yields heaven/fame/victory, while unjust erodes them.[^7] Chapter 2 operationalizes *daṇḍa* via graded fines (*amercements*: highest=1080 *paṇas*, middle/half, lowest/quarter) for debts, theft, assault, etc., scaled by offense, *varṇa*, age, etc.[^8]\n\n*Viṣṇu Smṛti* (Chapter 5) lacks *daṇḍa*'s mythic framing but details its application: graded corporal punishments, fines (*amercements*), branding, banishment, or death (except for Brāhmaṇas, who are branded/banished).[^9] E.g., highest amercement for theft >10 *kumbhas* grain or defiling a Brāhmaṇa; middle for assault drawing blood; lowest for minor insults. Killers of cows/elephants lose hand/foot; false witnesses lose property. The ideal king, via *daṇḍa*, eradicates thieves/adulterers/etc., attaining Indra's world.[^10]\n\nThese texts share *daṇḍa* as royal enforcement of *varṇāśrama*dharma: preventive order in *Manusmṛti*, policy/expedient in *Yājñavalkya*, punitive tariffs in *Viṣṇu*.\n\n[^1]: *Manusmṛti*, Ch.7, [para. p-73f910](/works/unknown-manusmrti-347b76/07/translation/#p-73f910).\n[^2]: *Manusmṛti*, Ch.7, [paras. p-d56424–p-279acb](/works/unknown-manusmrti-347b76/07/translation/#p-d56424).\n[^3]: *Manusmṛti*, Ch.7, [paras. p-48dedc–p-39e88d](/works/unknown-manusmrti-347b76/07/translation/#p-48dedc).\n[^4]: *Manusmṛti*, Ch.7, [paras. p-ab7b2a–p-6458d4](/works/unknown-manusmrti-347b76/07/translation/#p-ab7b2a).\n[^5]: *Manusmṛti*, Ch.7, [para. p-c970b2](/works/unknown-manusmrti-347b76/07/translation/#p-c970b2).\n[^6]: *Yājñavalkya Smṛti*, Ch.1, [paras. p-5552ad, p-20d31d](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-5552ad).\n[^7]: *Yājñavalkya Smṛti*, Ch.1, [paras. p-ff5556–p-8b92a6](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-ff5556).\n[^8]: *Yājñavalkya Smṛti*, Ch.2, [whole chapter on vyavahāra](https://falsafa.corpus/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/), e.g., [para. p-24ff98](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-24ff98).\n[^9]: *Viṣṇu Smṛti*, Ch.5, [paras. p-2c7e24–p-50676b](/works/unknown-visnu-smrti-27f0d8/05/translation/#p-2c7e24).\n[^10]: *Viṣṇu Smṛti*, Ch.5, [para. p-cf2b2a](/works/unknown-visnu-smrti-27f0d8/05/translation/#p-cf2b2a).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "danda rod punishment",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "danda king Manu",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "danda Visnu Yajnavalkya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajna"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rod of punishment\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rod king punishment"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "limit": 20
+      },
+      "result_summary": "Found 19 related"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the rod\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "punish king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Daṇḍa",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "danda",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.5\\nverse · 198¶ · 3105w · vocab 726 (TTR 47%, hapax 74%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement vi_5\\\" · \\\"fined high"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-visnu-smrti-27f0d8",
+        "topic": "king punishment danda"
+      },
+      "result_summary": "{\"topic\":\"king punishment danda\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"M"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "king punishment danda"
+      },
+      "result_summary": "{\"topic\":\"king punishment danda\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"M"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "limit": 5
+      },
+      "result_summary": "Found 5 related"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 16
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.16\\nverse · 19¶ · 309w · vocab 86 (TTR 67%, hapax 83%)\\n\\n## Distinctive trigrams\\n\\\"vi_16 born wives\\\" · \\\"**vishnu smriti 16*"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" punishment",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-73f910"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-d56424"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-279acb"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-48dedc"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-39e88d"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-ab7b2a"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-6458d4"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-c970b2"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-5552ad"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-20d31d"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-ff5556"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-8b92a6"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-24ff98"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-2c7e24"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-50676b"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 5,
+      "paragraph_id": "p-cf2b2a"
+    }
+  ],
+  "duration_ms": 86162,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 127425,
+    "completion_tokens": 7898,
+    "total_tokens": 135323,
+    "cached_tokens": 30954,
+    "api_calls": 6,
+    "cost_usd": 0.0247909,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1920,
+        "completion_tokens": 1486,
+        "total_tokens": 3406,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0008444
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2449,
+        "completion_tokens": 687,
+        "total_tokens": 3136,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0005507
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8650,
+        "completion_tokens": 784,
+        "total_tokens": 9434,
+        "cached_tokens": 2444,
+        "cost_usd": 0.0017554
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "find_related",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17871,
+        "completion_tokens": 1290,
+        "total_tokens": 19161,
+        "cached_tokens": 150,
+        "cost_usd": 0.0041967
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "compare_works",
+          "compare_works",
+          "find_related"
+        ],
+        "prompt_tokens": 24447,
+        "completion_tokens": 1614,
+        "total_tokens": 26061,
+        "cached_tokens": 150,
+        "cost_usd": 0.0056739
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 72088,
+        "completion_tokens": 2037,
+        "total_tokens": 74125,
+        "cached_tokens": 24442,
+        "cost_usd": 0.0117698
+      }
+    ]
+  }
+}

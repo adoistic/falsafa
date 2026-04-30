@@ -1,0 +1,390 @@
+{
+  "answer": "**Bang-E-Dara Part 1** (Allama Iqbal) contains multiple apostrophes to inanimate or abstract objects, such as the candle (*shama*), anguish of love (*dard-e-ishq*), fantasy/imagination (*khayal*), and the wheel of time.[^1][^2][^3][^4]\n\n**Bang-E-Dara Part 2** (Allama Iqbal) addresses the candle.[^5]\n\n**Diwan-E-Zauq** (Sheikh Ibrahim Zauq) apostrophizes the candle.[^6]\n\nNo other works in the corpus contain clear rhetorical apostrophes to inanimate objects (as opposed to divine beings, heroes, or persons). Old English poems like *Andreas* feature frequent vocatives (\"O hero,\" etc.), but these address animate figures or the Lord/God, not inanimates.[^7] Searches across the Indic *smṛti* texts, French treatises, and other poetry yielded no matches.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-89fef5).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/17-dard-e-ishq/translation/#p-6d19d8).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/#p-417cdf).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/40-shama/translation/#p-28baca).\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 2*, [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/03-misaal-e-partav-e-mai-tawaf-e-jaam-karte-hain/translation/#p-1a93ca).\n\n[^6]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/05-ae-zauq-waqt-naale-ke-rakh-le-jigar-pe-haath/translation/#p-b7e0c9).\n\n[^7]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-58182e).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "O,",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "O!",
+        "limit": 100
+      },
+      "result_summary": "Found 23 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O \"",
+        "limit": 100
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Oh \"",
+        "limit": 100
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "O\\ ",
+        "limit": 100
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Death\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Time\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Sea\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Wind\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Earth\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Sun\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Moon\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "O candle",
+        "limit": 10
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O Night\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O thou\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O ye\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": ", thou",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 40,
+        "paragraph_ids": [
+          "p-89fef5"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 40,
+        "paragraph_ids": [
+          "p-28baca"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "paragraph_ids": [
+          "p-417cdf"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-1a93ca"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-b7e0c9"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17,
+        "paragraph_ids": [
+          "p-6d19d8"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-89fef5"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-6d19d8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-417cdf"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-28baca"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-1a93ca"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-b7e0c9"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 17,
+      "paragraph_id": "p-58182e"
+    }
+  ],
+  "duration_ms": 77918,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 103443,
+    "completion_tokens": 8653,
+    "total_tokens": 112096,
+    "cached_tokens": 75957,
+    "api_calls": 6,
+    "cost_usd": 0.01362155,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 475,
+        "total_tokens": 2381,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005962
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 5229,
+        "completion_tokens": 846,
+        "total_tokens": 6075,
+        "cached_tokens": 1888,
+        "cost_usd": 0.0011856
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20392,
+        "completion_tokens": 1612,
+        "total_tokens": 22004,
+        "cached_tokens": 5224,
+        "cost_usd": 0.0041008
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21787,
+        "completion_tokens": 2032,
+        "total_tokens": 23819,
+        "cached_tokens": 20387,
+        "cost_usd": 0.00231535
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 26531,
+        "completion_tokens": 1788,
+        "total_tokens": 28319,
+        "cached_tokens": 21782,
+        "cost_usd": 0.0029329
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 27598,
+        "completion_tokens": 1900,
+        "total_tokens": 29498,
+        "cached_tokens": 26526,
+        "cost_usd": 0.0024907
+      }
+    ]
+  }
+}

@@ -1,0 +1,263 @@
+{
+  "answer": "**Manu’s *Manusmṛti* (Ch. 1) presents the *varṇas* (social classes) as cosmogonically emergent from the body of the cosmic Puruṣa (primordial being), integral to world-creation for cosmic order (*loka-saṃgraha*).**[^1]\n\nA representative passage:\n\n> [p-13a2db] And for the sake of the prosperity of the worlds, he caused the Brahmana, the Kshatriya, the Vaishya, and the Shudra to emanate from his mouth, arms, thighs, and feet. // Mn_1.31 //\n\nThis frames *varṇas* as eternal, divinely ordained divisions tied to creation itself, with hierarchical purity (mouth purest, feet lowest) and specific duties (*svadharma*) assigned accordingly (e.g., Brāhmaṇas teach/sacrifice; Śūdras serve).[^2]\n\n**Slokantara (Ch. 1), an Old Javanese gnomic anthology, recites the *same* Puruṣa-varṇa origin but treats social distinctions (*varṇa*, lineage/*kula*, nobility/*kṣatriya*-like roles) more pragmatically: as functional duties (*kārya*), moral warnings against degradation (e.g., to *cāṇḍāla* outcastes), and rebirth consequences, emphasizing ethical conduct over mythic inevitability.**[^3]\n\nRepresentative passage (Slo_78, recited verbatim as in Ṛgveda-Puruṣasūkta/Manu, with commentary on pragmatic duties):\n\n> [p-86d937] [Slo_78s-ab] From the forehead is born the *vipra*; the *kṣatriya* is born from the arms.  \n> [Slo_78s-cd] From the thighs is born the *vaiśya*; and the *śūdra* is born from the feet.  \n>   \n> [p-86d937] [Slo_78j§1] The meaning is: Humankind is of four kinds. They came forth from the body of the holy god Brahmā in the past. They are called the four *varṇas* in the world. *Vipra* is the name for the Brāhmaṇa. They came forth from the forehead... Their work is to perform worship...  \n> [p-fbc575] [*Kṣatriya*]... Their work is to be skilled in warfare...  \n> [p-b24e6c] [As for the *Vaiśya*]... Their work is to care for the land...  \n> [p-0130ba] [Furthermore, the *Śūdra*]... Buying and selling is their work... Such are the different duties of the four classes... The Kṣatriya, Vaiśya, and Śūdra are all devoted and serve the Brāhmaṇa.[^4]\n\nSlokantara **presupposes Manu’s framework**: it invokes the *exact* body-parts cosmogony (forehead/mouth=Brāhmaṇa; arms=Kṣatriya; thighs=Vaiśya; feet=Śūdra), treating it as scriptural authority (*āgama*). However, its gnomic style shifts focus pragmatically to real-world duties, taboos (e.g., *cāṇḍālas* as degraded traders/craftsmen), and *karma*-rebirth (e.g., evil → animal/*cāṇḍāla*), urging ethical adherence amid *kaliyuga* decline rather than mythic fatalism.[^5] No independent cosmogony; it adapts the Indic *varṇa*-model for Javanese moral instruction.\n\n[^1]: *Manusmṛti* 1.31, 87–91 (duties from origin). [Chapter](/works/unknown-manusmrti-347b76/01/translation/).\n[^2]: *Manusmṛti* 1.88–91. [Paragraphs](/works/unknown-manusmrti-347b76/01/translation/#p-71a5c2).\n[^3]: *Slokantara* throughout Ch. 1 (e.g., duties at Slo_27–28; outcastes Slo_29–30,43–44; *yuga*-decline/pragmatics Slo_65,73,78).\n[^4]: *Slokantara* Slo_78 + jj. [Passage](/works/unknown-slokantara-d7a628/01/translation/#p-86d937).\n[^5]: *Slokantara* Slo_73j (strive beyond birth/*yuga* via *dharma*); Slo_25–26 (virtue > birth). [Chapter](/works/unknown-slokantara-d7a628/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Slokantara"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu varna cosmogony"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti book 1 castes"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "{\"markdown\":\"# Slokantara\\nUnknown · Medieval · kawi · prose · 1 chapters · 17,343 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"say sacred teachings\\\" · \\\"kṛta tretā dvā"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "varna",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"four castes\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brāhmaṇa kṣatriya vaiśya śūdra"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mouth\" \"arms\" \"thighs\" \"feet\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "caste OR varna OR brahmin OR shudra OR ksatriya OR vaishya work_slug:unknown-slokantara-d7a628"
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Slokantara · ch.1\\nprose · 184¶ · 17343w · vocab 2746 (TTR 33%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"say sacred teachings\\\" · \\\"kṛta tretā dvāp"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahmin\" OR \"shudra\" OR \"kshatriya\" OR \"vaisya\" OR \"caste\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-slokantara-d7a628 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-13a2db"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "social distinction OR class OR rank OR hierarchy OR \"high born\" OR \"low born\" work_slug:unknown-slokantara-d7a628"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"good family\" OR \"noble birth\" OR \"low caste\" OR \"high caste\" work_slug:unknown-slokantara-d7a628"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-86d937"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-fbc575"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-b24e6c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-0130ba"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-71a5c2"
+    }
+  ],
+  "duration_ms": 55257,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 92020,
+    "completion_tokens": 5090,
+    "total_tokens": 97110,
+    "cached_tokens": 34551,
+    "api_calls": 5,
+    "cost_usd": 0.01576635,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1950,
+        "completion_tokens": 572,
+        "total_tokens": 2522,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006535
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5441,
+        "completion_tokens": 718,
+        "total_tokens": 6159,
+        "cached_tokens": 150,
+        "cost_usd": 0.0014247
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9205,
+        "completion_tokens": 1053,
+        "total_tokens": 10258,
+        "cached_tokens": 5436,
+        "cost_usd": 0.0015521
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19620,
+        "completion_tokens": 869,
+        "total_tokens": 20489,
+        "cached_tokens": 9200,
+        "cost_usd": 0.0029785
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 55804,
+        "completion_tokens": 1878,
+        "total_tokens": 57682,
+        "cached_tokens": 19615,
+        "cost_usd": 0.00915755
+      }
+    ]
+  }
+}

@@ -1,0 +1,243 @@
+{
+  "answer": "**Cynewulf's runic signature in *Elene*** appears at the poem's close as a self-referential riddle embedded in the first letters of five key words across three lines, spelled via Old English runes (futhorc): **ᚳᚣᚾᛖᚹᚢᛚᚠ** (*Cyn(e)wulf*).[^1] This acrostic authenticates the text poetically, mimicking a jeweler's inscription on a cross (as Cynewulf describes his own \"bone-house\" unlocked by divine grace). The passage reads:\n\n> Thus I, old and ready for my journey,  \n> through this frail house have woven word-craft  \n> and wondrously gathered... *ᚳ* [drusende], though he in mead-hall  \n> received treasures... *ᚣ* [gnornode]  \n> *ᚾ* [gefera], nearusorge dreah...  \n> where the horse... *ᛖ* [fore] milpaðas... *ᚹ* [is] geswiðrad...  \n> *ᚢ* [wæs] geara geogoðhades glæm.[^2]\n\n**Yājñavalkya's opening** invokes a chain of prior teachers (smṛti authors) to legitimize the text, framing it as transmitted wisdom: \"Manu, Atri, Viṣṇu, Hārīta, **Yājñavalkya**, Uśanas, Aṅgiras, Yama, Āpastamba, Saṃvarta, Kātyāyana, and Bṛhaspati, Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, and Gautama, Śātātapa, and Vasiṣṭha are the promulgators of the Dharmaśāstras.\"[^3] Yājñavalkya responds from Mithilā after meditating, situating his work in this lineage.[^4]\n\n**Cynewulf's hidden runes make forgery harder**. The overt chain of named witnesses in *Yājñavalkya Smṛti* is verifiable against other texts (e.g., cross-referencing authors like Manu or Vasiṣṭha), but easily replicated or altered by inserting/exchanging names. Cynewulf's signature, however, is cryptically woven into verse syntax and rune-shapes (e.g., ᚹ for /w/), requiring precise poetic meter, alliterative structure, *and* runic knowledge to forge undetected—its subtlety evades casual tampering while demanding insider expertise to confirm.[^5]",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cynewulf runes elene"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yajnavalkya teachers chain opening"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Cynewulf\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rune\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "runic"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "signature"
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"teacher\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (original)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"run\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 60159,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 152665,
+    "completion_tokens": 5625,
+    "total_tokens": 158290,
+    "cached_tokens": 49654,
+    "api_calls": 5,
+    "cost_usd": 0.0258974,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1952,
+        "completion_tokens": 813,
+        "total_tokens": 2765,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00051475
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2532,
+        "completion_tokens": 603,
+        "total_tokens": 3135,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007854
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3703,
+        "completion_tokens": 1492,
+        "total_tokens": 5195,
+        "cached_tokens": 2527,
+        "cost_usd": 0.00110755
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki_full",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 41403,
+        "completion_tokens": 1264,
+        "total_tokens": 42667,
+        "cached_tokens": 3698,
+        "cost_usd": 0.0083579
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 103075,
+        "completion_tokens": 1453,
+        "total_tokens": 104528,
+        "cached_tokens": 41398,
+        "cost_usd": 0.0151318
+      }
+    ]
+  }
+}

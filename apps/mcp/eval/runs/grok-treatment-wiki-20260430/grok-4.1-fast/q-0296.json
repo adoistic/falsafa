@@ -1,0 +1,251 @@
+{
+  "answer": "**Ghalib's Couplet (Diwan-e-Ghalib, ch. 33):**  \n\"It is a heart, not stone and brick, that fills with pain;  \nWe'll weep a thousand times—why should a soul be slain?\"[^1]\n\nThe Falsafa corpus contains this exact famous *sher* by Mirza Ghalib, where the heart (*dil*) is contrasted with inert *sang-o-khisht* (stone and brick) to emphasize its vulnerability to emotional suffering.[^2]\n\nHowever, no verse by Allama Iqbal in the corpus (*Bang-e-Dara* Parts 1–3) objectifies the heart similarly as brick, stone, or other building material. Iqbal frequently thematizes the heart (*dil*) as restless, pained, or rent by sorrow—e.g., \"Does the garden weep there at the nightingale's lament? / And like this world, is the heart there with sorrow also rent?\"[^3]—but never materializes it as *sang-o-khisht*-like. Searches for \"heart\" near \"brick,\" \"stone,\" \"clay,\" etc., yield only general building imagery (e.g., \"Do they worry over brick and clay to build a house of stone?\"[^4]) unlinked to the heart.\n\nWithout a matching Iqbal verse in the corpus, I cannot stage the requested pairing honestly.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 33 [\"Dil hi to hai na sang-o-khisht...\"], [p-d9d50d](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/33-dil-hi-to-hai-na-sang-o-khisht-dard-se-bhar-na-aay/translation/#p-d9d50d).\n\n[^2]: Ibid., full chapter [citation_url](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/33-dil-hi-to-hai-na-sang-o-khisht-dard-se-bhar-na-aay/translation/).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 32 [\"Mehr-e-roshan\"], [p-4c17d7](/works/allama-iqbal-bang-e-dara-part-1-55b25c/32-mehr-e-roshan/translation/#p-4c17d7).\n\n[^4]: Ibid., [p-0de022](/works/allama-iqbal-bang-e-dara-part-1-55b25c/32-mehr-e-roshan/translation/#p-0de022).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib \"dil hi to hai\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib \"sang o khisht\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal heart brick stone",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dil hi to hai\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" \"brick\" OR \"stone\" OR \"tile\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" (\"brick\" OR \"stone\" OR \"tile\") ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" (\"brick\" OR \"stone\" OR \"tile\") iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"not brick\" OR \"not stone\" heart",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib \"heart\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 33
+      },
+      "result_summary": "Read ch.33 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32
+      },
+      "result_summary": "Read ch.32 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal heart stone OR brick OR tile OR clay OR rock",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\" (stone OR brick OR tile OR clay OR rock OR flint) iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 32
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.32\\nverse · 27¶ · 590w · vocab 240 (TTR 79%, hapax 85%)\\n\\n## Distinctive trigrams\\n\\\"inquiry sleepers dust\\\" · \\\"sleepers "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 32,
+      "paragraph_id": "p-d9d50d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 32,
+      "paragraph_id": "p-4c17d7"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 32,
+      "paragraph_id": "p-0de022"
+    }
+  ],
+  "duration_ms": 50673,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 42452,
+    "completion_tokens": 5151,
+    "total_tokens": 47603,
+    "cached_tokens": 13748,
+    "api_calls": 4,
+    "cost_usd": 0.0090037,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1925,
+        "completion_tokens": 906,
+        "total_tokens": 2831,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008155
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2922,
+        "completion_tokens": 1378,
+        "total_tokens": 4300,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012509
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 13303,
+        "completion_tokens": 1335,
+        "total_tokens": 14638,
+        "cached_tokens": 150,
+        "cost_usd": 0.0033056
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 24302,
+        "completion_tokens": 1532,
+        "total_tokens": 25834,
+        "cached_tokens": 13298,
+        "cost_usd": 0.0036317
+      }
+    ]
+  }
+}

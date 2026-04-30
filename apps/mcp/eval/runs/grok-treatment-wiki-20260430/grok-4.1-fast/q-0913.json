@@ -1,0 +1,247 @@
+{
+  "answer": "**Diwan-e-Ghalib, ghazal 77 (\"Humse khul jaao ba-waqt-e-mai-parasti ek din\")** features the radif *ek din* (translated consistently as \"one day\"). This refrain underscores transience and inevitability across the ghazal, but its semantic force emerges through homophonic play and contextual shifts in the preceding words—*lachak* (sway), *lachak* (hold sway), *raah* (way/path), *bajaa* (play/sound), *adaa* (pay back/fulfill)—evoking motion, power, direction, music, and recompense, all bound to a singular future moment of reversal.[^1]\n\nHere are three couplets illustrating the radif's evolving shades:\n\n1. **Physical/emotional sway yielding to the poet's feigned influence:**  \n   Let wine persuade your heart to gently sway one day,  \n   Or I'll feign drunkenness and have my sway one day.[^2]\n\n2. **Hubris of worldly power destined for ruin:**  \n   Let not the pride of worldly heights hold sway one day,  \n   For every peak is destined to decay one day.[^3]\n\n4. **Life's instrument silenced in mourning:**  \n   O heart, let sorrow's anthems also play one day,  \n   This fragile instrument of life won't play one day.[^4]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 77 (\"Humse khul jaao ba-waqt-e-mai-parasti ek din\"), [translation](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/77-humse-khul-jaao-ba-waqt-e-mai-parasti-ek-din/translation/).\n\n[^2]: Ibid., [p-236777](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/77-humse-khul-jaao-ba-waqt-e-mai-parasti-ek-din/translation/#p-236777).\n\n[^3]: Ibid., [p-29c6a9](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/77-humse-khul-jaao-ba-waqt-e-mai-parasti-ek-din/translation/#p-29c6a9).\n\n[^4]: Ibid., [p-4b6e91](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/77-humse-khul-jaao-ba-waqt-e-mai-parasti-ek-din/translation/#p-4b6e91).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"radif\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghazal radif"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 77
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.77\\nverse · 5¶ · 96w · vocab 43 (TTR 62%, hapax 84%)\\n\\n## Distinctive trigrams\\n\\\"sway one day\\\" · \\\"way one day\\\" · \\\"play on"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 52
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.52\\nverse · 8¶ · 157w · vocab 79 (TTR 90%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"worldly sorrows grant\\\" · \\\"sorrows grant l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.3\\nverse · 8¶ · 132w · vocab 70 (TTR 86%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"till morning light\\\" · \\\"sigh wait age\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 27
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.27\\nverse · 12¶ · 240w · vocab 89 (TTR 74%, hapax 83%)\\n\\n## Distinctive trigrams\\n\\\"pain once made\\\" · \\\"once made turn\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 97
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.97\\nverse · 3¶ · 69w · vocab 34 (TTR 97%, hapax 97%)\\n\\n## Distinctive trigrams\\n\\\"let passion accused\\\" · \\\"passion accused se"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 77
+      },
+      "result_summary": "Read ch.77 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 27
+      },
+      "result_summary": "Read ch.27 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 77,
+        "paragraph_ids": [
+          "p-236777",
+          "p-29c6a9",
+          "p-f51471",
+          "p-4b6e91"
+        ]
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 77,
+        "paragraph_range": {
+          "start": 0,
+          "end": 3
+        }
+      },
+      "result_summary": "Returned 4 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 77,
+      "paragraph_id": "p-236777"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 77,
+      "paragraph_id": "p-29c6a9"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 77,
+      "paragraph_id": "p-4b6e91"
+    }
+  ],
+  "duration_ms": 49903,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 37091,
+    "completion_tokens": 5847,
+    "total_tokens": 42938,
+    "cached_tokens": 25375,
+    "api_calls": 6,
+    "cost_usd": 0.00653545,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1937,
+        "completion_tokens": 263,
+        "total_tokens": 2200,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004964
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2911,
+        "completion_tokens": 579,
+        "total_tokens": 3490,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008492
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5341,
+        "completion_tokens": 1318,
+        "total_tokens": 6659,
+        "cached_tokens": 2906,
+        "cost_usd": 0.0012913
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 7410,
+        "completion_tokens": 758,
+        "total_tokens": 8168,
+        "cached_tokens": 5336,
+        "cost_usd": 0.0010606
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 9433,
+        "completion_tokens": 1412,
+        "total_tokens": 10845,
+        "cached_tokens": 7405,
+        "cost_usd": 0.00148185
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 10059,
+        "completion_tokens": 1517,
+        "total_tokens": 11576,
+        "cached_tokens": 9428,
+        "cost_usd": 0.0013561
+      }
+    ]
+  }
+}

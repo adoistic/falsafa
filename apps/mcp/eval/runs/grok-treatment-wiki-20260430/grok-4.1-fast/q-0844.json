@@ -1,0 +1,241 @@
+{
+  "answer": "**In Chapter 9 of *Traité de Législation*, Volume IV, Charles Comte examines the influence of domestic slavery specifically on the morals (*moeurs*) of masters and slaves in the United States—a modern republican society—which he contrasts with the philosophical ideals in its constitutions proclaiming universal liberty and equality.[^1]** \n\nComte emphasizes a profound gap between the \"description of theories\" (e.g., declarations that \"all men are born free and equal\") and the \"real state of society,\" where slavery divides the population into three castes: free Europeans, freedmen/mixed-race individuals, and slaves.[^2] This institution corrupts masters' morals by fostering **idleness and luxury** (masters avoid physical/industrial labor, indulging in eating, drinking, sleeping, gambling, and hunting; women are especially indolent, unable even to pick up objects without slaves);[^3] **sexual licentiousness** (liaisons with female slaves produce mixed offspring, often encouraged by mistresses for profit; prostitution is less stigmatized);[^4] **cruelty and violence** (harsh punishments like whippings are routine; masters duel viciously, treating weaker whites \"as a slave\"; children imitate tyrannical behaviors);[^5] and **exalted pride** (whites despise slaves and any mixed-race people regardless of virtue, wealth, or merit, relegating them socially even in free states).[^6]\n\nSlaves' morals are degraded into **brutishness, submission, and moral numbness** (prohibited from education, trade, assembly, or self-defense; housed in miserable huts, fed minimally, subjected to terror and surveillance; habituated to suffering masters' vices).[^7] Even non-slaveowning whites suffer indirectly, becoming less industrious.[^8]\n\nComte deems these effects universal to slavery but moderated in the US (vs. English colonies) by easier crops (rice/wheat vs. sugar), masters residing on plantations (better treatment for house slaves), and pressure from northern free states—yet the core moral corruption persists, lowering \"sentiments of rectitude and humanity\" nationwide.[^9]\n\n[^1]: Charles Comte, *Traité de Législation: VOL IV*, ch. 9 [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/09-de-l-influence-de-l-esclavage-domestique-sur-les-m/translation/#p-82f6a7).\n\n[^2]: Charles Comte, *Traité de Législation: VOL IV*, ch. 9 [paragraphs](/works/charles-comte-traite-de-legislation-vol-iv-bca040/09-de-l-influence-de-l-esclavage-domestique-sur-les-m/translation/#p-82f6a7,p-373e28,p-83583c).\n\n[^3]: Charles Comte, *Traité de Législation: VOL IV*, ch. 9 [paragraphs](/works/charles-comte-traite-de-legislation-vol-iv-bca040/09-de-l-influence-de-l-esclavage-domestique-sur-les-m/translation/#p-b771a0,p-e98fab).\n\n[^4]: Charles Comte, *Traité de Législation: VOL IV*, ch. 9 [paragraphs](/works/charles-comte-traite-de-legislation-vol-iv-bca040/09-de-l-influence-de-l-esclavage-domestique-sur-les-m/translation/#p-1af283,p-ba3fd0,p-acaaed).\n\n[^5]: Charles Comte, *Traité de Législation: VOL IV*, ch. 9 [paragraphs](/works/charles-comte-traite-de-legislation-vol-iv-bca040/09-de-l-influence-de-l-esclavage-domestique-sur-les-m/translation/#p-32c316,p-0ab49c,p-639c93,p-5cfadf).\n\n[^6]: Charles Comte, *Traité de Législation: VOL IV*, ch. 9 [paragraphs](/works/charles-comte-traite-de-legislation-vol-iv-bca040/09-de-l-influence-de-l-esclavage-domestique-sur-les-m/translation/#p-f4cff0,p-1f937f,p-8e1846,p-354a67).\n\n[^7]: Charles Comte, *Traité de Législation: VOL IV*, ch. 9 [paragraphs](/works/charles-comte-traite-de-legislation-vol-iv-bca040/09-de-l-influence-de-l-esclavage-domestique-sur-les-m/translation/#p-76b7a6,p-852383,p-1e61cd).\n\n[^8]: Charles Comte, *Traité de Législation: VOL IV*, ch. 9 [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/09-de-l-influence-de-l-esclavage-domestique-sur-les-m/translation/#p-e3154c).\n\n[^9]: Charles Comte, *Traité de Législation: VOL IV*, ch. 9 [paragraphs](/works/charles-comte-traite-de-legislation-vol-iv-bca040/09-de-l-influence-de-l-esclavage-domestique-sur-les-m/translation/#p-06b351,p-70eb50,p-3b44f7,p-3da983).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"De l'influence de l'esclavage domestique sur les moeurs des modernes\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "esclavage domestique moeurs modernes"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "Listed 23 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL IV\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 188,438 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*voya"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.9\\nprose · 33¶ · 5499w · vocab 1302 (TTR 50%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"united states america\\\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of charles-comte-traite-de-legislation-vol-iv-bca040 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-82f6a7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-373e28"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-83583c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-b771a0"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-e98fab"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-1af283"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-ba3fd0"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-acaaed"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-32c316"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-0ab49c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-639c93"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-5cfadf"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-f4cff0"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-1f937f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-8e1846"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-354a67"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-76b7a6"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-852383"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-1e61cd"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-e3154c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-06b351"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-70eb50"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-3b44f7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+      "chapter_number": 9,
+      "paragraph_id": "p-3da983"
+    }
+  ],
+  "duration_ms": 32978,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 24053,
+    "completion_tokens": 3338,
+    "total_tokens": 27391,
+    "cached_tokens": 10966,
+    "api_calls": 4,
+    "cost_usd": 0.0048347,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1921,
+        "completion_tokens": 391,
+        "total_tokens": 2312,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005572
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2829,
+        "completion_tokens": 386,
+        "total_tokens": 3215,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00047665
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6116,
+        "completion_tokens": 347,
+        "total_tokens": 6463,
+        "cached_tokens": 2824,
+        "cost_usd": 0.0009731
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 13187,
+        "completion_tokens": 2214,
+        "total_tokens": 15401,
+        "cached_tokens": 6111,
+        "cost_usd": 0.00282775
+      }
+    ]
+  }
+}

@@ -1,0 +1,266 @@
+{
+  "answer": "**Andrew (*Andreas*) both inflicts and endures violence, staging a heroic rescue amid cannibalistic persecution.** He supernaturally slays seven prison guards (\"Sudden death took them all, / they fell, fame-less\") to free Matthew and other captives,[^1] and later unleashes a divinely commanded flood that drowns many heathens while swallowing fourteen of the \"worst\" into the earth.[^2] Yet he withholds retaliation during his own torments: dragged through streets, repeatedly scourged over three days until \"sweat welled in waves / through his bone-cage,\" beaten until evening, and confined in winter cold, his body \"sorely broken\" and \"blood-stained,\" all without counter-violence.[^3] Miraculous healing reinforces his non-retaliatory endurance.[^4]\n\n**Elene (*Elene*), as imperial questor, primarily gives threats and coercion but faces no direct violence.** She terrorizes Jewish elders with pyre-threats (\"on a hill a pyre shall consume you\") until they yield Judas,[^5] and imprisons him in a dry well, \"hunger-haunted, / clasped by fetters\" for seven days to extract the True Cross's location.[^6] Judas endures this \"torment too hard,\" pleading release. Elene withholds no personal suffering—her faith-motivated search succeeds through power, not martyrdom.\n\n**Juliana (*Juliana*) purely withholds, embodying passive martyrdom.** Betrothed to pagan Eleusius, she endures scourging (\"stripped naked and scourged / with whips\"), suspension by hair for six hours under blows, dungeon isolation, boiling lead (emerging unscathed amid 75 deaths), and beheading, all without retaliation.[^7] She spiritually binds and interrogates a demon but inflicts no physical violence on humans, converting onlookers through steadfastness.[^8]\n\nIn sum, Andrew balances divine offense with endurance; Elene weaponizes authority offensively; Juliana models total non-violence.[^9]\n\n[^1]: *Andreas*, ch. 1, [p-74e29a](/works/cynewulf-andreas-07b573/01/translation/#p-74e29a).\n\n[^2]: *Andreas*, ch. 1, [p-e5ccfa](/works/cynewulf-andreas-07b573/01/translation/#p-e5ccfa); [p-839aab](/works/cynewulf-andreas-07b573/01/translation/#p-839aab).\n\n[^3]: *Andreas*, ch. 1, [p-34b202](/works/cynewulf-andreas-07b573/01/translation/#p-34b202); [p-5d78fc](/works/cynewulf-andreas-07b573/01/translation/#p-5d78fc); [p-17921e](/works/cynewulf-andreas-07b573/01/translation/#p-17921e).\n\n[^4]: *Andreas*, ch. 1, [p-997c80](/works/cynewulf-andreas-07b573/01/translation/#p-997c80).\n\n[^5]: *Elene*, ch. 1, [p-f5d1f1](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n\n[^6]: *Elene*, ch. 1, [p-f5d1f1](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n\n[^7]: *Juliana*, ch. 1, [p-7cffd3](/works/cynewulf-juliana-9a2157/01/translation/#p-7cffd3); [p-89a6c9](/works/cynewulf-juliana-9a2157/01/translation/#p-89a6c9); [p-3a01e6](/works/cynewulf-juliana-9a2157/01/translation/#p-3a01e6); [p-7fd33e](/works/cynewulf-juliana-9a2157/01/translation/#p-7fd33e).\n\n[^8]: *Juliana*, ch. 1, [p-bd327c](/works/cynewulf-juliana-9a2157/01/translation/#p-bd327c); [p-5df281](/works/cynewulf-juliana-9a2157/01/translation/#p-5df281).\n\n[^9]: Full chapters: *Andreas* [ch. 1](/works/cynewulf-andreas-07b573/01/translation/); *Elene* [ch. 1](/works/cynewulf-elene-d2d132/01/translation/); *Juliana* [ch. 1](/works/cynewulf-juliana-9a2157/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cynewulf\" signed poems"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "violence OR torture OR strike OR beat OR kill OR suffer OR torment",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Andrew\" OR \"Andreas\" OR \"Elene\" OR \"Helena\" OR \"Juliana\" OR \"saint\" violence OR torture OR torment OR beaten OR strike OR scourge OR whip",
+        "limit": 50
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-74e29a"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-e5ccfa"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-839aab"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-34b202"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-5d78fc"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-17921e"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-997c80"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-7cffd3"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-89a6c9"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-3a01e6"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-7fd33e"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-bd327c"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-5df281"
+    }
+  ],
+  "duration_ms": 59695,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 143620,
+    "completion_tokens": 4580,
+    "total_tokens": 148200,
+    "cached_tokens": 9664,
+    "api_calls": 5,
+    "cost_usd": 0.0295644,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1927,
+        "completion_tokens": 412,
+        "total_tokens": 2339,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005689
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2669,
+        "completion_tokens": 393,
+        "total_tokens": 3062,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007078
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6555,
+        "completion_tokens": 657,
+        "total_tokens": 7212,
+        "cached_tokens": 2664,
+        "cost_usd": 0.0012399
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki_full",
+          "read_wiki_full",
+          "read_wiki_full",
+          "search_corpus"
+        ],
+        "prompt_tokens": 46436,
+        "completion_tokens": 1275,
+        "total_tokens": 47711,
+        "cached_tokens": 6550,
+        "cost_usd": 0.0089422
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 86033,
+        "completion_tokens": 1843,
+        "total_tokens": 87876,
+        "cached_tokens": 150,
+        "cost_usd": 0.0181056
+      }
+    ]
+  }
+}

@@ -1,0 +1,334 @@
+{
+  "answer": "**Manusmṛti** (particularly Chapter 12) offers the most explicit and systematic doctrine of selfhood in the corpus.[^1] It distinguishes key concepts such as *kṣetrajña* (knower of the field), *bhūtātman* (embodied soul), and *jīvasaṃjña* (living soul), while emphasizing the *Ātman* (Self) as the pervasive, eternal reality in which all things—existent and non-existent—must be seen for liberation: \"With a concentrated mind, one should see all things... in the Self (*Ātman*); for one who sees all things in the Self does not set his mind on unrighteousness.\"[^2] The text frames self-knowledge (*ātmajñāna*) as the highest good, superior even to Vedic action, leading to sovereignty over the Self (*svārājya*) and unity with *Brahma*.[^3]\n\n**San Hyan Kamahayanikan** (Chapter 1) briefly references the *Ātman* in a tantric-Mahāyāna context, equating the supreme reality (achieved via *adwayajñāna*, non-dual wisdom) with the \"Divine Ātman according to the followers of Kaṇabhakṣya,\" alongside other views like *Puruṣa* (of Sāṅkhya).[^4] This ties selfhood to non-dual realization beyond fabrications.\n\nUrdu poetry collections like **Diwan-E-Ghalib**, **Diwan-E-Zauq**, and Allama Iqbal's **Bang-E-Dara** (Parts 1–3) frequently evoke *khudi* (selfhood) or *be-khudi* (self-loss/ecstasy), but poetically rather than doctrinally—often in Sufi themes of ego-dissolution (*be-khudi*) amid love or divine unity.[^5] Iqbal's works are described as exploring \"self-realization,\" aligning with his philosophy of *khudi* as dynamic self-affirmation, though no English passages develop it systematically here.[^6]\n\n**Cynewulf's Andreas** discusses the \"soul\" extensively in a Christian heroic context (e.g., \"Savior of souls,\" soul's journey), but as a created, redeemable entity under God, not an independent *Ātman*-like doctrine.[^7]\n\nNo works directly expound \"the I\" philosophically. Other minor mentions (e.g., *nafs* in poetry as \"self\"/soul, souls in Andreas) are incidental. The corpus (37 works, mostly Indic smṛtis, Old English poetry, and French political theory) lacks Western (e.g., Fichtean \"I\") or full Iqbalian (*Asrar-e-Khudi*) treatments of selfhood.\n\n[^1]: *Manusmṛti*, [Chapter 12](/works/unknown-manusmrti-347b76/12/translation/).\n\n[^2]: *Manusmṛti*, [Chapter 12](/works/unknown-manusmrti-347b76/12/translation/#p-e464cc).\n\n[^3]: *Manusmṛti*, [Chapter 12](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n\n[^4]: *San Hyan Kamahayanikan*, [Chapter 1](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-29acfd).\n\n[^5]: E.g., *Diwan-E-Ghalib*, various chapters (transliterations like \"be-khudi\"); *Bang-E-Dara Part 2*, [Chapter 9](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/09/translation/) (self-realization themes).\n\n[^6]: *Bang-E-Dara Part 2*, work description (metadata).\n\n[^7]: *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "atman",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "selfhood",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the self\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "soul self",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"I am\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "self",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "soul",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ātman",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nafs",
+        "limit": 20
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"secrets of the self\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal khudi"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "philosophy"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Kamahayanikan\\nMpu Shri Sambhara Surya Warama · Medieval · kawi · prose · 1 chapters · 14,398 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"body s"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "{\"markdown\":\"# Slokantara\\nUnknown · Medieval · kawi · prose · 1 chapters · 17,343 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"say sacred teachings\\\" · \\\"kṛta tretā dvā"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"markdown\":\"# Vīramitrodaya\\nMitra Miśra · Medieval · sanskrit · prose · 1 chapters · 142,010 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"new moon day\\\" · \\\"conjoined"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "religion"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the Self\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (translation)"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khudi",
+        "limit": 5
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"asrar khudi\" OR \"secrets self\" OR \"rumuz bekhudi\""
+      },
+      "result_summary": "Found 5 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-e464cc"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-074f6e"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-29acfd"
+    }
+  ],
+  "duration_ms": 68819,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 104165,
+    "completion_tokens": 6247,
+    "total_tokens": 110412,
+    "cached_tokens": 36623,
+    "api_calls": 5,
+    "cost_usd": 0.01846305,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1908,
+        "completion_tokens": 560,
+        "total_tokens": 2468,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0003787
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5648,
+        "completion_tokens": 1421,
+        "total_tokens": 7069,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018176
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 13052,
+        "completion_tokens": 1442,
+        "total_tokens": 14494,
+        "cached_tokens": 5643,
+        "cost_usd": 0.00248495
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15902,
+        "completion_tokens": 1246,
+        "total_tokens": 17148,
+        "cached_tokens": 13047,
+        "cost_usd": 0.00184635
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_chapter",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 67655,
+        "completion_tokens": 1578,
+        "total_tokens": 69233,
+        "cached_tokens": 15897,
+        "cost_usd": 0.01193545
+      }
+    ]
+  }
+}

@@ -1,0 +1,281 @@
+{
+  "answer": "In Charles Comte's *Traité de la propriété* (VOL I, Chapter 7, \"Du territoire propre à chaque nation\"), the territorial frame operates implicitly as a natural baseline for human society and property rights. Comte observes universally—across \"savage\" hordes, barbarous tribes, and civilized nations—that humans organize from families into bounded groups whose existence depends on exclusive control of delimited land for subsistence (hunting, fishing, pasturage).[^1] He treats this as an unexamined empirical fact: no historical record shows unoccupied habitable land; all globe-spanning peoples claim territories as \"property\" from \"the most remote times,\" defended to the death as essential to survival, with natural limits set by subsistence basins, geography, and defensive necessities.[^2] This national territory is the \"highest property\" enclosing all lesser (provincial, communal, familial, individual) ones; without it as prior/natural, the rest collapse.[^3] Governments merely ratify what nature dictates; territorial nationalism is not imported but originary.\n\nIqbal most sharply contradicts this in *Wataniyat*, stanza 4: territorial confinement (\"one place\") is not natural necessity but \"calamity,\" fit only for state discourse where \"Nation is but land\"; the Prophet's true \"Homeland\" transcends it as divine command (universal Islamic witness/migration).[^4] To Comte's bounded subsistence-hordes, Iqbal opposes borderless oceanic freedom in faith.[^5]\n\n[^1]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-523da2).\n[^2]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-b9fe30).\n[^3]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-2cfb18).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-a723b2).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/25-wataniyat/translation/#p-79b1e9).\n\n*(Note: No chapters in *Traité de Législation* (Vols. I–IV) develop the territorial frame as systematically as *Propriété* Vol. I ch. 7; passing mentions there, e.g., Vol. I ch. 18 or Vol. IV ch. 1, echo the same naturalized assumption without deeper analysis.)*",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Wataniyat"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Traité de Législation\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "territorial nation OR homeland OR patrie Comte"
+      },
+      "result_summary": "Found 28 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL II\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 91,008 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"van di"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL III\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 97,522 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"peopl"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL IV\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 188,438 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*voya"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.7\\nprose · 39¶ · 4556w · vocab 941 (TTR 46%, hapax 60%)\\n\\n## Distinctive trigrams\\n\\\"according whether one\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 10
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.10\\nprose · 42¶ · 4840w · vocab 922 (TTR 41%, hapax 57%)\\n\\n## Distinctive trigrams\\n\\\"certain extent land\\\" "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL IV · ch.1\\nprose · 17¶ · 3406w · vocab 799 (TTR 52%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"exercise upon one\\\" · \\\""
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-523da2",
+          "p-b9fe30",
+          "p-2cfb18"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-9af6f6"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 25,
+        "paragraph_ids": [
+          "p-a723b2",
+          "p-79b1e9"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 18
+      },
+      "result_summary": "Read ch.18 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 18
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.18\\nprose · 38¶ · 3840w · vocab 760 (TTR 43%, hapax 61%)\\n\\n## Distinctive trigrams\\n\\\"pleasures exceed pains\\\""
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 18,
+      "paragraph_id": "p-523da2"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 18,
+      "paragraph_id": "p-b9fe30"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 18,
+      "paragraph_id": "p-2cfb18"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 18,
+      "paragraph_id": "p-a723b2"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 18,
+      "paragraph_id": "p-79b1e9"
+    }
+  ],
+  "duration_ms": 64314,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 72996,
+    "completion_tokens": 7557,
+    "total_tokens": 80553,
+    "cached_tokens": 44251,
+    "api_calls": 5,
+    "cost_usd": 0.01174005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1940,
+        "completion_tokens": 903,
+        "total_tokens": 2843,
+        "cached_tokens": 150,
+        "cost_usd": 0.000817
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8047,
+        "completion_tokens": 1344,
+        "total_tokens": 9391,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00199925
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 12703,
+        "completion_tokens": 1515,
+        "total_tokens": 14218,
+        "cached_tokens": 8042,
+        "cost_usd": 0.0020918
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 21485,
+        "completion_tokens": 1588,
+        "total_tokens": 23073,
+        "cached_tokens": 12698,
+        "cost_usd": 0.0031863
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 28821,
+        "completion_tokens": 2207,
+        "total_tokens": 31028,
+        "cached_tokens": 21480,
+        "cost_usd": 0.0036457
+      }
+    ]
+  }
+}

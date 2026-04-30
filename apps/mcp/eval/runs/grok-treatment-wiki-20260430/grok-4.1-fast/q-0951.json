@@ -1,0 +1,245 @@
+{
+  "answer": "**In *Andreas*, the cosmic frame is monotheistic and hierarchical: a singular, eternal Christian God as \"Wielder and Worker of wondrous glory,\" creator and sovereign of heaven, earth, and chaotic forces (e.g., pagan cannibals, stormy seas), who imposes heroic order through apostles like Andrew. No literal \"world as a stage,\" but the poem opens and closes with God's dominion over earthly strife (\"middle-earth\") and \"turning stars,\" framing history as divine mission overriding pagan \"heathens\" and natural disorder.[^1][^2]**\n\nThe most direct statement is Andreas's rebuke to the disguised Christ (sea-captain), affirming God's creative rule as antidote to worldly arrogance:\n\n> He is the rightful King, Wielder and Worker  \n> of wondrous glory, the one eternal God  \n> of all creation. He encompasses all  \n> by His craft alone, heaven and earth,  \n> with holy might, best of all victories.[^3]\n\nThis would translate into Manu's idiom as *svayambhū* (self-existent) Brahman's unitary cosmogony, prior to cycles—*ṛta*-like order from primordial unity, though linear/eschatological rather than strictly cyclical.[^4]\n\nThe poem's close reinforces: the Mermedonians' choral praise of \"the eternal God of all creation\" after conversion, God's \"might and... majesty over middle-earth,\" eternal with angels—cosmic kingship post-pagan chaos.[^5]\n\n**In *Manusmṛti* Book 1, the frame is explicitly cyclical: the Self-existent One's (*svayambhū*) egg-born creation unfolds *dharma* through *manvantaras* (eras of Manu) and declining *yugas* (ages), with recurrent dissolution (*pralaya*) and re-creation. Dharma starts \"four-footed\" in *Kṛta Yuga*, eroding amid opposites like pleasure/pain.[^6]**\n\nMost direct on cyclical unfolding:\n\n> The Manvantaras, the creations and the dissolutions, are numberless; the Supreme Being performs this again and again, as if in sport. // Mn_1.80 //[^7]\n\nPreceded by the math: a *manvantara* = 71 divine *yuga*-cycles (~306M human years).[^8] This survives *Andreas*'s idiom as God's playful, eternal re-creation (\"again and again\"), like Christ's miracles/storm-calming as micro-orderings, though Manu's lacks teleological salvation—pure cosmic rhythm.\n\nBoth could cross-pollinate: *Andreas*'s \"one eternal God of all creation\" echoes Manu's pre-cyclic unity (*puruṣa* splitting egg into worlds); Manu's recurrent *manvantaras* as \"sport\" parallels God's heroic interventions amid chaos.[^9]\n\n[^1]: *Andreas*, ch. 1 [opening, p-868413](/works/cynewulf-andreas-07b573/01/translation/#p-868413).\n[^2]: *Andreas*, ch. 1 [closing, p-be1571](/works/cynewulf-andreas-07b573/01/translation/#p-be1571).\n[^3]: *Andreas*, ch. 1 [p-355089](/works/cynewulf-andreas-07b573/01/translation/#p-355089).\n[^4]: *Manusmṛti*, ch. 1 [p-93cef0](/works/unknown-manusmrti-347b76/01/translation/#p-93cef0).\n[^5]: *Andreas*, ch. 1 [p-be1571](/works/cynewulf-andreas-07b573/01/translation/#p-be1571).\n[^6]: *Manusmṛti*, ch. 1 [full chapter on cosmogony/yugas/manvantaras](/works/unknown-manusmrti-347b76/01/translation/).\n[^7]: *Manusmṛti*, ch. 1 [p-74d247](/works/unknown-manusmrti-347b76/01/translation/#p-74d247).\n[^8]: *Manusmṛti*, ch. 1 [p-0cd1bd](/works/unknown-manusmrti-347b76/01/translation/#p-0cd1bd).\n[^9]: Cf. *Andreas* ch. 1 [p-f66b6a, Christ's storm-calming as eternal order](/works/cynewulf-andreas-07b573/01/translation/#p-f66b6a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas world stage Christ order pagan"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu dharma cyclical unfolding"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"world as a stage\" OR stage OR theater OR theatre OR play",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cynewulf andreas stage OR world OR cosmic OR heaven OR hell OR order OR disorder OR chaos"
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu OR manusmṛti creation cycle OR cyclical OR manvantara OR kalpa OR yuga dharma"
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-0cd1bd"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-868413"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-be1571"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-355089"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-93cef0"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-74d247"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-0cd1bd"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-f66b6a"
+    }
+  ],
+  "duration_ms": 43222,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 76179,
+    "completion_tokens": 4629,
+    "total_tokens": 80808,
+    "cached_tokens": 31070,
+    "api_calls": 4,
+    "cost_usd": 0.0128898,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1938,
+        "completion_tokens": 606,
+        "total_tokens": 2544,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00040845
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10104,
+        "completion_tokens": 901,
+        "total_tokens": 11005,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00218915
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17214,
+        "completion_tokens": 1350,
+        "total_tokens": 18564,
+        "cached_tokens": 10099,
+        "cost_usd": 0.00260295
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki_full",
+          "read_wiki_full",
+          "get_passage"
+        ],
+        "prompt_tokens": 46923,
+        "completion_tokens": 1772,
+        "total_tokens": 48695,
+        "cached_tokens": 17209,
+        "cost_usd": 0.00768925
+      }
+    ]
+  }
+}

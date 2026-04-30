@@ -1,0 +1,239 @@
+{
+  "answer": "**The Falsafa corpus does not contain a direct philosophical or explicit explanation of the Urdu term *zauq* (ذوق) as embodying both pleasure (لذت, *lazzat*) and aesthetic judgment (ذوقِ نفسانی or discernment in arts/poetry), nor any analysis of its layered meanings in classical Urdu literary theory.**[^1]\n\nUrdu poetry in the corpus—particularly *Diwan-e-Zauq* by Sheikh Ibrahim Zauq (whose *takhallus* or pen-name is *Zauq*, literally \"taste/refinement\"), Allama Iqbal's *Bang-e-Dara* (Parts 1–3), and Mirza Ghalib's *Diwan-e-Ghalib*—employs *zauq* (often in transliteration as *zauq-e-deed*, *zauq-e-istifsaar*, etc.) to evoke a refined relish or appetite for sensory, intellectual, or spiritual experiences. This usage implicitly fuses hedonic pleasure with discerning judgment, as in:\n\n- A \"taste for seeing\" (*zauq-e-deed*), blending visual delight with selective perception.[^2]\n- A \"pure inquiring thought\" rendered from *saraapa zauq-e-istifsaar* (wholly a taste for inquiry), where childhood curiosity mixes joyful exploration with critical discernment.[^3]\n- A \"taste for my disgrace\" (*zauq-e-khwaari*), savoring love's bittersweet pain with refined emotional insight.[^4]\n\nZauq's own ghazals frequently invoke his *takhallus* in maqta (closing couplets), associating self-reference with poetic finesse, e.g., \"O Zauq...\" as a nod to refined expression amid love's strife.[^5][^6] However, no text unpacks *zauq*'s duality conceptually; it appears as lived poetic idiom rather than analyzed term. For deeper theory (e.g., in Urdu *tazkira* criticism or aesthetics by Nabi Hadi or Shamsur Rahman Faruqi), consult sources beyond this corpus.\n\n[^1]: Searches for \"zauq\", \"taste refinement\", \"takhallus\", and variants across Urdu works (Iqbal, Ghalib, Zauq) yield poetic usages but no definitional discourse. [search result](/tools/search_corpus?query=zauq).\n\n[^2]: Allama Iqbal, *Bang-e-Dara Part 1*, ch. 5: \"While youth remains, there's joy in sight [*zauq-e-deed* bhi] and pleasure in desire...\" [/works/allama-iqbal-bang-e-dara-part-1-55b25c/05-kahoon-kya-aarzoo-e-be-dili-mujh-ko-kahan-tak-hai/translation/#p-35afc3].\n\n[^3]: Allama Iqbal, *Bang-e-Dara Part 1*, ch. 19: \"It was no heart I had, but pure, inquiring thought\" (*saraapa zauq-e-istifsaar tha*). [/works/allama-iqbal-bang-e-dara-part-1-55b25c/19-ehd-e-tifli/translation/#p-9eb06f].\n\n[^4]: Mirza Ghalib, *Diwan-e-Ghalib*, ch. 27: \"A taste for my disgrace [*zauq-e-khwaari*] held all the sway...\" [/works/mirza-ghalib-diwan-e-ghalib-74ed4c/27-dard-se-mere-hai-tujh-ko-be-qarari-haaye-haaye/translation/#p-ff0f26].\n\n[^5]: Sheikh Ibrahim Zauq, *Diwan-e-Zauq*, ch. 1 (closing): \"O Zauq, 'tis true that 'war is but deceitful play...'\". [/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/01-aankh-us-pur-jafa-se-ladti-hai/translation/#p-c251f5].\n\n[^6]: Sheikh Ibrahim Zauq, *Diwan-e-Zauq*, ch. 5 (opening): \"O Zauq [*Ae Zauq*], when you cry out...\" [/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/05-ae-zauq-waqt-naale-ke-rakh-le-jigar-pe-haath/translation/#p-0259f4].",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "zauq",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"taste\" refinement",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "takhallus"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "zauq taste"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Zauq · ch.1\\nverse · 12¶ · 216w · vocab 108 (TTR 84%, hapax 92%)\\n\\n## Distinctive trigrams\\n\\\"eye cruel faithless\\\" · \\\"cruel faithless"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"zauq\" OR \"zouq\" OR \"zowq\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "Listed 60 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "taste",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "zauq",
+        "limit": 5
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 19,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 27,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.27 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 27,
+      "paragraph_id": "p-35afc3"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 27,
+      "paragraph_id": "p-9eb06f"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 27,
+      "paragraph_id": "p-ff0f26"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 27,
+      "paragraph_id": "p-c251f5"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 27,
+      "paragraph_id": "p-0259f4"
+    }
+  ],
+  "duration_ms": 51927,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 40957,
+    "completion_tokens": 6021,
+    "total_tokens": 46978,
+    "cached_tokens": 9806,
+    "api_calls": 4,
+    "cost_usd": 0.009731,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1915,
+        "completion_tokens": 539,
+        "total_tokens": 2454,
+        "cached_tokens": 1885,
+        "cost_usd": 0.00036975
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5892,
+        "completion_tokens": 1532,
+        "total_tokens": 7424,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0016618
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "list_chapters",
+          "read_wiki"
+        ],
+        "prompt_tokens": 12939,
+        "completion_tokens": 2153,
+        "total_tokens": 15092,
+        "cached_tokens": 5887,
+        "cost_usd": 0.00278125
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 20211,
+        "completion_tokens": 1797,
+        "total_tokens": 22008,
+        "cached_tokens": 150,
+        "cost_usd": 0.0049182
+      }
+    ]
+  }
+}

@@ -1,0 +1,280 @@
+{
+  "answer": "In the *Manusmṛti* (Chapter 10), a key text on the duties (*dharma*) proper to each *varṇa* (social class determined by birth), *svadharma*—one's own, innate, birth-assigned duty—is the operative concept structuring the entire discussion of lawful occupations and fallback livelihoods in times of distress.[^1] A paradigmatic passage is Mn 10.97:\n\n> Better one's own Dharma, even if imperfect, than another's well-performed. For one who lives by the Dharma of another falls immediately from his caste.[^2]\n\nThe chapter opens by framing this hierarchically: \"The three *varnas* of the twice-born, abiding in their own duties [*sva-dharma*], may study...\" (Mn 10.1),[^3] then details how a Brahmin facing hardship may descend to a Kshatriya's *dharma* (arms-bearing) or a Vaiśya's (trade), but never a Śūdra's (service), lest he lose caste status.[^4]\n\nAn English-only reader must continually \"stitch back together\" what Sanskrit fuses in *svadharma*:  \n- **Birth**: *Sva-* (\"one's own\") encodes natal *varṇa* (Brahmin from priestly lineage, etc.), not chosen or fluid.[^5]  \n- **Station**: This fixes one's rank in the cosmic order (*varṇāśrama-dharma*), e.g., Brahmin as \"lord of the *varnas*\" via origin and rites (Mn 10.3).[^6]  \n- **Obligation**: *Dharma* specifies acts (*karma*) tied to that station—study/teaching/giving for Brahmins (Mn 10.75), protection for Kshatriyas (Mn 10.79)—performed \"according to his ability\" yet never another's, on pain of \"fall[ing]...from his caste\" (Mn 10.97).  \n\nWithout *svadharma*'s compression, the reader toggles between \"own/prescribed\" (birth), \"duties/occupation\" (station/obligations), and \"Dharma\" (lawful acts), re-deriving the link each time: one's unchosen birth (*sva*) dictates inescapable obligations (*dharma*). This unpacking risks diluting the verse's axiomatic force—*svadharma* is non-negotiable identity, not mere \"job.\"\n\n[^1]: *Manusmṛti*, Chapter 10, [chapter](/works/unknown-manusmrti-347b76/10/translation/).  \n[^2]: *Manusmṛti*, Chapter 10, [paragraph](/works/unknown-manusmrti-347b76/10/translation/#p-53206d).  \n[^3]: *Manusmṛti*, Chapter 10, [paragraph](/works/unknown-manusmrti-347b76/10/translation/#p-4999b4).  \n[^4]: *Manusmṛti*, Chapter 10, [paragraph](/works/unknown-manusmrti-347b76/10/translation/#p-b34355).  \n[^5]: *Manusmṛti*, Chapter 10, paragraphs 95–100 (varna hierarchy/descent rules), [passage](/works/unknown-manusmrti-347b76/10/translation/#p-7cad60#p-254984).  \n[^6]: *Manusmṛti*, Chapter 10, [paragraph](/works/unknown-manusmrti-347b76/10/translation/#p-258a37).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "svadharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"one's own duty\" manu",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"own duty\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"one's own dharma\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "svadharma OR \"sva dharma\" OR \"one's dharma\""
+      },
+      "result_summary": "Found 22 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"his own dharma\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"own dharma\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.10\\nverse · 132¶ · 3840w · vocab 764 (TTR 42%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"next lower caste\\\" · \\\"women next lower\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.4\\nverse · 226¶ · 12792w · vocab 2184 (TTR 34%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"five great sac"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10
+      },
+      "result_summary": "Read ch.10 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-53206d",
+          "p-b34355",
+          "p-4999b4"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10,
+        "paragraph_range": {
+          "start": 95,
+          "end": 100
+        }
+      },
+      "result_summary": "Returned 6 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-53206d"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-4999b4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-b34355"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-7cad60"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-254984"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 10,
+      "paragraph_id": "p-258a37"
+    }
+  ],
+  "duration_ms": 43536,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 119085,
+    "completion_tokens": 4758,
+    "total_tokens": 123843,
+    "cached_tokens": 73162,
+    "api_calls": 6,
+    "cost_usd": 0.0152217,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1940,
+        "completion_tokens": 326,
+        "total_tokens": 2266,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005285
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2173,
+        "completion_tokens": 397,
+        "total_tokens": 2570,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003508
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6274,
+        "completion_tokens": 977,
+        "total_tokens": 7251,
+        "cached_tokens": 2168,
+        "cost_usd": 0.0014181
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 17459,
+        "completion_tokens": 578,
+        "total_tokens": 18037,
+        "cached_tokens": 6269,
+        "cost_usd": 0.00284045
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 45244,
+        "completion_tokens": 830,
+        "total_tokens": 46074,
+        "cached_tokens": 17454,
+        "cost_usd": 0.0068457
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 45995,
+        "completion_tokens": 1650,
+        "total_tokens": 47645,
+        "cached_tokens": 45239,
+        "cost_usd": 0.00323815
+      }
+    ]
+  }
+}

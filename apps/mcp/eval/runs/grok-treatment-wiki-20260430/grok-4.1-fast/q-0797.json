@@ -1,0 +1,172 @@
+{
+  "answer": "**In Manusmṛti Chapter 1, a single \"age of the gods\" (deva-yuga, or full cycle of the four yugas: Kṛta, Tretā, Dvāpara, and Kali, including twilights) is precisely 12,000 divine years.**[^1]\n\nThis follows the prior definition that one human year equals one day and night of the gods (northern solar course as day, southern as night).[^2] The chapter details:  \n- Kṛta Yuga: 4,000 divine years + 400-year twilights before/after (total 4,800).  \n- Tretā, Dvāpara, Kali: successively 3,000; 2,000; 1,000 divine years, each with proportionally reduced twilights (3,600; 2,400; 1,200 totals).  \n- Sum: 12,000 divine years.[^1]\n\nA thousand such god-ages make one day of Brahmā (with equal night).[^3]\n\n[^1]: Manusmṛti, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-03b23e).\n[^2]: Manusmṛti, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-da731e).\n[^3]: Manusmṛti, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-5a3053).\n\n*(Note: To generate exact citation URLs as required, the corpus provides them via `get_passage`; the above use the standard format from chapter data. All from translation variant.)*",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yuga gods devas",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"yuga of the gods\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"years of the gods\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manusmriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yuga",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"year of the gods\" OR \"years of the gods\" OR \"deva year\" OR \"gods year\" OR devas yuga",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-03b23e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-da731e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 1,
+      "paragraph_id": "p-5a3053"
+    }
+  ],
+  "duration_ms": 43706,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 23550,
+    "completion_tokens": 3013,
+    "total_tokens": 26563,
+    "cached_tokens": 6160,
+    "api_calls": 4,
+    "cost_usd": 0.0052925,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1912,
+        "completion_tokens": 1156,
+        "total_tokens": 3068,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00067825
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2253,
+        "completion_tokens": 298,
+        "total_tokens": 2551,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00031745
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 3826,
+        "completion_tokens": 445,
+        "total_tokens": 4271,
+        "cached_tokens": 2248,
+        "cost_usd": 0.0006505
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15559,
+        "completion_tokens": 1114,
+        "total_tokens": 16673,
+        "cached_tokens": 150,
+        "cost_usd": 0.0036463
+      }
+    ]
+  }
+}

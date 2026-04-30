@@ -1,0 +1,373 @@
+{
+  "answer": "Several works in the Falsafa corpus engage with the question of legitimate political authority, primarily through critiques of theories like the social contract and the general will (as in Rousseau), discussions of government as emerging from society rather than distinct from it, or delineations of kingly/dharmic authority in ancient Indic law codes. The most direct treatments appear in Enlightenment and 19th-century French political theory, with passing references in property treatises and Indic smṛtis. Below are the key works:\n\n**Traité de Législation, Vol. I** by Charles Comte explicitly critiques systems positing authority on conventions or the \"general will,\" arguing that the only legitimate authority among men is that founded on conventions (though he deems the social contract illusory), and contrasting it with tyranny or arbitrary rule.[^1][^2] Chapter 6 dissects Rousseau's *Social Contract* as the supposed basis for civil/political laws and sovereign authority; Chapter 7 examines laws as expressions of the general will, deeming it always right but prone to error in application.[^3]\n\n**Nouveau traité d'économie sociale, Vol. I** by Charles Dunoyer portrays political authority as an extension of societal passions (e.g., ambition for offices), inevitably absorbing privileges from classes/corporations into a centralized \"gigantic administration,\" rendering it illegitimate when it multiplies beyond natural societal functions.[^4]\n\n**Traité de la propriété, Vol. II** by Charles Comte briefly addresses illegitimate authority in the context of state loans charged to a people without their profit or consent, enabling spoliation by governments.[^5]\n\n**Zurückforderung der Denkfreiheit von den Fürsten Europens** (Reclaiming Freedom of Thought from the Princes of Europe) by Johann Gottlieb Fichte challenges the princes' (rulers') authority to censor thought, asserting inalienable human rights to moral autonomy against state-imposed limits on expression.[^6]\n\nAncient Indic smṛtis like **Manusmṛti** outline legitimate kingly authority as protective, Vedic-grounded, and tied to dharma (e.g., employing the brave in positions of authority, suppressing vices for sovereignty among peers), with the king as lord in unresolved disputes.[^7] Similar discussions of royal/judicial authority appear in **Bṛhaspati Smṛti** (king as final authority in disputes; protection yields sovereignty) and **Aṅgirasa Smṛti** (authority in assemblies, dharmic decisions).[^8]\n\nNo classical social contract theorists (e.g., Locke, Hobbes, Rousseau) are in the corpus; coverage is limited to critiques and alternatives. Other works (e.g., poetry, elegies) do not address this.\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/07-du-systeme-dans-lequel-on-considere-les-lois-comme/translation/#p-4a334b).\n\n[^2]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 7](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/07-du-systeme-dans-lequel-on-considere-les-lois-comme/translation/).\n\n[^3]: Charles Comte, *Traité de Législation: VOL I*, [Chapter 6](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/06-du-systeme-dans-lequel-on-considere-les-lois-civil/translation/).\n\n[^4]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/10-liberte-compatible-avec-la-vie-des-peuples-chez-qu/translation/#p-177448).\n\n[^5]: Charles Comte, *Traité de la propriété: VOL II*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/37-de-la-propriete-des-rentes-sur-des-particuliers-ou/translation/#p-9df833).\n\n[^6]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [work wiki](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/wiki/_work.card.md).\n\n[^7]: Manu, *Manusmṛti*, [Chapter 7](/works/unknown-manusmrti-347b76/07/translation/), [Chapter 8](/works/unknown-manusmrti-347b76/08/translation/).\n\n[^8]: See e.g., *Bṛhaspati Smṛti* Chapter 1 [paragraphs on kingly authority](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-39318f); *Aṅgirasa Smṛti* Chapter 1-2 [paragraphs on dharmic authority](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-38a3ea).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "legitimate authority",
+        "limit": 30
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "political authority",
+        "limit": 30
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "political legitimacy",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "right to rule",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "legitimacy of government",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sovereign authority",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "political"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "philosophy"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "authority",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "government",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sovereignty",
+        "limit": 30
+      },
+      "result_summary": "Found 27 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "social contract",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "origin of government",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "basis of authority",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL II\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 91,008 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"van di"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL III\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 97,522 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"peopl"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL IV\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 188,438 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*voya"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "{\"markdown\":\"# Zurückforderung der Denkfreiheit von den Fürsten Europens\\nJohann Gottlieb Fichte · Enlightenment · german · prose · 2 chapters · 10,652 words\\n\\n## Work-level distinctive trigrams (top"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-4a334b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 37,
+        "paragraph_ids": [
+          "p-9df833"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 10,
+        "paragraph_ids": [
+          "p-177448"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.7\\nprose · 40¶ · 6827w · vocab 1126 (TTR 39%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"general always right\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.6\\nprose · 63¶ · 8350w · vocab 1372 (TTR 36%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"his person his\\\" · \\\"res"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 10,
+      "paragraph_id": "p-4a334b"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 10,
+      "paragraph_id": "p-177448"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 10,
+      "paragraph_id": "p-9df833"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 10,
+      "paragraph_id": "p-39318f"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 10,
+      "paragraph_id": "p-38a3ea"
+    }
+  ],
+  "duration_ms": 47515,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 87532,
+    "completion_tokens": 5554,
+    "total_tokens": 93086,
+    "cached_tokens": 56255,
+    "api_calls": 5,
+    "cost_usd": 0.01184515,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1897,
+        "completion_tokens": 901,
+        "total_tokens": 2798,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00054775
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2701,
+        "completion_tokens": 777,
+        "total_tokens": 3478,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00064655
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21413,
+        "completion_tokens": 1189,
+        "total_tokens": 22602,
+        "cached_tokens": 2696,
+        "cost_usd": 0.0044727
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 28394,
+        "completion_tokens": 1043,
+        "total_tokens": 29437,
+        "cached_tokens": 21408,
+        "cost_usd": 0.0029891
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 33127,
+        "completion_tokens": 1644,
+        "total_tokens": 34771,
+        "cached_tokens": 28389,
+        "cost_usd": 0.00318905
+      }
+    ]
+  }
+}

@@ -1,0 +1,319 @@
+{
+  "answer": "In the Urdu ghazal tradition represented by Mirza Ghalib, Sheikh Ibrahim Zauq, and Allama Iqbal in this corpus, *gul* (rose) functions as a multifaceted symbol, most commonly evoking the exquisite yet transient beauty of the beloved, the pain of love's separation or unfulfilled longing, and the interplay between bloom and thorn (or garden and wilderness). It draws on Persian poetic conventions where the rose often pairs with the nightingale (*bulbul*), representing the lover's agony amid fleeting splendor.[^1] [^2] While Ghalib and Zauq emphasize its romantic and aesthetic dimensions (the beloved as *gul* or *gul-badan*, rose-bodied), Iqbal extends it philosophically to life's emergence from dust, divine manifestation, and the necessity of pain for true vibrancy.[^3]\n\n### Ghalib (*Diwan-e-Ghalib*)\nGhalib deploys *gul* to underscore relational beauty: a rose derives grace (*aabroo*) only within its garden (*gulshan*), mirroring how the beloved's allure requires presence or union. Without it, spring's bloom fades, symbolizing joy's dependence on love.[^4] <br/[^1]: /works/mirza-ghalib-diwan-e-ghalib-74ed4c/02-aabroo-kya-khaak-uss-gul-ki-ke-gulshan-mein-nahin/translation/#p-34aa92.<br/>\n[^4]: /works/mirza-ghalib-diwan-e-ghalib-74ed4c/01-aa-ke-meri-jaan-ko-qarar-nahin-hai/translation/#p-420290.\n\n### Zauq (*Diwan-e-Zauq*)\nZauq uses *gul* more directly for the beloved's physical form (*gul-badan*, rose-bodied), as an object of torturous desire that scatters the lover like thorns or rain-soaked musk.[^5] It evokes sensory overload and the lover's entrapment, akin to garden madness.[^6] <br/[^5]: /works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/14-dikhla-na-khaal-e-naaf-tu-ae-gul-badan-mujhe/translation/#p-3254a0.\n\n### Iqbal (*Bang-e-Dara*)\nIqbal's *gul* proliferates (dozens of mentions across parts), blending romance with metaphysics: the rose emerges miraculously from dust into color (*rangeen-qaba*), questioning creation's \"how\"; its scent is a covenant of hue and transience; a petal-less rose lacks authenticity, as pain defines true bloom.[^7] [^8] It critiques imitation (*taqleed*) and celebrates life's brevity amid thorns.[^9] <br/[^7]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/07-kya-kahun-apne-chaman-se-main-juda-kyonkar-hua/translation/#p-e823c1.<br/>\n[^8]: /works/allama-iqbal-bang-e-dara-part-1-55b25c/05-kahoon-kya-aarzoo-e-be-dili-mujh-ko-kahan-tak-hai/translation/#p-9e1491.<br/>\n[^9]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-141d8d.\n\n**Shared significance**: The rose embodies impermanence (scent fades, petals drop) and contextual beauty (garden/presence needed), heightening love's bittersweet sting. Ghalib and Zauq stay courtly-erotic; Iqbal philosophizes self-realization through suffering. The corpus lacks exhaustive analysis of *gul* as a refrain, but these motifs recur statistically near \"garden,\" \"nightingale,\" and \"thorn.\"",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gul rose"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rose",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rose\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gul",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "topic": "rose"
+      },
+      "result_summary": "{\"topic\":\"rose\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "topic": "rose"
+      },
+      "result_summary": "{\"topic\":\"rose\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "topic": "rose"
+      },
+      "result_summary": "{\"topic\":\"rose\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"sheikh-ibrahim-zauq-diwan-e-zauq-0fa798\",\"title\":\"Diw"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "topic": "rose"
+      },
+      "result_summary": "{\"topic\":\"rose\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "topic": "rose"
+      },
+      "result_summary": "{\"topic\":\"rose\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"sheikh-ibrahim-zauq-diwan-e-zauq-0fa798\",\"title\":\"Diw"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.14 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"rose\" gul",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 5,
+      "paragraph_id": "p-34aa92"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 5,
+      "paragraph_id": "p-420290"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 5,
+      "paragraph_id": "p-3254a0"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 5,
+      "paragraph_id": "p-e823c1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 5,
+      "paragraph_id": "p-9e1491"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 5,
+      "paragraph_id": "p-141d8d"
+    }
+  ],
+  "duration_ms": 69239,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 80398,
+    "completion_tokens": 6601,
+    "total_tokens": 86999,
+    "cached_tokens": 50668,
+    "api_calls": 5,
+    "cost_usd": 0.011779900000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 638,
+        "total_tokens": 2545,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006779
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2889,
+        "completion_tokens": 761,
+        "total_tokens": 3650,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0006757
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 20312,
+        "completion_tokens": 2786,
+        "total_tokens": 23098,
+        "cached_tokens": 2884,
+        "cost_usd": 0.0050228
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "compare_works",
+          "compare_works",
+          "compare_works",
+          "compare_works",
+          "compare_works",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 25448,
+        "completion_tokens": 947,
+        "total_tokens": 26395,
+        "cached_tokens": 20307,
+        "cost_usd": 0.00251705
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 29842,
+        "completion_tokens": 1469,
+        "total_tokens": 31311,
+        "cached_tokens": 25443,
+        "cost_usd": 0.00288645
+      }
+    ]
+  }
+}

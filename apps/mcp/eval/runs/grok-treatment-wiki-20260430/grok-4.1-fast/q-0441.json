@@ -1,0 +1,357 @@
+{
+  "answer": "**Several works in the Falsafa corpus contain explicit reflections on time—particularly its passing, transience, and brevity (often contrasting with eternity)—most prominently in Urdu poetry. These are philosophical meditations on life's fleeting nature, akin to *kāla* (time/death in Sanskrit traditions) or *waqt* (time/momen**Bang-E-Dara** (Allama Iqbal, across parts) features recurrent motifs of time's flow, human life's ephemerality, and contrasts with eternity, as in poems lamenting youth, nations' rise/fall, and existence as a \"single breath.\"[^1][^2][^3]\n\n**Diwan-E-Ghalib** (Mirza Ghalib) reflects on *waqt* as fleeting breath/life amid sorrow, deceit, and cosmic indifference.[^4]\n\n**Diwan-E-Zauq** (Sheikh Ibrahim Zauq) echoes this in verses on transient youth, love, and worldly illusion.[^5]\n\nSanskrit/dharmaśāstra texts mention *kāla*/*kālasūtra* (hells/time), but lack explicit philosophical reflection on time's passing (e.g., Āṅgirasa Smṛti, Gaṇapatitattva treat *sakala*/*niṣkala* as manifestation states, not temporality).[^6] Old English poems like **Andreas** use \"time\" narratively (e.g., trials' duration), without deep ontology.[^7]\n\nNo exhaustive coverage; corpus leans poetic over systematic metaphysics.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, ch.7 [\"Zindagi insaan ki ek dam ke siwa kuchh bhi nahin\"](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/07-zindagi-insaan-ki-ek-dam-ke-siwa-kuchh-bhi-nahin/translation/#p-403476). \"Human life is nothing more than a single breath; And breath... naught but a **fleeting** rush.\"\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, ch.9 [\"Goristan-e-Shahi\"](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/09-goristan-e-shahi/translation/#p-03a1e5). \"For human life is like a songbird’s flight, It sings a moment, then is lost to sight\"; also on nations/empires as transient waves/portraits.\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, ch.10. \"How can this **fleeting** spectacle of sorrow frighten me?\"\n\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, ch.61. \"Don't ask... of life's short promise, **fleeting** as a breath.\"\n\n[^5]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch.20,50,56. E.g., ch.50: \"**Fleeting** dreams whose truth we start to doubt\"; ch.56: \"This **fleeting** world's brief... show.\"\n\n[^6]: E.g., *Gaṇapatitattva*, ch.1 [p-dd5818](https://falsafa.corpus/works/unknown-ganapatitattva-66a136/01/translation/#p-dd5818) (*sakala* as embodied vs. *niṣkala* unmanifest).\n\n[^7]: Cynewulf, *Andreas*, ch.1. Frequent \"time\" (e.g., [p-bdbda7](https://falsafa.corpus/works/cynewulf-andreas-07b573/01/translation/#p-bdbda7): \"Your **time** of trial\"), but contextual.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kala",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "waqt",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"passage of time\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"time passes\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fleeting time\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"time's arrow\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "time reflection",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "time",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kāla",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kala time",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "waqt time",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"passage of\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "eternity",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "transient",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136"
+      },
+      "result_summary": "{\"markdown\":\"# Gaṇapatitattva\\nGaṇapati · Medieval · kawi · prose · 1 chapters · 10,190 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"īśvara spoke son\\\" · \\\"humble son p"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"flow of time\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fleeting",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 61,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.61 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "transience",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life is\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 61,
+      "paragraph_id": "p-403476"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 61,
+      "paragraph_id": "p-03a1e5"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 61,
+      "paragraph_id": "p-dd5818"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 61,
+      "paragraph_id": "p-bdbda7"
+    }
+  ],
+  "duration_ms": 43609,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 80503,
+    "completion_tokens": 5301,
+    "total_tokens": 85804,
+    "cached_tokens": 51327,
+    "api_calls": 5,
+    "cost_usd": 0.01105205,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 662,
+        "total_tokens": 2566,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006893
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8347,
+        "completion_tokens": 914,
+        "total_tokens": 9261,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00184395
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16175,
+        "completion_tokens": 1319,
+        "total_tokens": 17494,
+        "cached_tokens": 8342,
+        "cost_usd": 0.0026432
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 24787,
+        "completion_tokens": 952,
+        "total_tokens": 25739,
+        "cached_tokens": 16170,
+        "cost_usd": 0.0030079
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 29290,
+        "completion_tokens": 1454,
+        "total_tokens": 30744,
+        "cached_tokens": 24782,
+        "cost_usd": 0.0028677
+      }
+    ]
+  }
+}

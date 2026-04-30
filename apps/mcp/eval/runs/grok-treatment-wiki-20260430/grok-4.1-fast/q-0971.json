@@ -1,0 +1,329 @@
+{
+  "answer": "**'Tarana-e-Hindi' is not present in the Falsafa corpus.** Iqbal's *Bang-e-Dara* Parts 1–3 are included (with poems celebrating India/Hindustan such as \"Hindustani Bachon Ka Qaumi Geet\" in Part 1, ch. 26, and \"Himalaya\" in Part 1, ch. 25), but no work or chapter is titled 'Tarana-e-Hindi' (Iqbal's famous \"Sāre Jahā̃ se Achchhā\"), and searches for distinctive phrases or the query's descriptors (\"hills\" with \"rivers,\" \"Hindustan hamara,\" etc.) yield no matches in the English translations.[^1] The corpus does contain *Tarana-e-Milli* (Part 3, ch. 23), a companion poem whose speaker claims the vast Muslim world (\"From Chin to Arab lands\"), but it is cosmopolitan rather than tied to one place's hills, rivers, and people.[^2]\n\n**'Widsith' is present** as ch. 14 of *Old English Elegies*. The speaker—a far-traveled scop (poet/scald)—defines his belonging not to a fixed place but to a nomadic warrior-poet tradition: the *comitatus* (loyal warband) and its oral catalogue of heroic lords, tribes, treasures, and mead-halls. The most defining moment is his self-introduction at the opening, where he claims his identity through maximal wandering and tribal kinship:\n\n> Widsith spoke, unlocked his word-hoard,  \n> he who **of men had journeyed through most tribes**  \n> **and peoples over the earth**; often in the hall  \n> he received a memorable treasure. **From the Myrgings**  \n> **his lineage arose**.[^3]\n\nThis launches his epic catalogue (spanning ¶¶ like [p-545201], [p-8276c0], [p-f8162a], [p-41b132]), naming 30+ rulers/tribes (\"I was with the Huns... with the Israelites... with the Medes\") and warband heroes he \"sought\" under lords like Eormanric—embodying portable, remembered social bonds over geography.[^4] The close reinforces this: gleemen \"roam through many lands,\" earning \"lasting renown\" via song.[^5]\n\n**Without 'Tarana-e-Hindi', I cannot perform the full comparison or decide which belonging is harder to lose.** A place-based identity (hills/rivers/people) might erode via migration or conquest, but a warband/catalogue identity—tied to memory, loyalty, and performance—could prove harder to lose, as Widsith retains it despite \"deprived of my kin, far from my dear kinsmen.\"[^6]\n\n[^1]: See search results for \"Tarana-e-Hindi,\" \"sare jahan,\" \"hindustan hamara,\" \"hills rivers\"; chapter lists for Iqbal works.\n[^2]: *Bang-E-Dara Part 3*, ch. 23 (*Tarana-e-Milli*), [full chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/23-tarana-e-milli/translation/#p-8a4681).\n[^3]: *Old English Elegies*, ch. 14 (*Widsith*), [paragraph](/works/unknown-old-english-elegies-d5fe9e/14-widsith-matholade-wordhord-onleac/translation/#p-2f6bd3).\n[^4]: *Old English Elegies*, ch. 14, [passage](/works/unknown-old-english-elegies-d5fe9e/14-widsith-matholade-wordhord-onleac/translation/#p-8276c0).\n[^5]: *Old English Elegies*, ch. 14, [paragraph](/works/unknown-old-english-elegies-d5fe9e/14-widsith-matholade-wordhord-onleac/translation/#p-6bde05).\n[^6]: *Old English Elegies*, ch. 14, [paragraph](/works/unknown-old-english-elegies-d5fe9e/14-widsith-matholade-wordhord-onleac/translation/#p-530d9f).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Tarana-e-Hindi"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Widsith"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old english"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sare jahan\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tarana\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hindustan hamara\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 14
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.14\\nprose · 10¶ · 1137w · vocab 397 (TTR 74%, hapax 80%)\\n\\n## Distinctive trigrams\\n\\\"widsith spoke unlocked\\\" · \\\"spoke "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hindustan"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "india"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"better than the world\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hills\" rivers"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.14 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 14,
+        "paragraph_ids": [
+          "p-2f6bd3"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 14,
+        "paragraph_ids": [
+          "p-6bde05"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 23
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.23\\nverse · 11¶ · 205w · vocab 96 (TTR 91%, hapax 91%)\\n\\n## Distinctive trigrams\\n\\\"chin arab lands\\\" · \\\"arab lands story"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 26
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.26\\nverse · 4¶ · 163w · vocab 71 (TTR 78%, hapax 87%)\\n\\n## Distinctive trigrams\\n\\\"homeland land mine\\\" · \\\"chishti first "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.25\\nverse · 25¶ · 444w · vocab 213 (TTR 86%, hapax 86%)\\n\\n## Distinctive trigrams\\n\\\"himalaya himalaya rampart\\\" · \\\"himal"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-545201"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-8276c0"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-f8162a"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-41b132"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-8a4681"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-2f6bd3"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-6bde05"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-530d9f"
+    }
+  ],
+  "duration_ms": 91871,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 62756,
+    "completion_tokens": 10607,
+    "total_tokens": 73363,
+    "cached_tokens": 39174,
+    "api_calls": 5,
+    "cost_usd": 0.0119786,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1961,
+        "completion_tokens": 731,
+        "total_tokens": 2692,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00047555
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3226,
+        "completion_tokens": 1120,
+        "total_tokens": 4346,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0009229
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10813,
+        "completion_tokens": 1910,
+        "total_tokens": 12723,
+        "cached_tokens": 3221,
+        "cost_usd": 0.00263445
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 21387,
+        "completion_tokens": 3255,
+        "total_tokens": 24642,
+        "cached_tokens": 10808,
+        "cost_usd": 0.0042837
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 25369,
+        "completion_tokens": 3591,
+        "total_tokens": 28960,
+        "cached_tokens": 21382,
+        "cost_usd": 0.003662
+      }
+    ]
+  }
+}

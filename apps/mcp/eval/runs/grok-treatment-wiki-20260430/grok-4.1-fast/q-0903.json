@@ -1,0 +1,231 @@
+{
+  "answer": "**Sanskrit *dhṛti*** (often rendered in English as \"fortitude,\" \"patience,\" or \"steadfastness\" in these translations) appears as one of several virtues essential to *dharma*, particularly for ascetics and the wise, alongside truthfulness, self-control, and sensory restraint.[^1][^2] It is grouped in didactic lists rather than narrative scenes of trial, and no verse in the corpus depicts it explicitly under acute pressure like temptation, defeat, or bereavement (e.g., no Mahabharata episodes or Bhagavad Gita verses are present). The closest structural context is Manusmṛti's prescription for forest-dwellers (*vānaprastha*), who must embody *dhṛti* amid prolonged austerities—enduring hunger, exposure, sensory deprivation, and isolation—which implicitly press constancy.[^3] A representative verse from that catalog:\n\n> Fortitude, forbearance, self-control, non-stealing, purity, control of the senses, wisdom, *tapas*, honesty, and freedom from anger—this tenfold Dharma must be diligently practiced by those who seek the highest state in all their *āśramas*. // Mn_6.91 //[^4]\n\n**Old English *mod*** (courage, spirit, proud heart/mind, inner resolve) is central to Cynewulf's *Andreas*, where it denotes steadfast faith and endurance amid explicit pressures: imprisonment, blinding, torture, demonic temptation, and threats of cannibalistic death. The apostle Matthew exemplifies it under defeat and sensory deprivation—he is drugged, chained, blinded, and sentenced to slaughter yet holds firm inwardly.[^5] Representative verse:\n\n> So Matthew the mighty, that man of God,  \n> came to that city. The crowds soon gathered,  \n> the wicked war-smiths, and with wrathful hands  \n> they seized the holy man, set him in chains,  \n> and blinded the blessed one, the book-learned teacher.  \n> **Yet his heart held firm**, his holy thoughts  \n> were bound to his Maker, **though misery bit him**.  \n> He praised the Glory-King in his grim prison,  \n> the Lord of Life, with loyal words.[^6]\n\nAndrew similarly sustains *mod* through flayings, dragging, freezing nights, and Satan's taunts (e.g., \"unwavering courage [...] though he so many sorrows [...] was doomed to endure\" amid repeated scourging).[^7]\n\n**Structurally, yes—the two name the same kind of constancy**: an inner, spiritual *staying-power* (*mod* as heart-spirit; *dhṛti* as fortitude/patience) that resists bodily ruin, sensory torment, despair, or inducements to renounce virtue/God. Both are virtues for the elect (apostles/hermits) under adversity, yielding divine favor rather than worldly relief; neither yields to pain as mere stoicism but as pious resolve (*mod* praising amid chains; *dhṛti* sustaining *tapas*). Differences are contextual (Christian martyrdom vs. Indic *āśrama*-discipline), but the core—unshakable interiority amid external collapse—is identical in these texts.[^8]\n\n[^1]: Yājñavalkya Smṛti, ch. 3, // Yj_3.65 //: \"Truth, non-stealing, non-anger, humility, purity, intelligence, **fortitude**, self-control, control of the senses, and knowledge—all this is declared to be austerity (*tapas*)...\" [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-13fc72).\n[^2]: Manusmṛti, ch. 6, // Mn_6.91 // (cited fully below).\n[^3]: Manusmṛti, ch. 6 passim details hermit life: cold/wet exposure (*Mn_6.23*), famine (*Mn_6.16*, *6.27*), isolation (*Mn_6.42*), equanimity toward pain/death (*Mn_6.45*-*6.49*).\n[^4]: Manusmṛti, ch. 6: \"Fortitude, forbearance, self-control...\" [paragraph](/works/unknown-manusmrti-347b76/06/translation/#p-8c9866).\n[^5]: Andreas, ch. 1 [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-da0c5e).\n[^6]: Ibid., full passage [here](/works/cynewulf-andreas-07b573/01/translation/#p-da0c5e).\n[^7]: Ibid., [p-34b202](/works/cynewulf-andreas-07b573/01/translation/#p-34b202), [p-02e4ce](/works/cynewulf-andreas-07b573/01/translation/#p-02e4ce) (devil's temptation), [p-dbf56f](/works/cynewulf-andreas-07b573/01/translation/#p-dbf56f).\n[^8]: Cf. *Andreas* wiki: *mod*-heavy amid \"battle,\" \"prison,\" \"torment\"; Manusmṛti ch. 6 wiki: virtues for \"renunciation,\" \"endurance.\" No deeper *dhṛti*-narratives in corpus (37 works; Smṛtis dominant for Sanskrit).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dhrti",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mod",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old English"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dhṛti\" OR dhriti OR dhrti OR \"dhṛti\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fortitude OR steadfastness OR constancy OR patience dhr",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.6\\nverse · 34¶ · 6778w · vocab 1362 (TTR 40%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"ten days passed\\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fortitude\" OR \"patience\" OR \"steadfastness\" OR \"constancy\" OR dhṛti OR dhrti",
+        "limit": 20
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mod\" torture OR temptation OR pain OR defeat OR sorrow OR loss",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-13fc72"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-8c9866"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-da0c5e"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-34b202"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-02e4ce"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-dbf56f"
+    }
+  ],
+  "duration_ms": 67169,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 51795,
+    "completion_tokens": 7401,
+    "total_tokens": 59196,
+    "cached_tokens": 10904,
+    "api_calls": 4,
+    "cost_usd": 0.0124239,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1938,
+        "completion_tokens": 389,
+        "total_tokens": 2327,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00029965
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3973,
+        "completion_tokens": 2392,
+        "total_tokens": 6365,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00170845
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6995,
+        "completion_tokens": 1919,
+        "total_tokens": 8914,
+        "cached_tokens": 150,
+        "cost_usd": 0.002336
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 38889,
+        "completion_tokens": 2701,
+        "total_tokens": 41590,
+        "cached_tokens": 6990,
+        "cost_usd": 0.0080798
+      }
+    ]
+  }
+}

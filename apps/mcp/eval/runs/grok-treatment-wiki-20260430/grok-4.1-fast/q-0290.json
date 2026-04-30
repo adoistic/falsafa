@@ -1,0 +1,430 @@
+{
+  "answer": "**In *Traité de la propriété* Vol. I, Chapter 7, Charles Comte establishes that all habitable lands on Earth have long been occupied by families grouped into hordes, tribes, or nations—including \"savage\" or indigenous peoples—and that these groups treat delimited territories as their exclusive national property, even if individuals within them do not cultivate land intensively.**[^1][^2] He illustrates this with travelers' accounts from regions like Louisiana, North America, Arabia, and Tierra del Fuego: savage hordes defend hunting grounds as \"national property\" with fierce wars, selling land only when compensated (as Anglo-Americans did peacefully in Pennsylvania, unlike usurpers), but lack individual territorial property since they prioritize mobility over fixed cultivation.[^3]\n\n**Vol. II, in Chapter 47, introduces a key theoretical nuance by critiquing jurists (e.g., Toullier) who—echoing Rousseau, Grotius, and others—posit a \"primitive\" or \"natural\" state of \"negative community\" where land belonged to no one (unowned/res nullius), with only fruits or moveables going to the \"first occupant.\"**[^4] Comte rejects this as fictional, arguing it ignores empirical realities like those detailed in Vol. I: men have always formed families and tribes claiming territories as property from time immemorial, with no historical evidence of unoccupied lands. This \"negative community\" fantasy, per Comte, wrongly separates property from natural human associations and labor, conflating it with mere civil-law guarantees rather than inherent occupation by groups (including primitives).\n\n**Vol. I thus empirically \"proved\" continuous tribal/indigenous occupation as foundational property (contra abstract vacancy), but \"missed\" explicitly dismantling the juristic theories positing pre-social unowned land—a theoretical \"wrinkle\" Vol. II supplies by tying Vol. I's facts to a broader critique of flawed origins narratives (e.g., Rousseau's isolated individuals, Grotius's post-Deluge commons).** This resolves why primitives defend land as property despite minimal individual appropriation: tribal/national claims predate \"civil\" states.\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, Ch. 7 [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-523da2).\n\n[^2]: Charles Comte, *Traité de la propriété: VOL I*, Ch. 7 [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-bb287d).\n\n[^3]: Charles Comte, *Traité de la propriété: VOL I*, Ch. 7 [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-9af6f6).\n\n[^4]: Charles Comte, *Traité de la propriété: VOL II*, Ch. 47 [paragraph](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/47-des-opinions-des-jurisconsultes-sur-lorigine-et-la/translation/#p-7bd3ed).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "indigenous occupation land",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"native\" occupation land",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "primitive occupation indians",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "occupation des sauvages",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"occupation\" land savages",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "primitive peoples land occupation",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"savage\" land",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Indians\" land",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"American Indians\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"hunters\" land",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nomads land",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"primitive\" occupation",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"first occupier\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.7\\nprose · 39¶ · 4556w · vocab 941 (TTR 46%, hapax 60%)\\n\\n## Distinctive trigrams\\n\\\"according whether one\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.4\\nprose · 33¶ · 4189w · vocab 870 (TTR 46%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"possession thing master"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 40
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.40\\nprose · 32¶ · 3132w · vocab 658 (TTR 47%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"faculty enjoying disp"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 47
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.47\\nprose · 50¶ · 3119w · vocab 741 (TTR 51%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"origin nature propert"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.7\\nprose · 39¶ · 4556w · vocab 941 (TTR 46%, hapax 60%)\\n\\n## Distinctive trigrams\\n\\\"according whether one\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 44
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.44\\nprose · 15¶ · 1989w · vocab 508 (TTR 55%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"seizes means existenc"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "savages",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"purchase\" land savage OR indian OR tribe",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Pennsylvania savage land",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Louisiana\" savage",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 47
+      },
+      "result_summary": "Read ch.47 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 44
+      },
+      "result_summary": "Read ch.44 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 40
+      },
+      "result_summary": "Read ch.40 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "work_slug_b": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "topic": "occupation land savages indigenous primitive"
+      },
+      "result_summary": "{\"topic\":\"occupation land savages indigenous primitive\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"charles-comte"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 40,
+      "paragraph_id": "p-523da2"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 40,
+      "paragraph_id": "p-bb287d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 40,
+      "paragraph_id": "p-9af6f6"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 40,
+      "paragraph_id": "p-7bd3ed"
+    }
+  ],
+  "duration_ms": 75776,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 107593,
+    "completion_tokens": 7090,
+    "total_tokens": 114683,
+    "cached_tokens": 69331,
+    "api_calls": 9,
+    "cost_usd": 0.01466395,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1932,
+        "completion_tokens": 304,
+        "total_tokens": 2236,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005159
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2660,
+        "completion_tokens": 608,
+        "total_tokens": 3268,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00055385
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2912,
+        "completion_tokens": 361,
+        "total_tokens": 3273,
+        "cached_tokens": 2655,
+        "cost_usd": 0.00036465
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4787,
+        "completion_tokens": 586,
+        "total_tokens": 5373,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012279
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9159,
+        "completion_tokens": 845,
+        "total_tokens": 10004,
+        "cached_tokens": 4782,
+        "cost_usd": 0.001537
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 11397,
+        "completion_tokens": 1080,
+        "total_tokens": 12477,
+        "cached_tokens": 9154,
+        "cost_usd": 0.0014463
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15759,
+        "completion_tokens": 529,
+        "total_tokens": 16288,
+        "cached_tokens": 11392,
+        "cost_usd": 0.0017075
+      },
+      {
+        "api_call_index": 8,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 23418,
+        "completion_tokens": 1091,
+        "total_tokens": 24509,
+        "cached_tokens": 15754,
+        "cost_usd": 0.002866
+      },
+      {
+        "api_call_index": 9,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "compare_works"
+        ],
+        "prompt_tokens": 35569,
+        "completion_tokens": 1686,
+        "total_tokens": 37255,
+        "cached_tokens": 23413,
+        "cost_usd": 0.00444485
+      }
+    ]
+  }
+}

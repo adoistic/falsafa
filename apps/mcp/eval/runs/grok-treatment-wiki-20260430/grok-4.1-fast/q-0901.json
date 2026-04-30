@@ -1,0 +1,418 @@
+{
+  "answer": "**In the Hindu *smṛti* tradition**, *śruti* (often rendered \"sruti\" or \"shruti\") denotes the directly heard Vedic revelation, divinely audible to ancient sages (*ṛṣis*), distinct from *smṛti* (remembered tradition). An operative definition appears in the *Yājñavalkya Smṛti*:  \n\n> Revelation (the Vedas), tradition (the Smṛtis), the conduct of the virtuous, what is pleasing to one's own self, and desire born of right resolve—this is declared to be the root of *dharma*. // Yj_1.7 //[^1]\n\n**In Iqbal's Urdu poetry**, *wahy* (divine revelation) evokes Islamic prophetic inspiration, often tied to audible encounters like Moses on Sinai (where God speaks, per Qur'an 7:143ff.). Iqbal alludes in *Bang-e-Dara*:  \n\n> On Sinai, there was a demand to see and be seen; What do you know, O heart, of how the verdict was passed, how did it transpire?[^2]\n\n**In Cynewulf's Old English verse**, *revelatio* is implicit in visionary angelic speech, as when a heavenly messenger audibly proclaims victory to Constantine in *Elene*:  \n\n> The messenger of glory spoke with majesty, his voice a balm for the leader’s bale-sorrows. “Constantine, king! Cast out your terror, and fear not this foe... By this sign, conquer.”[^3]\n\nThe Hindu *smṛti* tradition places **the most weight on audibility**: *śruti* etymologically means \"what is heard,\" privileging primordial divine sounds over visual or mnemonic transmission, unlike Iqbal's visual-auditory Sinai (*wahy* as inspiration) or Cynewulf's spoken visions.[^4]\n\n[^1]: Yājñavalkya Smṛti, Chapter 1, [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-7d795b).  \n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, Chapter 7, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/07-kya-kahun-apne-chaman-se-main-juda-kyonkar-hua/translation/#p-aa7f61).  \n[^3]: Cynewulf, *Elene*, Chapter 1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-306e06).  \n[^4]: Cf. *Manusmṛti* 2.15 (\"Vedic revelation\"), [paragraph](/works/unknown-manusmrti-347b76/02/translation/#p-a3859b); the term's sonic primacy is corpus-defining but absent in Iqbal/Cynewulf English translations.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "hindu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shruti",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sruti",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wahy",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wahy iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cynewulf revelation",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "revelation",
+        "limit": 20
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"divine voice\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"voice from heaven\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heard\" revelation"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal revelation"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal prophet"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"true cross\" cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "hindu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sruti OR shruti OR smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 1 · ch.7\\nverse · 10¶ · 267w · vocab 84 (TTR 87%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"say parted garden\\\" · \\\"parted garde"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"voice\" OR \"heard\" OR \"spoke\" OR \"sinai\" OR \"moses\" cynewulf OR iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sinai"
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"voice of god\" OR \"divine voice\" OR \"heaven spoke\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7d795b"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-a3859b"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7d795b"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-aa7f61"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cynewulf voice heaven OR god OR angel",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-7d795b"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-aa7f61"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-306e06"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-a3859b"
+    }
+  ],
+  "duration_ms": 65860,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 77654,
+    "completion_tokens": 8102,
+    "total_tokens": 85756,
+    "cached_tokens": 27892,
+    "api_calls": 5,
+    "cost_usd": 0.015398,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1947,
+        "completion_tokens": 1079,
+        "total_tokens": 3026,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00064675
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3066,
+        "completion_tokens": 1799,
+        "total_tokens": 4865,
+        "cached_tokens": 150,
+        "cost_usd": 0.0014902
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6041,
+        "completion_tokens": 2417,
+        "total_tokens": 8458,
+        "cached_tokens": 3061,
+        "cost_usd": 0.00195755
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "get_passage"
+        ],
+        "prompt_tokens": 16769,
+        "completion_tokens": 1518,
+        "total_tokens": 18287,
+        "cached_tokens": 6036,
+        "cost_usd": 0.0032074
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 49831,
+        "completion_tokens": 1289,
+        "total_tokens": 51120,
+        "cached_tokens": 16764,
+        "cost_usd": 0.0080961
+      }
+    ]
+  }
+}

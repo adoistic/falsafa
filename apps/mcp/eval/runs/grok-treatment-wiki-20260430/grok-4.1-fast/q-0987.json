@@ -1,0 +1,333 @@
+{
+  "answer": "In *Andreas*, authority—here apostolic and heroic, as Christ's champion—is vested in the steadfast hero who endures torment unyieldingly through faith in God, praising the heavenly King amid chains and scourging without faltering.[^1] [^2] [^3] His worthiness manifests as divine favor: wounds heal miraculously, guards die at his prayer, and floods obey him, proving God's protection for the faithful servant.[^4]\n\nIn *Manusmṛti* Book 7, royal authority stems from justly wielding *daṇḍa* (the rod of punishment), which the king embodies as guarantor of *dharma* across castes and life-stages; he must be truthful, deliberate, wise in *dharma*-*artha*-*kāma*, and self-conquering to apply it without caprice.[^5] [^6] Such a king wins fame that \"spreads... like a drop of oil on water,\" while the opposite contracts \"like a drop of ghee on water\"; battlefield prowess appears in his protective duties, sense-conquest enabling subject-control, and conquest of enemies.[^7] [^8]\n\nNeither text recognizes the other's ideal: *Andreas* elevates suffering faith as heroic/divine authority against heathens, with no *daṇḍa*-like punitive mechanism; *Manusmṛti* grounds kingship in worldly order via measured force and self-mastery, sans Christian endurance or God-reliance.\n\n[^1]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-da0c5e).\n\n[^2]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-34b202).\n\n[^3]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-dbf56f).\n\n[^4]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-e5fbef).\n\n[^5]: Unknown, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-c970b2).\n\n[^6]: Unknown, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-96ec46).\n\n[^7]: Unknown, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-7cf38b).\n\n[^8]: Unknown, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-45020b).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas torture faith",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu book 7 danda king authority",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "sanskrit"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "danda king",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"worthy\" authority OR king OR ruler",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "authority faith OR endure OR torture OR torment",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "danda",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" prowess OR battle OR war OR army OR conquer OR victory",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas faith endure OR withstand OR survive torture",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"danda\" manu",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-da0c5e",
+          "p-34b202",
+          "p-dbf56f",
+          "p-e5fbef"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-c970b2",
+          "p-96ec46",
+          "p-7cf38b",
+          "p-3f0200"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-868413"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-45020b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-da0c5e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-34b202"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-dbf56f"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-e5fbef"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-c970b2"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-96ec46"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-7cf38b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-45020b"
+    }
+  ],
+  "duration_ms": 48653,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 104611,
+    "completion_tokens": 5712,
+    "total_tokens": 110323,
+    "cached_tokens": 63461,
+    "api_calls": 6,
+    "cost_usd": 0.014259049999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1935,
+        "completion_tokens": 602,
+        "total_tokens": 2537,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006655
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3809,
+        "completion_tokens": 1042,
+        "total_tokens": 4851,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012603
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7616,
+        "completion_tokens": 924,
+        "total_tokens": 8540,
+        "cached_tokens": 3804,
+        "cost_usd": 0.0014146
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14309,
+        "completion_tokens": 578,
+        "total_tokens": 14887,
+        "cached_tokens": 7611,
+        "cost_usd": 0.00200915
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 37447,
+        "completion_tokens": 1397,
+        "total_tokens": 38844,
+        "cached_tokens": 14304,
+        "cost_usd": 0.0060423
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 39495,
+        "completion_tokens": 1169,
+        "total_tokens": 40664,
+        "cached_tokens": 37442,
+        "cost_usd": 0.0028672
+      }
+    ]
+  }
+}

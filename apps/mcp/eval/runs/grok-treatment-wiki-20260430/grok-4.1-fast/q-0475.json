@@ -1,0 +1,341 @@
+{
+  "answer": "**Manusmṛti** (particularly Chapter 12) extensively theorizes moral action (*karma*) as the cause of rebirths, social stations, heavenly rewards, and hellish punishments. Good actions from body, speech, and mind yield high births (e.g., gods via *sāttvic* deeds), while evil ones lead to low births (e.g., beasts via *tāmasic* deeds) or hells.[^1] Penances expiate sins to avert bad karma's full fruits.[^2]\n\n**Kuñjarakarṇa Dharmakathana** narrates karma's inexorable rewards/punishments: good deeds yield heaven but exhaust, leaving evil karma for hell (e.g., Pūrṇavijaya's heavenly kingship ends in Yama's cauldron for past sins); rebirths match deeds (leprosy for evil, heaven for charity).[^3] Bodhisattva teachings emphasize karma's fruits across realms.[^4]\n\n**San Hyan Tattvajnana** details karma via *guṇas* (*sattva/rajas/tamas*): good karma (*śubhakarma*) yields divine/human births; evil (*aśubhakarma*) yields hell/*triyak*/deformed humans. Knowledge burns karma for *mokṣa*.[^5]\n\n**San Hyan Kamahāyanikan** frames moral action in Mahāyāna: wholesome deeds (*śubhakarma*) exhaust karma for nirvāṇa; evil yields suffering. *Samaya*-vows yield siddhis/Buddhahood as reward.[^6]\n\n**Āṅgirasa Smṛti** links ritual/moral lapses (e.g., impure *karma*) to fruitless rites/outcaste status, with penances restoring merit.[^7]\n\n**Parāśara Smṛti** prescribes recompense via penances proportional to sins (e.g., outcaste for *dharma*-aversion), implying karmic restoration.[^8]\n\nNo other works centrally address this; passing mentions (e.g., Gaṇapatitattva on karma-fruits) are incidental.\n\n[^1]: Manusmṛti, Ch. 12, [translation](https://falsafa.corpus/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n[^2]: Manusmṛti, Ch. 12, [translation](https://falsafa.corpus/works/unknown-manusmrti-347b76/12/translation/).\n[^3]: Kuñjarakarṇa Dharmakathana, Ch. 1, [¶ p-50854d](https://falsafa.corpus/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-50854d).\n[^4]: Kuñjarakarṇa Dharmakathana, Ch. 1, [¶ p-f6e5e8](https://falsafa.corpus/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-f6e5e8).\n[^5]: San Hyan Tattvajnana, Ch. 1, [¶ p-b23c9d](https://falsafa.corpus/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-b23c9d).\n[^6]: San Hyan Kamahāyanikan, Ch. 1, [¶ p-1ab091](https://falsafa.corpus/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-1ab091).\n[^7]: Āṅgirasa Smṛti, Ch. 1, [¶ p-ed467c](https://falsafa.corpus/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-ed467c).\n[^8]: Parāśara Smṛti, Ch. 4, [¶ p-5f9454](https://falsafa.corpus/works/unknown-parasara-smrti-2259be/04/translation/#p-5f9454).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "karma",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral action\" reward",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"good deeds\" reward",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "recompense virtue",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fruits of action\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"reward\" punishment",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"divine justice\" reward",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"good karma\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"evil karma\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fruit\" karma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "karma rebirth",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"law of karma\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vipāka",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral\" karma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"markdown\":\"# Kunjarakarna Dharmakathana\\nMpu Dusun · Medieval · kawi · prose · 1 chapters · 17,973 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homage feet lord\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Kamahayanikan\\nMpu Shri Sambhara Surya Warama · Medieval · kawi · prose · 1 chapters · 14,398 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"body s"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Tattvajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 16,092 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"lacking *yoga* becomes\\\" · \\\"vo"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Mahajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 6,836 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"dwelling place lord\\\" · \\\"ten sens"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136"
+      },
+      "result_summary": "{\"markdown\":\"# Gaṇapatitattva\\nGaṇapati · Medieval · kawi · prose · 1 chapters · 10,190 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"īśvara spoke son\\\" · \\\"humble son p"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-074f6e"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-50854d"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-f6e5e8"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-b23c9d"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-1ab091"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-ed467c"
+    },
+    {
+      "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+      "chapter_number": 1,
+      "paragraph_id": "p-5f9454"
+    }
+  ],
+  "duration_ms": 60616,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 159295,
+    "completion_tokens": 5616,
+    "total_tokens": 164911,
+    "cached_tokens": 42208,
+    "api_calls": 5,
+    "cost_usd": 0.0283358,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 791,
+        "total_tokens": 2698,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007544
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 11531,
+        "completion_tokens": 1426,
+        "total_tokens": 12957,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00273705
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12081,
+        "completion_tokens": 1048,
+        "total_tokens": 13129,
+        "cached_tokens": 11526,
+        "cost_usd": 0.0012113
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 16580,
+        "completion_tokens": 888,
+        "total_tokens": 17468,
+        "cached_tokens": 12076,
+        "cost_usd": 0.0019486
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 117196,
+        "completion_tokens": 1463,
+        "total_tokens": 118659,
+        "cached_tokens": 16575,
+        "cost_usd": 0.02168445
+      }
+    ]
+  }
+}

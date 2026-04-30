@@ -1,0 +1,287 @@
+{
+  "answer": "**'Dasta' (دستہ) and 'dastagaah' (دستگاه) do not appear as such in the Falsafa corpus's edition of Ghalib's *Diwan-E-Ghalib*.**[^1]\n\nHowever, the parenthetical gloss you provide—\"workshop, plant of being\"—precisely evokes the opening couplet of ghazal (chapter) 101, where Ghalib uses **kaargah-e-hasti** (کارگہِ ہستی, \"workshop of existence/being/life\"). Here, the world is depicted as a cosmic workshop or factory (*kaargah*, a Persianate term for workshop, factory, or tent encampment-at-work) in which existence (*hasti*) produces beauty amid inevitable pain and blood—like tulips stained by the farmer's gore.[^2][^3]\n\n> In life's vast workshop, tulips bear a stain;  \n> The flash that burns our comfort is the farmer's lifeblood's rain.[^4]\n\n> **Kaargah-e-hasti mein laala daagh-e-samaan hai**  \n> **Barq-e-kharman-e-raahat khoon-e-garm-e-dehqaan hai**[^5]\n\nThis metaphor recurs thematically in the ghazal: life's \"strain\" as a fire self-consuming, love's neglect chaining the world, vision demanding blood, and the tulip's wild solitude dispersing sorrow like incense smoke. It underscores Ghalib's philosophical view of existence as a site of restless, bloody creation—beauty forged in suffering, not pastoral idyll.[^6]\n\nNo other Ghalib passages match as closely (e.g., \"guldasta\" is a mere \"bouquet,\" \"dastaar\" a \"turban\"). If this references a letter, commentary, or variant edition outside the *Diwan*, the corpus lacks it.[^7]\n\n[^1]: Searches for \"dasta,\" \"dastagaah,\" \"dasta ghalib,\" and variants yielded no exact corpus matches in Ghalib; nearest were Iqbal or unrelated (*e.g.*, \"guldasta-e-nigah\"). [list_works & search_corpus results].\n\n[^2]: *Diwan-E-Ghalib*, ch. 101, wiki card (key passage TextRank #1). [/works/mirza-ghalib-diwan-e-ghalib-74ed4c/101-kaargah-e-hasti-mein-laala-daagh-e-samaan-hai/wiki/101-kaargah-e-hasti-mein-laala-daagh-e-samaan-hai.card.md/]\n\n[^3]: Work wiki (ch.101 excerpt: \"life vast workshop\"). [/works/mirza-ghalib-diwan-e-ghalib-74ed4c/wiki/_work.card.md/]\n\n[^4]: *Diwan-E-Ghalib*, ch. 101 (*translation*), ¶ [p-8f1a56]. [/works/mirza-ghalib-diwan-e-ghalib-74ed4c/101-kaargah-e-hasti-mein-laala-daagh-e-samaan-hai/translation/#p-8f1a56]\n\n[^5]: *Diwan-E-Ghalib*, ch. 101 (*transliteration*), ¶ [p-0740da]. [/works/mirza-ghalib-diwan-e-ghalib-74ed4c/101-kaargah-e-hasti-mein-laala-daagh-e-samaan-hai/transliteration/#p-0740da]\n\n[^6]: Full chapter (*translation*). [/works/mirza-ghalib-diwan-e-ghalib-74ed4c/101-kaargah-e-hasti-mein-laala-daagh-e-samaan-hai/translation/]\n\n[^7]: \"Workshop\" searches confirm ch.101 as Ghalib's sole hit; no \"plant of being.\"",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dasta",
+        "limit": 20
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dastagaah",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dasta ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dastagaah ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-E-Ghalib\",\"author\":\"Mirza Ghalib\",\"author_slug\":\"mirza-ghalib\",\"era\":\"19th Century\",\"era_slug\":\"19th-century\",\"genre\":\"Literature\",\"genre_sl"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dast",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dastgah",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dast-gah",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "workshop",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"plant of being\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 127
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.127\\nverse · 8¶ · 185w · vocab 89 (TTR 90%, hapax 92%)\\n\\n## Distinctive trigrams\\n\\\"sleeping fortune one\\\" · \\\"fortune one swe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 6
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 06-aamad-e-khat-se-hua-hai-sard-jo-bazaar-e-dost.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 101,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.101 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 101,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.101 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 101
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.101\\nverse · 7¶ · 138w · vocab 80 (TTR 94%, hapax 94%)\\n\\n## Distinctive trigrams\\n\\\"life vast workshop\\\" · \\\"vast workshop tul"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kaargah",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "karkhana",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 101,
+        "paragraph_ids": [
+          "p-8f1a56"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 101,
+        "paragraph_ids": [
+          "p-0740da"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 101,
+      "paragraph_id": "p-8f1a56"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 101,
+      "paragraph_id": "p-0740da"
+    }
+  ],
+  "duration_ms": 65073,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 48106,
+    "completion_tokens": 6672,
+    "total_tokens": 54778,
+    "cached_tokens": 34941,
+    "api_calls": 5,
+    "cost_usd": 0.00771605,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1912,
+        "completion_tokens": 517,
+        "total_tokens": 2429,
+        "cached_tokens": 1885,
+        "cost_usd": 0.00035815
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 4349,
+        "completion_tokens": 2289,
+        "total_tokens": 6638,
+        "cached_tokens": 1907,
+        "cost_usd": 0.00172825
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_metadata",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 12194,
+        "completion_tokens": 917,
+        "total_tokens": 13111,
+        "cached_tokens": 4344,
+        "cost_usd": 0.0022457
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14621,
+        "completion_tokens": 1131,
+        "total_tokens": 15752,
+        "cached_tokens": 12189,
+        "cost_usd": 0.00166135
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 15030,
+        "completion_tokens": 1818,
+        "total_tokens": 16848,
+        "cached_tokens": 14616,
+        "cost_usd": 0.0017226
+      }
+    ]
+  }
+}

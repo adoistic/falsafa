@@ -1,0 +1,276 @@
+{
+  "answer": "In the Smṛti corpus, the Sanskrit term *puṇya* is rendered in English translation as \"merit,\" referring to the auspicious spiritual reward or karmic fruit accrued through righteous actions (*dharma*), particularly rituals (*śrāddha*, sacrifices), charitable gifts (*dāna*), protective acts, and penances. It benefits the performer (leading to \"meritorious worlds\" or heavenly realms), ancestors (as a \"savior\"), and even others (e.g., judicial assessors). Merit is often quantified by multipliers (e.g., doubled for gifts to a Vaiśya, sixfold to a Brahmin; imperishable from certain trees used in rites) or deemed ineffable/indescribable in magnitude.[^1][^2][^3]\n\nMerit arises from mind, speech, and body actions, contrasted with demerit (*apuṇya*), and is examined in the context of transmigration and supreme good.[^4] Specific sources include:\n\n- **Planting trees** (esp. *panasa*): Yields \"imperishable merit,\" foundational for *śrāddha*, fulfilling the doer and saving ancestors.[^5]\n- **Charity/gifts** (*dāna*): Equivalent merit in protecting deposits/refugees as in giving gold/clothes; scaled by recipient's varṇa.[^6]\n- **Rites/sacrifices**: Master/performer gains merit; priest/representative shares equally in disputes.[^7]\n- **Penances/acts**: *Mahālaya* or special *śrāddha* at Gayā equals supreme merit; certain times (*saṃkrānti*) confer it.[^8]\n- **Truthfulness**: False witness destroys all lifetime merit.[^9]\n\nNo single definitional verse uses *puṇya* verbatim (English scope yields \"merit\"), but the concept permeates Āṅgirasa and Bṛhaspati Smṛti most densely, with echoes in Manu (actions' merits/demerits). Other Smṛtis (e.g., Viṣṇu, Yājñavalkya) imply it via ritual fruits but lack concentrated hits.\n\n[^1]: Āṅgirasa Smṛti, Ch. 1, [p-d27356](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-d27356).\n[^2]: Bṛhaspati Smṛti, Ch. 1, [p-ba7477](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-ba7477).\n[^3]: Āṅgirasa Smṛti, Ch. 1, [p-f977f9](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-f977f9).\n[^4]: Manusmṛti, Ch. 1, [p-8924d2](/works/unknown-manusmrti-347b76/01/translation/#p-8924d2).\n[^5]: Āṅgirasa Smṛti, Ch. 1, [p-9f29f0](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-9f29f0).\n[^6]: Bṛhaspati Smṛti, Ch. 1, [p-8b3e8b](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-8b3e8b).\n[^7]: Bṛhaspati Smṛti, Ch. 1, [p-97a468](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-97a468).\n[^8]: Āṅgirasa Smṛti, Ch. 1, [p-451848](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-451848).\n[^9]: Bṛhaspati Smṛti, Ch. 1, [p-45b640](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-45b640).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "punya",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"good deeds\" OR punya OR \"merit\" smriti OR manu OR yajnavalkya",
+        "limit": 30
+      },
+      "result_summary": "Found 26 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "merit",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"religious merit\" OR \"spiritual merit\" OR punya OR puṇya OR \"good karma\"",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "merit OR punya OR puṇya site:smṛti OR manu OR yājñavalkya",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d27356",
+          "p-cbd9b0",
+          "p-79b65b",
+          "p-f977f9",
+          "p-9f29f0"
+        ]
+      },
+      "result_summary": "Returned 5 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-97a468",
+          "p-ddcf59",
+          "p-45b640",
+          "p-bff346",
+          "p-90762a",
+          "p-8b3e8b",
+          "p-ba7477"
+        ]
+      },
+      "result_summary": "Returned 7 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-8924d2"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-bd2f38",
+          "p-451848"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"merit\" smriti",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-d27356"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-ba7477"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-f977f9"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-8924d2"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-9f29f0"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-8b3e8b"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-97a468"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-451848"
+    },
+    {
+      "work_slug": "unknown-angirasa-smrti-2bf9d1",
+      "chapter_number": 1,
+      "paragraph_id": "p-45b640"
+    }
+  ],
+  "duration_ms": 44242,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 55059,
+    "completion_tokens": 4854,
+    "total_tokens": 59913,
+    "cached_tokens": 32401,
+    "api_calls": 4,
+    "cost_usd": 0.00857865,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 755,
+        "total_tokens": 2657,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0004753
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 6087,
+        "completion_tokens": 1241,
+        "total_tokens": 7328,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0015553
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 22556,
+        "completion_tokens": 1309,
+        "total_tokens": 23865,
+        "cached_tokens": 6082,
+        "cost_usd": 0.0042534
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 24514,
+        "completion_tokens": 1549,
+        "total_tokens": 26063,
+        "cached_tokens": 22551,
+        "cost_usd": 0.00229465
+      }
+    ]
+  }
+}

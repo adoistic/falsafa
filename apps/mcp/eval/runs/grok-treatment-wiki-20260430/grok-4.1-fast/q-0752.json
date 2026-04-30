@@ -1,0 +1,172 @@
+{
+  "answer": "**In the *Nāradasmṛti*, the rule addressing a seller who misrepresents goods appears in the section on \"Non-delivery of a Sold Article\" (one of the 18 topics of litigation).**\n\nSpecifically: \"He who, having shown a faultless article, delivers a faulty one, shall be made to pay double the price, and a fine of the same amount.\"[^1]\n\nThis covers the scenario where a seller displays non-defective property but substitutes defective goods upon delivery, which constitutes misrepresentation. The buyer may seek double the price as compensation, plus an equal fine imposed by the king.\n\nThe text distinguishes this from buyer rescission rights (e.g., returning goods after self-examination for defects under Topic 9), unauthorized sales by non-owners (Topic 7), or general sales rules.[^2]\n\n[^1]: *Nāradasmṛti*, Chapter 1, [p-5046aa](/works/unknown-naradasmrti-7650d2/01/translation/#p-5046aa).\n[^2]: *Nāradasmṛti*, Chapter 1, [p-cea9fd](/works/unknown-naradasmrti-7650d2/01/translation/#p-cea9fd) (Topic 7); [p-ec4b23](/works/unknown-naradasmrti-7650d2/01/translation/#p-ec4b23) (Topic 9).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sale of property seller",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seller\" \"misrepresents\" OR \"conceals\" OR \"defect\" OR \"fault\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Naradasmriti OR \"Narada Smriti\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "narada"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sale\" property OR goods OR seller OR buyer OR purchase",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"defect\" sale OR property OR goods",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nāradasmṛti · ch.1\\nprose · 968¶ · 27765w · vocab 3130 (TTR 23%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adulter"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sale\" \"one\" \"owner\" narada"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-5046aa"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-cea9fd"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-ec4b23"
+    }
+  ],
+  "duration_ms": 25961,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 77270,
+    "completion_tokens": 2504,
+    "total_tokens": 79774,
+    "cached_tokens": 17370,
+    "api_calls": 4,
+    "cost_usd": 0.0141005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 615,
+        "total_tokens": 2522,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006664
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 4839,
+        "completion_tokens": 660,
+        "total_tokens": 5499,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00101565
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 10510,
+        "completion_tokens": 375,
+        "total_tokens": 10885,
+        "cached_tokens": 4834,
+        "cost_usd": 0.0015644
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 60014,
+        "completion_tokens": 854,
+        "total_tokens": 60868,
+        "cached_tokens": 10505,
+        "cost_usd": 0.01085405
+      }
+    ]
+  }
+}

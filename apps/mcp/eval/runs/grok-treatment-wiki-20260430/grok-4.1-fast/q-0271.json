@@ -1,0 +1,248 @@
+{
+  "answer": "**San Hyan Tattvajnana** (Knowledge of Reality) and **San Hyan Mahajnana** (Sacred Supreme Wisdom) are both medieval Old Javanese (*Kawi*) prose treatises on *jñāna* (spiritual knowledge), drawing from Śaiva-Śākta and Sāṅkhya-Yoga frameworks to expound the nature of the *ātmā* (Self), states of consciousness (*avasthā*, e.g., *jāgrat*/waking, *svapna*/dream, *suṣupti*/deep sleep, *tūrya*/fourth), cosmic principles (*tattva*), and paths to *mokṣa* (liberation).[^1][^2] However, they diverge in epistemological approach: *Tattvajnana* is systematic and analytical, emphasizing *pramāṇa* (valid means of knowledge) to dissect reality hierarchically; *Mahajnana* is revelatory and intuitive, conveyed through guru-disciple dialogue, riddles (*praśna*), and direct gnosis (*upadeśa*) of the indwelling Śiva.\n\n### Epistemological Angle of *San Hyan Tattvajnana*\nThis text adopts a rigorously analytical epistemology, rooted in three *pramāṇas* (*pratyakṣa*/direct perception for coarse phenomena, *anumāna*/inference for subtle states like *tūrya*, and *āgama*/scripture for the subtlest, e.g., *tūryānta*).[^3] It maps knowledge hierarchically: the Divine *Ātmā* (distinguished as active *Pramāṇa* or inactive *Ātmāviśeṣa*/Dharma) animates *citta* (stained by *triguṇa*: *sattva*, *rajas*, *tamas*), yielding *buddhi* (discriminative intellect, aware of good/evil), *ahaṅkāra* (ego, creating senses/*daśendriya* and elements/*mahābhūta*), and transmigration.[^4] Knowledge progresses via *prayogasandhi* (yogic union: *āsana*, *prāṇāyāma*, etc.), burning *vāsanā* (latent tendencies) to exhaust *sattva*-fruit and unite with Paramaśivatattva.[^5] Epistemology is constructive: reality is known by inferring subtle from coarse (e.g., *ātmā* grades cause human wisdom disparities), verified by *samyagjñāna* (perfect knowledge) as lamp.[^6]\n\n### Epistemological Angle of *San Hyan Mahajnana*\nIn contrast, *Mahajnana* employs a mystical, non-discursive epistemology via *upadeśa* (guru's secret instruction) in Śiva-Kumāra dialogue, using riddles to pierce illusion (*māyā*) and realize Śiva in the body-microcosm (e.g., states/deities: *jāgrat*/Brahmā at navel, *tūrya*/Maheśvara at throat/nose).[^7] Knowledge is immediate gnosis: internal *ātma-liṅga* (Self-symbol) trumps external worship; *oṃkāra* (as boat/fire) burns kleśas (*kāma*, etc.) for *paramakaivalya* (supreme isolation).[^8] No systematic *pramāṇas*; truth is contemplative identity (e.g., body as lotus/channels/*nāḍī*, heart as void-abode), abandoning *vyakta*/*avyakta* (manifest/unmanifest) for quality-less *jñāna*.[^9] Epistemology is deconstructive: riddles reveal pre-existing unity (e.g., *puruṣa* as sun, *prakṛti* as night), attained by grace/guru-service.[^10]\n\n*Tattvajnana* builds knowledge bottom-up (coarse to subtle via *pramāṇa*/yoga); *Mahajnana* collapses dualities top-down (direct Śiva-gnosis via *upadeśa*). Both converge on *tūrya*-realization, but *Tattvajnana* suits systematic yogins, *Mahajnana* intuitive devotees.[^11]\n\n[^1]: *San Hyan Tattvajnana*, ch.1, [full chapter](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/).\n\n[^2]: *San Hyan Mahajnana*, ch.1, [full chapter](/works/unknown-san-hyan-mahajnana-11c531/01/translation/).\n\n[^3]: *San Hyan Tattvajnana*, ch.1 [p-1da719](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-1da719).\n\n[^4]: *San Hyan Tattvajnana*, ch.1 [p-1792eb](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-1792eb), [p-aea5b2](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-aea5b2).\n\n[^5]: *San Hyan Tattvajnana*, ch.1 [p-a3f73c](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-a3f73c).\n\n[^6]: *San Hyan Tattvajnana*, ch.1 [p-6dc057](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-6dc057).\n\n[^7]: *San Hyan Mahajnana*, ch.1 [p-7777f3](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-7777f3), [p-90111a](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-90111a).\n\n[^8]: *San Hyan Mahajnana*, ch.1 [p-f64c7b](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-f64c7b), [p-0f7a95](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-0f7a95).\n\n[^9]: *San Hyan Mahajnana*, ch.1 [p-2047cf](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-2047cf)–[p-a9e459](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-a9e459).\n\n[^10]: *San Hyan Mahajnana*, ch.1 [p-573696](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-573696), [p-beca2b](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-beca2b).\n\n[^11]: Both nearest to *Vrhaspatitattva* (cosine ~0.5/0.3); mutual similarity ~0.22.[^1][^2]",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "San Hyan Tattvajnana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "San Hyan Mahajnana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "jnana"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Tattvajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 16,092 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"lacking *yoga* becomes\\\" · \\\"vo"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Mahajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 6,836 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"dwelling place lord\\\" · \\\"ten sens"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Tattvajnana · ch.1\\nprose · 114¶ · 16092w · vocab 1924 (TTR 25%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"lacking *yoga* becomes\\\" · \\\"vow"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Mahajnana · ch.1\\nprose · 178¶ · 6836w · vocab 905 (TTR 29%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"dwelling place lord\\\" · \\\"ten senses"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Tattvajnana · ch.1\\nprose · 114¶ · 16092w · vocab 1924 (TTR 25%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"lacking *yoga* becomes\\\" · \\\"vow"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# San Hyan Mahajnana · ch.1\\nprose · 178¶ · 6836w · vocab 905 (TTR 29%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"dwelling place lord\\\" · \\\"ten senses"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-mahajnana-11c531 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-1da719"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-1792eb"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-aea5b2"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-a3f73c"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-6dc057"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-7777f3"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-90111a"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-f64c7b"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-0f7a95"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-2047cf"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-a9e459"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-573696"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-beca2b"
+    }
+  ],
+  "duration_ms": 37096,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 71486,
+    "completion_tokens": 4106,
+    "total_tokens": 75592,
+    "cached_tokens": 17378,
+    "api_calls": 5,
+    "cost_usd": 0.0137435,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1925,
+        "completion_tokens": 324,
+        "total_tokens": 2249,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005245
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2126,
+        "completion_tokens": 192,
+        "total_tokens": 2318,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00023905
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 5449,
+        "completion_tokens": 454,
+        "total_tokens": 5903,
+        "cached_tokens": 2121,
+        "cost_usd": 0.00099865
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 7787,
+        "completion_tokens": 774,
+        "total_tokens": 8561,
+        "cached_tokens": 5444,
+        "cost_usd": 0.0011278
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki_full",
+          "read_wiki_full",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 54199,
+        "completion_tokens": 2362,
+        "total_tokens": 56561,
+        "cached_tokens": 7782,
+        "cost_usd": 0.0108535
+      }
+    ]
+  }
+}

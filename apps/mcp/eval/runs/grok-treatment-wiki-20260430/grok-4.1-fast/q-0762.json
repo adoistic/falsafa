@@ -1,0 +1,179 @@
+{
+  "answer": "In Chapter 7 of *Traité de la propriété*, Vol. I (\"On the territory proper to each nation\"), Charles Comte presents the territory of a nation as the highest form of property by extent and importance—after things held in common by humanity—enclosing and enabling all subordinate properties (e.g., those of provinces, communes, families, and individuals).[^1] He observes this as a universal, ancient fact: every habitable part of the globe has long been occupied by nations or tribes (civilized or barbarous), formed from families grouping into hordes, each claiming exclusive property over a delimited space providing its means of existence.[^2][^3]\n\nComte emphasizes that such national territories arise naturally from human associations and necessities, not civil laws or governments distributing land.[^4] Diplomatic treaties legitimizing conquests by violence are not morally binding unless they align with natural justice; a nation may break them when strong enough, prioritizing duties to its own members.[^5] Violations provoke fierce wars—especially among savages, for whom territory is synonymous with survival—often resolved by treaties or sales recognizing limits.[^6]\n\nThe guarantee of a nation's territory lies not in international governance but in defensive necessity, natural barriers (seas, mountains), allied interests, and overwhelming obstacles to invasion—what Comte calls the \"law of nations.\"[^7]\n\n[^1]: Charles Comte, *Traité de la propriété*, Vol. I, ch. 7, [p-2cfb18](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-2cfb18).\n\n[^2]: Charles Comte, *Traité de la propriété*, Vol. I, ch. 7, [p-b9fe30](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-b9fe30).\n\n[^3]: Charles Comte, *Traité de la propriété*, Vol. I, ch. 7, [p-523da2](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-523da2).\n\n[^4]: Charles Comte, *Traité de la propriété*, Vol. I, ch. 7, [p-982e4a](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-982e4a).\n\n[^5]: Charles Comte, *Traité de la propriété*, Vol. I, ch. 7, [p-dc0e30](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-dc0e30) and [p-9de914](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-9de914).\n\n[^6]: Charles Comte, *Traité de la propriété*, Vol. I, ch. 7, [p-0178a5](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-0178a5).\n\n[^7]: Charles Comte, *Traité de la propriété*, Vol. I, ch. 7, [p-982e4a](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-982e4a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Traité de la propriété\" Comte"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.7\\nprose · 39¶ · 4556w · vocab 941 (TTR 46%, hapax 60%)\\n\\n## Distinctive trigrams\\n\\\"according whether one\\\""
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-2cfb18",
+          "p-b9fe30",
+          "p-dc0e30",
+          "p-9de914",
+          "p-982e4a"
+        ]
+      },
+      "result_summary": "Returned 5 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-523da2",
+          "p-0178a5"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 7,
+      "paragraph_id": "p-2cfb18"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 7,
+      "paragraph_id": "p-b9fe30"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 7,
+      "paragraph_id": "p-523da2"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 7,
+      "paragraph_id": "p-982e4a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 7,
+      "paragraph_id": "p-dc0e30"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 7,
+      "paragraph_id": "p-9de914"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 7,
+      "paragraph_id": "p-0178a5"
+    }
+  ],
+  "duration_ms": 38809,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 35318,
+    "completion_tokens": 4224,
+    "total_tokens": 39542,
+    "cached_tokens": 22203,
+    "api_calls": 5,
+    "cost_usd": 0.00584515,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 547,
+        "total_tokens": 2456,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006328
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2696,
+        "completion_tokens": 328,
+        "total_tokens": 3024,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00042015
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 5742,
+        "completion_tokens": 416,
+        "total_tokens": 6158,
+        "cached_tokens": 2691,
+        "cost_usd": 0.00095275
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 11743,
+        "completion_tokens": 1457,
+        "total_tokens": 13200,
+        "cached_tokens": 5737,
+        "cost_usd": 0.00221655
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 13228,
+        "completion_tokens": 1476,
+        "total_tokens": 14704,
+        "cached_tokens": 11738,
+        "cost_usd": 0.0016229
+      }
+    ]
+  }
+}

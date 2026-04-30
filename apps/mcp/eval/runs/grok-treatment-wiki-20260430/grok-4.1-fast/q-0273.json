@@ -1,0 +1,250 @@
+{
+  "answer": "Iqbal's \"Bachay ki Dua\" (\"A Child's Prayer\") presents a child's spontaneous, aspirational supplication to God, voicing desires for personal enlightenment, national pride, devotion to knowledge, advocacy for the vulnerable, and moral rectitude.[^1] This poetic prayer implicitly teaches a pedagogy of **self-directed spiritual ambition**: the child envisions life as illuminating light (like a candle or moth drawn to knowledge), fostering inner motivation, social compassion, and communal upliftment through divine intimacy. The emphasis on homeland (\"grace and pride\" of the nation) and the downtrodden evokes a modern, activist ethos blending Islamic piety with empowerment and service.\n\nIn contrast, Manusmṛti Chapter 2 outlines the brahmacāri's (celibate student's) disciplined regimen, including prescribed twilight prayers—reciting *Om*, the *vyāhṛtis* (bhūr bhuvaḥ svar), and the *Sāvitri* verse (*tat savitur vareṇyaṃ...*) at dawn (standing) and dusk (sitting)—to expunge sins, accrue merit, and embody austerity (*tapas* via recitation).[^2][^3][^4] The chapter's pedagogy is **ritualistic and hierarchical**: initiation (*upanayana*) enforces purity, sense restraint, guru-service, alms-begging, Vedic study, and communal duties within *varṇa* norms, subordinating the self to tradition, repetition, and authority for spiritual purification and dharma-fulfillment.[^5]\n\n**Key contrasts in implicit pedagogies**:\n\n| Aspect              | Iqbal's \"Bachay ki Dua\"                          | Manusmṛti Ch. 2 (Brahmacāri Duties)              |\n|---------------------|--------------------------------------------------|--------------------------------------------------|\n| **Learner**        | Universal child; personal agency.                | Twice-born male (*dvija*, esp. Brahmin); guru-dependent.[^6] |\n| **Prayer Style**   | Emotional, poetic longing; direct to God.        | Formulaic recitation (*japa*); rule-bound (*ṛta*).[^7] |\n| **Core Values**    | Knowledge-love, social justice, national pride, self-sacrifice. | Ritual purity, detachment, obedience, Vedic merit.[^8] |\n| **Formation Goal** | Empowered individual for societal light.         | Disciplined vessel for eternal dharma/Brahma.[^9] |\n| **Method**         | Aspirational visualization.                      | Repetitive austerity, prohibitions (e.g., no women, desires).[^10] |\n\nIqbal's approach democratizes spirituality for holistic growth, while Manu's enforces ascetic orthodoxy for cosmic order. Both use prayer to shape character, but Iqbal's is liberatory and outward-facing, Manu's inward-restraining and stratified.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 16 \"Bachay Ki Dua\", translation, [p-28b7ba](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-28b7ba), [p-4bb8de](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-4bb8de), [p-01b332](/works/allama-iqbal-bang-e-dara-part-1-55b25c/16-bachay-ki-dua/translation/#p-01b332).\n\n[^2]: Manu, *Manusmṛti*, ch. 2, translation, [p-96b076](/works/unknown-manusmrti-347b76/02/translation/#p-96b076).\n\n[^3]: *Ibid.*, [p-133cc6](/works/unknown-manusmrti-347b76/02/translation/#p-133cc6) (dawn/dusk posture), [p-a046af](/works/unknown-manusmrti-347b76/02/translation/#p-a046af) (sin removal).\n\n[^4]: *Ibid.*, [p-608007](/works/unknown-manusmrti-347b76/02/translation/#p-608007) (recitation's superiority).\n\n[^5]: *Ibid.*, [p-50308c](/works/unknown-manusmrti-347b76/02/translation/#p-50308c) (guru instruction); full chapter [here](/works/unknown-manusmrti-347b76/02/translation/).\n\n[^6]: *Ibid.*, [p-64fab3](/works/unknown-manusmrti-347b76/02/translation/#p-64fab3).\n\n[^7]: *Ibid.*, [p-4032ea](/works/unknown-manusmrti-347b76/02/translation/#p-4032ea).\n\n[^8]: *Ibid.*, [p-9ce7ee](/works/unknown-manusmrti-347b76/02/translation/#p-9ce7ee)–[p-8962dc](/works/unknown-manusmrti-347b76/02/translation/#p-8962dc).\n\n[^9]: *Ibid.*, [p-5ac6c9](/works/unknown-manusmrti-347b76/02/translation/#p-5ac6c9).\n\n[^10]: *Ibid.*, [p-76ba7a](/works/unknown-manusmrti-347b76/02/translation/#p-76ba7a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manusmriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bachay ki Dua"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"child's prayer\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmacari prayer Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chapter 2\" brahmacari prayer"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 16-bachay-ki-dua.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahmacari\" OR \"student\" prayer OR dua OR pray Manu"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-28b7ba"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-4bb8de"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-01b332"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-96b076"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-133cc6"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-a046af"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-608007"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-50308c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-64fab3"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-4032ea"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-9ce7ee"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-8962dc"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-5ac6c9"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-76ba7a"
+    }
+  ],
+  "duration_ms": 37431,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 36231,
+    "completion_tokens": 4596,
+    "total_tokens": 40827,
+    "cached_tokens": 9020,
+    "api_calls": 4,
+    "cost_usd": 0.0081912,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1921,
+        "completion_tokens": 1207,
+        "total_tokens": 3128,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00070555
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2978,
+        "completion_tokens": 684,
+        "total_tokens": 3662,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009151
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 6844,
+        "completion_tokens": 563,
+        "total_tokens": 7407,
+        "cached_tokens": 150,
+        "cost_usd": 0.0016278
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 24488,
+        "completion_tokens": 2142,
+        "total_tokens": 26630,
+        "cached_tokens": 6839,
+        "cost_usd": 0.00494275
+      }
+    ]
+  }
+}

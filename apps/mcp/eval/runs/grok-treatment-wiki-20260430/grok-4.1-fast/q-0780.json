@@ -1,0 +1,167 @@
+{
+  "answer": "**Manusmṛti Chapter 7 discusses the duties (rājadharma) of kings at length, including their origin, the role of punishment (*daṇḍa*), vices to avoid, appointment of ministers and envoys, choice of territory and forts, revenue collection, and gifts to Brahmins.[^1]**\n\n**However, there is no specific verse (or passage) in this chapter that explicitly lists \"seven elements\" (or \"limbs,\" *aṅga*) of the state (*rāṣṭra* or *rājya*), such as the classic *saptāṅga* theory (king, ministers, country, fort, treasury, army, ally) found elsewhere in ancient Indian texts like the Arthaśāstra.** \n\nThe chapter mentions:\n- Appointing \"seven or eight ministers\" (*mantri*), who are learned and tested, to deliberate on peace, war, revenue, and protection.[^2]\n- Related topics like forts (*durga*), territory (*deśa*), envoys for alliances (*mitra* implied), treasury/revenue (*kośa*), and army/punishment (*daṇḍa*), but these are described separately across verses 54–86, without being enumerated as a set of seven.[^3]\n\nNo search in the English translation yields phrases like \"seven limbs,\" \"seven parts,\" \"seven elements,\" or \"*saptāṅga*\" of the state/kingdom in this chapter (or the full work). If this refers to a different numbering, edition, or Sanskrit term, it is not present in this corpus version.\n\n[^1]: *Manusmṛti*, Chapter 7, full chapter.[https://falsafa.corpus/works/unknown-manusmrti-347b76/07/translation/](https://falsafa.corpus/works/unknown-manusmrti-347b76/07/translation/)\n\n[^2]: *Manusmṛti* 7.54, [p-0952cb](https://falsafa.corpus/works/unknown-manusmrti-347b76/07/translation/#p-0952cb).\n\n[^3]: E.g., forts at 7.69–76, [p-2f8219](https://falsafa.corpus/works/unknown-manusmrti-347b76/07/translation/#p-2f8219)ff.; revenue at 7.80, [p-99f678](https://falsafa.corpus/works/unknown-manusmrti-347b76/07/translation/#p-99f678); *daṇḍa* earlier in the chapter.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manusmriti seven elements limbs state"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seven limbs\" OR saptanga OR \"seven elements\" state OR kingdom manu OR manusmriti"
+      },
+      "result_summary": "Found 26 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seven\" state OR kingdom OR king manu chapter 7"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the king\" \"ministers\" \"country\" \"fort\" OR \"treasury\" OR \"army\" OR \"ally\" manusmriti"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saptāṅga OR \"seven limbs\" OR \"seven parts\" king OR state OR kingdom manu"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-0952cb"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-2f8219"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-99f678"
+    }
+  ],
+  "duration_ms": 28186,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 41427,
+    "completion_tokens": 2912,
+    "total_tokens": 44339,
+    "cached_tokens": 19893,
+    "api_calls": 4,
+    "cost_usd": 0.00675745,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1911,
+        "completion_tokens": 655,
+        "total_tokens": 2566,
+        "cached_tokens": 1888,
+        "cost_usd": 0.0004265
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5394,
+        "completion_tokens": 454,
+        "total_tokens": 5848,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00102365
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10740,
+        "completion_tokens": 334,
+        "total_tokens": 11074,
+        "cached_tokens": 5389,
+        "cost_usd": 0.00150665
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 23382,
+        "completion_tokens": 1469,
+        "total_tokens": 24851,
+        "cached_tokens": 10735,
+        "cost_usd": 0.00380065
+      }
+    ]
+  }
+}

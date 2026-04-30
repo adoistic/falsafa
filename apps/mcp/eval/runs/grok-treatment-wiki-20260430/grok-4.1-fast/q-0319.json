@@ -1,0 +1,232 @@
+{
+  "answer": "**Traité de la Propriété VOL I** opens with a preface (ch. 0) critiquing contemporary French laws on associations as arbitrary and inconsistent.[^1] Its first substantive chapter (ch. 1) frames the project by arguing that modern legal and moral ideas derive from slaveholding societies (Greek, Roman, feudal), which could not ground property in individual liberty and labor without contradicting their practices.[^2] Comte calls for observing facts over ancient doctrines to establish property's natural basis in self-ownership and the fruits of labor: \"property is born of labor.\"[^3]\n\n**VOL II** picks up thematically with ch. 27 (\"On the creation and distribution of movable properties\"), explaining how utility (and thus property value) emerges from successive labor transformations—e.g., wool to cloth to garment—across producers, with each reimbursed for costs plus added value.[^4] This echoes VOL I's labor-origin thesis but applies it to movables, commerce, and industry: land provides raw materials, but sequential industries \"increase its value or utility,\" distributing property without diminishment.[^5]\n\nNo verbatim \"perfectionnement et dégradation\" appears in the English translations of openings or key passages (corpus searches yielded zero results), but the concepts align with VOL II's discussion of utility *improvement* (perfectionnement via labor/commerce) versus potential *degradation* (raw materials useless without processing).[^6]\n\nThe emphasis has **not genuinely shifted**: VOL II sharpens VOL I's implications. VOL I establishes liberty/labor as property's foundation against slavery-based errors; VOL II operationalizes this for movables, showing value creation as a chain extending land-based property into economic circulation—consistent, not novel.\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, ch. 0 [Preface](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/00-preface/translation/#p-a65ce7).\n\n[^2]: Charles Comte, *Traité de la propriété: VOL I*, ch. 1 [/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-1295cf).\n\n[^3]: Charles Comte, *Traité de la propriété: VOL I*, ch. 1 [/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-e0cba9).\n\n[^4]: Charles Comte, *Traité de la propriété: VOL II*, ch. 27 [/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/27-de-la-creation-et-de-la-distribution-des-propriete/translation/#p-d1327a).\n\n[^5]: Charles Comte, *Traité de la propriété: VOL II*, ch. 27 [/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/27-de-la-creation-et-de-la-distribution-des-propriete/translation/#p-f1eb8b).\n\n[^6]: Searches for \"perfectionnement et dégradation,\" \"perfectionnement degradation,\" equivalents like \"improvement degradation\" or \"perfection degradation\" returned no matches in English bodies; French originals not searchable via tools.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "perfectionnement et dégradation"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"perfectionnement\" \"dégradation\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL II\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 91,008 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"van di"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 27
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.27\\nprose · 35¶ · 3179w · vocab 643 (TTR 45%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"properties consist la"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 0
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.0\\nprose · 53¶ · 4639w · vocab 1015 (TTR 49%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"natural order ideas\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.1\\nprose · 15¶ · 1875w · vocab 461 (TTR 55%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"observation facts study"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 28
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.28\\nprose · 27¶ · 2524w · vocab 571 (TTR 49%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"placed rank propertie"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"improvement\" degradation"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "perfectionnement degradation"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"perfection\" degradation"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 27
+      },
+      "result_summary": "Read ch.27 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 27,
+      "paragraph_id": "p-a65ce7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 27,
+      "paragraph_id": "p-1295cf"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 27,
+      "paragraph_id": "p-e0cba9"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 27,
+      "paragraph_id": "p-d1327a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 27,
+      "paragraph_id": "p-f1eb8b"
+    }
+  ],
+  "duration_ms": 54578,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 34785,
+    "completion_tokens": 5963,
+    "total_tokens": 40748,
+    "cached_tokens": 18413,
+    "api_calls": 5,
+    "cost_usd": 0.00717655,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1928,
+        "completion_tokens": 550,
+        "total_tokens": 2478,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003783
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2772,
+        "completion_tokens": 744,
+        "total_tokens": 3516,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009039
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6010,
+        "completion_tokens": 1300,
+        "total_tokens": 7310,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00156985
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 8500,
+        "completion_tokens": 1211,
+        "total_tokens": 9711,
+        "cached_tokens": 6005,
+        "cost_usd": 0.00140475
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 15575,
+        "completion_tokens": 2158,
+        "total_tokens": 17733,
+        "cached_tokens": 8495,
+        "cost_usd": 0.00291975
+      }
+    ]
+  }
+}

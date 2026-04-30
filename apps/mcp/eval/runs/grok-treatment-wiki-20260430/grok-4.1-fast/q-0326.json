@@ -1,0 +1,229 @@
+{
+  "answer": "**The available text for *Manusmṛti* chapter 11 in the corpus consists only of verses 1–6 (206 words), which discuss categories of people deserving charitable gifts (e.g., those establishing a family, travelers, students, or the sick) and the merits of giving to learned Brahmanas.[^1] It does not address prayascittas (expiations or penances) for specific offences.**\n\n**Yājñavalkya Smṛti chapter 3 (6,156 words) is titled \"On Expiation\" and begins with ritual impurity (āśauca), listing durations for birth/death impurity by varṇa, exclusions from rites (including \"female liquor-drinkers\" at Yj_3.6), general purifiers (time, fire, austerity, etc., at Yj_3.31–34), and prohibitions (e.g., selling liquor causes varṇa degradation at Yj_3.40).[^2] It then shifts to duties in distress, forest hermit life, ascetic practices, and extended philosophical discussions on the self, yoga, cosmology, and rebirth—with no detailed prayascittas for major offences like surāpāna (drinking liquor), brahmanahatya (Brahmin-slaying), or theft.**\n\n**Corpus searches for common offences (e.g., \"liquor,\" \"drinking,\" \"sura,\" \"slaying Brahmin\") yield scattered mentions across works, but none overlap with prescribed expiations in these specific chapters. No single offence is treated in both with contrasting penances.**\n\n[^1]: *Manusmṛti*, [chapter 11](/works/unknown-manusmrti-347b76/11/translation/).\n\n[^2]: *Yājñavalkya Smṛti*, [chapter 3](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prayascitta manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Manusmṛti · ch.11\\nverse · 6¶ · 206w · vocab 59 (TTR 64%, hapax 76%)\\n\\n## Distinctive trigrams\\n\\\"brahmanas learned veda\\\" · \\\"one establishin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"drinking\" OR \"liquor\" OR \"alcohol\" OR \"sura\" manu"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"killing brahmin\" OR \"slaying brahmin\" OR \"brahminicide\" OR \"brahmanahatya\""
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "prayascitta"
+      },
+      "result_summary": "{\"topic\":\"prayascitta\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\""
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "penance"
+      },
+      "result_summary": "{\"topic\":\"penance\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\",\"au"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "expiation"
+      },
+      "result_summary": "{\"topic\":\"expiation\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\",\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "penance OR expiation OR atonement OR purification manu OR yajnavalkya OR yaj"
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sura\" OR liquor OR \"drinking wine\" OR \"drinking spirituous\" chapter OR ch."
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 52788,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 60573,
+    "completion_tokens": 5357,
+    "total_tokens": 65930,
+    "cached_tokens": 30593,
+    "api_calls": 6,
+    "cost_usd": 0.01020415,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1926,
+        "completion_tokens": 547,
+        "total_tokens": 2473,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006362
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2242,
+        "completion_tokens": 350,
+        "total_tokens": 2592,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006009
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3123,
+        "completion_tokens": 436,
+        "total_tokens": 3559,
+        "cached_tokens": 2237,
+        "cost_usd": 0.00050705
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8924,
+        "completion_tokens": 1555,
+        "total_tokens": 10479,
+        "cached_tokens": 3118,
+        "cost_usd": 0.0020946
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "compare_works",
+          "compare_works",
+          "compare_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16024,
+        "completion_tokens": 437,
+        "total_tokens": 16461,
+        "cached_tokens": 8919,
+        "cost_usd": 0.00208545
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 28334,
+        "completion_tokens": 2032,
+        "total_tokens": 30366,
+        "cached_tokens": 16019,
+        "cost_usd": 0.00427995
+      }
+    ]
+  }
+}

@@ -1,0 +1,244 @@
+{
+  "answer": "**No verse in Yājñavalkya Smṛti chapter 2 explicitly states a punishment for \"a man who has stolen another's wife.\"**\n\nChapter 2 covers legal procedure (*vyavahārādhyāya*), including debts, witnesses, documents, ordeals, inheritance, sales, theft, violence, and sexual offenses (verses ~283–294). While it addresses related topics—like arrest for illicit intercourse with another's wife (Yj_2.283[^1]), fines for touching or conversing improperly with her (Yj_2.284–285[^2]), intercourse with women of various castes (Yj_2.286[^3]), abducting *maidens* (unmarried; Yj_2.287[^4]), raping maidens or women (Yj_2.288[^4]), and defiling a woman (Yj_2.289[^5])—\"stealing\" (*steya*, typically theft of property) or abducting a *married woman* (*paradāra* or another's wife) is not directly punished as such.[^6]\n\n- Theft (verses 266–282) focuses on property, not people.[^7]\n- Adultery is treated via intercourse or touching, with fines scaled by caste (e.g., highest amercement for same-caste woman), but no \"stealing\" language.[^8]\n- Abduction applies only to \"adorned maidens\" (highest fine, or death in reverse castes).[^9]\n\nIf \"stealing another's wife\" implies abduction (*hṛtā paradārā*) or analogous offenses in other Smṛtis (e.g., Nārada or Bṛhaspati), they appear elsewhere in the corpus—but not here in chapter 2.[^10]\n\n[^1]: [Paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-f3eab5).\n[^2]: [Paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-5ae999).\n[^3]: [Paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-88392f).\n[^4]: [Paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-cbbce5).\n[^5]: [Paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-d0ae3f).\n[^6]: Full chapter: [/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/](works/unknown-yajnavalkya-smrti-cb88d6/02/translation/).\n[^7]: [Paragraphs](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-0ef6bc) on theft (Yj_2.266ff.).\n[^8]: Adulterer mentioned separately from thief (e.g., Yj_2.295, [p-f1b4d6](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-f1b4d6)).\n[^9]: Yj_2.287 explicitly uses \"maiden\" (*kanyā*).\n[^10]: E.g., Nāradasmṛti ch.1 on abducting a woman ([p-0ddc87](/works/unknown-naradasmrti-7650d2/01/translation/#p-0ddc87)); Bṛhaspatismṛti on molesting another's wife.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya Smriti",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"another's wife\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"steals wife\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"takes wife\" punishment",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"another's wife\" OR \"steals the wife\" OR \"abducts wife\" yajnavalkya",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife\" OR \"wives\" OR \"woman\" OR \"women\" OR \"adultery\" OR \"adulterer\" punishment OR fine OR amercement OR \"cut off\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"another woman\" OR \"married woman\" OR \"carries off\" OR \"takes away\" wife punishment",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"yj_2\" wife OR adultery OR adulterous",
+        "limit": 10
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-f3eab5"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-5ae999"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-88392f"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-cbbce5"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-d0ae3f"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-0ef6bc"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-f1b4d6"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-0ddc87"
+    }
+  ],
+  "duration_ms": 48943,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 45931,
+    "completion_tokens": 4486,
+    "total_tokens": 50417,
+    "cached_tokens": 16098,
+    "api_calls": 5,
+    "cost_usd": 0.0090145,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1913,
+        "completion_tokens": 418,
+        "total_tokens": 2331,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00030945
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2144,
+        "completion_tokens": 320,
+        "total_tokens": 2464,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00030665
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 3305,
+        "completion_tokens": 588,
+        "total_tokens": 3893,
+        "cached_tokens": 2139,
+        "cost_usd": 0.00063415
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 6902,
+        "completion_tokens": 1098,
+        "total_tokens": 8000,
+        "cached_tokens": 3300,
+        "cost_usd": 0.0014344
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 31667,
+        "completion_tokens": 2062,
+        "total_tokens": 33729,
+        "cached_tokens": 6897,
+        "cost_usd": 0.00632985
+      }
+    ]
+  }
+}

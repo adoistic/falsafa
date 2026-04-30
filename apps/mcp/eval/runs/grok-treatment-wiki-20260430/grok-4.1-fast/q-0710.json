@@ -1,0 +1,149 @@
+{
+  "answer": "**Kātyāyana Smṛti chapter 47 covers the measure of interest (vṛddhi or vyaji) on loans for various commodities.**[^1]\n\nIt specifies that the principal lent by creditors is always receivable as double (dviguṇa), with recalculation if not received.[^2] Limits are set at double the principal for gems, pearls, corals, gold, silver, cotton, silk, and wool.[^3] Interest is eight-fold (*aṣṭaguṇa*) for oils, liquors, ghee, molasses, and salt.[^4] For base metals it is five-fold (*pañcaguṇa*), and for land also eight-fold; certain payments are due \"immediately.\"[^5]\n\nThe chapter is concise (5 paragraphs, 101 words) and follows discussions on deliberation of interest (ch. 45) and related matters (ch. 46).[^6]\n\n[^1]: Kātyāyana, *Kātyāyana Smṛti*, Chapter 47, [/works/unknown-katyayana-smrti-1e06d2/47/translation/](https://falsafa.corpus/works/unknown-katyayana-smrti-1e06d2/47/translation/).\n\n[^2]: [/works/unknown-katyayana-smrti-1e06d2/47/translation/#p-16d029](https://falsafa.corpus/works/unknown-katyayana-smrti-1e06d2/47/translation/#p-16d029).\n\n[^3]: [/works/unknown-katyayana-smrti-1e06d2/47/translation/#p-2acf4a](https://falsafa.corpus/works/unknown-katyayana-smrti-1e06d2/47/translation/#p-2acf4a).\n\n[^4]: [/works/unknown-katyayana-smrti-1e06d2/47/translation/#p-bfebbd](https://falsafa.corpus/works/unknown-katyayana-smrti-1e06d2/47/translation/#p-bfebbd).\n\n[^5]: [/works/unknown-katyayana-smrti-1e06d2/47/translation/#p-d4145c](https://falsafa.corpus/works/unknown-katyayana-smrti-1e06d2/47/translation/#p-d4145c).\n\n[^6]: Kātyāyana, *Kātyāyana Smṛti*, Chapter 47 wiki card, [wiki](/works/unknown-katyayana-smrti-1e06d2/wiki/47.card.md).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Katyayana Smriti",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "katyayana"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 47
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kātyāyana Smṛti · ch.47\\nprose · 5¶ · 101w · vocab 42 (TTR 82%, hapax 86%)\\n\\n## Distinctive trigrams\\n\\\"measure interest principal\\\" · \\\"intere"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "Listed 80 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 47
+      },
+      "result_summary": "Read ch.47 of unknown-katyayana-smrti-1e06d2 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 47,
+      "paragraph_id": "p-16d029"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 47,
+      "paragraph_id": "p-2acf4a"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 47,
+      "paragraph_id": "p-bfebbd"
+    },
+    {
+      "work_slug": "unknown-katyayana-smrti-1e06d2",
+      "chapter_number": 47,
+      "paragraph_id": "p-d4145c"
+    }
+  ],
+  "duration_ms": 26305,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 19880,
+    "completion_tokens": 2623,
+    "total_tokens": 22503,
+    "cached_tokens": 11840,
+    "api_calls": 4,
+    "cost_usd": 0.0035115,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1899,
+        "completion_tokens": 655,
+        "total_tokens": 2554,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00042515
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2164,
+        "completion_tokens": 279,
+        "total_tokens": 2443,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005498
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7655,
+        "completion_tokens": 547,
+        "total_tokens": 8202,
+        "cached_tokens": 2159,
+        "cost_usd": 0.00148065
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 8162,
+        "completion_tokens": 1142,
+        "total_tokens": 9304,
+        "cached_tokens": 7650,
+        "cost_usd": 0.0010559
+      }
+    ]
+  }
+}

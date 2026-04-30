@@ -1,0 +1,209 @@
+{
+  "answer": "In Mirza Ghalib's *Diwan-e-Ghalib*, the Urdu word **aaina** (آئینہ, \"mirror\") functions as a multifaceted metaphor across multiple ghazals, most prominently symbolizing unflinching **self-reflection**, the **incomparable beauty of the beloved** (which defies comparison to any other \"image\"), and the **universe as a cosmic reflector of the human heart and soul**.[^1][^2][^3] It evokes truth that shatters illusion or pride, the interplay of lover and beloved (where each mirrors the other), and existential/philosophical mirroring from the macrocosm (sun) to the microcosm (atom).\n\n### Key Examples\n- **Ghazal 4** (\"Aaina dekh apna sa munh le ke reh gaye\"): The mirror reveals one's true face, dispelling foolish pride or boasting upon self-confrontation: \"He saw his face, and all his boasting died; / How great the foolish pride he held inside was.\"[^4]\n- **Ghazal 5** (\"Aaina kyun na doon ke tamasha kahein jise\"): No rival beauty exists to \"match\" the beloved, so the poet offers a mirror as the only \"true show\" or spectacle: \"Why not a mirror, a true show, I pray? / For where is one like you to name, they say?\"[^5]\n- **Ghazal 12** (\"Az mehr ta-ba-zarra dil-o-dil hai aaina\"): The refrain **hai aaina** (\"is a mirror\") recurs in every couplet, portraying the entire world—from hearts to creation—as interconnected reflections of inner truth, awe, beauty, and illusion: \"From sun to atom, heart reflecting heart is a mirror; / For the mimic soul, the world from every part is a mirror.\"[^6]\n\nThese usages align with classical Urdu ghazal conventions but are elevated by Ghalib's philosophical depth, where the mirror pierces hypocrisy, reveals divine unity, or captures love's paradoxical pain/joy. No single definition exhausts it; contextually, it is revelatory and humbling.[^7]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 5 opening (TextRank #1 key passage). /works/mirza-ghalib-diwan-e-ghalib-74ed4c/05-aaina-kyun-na-doon-ke-tamasha-kahein-jise/translation/#p-8dd888\n[^2]: *Ibid.*, wiki card (distinctive trigrams: \"mirror true show\").\n[^3]: *Ibid.*, work-level wiki (ch. 79 excerpt: \"Indifferent Beauty... The mirror\").\n[^4]: *Ibid.*, ch. 4, [p-354db2](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye/translation/#p-354db2).\n[^5]: *Ibid.*, ch. 5, [p-8dd888](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/05-aaina-kyun-na-doon-ke-tamasha-kahein-jise/translation/#p-8dd888).\n[^6]: *Ibid.*, ch. 12, [p-93900f](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/12-az-mehr-ta-ba-zarra-dil-o-dil-hai-aaina/translation/#p-93900f).\n[^7]: *Ibid.*, ch. 12 full chapter (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/12-az-mehr-ta-ba-zarra-dil-o-dil-hai-aaina/translation/). Every couplet ends in the **hai aaina** refrain.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib aaina"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib mirror"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "aaina"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 4
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 04-aaina-dekh-apna-sa-munh-le-ke-reh-gaye.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.5\\nverse · 10¶ · 176w · vocab 79 (TTR 81%, hapax 87%)\\n\\n## Distinctive trigrams\\n\\\"mirror true show\\\" · \\\"true show pray\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 12
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 12-az-mehr-ta-ba-zarra-dil-o-dil-hai-aaina.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 01-aa-ke-meri-jaan-ko-qarar-nahin-hai.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mirror\" Ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 1,
+      "paragraph_id": "p-8dd888"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 1,
+      "paragraph_id": "p-354db2"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 1,
+      "paragraph_id": "p-93900f"
+    }
+  ],
+  "duration_ms": 35404,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 31145,
+    "completion_tokens": 4105,
+    "total_tokens": 35250,
+    "cached_tokens": 20384,
+    "api_calls": 4,
+    "cost_usd": 0.0052239,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1900,
+        "completion_tokens": 458,
+        "total_tokens": 2358,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0003264
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6760,
+        "completion_tokens": 812,
+        "total_tokens": 7572,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0014754
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 9866,
+        "completion_tokens": 707,
+        "total_tokens": 10573,
+        "cached_tokens": 6755,
+        "cost_usd": 0.00131345
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12619,
+        "completion_tokens": 2128,
+        "total_tokens": 14747,
+        "cached_tokens": 9861,
+        "cost_usd": 0.00210865
+      }
+    ]
+  }
+}

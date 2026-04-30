@@ -1,0 +1,339 @@
+{
+  "answer": "**Sanskrit *yajña***: The Falsafa corpus contains no translated passages using the term *yajña* (or variants) explicitly.[^1] However, the Smṛti texts discuss Vedic-style sacrifices (*yajña*) extensively as ritual offerings to gods, ancestors, etc., often contrasting their superiority or impediments. A representative passage equates no sacrifice to Vedic utterances (*Vyāhṛtis*):\n\n> There is no sacred ford equal to the *Vyāhṛtis*; there is no austerity (*tapas*) equal to the *Vyāhṛtis*. There is no **sacrifice** equal to the *Vyāhṛtis*; there are no rites equal to the *Vyāhṛtis*. // Ang_1.12 //[^2]\n\n**Old English *læc***: The term appears repeatedly in Cynewulf's *Andreas* (transliteration variant), where it denotes \"gift\" or \"offering,\" often in ritual/social contexts akin to sacrifice (e.g., offered for thanks or sustenance). A key instance amid the cannibal-Mermedonians' lot-casting occurs when a father offers his son as *læc* (\"offering/gift\") to the community:\n\n> Hie þa **lac** hræþe þegon to þance. Ðeod wæs oflysted, metes modgeomre...[^3]\n\n> [Translation approximation from context: They then the **offering**/**gift** quickly [gave the] thane thanks. The prince was desirous, weary of food...][^4]\n\n### Similarity for 'Sacrifice' as Translation?\nSuperficially similar: both denote valued offerings with ritual/social valence (*yajña* as oblation to deities for cosmic merit/order [*ṛta*]; *læc* as gift to superiors/communals, echoing Germanic gift-exchange or Christian tithe-like devotion). 'Sacrifice' captures the costly surrender in both.[^5]\n\n**Different ritual logics**:\n- *Yajña*: Theocentric, elaborate fire-rites (e.g., oblations [*havis*], mantras) to gods/ancestors for reciprocity, dharma-fruit, world-maintenance. Hierarchical, priest-mediated, non-lethal (typically vegetal/animal, symbolic).[^6]\n- *Læc* (here): Anthropocentric, monstrous reciprocity among cannibals—human \"gift\" (*eaforan geongne... sylle*) for communal survival/hunger-aversion, not divine. Echoes OE heroic *gifstol* (\"gift-stool\") but twisted to profane horror, contrasting Christian rejection of pagan/human sacrifice.[^7]\n\n'sacrifice' fits loosely (offering loss for gain), but elides *yajña*'s soteriological precision vs. *læc*'s secular/kin-social horror. Corpus lacks core Vedic *Yajurveda* texts for fuller *yajña*; OE *læc* skews poetic, not liturgical.\n\n[^1]: Multiple `search_corpus` yielded 0 exact/near-matches for \"yajna\"/variants across Sanskrit works (*Manusmṛti*, *Āṅgirasa Smṛti*, etc.).\n[^2]: *Āṅgirasa Smṛti*, [p-e61dcc](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-e61dcc).\n[^3]: *Andreas*, [p-992aeb](/works/cynewulf-andreas-07b573/01/transliteration/#p-992aeb) (full context: father lots son as food-*læc* post-hunger).\n[^4]: Translation inferred; full ch1 lacks exact gloss but aligns with \"gift/offering\" (cf. DOE *læc*: \"sacrifice, offering\").\n[^5]: Shared: costly transfer (life/food vs. oblation) for favor (merit/survival).\n[^6]: Cf. *Manusmṛti* wiki: \"offerings gods ancestors\"; *Āṅgirasa* impediments (*śrāddha* vs. *paśubandha* animal-sacrifice).\n[^7]: *Andreas* critiques pagan excess; *læc* evokes doomed OE *blōdlæc* (blood-offering) but to devils/men.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yajna"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lac"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old english\" lac"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ritual offering\" lac"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old english"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"yajna\" OR yagna OR \"yajña\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sacrifice lac"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ritual\" lac OR \"offering\" lac"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sacrifice",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.3\\nverse · 66¶ · 2063w · vocab 471 (TTR 49%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"his own *varna*\\\" · \\\"one his own\\\" · \\\"mn_3 "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"five great sacrifices\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "offering god"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e61dcc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-992aeb"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-992aeb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "offering OR gift OR sacrifice OR oblation OR libation OR burnt",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-e61dcc"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 3,
+      "paragraph_id": "p-992aeb"
+    }
+  ],
+  "duration_ms": 101471,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 80920,
+    "completion_tokens": 12185,
+    "total_tokens": 93105,
+    "cached_tokens": 26157,
+    "api_calls": 6,
+    "cost_usd": 0.01835295,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1949,
+        "completion_tokens": 548,
+        "total_tokens": 2497,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00038165
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5344,
+        "completion_tokens": 1197,
+        "total_tokens": 6541,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00138515
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6329,
+        "completion_tokens": 2300,
+        "total_tokens": 8629,
+        "cached_tokens": 5339,
+        "cost_usd": 0.00161495
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_works"
+        ],
+        "prompt_tokens": 10588,
+        "completion_tokens": 3389,
+        "total_tokens": 13977,
+        "cached_tokens": 6324,
+        "cost_usd": 0.0028635
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13554,
+        "completion_tokens": 2353,
+        "total_tokens": 15907,
+        "cached_tokens": 10583,
+        "cost_usd": 0.00229985
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 43156,
+        "completion_tokens": 2398,
+        "total_tokens": 45554,
+        "cached_tokens": 149,
+        "cost_usd": 0.00980785
+      }
+    ]
+  }
+}

@@ -1,0 +1,273 @@
+{
+  "answer": "Charles Comte's core critique of ancient slaveholding societies is that their jurists and philosophers—embedded in systems where humans were routinely treated as property—could not derive rights and duties from human nature without undermining slavery itself. Instead, they erected distorted legal categories that conflated persons with things, poisoning downstream jurisprudence on property, family obligations, and liberty.[^1] Their \"laws were not vicious\" in every detail, but the slaveholding premise forced foundational contradictions: e.g., proclaiming spousal or parental duties while denying them to the enslaved, or grounding property in state acts rather than labor and liberty.[^2] This legacy endures because modern scholars \"steep [themselves] in the doctrines of domestic slavery,\" invoking Roman jurists like Papinian or emperors' rescripts in courts, perpetuating ideas unfit for free societies.[^3]\n\nManu’s *Manusmṛti* Book 8 exemplifies this precise distortion. Amid exhaustive rules on debts, deposits, witnesses, boundaries, assaults, theft, and adultery—procedural categories for free persons—slaves (*dāsa*) appear casually as legal objects or subordinates, without demurral or philosophical apology.[^4] Slaves may testify when \"suitable\" witnesses are absent (alongside women, children, pupils, kinsmen, or hired servants), but their testimony is presumptively suspect, like that of the infirm or agitated.[^5] A slave's property accrues to his master (\"A wife, a son, and a slave—these three... have no property\"), and even manumission leaves a Śūdra's servitude \"innate,\" fit only for \"the work of a slave.\"[^6] This seamless elision—treating slaves as witnesses, heirs' nullities, or perpetual laborers alongside fields, deposits, or fines—precisely instantiates Comte's warning: slavery warps legal categories by naturalizing human chattel within them, eroding the \"true principles of laws and morals\" rooted in liberty.[^7] Manu's procedural nonchalance, far from mere oversight, reflects the slaveholding worldview Comte decries, where persons-as-things contaminate the entire edifice.\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, [Chapter 1](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-fcbad4).\n\n[^2]: Charles Comte, *Traité de la propriété: VOL I*, [Chapter 1](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-e537a3).\n\n[^3]: Charles Comte, *Traité de la propriété: VOL I*, [Chapter 1](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-1f084b).\n\n[^4]: *Manusmṛti*, [Chapter 8](/works/unknown-manusmrti-347b76/08/translation/).\n\n[^5]: *Manusmṛti*, [Chapter 8](/works/unknown-manusmrti-347b76/08/translation/#p-8d5e3b). (Mn_8.70: slaves as fallback witnesses.)\n\n[^6]: *Manusmṛti*, [Chapter 8](/works/unknown-manusmrti-347b76/08/translation/#p-a02b71). (Mn_8.416); see also [#p-e6bdf4](#p-e6bdf4) (Mn_8.413–14: innate servitude).\n\n[^7]: Charles Comte, *Traité de la propriété: VOL I*, [Chapter 1](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/01-chapitre-premier-de-linfluence-des-doctrines-des-p/translation/#p-e0cba9).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "slavery",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.8\\nverse · 381¶ · 16882w · vocab 2625 (TTR 32%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"made pay fine\\\" · \\\"fine two hundred\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slavery\" OR esclavage OR slave",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.2\\nprose · 29¶ · 1980w · vocab 421 (TTR 46%, hapax 61%)\\n\\n## Distinctive trigrams\\n\\\"duties fulfill toward\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 0
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.0\\nprose · 53¶ · 4639w · vocab 1015 (TTR 49%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"natural order ideas\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "esclave OR esclavage OR slave OR slavery",
+        "limit": 20
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.8\\nverse · 381¶ · 16882w · vocab 2625 (TTR 32%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"made pay fine\\\" · \\\"fine two hundred\\\" · \\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-fcbad4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-e537a3"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-1f084b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-8d5e3b"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-a02b71"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-e6bdf4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-e0cba9"
+    }
+  ],
+  "duration_ms": 48228,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 110720,
+    "completion_tokens": 5149,
+    "total_tokens": 115869,
+    "cached_tokens": 48207,
+    "api_calls": 5,
+    "cost_usd": 0.01748745,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1952,
+        "completion_tokens": 728,
+        "total_tokens": 2680,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00047225
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5079,
+        "completion_tokens": 995,
+        "total_tokens": 6074,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00123115
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16669,
+        "completion_tokens": 866,
+        "total_tokens": 17535,
+        "cached_tokens": 5074,
+        "cost_usd": 0.0030057
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 22712,
+        "completion_tokens": 816,
+        "total_tokens": 23528,
+        "cached_tokens": 16664,
+        "cost_usd": 0.0024508
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 64308,
+        "completion_tokens": 1744,
+        "total_tokens": 66052,
+        "cached_tokens": 22707,
+        "cost_usd": 0.01032755
+      }
+    ]
+  }
+}

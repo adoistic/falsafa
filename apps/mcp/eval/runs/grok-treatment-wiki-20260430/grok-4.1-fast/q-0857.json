@@ -1,0 +1,294 @@
+{
+  "answer": "**Gham** (intimate, pervasive grief, like a quiet inner wound):\n\nFrom Allama Iqbal's *Parinde Ki Faryad* (\"The Cry of the Bird\") in *Bang-e-Dara Part 1*:\n\n> Dil **gham** ko kha raha hai, **gham** dil ko kha raha hai  \n> Gaana isse samajh kar khush hon na sun'ne waale[^1]\n\nThe bird laments captivity, portraying **gham** as reciprocal devouring—heart eats grief, grief eats heart—in endless, visceral erosion. **Ranj** (personal vexation) lacks this symbiotic intimacy; **azaab** (torment/punishment) implies inflicted agony, not self-consuming melancholy. Meter and repetition demand **gham**'s softer phonetics.\n\n**Ranj** (endured trouble/hardship, habituated resentment):\n\nFrom Mirza Ghalib's ghazal in *Diwan-e-Ghalib*:\n\n> **Ranj** se khoogar hua insaan toh mit jaata hai **ranj**  \n> Mushkilein mujh par padeen itni ke aasaan ho gayin[^2]\n\nHumanity, inured to **ranj**, finds it vanish; troubles pile until easy. **Ranj** conveys accustomable affliction. **Gham** clings too deeply to dissolve; **azaab** defies habituation (too infernal). Rhyme/radif locks **ranj**'s crisp \"nj\" bite.\n\n**Azaab** (scorching torment, hellish punishment):\n\nNo fitting couplet found. Searches yielded zero instances of **azaab** (عذاب) denoting sorrow/torment in a substitutable verse context—unlike abundant **gham**/**ranj**. Occurrences like \"ghazab\" (غضب, wrath) appear (e.g., Zauq's \"ghazab hai aag lage aur hawa chale\"[^3]), but denote fury, not sorrow gradients. The Falsafa corpus's Urdu poetry (Iqbal, Ghalib, Zauq) emphasizes **gham**/**ranj**; **azaab** is absent or marginal.\n\n[^1]: Allama Iqbal, *Bang-e-Dara Part 1*, ch. 34 (*Parinde Ki Faryad*), [paragraphs](/works/allama-iqbal-bang-e-dara-part-1-55b25c/34-parinde-ki-faryad/transliteration/#p-c4f9a7).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 174 (*Sab kahan kuch lala-o-gul mein numayan ho gayin*), [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/174-sab-kahan-kuch-lala-o-gul-mein-numayan-ho-gayin/transliteration/#p-?); note: exact para ID from full read requires targeted `get_passage`, but couplet uniquely distinguishes **ranj**.\n\n[^3]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch. 33 (*Lete hi dil jo aashiq-e-dil-soz ka chale*), [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/33-lete-hi-dil-jo-aashiq-e-dil-soz-ka-chale/transliteration/#p-?); \"ghazab\" ≠ **azaab**.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "persian"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gham"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ranj"
+      },
+      "result_summary": "Found 23 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "azab"
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"aazaab\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"azab\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"udhab\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.34 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.50 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 19,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-2-9bc58c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 174,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.174 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 25,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.25 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 33,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.33 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (transliteration)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"gham\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "p-645e3e",
+          "p-c4f9a7"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "p-8c2032"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 174,
+        "paragraph_ids": [
+          "p-ae092d"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"azaab\" OR \"azab\" OR \"udhab\" OR \"aazab\" OR \"azaaab\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 19,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.19 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 19,
+      "paragraph_id": "p-c4f9a7"
+    }
+  ],
+  "duration_ms": 107888,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 75130,
+    "completion_tokens": 11294,
+    "total_tokens": 86424,
+    "cached_tokens": 51612,
+    "api_calls": 5,
+    "cost_usd": 0.0129312,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1930,
+        "completion_tokens": 493,
+        "total_tokens": 2423,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00035035
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12937,
+        "completion_tokens": 2022,
+        "total_tokens": 14959,
+        "cached_tokens": 150,
+        "cost_usd": 0.0035759
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 15468,
+        "completion_tokens": 2713,
+        "total_tokens": 18181,
+        "cached_tokens": 12932,
+        "cost_usd": 0.0025103
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21191,
+        "completion_tokens": 2517,
+        "total_tokens": 23708,
+        "cached_tokens": 15463,
+        "cost_usd": 0.00317725
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 23604,
+        "completion_tokens": 3549,
+        "total_tokens": 27153,
+        "cached_tokens": 21186,
+        "cost_usd": 0.0033174
+      }
+    ]
+  }
+}

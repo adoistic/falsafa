@@ -1,0 +1,351 @@
+{
+  "answer": "**Kalpabuddha** and **San Hyan Kamahayanikan** are both medieval Kawi-language prose works from the Falsafa corpus that engage with Mahāyāna (and tantric/Mantranaya) imagery, particularly the Five Tathāgatas (Pañcatathāgata: Vairocana, Akṣobhya, Ratnasambhava, Amitābha, Amoghasiddhi) and their consort goddesses (e.g., Locanā, Māmakī, Pāṇḍaravāsinī, Tārā/Dhātvīśvarī).[^1] They are statistically the closest works in the corpus (cosine similarity 0.22), sharing vocabulary on these figures' attributes (e.g., colors, seed-syllables/mantras like *hūṃ*, *traṃ*, *hrīḥ*, *āḥ*; wisdoms/jñānas like *śāśvata*, *ādarśa*, *pratyavekṣaṇa*; mudrās; body-abodes like heart, lungs, spleen, liver).[^2]\n\nHowever, they differ sharply in handling the Mahāyāna bodhisattva path—the progressive cultivation of the Six/Ten Perfections (pāramitās) for the welfare of beings en route to buddhahood.\n\n- **Kalpabuddha** does not address the bodhisattva path at all.[^3] It is a brief esoteric schema (535 words across 6 chapters) describing the Pañcatathāgata's cosmic emergence in the *mahāpralaya* (great dissolution), their directional residences, mounts, implements, and internal body-abodes (e.g., Vairocana in the heart; Akṣobhya in the lungs).[^4] Their consorts accompany them as *devī*-figures, but there is no doctrine of practice, perfections, compassion, or path-stages. It functions as a \"supreme secret\" mandala/colophon for visualization or contemplation, without prescriptive ethics or soteriology.[^5]\n\n- **San Hyan Kamahayanikan** explicitly teaches the bodhisattva path as the core of its \"Sacred Mahāyāna\" (*Mantranaya*, Great Path/Vehicle), integrating pāramitās with tantric *samaya* (vows), yogas, non-duality (*adwaya/adwayajñāna*), breath-control (*prāṇāyāma*), and the same Pañcatathāgata/goddess schema.[^6] The path is for a \"beginner on the path of the sacred Mahāyāna\" (*Tathāgata-family son of the Jina*), emphasizing:\n  | **Element** | **Handling** |\n  |-------------|--------------|\n  | **Six Pāramitās** (*daśapāramitā* foundation) | Dāna (3-fold giving, up to body/flesh), śīla (refrain from unwholesome body/speech/mind acts), kṣānti (equanimity to honor/scorn), vīrya (day/night wholesome actions like worship/mantra), dhyāna (compassionate single-pointedness), prajñā (all-phenomena emptiness).[^7] |\n  | **Four Immeasurables** (added for Ten Pāramitās) | Maitrī (welfare), karuṇā (3-fold: being/phenomena/objectless; cites Bodhisattvas' objectless compassion), muditā (joy), upekṣā (equanimity)—embodied in the four goddesses.[^8] |\n  | **Integration w/ Tantra** | Path yields *bodhicitta*/*vajra*, *abhiṣeka* (consecration), *samaya* protection (e.g., kill *samaya*-breakers); culminates in Five Tathāgatas' wisdoms (e.g., Vairocana=eternal jñāna), matching Kalpabuddha.[^9] Bodhisattvas exemplify (e.g., protecting Vinaya via afflictions; Mahāsattvas' extreme giving).[^10] |\n\n**Key difference**: Kalpabuddha offers a static, anatomical-cosmological map of enlightened realities (no path-agency). San Hyan dynamically prescribes the bodhisattva path via pāramitās as the \"straight road to... *nirvāṇa*\" and \"supreme path to *bodhi*\", tantrically empowered for rapid buddhahood (even \"in this very life\").[^11] The former assumes realization; the latter cultivates it.\n\n[^1]: *Kalpabuddha*, Ch. 1–5 (translation)[/works/unknown-kalpabuddha-d760dc/01/translation/]; *San Hyan Kamahayanikan*, Ch. 1[/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/].\n\n[^2]: *Kalpabuddha* wiki (full)[/works/unknown-kalpabuddha-d760dc/wiki/_work.full.md]; *San Hyan Kamahayanikan* wiki (full)[/works/unknown-san-hyan-kamahayanikan-2a0c19/wiki/_work.full.md]; compare_works on \"bodhisattva\".\n\n[^3]: No mentions of *bodhisattva*, *pāramitā*, path (*mārga*), or perfections across all chapters.\n\n[^4]: E.g., Ch. 1: Vairocana (white/all-colored? `bodhyagrī` mudrā, `śāśvata` jñāna, heart-abode)[/works/unknown-kalpabuddha-d760dc/01/translation/#p-e1c8df]; Ch. 2: Akṣobhya (black, `ādarśana` jñāna, lungs)[/works/unknown-kalpabuddha-d760dc/02/translation/#p-5a580a].\n\n[^5]: Ch. 6 colophon[/works/unknown-kalpabuddha-d760dc/06/translation/#p-7c1a2f].\n\n[^6]: Ch. 1 openings (e.g., *ṣaṭpāramitā* as \"supreme path to *bodhi*\")[/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-3ff60c].\n\n[^7]: [p-e76e3c]–[p-e955a7]; full Six Pāramitās[/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-e76e3c].\n\n[^8]: [p-26360c]–[p-de4a28]; 3-fold karuṇā w/ Bodhisattvas[/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-f4542a].\n\n[^9]: E.g., Five Wisdoms order[/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-9fa56a]; *bodhicitta* non-abandonment[/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-68497a].\n\n[^10]: [p-3b7656], [p-eda208] (Bodhisattvas protect via afflictions); Mahāsattva giving[/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-d84734].\n\n[^11]: Path summary [p-69053e], [p-b261f2][/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-69053e].",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kalpabuddha"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"San Hyan Kamahayanikan\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bodhisattva path"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"San Hyan\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kamahayanikan"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mahayana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bodhisattva"
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "{\"markdown\":\"# Kalpabuddha\\nUnknown · Medieval · kawi · prose · 6 chapters · 535 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"### paragraph lord\\\" · \\\"his abode ###\\\" · "
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Kamahayanikan\\nMpu Shri Sambhara Surya Warama · Medieval · kawi · prose · 1 chapters · 14,398 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"body s"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: high\\n---\\n\\n# Kalpabuddha · ch.6\\nprose · 4¶ · 153w · vocab 48 (TTR 66%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"### paragraph lord\\\" · \\\"paragraph lord pañcat"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "Listed 6 chapters"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-kalpabuddha-d760dc",
+        "work_slug_b": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "topic": "bodhisattva"
+      },
+      "result_summary": "{\"topic\":\"bodhisattva\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-kalpabuddha-d760dc\",\"title\":\"Kalpabudd"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bodhisattva path\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bodhisattva",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-kamahayanikan-2a0c19 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-kalpabuddha-d760dc (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Kamahayanikan\\nMpu Shri Sambhara Surya Warama · Medieval · kawi · prose · 1 chapters · 14,398 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"body s"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-kalpabuddha-d760dc"
+      },
+      "result_summary": "{\"markdown\":\"# Kalpabuddha\\nUnknown · Medieval · kawi · prose · 6 chapters · 535 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"### paragraph lord\\\" · \\\"his abode ###\\\" · "
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-e1c8df"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-5a580a"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-7c1a2f"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-3ff60c"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-e76e3c"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-e955a7"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-26360c"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-de4a28"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-f4542a"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-9fa56a"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-68497a"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-3b7656"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-eda208"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-d84734"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-69053e"
+    },
+    {
+      "work_slug": "unknown-kalpabuddha-d760dc",
+      "chapter_number": 3,
+      "paragraph_id": "p-b261f2"
+    }
+  ],
+  "duration_ms": 42701,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 62178,
+    "completion_tokens": 5562,
+    "total_tokens": 67740,
+    "cached_tokens": 21786,
+    "api_calls": 5,
+    "cost_usd": 0.0119487,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1916,
+        "completion_tokens": 791,
+        "total_tokens": 2707,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00049655
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2224,
+        "completion_tokens": 709,
+        "total_tokens": 2933,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007768
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 7615,
+        "completion_tokens": 738,
+        "total_tokens": 8353,
+        "cached_tokens": 2219,
+        "cost_usd": 0.00155915
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "compare_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9931,
+        "completion_tokens": 867,
+        "total_tokens": 10798,
+        "cached_tokens": 7610,
+        "cost_usd": 0.0012782
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki_full",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 40492,
+        "completion_tokens": 2457,
+        "total_tokens": 42949,
+        "cached_tokens": 9926,
+        "cost_usd": 0.007838
+      }
+    ]
+  }
+}

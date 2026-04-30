@@ -1,0 +1,265 @@
+{
+  "answer": "**Charles Comte's *Traité de la propriété* (Vol. I)**\n\nComte's foundational statement on land ownership appears in his discussion of occupation (*occupation des choses*) as the origin of property rights. Unowned things—including land initially without a master (*chose... n'a point eu de maîtres*)—become the exclusive property of the first person who seizes them with intent to appropriate, as this aligns with natural expectations and utility without harming others.[^1] He extends this to land specifically in treating the conversion of national territory into private holdings: by cultivation, individuals transform common uncultivated soil into private property, creating value through labor without usurping from others (in fact, increasing communal wealth by concentrating production).[^2]\n\nComte's metaphysical assumption treats soil as initially *res nullius* (belonging to no one), external to the person and valueless until related through individual liberty, labor, and need-fulfillment. The person-soil relation is instrumental and creative: human agency appropriates and improves the soil to maximize utility, grounding property in natural law derived from self-ownership and survival.[^3]\n\n**Viṣṇu Smṛti**\n\nThis work does not contain an explicit foundational statement on land ownership equivalent to Comte's treatment of occupation or cultivation as the origin of title. It addresses property inheritance (e.g., paternal estate division among sons per varṇa rules) and implies land as heritable wealth, but lacks discourse on initial acquisition or metaphysical origins of land rights.[^4] Ownership appears embedded in dharma, family, and royal oversight (e.g., king's protection of kingdom/property), without unique theorizing on soil.[^5] Searches for land/soil/territory with ownership/property/king/grant yielded no direct hits in this text.\n\nNo distinct metaphysical assumption on person-soil relation can be identified; property (likely including land) is dharmically allocated via lineage and caste, presupposing communal/royal sovereignty rather than individual origination.\n\n[^1]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-8094b8).\n\n[^2]: Charles Comte, *Traité de la propriété*, [chapter](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/10-de-la-conversion-du-territoire-national-en-proprie/translation/).\n\n[^3]: Charles Comte, *Traité de la propriété*, [paragraph](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/#p-0fc9ed).\n\n[^4]: *Viṣṇu Smṛti*, [chapter](/works/unknown-visnu-smrti-27f0d8/17/translation/).\n\n[^5]: *Viṣṇu Smṛti*, [chapter](/works/unknown-visnu-smrti-27f0d8/03/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ownership of land\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"property\" land"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vishnu Smriti"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"land\" property owner"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "soil property"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ownership\" land OR earth OR soil OR territory"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.9\\nprose · 36¶ · 4449w · vocab 802 (TTR 38%, hapax 54%)\\n\\n## Distinctive trigrams\\n\\\"square league terrain\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.4\\nprose · 33¶ · 4189w · vocab 870 (TTR 46%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"possession thing master"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"land\" OR \"soil\" OR \"earth\" OR \"territory\" OR \"ground\" property OR ownership OR owner",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 10
+      },
+      "result_summary": "Read ch.10 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"land\" OR \"field\" OR \"soil\" OR \"earth\" OR \"ground\" OR \"plot\" OR \"territory\" (property OR own OR ownership OR king OR grant)",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 17
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.17\\nverse · 24¶ · 415w · vocab 91 (TTR 46%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"vi_17 his absence\\\" · \\\"his absence goes\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.3\\nverse · 99¶ · 1569w · vocab 391 (TTR 53%, hapax 75%)\\n\\n## Distinctive trigrams\\n\\\"villages vi_3 superintendents\\\" · \\\"unabl"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 10,
+      "paragraph_id": "p-8094b8"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 10,
+      "paragraph_id": "p-0fc9ed"
+    }
+  ],
+  "duration_ms": 56214,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 88096,
+    "completion_tokens": 5404,
+    "total_tokens": 93500,
+    "cached_tokens": 32670,
+    "api_calls": 5,
+    "cost_usd": 0.015420699999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1929,
+        "completion_tokens": 720,
+        "total_tokens": 2649,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004635
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2839,
+        "completion_tokens": 997,
+        "total_tokens": 3836,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010438
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 14615,
+        "completion_tokens": 761,
+        "total_tokens": 15376,
+        "cached_tokens": 2834,
+        "cost_usd": 0.0028784
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 25928,
+        "completion_tokens": 1380,
+        "total_tokens": 27308,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00559345
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 42785,
+        "completion_tokens": 1546,
+        "total_tokens": 44331,
+        "cached_tokens": 25923,
+        "cost_usd": 0.00544155
+      }
+    ]
+  }
+}

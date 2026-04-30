@@ -1,0 +1,180 @@
+{
+  "answer": "The closing couplet (maqta) of chapter 239 of *Diwan-E-Ghalib* is:\n\n> From the unseen, these thoughts into my mind are thrown:  \n> O Ghalib, for my scratching pen makes known  \n> An angel's voice, in its own sacred tone.[^1]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/239-zulmat-kade-mein-mere-shab-e-gham-ka-josh-hai/translation/#p-3e8f37).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Diwan-e-Ghalib"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 239
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 239-zulmat-kade-mein-mere-shab-e-gham-ka-josh-hai.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 239,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.239 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 239,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.239 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 239,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.239 of mirza-ghalib-diwan-e-ghalib-74ed4c (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 239,
+        "paragraph_ids": [
+          "p-3e8f37"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 239,
+        "paragraph_ids": [
+          "p-08d3fe"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 239,
+        "paragraph_ids": [
+          "p-b13a2a"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 239,
+      "paragraph_id": "p-3e8f37"
+    }
+  ],
+  "duration_ms": 55395,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 41101,
+    "completion_tokens": 5328,
+    "total_tokens": 46429,
+    "cached_tokens": 31262,
+    "api_calls": 5,
+    "cost_usd": 0.0061949,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 714,
+        "total_tokens": 2616,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00045525
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8134,
+        "completion_tokens": 254,
+        "total_tokens": 8388,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00147165
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 8270,
+        "completion_tokens": 687,
+        "total_tokens": 8957,
+        "cached_tokens": 8129,
+        "cost_usd": 0.00077815
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 11111,
+        "completion_tokens": 1412,
+        "total_tokens": 12523,
+        "cached_tokens": 8265,
+        "cost_usd": 0.00168845
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 11684,
+        "completion_tokens": 2261,
+        "total_tokens": 13945,
+        "cached_tokens": 11106,
+        "cost_usd": 0.0018014
+      }
+    ]
+  }
+}

@@ -1,0 +1,329 @@
+{
+  "answer": "**In the Bṛhaspati Smṛti, 'lekhya'—translated here as \"document\" or \"written document\"—refers to a formal written instrument serving as legal proof in disputes, particularly those involving debts, property transactions, partitions, gifts, sales, pledges, and related matters.**[^1][^2] It is one of three primary kinds of *human proof* (alongside witnesses and possession/inference), distinct from *divine proof* (ordeals).[^3] Bṛhaspati dedicates section 1.6 to its rules, defining a valid document (*lekha*) as one recording the custom of the country, date (year, month, etc.), interest (if applicable), and signatures of the debtor, witnesses, and scribe.[^4] Documents come in types like royal charters, partition deeds, gifts, sales, mortgages, compacts, bonds of servitude, loans, and victory documents (recording court decisions).[^5] They must avoid flaws like forgery, improper witnesses/scribes, poor condition, or coercion.[^6]\n\n**'Lekhya' differs from *sakṣya* (\"testimony,\" from witnesses) as one form of proof yields to another based on availability and doubt:** Human proofs are prioritized over divine ones; if a document exists, neither witnesses nor ordeals are needed.[^7] Doubt in a document (or witness testimony) requires an ordeal for clarification.[^8] Witnesses (*sakṣin*)—detailed in section 1.5—are oral testifiers (up to 12 kinds, e.g., subscribed, concealed, kinsmen), unsuitable if wicked (thieves, etc.).[^9] Thus, *lekhya* is fixed, enduring written evidence (surviving dead witnesses/time), while *sakṣya* is living, spoken evidence, potentially conflicting or forgettable.\n\nThe term *lekhya* itself appears in related Smṛtis (e.g., Viṣṇu Smṛti 7.1), but Bṛhaspati's focus aligns terminologically and substantively.[^10]\n\n[^1]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-510297).\n\n[^2]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-c9cb41).\n\n[^3]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-44a57a).\n\n[^4]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-dc2d5a).\n\n[^5]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-f172b3) (intro to documents); rules elaborated in subsequent paragraphs (e.g., p-213342 onward).\n\n[^6]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-bbce9d).\n\n[^7]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-44a57a).\n\n[^8]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-b5ea9a).\n\n[^9]: Bṛhaspati Smṛti, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-5a2654).\n\n[^10]: The exact Sanskrit *lekhya*/*lekha* is not rendered in this translation but contextually matches; cf. Viṣṇu Smṛti, Chapter 7, [paragraph](/works/unknown-visnu-smrti-27f0d8/07/translation/#p-510625).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brhaspati",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lekhya",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sakshya",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"writing as evidence\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lekhya\" sakshya"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "brhaspati"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "bhaspati"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"witness\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "testimony",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bṛhaspati Smṛti · ch.1\\nprose · 1220¶ · 32934w · vocab 2880 (TTR 19%, hapax 44%)\\n\\n## Distinctive trigrams\\n\\\"plea former judgment\\\" · \\\"made pa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "document",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"written document\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bṛhaspati Smṛti · ch.1\\nprose · 1220¶ · 32934w · vocab 2880 (TTR 19%, hapax 44%)\\n\\n## Distinctive trigrams\\n\\\"plea former judgment\\\" · \\\"made pa"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lekhya",
+        "limit": 5
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-510297",
+          "p-c9cb41",
+          "p-f172b3",
+          "p-bbce9d",
+          "p-dc2d5a",
+          "p-44a57a",
+          "p-b5ea9a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 7 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-5a2654"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-510297"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-c9cb41"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-44a57a"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-dc2d5a"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-f172b3"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-213342"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-bbce9d"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-b5ea9a"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-5a2654"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-510625"
+    }
+  ],
+  "duration_ms": 59491,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 158063,
+    "completion_tokens": 5501,
+    "total_tokens": 163564,
+    "cached_tokens": 87248,
+    "api_calls": 6,
+    "cost_usd": 0.0212759,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1916,
+        "completion_tokens": 551,
+        "total_tokens": 2467,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0003761
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2435,
+        "completion_tokens": 823,
+        "total_tokens": 3258,
+        "cached_tokens": 150,
+        "cost_usd": 0.000876
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4681,
+        "completion_tokens": 1011,
+        "total_tokens": 5692,
+        "cached_tokens": 2430,
+        "cost_usd": 0.0010772
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7941,
+        "completion_tokens": 544,
+        "total_tokens": 8485,
+        "cached_tokens": 4676,
+        "cost_usd": 0.0011588
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki_full",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 70177,
+        "completion_tokens": 947,
+        "total_tokens": 71124,
+        "cached_tokens": 7936,
+        "cost_usd": 0.0133185
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 70913,
+        "completion_tokens": 1625,
+        "total_tokens": 72538,
+        "cached_tokens": 70172,
+        "cost_usd": 0.0044693
+      }
+    ]
+  }
+}

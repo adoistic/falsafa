@@ -1,0 +1,226 @@
+{
+  "answer": "Iqbal's *Bang-e-Dara* indeed features distinct poems titled \"Insaan\" (\"Man\" or \"The Human Being\") in Part 2 (chapter 14) and Part 3 (chapter 12), reflecting contrasting tones on human existence.[^1][^2]\n\nThe Part 2 poem adopts a pessimistic outlook, portraying humanity as uniquely tormented—an enigma hidden from itself amid a creation where everything else revels in its own nature. It opens with the \"strange tyranny\" of creation making Man a riddle concealed from his gaze, restless yet unable to grasp life's mystery.[^3] The poem culminates in Man's isolation: \"There is no one to share the sorrow of Man; / How bitter is the existence of Man!\"[^4] This emphasizes existential bitterness and alienation, contrasting nature's harmonious self-fulfillment (e.g., stars drunk on fate, the sun finding rest).[^5]\n\nIn contrast, the Part 3 poem presents a prouder, more dynamic vision of human potential, depicting Man not as passive but as a force of striving and transformation. Humanity's powers \"are aflame with striving,\" yearning for vastness—like \"a desert contracted to a point.\"[^6] It closes triumphantly: \"If it so chooses, it can change the very form of the garden; / This being is wise, is perceptive, is potent.\"[^7] Here, Man transcends the garden's scenes, embodying wisdom and agency against a backdrop of submissive nature.[^8]\n\nThese differences highlight Iqbal's evolving emphasis: lamenting human anguish in Part 2, while affirming empowered self-realization in Part 3.\n\n[^1]: *Bang-E-Dara Part 2*, ch. 14, [translation](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/).\n[^2]: *Bang-E-Dara Part 3*, ch. 12, [translation](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/).\n[^3]: *Bang-E-Dara Part 2*, ch. 14, [p-d7ec8e](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/#p-d7ec8e).\n[^4]: *Bang-E-Dara Part 2*, ch. 14, [p-62d764](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/#p-62d764).\n[^5]: *Bang-E-Dara Part 2*, ch. 14, [p-3ebd11–p-edc3e3](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-2-9bc58c/14-insaan/translation/#p-3ebd11).\n[^6]: *Bang-E-Dara Part 3*, ch. 12, [p-cb3c43–p-2697a9](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/#p-cb3c43).\n[^7]: *Bang-E-Dara Part 3*, ch. 12, [p-587d8c](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/#p-587d8c).\n[^8]: *Bang-E-Dara Part 3*, ch. 12, [p-59c22a](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/12-insaan/translation/#p-59c22a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Insaan",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Insaan\" part 3",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 14-insaan.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-2-9bc58c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: high\\n---\\n\\n# Bang-E-Dara Part 3 · ch.12\\nverse · 6¶ · 100w · vocab 45 (TTR 94%, hapax 93%)\\n\\n## Distinctive trigrams\\n\\\"human scenes garden\\\" · \\\"scenes garde"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.14 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 14
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki full missing: 14-insaan.full.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-2-9bc58c"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 12,
+      "paragraph_id": "p-d7ec8e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 12,
+      "paragraph_id": "p-62d764"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 12,
+      "paragraph_id": "p-3ebd11"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 12,
+      "paragraph_id": "p-edc3e3"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 12,
+      "paragraph_id": "p-cb3c43"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 12,
+      "paragraph_id": "p-2697a9"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 12,
+      "paragraph_id": "p-587d8c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 12,
+      "paragraph_id": "p-59c22a"
+    }
+  ],
+  "duration_ms": 40949,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 50284,
+    "completion_tokens": 4740,
+    "total_tokens": 55024,
+    "cached_tokens": 33796,
+    "api_calls": 5,
+    "cost_usd": 0.007357400000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1924,
+        "completion_tokens": 790,
+        "total_tokens": 2714,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007573
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6862,
+        "completion_tokens": 944,
+        "total_tokens": 7806,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018219
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13087,
+        "completion_tokens": 550,
+        "total_tokens": 13637,
+        "cached_tokens": 6857,
+        "cost_usd": 0.00186385
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 13562,
+        "completion_tokens": 519,
+        "total_tokens": 14081,
+        "cached_tokens": 13082,
+        "cost_usd": 0.0010096
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 14849,
+        "completion_tokens": 1937,
+        "total_tokens": 16786,
+        "cached_tokens": 13557,
+        "cost_usd": 0.00190475
+      }
+    ]
+  }
+}

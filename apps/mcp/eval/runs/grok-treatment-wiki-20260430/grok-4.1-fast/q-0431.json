@@ -1,0 +1,172 @@
+{
+  "answer": "**No works in the Falsafa corpus employ allegorical fables in the style of animals (e.g., fox, lion, or other beasts) engaging in stories or dialogues to convey explicit moral lessons, such as those found in Aesop's Fables, the Panchatantra, or La Fontaine.**\n\nThe corpus (37 works, primarily Sanskrit Smṛtis, Old English poetry, Urdu ghazals, and French political theory) contains scattered references to animals in proverbial, metaphorical, legal, or rebirth contexts—but none structure narratives around animal characters delivering morals:\n\n- **Sanskrit Smṛtis** (e.g., *Manusmṛti*, *Āṅgirasa Smṛti*, *Nārada Smṛti*) list animals (wolf, jackal, lion, elephant) in rules for penances, omens, rebirth, or herding liability, often as metaphors for behavior (e.g., \"show his valor like a lion; he should snatch like a wolf\").[^1][^2] These are didactic but not allegorical fables.\n- **Urdu poetry** (*Diwan-E-Ghalib*, *Bang-E-Dara*, *Diwan-E-Zauq*) uses \"fable\" or fabled motifs (e.g., Jamshid's cup) poetically, not as beast tales.[^3]\n- **French theory** (*Traité de la propriété*) references La Fontaine's fables illustratively (e.g., literary property rights), without including them.[^4]\n- **Other mentions** (e.g., *Kunjarakarna Dharmakathana*, titled after \"elephant-ear,\" a Javanese Buddhist tale) use animals proverbially (\"jackals... desire excrement\") or descriptively, lacking moral-bearing animal allegories.[^5]\n\nNo chapters match fable-like patterns (e.g., \"said the fox,\" \"moral of the story,\" animal dialogues). The corpus emphasizes philosophy, law, poetry, and hagiography over beast fables. If future additions include such works, this could change.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fable",
+        "limit": 20
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the fox\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"said the fox\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral\" fable",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "animals moral",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fox",
+        "limit": 10
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lion",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wolf",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jackal",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "elephant",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parable animal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral of the story\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"markdown\":\"# Kunjarakarna Dharmakathana\\nMpu Dusun · Medieval · kawi · prose · 1 chapters · 17,973 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homage feet lord\\\" · \\\""
+    }
+  ],
+  "citations": [],
+  "duration_ms": 25223,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 22936,
+    "completion_tokens": 2740,
+    "total_tokens": 25676,
+    "cached_tokens": 9287,
+    "api_calls": 3,
+    "cost_usd": 0.0045641499999999995,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 720,
+        "total_tokens": 2621,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0004573
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7256,
+        "completion_tokens": 984,
+        "total_tokens": 8240,
+        "cached_tokens": 150,
+        "cost_usd": 0.0019207
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 13779,
+        "completion_tokens": 1036,
+        "total_tokens": 14815,
+        "cached_tokens": 7251,
+        "cost_usd": 0.00218615
+      }
+    ]
+  }
+}

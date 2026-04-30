@@ -1,0 +1,327 @@
+{
+  "answer": "**Ghalib's most doubt-saturated couplet** appears in the *maqta* (signature verse) of his opening ghazal, where he skewers his own ostensible piety with radical skepticism about the very possibility of faithful prayer or vows—metaphysical and theological doubt at its most personal and corrosive.[^1]\n\n> You've sworn an oath, O Ghalib, to give up the wine,  \n> But in your vow, the faith of any prayer is not there.\n\nThis distills Ghalib's signature: even a sworn oath to God (or sobriety as metaphor for spiritual resolve) lacks any \"faith\" (*aitbaar*), rendering prayer an empty ritual, powerless against inner truth.\n\n**Iqbal's most conviction-saturated verse**, embodying *khudi* (selfhood as eternal, defiant essence), comes from the speaking star in \"Subah Ka Sitara\" (Morning Star). Here, the star rejects cosmic servitude for a \"true life\" beyond death's grip—a bold assertion of self-realization transcending mortality, fate, or divine decree.[^2]\n\n> True life is that which knows not Death's decree;  \n> What life is this, where Death demands its fee?\n\nThis captures Iqbal's *khudi*: unyielding self-conviction, where the ego (*khudi*) surges against annihilation, demanding authentic existence over illusory cycles. (Note: *khudi* appears in the corpus's Urdu originals/transliterations across Iqbal's works, rendered here via conceptual fidelity in translation; direct English hits are sparse due to poetic variance.)\n\n**Cross-over potential on a \"difficult day\"?** Plausibly yes, with caveats from their signatures. Ghalib, amid chronic romantic/metaphysical despair (e.g., prayer as futile \"spell\" vs. human quest[^3]), might pen Iqbal's defiant *khudi*-affirmation as a desperate grasp for self amid ruin—like his own fevered pleas to the \"Lord\" for Khizr's longevity. Iqbal, whose conviction often confronts decline (e.g., *Shikwa*'s bold grievance to God amid Muslim \"poverty\"),[^4] could voice Ghalib's prayerless doubt as a momentary eclipse of *khudi*, steeling resolve through admitted frailty. Yet their cores diverge: Ghalib's doubt erodes faith irretrievably; Iqbal's conviction rebuilds it via self-assertion. A \"difficult day\" might blur lines, but neither fully inhabits the other's register.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [ch. 1, paragraph p-4304e1](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/01-aa-ke-meri-jaan-ko-qarar-nahin-hai/translation/#p-4304e1).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, [ch. 42, paragraph p-e76893](/works/allama-iqbal-bang-e-dara-part-1-55b25c/42-subah-ka-sitara/translation/#p-e76893).\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, [ch. 68, paragraph p-018190](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/68-hareef-e-matlab-e-mushkil-nahin-fusoon-e-niyaaz/translation/#p-018190).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, [ch. 20](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mohammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "iqbal"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"doubt\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"khudi\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self\" iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"faith\" iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"doubt\" ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "god ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "god iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "faith ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "faith iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lord ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"o lord\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "khuda"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self\" iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 68
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.68\\nverse · 10¶ · 196w · vocab 103 (TTR 92%, hapax 93%)\\n\\n## Distinctive trigrams\\n\\\"spell prayer match\\\" · \\\"prayer match ard"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 68,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.68 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 42,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.42 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.20 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self\" OR \"ego\" OR \"khudi\" OR \"selfhood\" iqbal"
+      },
+      "result_summary": "Found 27 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 42
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.42\\nverse · 20¶ · 339w · vocab 161 (TTR 88%, hapax 88%)\\n\\n## Distinctive trigrams\\n\\\"joy sun moon\\\" · \\\"sun moon forsake\\\""
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-4304e1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-e76893"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-018190"
+    }
+  ],
+  "duration_ms": 62284,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 84371,
+    "completion_tokens": 6794,
+    "total_tokens": 91165,
+    "cached_tokens": 52452,
+    "api_calls": 5,
+    "cost_usd": 0.012403400000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1946,
+        "completion_tokens": 576,
+        "total_tokens": 2522,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00039505
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12694,
+        "completion_tokens": 1108,
+        "total_tokens": 13802,
+        "cached_tokens": 150,
+        "cost_usd": 0.0030703
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 16200,
+        "completion_tokens": 1715,
+        "total_tokens": 17915,
+        "cached_tokens": 12689,
+        "cost_usd": 0.00219415
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 21542,
+        "completion_tokens": 1395,
+        "total_tokens": 22937,
+        "cached_tokens": 16195,
+        "cost_usd": 0.00257665
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 31989,
+        "completion_tokens": 2000,
+        "total_tokens": 33989,
+        "cached_tokens": 21537,
+        "cost_usd": 0.00416725
+      }
+    ]
+  }
+}

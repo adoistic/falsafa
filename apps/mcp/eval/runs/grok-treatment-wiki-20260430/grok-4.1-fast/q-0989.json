@@ -1,0 +1,354 @@
+{
+  "answer": "In *The Wanderer*, the speaker surveys the ruins of a once-great hall and mourns the vanished world of comradeship and glory: \"Where has the horse gone? Where has the warrior gone? Where the treasure-giver? / Where have the feast-benches gone? Where are the hall-joys? / Alas, the bright cup! Alas, the mailed warrior! / Alas, the prince's pride! How that time has passed, / grown dark under night's helm, as if it never were!\"[^1]\n\nGhalib captures a kindred vertigo of outliving faded splendor in his ghazal on domestic decay: \"A wild green sprouts from door and wall, O Ghalib, / I'm in the wilds, and ruin is the spring at home.\"[^2]\n\nThe Wanderer's speaker dwells deeper in despair amid the rubble—heavy with raw grief for kinsmen slain, halls crumbled, and a world drooping into emptiness—but ultimately finds stoic consolation in earthly wisdom (\"A wise man must be patient\") and heavenly grace (\"Well is it for him who seeks... comfort from the Father in heaven\").[^3] Ghalib, by contrast, has made his peace with mutability: his ruins bloom ironically with new life, and life's childish pageant rolls on unabated, savored through wine, wordplay, and defiant acceptance rather than lament.[^4]\n\n[^1]: *Old English Elegies*, ch. 11 \"The Wanderer\" (/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 237 \"ug raha hai dar-o-deewaar se sabzah Ghalib\" (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/237-ug-raha-hai-dar-o-deewaar-se-sabzah-ghalib/translation/#p-45d6bf).\n\n[^3]: *Old English Elegies*, ch. 11 \"The Wanderer\" (/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-5bdc65).\n\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 213 \"baazeecha-e-atfaal hai duniya mere aage\" (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/213-baazeecha-e-atfaal-hai-duniya-mere-aage/translation/#p-3132be).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "where horse rider treasure gone",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"The Wanderer\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wanderer",
+        "limit": 10
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "horse rider treasure",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old_english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Literature"
+      },
+      "result_summary": "Listed 9 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": ""
+      },
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"outlived\" OR ruins OR \"friends gone\" OR \"hall empty\" OR \"where are\" Ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghazal outlive OR survive OR \"left alone\" OR \"all gone\" OR ruin",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "limit": 10
+      },
+      "result_summary": "Found 10 related"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ruin\" OR \"ruins\" OR \"desert\" OR \"empty hall\" OR \"alone\" OR \"outlive\" OR \"survived\" OR \"world empty\" OR \"friends\" \"gone\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"where is\" OR \"where have\" OR \"alas\" Ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "9462cc"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "5bdc65"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 213,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.213 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 237,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.237 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 177,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.177 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 214,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.214 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 203,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.203 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 203,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 203,
+      "paragraph_id": "p-45d6bf"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 203,
+      "paragraph_id": "p-5bdc65"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 203,
+      "paragraph_id": "p-3132be"
+    }
+  ],
+  "duration_ms": 61390,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 129668,
+    "completion_tokens": 7487,
+    "total_tokens": 137155,
+    "cached_tokens": 82529,
+    "api_calls": 6,
+    "cost_usd": 0.01729775,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1949,
+        "completion_tokens": 634,
+        "total_tokens": 2583,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00042465
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 4205,
+        "completion_tokens": 825,
+        "total_tokens": 5030,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00097135
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 10142,
+        "completion_tokens": 679,
+        "total_tokens": 10821,
+        "cached_tokens": 4200,
+        "cost_usd": 0.0017379
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 19120,
+        "completion_tokens": 1315,
+        "total_tokens": 20435,
+        "cached_tokens": 10137,
+        "cost_usd": 0.00296095
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "find_related",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 45320,
+        "completion_tokens": 2498,
+        "total_tokens": 47818,
+        "cached_tokens": 19115,
+        "cost_usd": 0.00744575
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 48932,
+        "completion_tokens": 1536,
+        "total_tokens": 50468,
+        "cached_tokens": 45315,
+        "cost_usd": 0.00375715
+      }
+    ]
+  }
+}

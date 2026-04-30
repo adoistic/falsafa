@@ -1,0 +1,212 @@
+{
+  "answer": "**No works in the Falsafa corpus directly address the question of how language defines a community.**\n\nExtensive searches across the English translations for key phrases and concepts—\"language community,\" \"common language\" community, \"language defines community,\" \"language\" \"nation,\" \"speech community,\" \"language\" people/nation, \"common language,\" \"mother tongue,\" plus broader terms like \"language,\" \"tongue,\" and \"speech\"—yielded no relevant philosophical discussions.[^1][^2][^3][^4]\n\nMentions of \"language,\" \"tongue,\" or \"speech\" appear sporadically, but only in literal (e.g., \"foreign-tongued\" strangers in *Andreas*), punitive (e.g., cutting off a tongue in *Āṅgirasa Smṛti*), or poetic/metaphorical senses (e.g., \"tongue of the pen\" in Iqbal's *Bang-E-Dara*).[^5][^6][^7] None explore language as constitutive of communal identity, such as in nationalism, ethnicity, or social cohesion (e.g., Herderian ideas, absent here).\n\nThe corpus (37 works: Old English poetry, Urdu ghazals, Sanskrit smṛtis/dharmaśāstras, French liberal theory on property/legislation/economy, Fichte on thought-freedom) prioritizes theology, law, property rights, and poetics over linguistics or sociolinguistics.[^8] Works touching \"national\" or \"communal\" levels (e.g., Comte's *Traité de la propriété*) discuss property/territory, not language.[^9]\n\nIf future additions cover this (e.g., Humboldt, Herder), it could change; currently, the corpus does not.\n\n[^1]: Multiple `search_corpus` results for direct phrases (all count: 0).\n[^2]: `search_corpus` \"language\"/\"tongue\"/\"speech\" (hits in poetry/narrative, no thematic depth).\n[^3]: `list_works` corpus overview confirms scope.\n[^4]: `read_wiki` on candidates like Fichte/Iqbal: no language-community links.\n[^5]: *Andreas*, Ch. 1, [p-6ba555](/works/cynewulf-andreas-07b573/01/translation/#p-6ba555).\n[^6]: *Āṅgirasa Smṛti*, Ch. 1, [p-667cc5](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-667cc5).\n[^7]: *Bang-E-Dara Part 1*, various (e.g., Ch. 6 [p-77da1e](/works/allama-iqbal-bang-e-dara-part-1-55b25c/06/translation/#p-77da1e)).\n[^8]: Full `list_works` metadata.\n[^9]: *Traité de la propriété* descriptions (Vols. I/II).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "language community",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"common language\" community",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "language defines community",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"language\" \"nation\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"speech community\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"language\" people",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"language\" nation",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"common language\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "language nation",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "language",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tongue",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "speech",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"mother tongue\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "{\"markdown\":\"# Zurückforderung der Denkfreiheit von den Fürsten Europens\\nJohann Gottlieb Fichte · Enlightenment · german · prose · 2 chapters · 10,652 words\\n\\n## Work-level distinctive trigrams (top"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-6ba555"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-667cc5"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-77da1e"
+    }
+  ],
+  "duration_ms": 30522,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 26079,
+    "completion_tokens": 3238,
+    "total_tokens": 29317,
+    "cached_tokens": 4393,
+    "api_calls": 4,
+    "cost_usd": 0.00617585,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 529,
+        "total_tokens": 2430,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00036165
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2211,
+        "completion_tokens": 509,
+        "total_tokens": 2720,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006742
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5774,
+        "completion_tokens": 957,
+        "total_tokens": 6731,
+        "cached_tokens": 2206,
+        "cost_usd": 0.0013024
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 16193,
+        "completion_tokens": 1243,
+        "total_tokens": 17436,
+        "cached_tokens": 150,
+        "cost_usd": 0.0038376
+      }
+    ]
+  }
+}

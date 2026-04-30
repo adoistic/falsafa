@@ -1,0 +1,611 @@
+{
+  "answer": "**Several works in the corpus reflect on labor or work proper to humans, often in the context of social duties, productive activity, or distinction from natural forces or non-human production. The most direct discussions appear in ancient Indic *smṛti* texts (law codes) prescribing occupations (*vrtti* or *dharma*) by social class (*varṇa*), and in 19th-century French liberal economic treatises distinguishing human labor (*travail*, *industrie*) as essential for creating value.**\n\n### Indic *Smṛti* Texts (Proper Occupations by *Varṇa*)\nThese texts systematically outline what work is fitting for humans based on birth, aptitude, and cosmic order, with prohibitions on crossing class lines except in necessity. Chapter 10 of *Manusmṛti* is the most explicit and extensive treatment.[^1][^2]\n\n- **Manusmṛti** (*Laws of Manu*, ch. 10): Declares the duties of the four *varṇas* (Brāhmaṇa, Kṣatriya, Vaiśya, Śūdra) and mixed castes. Brāhmaṇas teach/study Vedas (primary), then warrior duties if needed; Vaiśyas tend cattle/trade; Śūdras serve. \"Abiding in their own duties\" (*svadharma*) is key; deviation risks degradation.[^3] Work is proper when aligned with one's class to uphold *dharma*.[^4]\n\nSimilar rules appear in other *smṛti*s, though less comprehensively:\n\n- **Yājñavalkya Smṛti** (ch. 1): Discusses *varṇa* duties implicitly in inheritance, marriage, and law, prioritizing class-proper roles.[^5]\n\nOther *smṛti*s (*e.g.*, Kātyāyana, Nārada, Paraśara) touch on *varṇa*-specific penalties and roles but lack dedicated chapters like Manusmṛti's.[^6]\n\n### French Economic Treatises (Human Labor as Productive/Distinctive)\nThese Enlightenment/19th-c. works philosophize labor as inherently human—combining will, skill, and foresight—versus animal instinct or inert nature. Proper human work advances liberty, property, and society.\n\n- **Traité de la propriété (Charles Comte, both vols.)**: Goods \"exist only by means of human labor\"; slave societies \"debase human labor.\" Labor proper to humans creates utility/property from nature.[^7][^8]\n\n- **Nouveau traité d'économie VOL II (Charles Dunoyer, ch. 14)**: Critiques economists excluding human maintenance from \"productive capital.\" Humans are \"the most precious\" agents; proper labor reproduces forces for societal good, unlike \"null\" idlers.[^9] Nature aids but requires human direction.[^10]\n\nNo works frame it as uniquely distinguishing humans from animals (searches for such yielded zero results). Poetry (*e.g.*, Cynewulf, Iqbal) and other genres lack sustained reflection.\n\n[^1]: *Manusmṛti*, [ch.10 overview](/works/unknown-manusmrti-347b76/10/translation/).\n[^2]: *Manusmṛti*, [work wiki](/works/unknown-manusmrti-347b76/wiki/_work.card.md) (distinctive: \"his own *varna*\", \"his own dharma\").\n[^3]: *Manusmṛti* ch.10, [p-b34355](/works/unknown-manusmrti-347b76/10/translation/#p-b34355).\n[^4]: *Manusmṛti* ch.10, [opening p-4999b4](/works/unknown-manusmrti-347b76/10/translation/#p-4999b4).\n[^5]: *Yājñavalkya Smṛti*, [work wiki](/works/unknown-yajnavalkya-smrti-cb88d6/wiki/_work.card.md).\n[^6]: *E.g.*, *Kātyāyana Smṛti* ch.63 (nearest to Manusmṛti ch.10 per wiki).\n[^7]: *Traité de la propriété VOL I* ch.5, [p-4ec7ba](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/05-de-lappropriation-des-choses-en-general/translation/#p-4ec7ba).\n[^8]: *Traité de Législation VOL IV* ch.17, [p-807487](/works/charles-comte-traite-de-legislation-vol-iv-bca040/17-de-l-influence-qu-exercent-les-peuples-possesseurs/translation/#p-807487).\n[^9]: *Nouveau traité d'économie VOL II* ch.14, [wiki key passage p-803317](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/14-iv-des-conditions-auxquelles-toute-industrie-peut-/wiki/14-iv-des-conditions-auxquelles-toute-industrie-peut-.card.md).\n[^10]: *Nouveau traité d'économie VOL II* ch.14, [p-6a59b3](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/14-iv-des-conditions-auxquelles-toute-industrie-peut-/translation/#p-6a59b3).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "labour proper to",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"work proper to\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"peculiar to man\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"human labour\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"man's work\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"labor proper\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "labor proper",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"proper to man\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "human labor",
+        "limit": 30
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"work of man\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"labour of man\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "man labours",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"animal labor\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"beast of burden\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"man differs from\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"distinguishes man\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "labor distinguishes",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"proper employment\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duty of man\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"human industry\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"man works\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"labour\" \"animal\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"work\" \"beast\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"toil\" \"beast\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"proper work\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "labour man",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "work man",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"man\" \"beasts\" labour",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"man\" \"animals\" work",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"human\" \"beast\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"distinction\" labour",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"function of man\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"proper duty\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"own duty\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duty of man\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"work of his class\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"occupation proper\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"svadharma\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"labor\" \"man\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"work\" \"man\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duties\" \"brahmin\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"occupation\" \"brahmin\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"svadharma\" OR \"sva-dharma\" OR \"own dharma\"",
+        "limit": 30
+      },
+      "result_summary": "Found 22 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duty\" \"class\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 10
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.10\\nverse · 132¶ · 3840w · vocab 764 (TTR 42%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"next lower caste\\\" · \\\"women next lower\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 14
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL II · ch.14\\nprose · 134¶ · 19047w · vocab 2544 (TTR 29%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"*treatise politica"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahman\" \"trade\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"duties\" \"varna\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-b34355"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-4999b4"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-4ec7ba"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-807487"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-803317"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-6a59b3"
+    }
+  ],
+  "duration_ms": 100912,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 72569,
+    "completion_tokens": 10632,
+    "total_tokens": 83201,
+    "cached_tokens": 55322,
+    "api_calls": 9,
+    "cost_usd": 0.0115315,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 785,
+        "total_tokens": 2689,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007508
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2277,
+        "completion_tokens": 799,
+        "total_tokens": 3076,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00057185
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6920,
+        "completion_tokens": 721,
+        "total_tokens": 7641,
+        "cached_tokens": 2272,
+        "cost_usd": 0.0014037
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7357,
+        "completion_tokens": 1184,
+        "total_tokens": 8541,
+        "cached_tokens": 6915,
+        "cost_usd": 0.00102615
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7742,
+        "completion_tokens": 949,
+        "total_tokens": 8691,
+        "cached_tokens": 7352,
+        "cost_usd": 0.0009201
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8130,
+        "completion_tokens": 1269,
+        "total_tokens": 9399,
+        "cached_tokens": 7737,
+        "cost_usd": 0.00109995
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8567,
+        "completion_tokens": 1348,
+        "total_tokens": 9915,
+        "cached_tokens": 8125,
+        "cost_usd": 0.00116865
+      },
+      {
+        "api_call_index": 8,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 12327,
+        "completion_tokens": 1524,
+        "total_tokens": 13851,
+        "cached_tokens": 8562,
+        "cost_usd": 0.0019431
+      },
+      {
+        "api_call_index": 9,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17345,
+        "completion_tokens": 2053,
+        "total_tokens": 19398,
+        "cached_tokens": 12322,
+        "cost_usd": 0.0026472
+      }
+    ]
+  }
+}

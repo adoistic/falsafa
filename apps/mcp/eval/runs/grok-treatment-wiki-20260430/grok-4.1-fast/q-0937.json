@@ -1,0 +1,279 @@
+{
+  "answer": "\"Jalwa-e-husn\" is an Urdu *izāfa* compound (using the connective *e-*, akin to Persian *ezāfe*), where *jalwa* denotes \"manifestation,\" \"appearance,\" \"splendor,\" or \"radiance,\" and *husn* means \"beauty.\" Together, they form a single semantic unit evoking the luminous, revelatory display of beauty—often idealized, transient, or transcendent in poetic contexts—rather than merely the sum of its parts.[^1] This compound recurs as both a title and a motif, extending into elaborated forms like *jalwa-e-husn-e-azal* (\"manifestation of eternal beauty\") and *jalwa-e-husn-e-ghayoor* (\"manifestation of jealous/proud beauty\"), tracing a thematic reach across Urdu ghazal and nazm from the 19th to early 20th centuries.\n\nIts primary instantiation is the title of Allama Iqbal's poem \"Jalwa-e-Husn\" (*Bang-E-Dara Part 2*, ch. 15), translated as \"The Splendor of Beauty,\" which opens the work and frames its meditation on an elusive, perfect beauty that stirs desire, transcends the ephemeral world, and aligns reason with emotion.[^2][^3] Iqbal extends the compound in *Bang-E-Dara Part 1*, ch. 33 (\"Mere\"), where the speaker (personified darkness) contrasts itself with the moon: *Mehv kar deta hai mujh ko jalwa-e-husn-e-azal* (\"[The sun's ray] intoxicates me with the manifestation of eternal beauty\"), positioning beauty's primal radiance as a divine, overwhelming vision beyond mortal perception.[^4]\n\nThe compound's reach predates Iqbal in Mirza Ghalib's *Diwan-E-Ghalib*, ch. 62, as *jalwa-e-husn-e-ghayoor* (\"your proud beauty's jealous grace\"), where beauty's splendor dominates the gaze, staining it with blood-like intensity amid rose-and-nightingale imagery: *Satwat se tere jalwa-e-husn-e-ghayoor ki / Khoon hai meri nigaah mein rang-e-adaa-e-gul* (\"Before the force of your proud beauty's jealous grace, / Its vibrant style appears as blood upon the rose\").[^5][^6] Here, it underscores beauty's possessive, destructive allure.\n\nNo further exact matches appear in the Falsafa corpus beyond these Iqbal and Ghalib instances; the compound's poetic unity lies in its evocation of beauty as a dynamic, almost theophanic event, common in Persianate Urdu but not exhaustively covered here.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jalwa-e-husn",
+        "limit": 10
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"manifestation of beauty\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jalwa e husn",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jalwa-e husn",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 15
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 2 · ch.15\\nverse · 6¶ · 81w · vocab 38 (TTR 88%, hapax 92%)\\n\\n## Distinctive trigrams\\n\\\"splendor beauty beauty\\\" · \\\"beauty beau"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 33
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 33-mere.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 62
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.62\\nverse · 11¶ · 228w · vocab 92 (TTR 77%, hapax 86%)\\n\\n## Distinctive trigrams\\n\\\"slain false grace\\\" · \\\"false grace ros"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 15,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-2-9bc58c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 33,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.33 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 33,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.33 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 62,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.62 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 62,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.62 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 15,
+        "paragraph_ids": [
+          "p-6fa85f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 15,
+        "paragraph_ids": [
+          "p-ae432d",
+          "p-9708d7"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 33,
+        "paragraph_ids": [
+          "p-24be43"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 62,
+        "paragraph_ids": [
+          "p-7d18c2"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 62,
+        "paragraph_range": {
+          "start": 5,
+          "end": 6
+        },
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"jalwa-e-husn\"",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 48712,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 29285,
+    "completion_tokens": 5597,
+    "total_tokens": 34882,
+    "cached_tokens": 20395,
+    "api_calls": 5,
+    "cost_usd": 0.0055962500000000005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1917,
+        "completion_tokens": 489,
+        "total_tokens": 2406,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00034575
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3068,
+        "completion_tokens": 686,
+        "total_tokens": 3754,
+        "cached_tokens": 1884,
+        "cost_usd": 0.000674
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4564,
+        "completion_tokens": 875,
+        "total_tokens": 5439,
+        "cached_tokens": 3063,
+        "cost_usd": 0.00089085
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 9013,
+        "completion_tokens": 2000,
+        "total_tokens": 11013,
+        "cached_tokens": 4559,
+        "cost_usd": 0.00211875
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10723,
+        "completion_tokens": 1547,
+        "total_tokens": 12270,
+        "cached_tokens": 9008,
+        "cost_usd": 0.0015669
+      }
+    ]
+  }
+}

@@ -1,0 +1,335 @@
+{
+  "answer": "### Manusmṛti's Account of the Four Āśramas\n\nThe *Manusmṛti* devotes Chapter 6 almost entirely to the āśramas (stages of life), beginning with the transition from householder (*gṛhastha*) to forest-dweller (*vānaprastha*), then to ascetic (*bhikṣu* or *sannyāsin*). The four are explicitly named as celibate student (*brahmacārin*), householder, forest-dweller, and ascetic, all originating from and supported by the householder.[^1] The chapter emphasizes sequential progression after fulfilling debts (study, progeny, sacrifice), with the householder as foundational.[^2]\n\n- **Celibate Student (*Brahmacārin*)**: Assumed prior (detailed in Ch. 2); transitions to householder after *snāna* (bathing rite).[^3]\n- **Householder (*Gṛhastha*)**: Second quarter of life; performs five great sacrifices, begets sons, supports others.[^4]\n- **Forest-Dweller (*Vānaprastha*)**: Third quarter (\"third part of his life\"); departs village upon seeing wrinkles/gray hair/child's child, lives on roots/fruits, maintains fires initially, practices austerities.[^5]\n- **Ascetic (*Sannyāsin*)**: Fourth quarter (\"fourth part of his life\"); renounces fires/objects, wanders alone begging alms, contemplates liberation (*mokṣa*); highest state via non-attachment.[^6]\n\nLife is divided into quarters, with clear temporal boundaries tied to lifespan progression.[^7]\n\n### Yājñavalkya Smṛti's Account of the Four Āśramas\n\nThe *Yājñavalkya Smṛti* treats the āśramas sequentially across chapters: student and householder in Ch. 1, forest-dweller and ascetic in Ch. 3 (under expiation/duties). The sequence mirrors Manu (student → householder → forest-dweller → ascetic), but duties are briefer, integrated into broader *dharma*.[^8]\n\n- **Celibate Student (*Brahmacārin*)**: 8th year (Brāhmaṇa) from conception/birth; studies Veda, begs alms, avoids meat/honey; ends ~16th year with *keśānta*.[^9]\n- **Householder (*Gṛhastha*)**: Daily *mahāyajñas*, hospitality, protects dependents; no explicit duration.[^10]\n- **Forest-Dweller (*Vānaprastha*)**: Entrusts wife to sons (or takes her); unploughed foods, three daily baths, austerities (five fires in summer, etc.); collections discarded in Āśvayuja.[^11]\n- **Ascetic (*Yati*)**: After *prājāpatya* sacrifice from house/forest; wanders with staff/pot, begs 8 mouthfuls, controls senses; contemplates body/transmigration.[^12]\n\nNo explicit lifespan quarters; progression after debts/rites, like Manu.\n\n### Comparison of Boundaries\n\nBoundaries align: same sequence without shift. Manu explicitly divides life into four parts (e.g., \"third part\" forest, \"fourth part\" ascetic), tying to physical signs (wrinkles, grandchildren).[^13] Yājñavalkya implies sequence via transitions (e.g., *upanayana* ages, post-sacrifice renunciation) but omits proportional lifespan divisions—no \"quarters\" or \"third/fourth part.\" No evidence Yājñavalkya \"shifts\" them; it condenses without altering order or prerequisites.[^14]\n\n[^1]: *Manusmṛti*, Ch. 6, [p-59814f](/works/unknown-manusmrti-347b76/06/translation/#p-59814f).  \n[^2]: *Manusmṛti*, Ch. 6, [p-a6e55e](/works/unknown-manusmrti-347b76/06/translation/#p-a6e55e).  \n[^3]: *Manusmṛti*, Ch. 6, [p-89d810](/works/unknown-manusmrti-347b76/06/translation/#p-89d810) (contextual transition).  \n[^4]: *Manusmṛti*, Ch. 6, [p-ed3d57](/works/unknown-manusmrti-347b76/06/translation/#p-ed3d57).  \n[^5]: *Manusmṛti*, Ch. 6, [p-89d810](/works/unknown-manusmrti-347b76/06/translation/#p-89d810) to [p-058b16](/works/unknown-manusmrti-347b76/06/translation/#p-058b16).  \n[^6]: *Manusmṛti*, Ch. 6, [p-ed3d57](/works/unknown-manusmrti-347b76/06/translation/#p-ed3d57).  \n[^7]: *Manusmṛti*, Ch. 6, [whole chapter](/works/unknown-manusmrti-347b76/06/translation/).  \n[^8]: *Yājñavalkya Smṛti*, Ch. 3, [p-d4adaa](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-d4adaa).  \n[^9]: *Yājñavalkya Smṛti*, Ch. 1, [p-546db5](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-546db5).  \n[^10]: *Yājñavalkya Smṛti*, Ch. 1, [p-a80877](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-a80877).  \n[^11]: *Yājñavalkya Smṛti*, Ch. 3, [p-d4adaa](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-d4adaa).  \n[^12]: *Yājñavalkya Smṛti*, Ch. 3, [p-eaf75a](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-eaf75a).  \n[^13]: *Manusmṛti*, Ch. 6, [p-89d810](/works/unknown-manusmrti-347b76/06/translation/#p-89d810).  \n[^14]: *Yājñavalkya Smṛti*, Ch. 3, [whole āśrama sections](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmasastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "four āśramas"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "āśrama"
+      },
+      "result_summary": "Found 21 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.6\\nverse · 34¶ · 6778w · vocab 1362 (TTR 40%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"ten days passed\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"āśramas\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"householder\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "vānaprastha"
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sannyāsin"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmacārin"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "gṛhastha"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.6\\nverse · 34¶ · 6778w · vocab 1362 (TTR 40%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"ten days passed\\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "four stages"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "āśramadharma"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-59814f"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-a6e55e"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-89d810"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-ed3d57"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-058b16"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-d4adaa"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-546db5"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-a80877"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-eaf75a"
+    }
+  ],
+  "duration_ms": 59935,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 123282,
+    "completion_tokens": 5590,
+    "total_tokens": 128872,
+    "cached_tokens": 44316,
+    "api_calls": 5,
+    "cost_usd": 0.020804,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1929,
+        "completion_tokens": 826,
+        "total_tokens": 2755,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007763
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4633,
+        "completion_tokens": 583,
+        "total_tokens": 5216,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011956
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15852,
+        "completion_tokens": 1054,
+        "total_tokens": 16906,
+        "cached_tokens": 150,
+        "cost_usd": 0.0036749
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 28024,
+        "completion_tokens": 939,
+        "total_tokens": 28963,
+        "cached_tokens": 15847,
+        "cost_usd": 0.00369725
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 72844,
+        "completion_tokens": 2188,
+        "total_tokens": 75032,
+        "cached_tokens": 28019,
+        "cost_usd": 0.01145995
+      }
+    ]
+  }
+}

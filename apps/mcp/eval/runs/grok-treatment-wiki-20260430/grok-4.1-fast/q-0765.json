@@ -1,0 +1,229 @@
+{
+  "answer": "**In Chapter 13 (\"III. Of the diverse orders of labors and functions that the industrial society embraces\") of *Nouveau traité d'économie: VOL II*, Charles Dunoyer sets out a classification of the diverse *ordres de travaux et de fonctions* (orders of labors/works and functions) that comprise industrial society.**[^1]\n\nHe rejects prior economists' distinctions between \"productive\" (material) and \"unproductive\" (immaterial/services) labors, arguing instead that *all useful labors are productive* because they produce durable *utilities* (even if the labor itself vanishes upon execution).[^2] He criticizes Adam Smith, Destutt de Tracy, Sismondi, Malthus, Mill, and especially Say for failing to distinguish labor from its accumulated results (e.g., health, knowledge, virtues fixed in persons).[^3]\n\n### Categories\nDunoyer identifies **two great classes** of *professions* (or *industries*, all honorable and essential with no natural hierarchy or subordination among them):[^4]\n1. **Industries that appropriate things to the needs of man** (those acting upon *physical nature/objects*, e.g., agriculture, manufacturing, which fix utilities in material things).[^5]\n2. **Industries exercised directly upon man** (those acting upon *persons*, e.g., doctors restoring health; teachers, artists, moralists developing intelligence/taste/imagination/morality; judges/gymnastics masters producing robust, virtuous citizens).[^6]\n\nThese exhaust the *travaux* (labors/works) of industrial society, excluding privileges, monopolies, or predatory acts (which destroy utility and thus fall outside true industry).[^7] No profession is inherently superior; all mutually depend on each other like bodily organs.[^8]\n\nHe adds **three non-industrial *fonctions* (functions)** essential to all labors (to be treated later): associating (forming partnerships), exchanging (buying/selling products), and bequeathing (transmitting fortunes upon death).[^9]\n\n### Principle\nThe classification rests on **the *subject* acted upon**: *things* (matter/objects) vs. *men* (persons), while all produce exchangeable, accumulable *utilities* for human needs. Industrial society includes *all useful professions* (minus injustice), not just material ones, with no privileged *ordres*.[^10]\n\nDunoyer plans subsequent chapters to detail liberty's conditions for each (e.g., manufacturing in Ch. 16, agriculture in Ch. 17, arts on men/education in Chs. 18–19), but Ch. 13 provides the foundational schema.[^11]\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, Ch. 13 (/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/).\n\n[^2]: Ibid., §§ 3–4 [p-3efbf3](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-3efbf3), [p-1708f9](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-1708f9).\n\n[^3]: Ibid., §§ 3–4 [p-ae8a20](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-ae8a20) to [p-c1b997](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-c1b997).\n\n[^4]: Ibid., § 7 [p-9c6111](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-9c6111).\n\n[^5]: Ibid., § 8 [p-50babc](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-50babc).\n\n[^6]: Ibid., §§ 4–5 [p-36b13b](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-36b13b), [p-a1cb96](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-a1cb96).\n\n[^7]: Ibid., §§ 5–7 [p-fb8d6b](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-fb8d6b) to [p-00a7ca](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-00a7ca).\n\n[^8]: Ibid., § 7 [p-9c6111](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-9c6111).\n\n[^9]: Ibid., § 8 [p-50babc](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-50babc) to [p-698bed](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-698bed).\n\n[^10]: Ibid., §§ 2, 7–8 [p-06b456](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-06b456), [p-9c6111](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/13-iii-des-divers-ordres-de-travaux-et-de-fonctions-q/translation/#p-9c6111).\n\n[^11]: Ibid., Ch. map in work wiki; subsequent chapters (14–19) apply general conditions of liberty.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ordres de travaux et de fonctions",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "Listed 7 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"orders of\" Dunoyer",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kinds of labour\" Dunoyer",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"classification\" Dunoyer orders OR works OR labors OR functions",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL II · ch.13\\nprose · 45¶ · 9942w · vocab 1631 (TTR 35%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"*traité économie pol"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 14
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL II · ch.14\\nprose · 134¶ · 19047w · vocab 2544 (TTR 29%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"*treatise politica"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-3efbf3"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-1708f9"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-ae8a20"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-c1b997"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-9c6111"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-50babc"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-36b13b"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-a1cb96"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-fb8d6b"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-00a7ca"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-698bed"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 13,
+      "paragraph_id": "p-06b456"
+    }
+  ],
+  "duration_ms": 41969,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 44329,
+    "completion_tokens": 4898,
+    "total_tokens": 49227,
+    "cached_tokens": 11578,
+    "api_calls": 5,
+    "cost_usd": 0.0095781,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1920,
+        "completion_tokens": 493,
+        "total_tokens": 2413,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00034835
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2431,
+        "completion_tokens": 576,
+        "total_tokens": 3007,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00049205
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5245,
+        "completion_tokens": 424,
+        "total_tokens": 5669,
+        "cached_tokens": 2426,
+        "cost_usd": 0.0008971
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10755,
+        "completion_tokens": 297,
+        "total_tokens": 11052,
+        "cached_tokens": 5240,
+        "cost_usd": 0.0015135
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 23978,
+        "completion_tokens": 3108,
+        "total_tokens": 27086,
+        "cached_tokens": 150,
+        "cost_usd": 0.0063271
+      }
+    ]
+  }
+}

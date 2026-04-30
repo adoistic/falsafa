@@ -1,0 +1,103 @@
+{
+  "answer": "**The Falsafa corpus does not contain a direct explanation or discussion of *parināma* (transformation or evolution) within any \"tattva texts\" (works focused on *tattva*, or metaphysical principles of reality).**\n\nSearches for \"parinama\", \"pariṇāma\", and related terms across English translations yield only two matches, both in the Buddhist-influenced *San Hyan Kamahayanikan* (ch. 1), where *pariṇāmaduḥkatā* refers to \"suffering-of-change\"—one of three kinds of suffering (*duḥkhatā*): suffering-of-suffering (*duḥkhaduḥkatā*), suffering-of-fabrication (*saṃskāraduḥkatā*), and suffering-of-change (*pariṇāmaduḥkatā*).[^1] This usage aligns with standard Mahāyāna Buddhist doctrine (e.g., impermanence leading to suffering) but is unrelated to *tattva* frameworks.\n\nThe corpus does include several works touching on *tattva* (principles of reality), primarily Old Javanese Śaiva texts:\n- *San Hyan Tattvajnana* (Divine Knowledge of Reality), which defines *tattvajñāna* as the root of all *tattvas*, distinguishing *cetana* (conscious, Śivatattva) from *acetana* (unconscious, Māyātattva).[^2]\n- *San Hyan Mahājñāna* (Sacred Supreme Wisdom), which invokes *tattva* repeatedly as ultimate reality, *oṃkāra*, or Śiva's essence.[^3]\n- *Gaṇapatitattva*, a brief text on Gaṇeśa-related purity and *tattva*.[^4]\n\nNo Sanskrit Śaiva Siddhānta, Kashmir Śaivite, or Sāṃkhya texts (e.g., on 36 *tattvas* or *parināma*-vāda vs. *vivarta*) appear to discuss *parināma* in a *tattva* context. The corpus's 37 works emphasize smṛti (e.g., *Manusmṛti*), Javanese tantric, and other Indic traditions but lack comprehensive coverage of this specific concept.\n\n[^1]: *San Hyan Kamahayanikan*, ch. 1 ([p-39e8bd](https://falsafa.corpus/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-39e8bd)).\n\n[^2]: *San Hyan Tattvajnana*, ch. 1 ([p-d53c24](https://falsafa.corpus/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-d53c24); [p-daaeef](https://falsafa.corpus/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-daaeef)).\n\n[^3]: *San Hyan Mahājñāna*, ch. 1 (multiple refs., e.g., [p-0f17df](https://falsafa.corpus/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-0f17df)).\n\n[^4]: *Gaṇapatitattva*, ch. 1 ([p-c23162](https://falsafa.corpus/works/unknown-ganapatitattva-66a136/01/translation/#p-c23162)).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "parinama",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pariṇāma",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tattva",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tattva texts\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-39e8bd"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-d53c24"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-daaeef"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-0f17df"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-c23162"
+    }
+  ],
+  "duration_ms": 27239,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 7289,
+    "completion_tokens": 3113,
+    "total_tokens": 10402,
+    "cached_tokens": 300,
+    "api_calls": 2,
+    "cost_usd": 0.0029693,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 493,
+        "total_tokens": 2397,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006048
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5385,
+        "completion_tokens": 2620,
+        "total_tokens": 8005,
+        "cached_tokens": 150,
+        "cost_usd": 0.0023645
+      }
+    ]
+  }
+}

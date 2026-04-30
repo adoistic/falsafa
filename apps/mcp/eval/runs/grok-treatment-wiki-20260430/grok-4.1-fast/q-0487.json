@@ -1,0 +1,361 @@
+{
+  "answer": "**Āṅgirasa Smṛti** presents liberation (*mukti*) as the goal achieved through supreme Vedic laws and scriptural injunctions (*codanā*) from the *Śruti*.[^1][^2]\n\n**Gaṇapatitattva** expounds a doctrine of supreme liberation in the contemplation of the Void beyond the Void, located in the heart as the secret abode of Sadāśiva.[^3]\n\n**Kunjarakarna Dharmakathana**, a Jain didactic narrative, extensively teaches *mokṣa* (release from rebirth) as the highest goal, attained via internal merit, vows, austerity, and destroying memory/thought as barriers.[^4]\n\n**Cynewulf's Andreas** depicts Christian salvation as divine rescue from sin and chains, promised by God to Andrew for heathens in Murrca.[^5]\n\n**Cynewulf's Elene** portrays salvation as a heavenly sign and token from the Lord of Hosts, guiding Constantine to victory and conversion.[^6]\n\n**Cynewulf's Juliana** discusses salvation in terms of resisting the devil's temptations to turn from the heavenly King.[^7]\n\n**Viṣṇu Smṛti** mentions salvation in contexts like rites for the deceased or outcastes.[^8]\n\nSeveral Old English Elegies and poetic works like *Bang-E-Dara* reference salvation poetically or exhortatively, but without systematic doctrines.[^9]\n\nNo works use \"mukti\" doctrinally (one poetic instance). Christian works emphasize eschatological salvation; Indic ones, release from saṃsāra.\n\n[^1]: Āṅgirasa Smṛti, Chapter 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-cc0903).\n\n[^2]: Āṅgirasa Smṛti, Chapter 1, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-07cb57).\n\n[^3]: Gaṇapatitattva, Chapter 1, [paragraph](/works/unknown-ganapatitattva-66a136/01/translation/#p-8f47c8).\n\n[^4]: Kunjarakarna Dharmakathana, Chapter 1, [paragraph](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-fd135e).\n\n[^5]: Andreas, Chapter 1, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-655ebf).\n\n[^6]: Elene, Chapter 1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-306e06).\n\n[^7]: Juliana, Chapter 1, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-bd327c).\n\n[^8]: Viṣṇu Smṛti, Chapter 16, [paragraph](/works/unknown-visnu-smrti-27f0d8/16/translation/#p-6f3612).\n\n[^9]: E.g., *Bang-E-Dara Part 1*, ch. 36, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/36-sach-keh-doon-ae-brahman-gar-tu-bura-na-maane/translation/#p-94fb2e).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "moksha",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "moksa",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mukti",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "salvation",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberation\" doctrine",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"path to liberation\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liberation",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mokṣa",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nirvana",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "samsara",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"final release\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "religious"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136"
+      },
+      "result_summary": "{\"markdown\":\"# Gaṇapatitattva\\nGaṇapati · Medieval · kawi · prose · 1 chapters · 10,190 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"īśvara spoke son\\\" · \\\"humble son p"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"markdown\":\"# Kunjarakarna Dharmakathana\\nMpu Dusun · Medieval · kawi · prose · 1 chapters · 17,973 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homage feet lord\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-cc0903"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-07cb57"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-8f47c8"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-fd135e"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-655ebf"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-306e06"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-cc0903"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-07cb57"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-8f47c8"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-fd135e"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-655ebf"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-306e06"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-bd327c"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-6f3612"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-94fb2e"
+    }
+  ],
+  "duration_ms": 47404,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 45406,
+    "completion_tokens": 5673,
+    "total_tokens": 51079,
+    "cached_tokens": 28120,
+    "api_calls": 5,
+    "cost_usd": 0.007699699999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 607,
+        "total_tokens": 2511,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006618
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4712,
+        "completion_tokens": 1286,
+        "total_tokens": 5998,
+        "cached_tokens": 150,
+        "cost_usd": 0.0015629
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 9157,
+        "completion_tokens": 1033,
+        "total_tokens": 10190,
+        "cached_tokens": 4707,
+        "cost_usd": 0.00164185
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 13966,
+        "completion_tokens": 1264,
+        "total_tokens": 15230,
+        "cached_tokens": 9152,
+        "cost_usd": 0.0020524
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 15667,
+        "completion_tokens": 1483,
+        "total_tokens": 17150,
+        "cached_tokens": 13961,
+        "cost_usd": 0.00178075
+      }
+    ]
+  }
+}

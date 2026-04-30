@@ -1,0 +1,159 @@
+{
+  "answer": "**No, Manusmṛti Chapter 9 does not state that a daughter inherits her father's estate directly if she has no brothers (i.e., if the father dies sonless).**[^1]\n\nInstead, the text prioritizes sons as primary heirs to the paternal estate.[^2] For a sonless man, the property passes to his father and brothers (or mother, then paternal grandmother).[^3][^4] Daughters receive limited provisions: brothers must allocate them one-quarter of each brother's share as *strīdhana* (women's property) from the partitioned estate,[^5] and an unmarried daughter inherits only her mother's *yautaka* (personal property given at marriage).[^6]\n\nHowever, a father *without sons* may formally appoint an unmarried daughter as a *putrikā* (\"appointed daughter\") to perpetuate his lineage: her future sons perform his ancestral rites (*śrāddha*) and inherit his estate.[^7] The text rhetorically equates a daughter to a son (\"a daughter is equal to a son\") while she lives, preventing others from claiming the wealth,[^8] but this enables her line (not her personally) to hold it—her son takes \"the entire wealth\" of a sonless grandfather.[^9] If no such son exists, her husband takes it.[^10] Unappointed daughters' sons may still qualify indirectly as heirs.[^11]\n\n**In short:** Daughters get maintenance, gifts, or maternal property (*strīdhana*), but not the father's core estate unless via a *putrikā* appointment channeling it to her sons. Direct female inheritance is absent here, aligning with the chapter's male-lineage focus.[^12]\n\n[^1]: *Manusmṛti*, Chapter 9, [full chapter](/works/unknown-manusmrti-347b76/09/translation/).\n\n[^2]: Mn_9.104–117, 184–185 (sons divide paternal estate; \"the sons are the heirs to the father's inheritance\"); [passage](/works/unknown-manusmrti-347b76/09/translation/#p-5211c4)–[passage](/works/unknown-manusmrti-347b76/09/translation/#p-29f6da).\n\n[^3]: Mn_9.185 (\"the father shall take the inheritance of a sonless man, and the brothers as well\").\n\n[^4]: Mn_9.217 (\"Of a sonless man, the mother shall obtain the inheritance; and when the mother has also passed away, the father's mother shall take the wealth\").\n\n[^5]: Mn_9.118 (\"the brothers should give separately to the maidens a fourth part of their own share\").\n\n[^6]: Mn_9.131 (\"Whatever is the mother's `yautaka`, that is the share of the unmarried daughter alone\").\n\n[^7]: Mn_9.127 (\"A man without a son may... make his daughter a `putrikā`... 'Whatever offspring may be born of her, that shall be mine for performing the ancestral rites.'\"); Mn_9.128–129.\n\n[^8]: Mn_9.130 (\"As is the self, so is the son; a daughter is equal to a son. While she, who is his very self, is present, how can another take the wealth?\").\n\n[^9]: Mn_9.131–132 (\"the daughter's son shall take the entire wealth of a man who dies without a son\").\n\n[^10]: Mn_9.135 (\"If a `putrikā` should die without a son... the husband of the `putrikā` shall take that wealth\").\n\n[^11]: Mn_9.136 (\"whatever son a daughter may bear... through that grandson the maternal grandfather has a son; he shall... take the wealth\").\n\n[^12]: Mn_9.3–6, 104–118, 185–190, 217 (inheritance hierarchy excludes daughters; *cf.* other heirs like *sapiṇḍa* kin, teachers). Note: Later texts like Yājñavalkya or Kātyāyana expand daughter rights, but Manu 9 limits them.[^1]",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"daughter\" \"brother\" inherit OR property OR share",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"no brother\" OR \"without brother\" OR \"hath no brother\" daughter",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.9\\nverse · 155¶ · 10149w · vocab 1606 (TTR 34%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"son shudra wife\\\" · \\\"established rule mn_"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"daughter\" (brother OR sonless OR \"no son\") (share OR inherit OR property OR estate)",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "c8b5e3",
+          "d5f2a1",
+          "e3f4b2"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-5211c4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 9,
+      "paragraph_id": "p-29f6da"
+    }
+  ],
+  "duration_ms": 85912,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 92567,
+    "completion_tokens": 7733,
+    "total_tokens": 100300,
+    "cached_tokens": 61175,
+    "api_calls": 5,
+    "cost_usd": 0.01320365,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1906,
+        "completion_tokens": 616,
+        "total_tokens": 2522,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00040675
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7000,
+        "completion_tokens": 396,
+        "total_tokens": 7396,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00131585
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17322,
+        "completion_tokens": 1572,
+        "total_tokens": 18894,
+        "cached_tokens": 6995,
+        "cost_usd": 0.00320115
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 33104,
+        "completion_tokens": 2775,
+        "total_tokens": 35879,
+        "cached_tokens": 17317,
+        "cost_usd": 0.00541075
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 33235,
+        "completion_tokens": 2374,
+        "total_tokens": 35609,
+        "cached_tokens": 33099,
+        "cost_usd": 0.00286915
+      }
+    ]
+  }
+}

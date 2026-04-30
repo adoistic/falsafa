@@ -1,0 +1,163 @@
+{
+  "answer": "**The second couplet (sher, marked as paragraph [p-c69a90]) of chapter 23 in *Diwan-E-Zauq* (\"Jo kuch ke hai duniya mein woh insaan ke liye hai\") is:**\n\n> Your pagan hair—what business has it with my soul?  \n> My heart's a shrine reserved for faith's devoted light.[^1]\n\nThis is from the English translation variant.[^2]\n\n[^1]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch. 23 (\"Jo kuch ke hai duniya mein woh insaan ke liye hai\"), [paragraph](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/23-jo-kuch-ke-hai-duniya-mein-woh-insaan-ke-liye-hai/translation/#p-c69a90).\n\n[^2]: The chapter consists of 11 couplets in verse layout; this is the second, following the matla (opening couplet) [p-b05a2c].[^3]\n\n[^3]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, ch. 23, [full chapter](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/23-jo-kuch-ke-hai-duniya-mein-woh-insaan-ke-liye-hai/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Diwan-e-Zauq\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Jo kuch ke hai duniya mein\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 23
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 23-jo-kuch-ke-hai-duniya-mein-woh-insaan-ke-liye-hai.card.md. Run: bun run scripts/build-wiki.ts --work sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 23,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.23 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 23,
+        "paragraph_ids": [
+          "p-c69a90"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 23,
+      "paragraph_id": "p-c69a90"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 23,
+      "paragraph_id": "p-b05a2c"
+    }
+  ],
+  "duration_ms": 29025,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 59479,
+    "completion_tokens": 2857,
+    "total_tokens": 62336,
+    "cached_tokens": 30270,
+    "api_calls": 5,
+    "cost_usd": 0.0087838,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1919,
+        "completion_tokens": 750,
+        "total_tokens": 2669,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00047635
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13074,
+        "completion_tokens": 457,
+        "total_tokens": 13531,
+        "cached_tokens": 150,
+        "cost_usd": 0.0028208
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 14243,
+        "completion_tokens": 251,
+        "total_tokens": 14494,
+        "cached_tokens": 13069,
+        "cost_usd": 0.00101375
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 15023,
+        "completion_tokens": 481,
+        "total_tokens": 15504,
+        "cached_tokens": 150,
+        "cost_usd": 0.0032226
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 15220,
+        "completion_tokens": 918,
+        "total_tokens": 16138,
+        "cached_tokens": 15018,
+        "cost_usd": 0.0012503
+      }
+    ]
+  }
+}

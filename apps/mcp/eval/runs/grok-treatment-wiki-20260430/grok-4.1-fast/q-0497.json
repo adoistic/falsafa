@@ -1,0 +1,329 @@
+{
+  "answer": "**Andreas** (by Cynewulf) recounts the missionary journey of Saint Andrew (a saintly apostle) to Mermedonia, where he is captured by cannibals and subjected to prolonged physical torture over multiple days: bound in fetters, repeatedly scourged with blows causing sweat and blood to well from wounds, dragged across streets breaking his \"bone-house,\" stabbed with \"wound-gashes,\" and left in a prison amid winter storms, yet miraculously enduring without death.[^1]\n\n**Juliana** (by Cynewulf) narrates the martyrdom of Saint Juliana of Nicomedia, who resists a pagan suitor and is tortured by her father and judge: stripped and scourged with whips, hung by her hair from a beam and beaten for hours, immersed in boiling lead and fire (killing her tormentors but sparing her), before beheading.[^2]\n\nNo other works in the corpus depict a saintly figure undergoing physical torture. Mentions of \"saint,\" \"martyr,\" \"torture,\" \"scourge,\" etc., elsewhere are metaphorical (e.g., poetic lovers as \"martyrs\"), historical/legal discussions (e.g., slavery or trials), or hellish punishments of sinners (not saints).\n\n[^1]: Cynewulf, *Andreas*, [Chapter 1](/works/cynewulf-andreas-07b573/01/translation/#p-655ebf), esp. paragraphs [p-655ebf](/works/cynewulf-andreas-07b573/01/translation/#p-655ebf), [p-5d78fc](/works/cynewulf-andreas-07b573/01/translation/#p-5d78fc), [p-17921e](/works/cynewulf-andreas-07b573/01/translation/#p-17921e), [p-34b202](/works/cynewulf-andreas-07b573/01/translation/#p-34b202), [p-dbf56f](/works/cynewulf-andreas-07b573/01/translation/#p-dbf56f).\n\n[^2]: Cynewulf, *Juliana*, [Chapter 1](/works/cynewulf-juliana-9a2157/01/translation/#p-3fccbd), esp. paragraphs [p-3fccbd](/works/cynewulf-juliana-9a2157/01/translation/#p-3fccbd), [p-7cffd3](/works/cynewulf-juliana-9a2157/01/translation/#p-7cffd3), [p-89a6c9](/works/cynewulf-juliana-9a2157/01/translation/#p-89a6c9), [p-3a01e6](/works/cynewulf-juliana-9a2157/01/translation/#p-3a01e6).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saint tortured",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saint beaten",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saint flogged",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saint scourged",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "martyr tortured",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"saint\" torture",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"holy man\" tortured",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saint",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "martyr",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "torture",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tormented",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "scourge",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "flog",
+        "limit": 20
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"saint andrew\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "juliana scourged"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-655ebf"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-5d78fc"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-17921e"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-34b202"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-dbf56f"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-3fccbd"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-7cffd3"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-89a6c9"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-3a01e6"
+    }
+  ],
+  "duration_ms": 33828,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 113125,
+    "completion_tokens": 3752,
+    "total_tokens": 116877,
+    "cached_tokens": 50598,
+    "api_calls": 5,
+    "cost_usd": 0.0169113,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 885,
+        "total_tokens": 2786,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00053965
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2336,
+        "completion_tokens": 639,
+        "total_tokens": 2975,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00050365
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 21690,
+        "completion_tokens": 717,
+        "total_tokens": 22407,
+        "cached_tokens": 2331,
+        "cost_usd": 0.00434685
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22813,
+        "completion_tokens": 478,
+        "total_tokens": 23291,
+        "cached_tokens": 21685,
+        "cost_usd": 0.00154885
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 64385,
+        "completion_tokens": 1033,
+        "total_tokens": 65418,
+        "cached_tokens": 22808,
+        "cost_usd": 0.0099723
+      }
+    ]
+  }
+}

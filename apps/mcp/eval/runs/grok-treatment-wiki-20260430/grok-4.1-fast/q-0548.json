@@ -1,0 +1,498 @@
+{
+  "answer": "The Falsafa corpus contains several ancient Indic Dharmaśāstra works (legal and ethical treatises attributed to various sages) that engage with the distinction between intentional/deliberate (\"knowingly\") and unintentional/accidental (\"unknowingly\" or \"through ignorance\") actions. This distinction typically determines the severity of fines, punishments, or required penances for offenses ranging from property damage to ritual errors and violence. No other works in the corpus—including the Old English poems, Urdu poetry collections, French political treatises, or Kawi texts—meaningfully engage this distinction in a philosophical, legal, or ethical manner.[^1]\n\n**Manusmṛti** (aka *Laws of Manu*) distinguishes between property damage done knowingly or unknowingly (with fines in both cases, but implying gradation by intent), and sins of violence committed knowingly or unknowingly (remediable by specific vows).[^2][^3]\n\n**Kātyāyana Smṛti** treats destruction or neglect of deposits \"through ignorance\" (unintentional) as requiring compensation, distinct from deliberate acts.[^4]\n\n**Nārada Smṛti** deems a court assessor \"unworthy\" if speaking falsely due to ignorance (among other motives), warranting punishment.[^5]\n\n**Aṅgirasa Smṛti** addresses ritual defects arising \"knowingly or unknowingly,\" with remedies specified accordingly.[^6]\n\n**Bṛhaspati Smṛti** punishes assessors who err due to ignorance (or affection/confusion/greed), marking it as disqualifying.[^7]\n\n**Yama Smṛti** prescribes harsher penance (*kṛcchra*) for eating forbidden food or illicit intercourse if done knowingly, versus lighter vows (*Aindava*) if unknowingly.[^8]\n\n**Yājñavalkya Smṛti** fines craftsmen the highest amercement for *knowingly* manipulating market prices.[^9]\n\n[^1]: Searches across the English translations for phrases like \"intentional unintentional,\" \"voluntary involuntary,\" \"knowingly unknowingly,\" \"done in ignorance,\" and related terms surfaced hits *only* in the listed Dharmaśāstra works (and scattered non-philosophical uses of \"voluntary/ignorance\" in French texts, e.g., *Traité de la propriété* VOL I ch.2 on voluntary abdication of liberty, which does not analyze action types).\n\n[^2]: *Manusmṛti*, ch.8, [para](/works/unknown-manusmrti-347b76/08/translation/#p-464b19).\n\n[^3]: *Manusmṛti*, ch.12, [para](/works/unknown-manusmrti-347b76/12/translation/#p-76b0e8).\n\n[^4]: *Kātyāyana Smṛti*, ch.54, [para](/works/unknown-katyayana-smrti-1e06d2/54/translation/#p-28e7ac).\n\n[^5]: *Nārada Smṛti*, ch.1, [para](/works/unknown-naradasmrti-7650d2/01/translation/#p-0e6122).\n\n[^6]: *Aṅgirasa Smṛti*, ch.1, [para](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-500c23).\n\n[^7]: *Bṛhaspati Smṛti*, ch.1, [para](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-e2cd4b).\n\n[^8]: *Yama Smṛti*, ch.1, [para](/works/unknown-yama-smrti-552f8d/01/translation/#p-9016f4).\n\n[^9]: *Yājñavalkya Smṛti*, ch.2, [para](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-2d526e).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intentional unintentional",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"voluntary\" \"involuntary\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"intentional action\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"unintentional action\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"voluntary action\" \"involuntary action\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intentionality intention unintentionality",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "voluntary involuntary",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"by choice\" \"not by choice\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"under compulsion\" \"ignorance\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "deliberate accidental",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"knowingly\" \"unknowingly\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"with knowledge\" \"without knowledge\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"intentionally\" \"accidentally\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"done intentionally\" OR \"done unintentionally\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"purposely\" \"by mistake\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "intentionally accidentally",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "voluntary",
+        "limit": 20
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "involuntary",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ignorance",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "compulsion OR force OR compelled",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"done in ignorance\" OR \"done knowingly\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d"
+      },
+      "result_summary": "{\"markdown\":\"# Yama Smṛti\\nYama · Ancient · sanskrit · verse · 2 chapters · 4,467 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"fined one hundred\\\" · \\\"his sacred fire\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-464b19"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-76b0e8"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 54,
+        "paragraph_ids": [
+          "p-28e7ac"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-0e6122"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-500c23"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e2cd4b"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-9016f4"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-2d526e"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-464b19"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-76b0e8"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-28e7ac"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-0e6122"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-500c23"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-e2cd4b"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-9016f4"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-2d526e"
+    }
+  ],
+  "duration_ms": 71233,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 71929,
+    "completion_tokens": 8312,
+    "total_tokens": 80241,
+    "cached_tokens": 44313,
+    "api_calls": 7,
+    "cost_usd": 0.011894849999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1903,
+        "completion_tokens": 715,
+        "total_tokens": 2618,
+        "cached_tokens": 1888,
+        "cost_usd": 0.0004549
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2296,
+        "completion_tokens": 481,
+        "total_tokens": 2777,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006772
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5877,
+        "completion_tokens": 1149,
+        "total_tokens": 7026,
+        "cached_tokens": 2291,
+        "cost_usd": 0.00140625
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6288,
+        "completion_tokens": 1274,
+        "total_tokens": 7562,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018721
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12974,
+        "completion_tokens": 1317,
+        "total_tokens": 14291,
+        "cached_tokens": 6283,
+        "cost_usd": 0.00231085
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 20587,
+        "completion_tokens": 1903,
+        "total_tokens": 22490,
+        "cached_tokens": 12969,
+        "cost_usd": 0.00312355
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 22004,
+        "completion_tokens": 1473,
+        "total_tokens": 23477,
+        "cached_tokens": 20582,
+        "cost_usd": 0.00205
+      }
+    ]
+  }
+}

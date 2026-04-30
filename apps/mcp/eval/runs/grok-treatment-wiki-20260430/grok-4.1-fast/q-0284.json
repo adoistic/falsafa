@@ -1,0 +1,262 @@
+{
+  "answer": "**Cynewulf's *Andreas* and Allama Iqbal's \"Ek haji Madinay ke raastay mein\" (A Haji on the Road to Madinah) indeed share striking parallels as journey-of-faith poems, bridging disparate cultures and eras: 10th-century Anglo-Saxon Christian epic verse and 20th-century Urdu ghazal-style reflection.**[^1][^2]\n\nIn *Andreas*, the apostle Andrew undertakes a divinely commanded sea voyage across perilous \"whale-roads\" to the cannibalistic land of Mermedonia, rescuing his brother Matthew from torment while facing storms, doubt, and hostility—trials that test and affirm his unyielding Christian devotion.[^3] The poem opens with heroic remembrance of the apostles' fates: \"We have heard of heroes in ages past, / of twelve true thanes under the turning stars, / the Lord’s own champions,\" before detailing Andrew's reluctant obedience, miraculous shipboard aid (disguised as Christ and angels), and triumphant mission amid suffering.[^4][^5]\n\nIqbal's shorter poem evokes a modern Muslim pilgrim's desert hajj to Madinah (Yathrib), where bandits plunder the caravan, slaying companions like the \"youth from Bukhara\" who dies joyfully, seeing the dagger as \"the crescent of the Eid.\"[^6] Fear urges retreat, but \"Passion\" drives onward: \"Fear speaks: 'To Yathrib's gates, do not now dare to tread.' / But Passion cries: 'You are a Muslim! Go without dread!'\"—echoing the Hijra's fearless spirit.[^7]\n\n**Core thematic crossovers include the physical peril of alien terrains (storm-tossed seas vs. endless desert), mortal risks yielding spiritual renewal (cannibal feasts averted by God; martyrdom as \"new life\"), and faith's triumph over rational caution (Andrew's protests quelled by divine assurance; Reason vs. soul's bold \"bliss... where mortal risks abide\").**[^8][^9] Both protagonists cross cultural boundaries—Andrew to pagan devourers, the haji through bandit lands toward Islam's heartland—transforming exile into exaltation. Corpus statistics flag mutual proximity: *Bang-E-Dara Part 3* lists *Andreas* among nearest genre matches, and vice versa.[^10]\n\nThese works, though separated by a millennium and creed, universalize the pilgrim's archetype: the road abroad as crucible for inner conviction.[^11]\n\n[^1]: /works/cynewulf-andreas-07b573/01/translation/\n\n[^2]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/\n\n[^3]: /works/cynewulf-andreas-07b573/01/translation/#p-f6e450 (Mermedonia described); /works/cynewulf-andreas-07b573/01/translation/#p-944879 (Andrew's sea doubts).\n\n[^4]: /works/cynewulf-andreas-07b573/01/translation/#p-868413\n\n[^5]: /works/cynewulf-andreas-07b573/01/translation/#p-24dbdc (disguised sailors); /works/cynewulf-andreas-07b573/01/translation/#p-74e29a (rescue).\n\n[^6]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-c8a255; /works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-203905\n\n[^7]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-f880d8; /works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-ebe69b\n\n[^8]: /works/cynewulf-andreas-07b573/01/translation/#p-8fd929 (storm); /works/cynewulf-andreas-07b573/01/translation/#p-34b202 (scourging).\n\n[^9]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-407945; /works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-6b926b\n\n[^10]: /works/allama-iqbal-bang-e-dara-part-3-cc61e8/wiki/_work.card.md; /works/cynewulf-andreas-07b573/wiki/_work.card.md\n\n[^11]: /works/cynewulf-andreas-07b573/01/translation/#p-ee08ea (Christ appears); /works/allama-iqbal-bang-e-dara-part-3-cc61e8/06-ek-haji-madinay-ke-raastay-mein/translation/#p-3d6010",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Ek Haji Madinay ke Raastay Mein\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Haji Madinay"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 6
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 06-ek-haji-madinay-ke-raastay-mein.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-3-cc61e8"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "cynewulf-andreas-07b573",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "topic": "journey of faith"
+      },
+      "result_summary": "{\"topic\":\"journey of faith\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"cynewulf-andreas-07b573\",\"title\":\"Andreas"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "cynewulf-andreas-07b573",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "topic": "pilgrimage"
+      },
+      "result_summary": "{\"topic\":\"pilgrimage\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"cynewulf-andreas-07b573\",\"title\":\"Andreas\",\"aut"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "limit": 5
+      },
+      "result_summary": "Found 5 related"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 6,
+        "limit": 5
+      },
+      "result_summary": "Found 5 related"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-f6e450"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-944879"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-868413"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-24dbdc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-74e29a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-c8a255"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-203905"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-f880d8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-ebe69b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-8fd929"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-34b202"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-407945"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-6b926b"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-ee08ea"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 6,
+      "paragraph_id": "p-3d6010"
+    }
+  ],
+  "duration_ms": 44788,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 34699,
+    "completion_tokens": 4761,
+    "total_tokens": 39460,
+    "cached_tokens": 8284,
+    "api_calls": 4,
+    "cost_usd": 0.0080777,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1931,
+        "completion_tokens": 862,
+        "total_tokens": 2793,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00053505
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3339,
+        "completion_tokens": 910,
+        "total_tokens": 4249,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00084065
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "compare_works",
+          "compare_works"
+        ],
+        "prompt_tokens": 4377,
+        "completion_tokens": 807,
+        "total_tokens": 5184,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012564
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "find_related",
+          "find_related"
+        ],
+        "prompt_tokens": 25052,
+        "completion_tokens": 2182,
+        "total_tokens": 27234,
+        "cached_tokens": 4372,
+        "cost_usd": 0.0054456
+      }
+    ]
+  }
+}

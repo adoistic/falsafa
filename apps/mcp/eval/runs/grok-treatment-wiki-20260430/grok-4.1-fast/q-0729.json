@@ -1,0 +1,260 @@
+{
+  "answer": "**Manusmṛti chapter 5 does not prescribe any specific kind of wood (or fuel of any kind) for the fire used in cooking funeral offerings (such as piṇḍas or rice balls for ancestors).**\n\nChapter 5 (verses roughly Mn 4.196–5.96 in standard numbering, based on the translation here) focuses primarily on dietary rules for twice-born castes: forbidden foods (e.g., garlic, onions, certain meats, village birds); permissible meats in sacrifices or for sustenance; rules for eating in ancestral/god rites; penances for violations; and gifts.[^1] It mentions rites for ancestors (*pitṛs*) and gods several times (e.g., meat allowed therein), but nothing about cooking funeral/ancestral offerings (*śrāddha*) or the wood/fuel for any fire used in them.[^2]\n\nSearches across the full Manusmṛti (and related Smṛtis) for terms like \"wood,\" \"fuel,\" \"sticks\" (*samidh*), \"fire,\" \"cook\"/\"boil,\" \"funeral offerings,\" *piṇḍa* (\"rice ball\"), or *śrāddha* yielded no matches in chapter 5 linking them. *Piṇḍas* appear elsewhere (e.g., ch. 4 on monthly *śrāddhas*), but not with cooking instructions here.[^3] Sacrificial sticks (*samidh*) are noted in other Smṛtis like Yājñavalkya Smṛti (e.g., palāśa, udumbara), but not prescribed in Manusmṛti ch. 5.[^4]\n\nIf this refers to a specific translation/edition or another chapter/text, it's not in this corpus version. The corpus covers Manusmṛti comprehensively (12 chapters), but no such detail exists in ch. 5.\n\n[^1]: *Manusmṛti*, ch. 5, full chapter.[https://falsafa.corpus/works/unknown-manusmrti-347b76/05/translation/]\n\n[^2]: E.g., [p-0e826f] (Mn 5.41): \"In a *madhuparka* and in a sacrifice, and in a rite for the ancestors and gods.\" [https://falsafa.corpus/works/unknown-manusmrti-347b76/05/translation/#p-0e826f]; also Mn 5.27, 5.32, 5.39–41 (no wood/fuel mentioned). [https://falsafa.corpus/works/unknown-manusmrti-347b76/05/translation/#p-77c420]\n\n[^3]: E.g., *Manusmṛti* ch. 4 [p-a6dada] on *Pindanvaharyaka* śrāddha. [https://falsafa.corpus/works/unknown-manusmrti-347b76/04/translation/#p-a6dada]\n\n[^4]: *Yājñavalkya Smṛti* ch. 1 [p-c703b6]. [https://falsafa.corpus/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-c703b6]",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"funeral offerings\" wood fire",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chapter 5\" wood fire cooking",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu wood fire funeral",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chapter 5\" Manu wood fire",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.5\\nverse · 106¶ · 3213w · vocab 848 (TTR 51%, hapax 72%)\\n\\n## Distinctive trigrams\\n\\\"heron mode life\\\" · \\\"brahmana never eat\\\" ·"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wood fire funeral",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"funeral cake\" OR pinda OR \"rice ball\" OR \"funeral offering\" Manu",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wood OR samidha OR samidh fire Manu chapter 5",
+        "limit": 10
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cook\" OR \"boil\" OR \"fire\" pinda OR \"rice ball\" OR \"funeral cake\" OR śrāddha",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wood\" OR \"fuel\" OR \"kindling\" OR \"sticks\" OR samidh \"fire\" Manu OR Manusmriti OR \"chapter 5\"",
+        "limit": 10
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.3\\nverse · 66¶ · 2063w · vocab 471 (TTR 49%, hapax 67%)\\n\\n## Distinctive trigrams\\n\\\"his own *varna*\\\" · \\\"one his own\\\" · \\\"mn_3 "
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.5\\nverse · 106¶ · 3213w · vocab 848 (TTR 51%, hapax 72%)\\n\\n## Distinctive trigrams\\n\\\"heron mode life\\\" · \\\"brahmana never eat\\\" ·"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 5,
+      "paragraph_id": "p-0e826f"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 5,
+      "paragraph_id": "p-77c420"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 5,
+      "paragraph_id": "p-a6dada"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 5,
+      "paragraph_id": "p-c703b6"
+    }
+  ],
+  "duration_ms": 46526,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 53156,
+    "completion_tokens": 4859,
+    "total_tokens": 58015,
+    "cached_tokens": 30823,
+    "api_calls": 6,
+    "cost_usd": 0.00843725,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1910,
+        "completion_tokens": 761,
+        "total_tokens": 2671,
+        "cached_tokens": 150,
+        "cost_usd": 0.00074
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2150,
+        "completion_tokens": 281,
+        "total_tokens": 2431,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0002882
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5606,
+        "completion_tokens": 352,
+        "total_tokens": 5958,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012747
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7245,
+        "completion_tokens": 276,
+        "total_tokens": 7521,
+        "cached_tokens": 5601,
+        "cost_usd": 0.00074685
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15805,
+        "completion_tokens": 1754,
+        "total_tokens": 17559,
+        "cached_tokens": 7240,
+        "cost_usd": 0.002952
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 20440,
+        "completion_tokens": 1435,
+        "total_tokens": 21875,
+        "cached_tokens": 15800,
+        "cost_usd": 0.0024355
+      }
+    ]
+  }
+}

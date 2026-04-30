@@ -1,0 +1,251 @@
+{
+  "answer": "In Johann Gottlieb Fichte's *Zurückforderung der Denkfreiheit von den Fürsten Europens*, the plurality of *Fürsten* is central to the preface, where Fichte justifies his critical tone toward rulers while insisting he \"offends no prince on earth\" but rather \"unites them all.\"[^1] He observes that \"most German princes strive to distinguish themselves through goodwill and popularity,\" yet notes violations in \"a certain great state\" (likely Prussia) alongside tolerant \"neighboring Protestant states.\" This plurality enables his universal appeal: by addressing *all* princes across the fractured Holy Roman Empire—rather than a singular monarch—he positions his pamphlet as a collective challenge that invites every prince to affirm their commitment to enlightenment through tolerance, without singling out (and risking reprisal from) any one.\n\nTranslating *Fürst* simply as \"prince\" obscures this: in English, \"prince\" often connotes a subordinate heir (e.g., Prince of Wales) or fairy-tale figure, downplaying the Holy Roman reality of myriad semi-sovereign *Fürsten* (electors, kings, dukes, etc.) whose coexistence defined a decentralized polity. Fichte leverages this multiplicity for rhetorical safety and moral leverage—his argument demands collective reform from a patchwork of rulers, not obedience to an absolute sovereign.[^2]\n\n[^1]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01/translation/#p-0e25d1).\n\n[^2]: Johann Gottlieb Fichte, *Zurückforderung der Denkfreiheit von den Fürsten Europens*, [paragraph](/works/johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde/01/translation/#p-99a59e).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "fichte"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Fürsten Fichte"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"princes\" Fichte"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "{\"markdown\":\"# Zurückforderung der Denkfreiheit von den Fürsten Europens\\nJohann Gottlieb Fichte · Enlightenment · german · prose · 2 chapters · 10,652 words\\n\\n## Work-level distinctive trigrams (top"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde"
+      },
+      "result_summary": "Listed 2 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Fürsten Europens\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "princes Europe Fichte"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Zurückforderung der Denkfreiheit von den Fürsten Europens · ch.1\\nprose · 12¶ · 2172w · vocab 673 (TTR 68%, hapax 77%)\\n\\n## Distinctive trigrams\\n"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Zurückforderung der Denkfreiheit von den Fürsten Europens · ch.2\\nprose · 52¶ · 8480w · vocab 1547 (TTR 42%, hapax 60%)\\n\\n## Distinctive trigrams\\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Prince\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"princes\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Fürst\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-0e25d1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-99a59e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-ff7538"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-0e25d1"
+    },
+    {
+      "work_slug": "johann-gottlieb-fichte-zuruckforderung-der-denkfreiheit-bookde",
+      "chapter_number": 2,
+      "paragraph_id": "p-99a59e"
+    }
+  ],
+  "duration_ms": 48382,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 52744,
+    "completion_tokens": 5294,
+    "total_tokens": 58038,
+    "cached_tokens": 34701,
+    "api_calls": 6,
+    "cost_usd": 0.00799065,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1948,
+        "completion_tokens": 289,
+        "total_tokens": 2237,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00025195
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2202,
+        "completion_tokens": 322,
+        "total_tokens": 2524,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00031925
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2919,
+        "completion_tokens": 389,
+        "total_tokens": 3308,
+        "cached_tokens": 2197,
+        "cost_usd": 0.00044875
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 7470,
+        "completion_tokens": 1049,
+        "total_tokens": 8519,
+        "cached_tokens": 2914,
+        "cost_usd": 0.0015814
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18368,
+        "completion_tokens": 1797,
+        "total_tokens": 20165,
+        "cached_tokens": 7465,
+        "cost_usd": 0.00345235
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 19837,
+        "completion_tokens": 1448,
+        "total_tokens": 21285,
+        "cached_tokens": 18363,
+        "cost_usd": 0.00193695
+      }
+    ]
+  }
+}

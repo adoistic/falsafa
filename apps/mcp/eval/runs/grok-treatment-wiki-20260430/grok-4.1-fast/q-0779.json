@@ -1,0 +1,228 @@
+{
+  "answer": "**The Falsafa corpus contains a single chapter of *Vīramitrodaya* (slug: `unknown-viramitrodaya-d4b632`) by Mitra Miśra, a Medieval Indic/Sanskrit prose work totaling ~142,000 words across 5,035 paragraphs.**[^1]\n\nThis chapter focuses extensively on ritual timings, lunar days (*tithi*), fortnights, conjunctions with preceding/succeeding days, fasts (*upavāsa*), ancestral rites (*śrāddha*), purity rules, and citations from Purāṇas/smṛtis (e.g., *Bhaviṣya Purāṇa*, *Skanda Purāṇa*, Vyāsa, Śātātapa). Key passages discuss when to perform rites like Aṣṭamī or Caturdaśī based on lunar phases.[^2]\n\n**No section compiles rules from earlier authors on the king's (*rājan*) daily routine.** Corpus-wide searches for phrases like \"king daily routine\", \"king's daily\", \"king routine\", \"king should rise\", or \"king should\" + routine/daily/morning yielded zero relevant hits in *Vīramitrodaya* (or elsewhere matching the description).[^3] The work's wiki summaries, refrains (e.g., \"said\" 88×, mostly citing authorities on rites), and n-grams (e.g., \"new moon day\", \"conjoined preceding day\") confirm a ritual calendar emphasis (*vratādi-tattva* or similar), not rājadharma/kingship routines.\n\n*Vīramitrodaya* is a massive Dharmashāstra compendium with sections like Rājanīti-tattva (on governance/kingship); this corpus entry likely covers only one part (e.g., Kalādharma or Vratakāṇḍa), omitting king-related content. No such section exists here—not every topic across its full historical scope is digitized. \n\nFor king's duties/daily observances, see nearby smṛtis:\n- **Bṛhaspati Smṛti** ch.1 mentions rulers performing \"daily, occasional, and optional rites for the citizens\".[^4]\n- **Aṅgirasa Smṛti** ch.1 covers \"daily and occasional rites during ritual impurity\".[^5]\n\n[^1]: [Work wiki card](/works/unknown-viramitrodaya-d4b632/wiki/_work.card.md).\n[^2]: [Chapter 1 wiki card](/works/unknown-viramitrodaya-d4b632/wiki/01.card.md); key passage at [p-4fb38c](/works/unknown-viramitrodaya-d4b632/01/translation/#p-4fb38c).\n[^3]: Multiple `search_corpus` results (e.g., \"Viramitrodaya king daily routine\", \"\\\"king\\\" routine\").\n[^4]: [Bṛhaspati Smṛti ch.1, p-ca1ecf](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-ca1ecf).\n[^5]: [Aṅgirasa Smṛti ch.1, p-d331b3](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-d331b3).",
+  "tool_calls": [
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "viramitrodaya"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: viramitrodaya"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Viramitrodaya king daily routine",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"daily routine\" king",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Viramitrodaya"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" routine",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king's\" daily",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mitra"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"markdown\":\"# Vīramitrodaya\\nMitra Miśra · Medieval · sanskrit · prose · 1 chapters · 142,010 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"new moon day\\\" · \\\"conjoined"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"slug\":\"unknown-viramitrodaya-d4b632\",\"title\":\"Vīramitrodaya\",\"author\":\"Mitra Miśra\",\"author_slug\":\"mitra-misra\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king daily routine Mitra",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vīramitrodaya · ch.1\\nprose · 5035¶ · 142010w · vocab 6395 (TTR 10%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"new moon day\\\" · \\\"conjoined precedi"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vīramitrodaya · ch.1\\nprose · 5035¶ · 142010w · vocab 6395 (TTR 10%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"new moon day\\\" · \\\"conjoined precedi"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" \"should rise\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king should\" routine OR daily OR morning",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-4fb38c"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-ca1ecf"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-d331b3"
+    }
+  ],
+  "duration_ms": 41368,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 31586,
+    "completion_tokens": 4020,
+    "total_tokens": 35606,
+    "cached_tokens": 11796,
+    "api_calls": 5,
+    "cost_usd": 0.0065578,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 787,
+        "total_tokens": 2694,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00049275
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2142,
+        "completion_tokens": 560,
+        "total_tokens": 2702,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00042625
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 5752,
+        "completion_tokens": 393,
+        "total_tokens": 6145,
+        "cached_tokens": 2137,
+        "cost_usd": 0.00102635
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "get_metadata",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6570,
+        "completion_tokens": 807,
+        "total_tokens": 7377,
+        "cached_tokens": 5747,
+        "cost_usd": 0.00085545
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki_full",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15215,
+        "completion_tokens": 1473,
+        "total_tokens": 16688,
+        "cached_tokens": 150,
+        "cost_usd": 0.003757
+      }
+    ]
+  }
+}

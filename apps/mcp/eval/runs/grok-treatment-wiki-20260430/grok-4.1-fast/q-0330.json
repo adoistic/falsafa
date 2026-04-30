@@ -1,0 +1,288 @@
+{
+  "answer": "**In *Andreas*, Andrew (Andreas) speaks back humbly yet directly to Christ, who has appeared in the guise of the helmsman (or steersman) of the ship that will carry the apostles to Mermedonia.** A representative moment occurs when Andreas requests safe passage across the sea, acknowledging the helmsman's divine guidance while pressing his mission's urgency.[^1]\n\n**In *Elene*, Helena (Elene) boldly confronts the Jewish elders (described as \"law-clever earls\" and \"mind-wise\" scholars), repeatedly challenging them to reveal the True Cross based on their prophetic scriptures.** One key speech-back comes as she quotes Moses, David, and Isaiah to accuse them of rebellion against God and demands they produce experts to confirm Christ's identity.[^2]\n\n**In *Juliana*, the saint speaks back first to her pagan suitor and persecutor, the prefect Eleusius (Heliseus), refusing marriage unless he converts, then later to the demon sent to tempt her in prison.** To Eleusius: she defiantly rejects his authority and torments, insisting he forsake idols for the true God.[^3] To the demon (initially disguised as an angel): empowered by the Holy Spirit, she interrogates him on his origins and mission, forcing confession of hell's hierarchy and his failures.[^4]\n\nAmong these saints—enduring divine testing (Andreas), intellectual interrogation (Elene), and human/demonic persecution (Juliana)—**which do you think pays the highest price?** Andreas survives torture to preach; Elene secures the Cross unscathed; Juliana faces escalating martyrdom (scourging, boiling lead, beheading) yet triumphs spiritually.[^5]\n\n[^1]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-7f2895).\n\n[^2]: Cynewulf, *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n\n[^3]: Cynewulf, *Juliana*, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-6a2534).\n\n[^4]: Cynewulf, *Juliana*, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-bd327c).\n\n[^5]: Cynewulf, *Juliana*, [full chapter](/works/cynewulf-juliana-9a2157/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas speaks Christ helmsman"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Helena Jewish elders"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Juliana Heliseus demon"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"andreas gave answer\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"elene spoke\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"juliana\" demon OR fiend"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Christ\" helmsman OR steersman OR steers OR helm OR rudder Andreas"
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-7f2895"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-f5d1f1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-bd327c"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"juliana\" heliseus OR eleusius"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "juliana spoke OR answered heliseus OR eleusius OR \"prefect\" OR judge"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-7f2895"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-6a2534"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-bd327c"
+    }
+  ],
+  "duration_ms": 48844,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 93850,
+    "completion_tokens": 5395,
+    "total_tokens": 99245,
+    "cached_tokens": 50667,
+    "api_calls": 5,
+    "cost_usd": 0.01386745,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1941,
+        "completion_tokens": 647,
+        "total_tokens": 2588,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006892
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5770,
+        "completion_tokens": 569,
+        "total_tokens": 6339,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00115635
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 19317,
+        "completion_tokens": 1110,
+        "total_tokens": 20427,
+        "cached_tokens": 5765,
+        "cost_usd": 0.00355365
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 23564,
+        "completion_tokens": 1658,
+        "total_tokens": 25222,
+        "cached_tokens": 19312,
+        "cost_usd": 0.002645
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter"
+        ],
+        "prompt_tokens": 43258,
+        "completion_tokens": 1411,
+        "total_tokens": 44669,
+        "cached_tokens": 23559,
+        "cost_usd": 0.00582325
+      }
+    ]
+  }
+}

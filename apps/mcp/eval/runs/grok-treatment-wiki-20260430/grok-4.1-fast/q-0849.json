@@ -1,0 +1,212 @@
+{
+  "answer": "**The third couplet (sher) of Allama Iqbal's poem in *Bang-e-Dara Part 1*, Chapter 2, reads as follows in English translation:**\n\n> O Lord, may my hope's garden thrive and gain,  \n> I fed these shoots with my own heart's blood-rain.[^1]\n\nThis matches the original Urdu (via transliteration):  \n*Phala phoola rahe ya Rab! Chaman meri umeedon ka*  \n*Jigar ka khoon de de kar yeh boote maine paale hain*[^2]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/02-anokhi-waza-hai-saare-zamane-se-nirale-hain/translation/#p-61af92).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, Chapter 2 (transliteration). The couplets align sequentially across variants.[^3]\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 2 (translation)](/works/allama-iqbal-bang-e-dara-part-1-55b25c/02-anokhi-waza-hai-saare-zamane-se-nirale-hain/translation/).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Anokhi waza hai saare zamane se nirale hain",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 02-anokhi-waza-hai-saare-zamane-se-nirale-hain.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "variant": "original"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-1-55b25c (original)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-61af92"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-61af92"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-61af92"
+        ],
+        "variant": "original"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 2,
+        "paragraph_range": {
+          "start": 2,
+          "end": 2
+        },
+        "variant": "transliteration"
+      },
+      "result_summary": "error PASSAGE_OUT_OF_RANGE: Paragraph range [2, 2] is invalid"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 2,
+      "paragraph_id": "p-61af92"
+    }
+  ],
+  "duration_ms": 44538,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 38156,
+    "completion_tokens": 4520,
+    "total_tokens": 42676,
+    "cached_tokens": 15729,
+    "api_calls": 5,
+    "cost_usd": 0.00753185,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1923,
+        "completion_tokens": 622,
+        "total_tokens": 2545,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006731
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 4896,
+        "completion_tokens": 402,
+        "total_tokens": 5298,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00089805
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 8662,
+        "completion_tokens": 473,
+        "total_tokens": 9135,
+        "cached_tokens": 4891,
+        "cost_usd": 0.00123525
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 11021,
+        "completion_tokens": 1388,
+        "total_tokens": 12409,
+        "cached_tokens": 8657,
+        "cost_usd": 0.00159965
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 11654,
+        "completion_tokens": 1635,
+        "total_tokens": 13289,
+        "cached_tokens": 150,
+        "cost_usd": 0.0031258
+      }
+    ]
+  }
+}

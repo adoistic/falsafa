@@ -1,0 +1,287 @@
+{
+  "answer": "**Vīramitrodaya** (Mitra Miśra, Medieval Indic) is the primary work in the corpus that systematically engages with mathematical, calendrical, and numerical schemas. Its single chapter, *Samayaprakāśa* (\"Illumination of Time\"), is a comprehensive treatise on time measurement, including detailed divisions of the year (*saṃvatsara*) into solar (*saura*, 365 civil days), Jovian (*bārhaspatya*, 361), civil (*sāvana*, 360), lunar (*cāndra*, 354), and sidereal (*nākṣatra*, 324) types; the *kaṭapayādi* cipher system for encoding numbers in letters (e.g., *mātula* = 365); minute time units (*nimeṣa* = blink of an eye, *truṭi* = 2 *nimeṣas*, up to *muhūrtas*); 60-year Jovian cycles (Prabhava to Kṣaya); lunar mansions (*nakṣatras*), *tithis*, *yāmas*, and algorithms for auspicious mantra transmission (dividing syllable values by 8/12/15 for *yāma*/month/*tithi*).[^1][^2][^3][^4]\n\nSeveral ancient Indic *smṛtis* (dharma treatises) reference calendrical or numerical elements in ritual contexts:\n\n- **Aṅgirasa Smṛti**: Death anniversaries (*śrāddha*) fixed annually by the lunar calendar.[^5]\n- **Nārada Smṛti**: Numerical measurements (e.g., 224 finger-breadths for ritual circles \"as declared by those who have seen the truth of numbers\").[^6]\n- **Brhaspati Smṛti**: Numerical divisions in inheritance (\"for those of the same caste but of different numbers, a division per capita\").[^7]\n- **Manusmṛti**: Numerical judgments (e.g., majority witnesses; fines like \"fine two hundred\").[^8]\n- **Yājñavalkya Smṛti**: Numerical witness rules (\"if numbers are equal, that of the more virtuous witnesses\"); fines (\"eight times amount\").[^9]\n- **Kātyāyana Smṛti**: Numerical legal procedures (e.g., ordeal dimensions, interest measures).[^10]\n\nFrench Enlightenment works like Charles Comte's *Traité de la propriété* use \"mathematical\" metaphorically (e.g., \"mathematical exactitude\" in property valuation), not schemas.[^11] No Old English, Urdu, or other works engage substantively.\n\nThe corpus lacks pure mathematical texts (e.g., no Euclidean geometry equivalents), focusing on ritual numeracy/calendars in *smṛtis*, with **Vīramitrodaya** as the deepest.\n\n[^1]: Mitra Miśra, *Vīramitrodaya*, Chapter 1 [paragraph](/works/unknown-viramitrodaya-d4b632/01/translation/#p-96ff52).\n\n[^2]: Mitra Miśra, *Vīramitrodaya*, Chapter 1 [paragraph](/works/unknown-viramitrodaya-d4b632/01/translation/#p-b46ee1).\n\n[^3]: Mitra Miśra, *Vīramitrodaya*, Chapter 1 [/works/unknown-viramitrodaya-d4b632/01/translation/].\n\n[^4]: Mitra Miśra, *Vīram",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "calendar",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "calendrical",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "mathematical",
+        "limit": 20
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "numerical",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "numbers",
+        "limit": 20
+      },
+      "result_summary": "Found 19 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "arithmetic",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "geometry",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"markdown\":\"# Vīramitrodaya\\nMitra Miśra · Medieval · sanskrit · prose · 1 chapters · 142,010 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"new moon day\\\" · \\\"conjoined"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "katapayadi"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lunar calendar"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "solar year",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-96ff52"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-b46ee1"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-3a42dd"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-99b323"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-viramitrodaya-d4b632 (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "Listed 1 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-96ff52"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-b46ee1"
+    }
+  ],
+  "duration_ms": 73113,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 317742,
+    "completion_tokens": 4562,
+    "total_tokens": 322304,
+    "cached_tokens": 29191,
+    "api_calls": 4,
+    "cost_usd": 0.11716035,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 686,
+        "total_tokens": 2588,
+        "cached_tokens": 1888,
+        "cost_usd": 0.0004402
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10150,
+        "completion_tokens": 1296,
+        "total_tokens": 11446,
+        "cached_tokens": 1897,
+        "cost_usd": 0.00239345
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15266,
+        "completion_tokens": 1226,
+        "total_tokens": 16492,
+        "cached_tokens": 10145,
+        "cost_usd": 0.00214445
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 290424,
+        "completion_tokens": 1354,
+        "total_tokens": 291778,
+        "cached_tokens": 15261,
+        "cost_usd": 0.11218225
+      }
+    ]
+  }
+}

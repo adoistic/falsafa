@@ -1,0 +1,263 @@
+{
+  "answer": "**In \"The Wanderer\" (chapter 11 of *Old English Elegies*), the speaker opens by declaring that \"Wyrd is wholly steadfast\" (Old English: *wyrd bið ful aræd*), framing *wyrd*—the Anglo-Saxon concept of fate or cosmic order—as an inexorable, impersonal force with sovereign agency over human life.[^1] This agency is not that of a personal deity but of a fixed, unyielding principle that governs exile, loss, and mutability: \"A weary mind cannot withstand Wyrd, nor a troubled heart offer any help.\"[^2] The Wanderer concedes *wyrd*'s dominance by resigning human efforts to it, emphasizing patience amid inevitable decay (\"the decree of the Fates changes the world under the heavens\"), while subordinating it to Christian providence (\"Good is he who... seeks grace, comfort from the Father in heaven\").[^3] Human agency is thus limited to endurance and inner restraint, not alteration of *wyrd*'s course.\n\n**Juxtaposed with *Manusmṛti* 12's account of karmic causation, the Wanderer's resignation appears **further from** Manu's framework than first appears.** Manu's chapter exhaustively outlines *karma* as a strict, impersonal law of moral causation tying actions (*mind, speech, body*) to rebirths, states, and sufferings: \"Action, which springs from the mind, speech, and body, has good and bad results; the states of men, high, low, and middle, are born of their *karma*.\"[^4] Unlike *wyrd*'s apparent arbitrariness (tied to life's transience rather than precise moral deserts), *karma* is retributory and gradated by *guṇas* (*sattva*, *rajas*, *tamas*), with outcomes like hells, animal births, or heavens directly from past deeds (e.g., Brahmana-slayers reborn as dogs or pigs).[^5] Crucially, Manu vests significant human agency in expiation: sins are not wholly steadfast but mitigable via penances (*kṛcchras*, vows, *tapas*, Vedic recitation), restoring purity and altering trajectories.[^6] One is not resigned to unchangeable fate but actively purifies *karma* toward *mokṣa* or higher states.[^7]\n\n**Surface similarities**—both impersonal ( *wyrd* under the Measurer; *karma* under the Self/Puruṣa), deterministic, urging virtue—mask deeper divergence. The Wanderer's stoic acceptance concedes near-total agency to *wyrd* (efforts futile), with grace as passive hope; Manu's system demands proactive agency against karmic fruits, rejecting pure fatalism. *Wyrd* evokes elegiac mutability; *karma*, ethical engineering of destiny. The corpus lacks fuller Old English fate discussions or *Manusmṛti* parallels, but this contrast holds.\n\n[^1]: *Old English Elegies*, ch. 11 (*The Wanderer*), [p-9cca5e](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9cca5e).\n[^2]: Ibid., [p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n[^3]: Ibid., [p-5bdc65](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-5bdc65).\n[^4]: *Manusmṛti*, ch. 12, [paragraph starting \"Action, which springs...\" (Mn_12.3)](/works/unknown-manusmrti-347b76/12/translation/#p-406660). (Note: Exact paragraph ID from sequential body; top-level ch.12 citation: [/works/unknown-manusmrti-347b76/12/translation/](https://falsafa.corpus/works/unknown-manusmrti-347b76/12/translation/).)\n[^5]: Ibid., e.g., Mn_12.55–72 (rebirths by sin); full ch.12 on *guṇas* and cycles.\n[^6]: Ibid., e.g., Mn_11.72ff. (penances for great sins); Mn_12.82–93 (*tapas*, knowledge over mere resignation).\n[^7]: Ibid., Mn_12.85–90 (knowledge/renunciatory *karma* for liberation).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Wanderer Wyrd steadfast",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Wyrd\" \"steadfast\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti karma book 12",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old english"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wyrd",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wanderer",
+        "limit": 10
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manusmriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"laws of manu\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "karma",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wyrd\" wanderer"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-9cca5e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-5bdc65"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-406660"
+    }
+  ],
+  "duration_ms": 40975,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 64974,
+    "completion_tokens": 4624,
+    "total_tokens": 69598,
+    "cached_tokens": 14844,
+    "api_calls": 5,
+    "cost_usd": 0.0130802,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1949,
+        "completion_tokens": 652,
+        "total_tokens": 2601,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00043365
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2238,
+        "completion_tokens": 542,
+        "total_tokens": 2780,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006961
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 10435,
+        "completion_tokens": 668,
+        "total_tokens": 11103,
+        "cached_tokens": 2233,
+        "cost_usd": 0.00208605
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13785,
+        "completion_tokens": 642,
+        "total_tokens": 14427,
+        "cached_tokens": 10430,
+        "cost_usd": 0.0015135
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 36567,
+        "completion_tokens": 2120,
+        "total_tokens": 38687,
+        "cached_tokens": 150,
+        "cost_usd": 0.0083509
+      }
+    ]
+  }
+}

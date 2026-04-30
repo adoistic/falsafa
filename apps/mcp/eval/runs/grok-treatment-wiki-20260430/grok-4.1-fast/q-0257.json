@@ -1,0 +1,207 @@
+{
+  "answer": "In Cynewulf's *Elene*, Saint Helena (Elene) is portrayed as a figure of commanding royal authority, wielding imperial power as the mother of Constantine to interrogate Jewish scholars, coerce revelations about the True Cross through threats of execution, and oversee its discovery, enshrining, and the construction of a church on Calvary.[^1] She is repeatedly styled a \"glorious war-queen,\" \"triumphant queen,\" or \"Caesar’s kin,\" acting as judge, inquisitor, and builder: summoning assemblies of thousands, quoting prophets to press her theological demands, threatening mass immolation by pyre (\"a pyre shall consume you, the hottest of death-flames\"), and imprisoning the reluctant Judas in a dry well for seven days until hunger breaks him.[^2] Her authority blends worldly Roman dominion—backed by legions, heralds, and hostages—with divinely inspired zeal, enabling her to convert Judas (renamed Cyriacus) into Jerusalem's bishop and even locate Christ's nails through further commands.[^3] This culminates in her sending a relic-embellished bridle to her son and establishing the bishopric, affirming her as a ruler whose spiritual mission reinforces political might.\n\nBy contrast, Cynewulf's *Juliana* centers Saint Juliana as a martyr-virgin whose authority is exclusively spiritual and moral, rooted in unyielding faith rather than institutional power.[^4] A noble maiden pledged by her father to the pagan reeve Eleusius, she defies him, her father, and imperial persecution under Maximian, refusing marriage unless he converts and enduring scourging, suspension by hair, boiling lead, and fire without yielding.[^5] Her power manifests in binding and interrogating a disguised demon in her cell—compelling it to confess its role in biblical evils (e.g., Judas's betrayal, Nero's persecutions)—and publicly teaching crowds to embrace Christianity before her beheading.[^6] Unlike Elene, Juliana holds no throne, army, or civic role; her \"authority\" shames judges, exposes devils, and inspires conversions through verbal defiance and miraculous endurance, embodying the passive-aggressive sovereignty of the virginal martyr.\n\nThe treatments thus diverge sharply: *Elene* elevates Helena's hybrid queenly-spiritual authority as active and triumphant, aligning with her historical imperial status to \"conquer\" truth via command and coercion, while *Juliana* idealizes its protagonist's purely pious defiance, her moral suasion inverting patriarchal and demonic hierarchies without worldly leverage—reflecting hagiographic typology where virgin-martyrs triumph through suffering alone.[^7]\n\n[^1]: Cynewulf, *Elene*, ch. 1 [(/works/cynewulf-elene-d2d132/01/translation/)](https://falsafa.corpus/works/cynewulf-elene-d2d132/01/translation/).\n\n[^2]: Cynewulf, *Elene*, ch. 1 [(/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1)](https://falsafa.corpus/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1); [(/works/cynewulf-elene-d2d132/01/translation/#p-534627)](https://falsafa.corpus/works/cynewulf-elene-d2d132/01/translation/#p-534627).\n\n[^3]: Cynewulf, *Elene*, ch. 1 [(/works/cynewulf-elene-d2d132/01/translation/#p-7b1c1f)](https://falsafa.corpus/works/cynewulf-elene-d2d132/01/translation/#p-7b1c1f).\n\n[^4]: Cynewulf, *Juliana*, ch. 1 [(/works/cynewulf-juliana-9a2157/01/translation/)](https://falsafa.corpus/works/cynewulf-juliana-9a2157/01/translation/).\n\n[^5]: Cynewulf, *Juliana*, ch. 1 [(/works/cynewulf-juliana-9a2157/01/translation/#p-6bc4fe)](https://falsafa.corpus/works/cynewulf-juliana-9a2157/01/translation/#p-6bc4fe); [(/works/cynewulf-juliana-9a2157/01/translation/#p-3fccbd)](https://falsafa.corpus/works/cynewulf-juliana-9a2157/01/translation/#p-3fccbd).\n\n[^6]: Cynewulf, *Juliana*, ch. 1 [(/works/cynewulf-juliana-9a2157/01/translation/#p-bd327c)](https://falsafa.corpus/works/cynewulf-juliana-9a2157/01/translation/#p-bd327c); [(/works/cynewulf-juliana-9a2157/01/translation/#p-5df281)](https://falsafa.corpus/works/cynewulf-juliana-9a2157/01/translation/#p-5df281).\n\n[^7]: Cynewulf, *Elene*, ch. 1 [(/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe)](https://falsafa.corpus/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe); Cynewulf, *Juliana*, ch. 1 [(/works/cynewulf-juliana-9a2157/01/translation/#p-1f8ce8)](https://falsafa.corpus/works/cynewulf-juliana-9a2157/01/translation/#p-1f8ce8).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Helena\" authority",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Juliana\" authority",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "cynewulf-elene-d2d132",
+        "work_slug_b": "cynewulf-juliana-9a2157",
+        "topic": "female authority"
+      },
+      "result_summary": "{\"topic\":\"female authority\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"cynewulf-elene-d2d132\",\"title\":\"Elene\",\"a"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "cynewulf-elene-d2d132",
+        "work_slug_b": "cynewulf-juliana-9a2157",
+        "topic": "saintly woman"
+      },
+      "result_summary": "{\"topic\":\"saintly woman\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"cynewulf-elene-d2d132\",\"title\":\"Elene\",\"auth"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-534627"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-7b1c1f"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-6bc4fe"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-3fccbd"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-bd327c"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-5df281"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-1f8ce8"
+    }
+  ],
+  "duration_ms": 42442,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 54827,
+    "completion_tokens": 3767,
+    "total_tokens": 58594,
+    "cached_tokens": 18375,
+    "api_calls": 4,
+    "cost_usd": 0.01009265,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1916,
+        "completion_tokens": 558,
+        "total_tokens": 2474,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00037975
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2387,
+        "completion_tokens": 373,
+        "total_tokens": 2760,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00038175
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 14466,
+        "completion_tokens": 765,
+        "total_tokens": 15231,
+        "cached_tokens": 150,
+        "cost_usd": 0.0032532
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "compare_works",
+          "compare_works"
+        ],
+        "prompt_tokens": 36058,
+        "completion_tokens": 2071,
+        "total_tokens": 38129,
+        "cached_tokens": 14461,
+        "cost_usd": 0.00607795
+      }
+    ]
+  }
+}

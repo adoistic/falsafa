@@ -1,0 +1,206 @@
+{
+  "answer": "**Hospitality (*atithyam*)** in the Smṛti corpus refers to the ritualized reception and feeding of an *atithi*—typically an unexpected guest, especially a wandering Brāhmaṇa from outside one's village, who arrives without prior notice (often during the *Vaiśvadeva* rite) and stays only one night (*anitya*, \"without fixed time\").[^1] [^2] [^3] It is not mere politeness but a sacred duty akin to worshiping a deity or Viṣṇu himself, demanding immediate honor through *arghya* water, a seat, foot-washing, pleasant conversation, food (even if the host must fast), and an escort upon departure.[^4] [^5] Neglect brings severe consequences: the householder's ancestors refuse offerings for 15 years, fire rituals become futile, and the negligent fall to hell (reborn as a crow).[^6] Even sinners or outcastes qualify as *atithi* if arriving at the right time.[^7] Non-Brāhmaṇas (Kṣatriya, Vaiśya, Śūdra) may receive lesser hospitality after Brāhmaṇas eat.[^8]\n\nAmong householder (*gṛhastha*) duties, *atithyam* ranks as one of the **five or six *mahāyajñas* (great sacrifices)**—daily, indispensable rites preventing one from becoming an *apaca* (neglectful householder). These are: (1) *bhūta-yajña* (to beings, via *bali* offerings), (2) *pitṛ-yajña* (to ancestors), (3) *deva-yajña* (to gods, via *homa*), (4) *brahma-yajña* (Veda study), and (5) *atithi- or manuṣya-yajña* (guests); some texts add *Vaiśvadeva* as sixth.[^9] [^10] [^11] It equals or surpasses other sacrifices: \"By the study of the Veda, by the Agnihotra... a householder does not attain those worlds which he does by the worship of an *atithi*.\"[^12] The householder eats last, after gods, ancestors, guests, dependents, and servants.[^13] This holds across Pārāśara, Yājñavalkya, Viṣṇu, and Manu Smṛtis for Kali *yuga* householders.[^14]\n\nThe corpus (37 works) lacks exhaustive coverage of all Smṛtis (e.g., no full Gautama or Baudhāyana), but these texts consistently elevate it as foundational *gṛhastha-dharma*.\n\n[^1]: Pārāśara Smṛti 1.41–42, [paragraph](/works/unknown-parasara-smrti-2259be/01/translation/#p-20eb98).\n\n[^2]: Yājñavalkya Smṛti 1.111, [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-6cfa89).\n\n[^3]: Viṣṇu Smṛti 67.34–35, [passage](/works/unknown-visnu-smrti-27f0d8/67/translation/#p-653828).\n\n[^4]: Pārāśara Smṛti 1.43–44, [paragraph](/works/unknown-parasara-smrti-2259be/01/translation/#p-189326).\n\n[^5]: Viṣṇu Smṛti 67.28–30, [passage](/works/unknown-visnu-smrti-27f0d8/67/translation/#p-a3a277).\n\n[^6]: Pārāśara Smṛti 1.45–46, 56–57, [passage](/works/unknown-parasara-smrti-2259be/01/translation/#p-d461ee).\n\n[^7]: Pārāśara Smṛti 1.58, [paragraph](/works/unknown-parasara-smrti-2259be/01/translation/#p-47bae3).\n\n[^8]: Viṣṇu Smṛti 67.36–37, [passage](/works/unknown-visnu-smrti-27f0d8/67/translation/#p-653828).\n\n[^9]: Yājñavalkya Smṛti 1.102, [paragraph](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-76e5e9).\n\n[^10]: Pārāśara Smṛti 1.39, [paragraph](/works/unknown-parasara-smrti-2259be/01/translation/#p-40daa2).\n\n[^11]: Viṣṇu Smṛti 67 (whole chapter on daily rites), [chapter](/works/unknown-visnu-smrti-27f0d8/67/translation/).\n\n[^12]: Viṣṇu Smṛti 67.44, [paragraph](/works/unknown-visnu-smrti-27f0d8/67/translation/#p-653828).\n\n[^13]: Viṣṇu Smṛti 67.41–43, [passage](/works/unknown-visnu-smrti-27f0d8/67/translation/#p-653828).\n\n[^14]: Manusmṛti 3.98–102, [passage](/works/unknown-manusmrti-347b76/04/translation/#p-de0b29) (searches confirm alignment).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "atithyam",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hospitality",
+        "limit": 30
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"householder duties\" OR \"householder's duties\" OR grihastha",
+        "limit": 30
+      },
+      "result_summary": "Found 23 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "atithi",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"great sacrifices\" OR mahayajna OR \"five sacrifices\" OR \"pancha mahayajna\" OR \"pancha maha\" hospitality OR guest OR atithi",
+        "limit": 30
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"householder\" duties OR grihastha duties",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 67
+      },
+      "result_summary": "Read ch.67 of unknown-visnu-smrti-27f0d8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 67,
+      "paragraph_id": "p-20eb98"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 67,
+      "paragraph_id": "p-6cfa89"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 67,
+      "paragraph_id": "p-653828"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 67,
+      "paragraph_id": "p-189326"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 67,
+      "paragraph_id": "p-a3a277"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 67,
+      "paragraph_id": "p-d461ee"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 67,
+      "paragraph_id": "p-47bae3"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 67,
+      "paragraph_id": "p-76e5e9"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 67,
+      "paragraph_id": "p-40daa2"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 67,
+      "paragraph_id": "p-de0b29"
+    }
+  ],
+  "duration_ms": 38080,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 49389,
+    "completion_tokens": 3871,
+    "total_tokens": 53260,
+    "cached_tokens": 3918,
+    "api_calls": 3,
+    "cost_usd": 0.011225599999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1913,
+        "completion_tokens": 732,
+        "total_tokens": 2645,
+        "cached_tokens": 1884,
+        "cost_usd": 0.000466
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 6694,
+        "completion_tokens": 1206,
+        "total_tokens": 7900,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0016592
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 40782,
+        "completion_tokens": 1933,
+        "total_tokens": 42715,
+        "cached_tokens": 150,
+        "cost_usd": 0.0091004
+      }
+    ]
+  }
+}

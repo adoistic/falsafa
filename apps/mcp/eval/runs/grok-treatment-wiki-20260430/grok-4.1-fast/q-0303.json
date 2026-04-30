@@ -1,0 +1,198 @@
+{
+  "answer": "**The Old English \"Resignation\" (in *Old English Elegies*, ch. 9) portrays a speaker enduring profound earthly sufferings—exile, poverty, betrayal, divine punishment for sins, and impending death—while repeatedly praying for God's guidance, mercy, patience, and eternal salvation.[^1] The recommended posture is one of faithful **patient endurance** (or \"resignation\" proper): submitting to unchangeable divine fate and human limitations, bearing trials with a \"blithe heart,\" and hoping for otherworldly redemption. The poem explicitly counsels: \"Yet it is best, when a man cannot change his Fate, / that he then endure it well.\"[^2] Earlier, the speaker vows \"patience and memory of all things / that you, Truth-fast King, wish to send as a trial,\" framing suffering as God's test to be met with steadfast piety.[^3]**\n\n**Iqbal's \"Falsafa-e-Gham\" (Philosophy of Sorrow; in *Bang-E-Dara Part 3*, ch. 7) confronts suffering as intrinsic to life's beauty, love, and spiritual awakening—not a mere trial to endure, but a vital, transformative force that polishes the heart, reveals hidden truths, and grants \"wings for flight\" to the soul.[^4] The recommended posture is philosophical **embrace** of sorrow: viewing it as enlightenment's light, love's permanence amid loss, and a unifying \"silent song of soul\" that completes human existence. Sorrow \"is not sorrow,\" but essential: \"A rose that has not lost a petal is no rose to see\"; it awakens from \"pleasant dreams,\" scatters and reunites humanity like a river's drops, and in trials, directs one to the \"radiant\" brows of luminous ancestors (like stars in the night).[^5] Unlike passive resignation, sorrow here empowers toward eternity and self-realization.[^6]**\n\n[^1]: *Old English Elegies*, ch. 9 (\"Resignation\"), translation, [full chapter](/works/unknown-old-english-elegies-d5fe9e/09-resignation/translation/).\n[^2]: *Old English Elegies*, ch. 9, translation, [p-04f5b1](/works/unknown-old-english-elegies-d5fe9e/09-resignation/translation/#p-04f5b1).\n[^3]: Ibid., [p-04f5b1](/works/unknown-old-english-elegies-d5fe9e/09-resignation/translation/#p-04f5b1).\n[^4]: *Bang-E-Dara Part 3*, ch. 7 (\"Falsafa-e-Gham\"), translation, [full chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/).\n[^5]: Ibid., [p-141d8d](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-141d8d), [p-e436cc](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-e436cc), [p-811039](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-811039), [p-523a9f](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-523a9f).\n[^6]: Ibid., [p-e693fc](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-e693fc).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Resignation",
+        "limit": 10
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Falsafa-e-Gham",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Old English\" Resignation",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal \"Falsafa-e-Gham\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.9\\nprose · 1¶ · 890w · vocab 270 (TTR 64%, hapax 70%)\\n\\n## Distinctive trigrams\\n\\\"ordainer mercy though\\\" · \\\"guide almi"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.7\\nverse · 7¶ · 674w · vocab 273 (TTR 71%, hapax 79%)\\n\\n## Distinctive trigrams\\n\\\"philosophy sorrow though\\\" · \\\"sorrow t"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-04f5b1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-141d8d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-e436cc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-811039"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-523a9f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-e693fc"
+    }
+  ],
+  "duration_ms": 36355,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 29868,
+    "completion_tokens": 3745,
+    "total_tokens": 33613,
+    "cached_tokens": 16873,
+    "api_calls": 4,
+    "cost_usd": 0.005315149999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1914,
+        "completion_tokens": 837,
+        "total_tokens": 2751,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007788
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 4600,
+        "completion_tokens": 395,
+        "total_tokens": 4995,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00083535
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10252,
+        "completion_tokens": 729,
+        "total_tokens": 10981,
+        "cached_tokens": 4595,
+        "cost_usd": 0.00172565
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 13102,
+        "completion_tokens": 1784,
+        "total_tokens": 14886,
+        "cached_tokens": 10247,
+        "cost_usd": 0.00197535
+      }
+    ]
+  }
+}

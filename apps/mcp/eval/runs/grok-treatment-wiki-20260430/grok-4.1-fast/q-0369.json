@@ -1,0 +1,198 @@
+{
+  "answer": "**The Falsafa corpus contains the *Manusmṛti* (Laws of Manu), a foundational Smṛti text that prescribes *dharma* (duty/righteousness) as rigidly determined by birth into one's *varṇa* (social class), *āśrama* (life stage), and other given factors, with relentless emphasis on adherence to these inherited roles for cosmic and social order.**[^1][^2]\n\nFor example:\n- The text opens with a request to declare \"the sacred laws for all the four *varṇas* (social orders) and for those born between them,\" framing *dharma* as pre-assigned.[^3]\n- Marriage, conduct, purification rites, kingship, and penalties are all tied to \"his own *varṇa*\" or *varṇas*, with inter-*varṇa* mixing often prohibited or penalized.[^4]\n- Even in renunciation or law, duty remains stratified: \"his own *dharma*\" prevails, protecting the system where *varṇas* submit to *daṇḍa* (rod of punishment) only when necessary.[^5]\n\n**However, the corpus does not contain Iqbal's philosophical prose (e.g., *Asrār-e-Khudī* / *Secrets of the Self*, where *khudī*—selfhood—is most elaborated as a dynamic, assertive ego cultivated through love, power, and divine unity, often critiquing static traditions). The included *Bang-e-Dara* collections (Parts 1–3) are Urdu poetry with English translations that yield no matches for \"khudī\", \"selfhood\", Manu, Smṛti, or *dharma*-as-given in English bodies.**[^6][^7]\n\nSearches for *khudī*-related concepts (\"self\", \"ego\", \"selfhood\", \"self realisation\") and direct terms return zero relevant hits in Iqbal's works here.[^8] Wiki cards highlight poetic themes of striving, beauty, and human potential (e.g., \"Perpetual Striving\", \"The Human Being\"), but nothing on *khudī* poetics or Smṛti critique.[^9]\n\n**Thus, the corpus lacks material to pinpoint where Iqbal's *khudī* (individual self-realization transcending givens) would most disagree with Manu's *dharma*-as-given (e.g., fixed castes over self-assertion). No direct comparison or Iqbal reference to Manu/Smṛti exists.** If later additions include Iqbal's prose, this could change.\n\n[^1]: *Manusmṛti*, work wiki card (distinctive trigrams: \"his own *varṇa*\", \"his own dharma\"). [/works/unknown-manusmrti-347b76/wiki/_work.card.md/]\n[^2]: *Manusmṛti*, ch. 1 chapter map/openings emphasize *varṇa*-specific laws. [/works/unknown-manusmrti-347b76/01/translation/]\n[^3]: *Manusmṛti* 1.2: \"the sacred laws for all the four *varṇas*\". [/works/unknown-manusmrti-347b76/01/translation/#p-b51d68]\n[^4]: *Manusmṛti* ch. 3: \"marry a wife of his own *varṇa*\"; chs. 2, 8–10 throughout on *varṇa*-duties. [/works/unknown-manusmrti-347b76/03/translation/#p-4355ac]; [/works/unknown-manusmrti-347b76/08/translation/#p-803bc3]\n[^5]: *Manusmṛti* 7.23: \"*varṇas* corrupted without *daṇḍa*\". [/works/unknown-manusmrti-347b76/07/translation/#p-279acb]\n[^6]: `list_works(author=\"iqbal\")`: Only *Bang-e-Dara* Parts 1–3 (Urdu poetry, 1924). No prose.\n[^7]: `search_corpus(\"Iqbal khudi\")`, `(\"Iqbal Manu\")`, `(\"Manusmriti\")`, `(\"smriti dharma\")`: 0 results.\n[^8]: `search_corpus(\"\\\"self\\\" OR selfhood OR ego OR khudi OR \\\"self realisation\\\"\")`: 14 hits, none in Iqbal; *ego* appears cosmogonically in *Manusmṛti* 1.14 as \"the concealer and ruler\". [/works/unknown-manusmrti-347b76/01/translation/#p-f689c4]\n[^9]: *Bang-e-Dara* wiki cards: Themes of \"endless life\", \"Perpetual Striving\", but no *khudī*/Smṛti. E.g., Part 2 ch.17. [/works/allama-iqbal-bang-e-dara-part-2-9bc58c/wiki/_work.card.md/]",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal khudi",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smriti dharma",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal Manu",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"self\" OR selfhood OR ego OR khudi OR \"self realisation\" OR \"selfhood\"",
+        "limit": 20
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma OR caste OR varna OR duty",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Indic"
+      },
+      "result_summary": "Listed 19 works"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-b51d68"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-4355ac"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-803bc3"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-279acb"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-f689c4"
+    }
+  ],
+  "duration_ms": 48853,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 21501,
+    "completion_tokens": 5119,
+    "total_tokens": 26620,
+    "cached_tokens": 449,
+    "api_calls": 3,
+    "cost_usd": 0.00679235,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1919,
+        "completion_tokens": 1115,
+        "total_tokens": 3034,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009188
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5061,
+        "completion_tokens": 1775,
+        "total_tokens": 6836,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018772
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 14521,
+        "completion_tokens": 2229,
+        "total_tokens": 16750,
+        "cached_tokens": 149,
+        "cost_usd": 0.00399635
+      }
+    ]
+  }
+}

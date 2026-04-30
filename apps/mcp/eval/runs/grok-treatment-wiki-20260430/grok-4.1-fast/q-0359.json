@@ -1,0 +1,261 @@
+{
+  "answer": "**Manu on *dharma* as eternal:**\n\n> The entire Veda is the root-source of Dharma (the sacred law and **eternal duty**), as are *Smṛti* (the remembered tradition) and the conduct of those who know it, the practices of the virtuous, and one's own self-satisfaction.[^1]\n\nThis verse frames *dharma* (righteousness, sacred law, duty) as rooted in the Veda—itself primordial and unchanging—alongside tradition and virtuous practice, implying a timeless, pre-existing order revealed rather than invented.[^2]\n\n**Charles Comte on moral law (*moeurs*/laws) as conditioned by *époque* (circumstances/epoch) and *peuple* (species/peoples):**\n\n> ...one will thus be able to see how the **moral habits** of each fraction of which the species is composed influence the fate of the whole, and how **migrations, invasions, or conquests transport the ideas, morals, and institutions formed under certain local circumstances, to peoples placed in different circumstances**.[^3]\n\nComte's Vol. II systematically compares *moeurs* (morals/customs/laws) across human \"species\" (races/varieties), climates, soils, and epochs, arguing they arise from physical/social conditions (*circonstances locales*), evolve via action/reaction with environment, and shift/transplant with migrations—not from any universal or eternal source.[^4]\n\n**Staging them:** Manu's position is foundationalist/divine-revelationist: *dharma* *always was*, embedded in cosmic order (Veda as root-source). Comte's is historicist/relativist: moral laws are emergent, variable products of peoples (*peuples*, species) and their *époque* (local circumstances like climate, soil, conquests). Manu assumes an unchanging archetype; Comte derives variation empirically from observable differences.\n\n**Which is harder to argue out of?** Comte's. Manu's absolutism yields to counterexamples (e.g., *dharma*'s own *varna*-/epoch-specific adaptations elsewhere in Manu), empirical refutation, or philosophical skepticism about revelation. But Comte's—grounded in cross-cultural data (e.g., islanders' hierarchies varying by latitude/resources)—demands disproving vast observations of moral divergence tied to conditions; rejecting it requires denying evident relativity without a superior causal model.[^5]\n\n[^1]: Manusmṛti, Ch. 2, [¶p-d70b97](/works/unknown-manusmrti-347b76/02/translation/#p-d70b97).\n\n[^2]: Manusmṛti, Ch. 2, [whole chapter](/works/unknown-manusmrti-347b76/02/translation/).\n\n[^3]: *Traité de Législation: VOL II*, Ch. 13, [¶p-a0c9b3](/works/charles-comte-traite-de-legislation-vol-ii-20331d/13-du-developpement-moral-des-peuples-de-diverses-esp/translation/#p-a0c9b3).\n\n[^4]: *Traité de Législation: VOL II*, Ch. 13, [whole chapter](/works/charles-comte-traite-de-legislation-vol-ii-20331d/13-du-developpement-moral-des-peuples-de-diverses-esp/translation/); cf. Ch. 6 on climate's indirect role via manners/vices.\n\n[^5]: *Traité de Législation: VOL II*, Ch. 13 passim (e.g., [¶p-b368fa](/works/charles-comte-traite-de-legislation-vol-ii-20331d/13-du-developpement-moral-des-peuples-de-diverses-esp/translation/#p-b368fa) on circumstance-reaction cycles).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma always"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral law\" époque"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" eternal OR timeless OR always"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "loi morale époque peuple"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL II\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 91,008 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"van di"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" eternal OR timeless OR \"always\" OR \"from the beginning\" OR primordial"
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral\" OR \"morals\" OR \"morality\" OR duty OR dharma OR \"natural law\" epoch OR age OR time OR \"people\" OR nation OR society OR \"varies\" OR \"depends\" OR \"conditioned\" OR relative",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL II · ch.13\\nprose · 15¶ · 2324w · vocab 494 (TTR 47%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"peoples diverse species"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"loi morale\" OR \"moral law\" OR moeurs OR morals OR mœurs OR \"duty\" OR dharma OR \"sacred law\" époque OR epoque OR temps OR people OR peuple OR nation OR race OR climat OR climate OR conditioned OR varie OR differ OR selon",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 13
+      },
+      "result_summary": "Read ch.13 of charles-comte-traite-de-legislation-vol-ii-20331d (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-d70b97"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL II · ch.6\\nprose · 26¶ · 3687w · vocab 798 (TTR 47%, hapax 60%)\\n\\n## Distinctive trigrams\\n\\\"sensitivity pleasure pai"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"moral\" development OR moeurs OR \"mores\" OR customs OR \"moral habits\" OR \"moral law\" OR loi OR \"duty\" climate OR climat OR époque OR people OR peuples OR nation OR race OR species OR \"local circumstances\" OR \"physical circumstances\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-d70b97"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-a0c9b3"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-b368fa"
+    }
+  ],
+  "duration_ms": 48514,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 89129,
+    "completion_tokens": 5474,
+    "total_tokens": 94603,
+    "cached_tokens": 40883,
+    "api_calls": 5,
+    "cost_usd": 0.014430349999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1941,
+        "completion_tokens": 596,
+        "total_tokens": 2537,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004039
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6726,
+        "completion_tokens": 1310,
+        "total_tokens": 8036,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00171775
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15666,
+        "completion_tokens": 907,
+        "total_tokens": 16573,
+        "cached_tokens": 6721,
+        "cost_usd": 0.00257855
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 30252,
+        "completion_tokens": 801,
+        "total_tokens": 31053,
+        "cached_tokens": 150,
+        "cost_usd": 0.0064284
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 34544,
+        "completion_tokens": 1860,
+        "total_tokens": 36404,
+        "cached_tokens": 30247,
+        "cost_usd": 0.00330175
+      }
+    ]
+  }
+}

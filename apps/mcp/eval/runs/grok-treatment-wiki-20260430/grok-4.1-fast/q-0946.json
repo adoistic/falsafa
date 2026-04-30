@@ -1,0 +1,266 @@
+{
+  "answer": "In Allama Iqbal's *Bang-e-Dara* (the primary Iqbal work in the Falsafa corpus), his **takhallus** (pen name) \"Iqbal\"—literally meaning \"good fortune\" or \"prosperity\"—conventionally appears in the **maqta** (closing couplet or stanza) of his ghazals and nazms, as is standard in Urdu poetry.[^1] This self-signature often carries a meta-poetic or philosophical twist, turning the name into a **trope for self-alienation, existential paradox, or the elusiveness of inner fortune**. Rather than mere sign-off, it tropes the poet's divided self: the external \"Iqbal\" (fortunate persona) versus an unaware or striving inner reality, aligning with Iqbal's broader themes of *khudi* (selfhood) and spiritual awakening.\n\n### Key Examples of Appearance and Function\n- **Self-referential ignorance of fortune**: The most explicit maqta plays on the name's semantics in a dialogue where a cleric critiques the poet's paradoxes (asceticism vs. revelry, orthodoxy vs. mysticism). The poet responds by lamenting his own unknowing:  \n  > “For **Iqbal** is of ‘**Iqbal**’ unaware,  \n  > There is no jest in this, by God, I swear.”[^2]  \n  Here, \"Iqbal\" (good fortune) is troped as absent or veiled from the poet himself—fortune exists, but self-knowledge does not. It enacts humility and irony, subverting the takhallus's auspicious connotation into a critique of ego.\n\n- **Laments as inscribed fortune**: In another maqta-address, the poet (or a Muslim persona) is chided for despair, with \"Iqbal\" invoked to contrast past glory against present sighs:  \n  > \"**Iqbal**, every breath of yours is veiled in your laments,  \n  > Your burning breast is filled with cries.\"[^3]  \n  The name tropes fortune as embedded in suffering (*aah*, sighs), not ease—good fortune is the creative fire of complaint, fueling revival.\n\nIqbal's maqtas frequently echo this pattern across *Bang-e-Dara* (e.g., ch. 2 Part 1: \"O **Iqbal**, why should my verse seem in vain?\"; ch. 4 Part 1: \"I, myself, O **Iqbal**, am counted among my own critics\"),[^4] using the takhallus to collapse poet/narrator, observer/subject. As trope, it performs **self-distancing**: \"good fortune\" becomes a mirror for the ummah's lost prosperity, urging introspection amid decline. The corpus lacks deeper stylistic analysis (e.g., no full ghazal breakdowns or original Urdu maqtas with glosses), and Iqbal's Persian works (e.g., *Asrar-e-Khudi*) are absent, limiting corpus-wide patterns.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, [ch. 44](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, [p-b1ce70](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-b1ce70).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 3*, [p-489986](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/10-har-nafas-iqbal-tera-aah-mein-mastoor-hai/translation/#p-489986).\n[^4]: Search-derived snippets from *Bang-E-Dara Part 1* ch. 2–11 (e.g., [p-0118fb](/works/allama-iqbal-bang-e-dara-part-1-55b25c/02-anokhi-waza-hai-saare-zamane-se-nirale-hain/translation/#p-0118fb), [p-808707](/works/allama-iqbal-bang-e-dara-part-1-55b25c/04-jinhein-main-dhoondta-tha-aasmanon-mein-zameenon-m/translation/#p-808707)).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal takhallus",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Iqbal\" maqta",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "maqta Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"good fortune\" Iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Iqbal\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.44 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.44\\nverse · 27¶ · 437w · vocab 181 (TTR 77%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"cleric tale mean\\\" · \\\"tale mean tell"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 10,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.10 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 10
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.10\\nverse · 21¶ · 403w · vocab 153 (TTR 81%, hapax 83%)\\n\\n## Distinctive trigrams\\n\\\"muslim iqbal every\\\" · \\\"iqbal every "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 39
+      },
+      "result_summary": "Read ch.39 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 39,
+      "paragraph_id": "p-b1ce70"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 39,
+      "paragraph_id": "p-489986"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 39,
+      "paragraph_id": "p-0118fb"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 39,
+      "paragraph_id": "p-808707"
+    }
+  ],
+  "duration_ms": 65209,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 51165,
+    "completion_tokens": 6052,
+    "total_tokens": 57217,
+    "cached_tokens": 28634,
+    "api_calls": 5,
+    "cost_usd": 0.008963899999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1917,
+        "completion_tokens": 859,
+        "total_tokens": 2776,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00053045
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2619,
+        "completion_tokens": 704,
+        "total_tokens": 3323,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00059335
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7546,
+        "completion_tokens": 1454,
+        "total_tokens": 9000,
+        "cached_tokens": 2614,
+        "cost_usd": 0.0018441
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_wiki_full",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 14718,
+        "completion_tokens": 1308,
+        "total_tokens": 16026,
+        "cached_tokens": 7541,
+        "cost_usd": 0.00246645
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 24365,
+        "completion_tokens": 1727,
+        "total_tokens": 26092,
+        "cached_tokens": 14713,
+        "cost_usd": 0.00352955
+      }
+    ]
+  }
+}

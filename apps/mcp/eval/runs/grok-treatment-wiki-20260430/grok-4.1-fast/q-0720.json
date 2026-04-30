@@ -1,0 +1,167 @@
+{
+  "answer": "**Chapter 60 of *Diwan-E-Zauq***, titled *kya gharaz laakh khudaai mein hon daulat waale* (\"What purpose do the wealthy serve in God's realm?\"), is the final ghazal in Sheikh Ibrahim Zauq's collection of 60 ghazals.[^1] Like the others, it is structured as 19 rhyming couplets (*sher*) in verse form, blending romantic, mystical, and philosophical themes typical of classical Urdu poetry.\n\nThe poem opens by questioning the value of worldly wealth and power compared to the devoted life of lovers (*ʿāshiqān*), whose passion trumps material fortune: \"What use are all the treasures that the men of fortune claim? / My soul is sworn to serve the ones who live in passion’s name.\"[^2] It critiques healers profiting from lovers' pain, pious souls shamed by love's fire in paradise, and those who shun wine (symbolizing ecstasy) yet miss divine judgment.[^3] Zauq contrasts greedy feet that expand endlessly with lovers' boundless longing, notes his tomb's neglect save by moths to its flame, and praises patient suffering.[^4]\n\nLater couplets mock the self-importance of the famous, describe mutual sorrow between poet and heart, envision medicine (the beloved) humiliating rivals, and liken documenting passion to futile fireworks.[^5] Regret and tears visit the heart; the beloved's disdain is artful; visions of her defy legalistic judgment; and the garden rose pales beside her true grace—ending with Zauq's *takhallus* (signature).[^6]\n\nOverall, it elevates spiritual/erotic love over wealth, piety, and fame, portraying lovers as superior to \"daulat waale\" (the wealthy) in God's realm—a fitting capstone to the *diwān*, emphasizing refined passion amid Mughal-era decline.\n\n[^1]: *Diwan-E-Zauq*, ch. 60, [translation](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/60-kya-gharaz-laakh-khudaai-mein-hon-daulat-waale/translation/).\n\n[^2]: Ibid., [p-7079ea](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/60-kya-gharaz-laakh-khudaai-mein-hon-daulat-waale/translation/#p-7079ea).\n\n[^3]: Ibid., [paragraphs p-899300 to p-5f8b5d](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/60-kya-gharaz-laakh-khudaai-mein-hon-daulat-waale/translation/#p-899300).\n\n[^4]: Ibid., [paragraphs p-b1f60b to p-c4a1e4](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/60-kya-gharaz-laakh-khudaai-mein-hon-daulat-waale/translation/#p-b1f60b).\n\n[^5]: Ibid., [paragraphs p-bceb21 to p-e25e4f](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/60-kya-gharaz-laakh-khudaai-mein-hon-daulat-waale/translation/#p-bceb21).\n\n[^6]: Ibid., [paragraphs p-29adea to p-7462ee](https://falsafa.corpus/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/60-kya-gharaz-laakh-khudaai-mein-hon-daulat-waale/translation/#p-29adea).",
+  "tool_calls": [
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "diwan-e-zauq",
+        "chapter_number": 60
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: diwan-e-zauq"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "zauq"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "diwan-e-zauq"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: diwan-e-zauq"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 60
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 60-kya-gharaz-laakh-khudaai-mein-hon-daulat-waale.card.md. Run: bun run scripts/build-wiki.ts --work sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "Listed 60 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 60,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.60 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 60,
+      "paragraph_id": "p-7079ea"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 60,
+      "paragraph_id": "p-899300"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 60,
+      "paragraph_id": "p-5f8b5d"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 60,
+      "paragraph_id": "p-b1f60b"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 60,
+      "paragraph_id": "p-c4a1e4"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 60,
+      "paragraph_id": "p-bceb21"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 60,
+      "paragraph_id": "p-e25e4f"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 60,
+      "paragraph_id": "p-29adea"
+    },
+    {
+      "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+      "chapter_number": 60,
+      "paragraph_id": "p-7462ee"
+    }
+  ],
+  "duration_ms": 26816,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 15585,
+    "completion_tokens": 2860,
+    "total_tokens": 18445,
+    "cached_tokens": 6250,
+    "api_calls": 4,
+    "cost_usd": 0.0036095,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1908,
+        "completion_tokens": 578,
+        "total_tokens": 2486,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00038845
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_works",
+          "list_chapters"
+        ],
+        "prompt_tokens": 2203,
+        "completion_tokens": 250,
+        "total_tokens": 2453,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00028345
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 2343,
+        "completion_tokens": 303,
+        "total_tokens": 2646,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005976
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 9131,
+        "completion_tokens": 1729,
+        "total_tokens": 10860,
+        "cached_tokens": 2338,
+        "cost_usd": 0.00234
+      }
+    ]
+  }
+}

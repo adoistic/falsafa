@@ -1,0 +1,275 @@
+{
+  "answer": "In *Traité de la propriété* Vol. II, Charles Comte sets out the distinction between literary property and monopoly primarily in Chapter 31 (\"On the foundations and nature of literary property\"). He refutes the claim—common among opponents of authors' rights—that legal protections for literary works are merely a \"veritable monopoly\" granted by governments, rather than a natural property right arising from labor.[^1] Governments, he argues, do not *create* property (which stems from \"a certain order of facts\"); they merely proclaim and protect preexisting rights, or deny/violate them.[^2]\n\nComte's criterion for distinguishing genuine **literary property** from a baseless **monopoly** is whether the object meets the defining characteristics of *property*: specifically, the creation of exchangeable *value* through individual human labor. He illustrates this by dissecting the production chain of a book (paper rags → paper → printing → binding → sale), showing how *every contributor's labor* (rag-gatherer, papermaker, printer, etc.) creates incremental value that rightfully belongs to them as property.[^3] The author's intellectual labor is no different or less worthy:\n\n> That being understood, it is a matter of knowing if, among the great number of persons whose contribution is necessary for the formation of a book, **the author is the only one whose labor is without value or without utility**; it is a matter of knowing if **this labor is less necessary, and deserves less to be protected than that of all the others**. The question thus posed, it is **difficult to understand how the existence of literary property could have been put in doubt**.[^4]\n\nThus, literary works are *private property* (like land or movables) when they embody value from the author's irreplaceable contributions (e.g., \"the order in which these sentiments and ideas are rendered; ... the terms or expressions ... the arrangement of these terms or the style of the writer; the name and reputation of the author\").[^5] By contrast, a monopoly lacks this natural basis in labor-value (e.g., arbitrary government grants for industrial patents, critiqued in nearby chapters as temporary privileges, not true property).[^6]\n\n[^1]: Charles Comte, *Traité de la propriété: VOL II*, ch. 31, [p-f4f7aa](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/31-des-fondemens-et-de-la-nature-de-la-propriete-litt/translation/#p-f4f7aa).\n[^2]: *Ibid.*, [p-f4f7aa](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/31-des-fondemens-et-de-la-nature-de-la-propriete-litt/translation/#p-f4f7aa).\n[^3]: *Ibid.*, [p-cf2198](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/31-des-fondemens-et-de-la-nature-de-la-propriete-litt/translation/#p-cf2198) to [p-ae691c](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/31-des-fondemens-et-de-la-nature-de-la-propriete-litt/translation/#p-ae691c).\n[^4]: *Ibid.*, [p-66656e](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/31-des-fondemens-et-de-la-nature-de-la-propriete-litt/translation/#p-66656e).\n[^5]: *Ibid.*, [p-ad643c](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/31-des-fondemens-et-de-la-nature-de-la-propriete-litt/translation/#p-ad643c).\n[^6]: See esp. ch. 29 (\"On the property of inventions or industrial processes\"), [p-ef28fe](/works/charles-comte-traite-de-la-propriete-vol-ii-6beea5/29-de-la-propriete-des-inventions-ou-des-procedes-ind/translation/#p-ef28fe), contrasting temporary industrial \"privileges\" with literary rights.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "literary property monopoly",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"literary property\" monopoly",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"literary\" property OR monopoly OR \"author\" property",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "monopoly literary",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 31
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.31\\nprose · 48¶ · 5507w · vocab 1011 (TTR 41%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"according common law"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 30
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.30\\nprose · 52¶ · 6554w · vocab 1102 (TTR 36%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"godson *practical tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 32
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.32\\nprose · 36¶ · 4374w · vocab 825 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"fall public domain\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 33
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.33\\nprose · 53¶ · 6543w · vocab 1262 (TTR 40%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"eighth year reign\\\" "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 31
+      },
+      "result_summary": "Read ch.31 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 32
+      },
+      "result_summary": "Read ch.32 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 33
+      },
+      "result_summary": "Read ch.33 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 30
+      },
+      "result_summary": "Read ch.30 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 29
+      },
+      "result_summary": "Read ch.29 of charles-comte-traite-de-la-propriete-vol-ii-6beea5 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 31,
+        "paragraph_ids": [
+          "p-f4f7aa",
+          "p-828289",
+          "p-cf2198",
+          "p-ae691c",
+          "p-66656e"
+        ]
+      },
+      "result_summary": "Returned 5 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 29,
+        "paragraph_ids": [
+          "p-ef28fe"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 29,
+      "paragraph_id": "p-f4f7aa"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 29,
+      "paragraph_id": "p-cf2198"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 29,
+      "paragraph_id": "p-ae691c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 29,
+      "paragraph_id": "p-66656e"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 29,
+      "paragraph_id": "p-ad643c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+      "chapter_number": 29,
+      "paragraph_id": "p-ef28fe"
+    }
+  ],
+  "duration_ms": 61392,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 126946,
+    "completion_tokens": 5099,
+    "total_tokens": 132045,
+    "cached_tokens": 60001,
+    "api_calls": 6,
+    "cost_usd": 0.01893855,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1916,
+        "completion_tokens": 832,
+        "total_tokens": 2748,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007767
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2771,
+        "completion_tokens": 449,
+        "total_tokens": 3220,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004964
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6730,
+        "completion_tokens": 383,
+        "total_tokens": 7113,
+        "cached_tokens": 150,
+        "cost_usd": 0.001515
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 12430,
+        "completion_tokens": 693,
+        "total_tokens": 13123,
+        "cached_tokens": 6725,
+        "cost_usd": 0.00182375
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 50949,
+        "completion_tokens": 1133,
+        "total_tokens": 52082,
+        "cached_tokens": 150,
+        "cost_usd": 0.0107338
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 52150,
+        "completion_tokens": 1609,
+        "total_tokens": 53759,
+        "cached_tokens": 50944,
+        "cost_usd": 0.0035929
+      }
+    ]
+  }
+}

@@ -1,0 +1,241 @@
+{
+  "answer": "**Allama Iqbal's *Bang-E-Dara* (across its three parts) contains the most direct philosophical reflections on youth**, portraying it as dynamic, action-oriented, and spiritually charged in contrast to modern complacency, with calls to reclaim ancestral vigor. For instance:\n\n- In *Bang-E-Dara Part 3*, chapter 13 (\"Khitab ba Jawanan-e-Islam\"), Iqbal directly addresses Muslim youth, urging solemn reflection on their forefathers' world-conquering spirit from the Arabian deserts—men of proud poverty who built empires—contrasting it with the current generation's inaction and lost inheritance.[^1][^2]\n- In *Bang-E-Dara Part 2*, chapter 11 (\"Hah\"), youth is depicted as burning with hopeful longing and embracing \"The Joy of Today\" as its creed, rejecting delayed heavenly promises as too late for its vital pulse.[^3]\n- Related mentions appear in *Bang-E-Dara Part 3*, chapter 22 (\"Taleem aur iske Nataaij\"), lamenting modern education's effects despite youth's progress.[^4]\n\n**Mirza Ghalib's *Diwan-E-Ghalib*** offers poignant poetic reflection on youth as a fiery, irretrievable state lost to time: \"Time has laid you low, Asad, and struck you to the core; / That fire is missing, and the youth you had before is gone.\"[^5]\n\nMere narrative mentions of \"young warriors\" or youths (e.g., in Cynewulf's *Andreas*) or legal rules about young sons (e.g., in *Āṅgirasa Smṛti*) do not constitute philosophical reflection on the nature or essence of being young.[^6] No other works in the corpus develop this theme substantively.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-0291d8).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 2*, [paragraphs](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/11-hah/translation/#p-6db29c).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/22-taleem-aur-iske-nataaij/translation/#p-da36f6).\n\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/35-dil-se-teri-nigaah-jigar-tak-utar-gayi/translation/#p-9aea8e).\n\n[^6]: E.g., Cynewulf, *Andreas*, ch. 1 [here](/works/cynewulf-andreas-07b573/01/translation/#p-ee08ea) (narrative youth appearances); *Āṅgirasa Smṛti*, ch. 1 [here](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-01cf93) (legal status).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "youth",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "young",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"to be young\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nature of youth\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.13\\nverse · 2¶ · 268w · vocab 118 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"address muslim youth\\\" · \\\"muslim yout"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-hah.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-2-9bc58c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-0291d8",
+          "p-365462"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-6db29c",
+          "p-52b7ac",
+          "p-3e10ab"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 22,
+        "paragraph_ids": [
+          "p-da36f6"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 35,
+        "paragraph_ids": [
+          "p-9aea8e"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 35,
+      "paragraph_id": "p-0291d8"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 35,
+      "paragraph_id": "p-365462"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 35,
+      "paragraph_id": "p-6db29c"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 35,
+      "paragraph_id": "p-da36f6"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 35,
+      "paragraph_id": "p-9aea8e"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 35,
+      "paragraph_id": "p-ee08ea"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 35,
+      "paragraph_id": "p-01cf93"
+    }
+  ],
+  "duration_ms": 35019,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 48651,
+    "completion_tokens": 4786,
+    "total_tokens": 53437,
+    "cached_tokens": 32242,
+    "api_calls": 4,
+    "cost_usd": 0.007286900000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 575,
+        "total_tokens": 2476,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003854
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 12166,
+        "completion_tokens": 1290,
+        "total_tokens": 13456,
+        "cached_tokens": 1889,
+        "cost_usd": 0.00279485
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 16315,
+        "completion_tokens": 1227,
+        "total_tokens": 17542,
+        "cached_tokens": 12161,
+        "cost_usd": 0.00205235
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 18269,
+        "completion_tokens": 1694,
+        "total_tokens": 19963,
+        "cached_tokens": 16310,
+        "cost_usd": 0.0020543
+      }
+    ]
+  }
+}

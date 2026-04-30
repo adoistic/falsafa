@@ -1,0 +1,311 @@
+{
+  "answer": "**Manu (Manusmṛti, ch. 8)** defines legitimate evidence primarily through witnesses (*sākṣya*), with documents (*lekhya*) as supporting proof in debts and oaths/ordeals (*divya*) as a final resort when witnesses fail.[^1][^2] Witnesses must be trustworthy householders of equal or lower *varṇa*, excluding relatives, enemies, or the flawed (8.61–68); they are questioned in court with oaths tailored to *varṇa* (truth for Brahminas, etc.) (8.87–88). Documents prove debts if denied (8.51–52). Oaths/ordeals (fire, water) apply \"in matters where there are no witnesses\" (8.109), purifying the truthful.[^3] **Preference order**: Witnesses > documents > oaths/ordeals.\n\n**Yājñavalkya (Yājñavalkya Smṛti, ch. 2)** explicitly states: \"Proof is declared to be a document, possession, and witnesses. In the absence of any of these, one of the ordeals is prescribed\" (Yj_2.22).[^4] Witnesses (*sākṣya*) are noble, truthful men of the same *varṇa* (2.68–72), questioned with oaths (2.73–75). Documents (*lekhya*) require details like date, names, and witnesses' signatures (2.84–94). Ordeals (*divya*: balance, fire, water, poison, libation) are for grave accusations when human proof fails (2.95–113). Possession strengthens title. **Preference order**: Documents/possession/witnesses > ordeals.\n\n**Nārada (Nāradasmṛti, ch. 1)** prioritizes \"a written document, witnesses, and possession\" as \"the three kinds of human proof\" (1.65); divine proof (*divya*, ordeals) follows \"when there are no witnesses\" (20.1), especially \"in crimes of violence and accusations\" or secret matters (20.4–5).[^5] Witnesses (*sākṣya*) are upright men, excluding the flawed (1.133–169), with detailed examination (1.180–213). Documents (*lekhya*) are valid if genuine (1.115–126). Ordeals (*divya*: balance, fire, water, poison, consecrated water) have full procedures, barred for certain *varṇas/groups* (20.6–48). **Preference order**: Documents/witnesses/possession (*human*) > ordeals (*divine*).\n\nAll three prioritize human proof (*sākṣya/lekhya*, ± possession) over *divya*, reflecting classical *vyavahāra* hierarchy.[^6] **Nārada diverges most sharply** by mandating ordeals explicitly for \"crimes of violence\" (*sāhasam*) and \"secret matters\" even with speaking parties but no witnesses (20.1,4), providing the corpus' most detailed 5-ordeal typology with *varṇa*-specific bans and seasonal rules (20.6–48)—unlike Manu's brief oaths (8.109–117) or Yājñavalkya's general fallback (2.95–113).\n\n[^1]: Manusmṛti, ch. 8, [full chapter](/works/unknown-manusmrti-347b76/08/translation/#p-87f976).\n[^2]: Manusmṛti 8.51–52[/works/unknown-manusmrti-347b76/08/translation/#p-85e12e].\n[^3]: Manusmṛti 8.109[/works/unknown-manusmrti-347b76/08/translation/#p-dc780b].\n[^4]: Yājñavalkya Smṛti 2.22[/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-e6e133].\n[^5]: Nāradasmṛti 1.65[/works/unknown-naradasmrti-7650d2/01/translation/#p-a8d0b3]; 20.1[/works/unknown-naradasmrti-7650d2/01/translation/#p-983bae].\n[^6]: Cross-corpus: All cite *Manusmṛti* lineage; Y/N explicit triad, M implicit.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "narada"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sākṣya lekhya divya"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"witnesses\" \"documents\" \"ordeals\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ordeal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "witnesses",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "documents evidence"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "testimony"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.8\\nverse · 381¶ · 16882w · vocab 2625 (TTR 32%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"made pay fine\\\" · \\\"fine two hundred\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nāradasmṛti · ch.1\\nprose · 968¶ · 27765w · vocab 3130 (TTR 23%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adulter"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"witness\" document ordeal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"proof\" witness"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "divya"
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-naradasmrti-7650d2 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-87f976"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-85e12e"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-dc780b"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-e6e133"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-a8d0b3"
+    },
+    {
+      "work_slug": "unknown-naradasmrti-7650d2",
+      "chapter_number": 1,
+      "paragraph_id": "p-983bae"
+    }
+  ],
+  "duration_ms": 47755,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 149294,
+    "completion_tokens": 4260,
+    "total_tokens": 153554,
+    "cached_tokens": 29975,
+    "api_calls": 5,
+    "cost_usd": 0.02749255,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1942,
+        "completion_tokens": 511,
+        "total_tokens": 2453,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006214
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2521,
+        "completion_tokens": 375,
+        "total_tokens": 2896,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006692
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 4965,
+        "completion_tokens": 618,
+        "total_tokens": 5583,
+        "cached_tokens": 2516,
+        "cost_usd": 0.0009246
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 22204,
+        "completion_tokens": 944,
+        "total_tokens": 23148,
+        "cached_tokens": 4960,
+        "cost_usd": 0.0041688
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 117662,
+        "completion_tokens": 1812,
+        "total_tokens": 119474,
+        "cached_tokens": 22199,
+        "cost_usd": 0.02110855
+      }
+    ]
+  }
+}

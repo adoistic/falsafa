@@ -1,0 +1,283 @@
+{
+  "answer": "In Allama Iqbal's *Bang-E-Dara*, the Urdu term *huzūr* (transliterated as \"huzoor\"; often rendered in English translation as \"Presence\") evokes an intimate spiritual encounter or \"being-present-with\" a luminous, exalted figure—typically the Prophet Muhammad as the embodiment of divine mercy, or metaphorically a candle representing eternal divine light.[^1][^2]\n\nThis presence is not mere physical proximity but a realm of ecstatic surrender, prayer-like prostration (*namāz*), and annihilation of the self (*fanāʾ*) in the beloved's radiance, yielding bliss amid burning or tumult. For instance:\n\n- In \"Huzoor Risalat Ma'ab Mein\" (\"In the Exalted Prophet's Presence\"), the poet is transported by angels to \"the presence of Mercy's guiding Light,\" where the Prophet addresses him directly amid heavenly converse.[^3]\n- In \"Shama-o-Parwana\" (\"The Candle and the Moth\"), the moth's \"fall\" (*girnā*) into the candle's *huzūr* is its \"sacred prayer and rite,\" wherein its heart \"finds bliss in burning with delight\"—a Sufi symbol of loving union through self-immolation.[^4]\n\nIqbal contrasts this huzūr with worldly alienation, as when the nightingale-poet laments to the \"Presence\": \"In the world, no true repose I find; / The life for which we yearn is not for humankind.\"[^5] The corpus does not provide further Iqbal works using this exact term, nor an explicit philosophical treatise on it; these usages align with broader Sufi-Iqbalian themes of *khudī* (selfhood) realizing itself through divine intimacy.\n\n[^1]: *Bang-E-Dara Part 3*, ch. 11 \"Huzoor Risalat Ma'ab Mein\" ([/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/)).\n[^2]: *Bang-E-Dara Part 1*, ch. 41 \"Shama-o-Parwana\" ([/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/](https://falsafa.corpus/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/)).\n[^3]: *Bang-E-Dara Part 3*, ch. 11, [p-c8ea02](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/#p-c8ea02).\n[^4]: *Bang-E-Dara Part 1*, ch. 41, [p-d2c29e](/works/allama-iqbal-bang-e-dara-part-1-55b25c/41-shama-o-parwana/translation/#p-d2c29e).\n[^5]: *Bang-E-Dara Part 3*, ch. 11, [p-14a317](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/#p-14a317).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "huzuri",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"huzuri\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"being-present-with\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "huzur",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "huzoor",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"divine presence\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "presence",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"being present\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.41\\nverse · 9¶ · 158w · vocab 67 (TTR 84%, hapax 82%)\\n\\n## Distinctive trigrams\\n\\\"candle moth candle\\\" · \\\"moth candle ho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 3 · ch.11\\nverse · 12¶ · 219w · vocab 95 (TTR 83%, hapax 84%)\\n\\n## Distinctive trigrams\\n\\\"exalted prophet presence\\\" · \\\"prop"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 23
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 23-farishte.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.41 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "c8ea02"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "ae07ba"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 41,
+        "paragraph_ids": [
+          "d2c29e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "14a317"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "huzur",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 11,
+      "paragraph_id": "p-c8ea02"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 11,
+      "paragraph_id": "p-d2c29e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 11,
+      "paragraph_id": "p-14a317"
+    }
+  ],
+  "duration_ms": 59161,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 28485,
+    "completion_tokens": 5819,
+    "total_tokens": 34304,
+    "cached_tokens": 19394,
+    "api_calls": 5,
+    "cost_usd": 0.0056974,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 336,
+        "total_tokens": 2241,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0002664
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2482,
+        "completion_tokens": 1033,
+        "total_tokens": 3515,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009904
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6315,
+        "completion_tokens": 855,
+        "total_tokens": 7170,
+        "cached_tokens": 2477,
+        "cost_usd": 0.00131895
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 8578,
+        "completion_tokens": 1428,
+        "total_tokens": 10006,
+        "cached_tokens": 6310,
+        "cost_usd": 0.0014831
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9205,
+        "completion_tokens": 2167,
+        "total_tokens": 11372,
+        "cached_tokens": 8573,
+        "cost_usd": 0.00163855
+      }
+    ]
+  }
+}

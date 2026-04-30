@@ -1,0 +1,336 @@
+{
+  "answer": "**Manu’s verses in *Manusmṛti* Chapter 7 outline the foundational duties (*rājadharma*) of a king, who embodies the Kṣatriya archetype as protector of the *varṇas* and *āśramas*.**[^1] The chapter emphasizes the king's divine origin (from particles of Indra, etc.), his role in wielding *daṇḍa* (punishment) to maintain order, and practical conduct: rising early to consult aged Brāhmaṇas, mastering sciences (Veda, polity, etc.), conquering vices (e.g., hunting, gambling), appointing tested ministers and envoys, building forts, and daily protection of subjects through revenue collection and gifts to Brāhmaṇas. While judicial equity is central—kings must apply *daṇḍa* justly after deliberation—no explicit \"court\" scene or assembly behavior is depicted; the focus is administrative and moral self-discipline for protection (*pālana*), not courtroom protocol.[^2]\n\n**Yājñavalkya’s *Yājñavalkya Smṛti* (primarily Chapter 1, verses 309–368) echoes Manu on kingly qualities (energetic, pure, wise) and structure (ministers, priest, forts, spies), but integrates \"behavior at court\" into a daily routine centered on *vyavahāra* (legal procedure), detailed further in Chapter 2.**[^3] The king rises to inspect finances/expenditure, then \"personally looks into legal disputes\" (*vyavahāra*), bathes, eats, meets spies/envoys, dines amid music, and retires—surrounded by servants/ministers, emphasizing paternal equity (*pitṛvat*).[^4] At court, he must be impartial (*amāni*), deliberate with *sabhāsad* (assessors: Vedic scholars), free from anger/greed, and weigh factors like offense, time, strength (*bala*), and wealth before punishing—mirroring Manu’s *daṇḍa* but proceduralized (e.g., documents, witnesses, ordeals).[^5] Chapter 2 specifies court norms: hear plaintiff/defendant, record claims, prioritize violence/theft, admonish witnesses, and fine false ones double the dispute.[^6]\n\n**Similarities:** Both prioritize *daṇḍa* as Dharma’s guarantor (Manu: cosmic order; Yājñavalkya: limbs like sovereign/ministers); daily Brāhmaṇa consultation/gifts; minister testing; protection via spies/revenue; vices avoidance for equity. Kings prosper via just rule, perish otherwise.[^7]\n\n**Differences:** Manu is cosmological/moral (king as deity, vices lists), broad on polity (*daṇḍanīti*); Yājñavalkya is practical/judicial—explicit daily court attendance, assessor roles, *maṇḍala* politics (six measures), and *vyavahāra* mechanics (18 dispute titles). No Manu equivalent to Yājñavalkya’s routine (e.g., evening spies/music) or court proofs (ordeals/documents). Manu stresses humility to Brāhmaṇas; Yājñavalkya, *sabhā*-like equity with them.[^8]\n\nThe corpus lacks Yājñavalkya on a \"royal assembly\" (*sabha*) per se; \"court\" implies judicial *vyavahāramandala*.\n\n[^1]: *Manusmṛti*, Ch. 7, [translation](/works/unknown-manusmrti-347b76/07/translation/).\n[^2]: E.g., [p-b46e87]–[p-96ec46] (origins/*daṇḍa*); [p-cbe0d7]–[p-9fc85d] (daily Brāhmaṇas); [p-0952cb]–[p-4b64d2] (ministers).\n[^3]: *Yājñavalkya Smṛti*, Ch. 1, [translation](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/).\n[^4]: [p-436d33]–[p-60c71f] (Yj_1.327–330: disputes, spies, music).\n[^5]: [p-179181] (Yj_1.309: qualities); [p-a0c43a] (Yj_1.368: punishment factors).\n[^6]: *Yājñavalkya Smṛti*, Ch. 2, [translation](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/); e.g., [p-8459f3]–[p-71dff7] (assessors).\n[^7]: Manu [p-ab7b2a]–[p-6458d4]; Yājñavalkya [p-ff5556]–[p-8b92a6] (Yj_1.354–357).\n[^8]: Manu [p-158377]; Yājñavalkya [p-806dcc] (ministers/priest).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kshatriya duties"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king's behaviour\" OR \"behavior at court\" yajnavalkya"
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "king court OR assembly OR durbar yajnavalkya"
+      },
+      "result_summary": "Found 29 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kshatriya\" OR king OR raja duties OR behaviour OR conduct OR behavior OR etiquette",
+        "limit": 20
+      },
+      "result_summary": "Found 12 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"king\" OR raja OR kshatriya OR \"royal\" OR court OR assembly yajnavalkya",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "king duties court behavior"
+      },
+      "result_summary": "{\"topic\":\"king duties court behavior\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"titl"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the king\" OR raja OR \"rājā\" OR kshatriya OR \"royal court\" OR assembly OR sabha OR durbar",
+        "limit": 10
+      },
+      "result_summary": "Found 8 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-b46e87"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-96ec46"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-cbe0d7"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-9fc85d"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-0952cb"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-4b64d2"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-436d33"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-60c71f"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-179181"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-a0c43a"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-8459f3"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-71dff7"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-ab7b2a"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-6458d4"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-ff5556"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-8b92a6"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-158377"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-806dcc"
+    }
+  ],
+  "duration_ms": 51482,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 90921,
+    "completion_tokens": 5398,
+    "total_tokens": 96319,
+    "cached_tokens": 29972,
+    "api_calls": 5,
+    "cost_usd": 0.0163874,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1916,
+        "completion_tokens": 580,
+        "total_tokens": 2496,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006507
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2977,
+        "completion_tokens": 573,
+        "total_tokens": 3550,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00059975
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10304,
+        "completion_tokens": 950,
+        "total_tokens": 11254,
+        "cached_tokens": 2972,
+        "cost_usd": 0.00209
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 14675,
+        "completion_tokens": 1384,
+        "total_tokens": 16059,
+        "cached_tokens": 10299,
+        "cost_usd": 0.00208215
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "compare_works",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 61049,
+        "completion_tokens": 1911,
+        "total_tokens": 62960,
+        "cached_tokens": 14670,
+        "cost_usd": 0.0109648
+      }
+    ]
+  }
+}

@@ -1,0 +1,246 @@
+{
+  "answer": "**No works in the Falsafa corpus directly address the problem of theodicy in the sense of reconciling an omnipotent, benevolent deity's justice with the existence of innocent suffering, as framed in Abrahamic philosophical traditions (e.g., no equivalents to Leibniz, Augustine, or the Book of Job).**[^1]\n\nThe corpus (37 works, primarily Indic smṛtis, Kawi Buddhist/Jain texts, Old English Christian poems, Urdu poetry, and French political theory) lacks systematic theological defenses of divine goodness amid evil. Searches for \"theodicy\", \"problem of evil\", \"divine justice suffering\", \"righteous suffer\", and variants yielded no matches, and genre filters (theology/religion) returned zero results.[^2]\n\nHowever, several Indic works explain **suffering and inequality as the inexorable fruit of karma** (actions from body, speech, mind), resolving disparity without invoking a personal deity's moral problem. This karmic causality—past deeds determine rebirths, hells, and pains—functions as a non-theistic \"theodicy\" in dharmic traditions:\n\n- **Kuñjarakarṇa Dharmakathana** (Mpu Dusun, Medieval Kawi prose): The ascetic Kuñjarakarṇa asks Buddha why rebirth occurs, why some suffer while others prosper, and why forms vary (perfect vs. impure). Buddha sends him to Yama's hells to witness sinners' torments, where Yama explains: suffering/happiness arises solely from one's own past good/evil karma—no other source. \"It is impossible not to experience the fruit of one's good and evil deeds... from one's own self that they come.\" The text details hells, rebirths (e.g., lepers, beasts from sins), and salvation via dharma.[^3][^4]\n\n- **Manusmṛti** (Manu, Ancient Sanskrit verse): Chapter 12 outlines how actions (esp. sins like Brahmanicide, theft) yield suffering: hells (e.g., cauldrons, sword-forests), wretched rebirths (worms, beasts, outcastes), diseases, poverty. \"By the practice of those sinful actions... obtain sufferings in these various wombs... revolving in dreadful hells.\" Purification via penances restores purity, emphasizing karma's retributive justice.[^5]\n\nThese provide mechanistic explanations (karma as moral causation) rather than defenses of divine permission of evil. Old English poems (Andreas, Elene, Juliana) depict saintly suffering as trial/victory over evil (e.g., Mermedonians torment Christians), but without philosophical justification.[^6] Urdu works (Iqbal, Ghalib) poetically lament suffering without resolution.[^7]\n\nIf the query seeks karmic explanations of suffering/inequality, the above are the primary matches; no others (e.g., no Book of Job analog or Epicurean problem).\n\n[^1]: Corpus-wide searches (\"theodicy\", \"problem of evil\", \"divine justice suffering\", etc.) returned 0 exact hits; fallback token matches were incidental (e.g., unrelated \"suffering\" in economics texts). `list_works` confirmed 37 works, none theology-focused.\n\n[^2]: `search_corpus` results across queries.\n\n[^3]: Kuñjarakarṇa Dharmakathana, Ch. 1, [¶p-e545f7](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-e545f7).\n\n[^4]: Kuñjarakarṇa Dharmakathana, Ch. 1, [¶p-50854d](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-50854d).\n\n[^5]: Manusmṛti, Ch. 12, [¶p-074f6e](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n\n[^6]: E.g., Andreas, Ch. 1 ([chapter](/works/cynewulf-andreas-07b573/01/translation/)).\n\n[^7]: E.g., Bang-E-Dara Part 3, \"Falsafa-e-Gham\" (philosophy of grief).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "theodicy",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "problem of evil",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"why does God\" OR \"why God allows\" evil OR suffering",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "divine justice suffering",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"justice of God\" evil OR suffering",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"righteous suffer\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "theology"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "religion"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"why\" suffering OR evil OR pain God OR divine OR karma",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cause of suffering",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"why do the righteous\" OR \"why the innocent\" suffer",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"markdown\":\"# Kunjarakarna Dharmakathana\\nMpu Dusun · Medieval · kawi · prose · 1 chapters · 17,973 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homage feet lord\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e545f7",
+          "p-50854d"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"why is there\" suffering OR evil OR pain",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-kamahayanikan-2a0c19"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Kamahayanikan\\nMpu Shri Sambhara Surya Warama · Medieval · kawi · prose · 1 chapters · 14,398 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"body s"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-e545f7"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-50854d"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-074f6e"
+    }
+  ],
+  "duration_ms": 42424,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 93556,
+    "completion_tokens": 4285,
+    "total_tokens": 97841,
+    "cached_tokens": 28151,
+    "api_calls": 4,
+    "cost_usd": 0.01663105,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1910,
+        "completion_tokens": 759,
+        "total_tokens": 2669,
+        "cached_tokens": 1888,
+        "cost_usd": 0.0004783
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 7436,
+        "completion_tokens": 823,
+        "total_tokens": 8259,
+        "cached_tokens": 1888,
+        "cost_usd": 0.0016155
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 16949,
+        "completion_tokens": 1143,
+        "total_tokens": 18092,
+        "cached_tokens": 7431,
+        "cost_usd": 0.00284665
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "get_passage",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 67261,
+        "completion_tokens": 1560,
+        "total_tokens": 68821,
+        "cached_tokens": 16944,
+        "cost_usd": 0.0116906
+      }
+    ]
+  }
+}

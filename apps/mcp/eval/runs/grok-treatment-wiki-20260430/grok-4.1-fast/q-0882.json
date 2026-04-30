@@ -1,0 +1,235 @@
+{
+  "answer": "**In *Diwan-e-Ghalib*, 'manzil' (destination/halting-place) appears with both literal and metaphorical senses, as in these couplets (sher).**[^1][^2]\n\n**Literal halting-place (physical journey):**  \n> With every step, the goal recedes in vain from me;  \n> My very speed makes the whole desert plain flee from me.[^1]\n\nHere, *manzil* is the concrete stopping-point or endpoint of a desert trek, evoked by caravan-travel imagery: *qadam* (steps), *raftaar* (pace/speed), *biyaban* (wilderness/desert), and *doori* (distance). The mirage-like retreat of the goal amid motion underscores futile wandering.[^3]\n\n**Sufi spiritual stage:**  \n> My heart’s a lane for thoughts of wine and revelry,  \n> But my soul on the path to piety—it was not to be.[^2]\n\n*Manzil* denotes a mystical station (*maqam*) on the Sufi path (*suluk*), specifically *sar-manzil-e-taqwa* (pinnacle stage of piety/God-fearing devotion). The contrast with worldly indulgence (*khayal-e-mai-o-saaghar*, thoughts of wine/cups) and *jaada-e*/*nafas* (soul's advance/breath as spiritual progression) shifts it to esoteric ascent, unattained.[^4]\n\n**Polysemy activation:** Primarily **context** and **company of nearby words**. Literal use clusters with physical travel lexicon (*qadam*, *raftaar*, *biyaban*); spiritual pairs with Sufi-journey terms (*jaada*, *sar-manzil*, *taqwa*). Syntax reinforces: genitive *doori-e-manzil* (distance-*of*-goal, spatial) vs. compound *sar-manzil-e-taqwa* (head-goal-*of*-piety, hierarchical stage). Ghazal radif/refrain (*...na hua*) amplifies ambiguity playfully.[^5]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 67: \"Har qadam doori-e-manzil hai numayan mujh se\" [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/67-har-qadam-doori-e-manzil-hai-numayan-mujh-se/translation/#p-08026e).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 29: \"Dehr mein naqsh-e-wafa wajah-e-tasalli na hua\" [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/29-dehr-mein-naqsh-e-wafa-wajah-e-tasalli-na-hua/translation/#p-726f9a).\n\n[^3]: Full ch. 67 context sustains travel motif (desert fire, blisters, shadow fleeing). [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/67-har-qadam-doori-e-manzil-hai-numayan-mujh-se/translation/).\n\n[^4]: Taqwa as Sufi *maqam* (stage); cf. classical *manazil al-sa'irin*. Full ch. 29 contrasts faith's failure with revelry. [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/29-dehr-mein-naqsh-e-wafa-wajah-e-tasalli-na-hua/translation/).\n\n[^5]: Work-wide wiki notes travel collocations in Ghalib; polysemy via radif common in Urdu ghazal. [wiki card](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/wiki/67-har-qadam-doori-e-manzil-hai-numayan-mujh-se.card.md).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib manzil"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"manzil\" Ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manzil",
+        "limit": 50
+      },
+      "result_summary": "Found 42 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 67
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.67\\nverse · 12¶ · 286w · vocab 120 (TTR 87%, hapax 88%)\\n\\n## Distinctive trigrams\\n\\\"every step goal\\\" · \\\"step goal recede"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 57
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.57\\nverse · 9¶ · 195w · vocab 89 (TTR 81%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"ring outside door\\\" · \\\"outside door tod"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 29
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 29-dehr-mein-naqsh-e-wafa-wajah-e-tasalli-na-hua.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 232
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.232\\nverse · 9¶ · 227w · vocab 95 (TTR 70%, hapax 87%)\\n\\n## Distinctive trigrams\\n\\\"pain bound hundred\\\" · \\\"star-cup delight "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 211
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 211-arz-e-niyaaz-e-ishq-ke-qaabil-nahin-raha.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 67,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.67 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 232,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.232 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 57,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.57 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 29,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.29 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 211,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.211 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 211,
+      "paragraph_id": "p-08026e"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 211,
+      "paragraph_id": "p-726f9a"
+    }
+  ],
+  "duration_ms": 42689,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 99654,
+    "completion_tokens": 4336,
+    "total_tokens": 103990,
+    "cached_tokens": 62999,
+    "api_calls": 5,
+    "cost_usd": 0.01264895,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1935,
+        "completion_tokens": 393,
+        "total_tokens": 2328,
+        "cached_tokens": 150,
+        "cost_usd": 0.000561
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2376,
+        "completion_tokens": 562,
+        "total_tokens": 2938,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007337
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 29392,
+        "completion_tokens": 686,
+        "total_tokens": 30078,
+        "cached_tokens": 2371,
+        "cost_usd": 0.00586575
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 30946,
+        "completion_tokens": 933,
+        "total_tokens": 31879,
+        "cached_tokens": 29387,
+        "cost_usd": 0.00224765
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 35005,
+        "completion_tokens": 1762,
+        "total_tokens": 36767,
+        "cached_tokens": 30941,
+        "cost_usd": 0.00324085
+      }
+    ]
+  }
+}

@@ -1,0 +1,356 @@
+{
+  "answer": "In the Sanskrit *smṛti* tradition, *dharma*—translated variably as sacred law, duty, righteousness, or moral order—refers fundamentally to enjoined norms of conduct that uphold cosmic, social, and individual order, leading to prosperity in this life and liberation hereafter. It is not an abstract ethical ideal but a concrete set of prescriptive rules (*codanā*) derived authoritatively from scripture and validated by tradition and virtuous practice.\n\nThe *Āṅgirasa Smṛti* explicitly defines *dharma* as \"that which is a scriptural injunction (*codanā*),\" knowable through textual indicators and ultimately rooted in *śruti* (revealed Veda), which grants liberation when followed.[^1] This frames *dharma* as obligatory Vedic action (*karma*), superior to non-scriptural extensions, emphasizing ritual and ethical imperatives performed by *dharma*-knowers.\n\nThe *Manusmṛti* synthesizes *dharma*'s sources as fourfold: the Veda, sacred tradition (*smṛti*), the conduct of virtuous people (*sadācāra*), and conscience (self-satisfaction or heart-assent).[^2][^3] It is the \"root-source\" for eternal duty, practiced by the unbiased learned, and authoritative for the twice-born across regions like Āryāvarta.[^4]\n\nThe *Yājñavalkya Smṛti* (Ch. 1, on conduct/*ācāra*) aligns with this by embedding *dharma* in *varṇa*-specific rules (e.g., for Brahmins, Kṣatriyas, Vaiśyas), derived from Vedic and *smṛti* norms, with judicial application considering context like offense, time, and strength.[^5] It presupposes *dharma* as binding *ācāra* (customary practice) harmonized with scripture.\n\nSynthesizing these, *smṛti* texts portray *dharma* as dynamic yet hierarchical: scripture-primary (*codanā* and *śruti*/*smṛti*), supplemented by elite conduct and situational equity, obligatory per *varṇa*, *āśrama*, and *yuga* (e.g., Pārāśara adapts it to Kali). Non-observance incurs sin; adherence yields worlds and purity. Other *smṛti* like Nārada and Pārāśara echo this without novel definitions, focusing on litigation and penance.\n\n[^1]: *Āṅgirasa Smṛti*, Ch. 1, [p-07cb57](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-07cb57).\n[^2]: *Manusmṛti*, Ch. 2, [p-c52281](/works/unknown-manusmrti-347b76/02/translation/#p-c52281).\n[^3]: *Manusmṛti*, Ch. 2, [p-608b3f](/works/unknown-manusmrti-347b76/02/translation/#p-608b3f).\n[^4]: *Manusmṛti*, Ch. 2, [p-d70b97](/works/unknown-manusmrti-347b76/02/translation/#p-d70b97).\n[^5]: *Yājñavalkya Smṛti*, Ch. 1, [p-a0c43a](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-a0c43a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharmashastra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma smriti",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma is\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"defines dharma\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharma defined"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nāradasmṛti · ch.1\\nprose · 968¶ · 27765w · vocab 3130 (TTR 23%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adulter"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"what is dharma\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma is that which\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d38615",
+          "p-07cb57"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-c52281",
+          "p-d70b97",
+          "p-608b3f"
+        ]
+      },
+      "result_summary": "Returned 3 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Parāśara Smṛti · ch.1\\nverse · 70¶ · 2269w · vocab 591 (TTR 56%, hapax 72%)\\n\\n## Distinctive trigrams\\n\\\"par_1 kṛta *yuga*\\\" · \\\"parāśara chief"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dharma\" OR \"Dharma\" site:yajnavalkya OR site:narada OR site:parasara OR site:brhaspati OR site:katyayana",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-07cb57"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-c52281"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-608b3f"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-d70b97"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-a0c43a"
+    }
+  ],
+  "duration_ms": 58765,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 71678,
+    "completion_tokens": 6608,
+    "total_tokens": 78286,
+    "cached_tokens": 21884,
+    "api_calls": 6,
+    "cost_usd": 0.014357000000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 513,
+        "total_tokens": 2422,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00035615
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2810,
+        "completion_tokens": 621,
+        "total_tokens": 3431,
+        "cached_tokens": 150,
+        "cost_usd": 0.00085
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 7445,
+        "completion_tokens": 1052,
+        "total_tokens": 8497,
+        "cached_tokens": 2805,
+        "cost_usd": 0.00159425
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 9463,
+        "completion_tokens": 964,
+        "total_tokens": 10427,
+        "cached_tokens": 7440,
+        "cost_usd": 0.0012586
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 24083,
+        "completion_tokens": 1531,
+        "total_tokens": 25614,
+        "cached_tokens": 9458,
+        "cost_usd": 0.0041634
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 25968,
+        "completion_tokens": 1927,
+        "total_tokens": 27895,
+        "cached_tokens": 150,
+        "cost_usd": 0.0061346
+      }
+    ]
+  }
+}

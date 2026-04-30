@@ -1,0 +1,318 @@
+{
+  "answer": "**King's Enforcement of Debt Recovery**\n\nYājñavalkya's *Smṛti* (Ch. 2) delivers the procedural rule in tight, aphoristic prose, emphasizing the king's direct intervention with fixed surcharges on recovery:\n\n> The debtor shall be made by the king to pay ten percent of the amount recovered; and the creditor who has recovered his money shall be made to pay five percent.[^1]\n\nManu’s *Smṛti* (Ch. 8) expands this into a fuller judicial process, stressing proof (documents, witnesses) before enforcement, while allowing creditor self-help:\n\n> Being urged by a creditor for the recovery of his property from a debtor, he should make the debtor pay the creditor's property, after it has been proven. By whatever means a creditor may recover his own property, by those same means he should seize the debtor and make him pay.[^2]\n\n[^1]: Yājñavalkya *Smṛti*, Ch. 2, [p-4c4f1e](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-4c4f1e).\n[^2]: Manu *Smṛti*, Ch. 8, [paragraphs](/works/unknown-manusmrti-347b76/08/translation/#p-803bc3) covering Mn 8.47–49 (enforcement after proof; self-recovery permitted).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"debtor\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"fine\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"pay the debt\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"highest amercement\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-yajnavalkya-smrti-cb88d6",
+        "work_slug_b": "unknown-manusmrti-347b76",
+        "topic": "debt"
+      },
+      "result_summary": "{\"topic\":\"debt\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-yajnavalkya-smrti-cb88d6\",\"title\":\"Yājñaval"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.8\\nverse · 381¶ · 16882w · vocab 2625 (TTR 32%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"made pay fine\\\" · \\\"fine two hundred\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.9\\nverse · 155¶ · 10149w · vocab 1606 (TTR 34%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"son shudra wife\\\" · \\\"established rule mn_"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "recover debt"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pay the creditor"
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-yajnavalkya-smrti-cb88d6",
+        "work_slug_b": "unknown-manusmrti-347b76",
+        "topic": "debt recovery"
+      },
+      "result_summary": "{\"topic\":\"debt recovery\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-yajnavalkya-smrti-cb88d6\",\"title\":\"Y"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-yajnavalkya-smrti-cb88d6",
+        "work_slug_b": "unknown-manusmrti-347b76",
+        "topic": "judicial procedure"
+      },
+      "result_summary": "{\"topic\":\"judicial procedure\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-yajnavalkya-smrti-cb88d6\",\"titl"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.8\\nverse · 381¶ · 16882w · vocab 2625 (TTR 32%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"made pay fine\\\" · \\\"fine two hundred\\\" · \\"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-4c4f1e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-803bc3"
+    }
+  ],
+  "duration_ms": 61184,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 124868,
+    "completion_tokens": 5363,
+    "total_tokens": 130231,
+    "cached_tokens": 32468,
+    "api_calls": 6,
+    "cost_usd": 0.0227849,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1920,
+        "completion_tokens": 698,
+        "total_tokens": 2618,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007105
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2290,
+        "completion_tokens": 458,
+        "total_tokens": 2748,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00040485
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters"
+        ],
+        "prompt_tokens": 4158,
+        "completion_tokens": 1066,
+        "total_tokens": 5224,
+        "cached_tokens": 2285,
+        "cost_usd": 0.00102185
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "compare_works"
+        ],
+        "prompt_tokens": 5120,
+        "completion_tokens": 1137,
+        "total_tokens": 6257,
+        "cached_tokens": 4153,
+        "cost_usd": 0.00096955
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "compare_works",
+          "compare_works"
+        ],
+        "prompt_tokens": 23854,
+        "completion_tokens": 763,
+        "total_tokens": 24617,
+        "cached_tokens": 150,
+        "cost_usd": 0.0051298
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 87526,
+        "completion_tokens": 1241,
+        "total_tokens": 88767,
+        "cached_tokens": 23849,
+        "cost_usd": 0.01454835
+      }
+    ]
+  }
+}

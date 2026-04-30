@@ -1,0 +1,157 @@
+{
+  "answer": "**Manusmṛti Chapter 12** transitions from an exhaustive treatment of karma, its fruits (including rebirths across guṇas and wombs), penances, and the superiority of Vedic knowledge to a culminating affirmation of *dharma*'s authority via learned Brahminas and assemblies (*pariṣads*).[^1] It then pivots to the \"supreme secret of *dharma*,\" revealed by the divine Lord for worldly welfare, invoking a meditative vision of the Self (*Ātman*) as encompassing all—existent and non-existent—followed by a cosmological mapping of the body onto elements (space, wind, fire, etc.) and deities (Viṣṇu, Hara, etc.).[^2] This identifies the supreme *Puruṣa* (subtler than subtle, golden-hued, dream-attainable) under various names (Agni, Manu, Indra, etc.), who revolves beings through saṃsāra's wheel. The chapter exits on an Upaniṣadic note of equanimity: seeing the Self in all attains *Brahma*, while studying Bhrigu-declared *Mānava Śāstra* endows good conduct and desired states—blessing the text itself as the path to fulfillment.[^3]\n\n**Yājñavalkya Smṛti Chapter 3**, after expiations (*prāyaścitta*), impurity rules, distress duties, hermit/ascetic codes, and anatomical/cosmological details, escalates to esoteric *yoga*, *guṇas*, saṃsāra's mechanisms, and the Self as all-pervading Lord (lamp-like in the heart, with rays leading to immortality or rebirth).[^4] It outlines *devayāna* (path of gods: flame → sun → Brahma, no return) vs. *pitṛyāna* (ancestors: smoke → moon → earth, rebirth), yogic perfections, and *sāttva*-purification for *mokṣa*. The argument \"exits\" via a colophon: sages praise mastering/reciting this *Dharmaśāstra* for fame, heaven, knowledge, wealth, longevity; even householders or *śrāddha*-reciters gain imperishable fruits (equaling horse-sacrifices). Yājñavalkya, pleased, assents (\"So be it\") after homage to the Self-born—sealing the text's efficacy.[^5]\n\n**Comparison**: Both chapters, amid *dharma*-rules, climax eschatologically—elevating *jñāna* (Self-knowledge, *sāttva*, *yoga*) over ritual/karma for *mokṣa*, with saṃsāra's wheel contrasted against *Brahma*-union/immortality. Manu \"exits\" mystically-theosophical (visionary *Puruṣa*-equanimity, text-study as boon), embedding authority mid-closure before *ātman*-realization; Yājñavalkya is more systematic (body-Self → paths → *yoga*-siddhis), exiting metatextually via communal endorsement, emphasizing recitation/benefits. Manu personalizes (*twice-born* studies → desire-fulfillment); Yājñavalkya universalizes (*varṇa*-gains, householder-*mokṣa*). Shared: textual self-valorization as *paramaṃ hita* (highest good), Vedic primacy, *guṇas*-rebirths.\n\n[^1]: Manusmṛti, Ch. 12, [paragraph](/works/unknown-manusmrti-347b76/12/translation/#p-e464cc).\n\n[^2]: Manusmṛti, Ch. 12, [paragraphs](/works/unknown-manusmrti-347b76/12/translation/#p-e464cc–p-12.126).\n\n[^3]: Manusmṛti, Ch. 12, [passage](/works/unknown-manusmrti-347b76/12/translation/#p-e464cc) (Mn_12.117–126).\n\n[^4]: Yājñavalkya Smṛti, Ch. 3, [paragraphs](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-c8f3c6–p-aa7147) (eschatology from Yj_3.34 onward).\n\n[^5]: Yājñavalkya Smṛti, Ch. 3, [passage](/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/#p-584c87–p-e2a99a) (Yj_3.327–334).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-e464cc"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-c8f3c6"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-aa7147"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-584c87"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 3,
+      "paragraph_id": "p-e2a99a"
+    }
+  ],
+  "duration_ms": 40958,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 43893,
+    "completion_tokens": 3838,
+    "total_tokens": 47731,
+    "cached_tokens": 2696,
+    "api_calls": 4,
+    "cost_usd": 0.0102932,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1916,
+        "completion_tokens": 446,
+        "total_tokens": 2362,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005837
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2251,
+        "completion_tokens": 354,
+        "total_tokens": 2605,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006047
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4007,
+        "completion_tokens": 1199,
+        "total_tokens": 5206,
+        "cached_tokens": 2246,
+        "cost_usd": 0.001064
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 35719,
+        "completion_tokens": 1839,
+        "total_tokens": 37558,
+        "cached_tokens": 150,
+        "cost_usd": 0.0080408
+      }
+    ]
+  }
+}

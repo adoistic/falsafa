@@ -1,0 +1,295 @@
+{
+  "answer": "**In the Old Javanese (Kawi) *tattva* texts of the Falsafa corpus—*Gaṇapatitattva*, *Vṛhaspatitattva*, *Saṃ Hyaṃ Tattvajñāna*, and *Saṃ Hyaṃ Mahājñāna*—'param' (Sanskrit *parama*, \"supreme\") consistently denotes the highest metaphysical principle, *Paramaśiva* or *Paramaśivatattva*. This is the unmanifest (*niṣkala*), eternal, all-pervading summit of the *tattva*s (principles of reality), beyond attributes, activity, duality, and the cycle of manifestation. It transcends even *Sadāśivatattva* (eternal Śiva, active and omniscient) and *Śivatattva* (pure consciousness), representing absolute stability, subtlety, and sovereignty within the *cetana* (conscious) hierarchy.**[^1][^2][^3][^4]\n\n### Core Characteristics Across Texts\n- **Supreme *Tattva* in the *Cetana* Series**: *Paramaśivatattva* heads the three conscious principles (*cetana tattva*s): *Paramaśivatattva* > *Sadāśivatattva* > *Śivatattva*. It is *aprameya* (immeasurable), *anirdeśya* (indescribable), *sūkṣma* (subtle), *vyāpaka* (all-pervading), *nitya* (eternal), and *avyaya* (immutable), without qualities, action, or limitation.[^5][^6]\n- **Unmanifest and Formless**: The Lord's state in *niṣkala* (formless), without motion, origin, or end; it fills the cosmos yet remains untouched by it.[^7]\n- **Mantric and Yogic Apex**: In *Gaṇapatitattva*, *ya* in *Namaḥ Śivāya* symbolizes the *Paramaśiva*-principle; meditation yields liberation. It is the \"Living-Self\" guiding *hurip* (life), beyond form/color.[^8]\n- **Soteriological Goal**: Union with *Paramaśivatattva* via *yoga*/*samādhi* ends *saṃsāra*; it is *paramakaivalya* (supreme isolation), the \"supportless\" void beyond pleasure/pain.[^9][^10]\n\nThese texts synthesize Śaiva ontology, where *parama* resolves the *cetana*-*acetana* (conscious-unconscious) duality into ultimate non-dual reality. No single work exhausts it; it is the shared esoteric pinnacle for yogic ascent.[^11]\n\n[^1]: *Vṛhaspatitattva*, Ch. 1, [para.](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-c31df3).\n[^2]: *Saṃ Hyaṃ Tattvajñāna*, Ch. 1, [para.](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-daaeef).\n[^3]: *Gaṇapatitattva*, Ch. 1, [para.](/works/unknown-ganapatitattva-66a136/01/translation/#p-da342b).\n[^4]: *Saṃ Hyaṃ Mahājñāna*, Ch. 1, [para.](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-71743d).\n\n[^5]: *Vṛhaspatitattva*, Ch. 1, [paras.](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-608afe,p-6250fd,p-8703c0).\n[^6]: *Saṃ Hyaṃ Tattvajñāna*, Ch. 1, [para.](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-34f807).\n[^7]: *Saṃ Hyaṃ Tattvajñāna*, Ch. 1, [para.](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/#p-34f807).\n[^8]: *Gaṇapatitattva*, Ch. 1, [paras.](/works/unknown-ganapatitattva-66a136/01/translation/#p-1f5228,p-4eb79e).\n[^9]: *Vṛhaspatitattva*, Ch. 1, [para.](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-7171d3).\n[^10]: *Saṃ Hyaṃ Mahājñāna*, Ch. 1, [para.](/works/unknown-san-hyan-mahajnana-11c531/01/translation/#p-9194a6).\n[^11]: *Saṃ Hyaṃ Tattvajñāna*, Ch. 1, [whole chapter](/works/unknown-san-hyan-tattvajnana-1f29bd/01/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "tattva"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "param tattva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old javanese\" tattva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tattva"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "param"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old javanese\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "javanese"
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "paramaśiva"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"parama śiva\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "paramatattva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136"
+      },
+      "result_summary": "{\"markdown\":\"# Gaṇapatitattva\\nGaṇapati · Medieval · kawi · prose · 1 chapters · 10,190 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"īśvara spoke son\\\" · \\\"humble son p"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Tattvajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 16,092 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"lacking *yoga* becomes\\\" · \\\"vo"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "{\"markdown\":\"# Vrhaspatitattva\\nBṛhaspati · Medieval · kawi · prose · 1 chapters · 14,791 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"venerable vṛhaspati replied\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Mahajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 6,836 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"dwelling place lord\\\" · \\\"ten sens"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-ganapatitattva-66a136 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-tattvajnana-1f29bd (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-san-hyan-mahajnana-11c531",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-san-hyan-mahajnana-11c531 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-c31df3"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-daaeef"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-da342b"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-71743d"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-608afe"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-6250fd"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-8703c0"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-34f807"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-1f5228"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-4eb79e"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-7171d3"
+    },
+    {
+      "work_slug": "unknown-san-hyan-mahajnana-11c531",
+      "chapter_number": 1,
+      "paragraph_id": "p-9194a6"
+    }
+  ],
+  "duration_ms": 44552,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 134910,
+    "completion_tokens": 4453,
+    "total_tokens": 139363,
+    "cached_tokens": 35445,
+    "api_calls": 5,
+    "cost_usd": 0.023891749999999996,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 541,
+        "total_tokens": 2446,
+        "cached_tokens": 150,
+        "cost_usd": 0.000629
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2100,
+        "completion_tokens": 417,
+        "total_tokens": 2517,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0003459
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13004,
+        "completion_tokens": 967,
+        "total_tokens": 13971,
+        "cached_tokens": 2095,
+        "cost_usd": 0.00277005
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 18322,
+        "completion_tokens": 809,
+        "total_tokens": 19131,
+        "cached_tokens": 12999,
+        "cost_usd": 0.00211905
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 99579,
+        "completion_tokens": 1719,
+        "total_tokens": 101298,
+        "cached_tokens": 18317,
+        "cost_usd": 0.01802775
+      }
+    ]
+  }
+}

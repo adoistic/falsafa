@@ -1,0 +1,233 @@
+{
+  "answer": "**'Nibandha' (lit. \"binding together\" or \"digest\") is not explicitly defined as a genre within the Falsafa corpus. However, the term appears in citations to other works within *Vīramitrodaya*, indicating that nibandhas are specialized compilations or digests that collect and synthesize verses, statements, or rulings from diverse scriptural authorities (e.g., Purāṇas, Smṛtis) on technical topics such as astronomy, calendar calculation, or ritual timing.[^1][^2]**\n\n**The *Vīramitrodaya* (specifically its *Samayaprakāśa* section on time determination, translated here) exemplifies the nibandha genre through its encyclopedic structure and method. Composed by the 17th-century scholar Mitra Miśra at the behest of King Vīrasiṃha, it systematically compiles, analyzes, and reconciles hundreds of authorities—sages like Hārīta, Gobhila, Parāśara, Nārada, Vyāsa, and sources like the *Skanda Purāṇa*, *Brahma Purāṇa*, *Bhaviṣya Purāṇa*, and even other nibandhas—into rulings on ritual times (*kāla*), such as which lunar days (*tithis*) are suitable for fasts, *śrāddhas*, eclipses, or festivals when \"conjoined\" with preceding/succeeding days.[^3][^4][^5][^6] Its prose form features frequent refrains like \"said\" (88 occurrences), verse citations (\"verse\" 19×), and colophons marking sectional \"determinations\" (e.g., on intercalary months, eclipses), creating a digest-like \"illumination\" (*prakāśa*) of Dharmaśāstra.[^7] Distinctive phrasing such as \"conjoined preceding day,\" \"previously cited verse,\" and \"others however say\" underscores its argumentative synthesis of conflicting sources.[^8]**\n\n[^1]: *Vīramitrodaya*, ch. 1, [p-d87bf0](/works/unknown-viramitrodaya-d4b632/01/translation/#p-d87bf0) (citing *Jyotirnibandha* verse on Caitra Pratipad).\n[^2]: *Vīramitrodaya*, ch. 1, [p-b04cf2](/works/unknown-viramitrodaya-d4b632/01/translation/#p-b04cf2) (citing *Sūryodaya-nibandha* on bathing).\n[^3]: *Vīramitrodaya*, ch. 1, [p-eabeb6](/works/unknown-viramitrodaya-d4b632/01/translation/#p-eabeb6) (Mitra Miśra composes under royal command).\n[^4]: *Vīramitrodaya*, ch. 1, [p-9029cc](/works/unknown-viramitrodaya-d4b632/01/translation/#p-9029cc) (cites sages; part of *Samayaprakāśa*).\n[^5]: *Vīramitrodaya*, ch. 1, [p-fc3a75](/works/unknown-viramitrodaya-d4b632/01/translation/#p-fc3a75) (examines all *smṛtis* for time rules).\n[^6]: *Vīramitrodaya*, ch. 1, [p-4fb38c](/works/unknown-viramitrodaya-d4b632/01/translation/#p-4fb38c) (key passage on *tithi* conjunctions).\n[^7]: *Vīramitrodaya*, wiki ch. 1 (refrains: \"said\" 88×; TextRank key passages).\n[^8]: *Vīramitrodaya*, wiki work (distinctive trigrams: \"previously cited verse,\" \"others however say\").",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "nibandha",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Viramitrodaya",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"viramitrodaya\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"markdown\":\"# Vīramitrodaya\\nMitra Miśra · Medieval · sanskrit · prose · 1 chapters · 142,010 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"new moon day\\\" · \\\"conjoined"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vīramitrodaya · ch.1\\nprose · 5035¶ · 142010w · vocab 6395 (TTR 10%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"new moon day\\\" · \\\"conjoined precedi"
+    },
+    {
+      "name": "get_metadata",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"slug\":\"unknown-viramitrodaya-d4b632\",\"title\":\"Vīramitrodaya\",\"author\":\"Mitra Miśra\",\"author_slug\":\"mitra-misra\",\"era\":\"Medieval\",\"era_slug\":\"medieval\",\"genre\":\"Indic\",\"genre_slug\":\"indic\",\"language"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "digest",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"nibandha\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-d87bf0",
+          "p-b04cf2"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"markdown\":\"# Vīramitrodaya\\nMitra Miśra · Medieval · sanskrit · prose · 1 chapters · 142,010 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"new moon day\\\" · \\\"conjoined"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vīramitrodaya · ch.1\\nprose · 5035¶ · 142010w · vocab 6395 (TTR 10%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"new moon day\\\" · \\\"conjoined precedi"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mitra Miśra"
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"digest\" OR \"compilation\" OR \"nibandha\" OR \"sūtra\" OR \"smṛti\" near Viramitrodaya",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-d87bf0"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-b04cf2"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-eabeb6"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-9029cc"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-fc3a75"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-4fb38c"
+    }
+  ],
+  "duration_ms": 42203,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 27638,
+    "completion_tokens": 4549,
+    "total_tokens": 32187,
+    "cached_tokens": 7055,
+    "api_calls": 4,
+    "cost_usd": 0.00674385,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1910,
+        "completion_tokens": 578,
+        "total_tokens": 2488,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003887
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3123,
+        "completion_tokens": 755,
+        "total_tokens": 3878,
+        "cached_tokens": 1905,
+        "cost_usd": 0.00071635
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "get_metadata",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5538,
+        "completion_tokens": 1439,
+        "total_tokens": 6977,
+        "cached_tokens": 3118,
+        "cost_usd": 0.0013594
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "read_wiki_full",
+          "read_wiki_full",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17067,
+        "completion_tokens": 1777,
+        "total_tokens": 18844,
+        "cached_tokens": 150,
+        "cost_usd": 0.0042794
+      }
+    ]
+  }
+}

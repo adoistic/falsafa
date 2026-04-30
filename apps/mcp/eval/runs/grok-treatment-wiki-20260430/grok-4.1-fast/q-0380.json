@@ -1,0 +1,244 @@
+{
+  "answer": "**Viṣṇu Smṛti** specifies the Śūdra's *dharma* (duty) as service (*sevā*) to the twice-born (*dvija*, i.e., Brāhmaṇa, Kṣatriya, Vaiśya), with all crafts as a permissible livelihood.[^1][^2] Agriculture, cattle-tending, trade, etc., are Vaiśya occupations; in distress, higher *varṇas* may descend but no ascent is allowed for Śūdras.[^3]\n\n**Yājñavalkya Smṛti** concurs that the Śūdra's duty is service to the twice-born but explicitly eases this: if unable to subsist thereby, the Śūdra \"may become a merchant. Or he may live by various crafts, always acting for the benefit of the twice-born.\"[^4] This pragmatic concession permits economic flexibility (trade/crafts) subordinate to *dvija* interests, unlike Viṣṇu's unyielding equation of duty with service.\n\n**Asymmetry**: Yājñavalkya *eases* by authorizing merchant/craft alternatives \"if unable\" (conditional subsistence), embedding Śūdra agency in service *or* indirect benefit to superiors. Viṣṇu *tightens* by segregating duty (service) from livelihood (crafts), with no such proviso—crafts are mere survival, not duty-equivalent. This implies Yājñavalkya (ca. 2nd–4th CE) responds to a classical-era economy with emerging commerce/crafts (post-Mauryan fluidity, Vaiśya-Śūdra overlap), pragmatically accommodating labor markets while subordinating them.[^5] Viṣṇu (ca. 7th–10th CE, Vaiṣṇava milieu) reinforces servitude amid medieval feudalism or Bhakti-era hierarchies, curbing mobility to preserve *varṇa*-purity against perceived laxity.[^6] The easing-tightening tracks from flexible *smṛti* pluralism to rigid sectarian orthopraxy.\n\n[^1]: Viṣṇu Smṛti, [Chapter 2, paragraph f34593](/works/unknown-visnu-smrti-27f0d8/02/translation/#p-f34593).\n\n[^2]: Viṣṇu Smṛti, [Chapter 2, paragraph 28e374](/works/unknown-visnu-smrti-27f0d8/02/translation/#p-28e374).\n\n[^3]: Viṣṇu Smṛti, [Chapter 2](/works/unknown-visnu-smrti-27f0d8/02/translation/).\n\n[^4]: Yājñavalkya Smṛti, [Chapter 1, paragraph 529766](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-529766).\n\n[^5]: Yājñavalkya Smṛti, [Chapter 1](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/) (Ācāra section frames *varṇa*-duties pragmatically amid legal/ritual norms).\n\n[^6]: No direct dating in corpus; inference from stylistic wiki (Viṣṇu nearer Kātyāyana/Paraśara, Yājñavalkya distinct) and content (Viṣṇu's Vaiṣṇava frame, ch.1). Corpus lacks exhaustive Smṛti chronology.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya Shudra duties",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vishnu Shudra duties",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Sudra duties",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.2\\nverse · 18¶ · 251w · vocab 84 (TTR 69%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"**vishnu smriti 2**\\\" · \\\"smriti 2** brāhma"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Sudra\" OR \"Shudra\" OR \"Śūdra\" service OR duty",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"śūdra\" OR \"śūdras\" OR \"shudra\" OR \"sudras\" OR \"śudra\"",
+        "limit": 20
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.1\\nverse · 66¶ · 1956w · vocab 562 (TTR 57%, hapax 74%)\\n\\n## Distinctive trigrams\\n\\\"vi_1 good people\\\" · \\\"eternal laws *dhar"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 2,
+      "paragraph_id": "p-f34593"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 2,
+      "paragraph_id": "p-28e374"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 2,
+      "paragraph_id": "p-529766"
+    }
+  ],
+  "duration_ms": 44077,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 70306,
+    "completion_tokens": 4173,
+    "total_tokens": 74479,
+    "cached_tokens": 19942,
+    "api_calls": 5,
+    "cost_usd": 0.013156399999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1943,
+        "completion_tokens": 549,
+        "total_tokens": 2492,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006406
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2941,
+        "completion_tokens": 422,
+        "total_tokens": 3363,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00051705
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10492,
+        "completion_tokens": 841,
+        "total_tokens": 11333,
+        "cached_tokens": 2936,
+        "cost_usd": 0.0020785
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14833,
+        "completion_tokens": 751,
+        "total_tokens": 15584,
+        "cached_tokens": 147,
+        "cost_usd": 0.00332005
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 40097,
+        "completion_tokens": 1610,
+        "total_tokens": 41707,
+        "cached_tokens": 14828,
+        "cost_usd": 0.0066002
+      }
+    ]
+  }
+}

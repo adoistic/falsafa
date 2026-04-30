@@ -1,0 +1,283 @@
+{
+  "answer": "In Cynewulf's *Juliana*, the prison demon is a singular supernatural agent of hell, dispatched to tempt the saint through deception and guile. Disguised as an angel, it enters her cell to urge sacrifice to pagan idols, but Juliana seizes and interrogates it, forcing a detailed confession of its infernal hierarchy, temptations, and past crimes against humanity (e.g., inciting Judas, Herod, Nero).[^1] The demon portrays itself as a reluctant subordinate, \"sick at heart\" and \"fearful in spirit\" when failing to corrupt the righteous, tormented by its own \"king of hell’s inhabitants\" (Satan) if missions fail; it operates through psychological lures like lust, delusion, and sin's \"sweeten[ing],\" but crumbles under direct confrontation, bound and scourged.[^2] This figure embodies spiritual warfare: insidious, verbose, hierarchical, and ultimately pathetic in defeat.\n\nBy contrast, in Cynewulf's *Andreas*, the Mermedonian captors are a collective of brutal, cannibalistic heathens—a entire \"grim land\" and \"hateful nation\" who drug, imprison, torture, and devour strangers as custom.[^3] They represent earthly, physical evil: a warlike horde that chains Matthew, measures out his doom for a \"bloody feast,\" and later drags, flays, and scourges Andreas amid public spectacles, driven by hunger, malice, and devilish incitement rather than innate supernatural power.[^4] Unlike the demon's solitary subtlety, the Mermedonians act en masse with raw violence—guarding prisons, casting lots for victims, and wielding spears/shields—but are subdued collectively through Andreas's miracles (e.g., open doors, melting weapons, floods), leading to mass conversion rather than individual confession.[^5]\n\nThe demon is an infernal tempter, abstract and confessional, highlighting personal virtue's triumph over deceit; the Mermedonians are a monstrous pagan society, concrete and corporeal, underscoring communal redemption via divine intervention. Both serve Satan but differ in ontology (spiritual singleton vs. human multitude), method (cunning vs. cruelty), and resolution (exposure vs. extirpation/conversion).\n\n[^1]: *Juliana*, ch. 1 ([/works/cynewulf-juliana-9a2157/01/translation/#p-a370d7](/works/cynewulf-juliana-9a2157/01/translation/#p-a370d7)); full interrogation in [p-bd327c](/works/cynewulf-juliana-9a2157/01/translation/#p-bd327c), [p-da3fd4](/works/cynewulf-juliana-9a2157/01/translation/#p-da3fd4).\n\n[^2]: *Juliana*, ch. 1 ([/works/cynewulf-juliana-9a2157/01/translation/#p-bd327c](/works/cynewulf-juliana-9a2157/01/translation/#p-bd327c)), [p-3d4216](/works/cynewulf-juliana-9a2157/01/translation/#p-3d4216).\n\n[^3]: *Andreas*, ch. 1 ([/works/cynewulf-andreas-07b573/01/translation/#p-f6e450](/works/cynewulf-andreas-07b573/01/translation/#p-f6e450)), [p-471d51](/works/cynewulf-andreas-07b573/01/translation/#p-471d51).\n\n[^4]: *Andreas*, ch. 1 ([/works/cynewulf-andreas-07b573/01/translation/#p-74e29a](/works/cynewulf-andreas-07b573/01/translation/#p-74e29a)), [p-a8aa9a](/works/cynewulf-andreas-07b573/01/translation/#p-a8aa9a), [p-34b202](/works/cynewulf-andreas-07b573/01/translation/#p-34b202).\n\n[^5]: *Andreas*, ch. 1 ([/works/cynewulf-andreas-07b573/01/translation/#p-36273e](/works/cynewulf-andreas-07b573/01/translation/#p-36273e)), [p-e5ccfa](/works/cynewulf-andreas-07b573/01/translation/#p-e5ccfa), [p-0609a7](/works/cynewulf-andreas-07b573/01/translation/#p-0609a7).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "andreas"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Juliana prison demon"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas Mermedonian captors"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Cynewulf cycle\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "demon prison Juliana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedon"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"prison\" Juliana demon"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"demon\" Juliana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prison Juliana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-a370d7"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-bd327c"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-da3fd4"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-3d4216"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-f6e450"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-471d51"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-74e29a"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-a8aa9a"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-34b202"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-36273e"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-e5ccfa"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-0609a7"
+    }
+  ],
+  "duration_ms": 58242,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 48543,
+    "completion_tokens": 4107,
+    "total_tokens": 52650,
+    "cached_tokens": 12733,
+    "api_calls": 5,
+    "cost_usd": 0.00985215,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1918,
+        "completion_tokens": 718,
+        "total_tokens": 2636,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007201
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2468,
+        "completion_tokens": 566,
+        "total_tokens": 3034,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00049445
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4215,
+        "completion_tokens": 670,
+        "total_tokens": 4885,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011555
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6347,
+        "completion_tokens": 419,
+        "total_tokens": 6766,
+        "cached_tokens": 4210,
+        "cost_usd": 0.0008474
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 33595,
+        "completion_tokens": 1734,
+        "total_tokens": 35329,
+        "cached_tokens": 6342,
+        "cost_usd": 0.0066347
+      }
+    ]
+  }
+}

@@ -1,0 +1,316 @@
+{
+  "answer": "In Mirza Ghalib's *Diwan-e-Ghalib*, the heart (*dil*) is a central motif, often embodying vulnerability, longing, and existential flux. One couplet portrays it as profoundly vital and precious, penetrated to its innermost core by the beloved's glance:<blockquote>Your glance passed from my heart into my core;<br/>With a single charm, their will to fight is gone.[^1]</blockquote>In stark contrast, another depicts the heart as casually disposable, freely bestowed despite the inevitability of loss and betrayal:<blockquote>I gave my heart; she’s human, prone to err... what is there to say?<br/>My rival is the one she sends, her courier... what is there to say?[^2]</blockquote>\n\nThe first (*ghazal* 35) underscores the heart's depth and sanctity—its \"core\" (*jigar*) implies an irreplaceable essence, yielding only to transcendent beauty.[^3] The second (*ghazal* 37) treats it as expendable currency in love's futile economy, handed over with resigned fatalism amid human frailty.[^4] This duality reflects Ghalib's mastery: the heart as both cherished sanctum and transient offering.\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/35-dil-se-teri-nigaah-jigar-tak-utar-gayi/translation/#p-4ab0d4).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/37-diya-hai-dil-agar-uss-ko-bashar-hai-kya-kahiye/translation/#p-ddcc4b).\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 35 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/35-dil-se-teri-nigaah-jigar-tak-utar-gayi/translation/).\n\n[^4]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 37 (/works/mirza-ghalib-diwan-e-ghalib-74ed4c/37-diya-hai-dil-agar-uss-ko-bashar-hai-kya-kahiye/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ghalib dil",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"dil\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heart",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"my heart\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dil",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 35
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.35\\nverse · 9¶ · 177w · vocab 74 (TTR 85%, hapax 92%)\\n\\n## Distinctive trigrams\\n\\\"glance passed heart\\\" · \\\"passed heart core"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 37
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.37\\nverse · 9¶ · 227w · vocab 85 (TTR 81%, hapax 94%)\\n\\n## Distinctive trigrams\\n\\\"gave heart she\\\" · \\\"heart she human\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 112
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.112\\nverse · 11¶ · 270w · vocab 89 (TTR 70%, hapax 78%)\\n\\n## Distinctive trigrams\\n\\\"cold disdain tell\\\" · \\\"give heart onl"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 162
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.162\\nverse · 14¶ · 216w · vocab 107 (TTR 84%, hapax 92%)\\n\\n## Distinctive trigrams\\n\\\"again strange disquiet\\\" · \\\"strange "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 107
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.107\\nverse · 16¶ · 338w · vocab 143 (TTR 78%, hapax 88%)\\n\\n## Distinctive trigrams\\n\\\"say keep heart\\\" · \\\"keep heart found\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 53
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.53\\nverse · 1¶ · 20w · vocab 11 (TTR 100%, hapax 100%)\\n\\n## Distinctive trigrams\\n\\\"riches house hold\\\" · \\\"house hold grief\\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"heart\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 35
+      },
+      "result_summary": "Read ch.35 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 37
+      },
+      "result_summary": "Read ch.37 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 112
+      },
+      "result_summary": "Read ch.112 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 107
+      },
+      "result_summary": "Read ch.107 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 162
+      },
+      "result_summary": "Read ch.162 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 37,
+        "paragraph_ids": [
+          "p-ddcc4b"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 107,
+        "paragraph_ids": [
+          "p-be7496"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 112,
+        "paragraph_ids": [
+          "p-2f0a83"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 76
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.76\\nverse · 19¶ · 390w · vocab 149 (TTR 86%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"don think cruelty\\\" · \\\"think cruelty mea"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 112,
+      "paragraph_id": "p-4ab0d4"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 112,
+      "paragraph_id": "p-ddcc4b"
+    }
+  ],
+  "duration_ms": 61618,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 64027,
+    "completion_tokens": 6742,
+    "total_tokens": 70769,
+    "cached_tokens": 35182,
+    "api_calls": 6,
+    "cost_usd": 0.010899099999999998,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1929,
+        "completion_tokens": 460,
+        "total_tokens": 2389,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00033365
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2379,
+        "completion_tokens": 729,
+        "total_tokens": 3108,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008178
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10760,
+        "completion_tokens": 1259,
+        "total_tokens": 12019,
+        "cached_tokens": 2374,
+        "cost_usd": 0.0024254
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13290,
+        "completion_tokens": 994,
+        "total_tokens": 14284,
+        "cached_tokens": 150,
+        "cost_usd": 0.0031325
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 17347,
+        "completion_tokens": 1384,
+        "total_tokens": 18731,
+        "cached_tokens": 13285,
+        "cost_usd": 0.00216865
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_wiki"
+        ],
+        "prompt_tokens": 18322,
+        "completion_tokens": 1916,
+        "total_tokens": 20238,
+        "cached_tokens": 17342,
+        "cost_usd": 0.0020211
+      }
+    ]
+  }
+}

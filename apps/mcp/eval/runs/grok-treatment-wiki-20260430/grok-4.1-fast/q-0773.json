@@ -1,0 +1,237 @@
+{
+  "answer": "**No verbatim definition of *cidātma* ('consciousness-self') appears in the Falsafa corpus edition of *Vr̥haspatitattva* (a Medieval Kawi prose work attributed to Bṛhaspati).**[^1]\n\nThe closest discussion occurs in the explanation of how the pure *Śivatattva* (conscious, crystal-like) becomes bound in *māyā*, taking on *mala* (unconscious impurity). Its all-knowing, all-doing power is veiled, at which point it is termed *ātmā*—explicitly glossed as **'dazed consciousness'** (*cetana leṅleṅleṅ*, i.e., consciousness rendered insentient or forgetful). This bound *ātmā* forgets its nature, contracts (*saṃkoca*), and enters *saṃsāra* amid the crowding of *māyātattva* (like bees in a honeycomb).[^2][^3]\n\n> It is then called *ātmā* (soul), which means ‘dazed consciousness.’ These *ātmatattvas* are many, and so *māyātattva* is crowded, like a honeycomb, layered and stacked. *Māyā* is like the honeycomb, and the *ātmā* is like the young bees. They are face-down, which means they are bent over; the *ātmā* looks only downward, unaware of the *tattva* above it.[^2]\n\nThis aligns with Śaiva concepts of *cidātman* as the soul (*pāśupuruṣa* or *bound ātman*) whose consciousness (*cit*) is obscured by *mala*. Pure *cetana* (*Śivatattva*) precedes it (verses 6–10), while the bound state involves *pradhāna*-induced forgetting.[^4]\n\n[^1]: *Vr̥haspatitattva*, ch.1, full translation (no matches for \"cidātma[n]\", \"cid-ātma[n]\", or \"consciousness-self\"; searches exhausted all variants). [Chapter](/works/unknown-vrhaspatitattva-b60b28/01/translation/).\n\n[^2]: *Vr̥haspatitattva*, ch.1, [p-643885]. [Paragraph](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-643885).\n\n[^3]: Cf. [p-ff7b52]–[p-c31df3] on *cetana* (pure consciousness: eternally aware, unobscured) vs. *ātmā*. [Passage](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-ff7b52)–[p-c31df3]).\n\n[^4]: Later: \"That is what you called ‘conscious’. It is called *cetana-saṃsāra*\" ([p-7171d3]); *pradhāna* causes sleep-like forgetting ([p-695576]). [Paragraph](/works/unknown-vrhaspatitattva-b60b28/01/translation/#p-7171d3).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cidatma"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"consciousness-self\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vrhaspatitattva"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "brhaspati"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vrhaspati"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ṛhaspati"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cidātman"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "{\"markdown\":\"# Vrhaspatitattva\\nBṛhaspati · Medieval · kawi · prose · 1 chapters · 14,791 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"venerable vṛhaspati replied\\\" · \\\""
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vrhaspatitattva · ch.1\\nprose · 234¶ · 14791w · vocab 1895 (TTR 28%, hapax 50%)\\n\\n## Distinctive trigrams\\n\\\"venerable vṛhaspati replied\\\" · \\\"lor"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of unknown-vrhaspatitattva-b60b28 (transliteration)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cid"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cit"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ātma"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-643885"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-ff7b52"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-c31df3"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-7171d3"
+    },
+    {
+      "work_slug": "unknown-vrhaspatitattva-b60b28",
+      "chapter_number": 1,
+      "paragraph_id": "p-695576"
+    }
+  ],
+  "duration_ms": 41183,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 93244,
+    "completion_tokens": 3967,
+    "total_tokens": 97211,
+    "cached_tokens": 11600,
+    "api_calls": 5,
+    "cost_usd": 0.0188923,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1908,
+        "completion_tokens": 713,
+        "total_tokens": 2621,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007156
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2823,
+        "completion_tokens": 636,
+        "total_tokens": 3459,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0006003
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6605,
+        "completion_tokens": 411,
+        "total_tokens": 7016,
+        "cached_tokens": 2818,
+        "cost_usd": 0.0011038
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "read_wiki"
+        ],
+        "prompt_tokens": 7521,
+        "completion_tokens": 442,
+        "total_tokens": 7963,
+        "cached_tokens": 6600,
+        "cost_usd": 0.0007352
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 74387,
+        "completion_tokens": 1765,
+        "total_tokens": 76152,
+        "cached_tokens": 150,
+        "cost_usd": 0.0157374
+      }
+    ]
+  }
+}

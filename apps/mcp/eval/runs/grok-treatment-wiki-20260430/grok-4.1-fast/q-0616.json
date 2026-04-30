@@ -1,0 +1,267 @@
+{
+  "answer": "In the Urdu corpus, primarily consisting of poetic works by Allama Iqbal (*Bang-E-Dara* Parts 1–3) and Mirza Ghalib (*Diwan-E-Ghalib*), along with Sheikh Ibrahim Zauq's *Diwan-E-Zauq*, **shauq** (شوق) consistently appears as a form of ardent longing, passion, or eager desire—often tied to yearning for vision (*deed*), beauty, or spiritual aspiration. It evokes an intense but contained enthusiasm or \"burning passion,\" frequently urging restraint or internalization (e.g., closing the eyes to truly \"see\").[^1][^2] Examples include the speaker's plea to behold the divine trace through passionate waiting despite unworthiness (\"my burning passion, my endless, waiting prayer\"), or the idea that true vision requires closing physical eyes out of *shauq* (\"Ho deed ka jo shauq to aankhon ko band kar\").[^3] In Ghalib, it manifests as \"madness of desire\" driving one to the beloved's door in bewildered pain.[^4]\n\n**Ishq** (عشق), by contrast, denotes a profound, extreme, often anguished love—typically divine, transformative, or all-consuming, reaching an \"inteha\" (limit or pinnacle) that tests the soul and defies worldly display. It is portrayed as a pearl-like essence to be hidden from the unworthy, a \"final reach\" worth torment over paradise, or the ultimate claim post-Mansoor's martyrdom (\"inteha-e-ishq\").[^5][^6][^7] Iqbal's *Dard-e-Ishq* (\"Anguish of Love\") explicitly frames it as a sacred, veiled gohar (pearl) unfit for superficial modern gazes, urging it to shun exposure.[^8]\n\nThe corpus does not provide a single explicit philosophical treatise differentiating the terms (no direct collocation of *shauq* and *ishq* yields results), but usage implies **shauq** as aspirational yearning (e.g., visual/spiritual hunger, *tamanna-e-shauq*)—active, sensory, and preparatory—versus **ishq**'s deeper, existential torment and hidden intensity. *Shauq* risks dilution if externalized; *ishq* demands annihilation of the self.[^9] This aligns with classical Urdu poetic motifs but is not exhaustively theorized here; the corpus emphasizes experiential nuance over definition.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shauq",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ishq",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "error VARIANT_NOT_FOUND: Variant 'translation' not found in allama-iqbal-bang-e-dara-part-1-55b25c chapter 13"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.17 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shauq\" \"ishq\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 13
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 13-zahir-ki-aankh-se-na-tamasha-kare-koi.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 17-dard-e-ishq.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 13,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-464c98"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-32c00f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 17,
+        "paragraph_ids": [
+          "p-b75085",
+          "p-6d19d8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-34168f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 16,
+        "paragraph_ids": [
+          "p-9d889a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 50451,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 54946,
+    "completion_tokens": 5639,
+    "total_tokens": 60585,
+    "cached_tokens": 36324,
+    "api_calls": 5,
+    "cost_usd": 0.0083601,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1912,
+        "completion_tokens": 421,
+        "total_tokens": 2333,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005704
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8741,
+        "completion_tokens": 1421,
+        "total_tokens": 10162,
+        "cached_tokens": 150,
+        "cost_usd": 0.0024362
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11564,
+        "completion_tokens": 1049,
+        "total_tokens": 12613,
+        "cached_tokens": 8736,
+        "cost_usd": 0.0015269
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 15734,
+        "completion_tokens": 1479,
+        "total_tokens": 17213,
+        "cached_tokens": 11559,
+        "cost_usd": 0.00215245
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 16995,
+        "completion_tokens": 1269,
+        "total_tokens": 18264,
+        "cached_tokens": 15729,
+        "cost_usd": 0.00167415
+      }
+    ]
+  }
+}

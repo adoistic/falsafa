@@ -1,0 +1,427 @@
+{
+  "answer": "**Several works in the corpus, primarily poetic ones, feature a prominent lyric \"I\"—a first-person speaker who reflectively narrates personal sorrow, exile, spiritual longing, love, or self-division. This aligns with classical lyric traditions where the speaking self contemplates its own voice, fate, and inner turmoil. No texts explicitly theorize the \"lyric self\" in modern critical terms, but the phenomenon is embodied directly in the poetry below.**\n\n### Old English Elegies (Unknown, Medieval, Old English)\nThis collection of elegiac poems centers on introspective first-person voices grappling with loss, exile, and mortality. Key examples:\n- **Ch. 3 (\"The Wife's Lament\")**: The speaker (\"I\") shapes a \"lay of my own deep sorrow, my own life’s journey,\" reflecting on trials and exile.[^1]\n- **Ch. 9 (\"Resignation\")**: A penitential prayer where the \"I\" commends \"my soul and my own body,\" confesses sins, and begs divine guidance, blending self-examination with spiritual plea.[^2]\n- **Ch. 11 (\"The Wanderer\")**: Though its wiki card is unavailable, the chapter title and context indicate the classic wanderer-speaker's lament on solitude and lost kin (a staple of Anglo-Saxon lyric self-reflection).[^3]\n\n### Diwan-E-Ghalib (Mirza Ghalib, 19th Century, Urdu ghazals)\nGhalib's ghazals are quintessential lyric poetry, with the \"I\" as a philosophical, suffering persona pondering love, despair, and existence across hundreds of short chapters (e.g., openings like \"This separation lasts till judgment's dawn; For me, a week is heavy\").[^4] The self is fragmented, ironic, and meta-aware of its own utterance.\n\n### Diwan-E-Zauq (Sheikh Ibrahim Zauq, 19th Century, Urdu ghazals)\nSimilar to Ghalib, Zauq's verses deploy a reflective \"I\" in love's torments (e.g., \"My heart’s deep wound... My life is this: the game of love I play\").[^5]\n\n### Bang-E-Dara (Allama Iqbal, 20th Century, Urdu nazms; Parts 1–3)\nIqbal's poems often feature a visionary \"I\" reflecting on self, nation, and divinity (e.g., Part 1, Ch. 29: \"One night I slept and saw a dream... I saw myself go forth\").[^6] The lyric self here evolves toward philosophical self-realization.\n\n**Prose and narrative works (e.g., Cynewulf's Andreas, Elene, Juliana; Smṛtis; French treatises) occasionally use first-person (e.g., \"I myself know this\" in Andreas[^7]), but lack sustained lyric reflection—the \"I\" serves dialogue or narration, not introspection.**\n\n[^1]: *Old English Elegies*, Ch. 3, key opening [paragraph](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/#p-23cb49).\n[^2]: *Old English Elegies*, Ch. 9, opening prayer [paragraph](/works/unknown-old-english-elegies-d5fe9e/09-resignation/translation/#p-04f5b1).\n[^3]: *Old English Elegies*, Ch. 11 (\"The Wanderer\") [chapter](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/).\n[^4]: *Diwan-E-Ghalib*, work-level chapter map and Ch. 3 [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/03-aah-ko-chahiye-ik-umr-asar-hote-tak/translation/#p-1ec337).\n[^5]: *Diwan-E-Zauq*, work-level chapter map (e.g., Ch. 20) [wiki card](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/wiki/_work.card.md).\n[^6]: *Bang-E-Dara Part 1*, Ch. 29, opening [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/29-maa-ka-khwab/translation/#p-761301).\n[^7]: *Andreas*, Ch. 1 [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-f66b6a).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lyric I",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lyric self",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"I that speaks\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "speaking I",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"poetic I\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the I\" poem",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poem"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "lyric"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"first person\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"lyric voice\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"poetic voice\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"speaking voice\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"I speak\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"I am\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"my self\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"the I\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lyric",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "myself",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"I myself\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Zauq\\nSheikh Ibrahim Zauq · 19th Century · urdu · verse · 38 chapters · 8,561 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"vain victory gained\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.3\\nprose · 6¶ · 407w · vocab 165 (TTR 77%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"under oak tree\\\" · \\\"oak tree earth-ca"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.9\\nprose · 1¶ · 890w · vocab 270 (TTR 64%, hapax 70%)\\n\\n## Distinctive trigrams\\n\\\"ordainer mercy though\\\" · \\\"guide almi"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.3\\nverse · 8¶ · 132w · vocab 70 (TTR 86%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"till morning light\\\" · \\\"sigh wait age\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 29
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.29\\nverse · 15¶ · 222w · vocab 86 (TTR 82%, hapax 85%)\\n\\n## Distinctive trigrams\\n\\\"one night slept\\\" · \\\"night slept saw\\"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-23cb49"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-04f5b1"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-1ec337"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-761301"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-f66b6a"
+    }
+  ],
+  "duration_ms": 77631,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 101169,
+    "completion_tokens": 7905,
+    "total_tokens": 109074,
+    "cached_tokens": 63218,
+    "api_calls": 7,
+    "cost_usd": 0.0147036,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1903,
+        "completion_tokens": 999,
+        "total_tokens": 2902,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0005972
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2691,
+        "completion_tokens": 875,
+        "total_tokens": 3566,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0006928
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3089,
+        "completion_tokens": 546,
+        "total_tokens": 3635,
+        "cached_tokens": 2686,
+        "cost_usd": 0.0004879
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6650,
+        "completion_tokens": 1453,
+        "total_tokens": 8103,
+        "cached_tokens": 3084,
+        "cost_usd": 0.0015939
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12640,
+        "completion_tokens": 1145,
+        "total_tokens": 13785,
+        "cached_tokens": 6645,
+        "cost_usd": 0.00210375
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 34401,
+        "completion_tokens": 1152,
+        "total_tokens": 35553,
+        "cached_tokens": 12635,
+        "cost_usd": 0.00556095
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 39795,
+        "completion_tokens": 1735,
+        "total_tokens": 41530,
+        "cached_tokens": 34396,
+        "cost_usd": 0.0036671
+      }
+    ]
+  }
+}

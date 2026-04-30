@@ -1,0 +1,218 @@
+{
+  "answer": "In Charles Dunoyer's *Nouveau traité d'économie: VOL II*, Chapter 17 (\"VII. De la liberté de l'industrie agricole\"), he argues that true liberty in the agricultural industry requires the full exercise of property rights over land, crops, livestock, and related resources, free from both private aggressions and—especially—state interventions that hinder cultivation, innovation, and competition.[^1]\n\n### Specific Freedoms Advocated\nDunoyer calls for:\n- **Unrestricted property rights**: Farmers must have secure ownership of their lands and harvests, including the freedom to cultivate, improve, and dispose of them without interference.[^2]\n- **Freedom to choose crops and methods**: No mandates on what to plant (e.g., wheat, beets, alfalfa, or tobacco) or how to manage land (e.g., clearing forests, rotating crops, or converting wastelands).[^3]\n- **Freedom in livestock management**: Unregulated breeding, castration (rams), gelding (horses), and stud use without state inspections or approvals.[^4]\n- **Freedom to exploit subsoil resources**: Full rights to mines, quarries, peat, salt works, and saltpeter on one's property, without state seizure, licensing, or forced searches.[^5]\n- **Freedom from eminent domain abuses**: No arbitrary expropriation or damage for roads, canals, or public works without due compensation or detours.[^6]\n- **Freedom in forestry**: Liberty to fell trees (including high forests), manage woods, and plant without prior notification, reservations for navy use, or \"marking for felling.\"[^7]\n- **Free markets and competition**: Open trade without protectionist barriers excluding foreign agricultural goods (e.g., grains, wools, livestock), as such monopolies stifle progress and raise costs.[^8]\n\n### Restraints to Be Removed\nThese freedoms must be liberated from:\n- **Private restraints**: Theft, encroachment, rights of passage/vacant pasture (common grazing), fence-breaking, and hunting privileges allowing game (e.g., wild boars, wolves) to damage crops without recourse.[^9]\n- **State/societal restraints**: Regulations via mining/forestry codes, crop decrees, livestock inspectors, and public works laws that treat proprietors as subordinates to \"society\" or its agents (e.g., ministers, deputies, engineers). Dunoyer contrasts France's regime unfavorably with England's, where owners freely cultivate, clear, plant, and sell without oversight.[^10]\n- **Collective pretensions**: Legislative assemblies imposing monopolies or disregarding individual rights, reflecting immature \"social habits.\"[^11]\n\nDunoyer frames these as essential for agriculture's progress, akin to other industries, emphasizing moral, personal, and material capacities unlocked only by such liberty.[^12]\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [Chapter 17](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/).\n\n[^2]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-46e6ac](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/#p-46e6ac).\n\n[^3]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-1a0633](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/#p-1a0633).\n\n[^4]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-1a0633](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/#p-1a0633).\n\n[^5]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-1a0633](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/#p-1a0633).\n\n[^6]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-1a0633](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/#p-1a0633).\n\n[^7]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-42ded5](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/#p-42ded5).\n\n[^8]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-cec119](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/#p-cec119).\n\n[^9]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-15536f](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/#p-15536f).\n\n[^10]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-1a0633](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/#p-1a0633); [p-42ded5](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/#p-42ded5).\n\n[^11]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-e7007a](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/#p-e7007a).\n\n[^12]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [Chapter 17](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty\" \"agricultural\" \"industry\" Dunoyer",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberté\" \"industrie agricole\" Dunoyer",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "Listed 7 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"agricultural\" Dunoyer",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "liberty agricultural Dunoyer",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 17
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL II · ch.17\\nprose · 110¶ · 21211w · vocab 2970 (TTR 30%, hapax 52%)\\n\\n## Distinctive trigrams\\n\\\"roville* 1st year\\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 17,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.17 of charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 17,
+        "paragraph_ids": [
+          "p-46e6ac",
+          "p-15536f",
+          "p-cec119",
+          "p-1a0633",
+          "p-e7007a",
+          "p-42ded5"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 14
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL II · ch.14\\nprose · 134¶ · 19047w · vocab 2544 (TTR 29%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"*treatise politica"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 15
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL II · ch.15\\nprose · 138¶ · 21458w · vocab 3110 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"liberty commerce d"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 17,
+      "paragraph_id": "p-46e6ac"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 17,
+      "paragraph_id": "p-1a0633"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 17,
+      "paragraph_id": "p-42ded5"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 17,
+      "paragraph_id": "p-cec119"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 17,
+      "paragraph_id": "p-15536f"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 17,
+      "paragraph_id": "p-e7007a"
+    }
+  ],
+  "duration_ms": 49914,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 82056,
+    "completion_tokens": 5175,
+    "total_tokens": 87231,
+    "cached_tokens": 42334,
+    "api_calls": 5,
+    "cost_usd": 0.0126486,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1918,
+        "completion_tokens": 564,
+        "total_tokens": 2482,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00038345
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2275,
+        "completion_tokens": 424,
+        "total_tokens": 2699,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00038485
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3554,
+        "completion_tokens": 322,
+        "total_tokens": 3876,
+        "cached_tokens": 2270,
+        "cost_usd": 0.0005313
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 32758,
+        "completion_tokens": 1675,
+        "total_tokens": 34433,
+        "cached_tokens": 3549,
+        "cost_usd": 0.00685675
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 41551,
+        "completion_tokens": 2190,
+        "total_tokens": 43741,
+        "cached_tokens": 32753,
+        "cost_usd": 0.00449225
+      }
+    ]
+  }
+}

@@ -1,0 +1,396 @@
+{
+  "answer": "**The Falsafa corpus contains several Dharmaśāstra texts that discuss the proper timing (*kāla* or *muhūrta*) for ritual actions (*karma* or *kriyā*), particularly daily observances, ancestor rites (*śrāddha*), and periodic fasts or vows. These are rooted in concepts like lunar days (*tithi*), conjunctions (*sammukhī*), twilights (*sandhyā*), and auspicious periods (*Brahma-muhūrta*). Not every ritual is exhaustively covered, and the focus is often on *śrāddha* and householder duties rather than all Vedic sacrifices.**\n\n### Key Works Addressing Ritual Timing\n\n1. **Manusmṛti** (by Manu):  \n   Extensively covers daily rituals, *śrāddha* timings, and prohibitions. For instance:  \n   - Awaken in *Brahma-muhūrta* (roughly 96 minutes before sunrise) for contemplation of Dharma.[^1]  \n   - Stand for morning and evening twilight recitations (*sandhyā*); sages gained longevity thereby.[^2]  \n   - *Śrāddha* is superior in the afternoon over forenoon, on even lunar days under even constellations (for desires) or uneven ones (for progeny); avoid night, twilights, and sunrise. Midday is purifying.[^3][^4]  \n   - Three *śrāddhas* yearly (winter, summer, rainy season); five great sacrifices (*mahāyajñas*) daily.[^5]\n\n2. **Vīramitrodaya** (by Mitra Miśra):  \n   Focuses on ritual calendars, especially *śrāddha* variants and tithi rules. Examples:  \n   - *Aṣṭamī* (8th) and *Caturdaśī* (14th) of bright/dark fortnights: perform when conjoined with succeeding/preceding day for fasts (*upavāsa*) and rites; opposite leads to undesirable consequences.[^6]  \n   - Discusses miscellaneous obligatory *śrāddha* times (*nitya-śrāddha-kāla*) and *ekoddiṣṭa* (for a single deceased) determination.[^7]\n\nOther Smṛtis like Viṣṇu Smṛti and Kātyāyana Smṛti reference rituals (*śrāddha*, penances) but lack explicit timing details in searchable passages. No Western philosophical works or poetry (e.g., Iqbal, Ghalib, Cynewulf) address this Indic ritual topic.\n\n[^1]: Manusmṛti, *Chapter 4*, [paragraph](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).  \n[^2]: Manusmṛti, *Chapter 4*, [paragraph](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).  \n[^3]: Manusmṛti, *Chapter 3*, [paragraph](/works/unknown-manusmrti-347b76/03/translation/#p-d8ebfe). (Full chapter details Mn. 3.235, 3.278, 3.280.)  \n[^4]: Manusmṛti, *Chapter 4*, [paragraph](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).  \n[^5]: Manusmṛti, *Chapter 4*, [paragraph](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).  \n[^6]: Vīramitrodaya, *Chapter 1*, [paragraph](/works/unknown-viramitrodaya-d4b632/01/translation/#p-4fb38c).  \n[^7]: Vīramitrodaya, *Chapter 1*, [paragraphs](/works/unknown-viramitrodaya-d4b632/01/translation/#p-45474b,p-f9c656).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"proper time\" ritual",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"time for ritual\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"auspicious time\" ritual",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "muhurta",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ritual\" time",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Brahma-muhurta",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"proper time\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ritual auspicious",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"time of\" ritual",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "ritual"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.4\\nverse · 226¶ · 12792w · vocab 2184 (TTR 34%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"five great sac"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sandhya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"daily ritual\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "muhurta ritual",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "twilight ritual",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morning twilight\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "śrāddha time",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"proper time\" OR muhurta OR \"auspicious time\" ritual OR sacrifice OR oblation",
+        "limit": 20
+      },
+      "result_summary": "Found 16 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "kātyāyana-smṛti-..."
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: kātyāyana-smṛti-..."
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632"
+      },
+      "result_summary": "{\"markdown\":\"# Vīramitrodaya\\nMitra Miśra · Medieval · sanskrit · prose · 1 chapters · 142,010 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"new moon day\\\" · \\\"conjoined"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Vīramitrodaya · ch.1\\nprose · 5035¶ · 142010w · vocab 6395 (TTR 10%, hapax 48%)\\n\\n## Distinctive trigrams\\n\\\"new moon day\\\" · \\\"conjoined precedi"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"proper time for\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "time ritual OR sacrifice OR śrāddha OR homa",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-8b8ea4"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-viramitrodaya-d4b632",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-45474b",
+          "p-f9c656"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-8b8ea4"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-d8ebfe"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-4fb38c"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-45474b"
+    },
+    {
+      "work_slug": "unknown-viramitrodaya-d4b632",
+      "chapter_number": 1,
+      "paragraph_id": "p-f9c656"
+    }
+  ],
+  "duration_ms": 67275,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 102303,
+    "completion_tokens": 6341,
+    "total_tokens": 108644,
+    "cached_tokens": 62474,
+    "api_calls": 7,
+    "cost_usd": 0.014260000000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 472,
+        "total_tokens": 2374,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00033425
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2322,
+        "completion_tokens": 800,
+        "total_tokens": 3122,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00058225
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 3287,
+        "completion_tokens": 662,
+        "total_tokens": 3949,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009659
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 12798,
+        "completion_tokens": 960,
+        "total_tokens": 13758,
+        "cached_tokens": 3282,
+        "cost_usd": 0.0025473
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "list_works"
+        ],
+        "prompt_tokens": 18591,
+        "completion_tokens": 801,
+        "total_tokens": 19392,
+        "cached_tokens": 12793,
+        "cost_usd": 0.00219975
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 23906,
+        "completion_tokens": 1056,
+        "total_tokens": 24962,
+        "cached_tokens": 18586,
+        "cost_usd": 0.0025213
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "read_chapter",
+          "get_passage",
+          "read_wiki"
+        ],
+        "prompt_tokens": 39497,
+        "completion_tokens": 1590,
+        "total_tokens": 41087,
+        "cached_tokens": 23901,
+        "cost_usd": 0.00510925
+      }
+    ]
+  }
+}

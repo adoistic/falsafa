@@ -1,0 +1,192 @@
+{
+  "answer": "**Charles Comte critiques ancient institutions, including slavery, as fundamentally corrupting moral and legal systems.** He observes that \"Domestic slavery, which was linked to everything, was sufficient to corrupt everything; it brought about the ruin of all the systems to which it was attached, and it itself ended by disappearing.\"[^1] This line underscores slavery's pervasive moral taint on jurisprudence and society, lingering as a foundational vice even as the practice waned—much like the \"empty formulas\" of false systems that obscure understanding long after their practical influence fades.[^2]\n\nA Comtean lens, emphasizing liberty as the basis of rights and property, would identify residues of this corruption in *Manusmṛti* Book 8's casual normalization of slaves as legal objects akin to property or dependents, devoid of autonomy. Three such rules:\n\n1. Slaves (alongside wives and sons) own nothing: \"A wife, a son, and a slave—these three are remembered as having no property; whatever they acquire, that property belongs to him to whom they belong.\"[^3] This equates human labor with chattel, denying the free appropriation central to genuine property rights.\n\n2. Shudras are inherently servile: \"But he should make a Shudra perform the work of a slave, whether bought or not bought; for he was created by the Self-existent One for the service of a Brahmana.\"[^4] This justifies perpetual subjection, echoing slavery's denial of natural liberty.\n\n3. Household dependents, including slaves, may be beaten: \"A wife, a son, a slave, a servant, and a uterine brother, when they have committed a fault, may be beaten with a rope or a split bamboo.\"[^5] This permits corporal dominion over persons, corrupting moral reciprocity.\n\nThese provisions treat humans instrumentally, without \"alarm,\" perpetuating slavery's ethical residue in law.[^6]\n\n[^1]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/10-de-la-discordance-qui-existe-en-morale-et-en-legis/translation/#p-d650f1).\n\n[^2]: Charles Comte, *Traité de Législation: VOL I*, [chapter](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/10-de-la-discordance-qui-existe-en-morale-et-en-legis/translation/).\n\n[^3]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-a02b71).\n\n[^4]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-e6bdf4).\n\n[^5]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/08/translation/#p-ded6c6).\n\n[^6]: *Manusmṛti*, [chapter](/works/unknown-manusmrti-347b76/08/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slavery\" residue OR remain OR moral"
+      },
+      "result_summary": "Found 27 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ancient slavery\" OR \"slavery\" \"residue\" OR \"left moral\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL II\\nCharles Comte · Enlightenment · french · prose · 28 chapters · 105,981 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"---"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 10
+      },
+      "result_summary": "Read ch.10 of charles-comte-traite-de-legislation-vol-i-7e62a2 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.8\\nverse · 381¶ · 16882w · vocab 2625 (TTR 32%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"made pay fine\\\" · \\\"fine two hundred\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"slave\" OR \"slavery\" \"ancient\" OR \"roman\" OR \"greek\" OR \"law\" OR \"jurisprudence\" OR \"moral\" OR \"corrupt\" OR \"residue\" OR \"remain\"",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.2\\nprose · 29¶ · 1980w · vocab 421 (TTR 46%, hapax 61%)\\n\\n## Distinctive trigrams\\n\\\"duties fulfill toward\\\""
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8
+      },
+      "result_summary": "Read ch.8 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 10
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL I · ch.10\\nprose · 20¶ · 3490w · vocab 791 (TTR 50%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"carries human race\\\" · \\"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-d650f1"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-a02b71"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-e6bdf4"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 8,
+      "paragraph_id": "p-ded6c6"
+    }
+  ],
+  "duration_ms": 45362,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 98293,
+    "completion_tokens": 4876,
+    "total_tokens": 103169,
+    "cached_tokens": 38975,
+    "api_calls": 4,
+    "cost_usd": 0.01625035,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1938,
+        "completion_tokens": 420,
+        "total_tokens": 2358,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005751
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10718,
+        "completion_tokens": 1457,
+        "total_tokens": 12175,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0025895
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 26233,
+        "completion_tokens": 1369,
+        "total_tokens": 27602,
+        "cached_tokens": 10713,
+        "cost_usd": 0.00432415
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "read_wiki",
+          "read_chapter",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 59404,
+        "completion_tokens": 1630,
+        "total_tokens": 61034,
+        "cached_tokens": 26228,
+        "cost_usd": 0.0087616
+      }
+    ]
+  }
+}

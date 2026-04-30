@@ -1,0 +1,298 @@
+{
+  "answer": "**A recurring gnomic maxim across these three works prescribes restrained, truthful, and contextually wise speech—ideally as counsel or exchange among the knowing—while prohibiting harmful varieties like rumor, slander, falsehood, or idle talk.**[^1][^2][^3]\n\nIn *Maxims I*, this appears as a dialogic invitation to \"exchange sayings\" only among the wise, who pair \"counsel...with wisdom\"; wandering women who \"spread rumors\" instead face social scorn (\"often she is blamed for vices\"), and warriors who prematurely \"cast words at each other\" risk needless strife.[^4] The justification is cosmological and social harmony under divine order: God \"gives us thought, diverse moods, many tongues,\" so fitting speech aligns human customs with His creation (\"just as many peoples as there are customs\"), fostering peace where \"the wise should hold council with the wise; their spirit is alike, they always settle strife, teach peace.\"[^5]\n\n*Ślokāntara* echoes this in maxims valorizing \"truth\" (*satyaṁ*) as \"highest\" dharma over all limbs/body parts/sun, while decrying \"slanderer\" (*rāja-piśuna*) speech as a \"heinous crime\" akin to arson/poison, and \"hypocrites\" whose lotus-face/sandalwood-cool \"speech\" masks scissor-heart envy.[^6] Speech must suit context (sweet to women, truthful to sages, strategic to foes), as \"conduct reveals lineage\" and bad speech reveals flawed association/country.[^7] Justification is karmic/merit-based: truthful speech yields heaven/stairway (*suṣṭhu*) via charity/dharma paths; slander/rumor poisons like hidden fangs, spawning hell-rebirths as beasts/slugs.[^8]\n\nManu XII systematizes verbal action as one-third of karma: avoid \"harshness, falsehood, and...slander,\" for such tāmasic/rajas faults propel low rebirths (beasts/low castes), while sāttvic truth/control enables high states (gods/Brahma).[^9] Justification is guṇa-karma metaphysics: speech flows from mind/body guṇas; right use (sāttvic: knowledge/purity) yields heaven/svārājya, wrong (tāmasic slander/falsehood) hell/low wombs, as Vedic action binds/renunciates rebirth.[^10]\n\n**The traditions do not justify on identical grounds.** *Maxims I* roots it in God's creative wisdom for earthly peace (theodic social gnomic). *Ślokāntara* in pragmatic *yuga*-cycling merit for rebirth ascent (Indic didactic). Manu in analytic guṇa-karma for cosmic equity (dharmashāstra). All converge on speech's power to bind/divide fates, but Anglo-Saxon via divine ordinance, Javanese via practical piety, Brahmanical via ontological purity.[^11]\n\n[^1]: *Old English Elegies*, ch.6 (*Maxims I*), [full chapter](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/translation/).\n\n[^2]: *Ślokāntara*, ch.1, [p-aa8078](/works/unknown-slokantara-d7a628/01/translation/#p-aa8078) onward (gnomic anthology).\n\n[^3]: *Manusmṛti*, ch.12, [full chapter](/works/unknown-manusmrti-347b76/12/translation/).\n\n[^4]: *Maxims I*, [p-84cf09](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/translation/#p-84cf09).\n\n[^5]: Ibid.\n\n[^6]: *Ślokāntara*, ch.1, Slo_07 [p-11d11c](/works/unknown-slokantara-d7a628/01/translation/#p-11d11c); Slo_32 [p-cc343b](/works/unknown-slokantara-d7a628/01/translation/#p-cc343b); Slo_34 [p-2bc6dc](/works/unknown-slokantara-d7a628/01/translation/#p-2bc6dc).\n\n[^7]: Ibid., Slo_22 [p-efd7b4](/works/unknown-slokantara-d7a628/01/translation/#p-efd7b4); Slo_81 [p-f120a5](/works/unknown-slokantara-d7a628/01/translation/#p-f120a5).\n\n[^8]: Ibid., Slo_73j [p-3e1bb5](/works/unknown-slokantara-d7a628/01/translation/#p-3e1bb5).\n\n[^9]: *Manusmṛti* XII.4-9,12.5-6 [p-a343c4](/works/unknown-manusmrti-347b76/12/translation/#p-a343c4) (body/speech catalog); [p-381522](/works/unknown-manusmrti-347b76/12/translation/#p-381522).\n\n[^10]: Ibid., XII.24-50 [p-2ef83d](/works/unknown-manusmrti-347b76/12/translation/#p-2ef83d); XII.83-126 [p-e464cc](/works/unknown-manusmrti-347b76/12/translation/#p-e464cc) (sāttvic speech/Dharma).\n\n[^11]: Cross-tradition: Old English wiki nearest Cynewulf poems (cosine 0.30); Manu XII wiki ties to Ch11 expiations; *Ślokāntara* wiki to Indic gnomic (Vrhaspati 0.26).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Maxims I",
+        "limit": 10
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Slokantara",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"right use of speech\" OR \"proper speech\" OR \"good speech\" OR maxim speech Manu",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"right use of speech\" OR \"proper speech\" OR \"good speech\" OR maxim speech Maxims",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Old English"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "Manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.6\\nprose · 1¶ · 1955w · vocab 603 (TTR 60%, hapax 70%)\\n\\n## Distinctive trigrams\\n\\\"often she blamed\\\" · \\\"she blamed vic"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Indic"
+      },
+      "result_summary": "Listed 19 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "gnomic"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"speech\" OR \"word\" OR \"tongue\" OR \"talk\" OR \"silence\" maxim OR gnomic OR proverb OR \"right speech\" OR \"good speech\" OR \"timely speech\" OR \"pleasant speech\"",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Slokantara OR ślokāntara OR \"slo ka\" OR \"śloka antara\"",
+        "limit": 5
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "{\"markdown\":\"# Slokantara\\nUnknown · Medieval · kawi · prose · 1 chapters · 17,343 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"say sacred teachings\\\" · \\\"kṛta tretā dvā"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Slokantara · ch.1\\nprose · 184¶ · 17343w · vocab 2746 (TTR 33%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"say sacred teachings\\\" · \\\"kṛta tretā dvāp"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-slokantara-d7a628 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"speech\" OR \"tongue\" OR \"word\" OR \"talk\" OR \"say\" OR \"speak\" OR \"counsel\" OR \"rumor\" Maxims OR Manu OR Slokantara",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-aa8078"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-84cf09"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-11d11c"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-cc343b"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-2bc6dc"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-efd7b4"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-f120a5"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-3e1bb5"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-a343c4"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-381522"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-2ef83d"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-e464cc"
+    }
+  ],
+  "duration_ms": 58128,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 109834,
+    "completion_tokens": 6337,
+    "total_tokens": 116171,
+    "cached_tokens": 31059,
+    "api_calls": 4,
+    "cost_usd": 0.02047645,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1945,
+        "completion_tokens": 933,
+        "total_tokens": 2878,
+        "cached_tokens": 150,
+        "cost_usd": 0.000833
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 8626,
+        "completion_tokens": 2004,
+        "total_tokens": 10630,
+        "cached_tokens": 150,
+        "cost_usd": 0.0027047
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22143,
+        "completion_tokens": 1297,
+        "total_tokens": 23440,
+        "cached_tokens": 8621,
+        "cost_usd": 0.00378395
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 77120,
+        "completion_tokens": 2103,
+        "total_tokens": 79223,
+        "cached_tokens": 22138,
+        "cost_usd": 0.0131548
+      }
+    ]
+  }
+}

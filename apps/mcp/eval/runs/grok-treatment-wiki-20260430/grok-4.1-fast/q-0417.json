@@ -1,0 +1,418 @@
+{
+  "answer": "Several works in the Falsafa corpus—primarily ancient Indic Dharmaśāstra texts known as Smṛtis—discuss writing (typically termed *lekhya* or \"document\" in translation) explicitly as a legal or evidentiary medium. These texts treat written documents as one of the primary \"human proofs\" in judicial proceedings, alongside witnesses and possession (or inference/reasoning). They outline the characteristics, validity, defects, and procedural role of documents in disputes over debts, property, inheritance, and contracts. Divine proofs (e.g., ordeals) are secondary when documents exist.[^1][^2][^3]\n\n**Key works:**\n\n- **Bṛhaspati Smṛti**: Dedicates sections (e.g., 1.6) to the rules of documents, defining them as containing details like date, place, king's name, debtor/creditor, amount, and witnesses' signatures. They rank as one of three human proofs.[^4]\n\n- **Kātyāyana Smṛti**: Multiple chapters (23–29, 76) cover documents' strength as evidence, handwriting authentication, defects, and their equivalence to possession.[^5]\n\n- **Nārada Smṛti**: References documents (*lekhya*) in judicial matters like creditor-debtor disputes.[^6]\n\n- **Viṣṇu Smṛti**: Classifies documents into three kinds (e.g., royal, guild, private witnesses).[^7]\n\n- **Yājñavalkya Smṛti**: Includes a section (2: lekhyaprakaraṇam) on documents settled by consent.[^8]\n\n- **Manusmṛti**: Touches on evidentiary standards including writings implicitly via proofs and judgments.[^9]\n\nCharles Comte's *Traité de Législation* contrasts \"written laws\" (*lois écrites*) with unwritten/customary ones but does not treat writing itself as an evidentiary tool.[^10]\n\nNo other works (e.g., poetry, philosophy) address this topic.\n\n[^1]: *Bṛhaspati Smṛti*, ch. 1 (/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-cb5a36).\n\n[^2]: *Kātyāyana Smṛti*, ch. 24 (/works/unknown-katyayana-smrti-1e06d2/24/translation/#p-b4ce2a).\n\n[^3]: *Bṛhaspati Smṛti*, ch. 1 (/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-510297).\n\n[^4]: *Bṛhaspati Smṛti*, ch. 1 (/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-bbce9d).\n\n[^5]: *Kātyāyana Smṛti*, ch. 24 (/works/unknown-katyayana-smrti-1e06d2/24/translation/#p-19695f).\n\n[^6]: *Nārada Smṛti*, ch. 1 (/works/unknown-naradasmrti-7650d2/01/translation/#p-cb5a36).\n\n[^7]: *Viṣṇu Smṛti*, ch. 7 (/works/unknown-visnu-smrti-27f0d8/07/translation/#p-510625).\n\n[^8]: *Yājñavalkya Smṛti*, ch. 2 (/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-ff1854).\n\n[^9]: *Manusmṛti*, ch. 8 (/works/unknown-manusmrti-347b76/08/translation/#p-608b3f).\n\n[^10]: *Traité de Législation: VOL I*, ch. 11 (/works/charles-comte-traite-de-legislation-vol-i-7e62a2/11-chapitre-premier/translation/#p-7266f9).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"writing\" law",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"written\" evidence",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"writing\" evidence",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"written\" law",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"document\" proof",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"contract\" written",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "writing law",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "written law",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "writing evidence",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "legal writing",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"written\" record",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "document",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "deed",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "evidence",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "proof",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"title deed\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "writing proof",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lekhya",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "document",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-510297"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 24,
+        "paragraph_ids": [
+          "p-b4ce2a"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-cb5a36"
+        ]
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-510625"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-ff1854"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 11,
+        "paragraph_ids": [
+          "p-7266f9"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 11,
+      "paragraph_id": "p-cb5a36"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 11,
+      "paragraph_id": "p-b4ce2a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 11,
+      "paragraph_id": "p-510297"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 11,
+      "paragraph_id": "p-bbce9d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 11,
+      "paragraph_id": "p-19695f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 11,
+      "paragraph_id": "p-510625"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 11,
+      "paragraph_id": "p-ff1854"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 11,
+      "paragraph_id": "p-608b3f"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+      "chapter_number": 11,
+      "paragraph_id": "p-7266f9"
+    }
+  ],
+  "duration_ms": 59918,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 68544,
+    "completion_tokens": 6683,
+    "total_tokens": 75227,
+    "cached_tokens": 31586,
+    "api_calls": 6,
+    "cost_usd": 0.0123124,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1900,
+        "completion_tokens": 680,
+        "total_tokens": 2580,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006975
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2271,
+        "completion_tokens": 992,
+        "total_tokens": 3263,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009277
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6590,
+        "completion_tokens": 1129,
+        "total_tokens": 7719,
+        "cached_tokens": 2266,
+        "cost_usd": 0.0015426
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 15639,
+        "completion_tokens": 959,
+        "total_tokens": 16598,
+        "cached_tokens": 6585,
+        "cost_usd": 0.00261955
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 20554,
+        "completion_tokens": 1272,
+        "total_tokens": 21826,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0044639
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 21590,
+        "completion_tokens": 1651,
+        "total_tokens": 23241,
+        "cached_tokens": 20549,
+        "cost_usd": 0.00206115
+      }
+    ]
+  }
+}

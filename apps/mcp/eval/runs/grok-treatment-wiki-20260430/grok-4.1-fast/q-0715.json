@@ -1,0 +1,174 @@
+{
+  "answer": "**Bang-e-Dara Part 3, Chapter 26** is an untitled Urdu verse poem by Allama Iqbal (represented here by a long divider line as its \"title\" in the corpus metadata).[^1] It consists of 7 stanzas (153 words in English translation), evoking a nocturnal scene where the moon addresses a restless, silent wanderer in its light.[^2]\n\nThe poem opens with the moon questioning the figure's nature:\n\n> Why in my moonlight do you wander, restless and astray?  \n> Silent as a flower, like a fragrance scattered on its way.[^3]\n\nSubsequent stanzas propose metaphors—a jeweler of night-pearls, a fish in the river of light, or a fallen star—while describing a hushed world: the lute of existence silenced, the whirlpool stilled, the town asleep.[^4] It closes by noting the paradox of the poet's heart, immune to the moon's calming spell:\n\n> And yet the Poet's heart, a stranger still to peace,  \n> How have you stayed so free of my spell's release?[^5]\n\nThematically, it explores restlessness amid cosmic stillness, poetic isolation, and the limits of celestial influence, with distinctive phrasing like \"moonlight wander restless.\"[^6]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 26, [translation](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/26/translation/).\n\n[^2]: Ibid., [wiki card](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/wiki/26.card.md).\n\n[^3]: Ibid., [p-89c390](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/26/translation/#p-89c390).\n\n[^4]: Ibid., [full chapter](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/26/translation/).\n\n[^5]: Ibid., [p-ae494e](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/26/translation/#p-ae494e).\n\n[^6]: Ibid., [wiki card](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/wiki/26.card.md).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "bang-e-dara"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: bang-e-dara"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "bang-e-dara"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: bang-e-dara"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "bang-e-dara",
+        "chapter_number": 26
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: bang-e-dara"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Bang-e-Dara\" \"Part 3\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Part 3\" chapter 26"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 26
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.26\\nverse · 7¶ · 153w · vocab 69 (TTR 90%, hapax 91%)\\n\\n## Distinctive trigrams\\n\\\"moonlight wander restless\\\" · \\\"wander "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 26
+      },
+      "result_summary": "Read ch.26 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 26,
+      "paragraph_id": "p-89c390"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 26,
+      "paragraph_id": "p-ae494e"
+    }
+  ],
+  "duration_ms": 34854,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 38140,
+    "completion_tokens": 4059,
+    "total_tokens": 42199,
+    "cached_tokens": 17054,
+    "api_calls": 5,
+    "cost_usd": 0.0070994000000000005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1900,
+        "completion_tokens": 1767,
+        "total_tokens": 3667,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00098135
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "read_wiki",
+          "list_chapters",
+          "read_wiki"
+        ],
+        "prompt_tokens": 7177,
+        "completion_tokens": 451,
+        "total_tokens": 7628,
+        "cached_tokens": 150,
+        "cost_usd": 0.0016384
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7706,
+        "completion_tokens": 277,
+        "total_tokens": 7983,
+        "cached_tokens": 7172,
+        "cost_usd": 0.0006039
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 10392,
+        "completion_tokens": 347,
+        "total_tokens": 10739,
+        "cached_tokens": 7701,
+        "cost_usd": 0.00109675
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 10965,
+        "completion_tokens": 1217,
+        "total_tokens": 12182,
+        "cached_tokens": 150,
+        "cost_usd": 0.002779
+      }
+    ]
+  }
+}

@@ -1,0 +1,249 @@
+{
+  "answer": "In *Bang-e-Dara*, Allama Iqbal frequently employs Persianate vocabulary and izafat constructions (e.g., compound phrases linked by \"-e-\") in his Urdu nazms and ghazals, even where plainer Urdu synonyms exist. This choice elevates the diction, evokes the gravitas of classical Persian masters like Rumi and Hafiz, and imbues abstract philosophical or Sufi concepts with metaphysical precision and rhythmic elegance that colloquial Urdu lacks.[^1]\n\n**1. \"Gulzar-e-hast-o-bud\" (Part 1, ch. 3)**  \nThe opening line—\"Gulzar-e-hast-o-bud na begana-waar dekh\" (translit.) / \"This garden of Being, do not as a stranger stare\" (trans.)—uses the Persian \"hast-o-bud\" (lit. \"is-and-was,\" denoting eternal flux of existence). A pure Urdu equivalent like \"zindagi ka bagh\" or \"duniya\" would suffice metrically but render the image prosaic and earthbound. The Persian carries ontological depth, alluding to Sufi cosmology (cf. Rumi's garden metaphors for divine manifestation), urging intimate engagement with creation's mystery rather than detached observation.[^2][^3]\n\n**2. \"Beniyaaz\" and \"dast-e-karam\" (Part 1, ch. 6)**  \n\"Kushaada dast-e-karam jab woh beniyaaz kare\" (translit.) / \"When the One Beyond Need His generous grace displays\" (trans.) features \"beniyaaz\" (self-sufficient, need-free) and the izafat \"dast-e-karam\" (hand of grace). Urdu alternatives like \"ajooba\" (wonder) or \"deta hai karam\" (gives grace) would work but lack the theological weight: \"beniyaaz\" precisely captures God's absolute transcendence (a key Persian Sufi term), while the compound evokes Quranic/Persian imagery of divine liberality (e.g., open-handed providence). This heightens the paradox of humility finding glory in divine favor.[^4][^5]\n\n**3. \"Zulmat-khana-e-dil\" (Part 1, ch. 4)**  \n\"Jinhein main dhoondta tha aasmanon mein zameenon mein / Woh nikle mere zulmat-khana-e-dil ke makeenon mein\" (translit.) / \"Those I went searching for in the heavens and on the earth, / I found them dwelling in the shadowed chamber of my heart\" (trans., adapted). \"Zulmat-khana-e-dil\" (dark-house-of-heart) is a Persian compound; simpler Urdu like \"dil ke andhere kamre\" fits but dilutes the drama. The Persian construction conjures a cavernous, alchemical inner realm (echoing Attar's *Conference of the Birds*), transforming personal discovery into cosmic revelation—God/dbeauty resides not externally but in the soul's depths.[^6]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, [work wiki](/works/allama-iqbal-bang-e-dara-part-1-55b25c/wiki/_work.card.md).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 3 (transliteration), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/03-gulzar-e-hast-o-bud-na-begana-waar-dekh/transliteration/#p-222f42).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 3 (translation), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/03-gulzar-e-hast-o-bud-na-begana-waar-dekh/translation/#p-5c815a).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 6 (transliteration), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/06-kushaada-dast-e-karam-jab-woh-beniyaaz-kare/transliteration/#p-6e7e9e).\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 6 (translation), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/06-kushaada-dast-e-karam-jab-woh-beniyaaz-kare/translation/#p-3a8caa).\n\n[^6]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 4 (transliteration), [paragraph](/works/allama-iqbal-bang-e-dara-part-1-55b25c/04-jinhein-main-dhoondta-tha-aasmanon-mein-zameenon-m/transliteration/#p-fc632c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Bang-e-Dara"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"bang-e-dara\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.3\\nverse · 4¶ · 89w · vocab 41 (TTR 84%, hapax 85%)\\n\\n## Distinctive trigrams\\n\\\"garden stranger stare\\\" · \\\"stranger star"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.6\\nverse · 9¶ · 171w · vocab 80 (TTR 85%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"one beyond need\\\" · \\\"beyond need his\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.4\\nverse · 18¶ · 418w · vocab 158 (TTR 81%, hapax 87%)\\n\\n## Distinctive trigrams\\n\\\"went searching heavens\\\" · \\\"searching"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.12\\nverse · 6¶ · 125w · vocab 45 (TTR 88%, hapax 98%)\\n\\n## Distinctive trigrams\\n\\\"final reach love\\\" · \\\"reach love seek\\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.7\\nverse · 7¶ · 674w · vocab 273 (TTR 71%, hapax 79%)\\n\\n## Distinctive trigrams\\n\\\"philosophy sorrow though\\\" · \\\"sorrow t"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 3,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.3 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 6,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.6 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 6,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.6 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-222f42"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-5c815a"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-6e7e9e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-3a8caa"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+      "chapter_number": 4,
+      "paragraph_id": "p-fc632c"
+    }
+  ],
+  "duration_ms": 53143,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 54381,
+    "completion_tokens": 6444,
+    "total_tokens": 60825,
+    "cached_tokens": 24101,
+    "api_calls": 5,
+    "cost_usd": 0.01048305,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1925,
+        "completion_tokens": 526,
+        "total_tokens": 2451,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00036585
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7481,
+        "completion_tokens": 1092,
+        "total_tokens": 8573,
+        "cached_tokens": 150,
+        "cost_usd": 0.0020197
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 12348,
+        "completion_tokens": 1288,
+        "total_tokens": 13636,
+        "cached_tokens": 7476,
+        "cost_usd": 0.0019922
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 14449,
+        "completion_tokens": 1205,
+        "total_tokens": 15654,
+        "cached_tokens": 150,
+        "cost_usd": 0.0034698
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 18178,
+        "completion_tokens": 2333,
+        "total_tokens": 20511,
+        "cached_tokens": 14444,
+        "cost_usd": 0.0026355
+      }
+    ]
+  }
+}

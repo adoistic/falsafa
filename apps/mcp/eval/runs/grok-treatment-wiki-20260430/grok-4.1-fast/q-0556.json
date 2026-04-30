@@ -1,0 +1,316 @@
+{
+  "answer": "In Anglo-Saxon poetry within the Falsafa corpus—primarily Cynewulf's *Andreas*, *Elene*, and *Juliana*, alongside the *Old English Elegies* (including \"The Wanderer\" and \"The Ruin\")—*wyrd* (often rendered \"fate\" or \"Wyrd\" in translations) functions as an inexorable, often impersonal force governing human affairs, decay, exile, and doom.[^1] [^2] It evokes a pagan heritage of inescapable destiny but is frequently Christianized: subordinated to God's sovereignty (*wyrda waldend*, \"ruler of fates\") or recast as divine providence, where inevitable events align with the Almighty's will.[^3] This tension reflects the poems' blend of heroic fatalism and Christian teleology, where *wyrd* drives narrative inevitability without fully supplanting God's mastery.\n\n### In the Elegies: *Wyrd* as Destructive Impermanence\nThe *Elegies* emphasize *wyrd*'s role in loss, transience, and uncontrollable change, underscoring human vulnerability amid worldly decay.\n\n- **\"The Wanderer\"**: *Wyrd* is \"wholly steadfast\" (*ful aræd*), unyielding to human will; a \"weary mind cannot withstand\" it.[^4] It enforces exile (*wræclastas*), kinsmen's death, and hall-joys' ruin, yet the poem pivots to wisdom: seek the \"Measurer's mercy\" (*metod* = God), implying *wyrd* operates under heavenly decree.[^5] The wanderer laments how *wyrd* wastes the world (*middangeard*), toppling earls and treasures alike.[^6]\n\n- **\"The Ruin\"**: *Wyrd* shatters Roman strongholds (\"by Wyrd broken\"), crumbling giants' works, roofs, and towers through age, storm, and plague.[^7] It overturns (*forwyrd*) cities once alive with baths, mead-halls, and \"gold-bright\" warriors, evoking mutability (*onwendeth wyrda gesceaft* elsewhere in the *Elegies* corpus).[^8]\n\nHere, *wyrd* embodies entropy, prompting reflection on impermanence without explicit divine override.\n\n### In Cynewulf's Hagiographic Poems: *Wyrd* as Providential Doom\nCynewulf integrates *wyrd* into saintly narratives, where it dooms heathens or reveals God's plan, often as *wyrda geryno* (\"secrets of fates\") unveiled by miracles.\n\n- **Andreas**: *Wyrd* assigns Matthew's mission to cannibalistic Mermedonia (\"Fate had assigned him that far-off country\"), dooms sinners (\"Fate betrayed them\"), and governs torments, yet God rules *wyrd* (*wyrda waldend*), sending Andrew as deliverer.[^9] Floods and conversions bend *wyrd* to divine purpose.[^10]\n\n- **Elene**: *Wyrd* hides/ reveals the True Cross (*wyrda geryno*), drives Judas's prophecy-fulfillment, and spares the faithful while damning Jews (*wyrda lathost*, \"most hateful of fates\").[^11] Helena invokes God over *wyrd*; nails' discovery confirms providential *wyrd*.[^12]\n\n- **Juliana**: *Wyrd* dooms the maiden's pagan suitor unknowingly (\"wyrd ne ful cuthe\"), but her trials expose devils' snares, with *forwyrd* (\"ruin\") for hell-bound souls.[^13]\n\nAcross Cynewulf, *wyrd* propels hagiographic inevitability—saints triumph as God wields it (*wyrda wealdend*).\n\n### Broader Patterns\n| Poem/Work | Key Function | Example Contexts |\n|-----------|--------------|------------------|\n| Elegies (\"Wanderer\", \"Ruin\") | Fatalistic decay/exile; prompts wisdom/God-seeking | Steadfast force vs. human frailty; ruins time's work.[^14] |\n| Andreas | Dooms foes, enables missions; God-rulable | Betrayal, floods under divine command.[^15] |\n| Elene | Reveals secrets (Cross/nails); punitive for unbelief | Providential unveiling.[^16] |\n| Juliana | Unknown doom for pagans; saintly endurance | Trials expose evil.[^17] |\n\n*Wyrd* unifies themes of mutability but evolves: elegiac pessimism yields to Cynewulfian optimism, where God trumps fate. The corpus lacks exhaustive coverage (e.g., no *Beowulf*), so this reflects only these 4 works.[^18]\n\n[^1]: *Old English Elegies*, ch.11 (\"The Wanderer\"), [p-9cca5e](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9cca5e).\n[^2]: Cynewulf, *Andreas*, ch.1, [p-f6e450](/works/cynewulf-andreas-07b573/01/translation/#p-f6e450).\n[^3]: *Andreas*, ch.1, [p-992aeb](/works/cynewulf-andreas-07b573/01/transliteration/#p-992aeb) (OE: *wyrda waldend*).\n[^4]: *Old English Elegies*, ch.11, [p-9cca5e](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9cca5e); [p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n[^5]: Ibid., full chapter [citation_url](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/).\n[^6]: Ibid., [p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n[^7]: *Old English Elegies*, ch.16 (\"The Ruin\"), [p-d0d2bd](/works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgsted/translation/#p-d0d2bd).\n[^8]: Ibid., [p-ba51da](/works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgsted/translation/#p-ba51da).\n[^9]: *Andreas*, ch.1, [p-f6e450](/works/cynewulf-andreas-07b573/01/translation/#p-f6e450); [p-541d0e](/works/cynewulf-andreas-07b573/01/translation/#p-541d0e).\n[^10]: Ibid., full chapter [citation_url](/works/cynewulf-andreas-07b573/01/translation/).\n[^11]: Cynewulf, *Elene*, ch.1, [p-624562](/works/cynewulf-elene-d2d132/01/transliteration/#p-624562) (multiple OE instances); trans. \"fate\" at [p-222dfa](/works/cynewulf-elene-d2d132/01/translation/#p-222dfa) ff.\n[^12]: *Elene*, ch.1, full chapter [citation_url](/works/cynewulf-elene-d2d132/01/translation/).\n[^13]: Cynewulf, *Juliana*, ch.1, [p-01394b](/works/cynewulf-juliana-9a2157/01/transliteration/#p-01394b).\n[^14]: *Old English Elegies*, chs.11 & 16 [citation_url](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/), [citation_url](/works/unknown-old-english-elegies-d5fe9e/16-wraetlic-is-thes-wealstan-wyrde-yebraecon-burgsted/translation/).\n[^15]: *Andreas*, ch.1 [citation_url](/works/cynewulf-andreas-07b573/01/translation/).\n[^16]: *Elene*, ch.1 [citation_url](/works/cynewulf-elene-d2d132/01/translation/).\n[^17]: *Juliana*, ch.1 [citation_url](/works/cynewulf-juliana-9a2157/01/translation/).\n[^18]: Corpus metadata via *list_works* (Old English poetry: 4 works total).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wyrd",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "anglo-saxon"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wyrd\" OR \"wyrda\" OR \"wyrm\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "fate OR wyrd",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wyrd\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.16\\nprose · 3¶ · 314w · vocab 160 (TTR 86%, hapax 86%)\\n\\n## Distinctive trigrams\\n\\\"wondrous wall-stone wyrd\\\" · \\\"wall-s"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.16 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Wyrd",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-9cca5e"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-f6e450"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-992aeb"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-d0d2bd"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-ba51da"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-541d0e"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-624562"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-222dfa"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-01394b"
+    }
+  ],
+  "duration_ms": 70915,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 91348,
+    "completion_tokens": 6948,
+    "total_tokens": 98296,
+    "cached_tokens": 31772,
+    "api_calls": 5,
+    "cost_usd": 0.0169778,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1908,
+        "completion_tokens": 604,
+        "total_tokens": 2512,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00040145
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5904,
+        "completion_tokens": 967,
+        "total_tokens": 6871,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00138215
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8858,
+        "completion_tokens": 1480,
+        "total_tokens": 10338,
+        "cached_tokens": 5899,
+        "cost_usd": 0.00162675
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "read_wiki_full",
+          "read_wiki_full",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 13263,
+        "completion_tokens": 1186,
+        "total_tokens": 14449,
+        "cached_tokens": 8853,
+        "cost_usd": 0.00191765
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 61415,
+        "completion_tokens": 2711,
+        "total_tokens": 64126,
+        "cached_tokens": 13258,
+        "cost_usd": 0.0116498
+      }
+    ]
+  }
+}

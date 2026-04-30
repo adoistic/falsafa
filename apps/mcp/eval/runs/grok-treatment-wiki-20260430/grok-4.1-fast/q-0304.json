@@ -1,0 +1,310 @@
+{
+  "answer": "**The Seafarer**, found in *Old English Elegies* (ch. 5), indeed pivots from the speaker's earthly hardships and sea-exile to a communal devotional exhortation, urging reflection on the eternal heavenly home.[^1] Its closing turn reads:\n\n> Let us think where we have our home,  \n> and then think how we may come thither,  \n> and let us then strive that we may be allowed  \n> into that eternal blessedness,  \n> where life is born of the Lord's love,  \n> our hope in the heavens. Thanks be to the Holy One,  \n> the Prince of Glory, the everlasting Lord,  \n> that He has honored us for all time.  \n> Amen.[^1]\n\nCynewulf's poems in the corpus (*Andreas*, *Elene*, *Juliana*)—all attributed to him and featuring his characteristic runic signatures (typically woven into personal epilogues revealing his name)—likewise conclude with devotional pivots, though these vary by poem. *Andreas* (ch. 1) ends a heroic narrative with communal praise to God amid departure, less personally devotional:[^2]\n\n> ...and then they honored the Owner of glory,  \n> they cried in a chorus, and called out thus:  \n> “One is the eternal God of all creation!  \n> His might and His majesty over middle-earth  \n> are famously blessed, and His glory over all  \n> in heaven's high-throne shines on the holy,  \n> beautiful in splendor for a broad age,  \n> eternal with angels. He is the noble King!”[^2]\n\n*Elene* (ch. 1) shifts to an extended eschatological homily on Judgment Day, fire's purification, and salvation for the repentant righteous (contrasting the damned), ending in doxology:[^3]\n\n> So this whole world shall pass away...  \n> Therefore they now shine in beauty,  \n> like the angels, they enjoy the inheritance  \n> of the Glory-King for all time. Amen.[^3]\n\n*Juliana* (ch. 1) most closely mirrors the personal \"runic epilogue\" style (where Cynewulf signs his name in runes and breaks the narrative frame), pivoting to a direct plea for the audience's intercessory prayers on his behalf at Judgment:[^4]\n\n> I ask every person of humankind,  \n> who recites this poem, that he, mindful,  \n> earnestly remember me by my name,  \n> and pray to the Molder that the Helm of the heavens  \n> grant me help...  \n> Grant us, God of might,  \n> that we may find Your face, joy of princes,  \n> mild and merciful in that glorious time. Amen.[^4]\n\nThese closings perform overlapping theological work: each counters transience (exile, martyrdom, worldly history) with eternal orientation—homage to God's sovereignty, hope in heaven, and doxological *Amen*. The Seafarer's is a concise, urgent communal call to heavenly striving and gratitude, emphasizing divine honor amid mutability.\n\nCynewulf's, however, are richer overall. *Juliana*'s is intensely personal, inserting the poet (via rune-signature tradition) into soteriology, soliciting prayers for Judgment mercy from Father, Spirit, and Son (Trinity explicit). *Elene*'s doctrinal depth unfolds purgatorial refinement (righteous/sinful differentiated by fire's tiers, gold-purification metaphor), blending eschatology with assurance for penitents—more systematic than the Seafarer's broad \"blessedness.\" *Andreas* aligns closest to the Seafarer's choral praise but lacks personal depth. Thus, while analogous in pivot, Cynewulf's integrate self-revelation, intercession, and nuanced afterlife theology, arguably \"richer\" in devotional intimacy and orthodoxy.[^5]\n\n[^1]: *Old English Elegies*, [paragraph](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-1c332d).\n\n[^2]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-be1571).\n\n[^3]: Cynewulf, *Elene*, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).\n\n[^4]: Cynewulf, *Juliana*, [paragraph](/works/cynewulf-juliana-9a2157/01/translation/#p-1f8ce8).\n\n[^5]: Nearest-corpus stats (e.g., *Juliana* ch.1 ↔ *Old English Elegies* ch.5 at 0.31 cosine) confirm stylistic kinship in devotional motifs.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Seafarer"
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"The Seafarer\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "runic signature Cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Old English Elegies · ch.5\\nprose · 11¶ · 1002w · vocab 366 (TTR 72%, hapax 80%)\\n\\n## Distinctive trigrams\\n\\\"make true song\\\" · \\\"true song my"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"seafarer\" OR \"seofere\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Old English Elegies · ch.5\\nprose · 11¶ · 1002w · vocab 366 (TTR 72%, hapax 80%)\\n\\n## Distinctive trigrams\\n\\\"make true song\\\" · \\\"true song my"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-1c332d"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-1f8ce8"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-dcbbfe"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-be1571"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Cynewulf\" OR rune OR \"runic\" OR signature"
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-1c332d"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-be1571"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-dcbbfe"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-1f8ce8"
+    }
+  ],
+  "duration_ms": 67635,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 60868,
+    "completion_tokens": 7287,
+    "total_tokens": 68155,
+    "cached_tokens": 37263,
+    "api_calls": 6,
+    "cost_usd": 0.010227650000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1936,
+        "completion_tokens": 1046,
+        "total_tokens": 2982,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00062805
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2909,
+        "completion_tokens": 651,
+        "total_tokens": 3560,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00062515
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4637,
+        "completion_tokens": 983,
+        "total_tokens": 5620,
+        "cached_tokens": 2904,
+        "cost_usd": 0.0009833
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6386,
+        "completion_tokens": 567,
+        "total_tokens": 6953,
+        "cached_tokens": 4632,
+        "cost_usd": 0.0008659
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 19589,
+        "completion_tokens": 1752,
+        "total_tokens": 21341,
+        "cached_tokens": 6381,
+        "cost_usd": 0.00383665
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 25411,
+        "completion_tokens": 2288,
+        "total_tokens": 27699,
+        "cached_tokens": 19584,
+        "cost_usd": 0.0032886
+      }
+    ]
+  }
+}

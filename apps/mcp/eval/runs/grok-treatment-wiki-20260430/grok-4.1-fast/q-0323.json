@@ -1,0 +1,298 @@
+{
+  "answer": "**Manusmṛti** (Book 1) features catalogues of progenitors and created beings as part of its cosmogonic prologue, grounding social *dharma* in divine origins. A key stretch enumerates the ten \"lords of progeny\" created by Manu (Viraj), followed by their further creations:\n\n> Then I, desiring to create progeny, performed the most difficult *tapas* and created at the beginning ten great sages, the lords of progeny. Marichi, Atri, Angiras, Pulastya, Pulaha, Kratu, Prachetas, Vasishtha, Bhrigu, and also Narada.[^1]  \n> These beings of great splendor created seven other Manus, the gods and the orders of gods, and great seers of immeasurable power.[^2]\n\nThis cataloguing **authorises** the ensuing *dharmaśāstra*: by tracing laws back through Manu, sages, and cosmic creation, it establishes textual and social authority from the Self-Existent One's order, legitimising varna duties (e.g., later in ch.1). It also **instructs** on hierarchical origins, differentiating beings by birth-mode and function.[^3]\n\n**Viṣṇu Smṛti** (opening of ch.1) opens with a metaphorical catalogue equating Viṣṇu's Boar avatar's body parts to Vedic sacrifice elements, followed by lists of created entities. The Boar stretch:\n\n> He, the great ascetic, whose feet were the Vedas, whose tusks were the sacrificial post, whose teeth were the sacrifice, whose mouth was the fire-altar... Whose heart was the sacrificial fee, the great one of yoga and great mantras, Whose charming lips were the introductory rite, whose navel-whirl was the Pravargya ceremony; Whose path of movement was the various poetic meters, whose seat was the secret Upanishads...[^4]\n\nThis **authorises** *dharma* by embodying it in Viṣṇu himself—sacrifice is cosmogonic, supporting Earth (who asks for varna/ashrama laws). It **instructs** ritual symbolism while hymning the god; a later epithet-list by Earth reinforces divine authority.[^5]\n\n**Widsith** (Old English Elegies, ch.14) is framed as the scop's boast, with extensive catalogues of rulers/peoples, travels, and retainers to showcase his wide experience. Prime stretch:\n\n> \\\"Many men I have heard of who ruled over nations! ...Of these, Hwala was for a time the best, and Alexander the most powerful of all mankind... Attila ruled the Huns, Eormanric the Goths, Becca the Banings, the Burgundians Gifica. Caesar ruled the Greeks...\\\" (continuing ~40 rulers/tribes).[^6]\n\nCataloguing here **displays skill**: Widsith \"unlocks his word-hoard\" to recite lore, earning treasure; it boasts encyclopedic knowledge of heroic geography/history, elevating the poet amid a lost pagan world (evoking faint **mourning** for transient glory). Unlike the smṛtis' cosmic legitimacy, it performs oral artistry for patronage.[^7]\n\n| Text | Catalogue Type | Primary Function(s) |\n|------|----------------|---------------------|\n| Manusmṛti 1 | Progenitors/beings | Authorising, instructing |\n| Viṣṇu Smṛti opening | Divine body/creation | Authorising, instructing |\n| Widsith | Rulers/tribes/retainers | Displaying skill (w/ mourning undertones) |\n\n[^1]: Manusmṛti, ch.1, [p-23fa2c](/works/unknown-manusmrti-347b76/01/translation/#p-23fa2c).\n[^2]: Manusmṛti, ch.1, [p-9e656d](/works/unknown-manusmrti-347b76/01/translation/#p-9e656d).\n[^3]: Manusmṛti, ch.1, [p-1c8d86](/works/unknown-manusmrti-347b76/01/translation/#p-1c8d86) (overviews *shāstra* contents).\n[^4]: Viṣṇu Smṛti, ch.1, [paragraphs](/works/unknown-visnu-smrti-27f0d8/01/translation/#p-979e7a#p-582b13) from p-979e7a to p-582b13.\n[^5]: Viṣṇu Smṛti, ch.1, [p-e8a664](/works/unknown-visnu-smrti-27f0d8/01/translation/#p-e8a664) (Earth's request); epithets span [p-4b7b81](/works/unknown-visnu-smrti-27f0d8/01/translation/#p-4b7b81) to [p-cdc451](/works/unknown-visnu-smrti-27f0d8/01/translation/#p-cdc451).\n[^6]: Old English Elegies, ch.14 (*Widsith*), [p-545201](/works/unknown-old-english-elegies-d5fe9e/14-widsith-matholade-wordhord-onleac/translation/#p-545201).\n[^7]: Old English Elegies, ch.14 (*Widsith*), [p-2f6bd3](/works/unknown-old-english-elegies-d5fe9e/14-widsith-matholade-wordhord-onleac/translation/#p-2f6bd3) (opening boast); [p-6bde05](/works/unknown-old-english-elegies-d5fe9e/14-widsith-matholade-wordhord-onleac/translation/#p-6bde05) (scop's role).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu book 1 catalogue",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Viṣṇu opening catalogue",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Widsith catalogue",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Widsith Old English Elegies",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 14
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.14\\nprose · 10¶ · 1137w · vocab 397 (TTR 74%, hapax 80%)\\n\\n## Distinctive trigrams\\n\\\"widsith spoke unlocked\\\" · \\\"spoke "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.1\\nverse · 66¶ · 1956w · vocab 562 (TTR 57%, hapax 74%)\\n\\n## Distinctive trigrams\\n\\\"vi_1 good people\\\" · \\\"eternal laws *dhar"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 14
+      },
+      "result_summary": "Read ch.14 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-23fa2c"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-9e656d"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-1c8d86"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-979e7a"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-582b13"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-e8a664"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-4b7b81"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-cdc451"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-545201"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-2f6bd3"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 14,
+      "paragraph_id": "p-6bde05"
+    }
+  ],
+  "duration_ms": 54439,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 69288,
+    "completion_tokens": 5925,
+    "total_tokens": 75213,
+    "cached_tokens": 39651,
+    "api_calls": 5,
+    "cost_usd": 0.01087245,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1941,
+        "completion_tokens": 1482,
+        "total_tokens": 3423,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00084705
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3505,
+        "completion_tokens": 682,
+        "total_tokens": 4187,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010195
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 13192,
+        "completion_tokens": 915,
+        "total_tokens": 14107,
+        "cached_tokens": 3500,
+        "cost_usd": 0.0025709
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 20938,
+        "completion_tokens": 794,
+        "total_tokens": 21732,
+        "cached_tokens": 13187,
+        "cost_usd": 0.00260655
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 29712,
+        "completion_tokens": 2052,
+        "total_tokens": 31764,
+        "cached_tokens": 20933,
+        "cost_usd": 0.00382845
+      }
+    ]
+  }
+}

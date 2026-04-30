@@ -1,0 +1,211 @@
+{
+  "answer": "**The Falsafa corpus contains several poems—primarily individual chapters (ghazals, nazms, etc.) from Allama Iqbal's *Bang-E-Dara* collections—that are explicitly named after a star (*sitara*) or directly address/personify one (or more) as the central subject, often with the star(s) speaking or lamenting. These are all in Urdu (with English translations available). No other poems in the corpus match this criterion exactly; mentions of stars (e.g., \"turning stars\" in Cynewulf's *Andreas*) are incidental rather than central/nominative.[^1][^2] Old English works like *Andreas*, *Elene*, *Juliana*, and the *Old English Elegies* use star imagery metaphorically but none are named after or address a star as the focus.[^3][^4]**\n\n### Poems named after or addressing a star:\n1. **Bang-E-Dara Part 1, ch. 42: \"Subah Ka Sitara\" (The Morning Star)**  \n   The poem is a dramatic monologue by the morning star, expressing longing to abandon its herald role for earthly love and life.[^5]\n\n2. **Bang-E-Dara Part 2, ch. 22: \"Sitara\" (The Star / The Morning Star)**  \n   A brief personification of the morning star weeping at dawn.[^6]\n\n3. **Bang-E-Dara Part 3, ch. 21: \"Sitara\" (The Star)**  \n   The star contemplates its fear of dawn and the nature of change.[^7]\n\n4. **Bang-E-Dara Part 3, ch. 5: \"Do Sitare\" (Two Stars)**  \n   Two stars in conjunction converse about their desire for eternal union against cosmic separation.[^8]\n\n5. **Bang-E-Dara Part 2, ch. 9: \"Chaand aur Taare\" (The Moon and the Stars)**  \n   The stars huddle fearfully around the moon, dreading the break of day.[^9]\n\n**No other poems in the corpus (including Mirza Ghalib's *Diwan-E-Ghalib*, Sheikh Ibrahim Zauq's *Diwan-E-Zauq*, Cynewulf's signed poems, or the *Old English Elegies*) are named after a star or make a star the direct addressee/subject in this way. Searches for related terms like \"morning star\", \"evening star\", or \"Venus\" yielded no additional poetic matches.**[^10][^11]\n\n[^1]: *Andreas*, ch. 1 (opening invocation mentions \"turning stars\" as cosmic witnesses, not the subject).[/works/cynewulf-andreas-07b573/01/translation/]\n[^2]: *Old English Elegies* (no star-focused chapters per wiki map).[/works/unknown-old-english-elegies-d5fe9e/wiki/_work.card.md]\n[^3]: *Andreas* wiki card (heroic Christian narrative; stars peripheral).[/works/cynewulf-andreas-07b573/wiki/_work.card.md]\n[^4]: *Old English Elegies* wiki card (elegiac themes of exile/loss; no stars).[/works/unknown-old-english-elegies-d5fe9e/wiki/_work.card.md]\n[^5]: *Bang-E-Dara Part 1*, ch. 42 wiki (\"Subah Ka Sitara\"; star rejects sun/moon for earth's \"dust\").[/works/allama-iqbal-bang-e-dara-part-1-55b25c/wiki/42-subah-ka-sitara.card.md]\n[^6]: *Bang-E-Dara Part 2*, ch. 22 wiki (\"Sitara\" / \"The Morning's Star\"; weeping star).[/works/allama-iqbal-bang-e-dara-part-2-9bc58c/wiki/22-sitara.card.md]\n[^7]: *Bang-E-Dara Part 3*, ch. 21 wiki (\"Sitara\"; star fears dawn).[/works/allama-iqbal-bang-e-dara-part-3-cc61e8/wiki/21-sitara.card.md]\n[^8]: *Bang-E-Dara Part 3*, ch. 5 wiki (\"Do Sitare\"; two stars plead against parting).[/works/allama-iqbal-bang-e-dara-part-3-cc61e8/wiki/05-do-sitare.card.md]\n[^9]: *Bang-E-Dara Part 2*, ch. 9 wiki (\"Chaand aur Taare\"; stars fear daybreak).[/works/allama-iqbal-bang-e-dara-part-2-9bc58c/wiki/09-chaand-aur-taare.card.md]\n[^10]: Corpus search: \"\\\"morning star\\\"\", \"\\\"evening star\\\"\", \"venus\" (no poetic hits beyond above). (Results from tool outputs.)\n[^11]: *Bang-E-Dara* chapter lists (no further *sitara*-titled poems). (e.g., [/works/allama-iqbal-bang-e-dara-part-1-55b25c/])",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poem"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "star",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 42
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.42\\nverse · 20¶ · 339w · vocab 161 (TTR 88%, hapax 88%)\\n\\n## Distinctive trigrams\\n\\\"joy sun moon\\\" · \\\"sun moon forsake\\\""
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "Listed 44 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"morning star\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sitara",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 22
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 2 · ch.22\\nverse · 7¶ · 108w · vocab 49 (TTR 86%, hapax 88%)\\n\\n## Distinctive trigrams\\n\\\"morning star morning\\\" · \\\"star morn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 21
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.21\\nverse · 9¶ · 171w · vocab 81 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"star moon fear\\\" · \\\"moon fear peril\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 3 · ch.5\\nverse · 7¶ · 78w · vocab 35 (TTR 85%, hapax 86%)\\n\\n## Distinctive trigrams\\n\\\"two stars two\\\" · \\\"stars two stars\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 2 · ch.9\\nverse · 12¶ · 183w · vocab 83 (TTR 86%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"moon stars fearing\\\" · \\\"stars feari"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"evening star\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "venus"
+      },
+      "result_summary": "Found 30 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 88625,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 51305,
+    "completion_tokens": 7478,
+    "total_tokens": 58783,
+    "cached_tokens": 30439,
+    "api_calls": 4,
+    "cost_usd": 0.00943415,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1903,
+        "completion_tokens": 623,
+        "total_tokens": 2526,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00040995
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8873,
+        "completion_tokens": 3614,
+        "total_tokens": 12487,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00329945
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17814,
+        "completion_tokens": 1095,
+        "total_tokens": 18909,
+        "cached_tokens": 8868,
+        "cost_usd": 0.0027801
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 22715,
+        "completion_tokens": 2146,
+        "total_tokens": 24861,
+        "cached_tokens": 17809,
+        "cost_usd": 0.00294465
+      }
+    ]
+  }
+}

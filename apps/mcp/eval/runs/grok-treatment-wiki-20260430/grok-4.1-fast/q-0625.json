@@ -1,0 +1,163 @@
+{
+  "answer": "In *Manusmṛti* chapter 12, **guṇa** (गुण, here \"constituent quality\" or \"mode of nature\") refers to the three fundamental qualities that constitute reality and pervade the Self (*Ātman*), binding all beings under the influence of the Great One (likely a reference to the supreme principle or Brahmā). These are **sattva** (purity/goodness/knowledge), **rajas** (passion/activity), and **tamas** (ignorance/inertia/darkness). Whichever guṇa predominates in a being at a given time shapes its character, actions, and destiny.[^1]\n\n### Definitions and Qualities\n- **Sattva**: Associated with knowledge, tranquility, purity, and pleasure. It manifests as Vedic study, austerity (*tapas*), sense control, Dharma, and Self-contemplation.[^2]\n- **Rajas**: Linked to passion, aversion, pain, and desire for action/worldly gain. Its traits include enterprise, impatience, improper acts, and sense indulgence.[^3]\n- **Tamas**: Characterized by ignorance, delusion, unmanifest qualities, and aversion to reason. It involves greed, sleepiness, cruelty, atheism, begging, and carelessness.[^4]\n\nThe text states these guṇas abide in past, present, and future, with their excellence ascending from *tamas* (desire-driven) to *rajas* (gain-driven) to *sattva* (Dharma-driven). Actions aligned with each guṇa yield corresponding rebirths: tāmasic to beasts/low forms, rājasic to humans/warriors, sāttvic to gods/sages/Brahmā.[^5]\n\n[^1]: *Manusmṛti*, ch. 12 (translation), [para. p-074f6e](https://falsafa.corpus/works/unknown-manusmrti-347b76/12/translation/#p-074f6e). \"One should know `sattva`, `rajas`, and `tamas` to be the three `guṇas` of the Self, by which the Great One, having pervaded all these beings, abides without exception. // Mn_12.24 //\"\n\n[^2]: *Manusmṛti*, ch. 12 (translation), [para. p-074f6e](https://falsafa.corpus/works/unknown-manusmrti-347b76/12/translation/#p-074f6e) (continuing). \"`Sattva` is knowledge... The study of the Veda, *tapas*, knowledge... are the characteristics of the `sāttvic` `guṇa`. // Mn_12.25–31 //\"\n\n[^3]: *Manusmṛti*, ch. 12 (translation), [para. p-074f6e](https://falsafa.corpus/works/unknown-manusmrti-347b76/12/translation/#p-074f6e) (continuing). \"`Tamas` is ignorance, `rajas`... passion and aversion... A taste for undertaking actions, impatience... are the characteristics of the `rājasic` `guṇa`. // Mn_12.26–32 //\"\n\n[^4]: *Manusmṛti*, ch. 12 (translation), [para. p-074f6e](https://falsafa.corpus/works/unknown-manusmrti-347b76/12/translation/#p-074f6e) (continuing). \"Greed, sleep, lack of fortitude... are the characteristics of the `tāmasic` `guṇa`. // Mn_12.33 //\"\n\n[^5]: *Manusmṛti*, ch. 12 (translation), [/works/unknown-manusmrti-347b76/12/translation/](https://falsafa.corpus/works/unknown-manusmrti-347b76/12/translation/). See esp. Mn_12.34–51 on guṇa-driven rebirth cycles (low/middle/high states within each guṇa).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "dharma"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "guna Manusmriti",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chapter 12\" guna",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "guna",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sattva\" OR rajas OR tamas Manusmriti",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sattva OR rajas OR tamas \"chapter 12\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-074f6e"
+    }
+  ],
+  "duration_ms": 40801,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 42239,
+    "completion_tokens": 4193,
+    "total_tokens": 46432,
+    "cached_tokens": 10025,
+    "api_calls": 4,
+    "cost_usd": 0.00904055,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 878,
+        "total_tokens": 2787,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007983
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2185,
+        "completion_tokens": 396,
+        "total_tokens": 2581,
+        "cached_tokens": 149,
+        "cost_usd": 0.00061265
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 7551,
+        "completion_tokens": 510,
+        "total_tokens": 8061,
+        "cached_tokens": 2180,
+        "cost_usd": 0.0014382
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 30594,
+        "completion_tokens": 2409,
+        "total_tokens": 33003,
+        "cached_tokens": 7546,
+        "cost_usd": 0.0061914
+      }
+    ]
+  }
+}

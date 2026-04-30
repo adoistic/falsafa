@@ -1,0 +1,277 @@
+{
+  "answer": "In Urdu philosophical poetry, as represented in this corpus by Allama Iqbal's *Bang-E-Dara*, *husn* (beauty) transcends mere physical allure to signify a divine, eternal reality (*husn-e-azal*) that manifests transiently in the created world—a \"hall of sight\" where it fades to enable perception and spiritual awakening.[^1] It is boundless in nature (\"Nature's court is Beauty's boundless sea\"), appearing in mountains, sun, night, ruins, birds' nests, rivers, and cities, yet the soul yearns for a deeper, lost essence beyond sensory display.[^2] Perfect *husn* prompts unveiling (*be-hijaabi*), as in the divine beauty once hidden from Moses yet now revealed among the graceful, urging the heart toward love, effacement, and critique of the self.[^3] Its splendor (*jalwa-e-husn*) stirs inner vision, sweeps away rational flaws, and reveals emotion's primacy, questioning if worldly transience holds the eternal gem.[^4]\n\nIn Mirza Ghalib's *Diwan-E-Ghalib*, *husn* functions more paradoxically within classical ghazal romance: an indifferent, capricious force (*husn-e-beparwa*) that demands renewal through displays of coquetry, with the mirror (or lover's gaze) inventing fresh pretexts for its revelation, while the mind must ultimately turn away from such illusions.[^5] Unlike Iqbal's cosmic mysticism, Ghalib's *husn* evokes the beloved's elusive, human-scale beauty as a source of torment and ingenuity, tied to themes of pain, separation, and perceptual play rather than divine questing—though both poets link it to veils, mirrors, and the limits of sight.[^6]\n\nIqbal elevates *husn* to propel self-realization and Islamic renaissance, a purposeful ephemerality awakening the soul from worldly stupor; Ghalib employs it for ironic exploration of love's futility, where beauty's indifference mirrors existence's absurdity. The corpus lacks exhaustive ghazals from Ghalib explicitly philosophizing *husn* (searches yield mostly transliterated mentions), limiting depth on his side relative to Iqbal's overt treatments.[^7]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, [Chapter 12: Haqeeqat-e-Husn](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/12-haqeeqat-e-husn/translation/).\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 15: Bacha aur Shama](/works/allama-iqbal-bang-e-dara-part-1-55b25c/15-bacha-aur-shama/translation/#p-a41103).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, [Chapter 4: Jinhein main dhoondta tha aasmanon mein zameenon mein](/works/allama-iqbal-bang-e-dara-part-1-55b25c/04-jinhein-main-dhoondta-tha-aasmanon-mein-zameenon-m/translation/#p-b6feb6); [Chapter 7: Kya kahun apne chaman se main juda kyonkar hua](/works/allama-iqbal-bang-e-dara-part-1-55b25c/07-kya-kahun-apne-chaman-se-main-juda-kyonkar-hua/translation/#p-46dcad).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 2*, [Chapter 15: Jalwa-e-Husn](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/15-jalwa-e-husn/translation/).\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, [Chapter 79: Husn-e-beparwa kharidar-e-mata-e-jalwa hai](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/79-husn-e-beparwa-kharidar-e-mata-e-jalwa-hai/translation/#p-6fb822).\n[^6]: Mirza Ghalib, *Diwan-E-Ghalib*, [Chapter map overview](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/wiki/_work.card.md) (e.g., ch. 79 on mirrors/displays; cf. Iqbal's unveiling motifs).\n[^7]: Corpus search results for \"husn\" + \"Ghalib\" yield zero English translation hits, vs. abundant in Iqbal; see *Diwan-E-Ghalib* wiki for ch.79 original-language signature.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ghalib",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "husn",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Urdu poetry\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "allama-iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "beauty",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "husn",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 79
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.79\\nverse · 2¶ · 45w · vocab 20 (TTR 80%, hapax 85%)\\n\\n## Distinctive trigrams\\n\\\"indifferent beauty one\\\" · \\\"beauty one pay\\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"husn\" Ghalib"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "topic": "beauty"
+      },
+      "result_summary": "{\"topic\":\"beauty\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"mirza-ghalib-diwan-e-ghalib-74ed4c\",\"title\":\"Diwan-"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 15,
+      "paragraph_id": "p-a41103"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 15,
+      "paragraph_id": "p-b6feb6"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 15,
+      "paragraph_id": "p-46dcad"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 15,
+      "paragraph_id": "p-6fb822"
+    }
+  ],
+  "duration_ms": 42989,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 50842,
+    "completion_tokens": 4864,
+    "total_tokens": 55706,
+    "cached_tokens": 20194,
+    "api_calls": 4,
+    "cost_usd": 0.0095713,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1910,
+        "completion_tokens": 809,
+        "total_tokens": 2719,
+        "cached_tokens": 150,
+        "cost_usd": 0.000764
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 8106,
+        "completion_tokens": 949,
+        "total_tokens": 9055,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0018131
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 18015,
+        "completion_tokens": 1177,
+        "total_tokens": 19192,
+        "cached_tokens": 150,
+        "cost_usd": 0.004169
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "search_corpus",
+          "compare_works"
+        ],
+        "prompt_tokens": 22811,
+        "completion_tokens": 1929,
+        "total_tokens": 24740,
+        "cached_tokens": 18010,
+        "cost_usd": 0.0028252
+      }
+    ]
+  }
+}

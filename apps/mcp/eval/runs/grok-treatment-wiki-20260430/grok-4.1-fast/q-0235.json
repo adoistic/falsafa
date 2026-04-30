@@ -1,0 +1,354 @@
+{
+  "answer": "**Charles Comte**, in *Traité de Législation* (Vol. III, ch. 34), examines the \"classe laborieuse\" (laborious or industrious class)—the producers of Egypt's wealth (cultivators, artisans, merchants)—in direct opposition to the \"aristocratie militaire\" (military aristocracy) of Mamluks and Turks, who appropriate the bulk of it through conquest, extortion, and monopolies.[^1] He draws class boundaries according to **participation in wealth creation versus spoliation**: the laborious class toils to generate value from land and labor (though left only subsistence), while the military class lives idly off its fruits, despising work as degrading.[^2]\n\n**Charles Dunoyer**, in *Nouveau traité d'économie sociale* (Vol. I, Introduction and ch. 11), treats \"classes industrieuses\" (industrious classes) as the endpoint of societal evolution, where people live \"purely by industry\" (production of utilities via labor on things/men, free exchange), distinct from prior \"classes\" defined by exploitative subsistence (savages by foraging/hunting, nomads by rapine, sedentary by slavery/serfdom/privilege/office-seeking).[^3] He draws boundaries according to **mode of subsistence**: destructive (violence/domination over persons, yielding opposed interests/war) versus productive (industry on nature/persons, yielding harmony/prosperity/peace).[^4]\n\nComte's binary (specific to tyrannized Egypt) stresses economic roles amid oppression; Dunoyer's spectrum (abstract/historical) stresses societal progression toward non-violent production as liberty's precondition. No other \"classes industrieuses\" discussions appear in Comte's *Traité de la propriété* or Dunoyer's Vol. II.\n\n[^1]: Charles Comte, *Traité de Législation: VOL III*, [ch. 34](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/34-parallele-entre-la-portion-de-richesses-qui-est-la/translation/#p-a1b94d).\n\n[^2]: Charles Comte, *Traité de Législation: VOL III*, [ch. 34](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/34-parallele-entre-la-portion-de-richesses-qui-est-la/translation/#p-d12b06).\n\n[^3]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [Introduction](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-405ef1), [ch. 11](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/translation/#p-f1f859).\n\n[^4]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [ch. 11](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/translation/#p-eb3608).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"classes industrieuses\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "industrieuses"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"industrious classes\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"productive classes\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "industrieuses",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"industrial classes\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL I\\nCharles Comte · Enlightenment · french · prose · 22 chapters · 119,347 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"action"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL II\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 91,008 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"van di"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL III\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 97,522 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"peopl"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL IV\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 188,438 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*voya"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"classes\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "industrious"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "class",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"industrious class\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"industrious people\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"useful class\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"productive class\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "laborious"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.0 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2"
+      },
+      "result_summary": "Listed 22 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 34,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.34 of charles-comte-traite-de-legislation-vol-iii-ca589a (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.0 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 34
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de Législation: VOL III · ch.34\\nprose · 69¶ · 7483w · vocab 1840 (TTR 51%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"portion wealth milita"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.11\\nprose · 66¶ · 11246w · vocab 2089 (TTR 39%, hapax 60%)\\n\\n## Distinctive trigrams\\n\\\"one said industry\\\" "
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 0,
+      "paragraph_id": "p-a1b94d"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 0,
+      "paragraph_id": "p-d12b06"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 0,
+      "paragraph_id": "p-405ef1"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 0,
+      "paragraph_id": "p-f1f859"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 0,
+      "paragraph_id": "p-eb3608"
+    }
+  ],
+  "duration_ms": 80015,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 118652,
+    "completion_tokens": 8305,
+    "total_tokens": 126957,
+    "cached_tokens": 54216,
+    "api_calls": 6,
+    "cost_usd": 0.0197505,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1934,
+        "completion_tokens": 584,
+        "total_tokens": 2518,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00039665
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2964,
+        "completion_tokens": 789,
+        "total_tokens": 3753,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00070515
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4673,
+        "completion_tokens": 793,
+        "total_tokens": 5466,
+        "cached_tokens": 2959,
+        "cost_usd": 0.00088725
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11646,
+        "completion_tokens": 3249,
+        "total_tokens": 14895,
+        "cached_tokens": 4668,
+        "cost_usd": 0.0032535
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "list_chapters"
+        ],
+        "prompt_tokens": 31191,
+        "completion_tokens": 1316,
+        "total_tokens": 32507,
+        "cached_tokens": 11641,
+        "cost_usd": 0.00515005
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 66244,
+        "completion_tokens": 1574,
+        "total_tokens": 67818,
+        "cached_tokens": 31186,
+        "cost_usd": 0.0093579
+      }
+    ]
+  }
+}

@@ -1,0 +1,147 @@
+{
+  "answer": "**Chapter 73 of the *Viṣṇu Smṛti* details the ritual procedure for performing a *śrāddha* (ancestral offering), a funerary rite to honor deceased ancestors.**[^1]\n\nIt covers preparatory steps such as inviting and seating Brāhmaṇas on the preceding day or during specified times; assigning representatives (two facing east for the gods, three facing north for the ancestors, or one each); offering oblations into the fire with specific mantra groups depending on the *śrāddha* type (e.g., uncooked, animal, new moon, or festivals like Āgrahāyaṇī and Aṣṭakā); invoking ancestors; dismissing demons; providing *pādya*, *arghya*, worship items; making three oblations; serving food to representatives (Viśvedevas east, paternal ancestors north); forming *piṇḍas* (rice balls) for father, grandfather, and great-grandfather on southward *kuśa* grass; giving garments, food, and rubbing hands; offering water, flowers, etc.; post-meal rites like rinsing and sprinkling; honoring Brāhmaṇas with gifts; and dismissing them with blessings for prosperity, offspring, and generosity.[^2][^3]\n\n[^1]: *Viṣṇu Smṛti*, Chapter 73, [translation](https://falsafa.corpus/works/unknown-visnu-smrti-27f0d8/73/translation/).\n[^2]: From the chapter opening: \"Now, one who wishes to perform a *śrāddha* shall invite Brāhmaṇas on the preceding day.\" [p-93388a](https://falsafa.corpus/works/unknown-visnu-smrti-27f0d8/73/translation/#p-93388a).\n[^3]: Key passage (TextRank #1): \"Two for the rite for the gods, facing east, and three for the rite for the ancestors, facing north.\" [p-963793](https://falsafa.corpus/works/unknown-visnu-smrti-27f0d8/73/translation/#p-963793).",
+  "tool_calls": [
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "visnu-smriti"
+      },
+      "result_summary": "error WORK_NOT_FOUND: Work not found: visnu-smriti"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Visnu Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 73
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.73\\nverse · 34¶ · 1005w · vocab 273 (TTR 57%, hapax 71%)\\n\\n## Distinctive trigrams\\n\\\"*piṇḍa* पिण्ड his\\\" · \\\"ladle inexhausti"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 73
+      },
+      "result_summary": "Read ch.73 of unknown-visnu-smrti-27f0d8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 73,
+      "paragraph_id": "p-93388a"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 73,
+      "paragraph_id": "p-963793"
+    }
+  ],
+  "duration_ms": 31445,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 36865,
+    "completion_tokens": 2763,
+    "total_tokens": 39628,
+    "cached_tokens": 18439,
+    "api_calls": 5,
+    "cost_usd": 0.00598865,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1899,
+        "completion_tokens": 637,
+        "total_tokens": 2536,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006758
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2049,
+        "completion_tokens": 145,
+        "total_tokens": 2194,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004598
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 5372,
+        "completion_tokens": 348,
+        "total_tokens": 5720,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012259
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 12627,
+        "completion_tokens": 432,
+        "total_tokens": 13059,
+        "cached_tokens": 5367,
+        "cost_usd": 0.00193635
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 14918,
+        "completion_tokens": 1201,
+        "total_tokens": 16119,
+        "cached_tokens": 12622,
+        "cost_usd": 0.0016908
+      }
+    ]
+  }
+}

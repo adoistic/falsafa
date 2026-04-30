@@ -1,0 +1,198 @@
+{
+  "answer": "**Chapter 50 of *Diwan-E-Ghalib* is titled \"Gham khaane mein boda dil-e-nakaam bahut hai\".**[^1]\n\nIn ghazal poetry, the **matla** (opening couplet) consists of the first two lines (misraʿas), which set the radif (\"bahut hai\") repeated throughout:\n\n> Gham khaane mein boda dil-e-nakaam bahut hai  \n> Yeh ranj ke kam hai mai-e-gulfaam bahut hai[^2]\n\n**English translation:**  \n\"This weak, failed heart's capacity for pain is more than enough;  \nThe grief that rose-red wine is on the wane is more than enough.\"[^3]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 50, [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/50-gham-khaane-mein-boda-dil-e-nakaam-bahut-hai/translation/).\n\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 50, [p-d3a1ee](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/50-gham-khaane-mein-boda-dil-e-nakaam-bahut-hai/transliteration/#p-d3a1ee) (transliteration; first paragraph spans the matla).\n\n[^3]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 50, [p-b39b6a](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/50-gham-khaane-mein-boda-dil-e-nakaam-bahut-hai/translation/#p-b39b6a).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "diwan-e-ghalib"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Diwan-e-Ghalib"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 50-gham-khaane-mein-boda-dil-e-nakaam-bahut-hai.card.md. Run: bun run scripts/build-wiki.ts --work mirza-ghalib-diwan-e-ghalib-74ed4c"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "Listed 239 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.50 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "paragraph_ids": [
+          "p-b39b6a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "paragraph_ids": [
+          "p-b39b6a",
+          "p-7c819f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 2 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 50,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.50 of mirza-ghalib-diwan-e-ghalib-74ed4c (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 50,
+      "paragraph_id": "p-d3a1ee"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 50,
+      "paragraph_id": "p-b39b6a"
+    }
+  ],
+  "duration_ms": 70059,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 106060,
+    "completion_tokens": 5403,
+    "total_tokens": 111463,
+    "cached_tokens": 48807,
+    "api_calls": 6,
+    "cost_usd": 0.01659245,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 1503,
+        "total_tokens": 3412,
+        "cached_tokens": 1882,
+        "cost_usd": 0.000851
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7705,
+        "completion_tokens": 671,
+        "total_tokens": 8376,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0015942
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 7842,
+        "completion_tokens": 563,
+        "total_tokens": 8405,
+        "cached_tokens": 7700,
+        "cost_usd": 0.0006949
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki"
+        ],
+        "prompt_tokens": 28625,
+        "completion_tokens": 356,
+        "total_tokens": 28981,
+        "cached_tokens": 7837,
+        "cost_usd": 0.00472745
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 29361,
+        "completion_tokens": 831,
+        "total_tokens": 30192,
+        "cached_tokens": 150,
+        "cost_usd": 0.0062652
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 30618,
+        "completion_tokens": 1479,
+        "total_tokens": 32097,
+        "cached_tokens": 29356,
+        "cost_usd": 0.0024597
+      }
+    ]
+  }
+}

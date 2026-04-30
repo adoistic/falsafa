@@ -1,0 +1,155 @@
+{
+  "answer": "In the Urdu corpus—primarily the poetic collections of Allama Iqbal (*Bang-E-Dara* Parts 1–3), Mirza Ghalib (*Diwan-E-Ghalib*), and Sheikh Ibrahim Zauq (*Diwan-E-Zauq*)—the figure of the *zahid* (زاہد, the ascetic or religiously rigorous devotee) is a recurring archetype in classical Urdu ghazal and nazm traditions.[^1] He embodies outward piety, strict adherence to religious law (*shariat*), renunciation (*zuhd*), and anticipation of paradise (*jannat*), but is frequently critiqued as hypocritical, self-righteous, or spiritually shallow. The *zahid* is often juxtaposed with the *rind* (رند, the libertine mystic or ecstatic lover of the divine/beloved), who prioritizes passionate, inner devotion over ritualistic rigor. This contrast satirizes rigid orthodoxy versus experiential spirituality. Portrayals are predominantly ironic or negative; no unambiguously heroic *zahid* appears in the search hits.\n\n### Central Treatment: Iqbal's *Zuhd aur Rindi* (*Bang-E-Dara Part 1*, Ch. 44)\nIqbal's poem provides the most extended exploration, framing the *zahid* (here a *maulvi* or cleric) as a neighborly figure whose \"Sufi air\" masks pride and judgmentalism.[^2] He questions Iqbal's orthodoxy—tolerating Hindus, praising Ali, enjoying music—while admitting his own disciples praise Iqbal's purity. The *zahid* sermonizes at length on true faith but reveals his own paradoxes: \"A paradox in flesh, not Iqbal’s whole, / A sage’s mind, a melancholy soul.\" Iqbal responds humbly, claiming self-ignorance: \"For Iqbal is of ‘Iqbal’ unaware, / There is no jest in this, by God, I swear.\"[^3] The title (*Zuhd aur Rindi*, Asceticism and Libertinism) underscores the rind-*zahid* dialectic as Iqbal's philosophical core.\n\n### Critiques in Ghazals\n- **Zauq (*Diwan-E-Zauq*, Ch. 25)**: The *zahid-e-jannat-parast* (paradise-obsessed ascetic) is no truth-seeker (*haq-parast*) but a \"lust-devotee\" dying for houris: \"When is the pious man for Truth? A Paradise-devotee is. / He dies for Houris; a mere lust-devotee is.\"[^4] True devotion demands purity beyond form-worship.\n- **Ghalib (*Diwan-E-Ghalib*, Ch. 233)**: The *zahid* excessively praises paradise (*bagh-e-rizwan*), reducing it to a \"bouquet on oblivion's forgotten lane\" for self-lost lovers.[^5] Other Ghalib ghazals mock the *zahid*'s rituals (e.g., ablutions, prayer beads) as futile amid existential pain.[^6]\n\nScattered references elsewhere reinforce this: *zahid* as rigid neighbor to the rind (Iqbal Ch. 44), yellowed and petty (Zauq Ch. 7), or paradise-praiser amid beauty (*Ghalib* Ch. 233).[^7] No Urdu work offers a systematic philosophical defense of the *zahid*; the corpus leans toward mystical critique.\n\n[^1]: Corpus-wide search for \"zahid\" yields 13 hits across these 5 Urdu works (0 for exact \"\\\"zahid\\\"\"); \"zuhd\" clusters in Iqbal Ch. 44. See `search_corpus(\"zahid\")` results.\n[^2]: Allama Iqbal, *Bang-E-Dara Part 1*, Ch. 44 (*Zuhd aur Rindi*), translation, [full chapter](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/).\n[^3]: Ibid., [p-b1ce70](/works/allama-iqbal-bang-e-dara-part-1-55b25c/44-zuhd-aur-rindi/translation/#p-b1ce70).\n[^4]: Sheikh Ibrahim Zauq, *Diwan-E-Zauq*, Ch. 25 (*Kab haq-parast zahid-e-jannat-parast hai*), translation, [p-9feb62](/works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/25-kab-haq-parast-zahid-e-jannat-parast-hai/translation/#p-9feb62).\n[^5]: Mirza Ghalib, *Diwan-E-Ghalib*, Ch. 233 (*sitaish-gar hai zahid is qadar jis bagh-e-rizwan ka*), translation, [p-4204da](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/233-sitaish-gar-hai-zahid-is-qadar-jis-bagh-e-rizwan-k/translation/#p-4204da).\n[^6]: E.g., *Diwan-E-Ghalib* Ch. 94, [snippet on *zahid*'s ablutions](https://falsafa.corpus/search?query=zahid); Ch. 43.\n[^7]: E.g., Iqbal *Bang-E-Dara Part 1* Ch. 12; Zauq Ch. 7; full `search_corpus(\"zahid\")` hits.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "zahid"
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"zahid\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.44 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.44 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "sheikh-ibrahim-zauq-diwan-e-zauq-0fa798",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of sheikh-ibrahim-zauq-diwan-e-zauq-0fa798 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 233,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.233 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ascetic"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "zuhd"
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 44
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.44\\nverse · 27¶ · 437w · vocab 181 (TTR 77%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"cleric tale mean\\\" · \\\"tale mean tell"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 233,
+      "paragraph_id": "p-b1ce70"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 233,
+      "paragraph_id": "p-9feb62"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 233,
+      "paragraph_id": "p-4204da"
+    }
+  ],
+  "duration_ms": 38510,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 20119,
+    "completion_tokens": 3829,
+    "total_tokens": 23948,
+    "cached_tokens": 3936,
+    "api_calls": 3,
+    "cost_usd": 0.0053479,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1907,
+        "completion_tokens": 382,
+        "total_tokens": 2289,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0002898
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4726,
+        "completion_tokens": 1392,
+        "total_tokens": 6118,
+        "cached_tokens": 1902,
+        "cost_usd": 0.0013559
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 13486,
+        "completion_tokens": 2055,
+        "total_tokens": 15541,
+        "cached_tokens": 150,
+        "cost_usd": 0.0037022
+      }
+    ]
+  }
+}

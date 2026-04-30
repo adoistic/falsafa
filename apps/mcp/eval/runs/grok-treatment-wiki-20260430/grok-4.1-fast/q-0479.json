@@ -1,0 +1,311 @@
+{
+  "answer": "The Falsafa corpus contains several works—primarily Hindu *Smṛti* (law) texts—that explicitly address heretics (*pāṣaṇḍa*, often denoting sectarian deviants or non-Vedic believers), atheists (*nāstika*, deniers of Vedic authority or theism), or unbelievers/infidel-like figures in legal, ritual, and social contexts. These are typically categorized as unfit for witness testimony, rituals, kingship, or ordeal by water/fire; as sources of social contagion; or as groups whose customs the king must regulate.[^1][^2][^3][^4][^5][^6][^7] A few poetic or philosophical works mention them more allusively or critically.[^8][^9]\n\n**Primary works (Dharmashastras/Smṛtis):**\n- *Manusmṛti*: Multiple chapters condemn atheists as revilers of the Veda (to be cast out), unfit for offerings, and kingdom-destroyers; heretics (*pāṣaṇḍa*) as people/places to shun.[^10]\n- *Kātyāyana Smṛti* (Chapter 33): Atheists and heretics unfit for divine ordeals.[^11]\n- *Nārada Smṛti* (Chapter 1): Heretics' agreements are legally binding but protected by the king; unfit as witnesses or debtors.[^12]\n- *Yājñavalkya Smṛti* (Chapters 1–3): Heretics unfit as priests, witnesses, or water-rite performers.[^13]\n- *Aṅgirasa Smṛti* (Chapter 1): Atheists among those unfit for priestly roles.[^14]\n- *Bṛhaspati Smṛti* (Chapter 1): Atheists unfit as judges or witnesses.[^15]\n- *Viṣṇu Smṛti* (Chapters 9, 54): Atheists barred from water ordeals; listed among sinners requiring penance.[^16]\n\n**Other mentions:**\n- *Traité de Législation* (Charles Comte, Vols. I & III): Critiques religious systems labeling dissenters as heretics/unbelievers/atheists to justify oppression or slavery.[^17]\n- *Diwan-E-Ghalib* (poetic): Self-identifies as heretic due to mental \"idols.\"[^18]\n- *Bang-E-Dara* (Allama Iqbal, Part 3): Unbelievers mock Muslims.[^19]\n- *Vratisaṃsana* (Chapter 1): Rejects practices of unbelievers (*vinayā*).\n\nNo other works in the 37-text corpus explicitly address these groups; modern philosophy or unrelated poetry does not.\n\n[^1]: *Manusmṛti*, [Chapter 1](/works/unknown-manusmrti-347b76/01/translation/#p-15c0a3).\n[^2]: *Manusmṛti*, [Chapter 2](/works/unknown-manusmrti-347b76/02/translation/#p-dc0b85).\n[^3]: *Kātyāyana Smṛti*, [Chapter 33](/works/unknown-katyayana-smrti-1e06d2/33/translation/#p-9e2684).\n[^4]: *Nārada Smṛti*, [Chapter 1](/works/unknown-naradasmrti-7650d2/01/translation/#p-ec653b).\n[^5]: *Yājñavalkya Smṛti*, [Chapter 2](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-478abd).\n[^6]: *Aṅgirasa Smṛti*, [Chapter 1](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-0e7e4f).\n[^7]: *Bṛhaspati Smṛti*, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-3181f4).\n[^8]: *Viṣṇu Smṛti*, [Chapter 9](/works/unknown-visnu-smrti-27f0d8/09/translation/#p-f93c6e).\n[^9]: *Traité de Législation: VOL III*, [Chapter 34](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/34-parallele-entre-la-portion-de-richesses-qui-est-la/translation/#p-5b4248).\n[^10]: *Manusmṛti*, [Chapter 4](/works/unknown-manusmrti-347b76/04/translation/#p-8b8ea4).\n[^11]: *Kātyāyana Smṛti*, [Chapter 33](/works/unknown-katyayana-smrti-1e06d2/33/translation/#p-9e2684).\n[^12]: *Nārada Smṛti*, [Chapter 1](/works/unknown-naradasmrti-7650d2/01/translation/#p-ec653b).\n[^13]: *Yājñavalkya Smṛti*, [Chapter 2](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-478abd).\n[^14]: *Aṅgirasa Smṛti*, [Chapter 1](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-0e7e4f).\n[^15]: *Bṛhaspati Smṛti*, [Chapter 1](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-3181f4).\n[^16]: *Viṣṇu Smṛti*, [Chapter 9](/works/unknown-visnu-smrti-27f0d8/09/translation/#p-f93c6e).\n[^17]: *Traité de Législation: VOL I*, [Chapter 6](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/06-du-systeme-dans-lequel-on-considere-les-lois-civil/translation/#p-52028d).\n[^18]: *Diwan-E-Ghalib*, [Chapter 46](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/46-garm-faryaad-rakha-shakl-e-nihaali-ne-mujhe/translation/#p-985123).\n[^19]: *Bang-E-Dara Part 3*, [Chapter 20](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-c09121).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heretic",
+        "limit": 30
+      },
+      "result_summary": "Found 16 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heretics",
+        "limit": 30
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "atheist",
+        "limit": 30
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "atheists",
+        "limit": 30
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "unbeliever",
+        "limit": 30
+      },
+      "result_summary": "Found 9 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "unbelievers",
+        "limit": 30
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "infidel",
+        "limit": 30
+      },
+      "result_summary": "Found 25 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-dc0b85"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-8b8ea4"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 33,
+        "paragraph_ids": [
+          "p-9e2684"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-ec653b"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-478abd"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-0e7e4f"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-3181f4"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-f93c6e"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "p-5b4248"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-i-7e62a2",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-52028d"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 46,
+        "paragraph_ids": [
+          "p-985123"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-15c0a3"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-dc0b85"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-9e2684"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-ec653b"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-478abd"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-0e7e4f"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-3181f4"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-f93c6e"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-5b4248"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-8b8ea4"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-52028d"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-985123"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 46,
+      "paragraph_id": "p-c09121"
+    }
+  ],
+  "duration_ms": 36770,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 41588,
+    "completion_tokens": 5004,
+    "total_tokens": 46592,
+    "cached_tokens": 16259,
+    "api_calls": 3,
+    "cost_usd": 0.00838075,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1902,
+        "completion_tokens": 658,
+        "total_tokens": 2560,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00042635
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14227,
+        "completion_tokens": 2240,
+        "total_tokens": 16467,
+        "cached_tokens": 150,
+        "cost_usd": 0.0039429
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 25459,
+        "completion_tokens": 2106,
+        "total_tokens": 27565,
+        "cached_tokens": 14222,
+        "cost_usd": 0.0040115
+      }
+    ]
+  }
+}

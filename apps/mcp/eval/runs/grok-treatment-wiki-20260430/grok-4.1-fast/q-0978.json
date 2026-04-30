@@ -1,0 +1,364 @@
+{
+  "answer": "**In *Andreas*, the conversion of the Mermedonians is precipitated by a sequence of Christ's miracles through Andreas, culminating in mass baptism after divine force overwhelms their resistance.**[^1] Andreas arrives invisibly (by God's protection), kills guards supernaturally, frees Matthew and prisoners, then publicly withstands torture unscathed. The pivotal \"conversion moment\" follows his command for a flood from a stone pillar: waters drown unrepentant sinners (including 14 leaders), revive the penitent youth who drowned, and recede at his word, transforming a sword-tree into a blooming grove where blood had been shed.[^2] The survivors, gripped by fear and recognizing divine might (\"Now it is seen that the true Maker... wields with His crafts\"), implore Andreas for mercy, abandon idols, and collectively receive baptism as \"the bath of baptism for the Lord’s will,\" with God's law established and a church built.[^3] This is not mere persuasion: external miraculous force (death, resurrection, elemental control) compels awe and submission, making conversion a compelled response to overwhelming power they cannot resist or deny—though they voice assent post-miracle.\n\n**In *Kuñjarakarṇa Dharmakathana*, Kunjarakarṇa's \"conversion\" (shift from rakṣasa asceticism seeking power to Mahāyāna realization and mokṣa) arises from Vairocana's revelations of true nature, karma, and non-dual unity, which he *sees* and internalizes.**[^4] Already pious, Kunjarakarṇa visits Vairocana on Buddha's command after witnessing hell's torments (sinners impaled, boiled, etc.) and Yama's teachings on karma/souls. The climax is Vairocana's exposition: all deities/Buddhas are unified in him (\"I, Vairocana, am Buddha-form and Śiva-form, the teacher of the entire world... the all-pervading, the special, supreme deity\"); self is five souls/elements dissolving into emptiness; sin/karma binds rebirth, but insight severs it.[^5] Kunjarakarṇa *sees* this reality (\"My heart feels as if it has been sliced... Now my course is clear\"), rejects lesser goals (\"I do not desire... a mere external sanctuary\"), vows refuge in Vairocana/Buddha, and returns to hermitage for yoga/mokṣa—achieved without force, miracles, or coercion, but through unveiled vision of \"what he is\" (impermanent, unified in dharmakāya).\n\n**Conversion in *Andreas* is something the Mermedonians are *made to do*: Christ's force breaks their cannibal-heathen world, leaving no alternative but submission (miracles as coercive signs, echoing biblical plagues/apostolic wonders). In *Kuñjarakarṇa*, it is something Kunjarakarṇa *finally sees*: Vairocana reveals innate non-dual truth, prompting voluntary insight and refuge—no external compulsion, but self-realization aligning with Buddhist soteriology.[^6]\n\n[^1]: *Andreas*, ch. 1, [full chapter](/works/cynewulf-andreas-07b573/01/translation/).\n[^2]: *Andreas*, ch. 1, [p-2e50c1](/works/cynewulf-andreas-07b573/01/translation/#p-2e50c1) to [p-e5ccfa](/works/cynewulf-andreas-07b573/01/translation/#p-e5ccfa) (flood command/resurrection); [p-a0e8df](/works/cynewulf-andreas-07b573/01/translation/#p-a0e8df) (blood-to-groves).\n[^3]: *Andreas*, ch. 1, [p-2f5cb6](/works/cynewulf-andreas-07b573/01/translation/#p-2f5cb6) (baptism/law established); cf. [p-2547b1](/works/cynewulf-andreas-07b573/01/translation/#p-2547b1) (fearful realization).\n[^4]: *Kuñjarakarṇa Dharmakathana*, ch. 1, [full chapter](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/).\n[^5]: *Kuñjarakarṇa Dharmakathana*, ch. 1, [p-6c6127](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-6c6127) (unity revelation); [p-8e6c10](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-8e6c10)–[p-c64812](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-c64812) (five souls/true nature); [p-f907b3](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-f907b3) (hell prompts inquiry).\n[^6]: No other works in the corpus cover these exact narratives; nearest are Cynewulf's *Elene*/*Juliana* (miraculous hagiographies) and Indic tantras (*San Hyan Kamahayanikan*, Vairocana esoterica), but conversions align as described.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Mermedonia"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Kunjarakarna"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vairocana Kunjarakarna"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Andreas Mermedon"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Mermedon\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "baptize OR baptism OR convert OR conversion OR faith Mermedon",
+        "limit": 20
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "buddhist"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dharmakathana"
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "kunjarakar"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vairocana"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"blue-eared\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Literature"
+      },
+      "result_summary": "Listed 9 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kunjarakarna Dharmakathana · ch.1\\nprose · 349¶ · 17973w · vocab 2570 (TTR 32%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"homage feet lord\\\" · \\\"pay"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"baptiz\" OR baptis OR \"believe\" OR faith OR convert Mermedon OR Mermedonia",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "convert OR conversion OR faith OR believe OR see OR vision Kunjarakarna OR Vairocana",
+        "limit": 20
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Kunjarakarna Dharmakathana · ch.1\\nprose · 349¶ · 17973w · vocab 2570 (TTR 32%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"homage feet lord\\\" · \\\"pay"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"baptism\" OR baptise OR baptized OR \"fullu\" OR ful OR \"gefullod\" OR faith OR believe OR \"believe in\" OR convert OR christian Mermedonia OR Mermedon",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "convert OR conversion OR faith OR believe OR \"take refuge\" OR vision OR see OR \"true nature\" OR moksha Kunjarakarna OR \"elephant ear\" OR Vairocana",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "cynewulf-andreas-07b573",
+        "work_slug_b": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "topic": "conversion"
+      },
+      "result_summary": "{\"topic\":\"conversion\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"cynewulf-andreas-07b573\",\"title\":\"Andreas\",\"aut"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-kunjarakarna-dharmakathana-894f4a (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-2e50c1"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-e5ccfa"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-a0e8df"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-2f5cb6"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-2547b1"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-6c6127"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-8e6c10"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-c64812"
+    },
+    {
+      "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+      "chapter_number": 1,
+      "paragraph_id": "p-f907b3"
+    }
+  ],
+  "duration_ms": 65903,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 122939,
+    "completion_tokens": 6416,
+    "total_tokens": 129355,
+    "cached_tokens": 26429,
+    "api_calls": 7,
+    "cost_usd": 0.02383145,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1941,
+        "completion_tokens": 541,
+        "total_tokens": 2482,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00037655
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 3236,
+        "completion_tokens": 777,
+        "total_tokens": 4013,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00075355
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 5367,
+        "completion_tokens": 1137,
+        "total_tokens": 6504,
+        "cached_tokens": 3231,
+        "cost_usd": 0.00115725
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 10654,
+        "completion_tokens": 763,
+        "total_tokens": 11417,
+        "cached_tokens": 5362,
+        "cost_usd": 0.001708
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13779,
+        "completion_tokens": 881,
+        "total_tokens": 14660,
+        "cached_tokens": 150,
+        "cost_usd": 0.0031738
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki_full",
+          "read_wiki_full",
+          "search_corpus",
+          "search_corpus",
+          "compare_works"
+        ],
+        "prompt_tokens": 20584,
+        "completion_tokens": 538,
+        "total_tokens": 21122,
+        "cached_tokens": 13774,
+        "cost_usd": 0.0023197
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 67378,
+        "completion_tokens": 1779,
+        "total_tokens": 69157,
+        "cached_tokens": 150,
+        "cost_usd": 0.0143426
+      }
+    ]
+  }
+}

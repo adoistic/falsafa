@@ -1,0 +1,229 @@
+{
+  "answer": "In Mirza Ghalib's *Diwan-e-Ghalib*, ghazal 45 opens with a couplet that explicitly deploys **shab-e-furqat** (\"night of separation\")—a Sufi idiom for the anguished, mystical state of furqat (separation from the divine Beloved)—while its literal rendering as \"night\" remains active in the imagery of lunar blemish and speechless pain.[^1]\n\n> If this night's parting sorrow finds no words for pain,  \n> The moon's dark blemish a mouth-sealing stain will then become.[^1]\n\nThe spiritual reading is activated unambiguously by the original Urdu phrase **andoh-e-shab-e-furqat** in the radif (rhyme-refrain), a loaded Sufi term that elevates the erotic parting to cosmic/divine longing (beyond mere romantic shab, or \"night\"). The translation's \"night's parting sorrow\" preserves this polysemy by letting \"night\" evoke both temporal darkness and existential rupture.[^2]\n\n[^1]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 45 (\"Gar na andoh-e-shab-e-furqat bayaan ho jaaye-ga\"), [p-2e3d26](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/45-gar-na-andoh-e-shab-e-furqat-bayaan-ho-jaaye-ga/translation/#p-2e3d26).\n\n[^2]: Ibid., [chapter](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/45-gar-na-andoh-e-shab-e-furqat-bayaan-ho-jaaye-ga/translation/). The chapter title itself encodes **shab-e-furqat**.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mirza-ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shab\" ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shab-e-furqat\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night of separation\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night\" separation",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shab furqat",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shab\" night",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 45
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.45\\nverse · 11¶ · 244w · vocab 100 (TTR 83%, hapax 91%)\\n\\n## Distinctive trigrams\\n\\\"night parting sorrow\\\" · \\\"parting sor"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 67
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.67\\nverse · 12¶ · 286w · vocab 120 (TTR 87%, hapax 88%)\\n\\n## Distinctive trigrams\\n\\\"every step goal\\\" · \\\"step goal recede"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 115
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Diwan-E-Ghalib · ch.115\\nverse · 10¶ · 178w · vocab 59 (TTR 83%, hapax 85%)\\n\\n## Distinctive trigrams\\n\\\"hope ever answered\\\" · \\\"ever answered"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 180
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.180\\nverse · 8¶ · 181w · vocab 88 (TTR 85%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"night heart own\\\" · \\\"heart own fire\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "night parting",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"night's parting\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 45
+      },
+      "result_summary": "Read ch.45 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 45,
+        "paragraph_ids": [
+          "p-2e3d26"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 45,
+      "paragraph_id": "p-2e3d26"
+    }
+  ],
+  "duration_ms": 30190,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 23837,
+    "completion_tokens": 3759,
+    "total_tokens": 27596,
+    "cached_tokens": 17874,
+    "api_calls": 5,
+    "cost_usd": 0.0039658,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1936,
+        "completion_tokens": 423,
+        "total_tokens": 2359,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00031625
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2393,
+        "completion_tokens": 736,
+        "total_tokens": 3129,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00056445
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4969,
+        "completion_tokens": 915,
+        "total_tokens": 5884,
+        "cached_tokens": 2388,
+        "cost_usd": 0.0010931
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6763,
+        "completion_tokens": 300,
+        "total_tokens": 7063,
+        "cached_tokens": 4964,
+        "cost_usd": 0.000758
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "get_passage"
+        ],
+        "prompt_tokens": 7776,
+        "completion_tokens": 1385,
+        "total_tokens": 9161,
+        "cached_tokens": 6758,
+        "cost_usd": 0.001234
+      }
+    ]
+  }
+}

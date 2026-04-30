@@ -1,0 +1,222 @@
+{
+  "answer": "**Slokāntara** (a Medieval Kawi prose work compiling and glossing aphorisms on *dharma*, vice, rebirth, and virtue) addresses the dangers of greed (*lobha*) explicitly as one of the six vices (*ṣaḍvarga*) that overrun the \"field\" of the human body (likened to untended farmland), leading to sin and degraded rebirth.[^1] \n\nThe text warns: \"*Lobha* (greed) means to desire the property of others and claim it as one's own. [...] The reason a person becomes sinful is because of the *ṣaḍripu*, the six enemies. Moreover, a pitiable person who is overcome by the six enemies will not fail to be terrified and to meet with sin.\" This occurs in the gloss on Ślo_41 (which contrasts worldly power from past merit against present heedlessness of *dharma*).\n\nGreed also appears as **_ləja_** (\"a greedy nature; great in craving, great in attachment and affection for evil\") among the **Ten Stains** to avoid, as they are \"not conducive to well-being.\"[^2] These stains parallel virtues but emphasize moral peril.\n\nCoveting others' property is further damned as a hallmark of the degraded *cāṇḍāla* mind in the *Kali Yuga*, amid sins like theft and murder that lead to hell.[^3]\n\nNo single śloka is solely \"on the dangers of greed,\" but these are the core warnings in its ethical schema of vices, rebirth, and *dharma*.\n\n[^1]: *Slokantara*, ch. 1, [paragraph](/works/unknown-slokantara-d7a628/01/translation/#p-1d5638).\n[^2]: *Slokantara*, ch. 1, [paragraph](/works/unknown-slokantara-d7a628/01/translation/#p-3a2b18).\n[^3]: *Slokantara*, ch. 1, [paragraph](/works/unknown-slokantara-d7a628/01/translation/#p-898c82).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Slokantara"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "dangers of greed"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "greed",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "{\"markdown\":\"# Slokantara\\nUnknown · Medieval · kawi · prose · 1 chapters · 17,343 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"say sacred teachings\\\" · \\\"kṛta tretā dvā"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Slokantara · ch.1\\nprose · 184¶ · 17343w · vocab 2746 (TTR 33%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"say sacred teachings\\\" · \\\"kṛta tretā dvāp"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Slokantara · ch.1\\nprose · 184¶ · 17343w · vocab 2746 (TTR 33%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"say sacred teachings\\\" · \\\"kṛta tretā dvāp"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-slokantara-d7a628 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "evil mind"
+      },
+      "result_summary": "Found 7 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "danger* greed OR avarice OR covet"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-1d5638"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-3a2b18"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-898c82"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lobha OR greed OR ləja"
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-1d5638"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-3a2b18"
+    },
+    {
+      "work_slug": "unknown-slokantara-d7a628",
+      "chapter_number": 1,
+      "paragraph_id": "p-898c82"
+    }
+  ],
+  "duration_ms": 52332,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 111615,
+    "completion_tokens": 5205,
+    "total_tokens": 116820,
+    "cached_tokens": 63994,
+    "api_calls": 5,
+    "cost_usd": 0.0153264,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1903,
+        "completion_tokens": 848,
+        "total_tokens": 2751,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00052245
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7564,
+        "completion_tokens": 541,
+        "total_tokens": 8105,
+        "cached_tokens": 150,
+        "cost_usd": 0.0017608
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 8935,
+        "completion_tokens": 861,
+        "total_tokens": 9796,
+        "cached_tokens": 7559,
+        "cost_usd": 0.00108365
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki_full",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 45479,
+        "completion_tokens": 1887,
+        "total_tokens": 47366,
+        "cached_tokens": 8930,
+        "cost_usd": 0.0086998
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 47734,
+        "completion_tokens": 1068,
+        "total_tokens": 48802,
+        "cached_tokens": 45474,
+        "cost_usd": 0.0032597
+      }
+    ]
+  }
+}

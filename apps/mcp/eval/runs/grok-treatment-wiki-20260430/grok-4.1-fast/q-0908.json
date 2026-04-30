@@ -1,0 +1,202 @@
+{
+  "answer": "In Cynewulf's *Andreas*, the moral valence of *wræcsīþ* (path of exile/wrath-journey) and *wræc* (exile/wrath-state) as punitive misery—banishment not merely from place but from divine favor/glory due to sin—is most vividly colored in Andreas's rebuke to Satan.[^1] The devil is told he has \"dwelled in exile, deprived of glory\" (*in wræc wunne, wuldres blunne*) ever since scorning God's word, his endless *wræc* an extension of torment (*susle gebunden*) with \"never...an end to your exile\" (*ende næfre þīnes wræces*). This frames *wræc* as retributive, a fated fall from heavenly *wuldor* (glory) into infernal isolation, echoing the poem's theme of divine justice meted on rebels (cf. the Mermedonians' *wræcsīþ* as torment-fated for unbelief: \"a path of exile is fated, torment laid open\").[^2]\n\nModern English \"exile\" by contrast connotes neutral relocation (political/geographical displacement), stripped of OE *wræc*'s baked-in ethical freight as covenant-breach, wrath-deserved wandering, and joyless *earfoþa* (hardship). The corpus lacks neutral *wræc*; Cynewulf's usage (here and in *Juliana*) aligns with elegiac OE precedents like *The Wanderer* (*wræclastas*: joyless, lordless paths), where exile signals relational rupture and doom.[^3]\n\n[^1]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-ca8f6e).\n\n[^2]: Cynewulf, *Andreas*, [paragraph](/works/cynewulf-andreas-07b573/01/translation/#p-f115de).\n\n[^3]: Cynewulf, *Juliana*, ch.1 (scattered *wræc(wræcmaegja*, *sarwræce*, etc., as vengeful torment); cf. *Old English Elegies*, \"The Wanderer\" [paragraph](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/transliteration/#p-2ecb4b).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wraec",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wraec\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-992aeb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-01394b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "exile",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wraec OR wreca OR wraecsith",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-ca8f6e"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-f115de"
+    },
+    {
+      "work_slug": "cynewulf-elene-d2d132",
+      "chapter_number": 1,
+      "paragraph_id": "p-2ecb4b"
+    }
+  ],
+  "duration_ms": 32457,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 61730,
+    "completion_tokens": 3928,
+    "total_tokens": 65658,
+    "cached_tokens": 13952,
+    "api_calls": 4,
+    "cost_usd": 0.0122172,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1948,
+        "completion_tokens": 611,
+        "total_tokens": 2559,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00041295
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4879,
+        "completion_tokens": 1158,
+        "total_tokens": 6037,
+        "cached_tokens": 150,
+        "cost_usd": 0.0015323
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7052,
+        "completion_tokens": 936,
+        "total_tokens": 7988,
+        "cached_tokens": 4874,
+        "cost_usd": 0.0011473
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "read_wiki"
+        ],
+        "prompt_tokens": 47851,
+        "completion_tokens": 1223,
+        "total_tokens": 49074,
+        "cached_tokens": 7047,
+        "cost_usd": 0.00912465
+      }
+    ]
+  }
+}

@@ -1,0 +1,245 @@
+{
+  "answer": "**Iqbal's \"Khitāb ba Jawānān-e-Islām\" (Bang-E-Dara Part 3, ch. 13)** is a complete poetic address in the second person (\"you,\" \"your\"), opening with a rhetorical question to provoke self-examination and implicitly demanding revival through action.[^1] The speaker contrasts the addressees' glorious ancestors—world-conquering Arabs—with their current inertia (\"you are all talk, they were all action; you are static, they were ever-moving\"), laments lost heritage (e.g., ancestral books now in Europe), and urges recovery beyond mere political rule.[^2]\n\n**Cynewulf's epilogues**, embedded as signed runic closings in *Juliana* (ch. 1), *Elene* (ch. 1), and *Andreas* (ch. 1), shift from narrative to first-person pleas directed at \"every person of humankind\" who recites the poem.[^3][^4][^5] He demands intercessory prayer (\"pray to the Molder that the Helm of the heavens grant me help\") and ties it to eschatological judgment, warning of fire-trials where deeds (including remembrance) determine fate.[^6]\n\nBoth authors rely on second-person address for immediacy and imperative force but hedge extensively with explanation: Iqbal via historical exempla and diagnostics of decline; Cynewulf via doctrinal exposition of divine judgment and mercy. Neither trusts bare imperatives alone, embedding demands in vivid, justificatory rhetoric to motivate.\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 13 \"Khitab ba Jawanan-e-Islam\" [p-0291d8](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-0291d8).\n\n[^2]: Ibid., [p-365462](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).\n\n[^3]: Cynewulf, *Juliana*, ch. 1, closing [p-1f8ce8](/works/cynewulf-juliana-9a2157/01/translation/#p-1f8ce8).\n\n[^4]: Cynewulf, *Elene*, ch. 1, closing [p-dcbbfe](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).\n\n[^5]: Cynewulf, *Andreas*, ch. 1, [p-be1571](/works/cynewulf-andreas-07b573/01/translation/#p-be1571).\n\n[^6]: *Juliana*, ch. 1 [p-1f8ce8](/works/cynewulf-juliana-9a2157/01/translation/#p-1f8ce8); *Elene*, ch. 1 [p-dcbbfe](/works/cynewulf-elene-d2d132/01/translation/#p-dcbbfe).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Khitāb ba Jawānān-e-Islām\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Address to the Young Men of Islam\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"khitab ba jawanan\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"jawanan-e-islam\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.13\\nverse · 2¶ · 268w · vocab 118 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"address muslim youth\\\" · \\\"muslim yout"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Elene · ch.1\\nverse · 13¶ · 8573w · vocab 1521 (TTR 36%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"men holy city\\\" · \\\"chosen people learning\\\" ·"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Andreas · ch.1\\nverse · 83¶ · 12387w · vocab 1935 (TTR 31%, hapax 53%)\\n\\n## Distinctive trigrams\\n\\\"andreas gave answer\\\" · \\\"holy one lore\\\" · \\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "thou OR thy OR thee",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-0291d8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-365462"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-1f8ce8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-dcbbfe"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-be1571"
+    }
+  ],
+  "duration_ms": 50770,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 62431,
+    "completion_tokens": 5274,
+    "total_tokens": 67705,
+    "cached_tokens": 8441,
+    "api_calls": 5,
+    "cost_usd": 0.01385705,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1945,
+        "completion_tokens": 457,
+        "total_tokens": 2402,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0003349
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2731,
+        "completion_tokens": 634,
+        "total_tokens": 3365,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00058105
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4381,
+        "completion_tokens": 626,
+        "total_tokens": 5007,
+        "cached_tokens": 150,
+        "cost_usd": 0.0011667
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 6767,
+        "completion_tokens": 1544,
+        "total_tokens": 8311,
+        "cached_tokens": 4376,
+        "cost_usd": 0.001469
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki_full",
+          "read_wiki_full",
+          "read_wiki_full",
+          "search_corpus"
+        ],
+        "prompt_tokens": 46607,
+        "completion_tokens": 2013,
+        "total_tokens": 48620,
+        "cached_tokens": 150,
+        "cost_usd": 0.0103054
+      }
+    ]
+  }
+}

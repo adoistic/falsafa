@@ -1,0 +1,80 @@
+{
+  "answer": "**The Falsafa corpus does not contain any works in Old Javanese (or modern Javanese).** \n\nMy searches for works by language (\"old-javanese\", \"javanese\") and genre (\"old-javanese\") returned zero results. A full-text search for \"guru\" across the English translations surfaced ~50 hits, but all were from Sanskrit-language Dharmaśāstra/smṛti texts (e.g., *Manusmṛti*, *Āṅgirasa Smṛti*) where \"guru\" denotes a preceptor, teacher, or revered elder in a strictly hierarchical, pedagogical, and ritual sense—e.g., a student must honor the guru above even parents, with detailed rules on seating, saluting, begging, and service.[^1][^2]\n\nWithout Old Javanese texts, I cannot provide a passage using \"guru\" in that language or analyze its semantic shift (e.g., hierarchical vs. pedagogical vs. repurposed). The corpus focuses on 37 philosophical/classical works, mostly Sanskrit Indic texts; Old Javanese literature (e.g., *Kakawin* like *Arjunawiwāha* or *Nāgarakṛtāgama*) is not represented here. If this is added later, I can revisit.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "guru",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 12983,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 10196,
+    "completion_tokens": 1471,
+    "total_tokens": 11667,
+    "cached_tokens": 2032,
+    "api_calls": 2,
+    "cost_usd": 0.0024699,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1938,
+        "completion_tokens": 602,
+        "total_tokens": 2540,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0004063
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 8258,
+        "completion_tokens": 869,
+        "total_tokens": 9127,
+        "cached_tokens": 150,
+        "cost_usd": 0.0020636
+      }
+    ]
+  }
+}

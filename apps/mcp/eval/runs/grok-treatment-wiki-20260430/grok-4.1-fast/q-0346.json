@@ -1,0 +1,182 @@
+{
+  "answer": "**Neither the specified chapters in the Falsafa corpus's editions of *Manusmṛti* (ch. 11) nor *Yājñavalkya Smṛti* (ch. 3) treat unintentional killing or prescribe punishments/penances for it.**[^1][^2]\n\n*Manusmṛti* chapter 11 (only 6 verses/paragraphs long in this edition) discusses whom to exempt from considering as beggars when giving gifts/dana (e.g., family-establishers, travelers, students, the sick) and the merits of giving to Vedic Brahmins.[^3] No mention of killing, homicide, or expiations appears.[^4]\n\n*Yājñavalkya Smṛti* chapter 3 (on expiation/prāyaścittādhyāya) covers ritual impurity from death/birth, purification methods (time, fire, austerity, etc.), duties in distress, forest-hermit/ascetic rules, anatomy, yoga, cosmology, rebirth, and liberation paths—but contains no rules on killing (intentional or unintentional), nor related penances/punishments.[^5]\n\nBroad searches across the English translations for phrases like \"unintentional killing\", \"unwittingly kills\", \"kills a man\", \"by mistake\", \"accidentally\", \"homicide\", or combinations (even limited to Manu/Yajnavalkya) yielded no relevant passages in these works.[^6] Related concepts like \"kills\" appear elsewhere (e.g., Manu ch. 5/8 on hunters/wolves; Yaj. ch. 1/2 on animals/husbands), but not unintentional human killing.[^7] Standard editions outside this corpus may differ (e.g., fuller *Manusmṛti* ch. 11 on penances), but this cannot be confirmed here.\n\nThe corpus has limited coverage of Smṛti topics (37 works total), so specific details on this offense/punishment differences are unavailable.\n\n[^1]: `list_works(author=\"manu\")` → `unknown-manusmrti-347b76`; `list_works(author=\"yajnavalkya\")` → `unknown-yajnavalkya-smrti-cb88d6`.\n[^2]: `read_wiki(unknown-manusmrti-347b76, 11)`; `read_wiki(unknown-yajnavalkya-smrti-cb88d6, 3)`.\n[^3]: `read_chapter(unknown-manusmrti-347b76, 11, \"translation\")` [`/works/unknown-manusmrti-347b76/11/translation/`].\n[^4]: Confirmed via `search_corpus(\"manu unintentional kill\")`; `search_corpus(\"manu \\\"kills\\\"\")` → 0 results.\n[^5]: `read_chapter(unknown-yajnavalkya-smrti-cb88d6, 3, \"translation\")` [`/works/unknown-yajnavalkya-smrti-cb88d6/03/translation/`].\n[^6]: `search_corpus(\"\\\"unintentional killing\\\"\")`; `search_corpus(\"manu unintentional kill\")`; `search_corpus(\"\\\"unintentionally\\\" OR \\\"accidentally\\\" OR \\\"unwittingly\\\" OR \\\"by mistake\\\" OR \\\"without intention\\\" killing OR homicide OR murder\")`; `search_corpus(\"\\\"kills a man\\\" OR \\\"kills another\\\" OR \\\"unwittingly kills\\\"\")`.\n[^7]: `compare_works(unknown-manusmrti-347b76, unknown-yajnavalkya-smrti-cb88d6, \"killing\")`; `compare_works(..., \"unintentional killing\")`.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"unintentional killing\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu unintentional kill"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Manusmṛti · ch.11\\nverse · 6¶ · 206w · vocab 59 (TTR 64%, hapax 76%)\\n\\n## Distinctive trigrams\\n\\\"brahmanas learned veda\\\" · \\\"one establishin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "unintentional killing"
+      },
+      "result_summary": "{\"topic\":\"unintentional killing\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"M"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "killing"
+      },
+      "result_summary": "{\"topic\":\"killing\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\",\"au"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"kills a man\" OR \"kills another\" OR \"unwittingly kills\""
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"unintentionally\" OR \"accidentally\" OR \"unwittingly\" OR \"by mistake\" OR \"without intention\" killing OR homicide OR murder"
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "manu \"kills\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 33379,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 33463,
+    "completion_tokens": 3872,
+    "total_tokens": 37335,
+    "cached_tokens": 12128,
+    "api_calls": 4,
+    "cost_usd": 0.0068094,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1920,
+        "completion_tokens": 450,
+        "total_tokens": 2370,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00032685
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2290,
+        "completion_tokens": 617,
+        "total_tokens": 2907,
+        "cached_tokens": 150,
+        "cost_usd": 0.000744
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "compare_works",
+          "compare_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7817,
+        "completion_tokens": 821,
+        "total_tokens": 8638,
+        "cached_tokens": 2285,
+        "cost_usd": 0.00163115
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21436,
+        "completion_tokens": 1984,
+        "total_tokens": 23420,
+        "cached_tokens": 7812,
+        "cost_usd": 0.0041074
+      }
+    ]
+  }
+}

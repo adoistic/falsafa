@@ -1,0 +1,138 @@
+{
+  "answer": "**In Cynewulf's *Elene*, Latin \"shows through\" most strikingly in a direct borrowing of the ecclesiastical phrase *Cheruphim et Seraphim* (from Latin *Cherubim et Seraphim*), embedded verbatim amid the Old English verse.**[^1]\n\nThis occurs when Christ, manifesting in the Jerusalem temple, describes images on the walls as likenesses of the highest angelic orders (*engelcynna thaes bremestan*) who stand (*standath stithferthe*) before the eternal Lord's face (*fore onsyne ecan dryhtnes*), praising (*herigath*) him with holy voices (*halgum hleothrum*). The full lines read:\n\n> He worde cwaeth: \"this is anlicnes / engelcynna thaes bremestan / the mid tham burgwarum / in thaere ceastre is. **Cheruphim et Seraphim** / tha on swegeldreamum / syndon nemned. Fore onsyne / ecan dryhtnes standath stithferthe...\"\n\nThe OE continues to elaborate their ceaseless song of divine holiness (*\"Halig is se halga...\"*), drawn from Isaiah 6:1–3 (Vulgate: *Seraphim stabant... clamabant... Sanctus, Sanctus, Sanctus*). \n\n**Theologically, this Latin phrase evokes the celestial hierarchy and Trinitarian *sanctus* hymn central to patristic angelology (e.g., Pseudo-Dionysius, Gregory the Great), underscoring God's transcendent throne-room worship amid the poem's Invention-of-the-Cross narrative. It elevates Constantine's vision, blending OE heroic idiom with Latin liturgical authority to affirm Christ's lordship over angels and nations.**[^2]\n\nNo other Cynewulf work deploys such overt Latin phrasing; *Andreas* and *Juliana* favor nativized terms (*engel*, *hierde*), though names like *Affricanus* (*Juliana*) or *Herodes* show milder influence.\n\n[^1]: Cynewulf, *Elene*, [transliteration](/works/cynewulf-elene-d2d132/01/transliteration/#p-624562).\n[^2]: Cynewulf, *Elene*, [transliteration](/works/cynewulf-elene-d2d132/01/transliteration/#p-624562).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Latin\" OR loan OR calque OR \"from Latin\" cynewulf",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (transliteration)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-624562"
+    }
+  ],
+  "duration_ms": 42448,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 68824,
+    "completion_tokens": 4253,
+    "total_tokens": 73077,
+    "cached_tokens": 10321,
+    "api_calls": 4,
+    "cost_usd": 0.01434315,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1929,
+        "completion_tokens": 192,
+        "total_tokens": 2121,
+        "cached_tokens": 150,
+        "cost_usd": 0.0004593
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2274,
+        "completion_tokens": 620,
+        "total_tokens": 2894,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00048265
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6026,
+        "completion_tokens": 1969,
+        "total_tokens": 7995,
+        "cached_tokens": 2269,
+        "cost_usd": 0.00184935
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 58595,
+        "completion_tokens": 1472,
+        "total_tokens": 60067,
+        "cached_tokens": 6021,
+        "cost_usd": 0.01155185
+      }
+    ]
+  }
+}

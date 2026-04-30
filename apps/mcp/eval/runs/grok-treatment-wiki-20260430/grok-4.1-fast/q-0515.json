@@ -1,0 +1,312 @@
+{
+  "answer": "**The Falsafa corpus contains ritual prescriptions for purification primarily in Dharmaśāstra texts (smṛtis), which detail rules for ritual impurity (*aśauca*) from death, birth, bodily functions, and sins, often involving bathing, penances, sipping water, and earth applications. Tantric or ritual works also include specific rites. Below are the key works with explicit prescriptions:**\n\n- **Gaṇapatitattva**: Contains a detailed *paṅlukatan* (purification ritual) for Gaṇapati, used for exorcism. It specifies materials like ivory bamboo with a magical drawing of Gaṇa, offerings (white/yellow ajuman set, chicken, flowers, etc.), a copper vessel of water, a monetary offering of 1100, and a concluding mantra with sprinkling.[^1]\n\n- **Manusmṛti**: Chapter 5 (continued into 6) provides comprehensive prescriptions for purification after death/birth (e.g., 10 nights for *sapiṇḍas*, bathing with clothes on), bodily impurities (e.g., portions of earth for cleaning penis/anus/hands), objects (e.g., ash-water-earth for metals), and penances.[^2]\n\n- **Āṅgirasa Smṛti**: Prescribes baths and penances for purification after forbidden acts like vomiting, incestuous unions, or death-related impurity (e.g., covering in a pit, hand-purification with darbha grass after śrāddha).[^3]\n\n- **Kātyāyana Smṛti**: Chapters 36–38 and 42 detail ordeal rituals (*divya*) for legal purification, e.g., water ordeal with reed arrows shot firmly; consecrated water ordeal; adjudication as a remedy.[^4]\n\n- **Vratisasana**: Describes types of ritual bathing (*snāna*) as part of purity (*śauca*): *Āgneya*, *Vāruṇa*, *Brāhma*, etc., with rules for application.[^5]\n\n**Other smṛtis** like **Bṛhaspati Smṛti**[^6], **Viṣṇu Smṛti**, and **Yājñavalkya Smṛti** mention purification (e.g., king's morning rites, post-body baths) but lack the detailed ritual steps found above. No prescriptions appear in non-Dharma texts based on searches.\n\n[^1]: *Gaṇapatitattva*, Chapter 1, [paragraph](/works/unknown-ganapatitattva-66a136/01/translation/#p-36c962).\n\n[^2]: *Manusmṛti*, Chapter 6, [passage](/works/unknown-manusmrti-347b76/06/translation/#p-89d810).\n\n[^3]: *Āṅgirasa Smṛti*, Chapter 1, [paragraphs](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-5dbd15).\n\n[^4]: *Kātyāyana Smṛti*, Chapter 36, [paragraph](/works/unknown-katyayana-smrti-1e06d2/36/translation/#p-e1a906).\n\n[^5]: *Vratisasana*, Chapter 1, [paragraph](/works/unknown-vratisasana-d0fe75/01/translation/#p-4502aa).\n\n[^6]: *Bṛhaspati Smṛti*, Chapter 1, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-fec45a).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "purification ritual",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ritual purification",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "purify ritual",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lustral water",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "purification",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"purify\"",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ritual bath",
+        "limit": 10
+      },
+      "result_summary": "Found 5 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lustration",
+        "limit": 10
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "religion"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "tantra"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136"
+      },
+      "result_summary": "{\"markdown\":\"# Gaṇapatitattva\\nGaṇapati · Medieval · kawi · prose · 1 chapters · 10,190 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"īśvara spoke son\\\" · \\\"humble son p"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vratisasana-d0fe75"
+      },
+      "result_summary": "{\"markdown\":\"# Vratisasana\\nUnknown · Medieval · kawi · prose · 1 chapters · 17,658 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"one *siddhānta* school\\\" · \\\"sacred vows"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-36c962"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-5dbd15",
+          "p-36c962"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-36c962"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 6,
+        "paragraph_ids": [
+          "p-89d810"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 36,
+        "paragraph_ids": [
+          "p-e1a906"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-fec45a"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-36c962"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-89d810"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-5dbd15"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-e1a906"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-4502aa"
+    },
+    {
+      "work_slug": "unknown-brhaspati-smrti-0fd070",
+      "chapter_number": 1,
+      "paragraph_id": "p-fec45a"
+    }
+  ],
+  "duration_ms": 52630,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 41630,
+    "completion_tokens": 5827,
+    "total_tokens": 47457,
+    "cached_tokens": 22892,
+    "api_calls": 5,
+    "cost_usd": 0.0078057000000000005,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1897,
+        "completion_tokens": 440,
+        "total_tokens": 2337,
+        "cached_tokens": 1887,
+        "cost_usd": 0.00031635
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2253,
+        "completion_tokens": 505,
+        "total_tokens": 2758,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0004202
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 6547,
+        "completion_tokens": 1449,
+        "total_tokens": 7996,
+        "cached_tokens": 2248,
+        "cost_usd": 0.0016967
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "get_passage"
+        ],
+        "prompt_tokens": 10334,
+        "completion_tokens": 1688,
+        "total_tokens": 12022,
+        "cached_tokens": 6542,
+        "cost_usd": 0.0019295
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_wiki"
+        ],
+        "prompt_tokens": 20599,
+        "completion_tokens": 1745,
+        "total_tokens": 22344,
+        "cached_tokens": 10329,
+        "cost_usd": 0.00344295
+      }
+    ]
+  }
+}

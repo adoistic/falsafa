@@ -1,0 +1,254 @@
+{
+  "answer": "**Yājñavalkya Smṛti 2.21** (in Chapter 2, \"On Legal Procedure\") does not concern witnesses.[^1] It states a rule for resolving conflicts between scriptural sources: \"In a conflict between two Smṛtis, reason based on custom is stronger in legal matters. But it is the established rule that Dharmaśāstra is more powerful than Arthaśāstra.\"[^1]\n\nWitnesses (*sākṣin*) are instead addressed as one of three primary proofs (*pramāṇa*)—\"document, possession, and witnesses\"—immediately afterward at 2.22, with resort to ordeal (*divya*) if none are available.[^2] Detailed rules appear in section 5 (verses 68–83), emphasizing competent witnesses, their examination, and penalties.[^3]\n\n### Competent Witnesses (2.68–72)\n- Ideal: ascetics, the charitable, good-family men, truth-tellers, those prioritizing *dharma*, upright men, fathers, and the wealthy.[^4]\n- Minimum: three, versed in Śruti/Smṛti, matching the parties' caste/*varṇa* (or any *varṇa* for any).[^5]\n- Incompetent: women, children, elders, gamblers, drunkards, insane, grave sinners, actors, heretics, forgers, sensory defectives, outcastes, friends/enemies with interest, thieves, violent criminals, convicts, exiles.[^6][^7]\n- Exceptions: A single approved *dharma*-knowing witness suffices; anyone may testify in adultery, theft, assault, violence.[^8]\n\n### Examination and Testimony (2.73–83)\n- Judge admonishes witnesses before parties: False testimony yields hells of sinners/arsonists/child-killers, forfeits past-life merit.[^9]\n- Non-testimony (knowing a debt): Fined full amount + 10% after 46 days; equals false witness in sin/punishment.[^10]\n- Conflicts: Majority rules; if equal, more virtuous; if virtuous equal, most virtuous.[^11] Victory to supported claim; later/better/more numerous testimony overrides prior.[^12]\n- Penalties: False witnesses fined double dispute amount (Brāhmaṇa banished); recanting testimony: 8x fine (Brāhmaṇa banished). Exception: false testimony to avert certain death (purified by Sarasvatī rite for twice-born).[^13]\n\n[^1]: Yājñavalkya Smṛti, ch. 2, [para. p-048b9a](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-048b9a).\n[^2]: Yājñavalkya Smṛti, ch. 2, [para. p-e6e133](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-e6e133).\n[^3]: Yājñavalkya Smṛti, ch. 2, [paras. p-5c0bb3 to p-ff1854](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-5c0bb3).\n[^4]: Yājñavalkya Smṛti, ch. 2, [para. p-5c0bb3](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-5c0bb3).\n[^5]: Yājñavalkya Smṛti, ch. 2, [para. p-18320c](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-18320c).\n[^6]: Yājñavalkya Smṛti, ch. 2, [para. p-478abd](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-478abd).\n[^7]: Yājñavalkya Smṛti, ch. 2, [para. p-f5049f](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-f5049f).\n[^8]: Yājñavalkya Smṛti, ch. 2, [para. p-33a082](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-33a082).\n[^9]: Yājñavalkya Smṛti, ch. 2, [paras. p-574029 to p-2034fe](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-574029).\n[^10]: Yājñavalkya Smṛti, ch. 2, [paras. p-16fa67 to p-908432](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-16fa67).\n[^11]: Yājñavalkya Smṛti, ch. 2, [para. p-b221f9](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-b221f9).\n[^12]: Yājñavalkya Smṛti, ch. 2, [paras. p-f02be5 to p-fbf5a7](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-f02be5).\n[^13]: Yājñavalkya Smṛti, ch. 2, [paras. p-dbd716 to p-5cd0fa](/works/unknown-yajnavalkya-smrti-cb88d6/02/translation/#p-dbd716).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya 2.21",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya witnesses",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.3\\nverse · 219¶ · 6156w · vocab 1425 (TTR 46%, hapax 65%)\\n\\n## Distinctive trigrams\\n\\\"situated heart like\\\" · \\\"heart l"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"witness\" OR \"witnesses\" OR \"testify\" OR \"testimony\" yajnavalkya",
+        "limit": 10
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-048b9a"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-e6e133"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-5c0bb3"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-ff1854"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-18320c"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-478abd"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-f5049f"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-33a082"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-574029"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-2034fe"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-16fa67"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-908432"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-b221f9"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-f02be5"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-fbf5a7"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-dbd716"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 2,
+      "paragraph_id": "p-5cd0fa"
+    }
+  ],
+  "duration_ms": 99891,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 36727,
+    "completion_tokens": 4603,
+    "total_tokens": 41330,
+    "cached_tokens": 5492,
+    "api_calls": 5,
+    "cost_usd": 0.0088231,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1903,
+        "completion_tokens": 480,
+        "total_tokens": 2383,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005981
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2165,
+        "completion_tokens": 201,
+        "total_tokens": 2366,
+        "cached_tokens": 150,
+        "cost_usd": 0.000511
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 2887,
+        "completion_tokens": 449,
+        "total_tokens": 3336,
+        "cached_tokens": 2160,
+        "cost_usd": 0.0004779
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5070,
+        "completion_tokens": 667,
+        "total_tokens": 5737,
+        "cached_tokens": 2882,
+        "cost_usd": 0.0009152
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 24702,
+        "completion_tokens": 2806,
+        "total_tokens": 27508,
+        "cached_tokens": 150,
+        "cost_usd": 0.0063209
+      }
+    ]
+  }
+}

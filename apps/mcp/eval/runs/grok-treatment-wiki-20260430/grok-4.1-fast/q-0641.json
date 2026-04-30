@@ -1,0 +1,305 @@
+{
+  "answer": "**Allama Iqbal's works in the Falsafa corpus consist primarily of Urdu poetry collections (*Bang-e-Dara* Parts 1–3), with no prose treatises on philosophy explicitly covering 'aql (reason/intellect) systematically.** These poems personify *'aql* as a cautious, protective, and finite faculty—often a \"shield,\" \"guard,\" or \"well-trod\" guide that safeguards the heart but risks stagnation or failure under life's pressures. It is essential yet subordinate to *ishq* (passion, divine love), which is dynamic, eternal, and transformative: the \"sword,\" \"fire,\" or \"ever-living soul\" that propels action, transcends limits, and reveals deeper truths.[^1][^2][^3]\n\n### *'Aql* as Protective but Limited\n- **Shield/Guard Role**: *'Aql* defends like a sentry beside the heart, but must sometimes be abandoned for higher insight. \"It's good for reason's guard to stay beside the heart's domain; / But sometimes, even that lone sentry and its reign—abandon it.\"[^4]\n- **Cautious Prudence**: Addressed as \"cautious, well-trod reason,\" it obsesses over mending externals while neglecting the self; Iqbal prays for it to learn \"sacred frenzy\" (*deewangi*, akin to passionate abandon).[^5]\n- **Vulnerability**: It fades or is \"besieged by all the troubles of the age,\" helpless in youth's darkness or moral battles.[^6]\n\n### Relation to *Ishq*: Complement and Transcendence\n*'Ishq* invigorates *'aql*, providing the offensive force (*sword*) to *'aql*'s defense (*shield*), enabling conquest (e.g., \"global caliphate\").[^1] Reason is mortal (\"human Reason fades\"); *ishq* is the \"ever-living soul,\" life's \"everlasting flame,\" persisting as sorrow after loss and securing eternity.[^2] *'Aql* orders the universe but cannot navigate sorrow's maze alone; *ishq* is eternity's \"preface.\" Together, they equip the \"humble dervish\": reason plans, passion acts.[^1][^7]\n\nIqbal urges balancing them—reason tempers frenzy, but unchecked *'aql* stifles the soul's flight. The corpus lacks deeper exposition (e.g., no *Asrar-i-Khudi*), so this draws from poetic imagery alone.[^8]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 3*, ch.4 (*Dil se jo baat nikalti hai asar rakhti hai*), [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-819a53).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, ch.7 (*Falsafa-e-Gham*), [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-e693fc).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 2*, ch.2 (*Ilahi aql-e-khajista-pai ko zara si deewangi sikha de*), full chapter [here](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/02-ilahi-aql-e-khajista-pai-ko-zara-si-deewangi-sikha/translation/).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, ch.9 (*Majnoon ne sheher chhora to sehra bhi chhor de*), full chapter [here](/works/allama-iqbal-bang-e-dara-part-1-55b25c/09-majnoon-ne-sheher-chhora-to-sehra-bhi-chhor-de/translation/).\n\n[^5]: *Bang-E-Dara Part 2*, ch.2, [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/02-ilahi-aql-e-khajista-pai-ko-zara-si-deewangi-sikha/translation/#p-cdb61d).\n\n[^6]: *Bang-E-Dara Part 3*, ch.7, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/07-falsafa-e-gham/translation/#p-523a9f).\n\n[^7]: *Bang-E-Dara Part 3*, ch.4, full chapter [here](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/).\n\n[^8]: Corpus search confirms no additional Iqbal works; concepts appear in poetry transliterations/ translations only.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "mohammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal aql"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"aql\" ishq"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "aql"
+      },
+      "result_summary": "Found 21 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ishq"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"reason\" OR \"intellect\" Iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "philosophy"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.4\\nverse · 37¶ · 2284w · vocab 724 (TTR 63%, hapax 73%)\\n\\n## Distinctive trigrams\\n\\\"word heart begins\\\" · \\\"heart begins "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.7\\nverse · 7¶ · 674w · vocab 273 (TTR 71%, hapax 79%)\\n\\n## Distinctive trigrams\\n\\\"philosophy sorrow though\\\" · \\\"sorrow t"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 2
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 02-ilahi-aql-e-khajista-pai-ko-zara-si-deewangi-sikha.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-2-9bc58c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 9
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 09-majnoon-ne-sheher-chhora-to-sehra-bhi-chhor-de.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 2,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.2 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "paragraph_ids": [
+          "p-819a53"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 7,
+        "paragraph_ids": [
+          "p-e693fc"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "reason passion iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"reason\" \"passion\""
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-819a53"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-e693fc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-cdb61d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 7,
+      "paragraph_id": "p-523a9f"
+    }
+  ],
+  "duration_ms": 49582,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 57738,
+    "completion_tokens": 5686,
+    "total_tokens": 63424,
+    "cached_tokens": 36459,
+    "api_calls": 5,
+    "cost_usd": 0.008921749999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1909,
+        "completion_tokens": 680,
+        "total_tokens": 2589,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006993
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2505,
+        "completion_tokens": 734,
+        "total_tokens": 3239,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0005854
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_works"
+        ],
+        "prompt_tokens": 12746,
+        "completion_tokens": 1312,
+        "total_tokens": 14058,
+        "cached_tokens": 2500,
+        "cost_usd": 0.0028302
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 19189,
+        "completion_tokens": 1033,
+        "total_tokens": 20222,
+        "cached_tokens": 12741,
+        "cost_usd": 0.00244315
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "get_passage",
+          "get_passage",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21389,
+        "completion_tokens": 1927,
+        "total_tokens": 23316,
+        "cached_tokens": 19184,
+        "cost_usd": 0.0023637
+      }
+    ]
+  }
+}

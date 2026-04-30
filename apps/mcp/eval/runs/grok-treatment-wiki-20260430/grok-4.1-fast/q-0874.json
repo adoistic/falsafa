@@ -1,0 +1,218 @@
+{
+  "answer": "In *Nouveau traité d'économie* (Vol. I, ch. 11), Dunoyer explicitly traces the etymology and semantic evolution of *industrie*, arguing that it originally encompassed *any* skillful, goal-directed action on things (*\"an action exercised in things or on things to arrive at a certain end\"*), before being narrowed (especially in French) to mechanical arts or manufacturing.[^1] He insists it *should* be extended to *all useful labors*—productive, value-creating activity (*\"creating utilities of some kind\"*) free of spoliation—encompassing agriculture, commerce, sciences, arts, moral cultivation (*\"adding to the value of things or of men\"*), politics, and more.[^2] This breadth is essential to his chapter's thesis: such a society of universal *industrie* (not mere factories) maximizes liberty by developing faculties, perfecting personal habits, and enabling peaceful relations.[^3]\n\nIf \"industry\" were the *only* English equivalent—evoking factories, manufacturing, or commercial production—Dunoyer's core argument would lose its sweep. His claim that liberty arises from paired advances in *industrie* (broad productive skill/effort across *all* human spheres) *and* morality would shrink to a narrower thesis about economic growth (*industry*) plus ethics, obscuring how *industrie* itself includes \"industries\" of intellect (*sciences*), imagination (*arts*), physical perfection (*medicine*), moral habits (*education/religion*), and even politics (*repressive order as a service*.[^4] This holistic civilizational progress—non-violent value-creation in *every* domain—underpins his rejection of domination; a factory-bound \"industry\" would imply liberty stems mainly from material wealth, not the full rectification and extension of human action.[^5]\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, ch. 11 (\"I. Liberty compatible with the way of life of purely industrious peoples\"), [translation](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/translation/#p-06038f).\n\n[^2]: *Ibid.*, [¶¶ following \"wealth\" (p-828c70) through \"social state\" (p-f7bdb7)](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/translation/#p-4329f5).\n\n[^3]: *Ibid.*, [§8 close (p-4abf4b)](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/11-i-liberte-compatible-avec-la-maniere-de-vivre-des-/translation/#p-4abf4b).\n\n[^4]: *Ibid.*, intro outline [¶¶ from \"After which\" (p-d37334) ff.](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-d37334); cf. Vol. I ch. 0 [§2: \"from tillage to politics\" requires \"practical skill... industry\"](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/00-introduction/translation/#p-d5b62b).\n\n[^5]: *Ibid.*, Vol. I ch. 1 [§4: liberty grows with \"industry, knowledge... good habits\" in *all* directions](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/01-ce-que-lauteur-entend-par-le-mot-liberte/translation/#p-583c6c).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Dunoyer industrie",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"industrie\" Dunoyer",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.1\\nprose · 40¶ · 6237w · vocab 1130 (TTR 41%, hapax 60%)\\n\\n## Distinctive trigrams\\n\\\"use his forces\\\" · \\\"o"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "industry",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 11
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL I · ch.11\\nprose · 66¶ · 11246w · vocab 2089 (TTR 39%, hapax 60%)\\n\\n## Distinctive trigrams\\n\\\"one said industry\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL II · ch.13\\nprose · 45¶ · 9942w · vocab 1631 (TTR 35%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"*traité économie pol"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 0
+      },
+      "result_summary": "Read ch.0 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-06038f"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-828c70"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-f7bdb7"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-4329f5"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-4abf4b"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-d37334"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-d5b62b"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+      "chapter_number": 11,
+      "paragraph_id": "p-583c6c"
+    }
+  ],
+  "duration_ms": 42583,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 70664,
+    "completion_tokens": 4664,
+    "total_tokens": 75328,
+    "cached_tokens": 23053,
+    "api_calls": 5,
+    "cost_usd": 0.01300685,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1938,
+        "completion_tokens": 395,
+        "total_tokens": 2333,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005626
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2266,
+        "completion_tokens": 626,
+        "total_tokens": 2892,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007437
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4614,
+        "completion_tokens": 656,
+        "total_tokens": 5270,
+        "cached_tokens": 2261,
+        "cost_usd": 0.00091165
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 15888,
+        "completion_tokens": 787,
+        "total_tokens": 16675,
+        "cached_tokens": 4609,
+        "cost_usd": 0.00287975
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 45958,
+        "completion_tokens": 2200,
+        "total_tokens": 48158,
+        "cached_tokens": 15883,
+        "cost_usd": 0.00790915
+      }
+    ]
+  }
+}

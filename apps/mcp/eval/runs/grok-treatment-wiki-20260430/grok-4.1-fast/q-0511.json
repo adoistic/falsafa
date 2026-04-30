@@ -1,0 +1,237 @@
+{
+  "answer": "Several works in the Falsafa corpus address poverty (*pauvreté*, *misère*, *indigence*, *the poor*) explicitly as a social phenomenon—often linking it to economic structures, laws, population dynamics, or civilizational decline—or as a moral condition tied to virtue, pride, or religious duty. The most substantive engagements appear in 19th-century French political economy and Enlightenment treatises, where poverty is analyzed as a consequence of industrial regimes, poor laws, slavery, or moral decay. Indic *Smṛti* texts treat it more prescriptively in legal/ritual contexts (e.g., exemptions or charity). Urdu poetry by Iqbal and Ghalib reflects on it morally or existentially, often with pride or lament. Old English elegies mention it poetically as personal affliction.\n\n### Primary Works with Social Analysis\n**Nouveau traité d'économie: VOL I** (Charles Dunoyer): Chapter 12 examines poverty's growth amid industrial progress and wealth accumulation, attributing it to population pressures and flawed aid systems like England's Poor Laws, which multiply indigents rather than alleviate misery.[^1][^2]\n\n**Traité de Législation** (Charles Comte, multiple volumes): Poverty recurs as a social ill tied to bad laws, slavery, tyranny, and societal decadence.\n- VOL I, Ch. 21: Laws relieving indigents encourage vices leading to poverty.[^3]\n- VOL III, Ch. 34: Egypt's fall from wealth to poverty exemplifies barbarism's social effects.[^4]\n- VOL IV, multiple chapters: Slavery fosters inequality, idleness, and indigence among free laborers.[^5]\n\n### Legal/Charitable Contexts in Indic Texts\n**Bṛhaspati Smṛti** (Ch. 1): Partnership profits should aid \"the poor, the old, the afflicted,\" framing poverty as a moral duty for redistribution.[^6]\n\n**Āṅgirasa Smṛti** (Ch. 1): Ritual exemptions for those unable to afford *śrāddhas* due to poverty, treating it as a social exemption warrant.[^7]\n\n### Moral/Poetic Reflections\n**Bang-E-Dara** (Allama Iqbal, Parts 1–3): Poverty as a Muslim affliction or spiritual virtue—e.g., ancestors' pride in poverty vs. modern disgrace.[^8]\n\n**Diwan-E-Ghalib** (Mirza Ghalib): Existential takes on poverty's \"wealth\" or as poetic ecstasy amid indigence.[^9]\n\n**Old English Elegies**: Personal/social exile and poverty in *Resignation*.[^10]\n\nIncidental mentions (e.g., *Andreas*, *Diwan-E-Zauq*) exist but lack deep engagement. No comprehensive treatment in Cynewulf's saints' lives, other *Smṛti* texts, or Kawi works.\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/12-ii-obstacles-qui-sopposent-encore-a-la-liberte-dan/translation/#p-a46c37).\n\n[^2]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/12-ii-obstacles-qui-sopposent-encore-a-la-liberte-dan/translation/#p-5727e1).\n\n[^3]: Charles Comte, *Traité de Législation: VOL I*, [paragraph](/works/charles-comte-traite-de-legislation-vol-i-7e62a2/21-de-l-action-des-lois-de-la-morale-et-des-obstacles/translation/#p-d8902c).\n\n[^4]: Charles Comte, *Traité de Législation: VOL III*, [paragraph](/works/charles-comte-traite-de-legislation-vol-iii-ca589a/34-parallele-entre-la-portion-de-richesses-qui-est-la/translation/#p-e1c4f8).\n\n[^5]: Charles Comte, *Traité de Législation: VOL IV*, [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/12-de-l-influence-de-l-esclavage-sur-la-liberte-des-i/translation/#p-c15dcc).\n\n[^6]: Bṛhaspati, *Bṛhaspati Smṛti*, [paragraph](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-28f709).\n\n[^7]: Aṅgirasa, *Āṅgirasa Smṛti*, [paragraph](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-b2333f).\n\n[^8]: Allama Iqbal, *Bang-E-Dara Part 3*, [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/20-shikwa/translation/#p-d1e7fe).\n\n[^9]: Mirza Ghalib, *Diwan-E-Ghalib*, [paragraph](/works/mirza-ghalib-diwan-e-ghalib-74ed4c/46-garm-faryaad-rakha-shakl-e-nihaali-ne-mujhe/translation/#p-ea7cdb).\n\n[^10]: Unknown, *Old English Elegies*, [paragraph](/works/unknown-old-english-elegies-d5fe9e/09-resignation/translation/#p-04f5b1).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poverty",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "the poor",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pauper",
+        "limit": 10
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "indigence",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-a46c37"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-5727e1"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a",
+        "chapter_number": 34,
+        "paragraph_ids": [
+          "p-e1c4f8"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-28f709"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-b2333f"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 20,
+        "paragraph_ids": [
+          "p-d1e7fe"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL I\\nCharles Dunoyer · 19th Century · french · prose · 13 chapters · 114,287 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iii-ca589a"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de Législation: VOL III\\nCharles Comte · Enlightenment · french · prose · 23 chapters · 97,522 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"peopl"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-a46c37"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-5727e1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-d8902c"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-e1c4f8"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-c15dcc"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-28f709"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-b2333f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-d1e7fe"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-ea7cdb"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 20,
+      "paragraph_id": "p-04f5b1"
+    }
+  ],
+  "duration_ms": 66216,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 35742,
+    "completion_tokens": 4649,
+    "total_tokens": 40391,
+    "cached_tokens": 17084,
+    "api_calls": 3,
+    "cost_usd": 0.006910299999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 425,
+        "total_tokens": 2329,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0003104
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 15053,
+        "completion_tokens": 2347,
+        "total_tokens": 17400,
+        "cached_tokens": 150,
+        "cost_usd": 0.0041616
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 18785,
+        "completion_tokens": 1877,
+        "total_tokens": 20662,
+        "cached_tokens": 15048,
+        "cost_usd": 0.0024383
+      }
+    ]
+  }
+}

@@ -1,0 +1,148 @@
+{
+  "answer": "**Manusmṛti 2.6** states that the root-sources (*mūla*) of *dharma* (sacred law and eternal duty) are the entire Veda, the *Smṛti* (remembered tradition), the conduct of those who know the Veda, the practices of the virtuous, and self-satisfaction (or conscience).[^1]\n\n[^1]: Manu, *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/02/translation/#p-d70b97).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu 2.6"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"source of dharma\" Manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-d70b97"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-d70b97"
+    }
+  ],
+  "duration_ms": 27674,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 41547,
+    "completion_tokens": 2095,
+    "total_tokens": 43642,
+    "cached_tokens": 20949,
+    "api_calls": 5,
+    "cost_usd": 0.00621455,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 460,
+        "total_tokens": 2361,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005877
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2120,
+        "completion_tokens": 314,
+        "total_tokens": 2434,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005585
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 3681,
+        "completion_tokens": 471,
+        "total_tokens": 4152,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009492
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 16828,
+        "completion_tokens": 288,
+        "total_tokens": 17116,
+        "cached_tokens": 3676,
+        "cost_usd": 0.0029582
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 17017,
+        "completion_tokens": 562,
+        "total_tokens": 17579,
+        "cached_tokens": 16823,
+        "cost_usd": 0.00116095
+      }
+    ]
+  }
+}

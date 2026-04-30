@@ -1,0 +1,233 @@
+{
+  "answer": "**Niyoga** (also called *levirate* or *levirate marriage* in some contexts) refers to the ancient Hindu practice, attested in certain Smṛti texts, whereby a childless widow (or sometimes a wife of an impotent/deceased husband) is formally *appointed* (*ni-yujyate*) to conceive a son with a specified kinsman—typically a brother-in-law (*devar*) or a *sapiṇḍa* relative—to perpetuate the husband's lineage, perform ancestral rites (*śrāddha*), and prevent the family line from extinction. The son (*kṣetraja* or \"field-son\") is considered legally the offspring of the deceased/impotent husband (as the \"field\" is the wife's womb), inheriting his rights and obligations.[^1][^2]\n\nThis practice is rooted in the Vedic emphasis on *pitṛṛṇa* (debt to ancestors) and the need for a son to rescue the father from the hell *put* (hence *putra*, \"deliverer\"). However, it is highly regulated (e.g., only once, silently at night, no lust) and increasingly restricted or prohibited in later Smṛtis due to concerns over chastity, *varṇa*-mixing, and Kali Yuga decline.[^3]\n\n### Manu's Position (Manusmṛti 9.59–68)\nManu permits *niyoga* **conditionally** as a desperate measure when \"the family line is in danger of extinction\":\n\n> When the family line is in danger of extinction, desired offspring may be obtained by a woman, through *niyoga* (the appointment of a wife to bear a son by another), from a brother-in-law or from a *sapiṇḍa*.[^4]\n\nRules include: anointing with ghee, one son only (no second unless purpose unfulfilled), post-conception treat as *guru*-*puṣṭrā* (father-in-law/daughter-in-law), no remarriage of widows.[^5] However, Manu **strongly condemns** it as outdated and \"bestial\":\n\n> A widow must not be appointed to another man by the twice-born; for by appointing her to another, they would destroy the eternal Dharma. In the sacred formulas for marriage, *niyoga* is nowhere mentioned; nor is the remarriage of a widow spoken of in the rule of marriage. This bestial law is condemned by the learned twice-born; it is said to have been introduced for men also while Vena was ruling the kingdom.[^6]\n\nIntroduced by the evil king Vena, it risks *varṇa*-mixing; forbidden in Kali Yuga.[^7] Br̥haspati echoes this ambivalence: \"Though stated by Manu, *niyoga* was forbidden by him himself. Due to the decline of the age, it is impossible for all to perform it according to the rule.\"[^8]\n\n### Yājñavalkya's Position (Yājñavalkya Smṛti 2.127–132)\nYājñavalkya **recognizes the legitimacy of sons born via *niyoga*** (*kṣetraja*) as heirs without explicitly permitting or prohibiting the practice itself:\n\n> A son begotten by appointment in the field of another who is sonless is the heir of both and the giver of funeral offerings to both, according to *dharma*. The *aurasa* is born of a lawful wife; equal to him is the *putrikāsuta*, the son of an appointed daughter. The *kṣetraja* is one begotten on the wife's field by a kinsman of the same gotra or by another.[^9]\n\nHe lists *kṣetraja* among 12 types of sons entitled to inheritance (in absence of higher ones), implying acceptance of the resulting progeny for lineage purposes. Unlike Manu, no condemnation or detailed rules/conditions; focus is inheritance law. Widows acting \"of her own accord\" are mentioned in assault contexts, but no remarriage/*niyoga* endorsement.[^10]\n\n**Comparison**: Manu treats *niyoga* as archaic/distress-only, then prohibits it to uphold chastity/Dharma; Yājñavalkya pragmatically validates *kṣetraja* sons in inheritance without endorsing the act, reflecting a shift toward recognizing outcomes over practice (common in post-Manu Smṛtis). Neither fully endorses in Kali Yuga; later texts (e.g., Br̥haspati) align with Manu's prohibition.\n\nThe Falsafa corpus covers Manu's explicit discussion but not Yājñavalkya's direct stance on permitting/forbidding (only heirs); other Smṛtis like Paraśara/Nārada may elaborate, but not here.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "niyoga",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "levirate",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"manu\" niyoga"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"yajnavalkya\" niyoga"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yajnavalkya",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yājñavalkya",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"niyoga\" OR \"levirate\" OR \"brother-in-law\" widow",
+        "limit": 20
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-brhaspati-smrti-0fd070 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.2\\nverse · 334¶ · 10172w · vocab 1794 (TTR 36%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"highest amercement yj_2\\\" · \\\"ma"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "niyoga OR levirate OR \"brother-in-law\" OR widow OR \"appointed wife\" OR \"son by another\"",
+        "limit": 20
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "unknown-yajnavalkya-smrti-cb88d6",
+        "topic": "niyoga"
+      },
+      "result_summary": "{\"topic\":\"niyoga\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-manusmrti-347b76\",\"title\":\"Manusmṛti\",\"aut"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 55738,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 191739,
+    "completion_tokens": 4854,
+    "total_tokens": 196593,
+    "cached_tokens": 89408,
+    "api_calls": 4,
+    "cost_usd": 0.027363600000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1916,
+        "completion_tokens": 542,
+        "total_tokens": 2458,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003719
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2744,
+        "completion_tokens": 987,
+        "total_tokens": 3731,
+        "cached_tokens": 1911,
+        "cost_usd": 0.00075565
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 82881,
+        "completion_tokens": 1058,
+        "total_tokens": 83939,
+        "cached_tokens": 2739,
+        "cost_usd": 0.01669435
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "compare_works",
+          "read_chapter"
+        ],
+        "prompt_tokens": 104198,
+        "completion_tokens": 2267,
+        "total_tokens": 106465,
+        "cached_tokens": 82876,
+        "cost_usd": 0.0095417
+      }
+    ]
+  }
+}

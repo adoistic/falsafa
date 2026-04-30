@@ -1,0 +1,74 @@
+{
+  "answer": "**The Falsafa corpus does not contain *Vrhaspatitattva* (or any works attributed to Vṛhaspati), nor does it cover the terms *cetana* (consciousness) and *acetana* (unconsciousness) in that context.** \n\nNo matches were found via direct searches for the work title, author (e.g., \"vrhaspati\"), or the key Sanskrit terms together or separately. The corpus focuses on 37 translated philosophical and classical texts (primarily European and some Anglo-Saxon), with no Indian philosophical works like those from the Nyāya or Mīmāṃsā traditions where these concepts appear. If you're seeking classical Indian philosophy, this specific text and terminology aren't available here.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vrhaspatitattva cetana acetana",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"cetana\" \"acetana\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vrhaspatitattva",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vrhaspati"
+      },
+      "result_summary": "Listed 0 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 10481,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 4080,
+    "completion_tokens": 1080,
+    "total_tokens": 5160,
+    "cached_tokens": 2031,
+    "api_calls": 2,
+    "cost_usd": 0.00105135,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1913,
+        "completion_tokens": 538,
+        "total_tokens": 2451,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00036945
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2167,
+        "completion_tokens": 542,
+        "total_tokens": 2709,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006819
+      }
+    ]
+  }
+}

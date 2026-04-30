@@ -1,0 +1,229 @@
+{
+  "answer": "**Allama Iqbal's *Bang-e-Dara* contains two poems that directly address natural objects via apostrophe (\"O [object]\"), personifying them in a philosophical or lyrical mode:**\n\n- **Himalaya** (*Bang-E-Dara Part 1*, ch. 25): Addressed to the Himalaya mountain, praising its majesty, eternity, and spiritual significance as a \"rampart of the realm of Hindustan\" and sentinel of the soul.[^1]\n\n- **Chaand** (*Bang-E-Dara Part 3*, ch. 3): Addressed to the moon (\"O Moon\"), questioning its beauty, restlessness, and shared quest for divine light with humanity.[^2]\n\n**Other mentions or personifications:**\n- *Mauj-e-Darya* (\"The Wave\", *Bang-E-Dara Part 1*, ch. 31) is a dramatic monologue **spoken by** a wave (personified as restless and yearning for the ocean), not directly addressed *to* it by the poet.[^3]\n- *Ek Pahar aur Gilehri* (\"A Mountain and a Squirrel\", *Bang-E-Dara Part 1*, ch. 21) features a **dialogue** where the mountain boasts to the squirrel; the poet narrates but does not address the mountain.[^4]\n- *Chaand aur Taare* (\"The Moon and the Stars\", *Bang-E-Dara Part 2*, ch. 9) depicts a **conversation** between stars and moon; again, the poet observes/narrates, without direct address.[^5]\n\n**No poems addressed to a river or sun** appear in the corpus. Searches for phrases like \"O sun\", \"O river\", or equivalents (e.g., \"shams\"/sun in Urdu contexts) yielded metaphors or incidental references, but no dedicated apostrophes.[^6]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 25 \"Himalaya\", [p-227c36](/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/#p-227c36).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 3*, ch. 3 \"Chaand\", [p-ed353d](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/03-chaand/translation/#p-ed353d).\n\n[^3]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 31 \"Mauj_e_Darya\", [p-328ed1](/works/allama-iqbal-bang-e-dara-part-1-55b25c/31-mauj-e-darya/translation/#p-328ed1).\n\n[^4]: Allama Iqbal, *Bang-E-Dara Part 1*, ch. 21 \"Ek Pahar aur Gilehri\", [p-863b09](/works/allama-iqbal-bang-e-dara-part-1-55b25c/21-ek-pahar-aur-gilehri/translation/#p-863b09).\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 9 \"Chaand aur Taare\", [p-05f7ec](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/09-chaand-aur-taare/translation/#p-05f7ec).\n\n[^6]: Corpus-wide searches (e.g., \"O sun\" OR \"O river\" iqbal; \"shams\" iqbal poem) returned no matches for direct addresses to sun or river.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O mountain\" OR \"O river\" OR \"O wave\" OR \"O moon\" OR \"O sun\" iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "addressed to mountain OR river OR wave OR moon OR sun iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 1 · ch.25\\nverse · 25¶ · 444w · vocab 213 (TTR 86%, hapax 86%)\\n\\n## Distinctive trigrams\\n\\\"himalaya himalaya rampart\\\" · \\\"himal"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 31
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 1 · ch.31\\nverse · 7¶ · 117w · vocab 61 (TTR 90%, hapax 89%)\\n\\n## Distinctive trigrams\\n\\\"wave unquiet heart\\\" · \\\"unquiet hea"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 21
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 21-ek-pahar-aur-gilehri.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-1-55b25c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 2 · ch.9\\nverse · 12¶ · 183w · vocab 83 (TTR 86%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"moon stars fearing\\\" · \\\"stars feari"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: medium\\n---\\n\\n# Bang-E-Dara Part 3 · ch.3\\nverse · 8¶ · 136w · vocab 61 (TTR 91%, hapax 90%)\\n\\n## Distinctive trigrams\\n\\\"moon beauty nature\\\" · \\\"beauty natur"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"O sun\" OR \"O Himalaya\" OR \"to the mountain\" OR \"to the river\" OR \"to the wave\" OR \"to the moon\" iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sun OR shams OR suraj iqbal poem OR address",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 31
+      },
+      "result_summary": "Read ch.31 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 21
+      },
+      "result_summary": "Read ch.21 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 9
+      },
+      "result_summary": "Read ch.9 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 9,
+      "paragraph_id": "p-227c36"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 9,
+      "paragraph_id": "p-ed353d"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 9,
+      "paragraph_id": "p-328ed1"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 9,
+      "paragraph_id": "p-863b09"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+      "chapter_number": 9,
+      "paragraph_id": "p-05f7ec"
+    }
+  ],
+  "duration_ms": 34360,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 37779,
+    "completion_tokens": 4188,
+    "total_tokens": 41967,
+    "cached_tokens": 9816,
+    "api_calls": 4,
+    "cost_usd": 0.0081774,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 525,
+        "total_tokens": 2430,
+        "cached_tokens": 150,
+        "cost_usd": 0.000621
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 7639,
+        "completion_tokens": 1019,
+        "total_tokens": 8658,
+        "cached_tokens": 1882,
+        "cost_usd": 0.001755
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 12264,
+        "completion_tokens": 767,
+        "total_tokens": 13031,
+        "cached_tokens": 7634,
+        "cost_usd": 0.0016912
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 15971,
+        "completion_tokens": 1877,
+        "total_tokens": 17848,
+        "cached_tokens": 150,
+        "cost_usd": 0.0041102
+      }
+    ]
+  }
+}

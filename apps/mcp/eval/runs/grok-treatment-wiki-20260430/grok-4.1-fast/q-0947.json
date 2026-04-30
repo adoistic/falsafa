@@ -1,0 +1,135 @@
+{
+  "answer": "**The Falsafa corpus contains *Viṣṇu Smṛti* (100 verse chapters) and *Nārada Smṛti* (1 prose chapter), but neither work discusses the normative weight (e.g., authority or interpretive priority) of Sanskrit prose versus *śloka* (verse), nor patterns where prose advances new material versus summarizing verses.**[^1][^2]\n\nNo passages in these texts, or others in the corpus, address this distinction directly. *Viṣṇu Smṛti* lacks prose passages (all chapters are verse layout). *Nārada Smṛti* is fully prose. Searches for related terms (e.g., \"prose,\" *śloka*, \"metrical\") yield no relevant hits in these works.\n\nThis topic appears in secondary Indological scholarship (e.g., on Smṛti genre conventions, where *śloka* often carries primary authority and prose may gloss), but is not covered here.\n\n[^1]: *Viṣṇu Smṛti* work card (from `read_wiki`), noting \"verse\"; chapter layouts from `list_chapters`.\n[^2]: *Nārada Smṛti* work card (from `read_wiki`), noting \"prose\"; chapter layout from `list_chapters`.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vishnu Smriti prose",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Narada Smriti prose",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Visnu Smriti\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Narada Smriti\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "prose sloka OR verse OR śloka OR \"prose passage\" OR \"metrical\" smriti",
+        "limit": 20
+      },
+      "result_summary": "Found 7 hits"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 25285,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 16154,
+    "completion_tokens": 2844,
+    "total_tokens": 18998,
+    "cached_tokens": 4971,
+    "api_calls": 3,
+    "cost_usd": 0.00390715,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1926,
+        "completion_tokens": 922,
+        "total_tokens": 2848,
+        "cached_tokens": 150,
+        "cost_usd": 0.0008237
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2943,
+        "completion_tokens": 713,
+        "total_tokens": 3656,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00066265
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 11285,
+        "completion_tokens": 1209,
+        "total_tokens": 12494,
+        "cached_tokens": 2938,
+        "cost_usd": 0.0024208
+      }
+    ]
+  }
+}

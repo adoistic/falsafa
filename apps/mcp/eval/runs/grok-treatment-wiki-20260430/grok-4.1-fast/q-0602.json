@@ -1,0 +1,250 @@
+{
+  "answer": "**In Charles Comte's *Traité de la propriété: VOL I* (1834), 'occupation des choses'—the title of Chapter 4 ('De l'occupation des choses,' translated as 'On the occupation of things')—refers to the foundational act of acquiring property by taking possession of a thing that has no prior owner or master (*res nullius*), with the explicit intention of appropriating it for exclusive use and disposition.[^1][^2]**\n\nComte presents this as **one of the principal and original means of acquiring property**, recognized across history, jurisprudence (e.g., Roman law, Grotius, Pufendorf), and nations, even predating formal governments.[^3] It applies to any thing (animate or inanimate, movable or immovable) capable of satisfying human needs or enjoyments, such as land, wild animals, pearls on the seashore, or newly formed islands—but **not** to seas as shared means of navigation and commerce, which cannot be exclusively occupied without harming others.[^4][^5]\n\n### Core rationale and natural law basis\nComte argues it arises not from convention or positive law, but from **human nature, needs, and sentiments**:\n- The first seizer likely values it most (as they act first and invest labor, however minimal).[^6]\n- It harms no one (no prior owner, no deprivation of others' existence means) and maximizes utility by directing things to productive use.[^7]\n- Without it, progress is impossible: nations and individuals couldn't secure elements for industry, cultivation, or properties, dooming humanity to stagnation or communal misery.[^8]\n\nHe rejects fictions like a universal pre-occupation right or global convention, calling them \"chimerical\" and impractical (e.g., needing Siberian consent to pick Peruvian fruit). Instead, occupation enforces necessary exclusivity for a fixed population's needs.[^9]\n\n### Distinctions\n- **Vs. possession**: Occupation is instantaneous for *unowned* things; possession requires duration and applies even to *owned* things (covered later in transmission of property).[^10]\n- **Vs. lost items**: These must be returned to known owners.[^11]\n- **National vs. private**: Nations claim territory by occupation and cultivation (international law); individuals do so within national bounds (domestic law).[^12]\n\nComte ties this to liberty (Ch. 2–3): property flows from free action on unowned things, enabling development.[^13]\n\n[^1]: Charles Comte, *Traité de la propriété: VOL I*, ch.4: 'De l'occupation des choses' ([/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/](https://falsafa.corpus/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/04-de-loccupation-des-choses/translation/)), [p-0fc9ed] and [p-ab8596].\n\n[^2]: Ibid., key passage [p-8094b8]: \"But when a thing has never had a master... nations have therefore obeyed a law of their nature.\"\n\n[^3]: Ibid., [p-ab8596], [p-041c9e], [p-74297a]–[p-8201ac] (Roman *Digest*, Civil Code Art. 539, English common law).\n\n[^4]: Ibid., [p-41a64c], [p-31af7a]–[p-934229] (Grotius' *Mare Liberum*).\n\n[^5]: Ibid., [p-917e2d]: \"Occupation... would have been fatal to the human species, if it had been an obstacle to the communications of peoples.\"\n\n[^6]: Ibid., [p-8094b8].\n\n[^7]: Ibid., [p-53c102], [p-245a4b].\n\n[^8]: Ibid., [p-e47482], [p-77a5e6]–[p-7e2792], [p-5f2b15].\n\n[^9]: Ibid., [p-98d9b7]–[p-f02fe4].\n\n[^10]: Ibid., [p-15da94].\n\n[^11]: Ibid., [p-42f60a].\n\n[^12]: Ibid., [p-5c9812]–[p-8f600b].\n\n[^13]: Ibid., work-level description; cf. ch.2–3 (liberty as precondition for rights/property). Chapter 5 extends to appropriation of produced things (tools, land).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "charles-comte"
+      },
+      "result_summary": "Listed 6 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"occupation des choses\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "occupation things",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "{\"markdown\":\"# Traité de la propriété: VOL I\\nCharles Comte · Enlightenment · french · prose · 27 chapters · 107,596 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"--- "
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99"
+      },
+      "result_summary": "Listed 27 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"occupation\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.4\\nprose · 33¶ · 4189w · vocab 870 (TTR 46%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"possession thing master"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL I · ch.5\\nprose · 27¶ · 2975w · vocab 578 (TTR 43%, hapax 58%)\\n\\n## Distinctive trigrams\\n\\\"fit satisfy needs\\\" · \\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+        "chapter_number": 4
+      },
+      "result_summary": "Read ch.4 of charles-comte-traite-de-la-propriete-vol-i-2c7a99 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-0fc9ed"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-ab8596"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-8094b8"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-041c9e"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-74297a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-8201ac"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-41a64c"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-31af7a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-934229"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-917e2d"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-53c102"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-245a4b"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-e47482"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-77a5e6"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-7e2792"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-5f2b15"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-98d9b7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-f02fe4"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-15da94"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-42f60a"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-5c9812"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-la-propriete-vol-i-2c7a99",
+      "chapter_number": 4,
+      "paragraph_id": "p-8f600b"
+    }
+  ],
+  "duration_ms": 25893,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 23152,
+    "completion_tokens": 2959,
+    "total_tokens": 26111,
+    "cached_tokens": 9610,
+    "api_calls": 4,
+    "cost_usd": 0.0046684,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1905,
+        "completion_tokens": 440,
+        "total_tokens": 2345,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0003184
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2753,
+        "completion_tokens": 472,
+        "total_tokens": 3225,
+        "cached_tokens": 1884,
+        "cost_usd": 0.000504
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "list_chapters",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5697,
+        "completion_tokens": 420,
+        "total_tokens": 6117,
+        "cached_tokens": 150,
+        "cost_usd": 0.0013269
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 12797,
+        "completion_tokens": 1627,
+        "total_tokens": 14424,
+        "cached_tokens": 5692,
+        "cost_usd": 0.0025191
+      }
+    ]
+  }
+}

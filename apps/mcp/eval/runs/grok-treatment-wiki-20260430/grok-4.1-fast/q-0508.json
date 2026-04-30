@@ -1,0 +1,299 @@
+{
+  "answer": "**The Falsafa corpus contains several works—primarily ancient Indic Dharmashastras (legal and ethical treatises)—that substantively engage with figures and concepts of birth and lineage.** These include ritual birth rites (*jātakarma*, *sūtaka* impurity from birth), spiritual \"second birth\" via initiation, progeny and sons as saviors of ancestors, adoption rules, *gotra* (patrilineal clans/lineages) for marriage and rites, inheritance by descent, and purity/debt tied to biological and adoptive lineage. Such discussions are central to dharma (duty/law), often spanning entire sections on inheritance (*dāya*), adoption (*datta*), and ancestral rites (*śrāddha*).\n\nEngagement is systematic and doctrinal in these texts, not merely incidental or metaphorical (as in some poetry). No single work exhausts the topic, but collectively they form a rich nexus. Works with only passing poetic/metaphorical references (e.g., Iqbal's *Bang-E-Dara*, Ghalib's *Diwan-E-Ghalib*) or rebirth in a karmic sense (e.g., *Kunjarakarna Dharmakathana*, *Gaṇapatitattva*) are noted separately but deemed less direct. Old English poems like Cynewulf's *Elene* treat lineage narratively (e.g., Israel's line, noble birthrights). Other hits (e.g., *Slokantara*, *Vratisasana*) are tangential.\n\n### Primary Works Engaging Birth and Lineage\n- **Āṅgirasa Smṛti**: Extensive on birth rites, *sūtaka* from birth/death, *gotra* in adoption/marriage, birth-fathers vs. adoptive, seeing a son's face at birth to free debts.[^1][^2][^3]\n- **Manusmṛti**: Foundational on physical/spiritual births (womb, initiation as \"second birth,\" *upanayana*), progeny from unblamed marriages, lineage in inheritance/adoption, *sūtaka* impurity.[^4][^5][^6]\n- **Bṛhaspati Smṛti**: Sons by birth/learning, shares up to seventh descent if birth known, eldest by birth, woman post-birth as field.[^7][^8]\n- **Kātyāyana Smṛti**: Debts paid to third descent, *gotra* avoidance, birth of son frees debts, *sūtaka* cases.[^9][^10]\n- **Nārada Smṛti**: Son/daughter perpetuate father's lineage equally, *strīdhana* to offspring.[^11]\n- **Pārāśara Smṛti**: *Sūtaka* extends to fourth in *gotra*/lineage.[^12]\n- **Viṣṇu Smṛti**: *Gotra* in marriage/rites, *piṇḍa* with name/lineage, birth/death impurity.[^13][^14]\n- **Yājñavalkya Smṛti**: Sons continue lineage per *varṇa*, *gotra* avoidance.[^15]\n\n### Secondary/Metaphorical or Narrative Engagements\n- **Elene** (Cynewulf): Lineage of Israel, noble birth/prophet's son.[^16]\n- **Juliana** (Cynewulf): Noblest of birth.[^17]\n- **Andreas** (Cynewulf): Declaring one's lineage.[^18]\n- **Slokantara**: Conduct reveals lineage, forsaking lineage.[^19]\n- Others (*San Hyan Kamahayanikan*, *Vratisasana*, *Viramitrodaya*): Guru-lineage, pure lineage, progeny destruction.[^20]\n\nNo coverage in the 37-work corpus for modern Western philosophy (e.g., Comte, Dunoyer, Fichte) beyond rare descent metaphors. For exhaustive chapter-level detail, consult *read_wiki_full* per work.\n\n[^1]: Āṅgirasa Smṛti, Chapter 1 ([p-10d641](https://falsafa.corpus/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-10d641)).\n[^2]: Āṅgirasa Smṛti, Chapter 1 ([p-daada9](https://falsafa.corpus/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-daada9)).\n[^3]: Āṅgirasa Smṛti, Chapter 1 ([p-d7ede5](https://falsafa.corpus/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-d7ede5)).\n[^4]: Manusmṛti, Chapter 2 ([p-01036c](https://falsafa.corpus/works/unknown-manusmrti-347b76/02/translation/#p-01036c)).\n[^5]: Manusmṛti, Chapter 2 ([p-47377f](https://falsafa.corpus/works/unknown-manusmrti-347b76/02/translation/#p-47377f)).\n[^6]: Manusmṛti, Chapter 9 ([p-1a4c5d](https://falsafa.corpus/works/unknown-manusmrti-347b76/09/translation/#p-1a4c5d)).\n[^7]: Bṛhaspati Smṛti, Chapter 1 ([p-677774](https://falsafa.corpus/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-677774)).\n[^8]: Bṛhaspati Smṛti, Chapter 1 ([p-1e4660](https://falsafa.corpus/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-1e4660)).\n[^9]: Kātyāyana Smṛti, Chapter 73 ([p-ab74cb](https://falsafa.corpus/works/unknown-katyayana-smrti-1e06d2/73/translation/#p-ab74cb)).\n[^10]: Kātyāyana Smṛti, Chapter 52 ([p-15ff43](https://falsafa.corpus/works/unknown-katyayana-smrti-1e06d2/52/translation/#p-15ff43)).\n[^11]: Nārada Smṛti, Chapter 1 ([p-062f16](https://falsafa.corpus/works/unknown-naradasmrti-7650d2/01/translation/#p-062f16)).\n[^12]: Pārāśara Smṛti, Chapter 3 ([p-c72079](https://falsafa.corpus/works/unknown-parasara-smrti-2259be/03/translation/#p-c72079)).\n[^13]: Viṣṇu Smṛti, Chapter 24 ([p-7b249b](https://falsafa.corpus/works/unknown-visnu-smrti-27f0d8/24/translation/#p-7b249b)).\n[^14]: Viṣṇu Smṛti, Chapter 21 ([p-b13237](https://falsafa.corpus/works/unknown-visnu-smrti-27f0d8/21/translation/#p-b13237)).\n[^15]: Yājñavalkya Smṛti, Chapter 1 ([p-a2d246](https://falsafa.corpus/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-a2d246)).\n[^16]: Elene, Chapter 1 ([p-f5d1f1](https://falsafa.corpus/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1)).\n[^17]: Juliana, Chapter 1 ([p-75ff07](https://falsafa.corpus/works/cynewulf-juliana-9a2157/01/translation/#p-75ff07)).\n[^18]: Andreas, Chapter 1 ([p-60c0a6](https://falsafa.corpus/works/cynewulf-andreas-07b573/01/translation/#p-60c0a6)).\n[^19]: Slokantara, Chapter 1 ([p-f120a5](https://falsafa.corpus/works/unknown-slokantara-d7a628/01/translation/#p-f120a5)).\n[^20]: San Hyan Kamahayanikan, Chapter 1 ([p-7159ca](https://falsafa.corpus/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-7159ca)).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "birth",
+        "limit": 100
+      },
+      "result_summary": "Found 100 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "lineage",
+        "limit": 100
+      },
+      "result_summary": "Found 91 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ancestry",
+        "limit": 50
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "descent",
+        "limit": 50
+      },
+      "result_summary": "Found 8 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "progeny",
+        "limit": 50
+      },
+      "result_summary": "Found 25 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "offspring",
+        "limit": 50
+      },
+      "result_summary": "Found 50 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "heritage",
+        "limit": 50
+      },
+      "result_summary": "Found 16 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bloodline",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"noble birth\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"royal lineage\"",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1"
+      },
+      "result_summary": "{\"markdown\":\"# Āṅgirasa Smṛti\\nAṅgirasa · Ancient · sanskrit · verse · 1 chapters · 38,412 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according rule ang_1\\\" · \\\"ang"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070"
+      },
+      "result_summary": "{\"markdown\":\"# Bṛhaspati Smṛti\\nBṛhaspati · Ancient · sanskrit · prose · 1 chapters · 32,934 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"plea former judgment\\\" · \\\"ma"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "",
+      "paragraph_id": "p-10d641"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-daada9"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-d7ede5"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-01036c"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-47377f"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-1a4c5d"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-677774"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-1e4660"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-ab74cb"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-15ff43"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-062f16"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-c72079"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-7b249b"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-b13237"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-a2d246"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-75ff07"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-60c0a6"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-f120a5"
+    },
+    {
+      "work_slug": "",
+      "paragraph_id": "p-7159ca"
+    }
+  ],
+  "duration_ms": 51628,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 82532,
+    "completion_tokens": 6562,
+    "total_tokens": 89094,
+    "cached_tokens": 2181,
+    "api_calls": 3,
+    "cost_usd": 0.01946025,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 1101,
+        "total_tokens": 3002,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00064855
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 34891,
+        "completion_tokens": 2119,
+        "total_tokens": 37010,
+        "cached_tokens": 150,
+        "cost_usd": 0.0080152
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 45740,
+        "completion_tokens": 3342,
+        "total_tokens": 49082,
+        "cached_tokens": 150,
+        "cost_usd": 0.0107965
+      }
+    ]
+  }
+}

@@ -1,0 +1,163 @@
+{
+  "answer": "**The term 'tehzib' (تہذیب, often meaning 'civilization' or 'culture' in Urdu/Arabic philosophical contexts) does not appear in the English translations of Allama Iqbal's works available in the Falsafa corpus.** \n\nIqbal's contributions here consist solely of the three parts of *Bang-e-Dara* (1924), a collection of Urdu poetry focused on themes like Islamic renaissance, self-realization, spiritual destiny, nationalism, and philosophy through verse.[^1][^2][^3] Searches across the English bodies for \"tehzib\" and common variants (\"tehzeeb\", \"tahdhib\", \"tahzib\", \"tadhib\", \"tehzi*b\") returned zero results. Equivalent English terms like \"civilization\" or \"culture\" (paired with \"Iqbal\") also yielded no matches.\n\nNo chapters critically engage the concept as posed. Iqbal's prose works (e.g., *The Reconstruction of Religious Thought in Islam*), where he might philosophically unpack 'tehzib' in relation to khudi (selfhood) or Muslim renewal, are not in the corpus (currently 37 works, poetry-heavy for Iqbal). If this refers to a specific Urdu usage untranslated here, it cannot be traced or cited from available texts.\n\n[^1]: *Bang-E-Dara Part 1*, work card. [/works/allama-iqbal-bang-e-dara-part-1-55b25c/wiki/_work.card.md]\n[^2]: *Bang-E-Dara Part 2*, work card. [/works/allama-iqbal-bang-e-dara-part-2-9bc58c/wiki/_work.card.md]\n[^3]: *Bang-E-Dara Part 3*, work card. [/works/allama-iqbal-bang-e-dara-part-3-cc61e8/wiki/_work.card.md]",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tehzib",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad-iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal-muhammad"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tehzeeb\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tahdhib\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tahzib\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tadhib\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tehzi*b\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"civilization\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"culture\" iqbal"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 35875,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 9307,
+    "completion_tokens": 2799,
+    "total_tokens": 12106,
+    "cached_tokens": 4487,
+    "api_calls": 3,
+    "cost_usd": 0.00258785,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1910,
+        "completion_tokens": 481,
+        "total_tokens": 2391,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0003399
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2458,
+        "completion_tokens": 1238,
+        "total_tokens": 3696,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010881
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 4939,
+        "completion_tokens": 1080,
+        "total_tokens": 6019,
+        "cached_tokens": 2453,
+        "cost_usd": 0.00115985
+      }
+    ]
+  }
+}

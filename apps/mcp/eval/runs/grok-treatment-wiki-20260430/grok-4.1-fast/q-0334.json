@@ -1,0 +1,279 @@
+{
+  "answer": "In the *Manusmṛti*, the Brahmina's authority is rooted in a primordial cosmological order, where the varṇas (social classes) emerge directly from the body of the Self-Existent One (Svayambhu/Brahman): Brahmanas from the mouth, symbolizing speech, knowledge, and ritual mediation.[^1] This origin confers inherent supremacy, reinforced by the Brahmina's role in preserving and embodying the Veda—the eternal, divinely revealed source of all names, actions, conditions, and dharma (righteous order).[^2][^3] Manu thus appeals to a *transhistorical*, scriptural authority: the Veda as the unchanging foundation of creation and hierarchy, positioning the Brahmana as \"lord of this whole creation\" by \"preservation of the Veda.\"[^4]\n\nIqbal's \"Khitāb ba Javānān-e-Islām,\" by contrast, invokes a vivid *historical* lineage to rouse Muslim youth, portraying their \"forefathers\" as humble desert-dwellers who conquered empires (e.g., crushing \"the crown upon the head of Darius\"), built civilizations, and ruled the world through action, pride, and divine spirit—yet whose \"pearls of knowledge\" and \"books\" are now lost or held in Europe.[^5] The appeal is motivational and genealogical: youth are \"shattered star[s]\" of that \"firmament,\" urged to reclaim kinship through deeds rather than words, emphasizing empirical triumphs over metaphysical descent.\n\n**Key contrasts in source-authority:**\n- *Ontological vs. performative*: Manu's is static and divine (Veda as pre-creation blueprint, Brahmin as eternal custodian); Iqbal's is dynamic and ancestral (victories as proof of potential, inheritance as recoverable legacy).\n- *Hierarchical prescription vs. communal inspiration*: Manu justifies Brahmin *dominance* via sacred origin; Iqbal fosters *aspiration* in youth via shared heroic past, lamenting decline without rigid hierarchy.\n- *Scriptural eternity vs. historical contingency*: Veda is immutable revelation; ancestors' glory is transient (\"immutable laws of this world\"), spurring revival.\n\nBoth leverage \"source-authority\" from a superior past to normatively shape the present—divine/textual for Manu, human/historical for Iqbal—but Manu's serves systemic legitimation, while Iqbal's ignites personal/national renewal.\n\n[^1]: *Manusmṛti*, Chapter 1, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-13a2db).\n\n[^2]: *Manusmṛti*, Chapter 1, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-3a6c83).\n\n[^3]: *Manusmṛti*, Chapter 1, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-a5c46f).\n\n[^4]: *Manusmṛti*, Chapter 1, [paragraph](/works/unknown-manusmrti-347b76/01/translation/#p-7c0113).\n\n[^5]: Allama Iqbal, *Bang-E-Dara Part 3*, Chapter 13 (\"Khitāb ba Javānān-e-Islām\"), [paragraph](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/13-khitab-ba-jawanan-e-islam/translation/#p-365462).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "muhammad iqbal"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu Brahmin authority Veda"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Khitab ba Jawanan-e-Islam\""
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal ancestors victories Muslim youth"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Bang-E-Dara Part 3 · ch.13\\nverse · 2¶ · 268w · vocab 118 (TTR 96%, hapax 96%)\\n\\n## Distinctive trigrams\\n\\\"address muslim youth\\\" · \\\"muslim yout"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.1\\nverse · 119¶ · 3360w · vocab 734 (TTR 45%, hapax 64%)\\n\\n## Distinctive trigrams\\n\\\"nature both non-being\\\" · \\\"mn_1 krita age\\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brāhmaṇa OR brahmin OR brahman veda OR sruti OR smṛti authority OR origin OR created"
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"ancestors\" OR \"forefathers\" OR \"past\" victories OR triumphs muslim OR islam youth OR jawan"
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"veda\" OR \"sruti\" OR \"ṛṣi\" brahmin OR brahmana authority OR source OR origin OR descent"
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"brahmana knows veda\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-13a2db",
+          "p-7c0113",
+          "p-a5c46f",
+          "p-3a6c83"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 4 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 13,
+        "paragraph_ids": [
+          "p-365462"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "unknown-manusmrti-347b76",
+        "work_slug_b": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "topic": "authority ancestors veda brahmin victories youth"
+      },
+      "result_summary": "{\"topic\":\"authority ancestors veda brahmin victories youth\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"unknown-m"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-13a2db"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-3a6c83"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-a5c46f"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-7c0113"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 13,
+      "paragraph_id": "p-365462"
+    }
+  ],
+  "duration_ms": 44273,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 49085,
+    "completion_tokens": 5506,
+    "total_tokens": 54591,
+    "cached_tokens": 13388,
+    "api_calls": 5,
+    "cost_usd": 0.0105618,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1930,
+        "completion_tokens": 566,
+        "total_tokens": 2496,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003867
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2810,
+        "completion_tokens": 1062,
+        "total_tokens": 3872,
+        "cached_tokens": 150,
+        "cost_usd": 0.0010705
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "list_chapters"
+        ],
+        "prompt_tokens": 8406,
+        "completion_tokens": 962,
+        "total_tokens": 9368,
+        "cached_tokens": 2805,
+        "cost_usd": 0.00174145
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 17339,
+        "completion_tokens": 1334,
+        "total_tokens": 18673,
+        "cached_tokens": 8401,
+        "cost_usd": 0.00287465
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "compare_works"
+        ],
+        "prompt_tokens": 18600,
+        "completion_tokens": 1582,
+        "total_tokens": 20182,
+        "cached_tokens": 150,
+        "cost_usd": 0.0044885
+      }
+    ]
+  }
+}

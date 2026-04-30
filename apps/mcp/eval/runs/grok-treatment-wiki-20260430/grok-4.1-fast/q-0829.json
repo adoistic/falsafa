@@ -1,0 +1,170 @@
+{
+  "answer": "**In the *Yājñavalkya Smṛti* (Chapter 1, verses 1.4–1.5), Yājñavalkya is named as one of the sages who promulgated the Dharmaśāstras.**[^1][^2]\n\nVerse 1.4 lists: \"Manu, Atri, Viṣṇu, Hārīta, **Yājñavalkya**, Uśanas, Aṅgiras, Yama, Āpastamba, Saṃvarta, Kātyāyana, and Bṛhaspati.\" Verse 1.5 continues the list—\"Parāśara, Vyāsa, Śaṅkha, Likhita, Dakṣa, and Gautama, Śātātapa, and Vasiṣṭha\"—and explicitly states that (all these sages) \"are the promulgators of the Dharmaśāstras.\"[^1][^2]\n\nThis opening passage frames the text by honoring Yājñavalkya (the work's traditional author) while crediting him alongside other foundational lawgivers in the Smṛti tradition.\n\n[^1]: *Yājñavalkya Smṛti*, Chapter 1, [p-0f4ad0](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-0f4ad0).\n[^2]: *Yājñavalkya Smṛti*, Chapter 1, [p-95ef53](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-95ef53).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "yajnavalkya"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya promulgators",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Yajnavalkya\" 1.5",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "Listed 3 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Yajnavalkya\" promulgator OR lawgiver OR smriti",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Yajnavalkya \"one of the\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-95ef53"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-yajnavalkya-smrti-cb88d6 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-0f4ad0"
+    },
+    {
+      "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+      "chapter_number": 1,
+      "paragraph_id": "p-95ef53"
+    }
+  ],
+  "duration_ms": 33990,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 33750,
+    "completion_tokens": 3194,
+    "total_tokens": 36944,
+    "cached_tokens": 4394,
+    "api_calls": 4,
+    "cost_usd": 0.007687900000000001,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1912,
+        "completion_tokens": 553,
+        "total_tokens": 2465,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00037675
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2218,
+        "completion_tokens": 478,
+        "total_tokens": 2696,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006601
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3405,
+        "completion_tokens": 619,
+        "total_tokens": 4024,
+        "cached_tokens": 2213,
+        "cost_usd": 0.00065855
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "get_passage",
+          "read_chapter"
+        ],
+        "prompt_tokens": 26215,
+        "completion_tokens": 1544,
+        "total_tokens": 27759,
+        "cached_tokens": 150,
+        "cost_usd": 0.0059925
+      }
+    ]
+  }
+}

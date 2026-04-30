@@ -1,0 +1,262 @@
+{
+  "answer": "**Heliseus (Eleusius in the translation), the pagan prefect of Nicomedia, first proposes marriage to Juliana indirectly by wooing her father, Africanus, with gifts and promises after becoming inflamed with desire for her.**[^1]\n\nThis occurs early in the poem's narrative, shortly after introducing the characters. The text states that Eleusius \"longed for her beauty, and wished for her as his wife,\" then \"lavished her father with treasure and trinkets... and wooed the wealthy man with words of promise.\" Her father accepts on her behalf, pledging her to Eleusius, before Juliana rejects the match.[^1] This reflects medieval hagiographic conventions where suitors typically approach the bride's father first.\n\nNo earlier direct or indirect proposal appears; prior context only notes his initial infatuation (\"his heart began to burn with love for a maiden, Juliana by name\").[^2]\n\n[^1]: Cynewulf, *Juliana*, [p-6bc4fe](/works/cynewulf-juliana-9a2157/01/translation/#p-6bc4fe).\n[^2]: Cynewulf, *Juliana*, [p-92cc05](/works/cynewulf-juliana-9a2157/01/translation/#p-92cc05).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Heliseus",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"propose marriage\" OR \"ask Juliana\" OR \"wed Juliana\" OR Heliseus Juliana",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-01394b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-ceda92"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Heliseus\" marriage OR bride OR wife OR wed",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Eleusius",
+        "limit": 10
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"Eleusius\" OR Heliseus OR \"prefect\" marriage OR bride OR wife OR wed Juliana",
+        "limit": 20
+      },
+      "result_summary": "Found 2 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"would have\" bride OR wife OR \"take\" bride OR wife Juliana",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-6bc4fe"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-92cc05"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_range": {
+          "start": 10,
+          "end": 15
+        },
+        "variant": "translation"
+      },
+      "result_summary": "Returned 6 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-01394b"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-6bc4fe"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-92cc05"
+    }
+  ],
+  "duration_ms": 55238,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 43441,
+    "completion_tokens": 4999,
+    "total_tokens": 48440,
+    "cached_tokens": 17207,
+    "api_calls": 7,
+    "cost_usd": 0.00860665,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1900,
+        "completion_tokens": 167,
+        "total_tokens": 2067,
+        "cached_tokens": 150,
+        "cost_usd": 0.000441
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works"
+        ],
+        "prompt_tokens": 2245,
+        "completion_tokens": 158,
+        "total_tokens": 2403,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005055
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki"
+        ],
+        "prompt_tokens": 2583,
+        "completion_tokens": 320,
+        "total_tokens": 2903,
+        "cached_tokens": 2240,
+        "cost_usd": 0.0003406
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6356,
+        "completion_tokens": 721,
+        "total_tokens": 7077,
+        "cached_tokens": 150,
+        "cost_usd": 0.0016092
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8021,
+        "completion_tokens": 835,
+        "total_tokens": 8856,
+        "cached_tokens": 6351,
+        "cost_usd": 0.00106905
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "get_passage"
+        ],
+        "prompt_tokens": 10497,
+        "completion_tokens": 623,
+        "total_tokens": 11120,
+        "cached_tokens": 8016,
+        "cost_usd": 0.0012085
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 11839,
+        "completion_tokens": 2175,
+        "total_tokens": 14014,
+        "cached_tokens": 150,
+        "cost_usd": 0.0034328
+      }
+    ]
+  }
+}

@@ -1,0 +1,176 @@
+{
+  "answer": "**Viṣṇu Smṛti chapter 32 sets down rules of respect (*pūjā*) and etiquette towards teachers (*ācārya*), their wives (*patnī*), relatives, and superiors (such as kings, priests, Vedic scholars, and family elders), emphasizing proper salutations, physical boundaries, speech, and hierarchies of veneration based on *varṇa*, age, kinship, wealth, deeds, and knowledge.[^1]**\n\nKey rules include:\n\n- Treat a king, priest (*ṛtvij*), Vedic scholar (*śrotriya*), paternal uncle (*pitṛvy*), maternal grandfather (*mātāmaha*), and others as a teacher; extend this to their same-*varṇa* wives.[^2][^3]\n- Salute younger superiors (e.g., father-in-law, uncle, priest) by rising; salute lower-*varṇa* teacher's wives from a distance without touching feet.[^4][^5]\n- Prohibit intimate services (perfuming, collyrium, hair-arranging, foot-washing) for teacher's wives; address other women as \"sister,\" \"daughter,\" or \"mother\"; avoid \"thou\" (*tva*) for elders.[^6][^7][^8]\n- Do not argue, slander, or displease a teacher; transgressors must fast, appease, then eat.[^9][^10]\n- Special nuance for young teacher's wives: young men salute verbally by name, not feet; perform daily or post-journey foot-clasping recalling *dharma*.[^11]\n- Respect escalates by wealth → kinship → age → religious acts → sacred knowledge (*śruti*); e.g., a 10-year Brāhmaṇa > 100-year king; seniority by knowledge (Brāhmaṇas), valor (Kṣatriyas), wealth (Vaiśyas), birth (Śūdras).[^12][^13]\n\n[^1]: *Viṣṇu Smṛti*, [Chapter 32](/works/unknown-visnu-smrti-27f0d8/32/translation/).\n\n[^2]: *Viṣṇu Smṛti*, [Chapter 32](/works/unknown-visnu-smrti-27f0d8/32/translation/#p-68e98c).\n\n[^3]: *Viṣṇu Smṛti*, [Chapter 32](/works/unknown-visnu-smrti-27f0d8/32/translation/#p-dc0090).\n\n[^4]: *Viṣṇu Smṛti*, [Chapter 32](/works/unknown-visnu-smrti-27f0d8/32/translation/#p-ae2590).\n\n[^5]: *Viṣṇu Smṛti*, [Chapter 32](/works/unknown-visnu-smrti-27f0d8/32/translation/#p-90b7d6).\n\n[^6]: *Viṣṇu Smṛti*, [Chapter 32](/works/unknown-visnu-smrti-27f0d8/32/translation/#p-a90834).\n\n[^7]: *Viṣṇu Smṛti*, [Chapter 32](/works/unknown-visnu-smrti-27f0d8/32/translation/#p-8ed645).\n\n[^8]: *Viṣṇu Smṛti*, [Chapter 32](/works/unknown-visnu-smrti-27f0d8/32/translation/#p-0f2936).\n\n[^9]: *Viṣṇu Smṛti*, [Chapter 32](/works/unknown-visnu-smrti-27f0d8/32/translation/#p-8df5f1).\n\n[^10]: *Viṣṇu Smṛti*, [Chapter 32](/works/unknown-visnu-smrti-27f0d8/32/translation/#p-18ec9d).\n\n[^11]: *Viṣṇu Smṛti*, [Chapter 32](/works/unknown-visnu-smrti-27f0d8/32/translation/#p-c3ec32).\n\n[^12]: *Viṣṇu Smṛti*, [Chapter 32](/works/unknown-visnu-smrti-27f0d8/32/translation/#p-c3ec32).\n\n[^13]: *Viṣṇu Smṛti*, [Chapter 32](/works/unknown-visnu-smrti-27f0d8/32/translation/#p-c3ec32).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "visnu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "vishnu"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Visnu Smriti"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 32
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.32\\nverse · 14¶ · 419w · vocab 114 (TTR 60%, hapax 75%)\\n\\n## Distinctive trigrams\\n\\\"paternal uncle maternal\\\" · \\\"towards wiv"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "Listed 100 chapters"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 32
+      },
+      "result_summary": "Read ch.32 of unknown-visnu-smrti-27f0d8 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 32,
+      "paragraph_id": "p-68e98c"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 32,
+      "paragraph_id": "p-dc0090"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 32,
+      "paragraph_id": "p-ae2590"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 32,
+      "paragraph_id": "p-90b7d6"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 32,
+      "paragraph_id": "p-a90834"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 32,
+      "paragraph_id": "p-8ed645"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 32,
+      "paragraph_id": "p-0f2936"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 32,
+      "paragraph_id": "p-8df5f1"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 32,
+      "paragraph_id": "p-18ec9d"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 32,
+      "paragraph_id": "p-c3ec32"
+    }
+  ],
+  "duration_ms": 29562,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 34443,
+    "completion_tokens": 3069,
+    "total_tokens": 37512,
+    "cached_tokens": 22195,
+    "api_calls": 4,
+    "cost_usd": 0.00509385,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1899,
+        "completion_tokens": 460,
+        "total_tokens": 2359,
+        "cached_tokens": 1882,
+        "cost_usd": 0.0003275
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5424,
+        "completion_tokens": 278,
+        "total_tokens": 5702,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00094165
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 13018,
+        "completion_tokens": 312,
+        "total_tokens": 13330,
+        "cached_tokens": 5419,
+        "cost_usd": 0.00194675
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 14102,
+        "completion_tokens": 2019,
+        "total_tokens": 16121,
+        "cached_tokens": 13013,
+        "cost_usd": 0.00187795
+      }
+    ]
+  }
+}

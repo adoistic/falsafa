@@ -1,0 +1,175 @@
+{
+  "answer": "**In Cynewulf's *Elene*, the most explicit description of Helena's (Elene's) queenly role portrays her as a \"war-queen\" (*beadu-cwen*) who actively leads a military expedition to Jerusalem to locate the True Cross, fulfilling her son Constantine's divine mandate but executing it with commanding authority: summoning Jewish elders, interrogating them in councils, imprisoning Judas until he reveals the cross's location, overseeing its verification through a miracle, building a church on Calvary, and recovering the holy nails.[^1][^2] While Helena acts \"with purpose in mind of her lord’s true will\" (Constantine, the emperor), she operates independently in practice—mobilizing legions, holding courts, issuing threats of execution by fire, and directing events without direct oversight from him.[^3] The text thus imagines a queen who wields kingly prerogatives (e.g., command of troops, judicial coercion) autonomously, though ultimately in service to imperial and divine aims.\n\n**In Manusmṛti chapter 7 (\"The Dharma of Kings\"), there is no explicit mention of a \"chief queen\" (*pradhāna-patnī* or equivalent) or her supporting the king's *dharma*.** The sole reference to a queenly role is incidental: after fortifying his city, the king \"should take a wife [*pātivratā* implied] of his own *varṇa*, marked with auspicious signs, born in a great family, charming, and endowed with beauty and good qualities\" (Mn_7.77).[^4] No active duties—such as upholding *dharma*—are assigned to her here; the chapter focuses on the solitary king's virtues, counselors, forts, and sacrifices. The text does not imagine any queen acting independently (or at all, beyond selection as a suitable consort). If the query intends another chapter of Manusmṛti (e.g., ch. 9 on wifely laws), it is not covered here, as the user specified book 7.[^5]\n\n[^1]: *Elene*, ch. 1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-534627).\n[^2]: *Elene*, ch. 1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-7b1c1f).\n[^3]: *Elene*, ch. 1, [paragraph](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n[^4]: *Manusmṛti*, ch. 7, [paragraph](/works/unknown-manusmrti-347b76/07/translation/#p-d3c465).\n[^5]: *Manusmṛti*, ch. 7 (full), [/works/unknown-manusmrti-347b76/07/translation/](https://falsafa.corpus/works/unknown-manusmrti-347b76/07/translation/).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manu"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "manusmriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Helena cross Cynewulf"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chief queen\" Manu dharma"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.7\\nverse · 86¶ · 2503w · vocab 607 (TTR 52%, hapax 68%)\\n\\n## Distinctive trigrams\\n\\\"mn_7 king created\\\" · \\\"mn_7 duly considered\\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"queen\" Helena"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"chief queen\" OR \"principal wife\" OR \"queen\" king dharma Manu"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 7,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.7 of unknown-manusmrti-347b76 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-534627"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-7b1c1f"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 7,
+      "paragraph_id": "p-d3c465"
+    }
+  ],
+  "duration_ms": 41071,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 35873,
+    "completion_tokens": 3776,
+    "total_tokens": 39649,
+    "cached_tokens": 11845,
+    "api_calls": 4,
+    "cost_usd": 0.00728585,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1944,
+        "completion_tokens": 618,
+        "total_tokens": 2562,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006753
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2544,
+        "completion_tokens": 603,
+        "total_tokens": 3147,
+        "cached_tokens": 1939,
+        "cost_usd": 0.00051945
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7222,
+        "completion_tokens": 899,
+        "total_tokens": 8121,
+        "cached_tokens": 2539,
+        "cost_usd": 0.00151305
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 24163,
+        "completion_tokens": 1656,
+        "total_tokens": 25819,
+        "cached_tokens": 7217,
+        "cost_usd": 0.00457805
+      }
+    ]
+  }
+}

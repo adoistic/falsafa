@@ -1,0 +1,378 @@
+{
+  "answer": "In Iqbal's \"Husn o Ishq,\" the speaker (personifying *ishq*, or Love) addresses *husn* (Beauty) directly, resolving their dynamic—often a site of torment, indifference, and paradox in Ghalib's ghazals—through mutual perfection and contentment.[^1] Where Ghalib's couplets (e.g., on indifferent Beauty inventing its own displays, or love trapped in endless longing and shame) perpetuate unresolved tension between the beloved's cruel allure and the lover's suffering,[^2] Iqbal declares harmony:\n\n> From Your mere image, my astonishment is born;  \n> Your Beauty is perfected, and my Love is perfect form.[^3]\n\n> From Beauty, Love's own nature is spurred toward perfection;  \n> From You, the saplings of my hopes find green direction.  \n> My caravan has found contentment at its destination.[^4]\n\nBeauty provides the catalyst (\"lightning-flash\") and object for Love's culmination, while Love perfects Beauty's form, ending in repose rather than strife.[^5] This echoes Iqbal's nearby poems on beauty's transience (\"Haqeeqat-e-Husn\") and splendor (\"Jalwa-e-Husn\"), but *Husn o Ishq* uniquely unites the pair in resolution.[^6][^7]\n\n[^1]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 13 \"Husn o Ishq\" ([/works/allama-iqbal-bang-e-dara-part-2-9bc58c/13-husn-o-ishq/translation/](#p-3bf497)).\n[^2]: Mirza Ghalib, *Diwan-E-Ghalib*, ch. 79 \"Husn-e-beparwa kharidar-e-mata-e-jalwa hai\" ([/works/mirza-ghalib-diwan-e-ghalib-74ed4c/79-husn-e-beparwa-kharidar-e-mata-e-jalwa-hai/translation/](#p-6fb822)); see also ch. 195 for love's consuming shame ([/works/mirza-ghalib-diwan-e-ghalib-74ed4c/195-waan-pahunch-kar-jo-ghash-aata-paye-ham-hai-hum-ko/translation/](#p-a97f3a)).\n[^3]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 13 ([/works/allama-iqbal-bang-e-dara-part-2-9bc58c/13-husn-o-ishq/translation/#p-0d606e).\n[^4]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 13 ([/works/allama-iqbal-bang-e-dara-part-2-9bc58c/13-husn-o-ishq/translation/#p-7a49e3).\n[^5]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 13 ([/works/allama-iqbal-bang-e-dara-part-2-9bc58c/13-husn-o-ishq/translation/#p-73eab8).\n[^6]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 12 \"Haqeeqat-e-Husn\" ([/works/allama-iqbal-bang-e-dara-part-2-9bc58c/12-haqeeqat-e-husn/translation/](#p-dfb149)).\n[^7]: Allama Iqbal, *Bang-E-Dara Part 2*, ch. 15 \"Jalwa-e-Husn\" ([/works/allama-iqbal-bang-e-dara-part-2-9bc58c/15-jalwa-e-husn/translation/](#p-d23c85)).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "husn o ishq iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"husn o ishq\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "ghalib"
+      },
+      "result_summary": "Listed 1 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "urdu"
+      },
+      "result_summary": "Listed 5 works"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "Listed 28 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 13
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 13-husn-o-ishq.card.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-2-9bc58c"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "husn ishq",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"beauty\" \"love\" iqbal",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "husn ishq ghalib",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 13,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.13 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 13
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki full missing: 13-husn-o-ishq.full.md. Run: bun run scripts/build-wiki.ts --work allama-iqbal-bang-e-dara-part-2-9bc58c"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 12,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.12 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 15,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.15 of allama-iqbal-bang-e-dara-part-2-9bc58c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"beauty\" love",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "beauty love iqbal",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "work_slug_b": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "topic": "husn ishq"
+      },
+      "result_summary": "{\"topic\":\"husn ishq\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"allama-iqbal-bang-e-dara-part-2-9bc58c\",\"title\":"
+    },
+    {
+      "name": "compare_works",
+      "args": {
+        "work_slug_a": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "work_slug_b": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "topic": "beauty love"
+      },
+      "result_summary": "{\"topic\":\"beauty love\",\"note\":\"Returns relevant chapter pointers and metadata for both works. The host LLM does the actual comparison.\",\"work_a\":{\"slug\":\"allama-iqbal-bang-e-dara-part-2-9bc58c\",\"title"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "beauty",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "love",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "find_related",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 13,
+        "limit": 10
+      },
+      "result_summary": "Found 9 related"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 195,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.195 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"love\" beauty",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ishq husn",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 79,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.79 of mirza-ghalib-diwan-e-ghalib-74ed4c (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+        "chapter_number": 79
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Diwan-E-Ghalib · ch.79\\nverse · 2¶ · 45w · vocab 20 (TTR 80%, hapax 85%)\\n\\n## Distinctive trigrams\\n\\\"indifferent beauty one\\\" · \\\"beauty one pay\\"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 79,
+      "paragraph_id": "p-3bf497"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 79,
+      "paragraph_id": "p-6fb822"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 79,
+      "paragraph_id": "p-a97f3a"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 79,
+      "paragraph_id": "p-0d606e"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 79,
+      "paragraph_id": "p-7a49e3"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 79,
+      "paragraph_id": "p-73eab8"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 79,
+      "paragraph_id": "p-dfb149"
+    },
+    {
+      "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      "chapter_number": 79,
+      "paragraph_id": "p-d23c85"
+    }
+  ],
+  "duration_ms": 65168,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 54185,
+    "completion_tokens": 7248,
+    "total_tokens": 61433,
+    "cached_tokens": 29596,
+    "api_calls": 6,
+    "cost_usd": 0.010021599999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1937,
+        "completion_tokens": 649,
+        "total_tokens": 2586,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00042975
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3279,
+        "completion_tokens": 1046,
+        "total_tokens": 4325,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00089665
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5945,
+        "completion_tokens": 921,
+        "total_tokens": 6866,
+        "cached_tokens": 3274,
+        "cost_usd": 0.0011584
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_wiki_full",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8000,
+        "completion_tokens": 1668,
+        "total_tokens": 9668,
+        "cached_tokens": 5940,
+        "cost_usd": 0.001543
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "compare_works",
+          "compare_works",
+          "search_corpus",
+          "search_corpus",
+          "find_related",
+          "read_wiki"
+        ],
+        "prompt_tokens": 16475,
+        "completion_tokens": 1137,
+        "total_tokens": 17612,
+        "cached_tokens": 150,
+        "cost_usd": 0.003841
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 18549,
+        "completion_tokens": 1827,
+        "total_tokens": 20376,
+        "cached_tokens": 16470,
+        "cost_usd": 0.0021528
+      }
+    ]
+  }
+}

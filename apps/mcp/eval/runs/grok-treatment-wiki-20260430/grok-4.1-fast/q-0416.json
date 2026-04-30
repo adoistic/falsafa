@@ -1,0 +1,192 @@
+{
+  "answer": "**Two works in the Falsafa corpus take saintly women as their protagonists: *Elene* and *Juliana*, both by Cynewulf.**\n\n- ***Elene*** is an Old English poem centered on Elene (Saint Helena), the mother of Constantine the Great, who leads a quest to find the True Cross. She commands legions, interrogates Jewish elders, uncovers the Cross through divine signs, builds a church on Calvary, and retrieves the holy nails, portrayed as a triumphant, devout \"war-queen\" and \"blessed lady.\"[^1][^2]\n\n- ***Juliana*** is an Old English hagiographic poem about Juliana (Saint Juliana of Nicomedia), a noble virgin who rejects marriage to the pagan reeve Eleusius unless he converts to Christianity. She endures torture, binds a demon in her cell, and faces martyrdom steadfastly, depicted as a \"blessed maiden,\" \"holy one,\" and defender of faith.[^3][^4]\n\nNo other works in the corpus feature saintly women as protagonists; the remaining 35 are philosophical treatises (e.g., various Smṛtis), political theory, or poems centered on male figures (e.g., *Andreas* on Saint Andrew) or non-hagiographic themes.[^5]\n\n[^1]: Cynewulf, *Elene*, ch. 1 (/works/cynewulf-elene-d2d132/01/translation/).\n[^2]: Cynewulf, *Elene*, [p-f5d1f1](/works/cynewulf-elene-d2d132/01/translation/#p-f5d1f1).\n[^3]: Cynewulf, *Juliana*, ch. 1 (/works/cynewulf-juliana-9a2157/01/translation/).\n[^4]: Cynewulf, *Juliana*, [p-ceda92](/works/cynewulf-juliana-9a2157/01/translation/#p-ceda92).\n[^5]: List of works in the Falsafa corpus (37 total).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saint woman",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"holy woman\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "saintly woman",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"life of\" saint",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Elene",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Juliana",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Helena",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"saint\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-f5d1f1"
+    },
+    {
+      "work_slug": "cynewulf-juliana-9a2157",
+      "chapter_number": 1,
+      "paragraph_id": "p-ceda92"
+    }
+  ],
+  "duration_ms": 28870,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 46742,
+    "completion_tokens": 3239,
+    "total_tokens": 49981,
+    "cached_tokens": 18337,
+    "api_calls": 4,
+    "cost_usd": 0.00821735,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1899,
+        "completion_tokens": 487,
+        "total_tokens": 2386,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0003404
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5467,
+        "completion_tokens": 923,
+        "total_tokens": 6390,
+        "cached_tokens": 1883,
+        "cost_usd": 0.00127245
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 9111,
+        "completion_tokens": 729,
+        "total_tokens": 9840,
+        "cached_tokens": 5462,
+        "cost_usd": 0.0013674
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 30265,
+        "completion_tokens": 1100,
+        "total_tokens": 31365,
+        "cached_tokens": 9106,
+        "cost_usd": 0.0052371
+      }
+    ]
+  }
+}

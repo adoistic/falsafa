@@ -1,0 +1,81 @@
+{
+  "answer": "**The Falsafa corpus does not contain the texts *Vrhaspatitattva* or *Ganapatitattva*, nor any chapters or passages discussing them.** Searches for both titles, along with listings filtered by relevant language (Old Javanese/Javanese) and genre (tattva), returned zero results. These Old Javanese tattva texts—key works in the philosophical tradition of ancient Java—are not part of the current 37-work corpus, so I cannot provide a doctrinal comparison from primary sources here. For external scholarship on their shared emphasis on tattva ontology (e.g., reality levels) versus divergences (e.g., in tantric or Saivite leanings), consult specialists in Indonesian philology.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Vrhaspatitattva",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Ganapatitattva",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "tattva"
+      },
+      "result_summary": "Listed 0 works"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 18736,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 4104,
+    "completion_tokens": 711,
+    "total_tokens": 4815,
+    "cached_tokens": 300,
+    "api_calls": 2,
+    "cost_usd": 0.0011313,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1924,
+        "completion_tokens": 387,
+        "total_tokens": 2311,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005558
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2180,
+        "completion_tokens": 324,
+        "total_tokens": 2504,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005755
+      }
+    ]
+  }
+}

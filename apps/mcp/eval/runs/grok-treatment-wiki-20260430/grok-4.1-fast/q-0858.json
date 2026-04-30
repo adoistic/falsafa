@@ -1,0 +1,203 @@
+{
+  "answer": "In the *Gaṇapatitattva*, an Old Javanese (Kawi) *tattva* treatise attributed to Gaṇapati, \"Jñāna\" appears transliterated (capitalized as a proper divine name/entity) rather than rendered into a vernacular equivalent like \"knowledge.\" It is one of three somatic divinities—alongside Śiva and Pramāṇa—whose locations in the body are mapped for yogic/liberative purposes.[^1]\n\n[^1]: *Gaṇapatitattva*, [paragraph](/works/unknown-ganapatitattva-66a136/01/translation/#p-ad9122).\n\nThe immediate context describes ritual unification of these divinities in the face of death omens:\n\n> The Divine Śiva resides in the eyes; his color is yellow like polished gold. He is the Self of sight. The Divine Pramāṇa resides at the tip of the nose and at the tip of the tongue; his color is blue. He is the Self of speech. **The Divine Jñāna resides at the base of the lungs**; his color is white without stain. He is the divine Self of memory. Furthermore, if there is a sign of death, unite The Divine Śiva with The Divine Pramāṇa and **The Divine Jñāna**. Such is the path of The Divine Śiva.[^1]\n\nThis usage aligns closely with Sanskrit tantric Śaiva (and Śākta) frameworks, such as those in the Āgamas or Tantras (e.g., *Mālinīvijayottara* or *Kubjikāmata*), where *jñāna* is hypostatized as a deity or *śakti* embodying discriminative wisdom/gnosis (*vidyā*), often paired with *pramāṇa* (valid cognition) and *śiva* (consciousness). Here, Jñāna's white color evokes purity/clarity (like Sanskrit *suddha vidyā*), its lung-location links to *smṛti* (memory/retention of gnosis), and the death-rite unification recalls Sanskrit *marṇa-saṃskāra* practices for merging *jñāna-śakti* into Śiva at dissolution—no evident semantic shift, but a direct doctrinal transplant into a Javanese Śaiva yogic schema.[^2]\n\n[^2]: *Gaṇapatitattva*, work-level overview, [wiki card](/works/unknown-ganapatitattva-66a136/wiki/_work.card.md); ch.1 wiki, [card](/works/unknown-ganapatitattva-66a136/wiki/01.card.md). Doctrinal parallels inferred from corpus Sanskrit uses (e.g., *Manusmṛti* 12 on *ātmajñāna* as supreme gnosis[^3]; *Pārāśara Smṛti* 1 on *jñāna* as Treta-yuga pinnacle[^4]), but the somatic deification is distinctly tantric, matching Javanese Śaiva adaptations like *Vṛhaspatitattva*.\n\nParallel transliterated uses appear elsewhere in Kawi *tattva*-adjacent texts (e.g., *Kalpabuddha* attributes *jñāna* types to buddhas; *Saṃ Hyaṅ Kamahāyānikan* expounds *adwayajñāna* as non-dual gnosis), consistently denoting salvific wisdom without translation.[^5]\n\n[^3]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/12/translation/#p-074f6e).\n[^4]: *Pārāśara Smṛti*, [paragraph](/works/unknown-parasara-smrti-2259be/01/translation/#p-afd7d9).\n[^5]: E.g., *Kalpabuddha* 1, [paragraph](/works/unknown-kalpabuddha-d760dc/01/translation/#p-e1c8df); *Saṃ Hyaṅ Kamahāyānikan* 1, [paragraph](/works/unknown-san-hyan-kamahayanikan-2a0c19/01/translation/#p-71f1a3).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jnana",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-javanese"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "tattva"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"tattva\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "jñāna",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"old javanese\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136"
+      },
+      "result_summary": "{\"markdown\":\"# Gaṇapatitattva\\nGaṇapati · Medieval · kawi · prose · 1 chapters · 10,190 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"īśvara spoke son\\\" · \\\"humble son p"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Gaṇapatitattva · ch.1\\nprose · 166¶ · 10190w · vocab 1343 (TTR 28%, hapax 51%)\\n\\n## Distinctive trigrams\\n\\\"īśvara spoke son\\\" · \\\"humble son pay"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-vrhaspatitattva-b60b28"
+      },
+      "result_summary": "{\"markdown\":\"# Vrhaspatitattva\\nBṛhaspati · Medieval · kawi · prose · 1 chapters · 14,791 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"venerable vṛhaspati replied\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-san-hyan-tattvajnana-1f29bd"
+      },
+      "result_summary": "{\"markdown\":\"# San Hyan Tattvajnana\\nUnknown · Medieval · kawi · prose · 1 chapters · 16,092 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"lacking *yoga* becomes\\\" · \\\"vo"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-ad9122"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-ganapatitattva-66a136",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-ad9122"
+        ],
+        "variant": "transliteration"
+      },
+      "result_summary": "Returned 0 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-ad9122"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-074f6e"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-afd7d9"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-e1c8df"
+    },
+    {
+      "work_slug": "unknown-ganapatitattva-66a136",
+      "chapter_number": 1,
+      "paragraph_id": "p-71f1a3"
+    }
+  ],
+  "duration_ms": 77461,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 22047,
+    "completion_tokens": 5212,
+    "total_tokens": 27259,
+    "cached_tokens": 12072,
+    "api_calls": 4,
+    "cost_usd": 0.0052046,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1947,
+        "completion_tokens": 411,
+        "total_tokens": 2358,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00031275
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2091,
+        "completion_tokens": 799,
+        "total_tokens": 2890,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007952
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7960,
+        "completion_tokens": 1515,
+        "total_tokens": 9475,
+        "cached_tokens": 2086,
+        "cost_usd": 0.0020366
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 10049,
+        "completion_tokens": 2487,
+        "total_tokens": 12536,
+        "cached_tokens": 7955,
+        "cost_usd": 0.00206005
+      }
+    ]
+  }
+}

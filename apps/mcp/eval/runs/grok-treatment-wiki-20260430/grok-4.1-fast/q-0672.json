@@ -1,0 +1,227 @@
+{
+  "answer": "**The Falsafa corpus does not contain a direct philosophical explanation or definition of *shahid* (شهید, meaning \"martyr\" or \"witness\") from Allama Iqbal's works.** Iqbal's included texts are the three parts of his Urdu poetry collection *Bang-e-Dara* (1924), and searches across translations, transliterations, and bodies yield only poetic usages, not conceptual analysis.<sup>[1]</sup><sup>[2]</sup>\n\n### Poetic Contexts for \"Witness\"\n- In \"Himalaya\" (*Bang-E-Dara Part 1*, ch. 25), a singing stream descending the mountain is described as:  \n  > Aati hai nadi faraaz-e-koh se gaati hui  \n  > Kausar o Tasneem ki maujon ko sharmati hui  \n  > **Aaina sa shahid-e-qudrat ko dikhlaati hui**<sup>[3]</sup>  \n\n  The translation renders this as a \"mirror to the face of Nature,\" portraying the stream as a reflective *witness* (*shahid-e-qudrat*) to divine creation, revealing nature's beauty while navigating obstacles.<sup>[4]</sup><sup>[5]</sup> This evokes *shahid* as an observant mirror of God's signs, aligning with Sufi imagery of witnessing divine reality.\n\n### Poetic Contexts for \"Martyr\"\nIqbal references *martyrs* (translated from Urdu/Arabic *shuhada*) in revolutionary or revivalist tones:\n- In \"Dil se jo baat nikalti hai...\" (*Bang-E-Dara Part 3*, ch. 4):  \n  > The garden will be cleansed of thorn and weed;  \n  > **The martyrs’ blood, a life-bestowing seed**,  \n  > Is painting all the flowerbeds with red.<sup>[6]</sup>  \n\n  Here, martyrs' blood renews the Islamic garden/nation metaphorically.\n- Later in the same poem: \"The world that nursed your martyrs\" refers to a \"dark-skinned world\" (likely India/Africa), tying martyrdom to global Muslim struggle.<sup>[7]</sup>\n- In \"Huzoor Risalat Ma'ab Mein\" (*Bang-E-Dara Part 3*, ch. 11), the poet offers the Prophet a vial of \"the blood of Tripoli's martyrs,\" symbolizing the ummah's honor amid colonial resistance (e.g., Italian invasion of Libya, 1911).<sup>[8]</sup>\n\nThese evoke *shahid* as both passive witness (to nature/divinity) and active martyr (sacrificial blood fertilizing revival). However, no passage unpacks Iqbal's full philosophy on the term—likely found in his Persian works (*Asrar-i-Khudi*, *Rumuz-i-Bekhudi*) or prose (*Reconstruction of Religious Thought in Islam*), absent from this corpus of 37 works.\n\n<sup>[1]</sup>: *Bang-E-Dara Part 1*, [ch. 25](/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/).  \n<sup>[2]</sup>: *Bang-E-Dara Part 3*, [ch. 4](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/), [ch. 11](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/).  \n<sup>[3]</sup>: *Bang-E-Dara Part 1*, ch. 25, [p-81b343](/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/transliteration/#p-81b343).  \n<sup>[4]</sup>: *Bang-E-Dara Part 1*, ch. 25, [p-87573e](/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/#p-87573e).  \n<sup>[5]</sup>: Ibid., [p-b68a16](/works/allama-iqbal-bang-e-dara-part-1-55b25c/25-himalaya/translation/#p-b68a16).  \n<sup>[6]</sup>: *Bang-E-Dara Part 3*, ch. 4, [p-169e10](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-169e10).  \n<sup>[7]</sup>: Ibid., [p-e2b972](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/04-dil-se-jo-baat-nikalti-hai-asar-rakhti-hai/translation/#p-e2b972).  \n<sup>[8]</sup>: *Bang-E-Dara Part 3*, ch. 11, [p-e4e5a8](/works/allama-iqbal-bang-e-dara-part-3-cc61e8/11-huzoor-risalat-maab-mein/translation/#p-e4e5a8).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal shahid",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal martyr",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Iqbal witness",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "author": "iqbal"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "shahid",
+        "limit": 10
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "martyr",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "witness",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 2\\nAllama Iqbal · 20th Century · urdu · verse · 17 chapters · 2,716 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"reality beauty god\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 3\\nAllama Iqbal · 20th Century · urdu · verse · 21 chapters · 8,821 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"time first dawn\\\" · \\\"fa"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c",
+        "chapter_number": 25,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.25 of allama-iqbal-bang-e-dara-part-1-55b25c (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 4,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.4 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+        "chapter_number": 11,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.11 of allama-iqbal-bang-e-dara-part-3-cc61e8 (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"shahid\"",
+        "limit": 5
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 11,
+      "paragraph_id": "p-81b343"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 11,
+      "paragraph_id": "p-87573e"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 11,
+      "paragraph_id": "p-b68a16"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 11,
+      "paragraph_id": "p-169e10"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 11,
+      "paragraph_id": "p-e2b972"
+    },
+    {
+      "work_slug": "allama-iqbal-bang-e-dara-part-3-cc61e8",
+      "chapter_number": 11,
+      "paragraph_id": "p-e4e5a8"
+    }
+  ],
+  "duration_ms": 41160,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 26994,
+    "completion_tokens": 4193,
+    "total_tokens": 31187,
+    "cached_tokens": 2935,
+    "api_calls": 4,
+    "cost_usd": 0.00705505,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1903,
+        "completion_tokens": 608,
+        "total_tokens": 2511,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006621
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 2490,
+        "completion_tokens": 969,
+        "total_tokens": 3459,
+        "cached_tokens": 150,
+        "cost_usd": 0.00096
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 7774,
+        "completion_tokens": 871,
+        "total_tokens": 8645,
+        "cached_tokens": 2485,
+        "cost_usd": 0.00161755
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "search_corpus"
+        ],
+        "prompt_tokens": 14827,
+        "completion_tokens": 1745,
+        "total_tokens": 16572,
+        "cached_tokens": 150,
+        "cost_usd": 0.0038154
+      }
+    ]
+  }
+}

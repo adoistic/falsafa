@@ -1,0 +1,207 @@
+{
+  "answer": "**The discussion appears in Chapter 19 (\"IX. On the liberty of the arts that work on the education of our intellectual faculties\"), the final chapter of *Nouveau traité d'économie: VOL II*, which is devoted to arguing that these arts require complete liberty to thrive—defined primarily as freedom from government or institutional monopoly, prior authorization, censorship, excessive taxes, and arbitrary regulation, provided they are not used for harmful purposes like defamation, outrage, or incitement to crime.[^1][^2]**\n\nDunoyer names these as **the arts (or industries) of intellectual education**, specifically those focused on \"our faculty of knowing\" (as distinct from imagination, affections, or moral habits, which he notes but sets aside here). He portrays them as \"cerebral gymnastics\" that perfect the brain through exercise, encompassing:\n\n- **Teaching and instruction** (e.g., schools, professors, courses on sciences or practical knowledge; he critiques overemphasis on dead languages like Greek/Latin as poor preparation for modern professions).[^3]\n- **Writing and publishing** (e.g., books, treatises; theoretical works for advancing doctrines).[^4]\n- **Journalism and periodicals** (e.g., newspapers, reviews for rapid diffusion of facts, news, and ideas to professions).[^5]\n- **Related supports** (e.g., printing presses; distribution via post/telegraph; libraries/reading rooms).[^6]\n\nHe claims these arts demand **full liberty** (liberté)—not mere tolerance, but the absence of any privileged monopoly (especially by the state or University), no need for government permission to open schools/courses, unrestricted freedom to print/sell/distribute writings (without censorship or 30-40% taxes), and secure civil habits ensuring peaceful exercise unless directly harmful. Such liberty aligns with general industrial principles: free competition, division of labor, and protection only against abuse (e.g., incitement), enabling maximal power, progress, and societal benefit.[^7][^8]\n\n[^1]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [Chapter 19](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/19-ix-de-la-liberte-des-arts-qui-travaillent-a-leduca/translation/).\n\n[^2]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-58abeb](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/19-ix-de-la-liberte-des-arts-qui-travaillent-a-leduca/translation/#p-58abeb). \"The more individuals, parties, constituted authorities, and society as a whole know how to keep themselves within the bounds of common law, relative to the action of speaking, writing, printing, and teaching, the more the men who write and who teach can exercise their industry with facility and with liberty.\"\n\n[^3]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-86ba05](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/19-ix-de-la-liberte-des-arts-qui-travaillent-a-leduca/translation/#p-86ba05) to [p-2f6110](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/19-ix-de-la-liberte-des-arts-qui-travaillent-a-leduca/translation/#p-2f6110). Lists \"those that cultivate its faculty of knowing\"; critiques language teaching and calls for practical, profession-suited instruction.\n\n[^4]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-464ecb](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/19-ix-de-la-liberte-des-arts-qui-travaillent-a-leduca/translation/#p-464ecb). \"Before founding a school, before undertaking a journal, before publishing any work whatsoever...\"\n\n[^5]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-ac7a86](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/19-ix-de-la-liberte-des-arts-qui-travaillent-a-leduca/translation/#p-ac7a86) to [p-9df582](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/19-ix-de-la-liberte-des-arts-qui-travaillent-a-leduca/translation/#p-9df582). Praises newspapers/reviews as powerful tools for professions.\n\n[^6]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-cc5bd0](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/19-ix-de-la-liberte-des-arts-qui-travaillent-a-leduca/translation/#p-cc5bd0). Printing as \"two or three hundred times more powerful than the pen.\"\n\n[^7]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-742914](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/19-ix-de-la-liberte-des-arts-qui-travaillent-a-leduca/translation/#p-742914) to [p-0f4a3a](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/19-ix-de-la-liberte-des-arts-qui-travaillent-a-leduca/translation/#p-0f4a3a). Two injustices: pernicious use or monopoly; liberty requires repressing both.\n\n[^8]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [p-3e3598](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/19-ix-de-la-liberte-des-arts-qui-travaillent-a-leduca/translation/#p-3e3598) to [p-bd84fd](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/19-ix-de-la-liberte-des-arts-qui-travaillent-a-leduca/translation/#p-bd84fd). Critiques University monopoly, authorization needs, press taxes/censorship.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "dunoyer"
+      },
+      "result_summary": "Listed 2 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberty\" \"arts\" \"education\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"liberté des arts\" \"éducation\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "Listed 7 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03"
+      },
+      "result_summary": "{\"markdown\":\"# Nouveau traité d'économie: VOL II\\nCharles Dunoyer · 19th Century · french · prose · 7 chapters · 126,912 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*tr"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "education arts liberty",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 19
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL II · ch.19\\nprose · 122¶ · 16208w · vocab 2470 (TTR 33%, hapax 55%)\\n\\n## Distinctive trigrams\\n\\\"see subject work\\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 18
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Nouveau traité d'économie: VOL II · ch.18\\nprose · 138¶ · 17324w · vocab 2669 (TTR 33%, hapax 54%)\\n\\n## Distinctive trigrams\\n\\\"act body man\\\" · \\"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 19,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.19 of charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 19,
+      "paragraph_id": "p-58abeb"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 19,
+      "paragraph_id": "p-86ba05"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 19,
+      "paragraph_id": "p-2f6110"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 19,
+      "paragraph_id": "p-464ecb"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 19,
+      "paragraph_id": "p-ac7a86"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 19,
+      "paragraph_id": "p-9df582"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 19,
+      "paragraph_id": "p-cc5bd0"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 19,
+      "paragraph_id": "p-742914"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 19,
+      "paragraph_id": "p-0f4a3a"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 19,
+      "paragraph_id": "p-3e3598"
+    },
+    {
+      "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+      "chapter_number": 19,
+      "paragraph_id": "p-bd84fd"
+    }
+  ],
+  "duration_ms": 45753,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 43876,
+    "completion_tokens": 3978,
+    "total_tokens": 47854,
+    "cached_tokens": 13578,
+    "api_calls": 5,
+    "cost_usd": 0.0087275,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1926,
+        "completion_tokens": 563,
+        "total_tokens": 2489,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006442
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2273,
+        "completion_tokens": 384,
+        "total_tokens": 2657,
+        "cached_tokens": 150,
+        "cost_usd": 0.0006241
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3483,
+        "completion_tokens": 295,
+        "total_tokens": 3778,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00056195
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 7924,
+        "completion_tokens": 302,
+        "total_tokens": 8226,
+        "cached_tokens": 3478,
+        "cost_usd": 0.0012141
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter"
+        ],
+        "prompt_tokens": 28270,
+        "completion_tokens": 2434,
+        "total_tokens": 30704,
+        "cached_tokens": 7919,
+        "cost_usd": 0.00568315
+      }
+    ]
+  }
+}

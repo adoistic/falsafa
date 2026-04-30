@@ -1,0 +1,480 @@
+{
+  "answer": "**The corpus contains limited explicit descriptions of judgment after death, primarily in Christian Old English texts that envision a final Doomsday reckoning where souls and bodies are reunited, judged by God for earthly deeds, and assigned eternal rewards or torments.[^1]**\n\n### Key Work with Direct Description\n- **Old English Elegies** (ch. 10: \"Soul and Body II\"): This poem features a soul addressing its former body after death, describing how the soul visits the corpse repeatedly until Doomsday. On that \"great day,\" God (the \"Almighty Measurer\" and \"Lord\") will judge both body and soul together for sins, laying bare all \"wounds\" (deeds), demanding account for every part of the body, and condemning them eternally to hellish miseries if unrepentant. The soul laments preparing \"the hard necessity of hell’s torments\" through fleshly lusts, foreseeing no refuge.[^2]\n\n### Works with Brief Mentions or Allusions (Poetic/Eschatological References)\nThese invoke Judgment Day (qayamat/doomsday/Great Day) as a future reckoning but lack detailed descriptions of the process, often metaphorically:\n- **Diwan-E-Ghalib** (multiple ghazals): Frequent poetic uses of \"final judgment,\" \"Judgment Day,\" or \"qayamat\" (e.g., ch. 35, 123, 163, 229; ch. 5, 6, 90, etc.).[^3]\n- **Diwan-E-Zauq** (e.g., ch. 16, 36, 37): Alludes to Judgment Day as a time of divine reckoning.[^4]\n- **Bang-E-Dara Part 1** (ch. 4), **Part 2** (ch. 23), **Part 3** (ch. 6): References to Judgment Day sun, tumult, or Day of Reckoning in mystical contexts.[^5]\n- **Juliana** (Cynewulf; closing prayer, ch. 1): Brief plea for mercy on the \"Great Day\" when the Trinity as \"Judge of deeds\" assigns eternal \"rewards for their works.\"[^6]\n\nNo other works (e.g., Indic Smṛtis like Yama Smṛti, which mention Yama as death's chastiser in legal contexts, or economic treatises) provide descriptions of post-mortem judgment. Searches for related terms (e.g., \"trial after death,\" \"weighed souls,\" \"bridge after death,\" \"hell punishment\") yielded zero or irrelevant poetic hits. Cynewulf's *Andreas* and *Elene* have no direct references in wiki scans or searches.[^7]\n\n[^1]: https://works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/\n[^2]: get_passage(unknown-old-english-elegies-d5fe9e, 10, paragraph_ids: [\"p-7f7247\",\"p-00ea0f\",\"p-ccab58\",\"p-34bcc7\"]) → https://works/unknown-old-english-elegies-d5fe9e/10-soul-and-body-ii/translation/#p-7f7247 (highlights all).\n[^3]: Representative: https://works/mirza-ghalib-diwan-e-ghalib-74ed4c/35-dil-se-teri-nigaah-jigar-tak-utar-gayi/translation/#p-50c9b3\n[^4]: https://works/sheikh-ibrahim-zauq-diwan-e-zauq-0fa798/16-ek-sadma-dard-e-dil-se-meri-jaan-par-toh-hai/translation/#p-55381f\n[^5]: https://works/allama-iqbal-bang-e-dara-part-1-55b25c/04-jinhein-main-dhoondta-tha-aasmanon-mein-zameenon-m/translation/#p-b3fe18\n[^6]: https://works/cynewulf-juliana-9a2157/01/translation/#p-1f8ce8\n[^7]: Corpus-wide searches returned ~50 hits, mostly Urdu poetry metaphors; no Indic afterlife judgment details in English translations.",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "judgment after death",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "judgement after death",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "day of judgment",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "final judgment",
+        "limit": 50
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "trial after death",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "judged after death",
+        "limit": 50
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "judgment day",
+        "limit": 50
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "day of reckoning",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "last judgment",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "after death judgment",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "resurrection judgment",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hereafter judgment",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"weighed in the balance\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bridge after death",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "doomsday",
+        "limit": 20
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "last day",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "day of doom",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hell punishment",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "after death punishment",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yama judge",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "judged souls",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "weighed souls",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 10
+      },
+      "result_summary": "Read ch.10 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "yama",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "hell fire",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "punishment hereafter",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "account deeds",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Juliana · ch.1\\nverse · 45¶ · 5890w · vocab 1213 (TTR 42%, hapax 59%)\\n\\n## Distinctive trigrams\\n\\\"king hell inhabitants\\\" · \\\"dark power reigned\\"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "Listed 1 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d"
+      },
+      "result_summary": "Listed 2 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d"
+      },
+      "result_summary": "{\"markdown\":\"# Yama Smṛti\\nYama · Ancient · sanskrit · verse · 2 chapters · 4,467 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"fined one hundred\\\" · \\\"his sacred fire\\\""
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"last judgment\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"day of judgement\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 10,
+      "paragraph_id": "p-7f7247"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 10,
+      "paragraph_id": "p-00ea0f"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 10,
+      "paragraph_id": "p-ccab58"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 10,
+      "paragraph_id": "p-34bcc7"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 10,
+      "paragraph_id": "p-50c9b3"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 10,
+      "paragraph_id": "p-55381f"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 10,
+      "paragraph_id": "p-b3fe18"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 10,
+      "paragraph_id": "p-1f8ce8"
+    }
+  ],
+  "duration_ms": 48306,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 68464,
+    "completion_tokens": 5927,
+    "total_tokens": 74391,
+    "cached_tokens": 47244,
+    "api_calls": 6,
+    "cost_usd": 0.0095697,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 755,
+        "total_tokens": 2656,
+        "cached_tokens": 1888,
+        "cost_usd": 0.0004745
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4738,
+        "completion_tokens": 687,
+        "total_tokens": 5425,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012686
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8623,
+        "completion_tokens": 963,
+        "total_tokens": 9586,
+        "cached_tokens": 4733,
+        "cost_usd": 0.00149615
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 12864,
+        "completion_tokens": 784,
+        "total_tokens": 13648,
+        "cached_tokens": 8618,
+        "cost_usd": 0.0016721
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 19001,
+        "completion_tokens": 1121,
+        "total_tokens": 20122,
+        "cached_tokens": 12859,
+        "cost_usd": 0.00243185
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21337,
+        "completion_tokens": 1617,
+        "total_tokens": 22954,
+        "cached_tokens": 18996,
+        "cost_usd": 0.0022265
+      }
+    ]
+  }
+}

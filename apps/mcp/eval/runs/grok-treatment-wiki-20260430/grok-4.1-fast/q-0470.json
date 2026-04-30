@@ -1,0 +1,256 @@
+{
+  "answer": "**No works in the Falsafa corpus provide explicit discussions of poetic craft or style, such as treatises on metrics, rhetoric, composition techniques, or genre theory (e.g., nothing akin to Aristotle's *Poetics* or Horace's *Ars Poetica*).**\n\nThe corpus includes poetry exemplifying craft—such as Cynewulf's Old English alliterative verse (*Andreas*, *Elene*, *Juliana*), Iqbal's Urdu nazms and ghazals (*Bang-E-Dara* parts 1–3), and Ghalib's ghazals (*Diwan-E-Ghalib*)—but these are creative works, not analytical ones.[^1][^2][^3] Indic *kakawin* like *Kunjarakarna Dharmakathana* invoke poetry's patrons (e.g., Buddha) and nod to prior poets, yet remain narrative verse.[^4]\n\nPassing mentions occur in philosophical prose:\n- Charles Comte's *Traité de la propriété* (Vol. II, ch. 31) uses poems (e.g., Virgil's *Aeneid*, Thomson's *The Seasons*) to argue for literary property rights, not craft.[^5]\n- *Smṛti* texts (e.g., *Aṅgirasa Smṛti*, *Bṛhaspati Smṛti*) reference ritual verses or musical rhythm, but only prescriptively.[^6]\n\nSelf-reflective lines appear in Urdu poetry (e.g., Ghalib on poetry's path; Iqbal's \"Shair\" on the poet's role), but these are lyrical, not didactic.[^7] Searches for terms like \"poetics,\" \"poetic craft,\" \"meter,\" \"rhyme,\" and \"rhythm\" yielded no analytical discussions.[^8]\n\nThe corpus prioritizes philosophy, law (*smṛti*), and political theory over literary theory; poetry serves thematic ends.[^9]",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poetics",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poetic craft",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"art of poetry\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"poetic style\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "meter verse",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"craft of verse\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetics"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "poetry"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poetry",
+        "limit": 20
+      },
+      "result_summary": "Found 17 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "verse",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "poem",
+        "limit": 20
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "meter",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rhyme",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rhythm",
+        "limit": 20
+      },
+      "result_summary": "Found 4 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a"
+      },
+      "result_summary": "{\"markdown\":\"# Kunjarakarna Dharmakathana\\nMpu Dusun · Medieval · kawi · prose · 1 chapters · 17,973 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homage feet lord\\\" · \\\""
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "mirza-ghalib-diwan-e-ghalib-74ed4c"
+      },
+      "result_summary": "{\"markdown\":\"# Diwan-E-Ghalib\\nMirza Ghalib · 19th Century · urdu · verse · 113 chapters · 17,963 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"soul deep need\\\" · \\\"witho"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-1-55b25c"
+      },
+      "result_summary": "{\"markdown\":\"# Bang-E-Dara Part 1\\nAllama Iqbal · 20th Century · urdu · verse · 27 chapters · 6,750 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"homeland land mine\\\" · \\"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "charles-comte-traite-de-la-propriete-vol-ii-6beea5",
+        "chapter_number": 31
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Traité de la propriété: VOL II · ch.31\\nprose · 48¶ · 5507w · vocab 1011 (TTR 41%, hapax 56%)\\n\\n## Distinctive trigrams\\n\\\"according common law"
+    }
+  ],
+  "citations": [],
+  "duration_ms": 40390,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 42953,
+    "completion_tokens": 3948,
+    "total_tokens": 46901,
+    "cached_tokens": 22202,
+    "api_calls": 4,
+    "cost_usd": 0.007234299999999999,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1900,
+        "completion_tokens": 744,
+        "total_tokens": 2644,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0004691
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2345,
+        "completion_tokens": 531,
+        "total_tokens": 2876,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0004516
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 16095,
+        "completion_tokens": 1725,
+        "total_tokens": 17820,
+        "cached_tokens": 2340,
+        "cost_usd": 0.0037305
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 22613,
+        "completion_tokens": 948,
+        "total_tokens": 23561,
+        "cached_tokens": 16090,
+        "cost_usd": 0.0025831
+      }
+    ]
+  }
+}

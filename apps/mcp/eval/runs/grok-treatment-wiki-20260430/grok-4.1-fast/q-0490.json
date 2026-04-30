@@ -1,0 +1,529 @@
+{
+  "answer": "**The *Manusmṛti* (Laws of Manu) offers the most explicit and detailed discussion of child-rearing in the corpus, focusing primarily on the upbringing of male children of the \"twice-born\" castes (Brahmana, Kshatriya, and Vaishya).**[^1]\n\nChapter 2 describes the timing and manner of initiation (*upanayana*) into studentship (*brahmacarya*), marking the \"second birth.\" For example, initiation occurs in the eighth year from conception for a Brahmana (or fifth for sacred proficiency), the eleventh (or sixth) for a Kshatriya, and the twelfth (or eighth) for a Vaishya.[^2] The chapter outlines the student's duties: wearing prescribed girdle, sacred thread, and staff; begging alms; serving the *guru*; daily rites like tending the fire, twilight worship, and Vedic recitation; sensory restraint; prohibitions (e.g., avoiding women, meat, perfumes); and rules of conduct toward the *guru*, his family, and elders.[^3] It emphasizes purity, self-control, and Vedic study as the path to spiritual perfection.[^4]\n\nChapter 3 extends this by prescribing the transition to householder life via marriage after completing studentship (e.g., after studying one, two, or three Vedas), selecting suitable brides, and rules for conjugal duties to produce righteous offspring.[^5]\n\n**Shorter treatments appear in other Indic *smṛti* texts, often in legal or ritual contexts rather than comprehensive upbringing guides.** For instance:\n\n- *Aṅgirasa Smṛti* and *Bṛhaspati Smṛti* discuss adoption rules, sonship hierarchies, penances adjusted for children/elderly, and pupil duties, but not holistic rearing.[^6]\n- *Kātyāyaṇa Smṛti* covers pupil-teacher relations (e.g., service duration, breaches like misuse of pupils), inheritance, and *vidyādhana* (learning-based wealth).[^7]\n- *Viṣṇu Smṛti* (chs. 28–32) details pupil etiquette (e.g., clasping teacher's feet), honoring *guru*-figures (mother, father, teacher), and related vows.[^8]\n\nFrench political works (*Traité de la Propriété*, *Traité de Législation*, *Nouveau Traité d'Économie*) mention children's education incidentally (e.g., economic benefits enabling better upbringing or physical training in civilized societies), without prescriptive \"how-to\" guidance.[^9]\n\nNo works cover modern-style child-rearing (e.g., psychology, parenting techniques); discussions are ritualistic, caste-specific, and Vedic-focused. Poetry and other genres lack such content.\n\n[^1]: *Manusmṛti*, [ch.2](/works/unknown-manusmrti-347b76/02/translation/).\n\n[^2]: *Manusmṛti*, [ch.2](/works/unknown-manusmrti-347b76/02/translation/#p-64fab3).\n\n[^3]: *Manusmṛti*, [ch.2](/works/unknown-manusmrti-347b76/02/translation/#p-50308c).\n\n[^4]: *Manusmṛti*, [ch.2](/works/unknown-manusmrti-347b76/02/translation/#p-5ac6c9).\n\n[^5]: *Manusmṛti*, [ch.3](/works/unknown-manusmrti-347b76/03/translation/#p-ca7ef5).\n\n[^6]: *Aṅgirasa Smṛti*, [ch.1](/works/unknown-angirasa-smrti-2bf9d1/01/translation/); *Bṛhaspati Smṛti*, [ch.1](/works/unknown-brhaspati-smrti-0fd070/01/translation/).\n\n[^7]: *Kātyāyaṇa Smṛti*, [wiki card](/works/unknown-katyayana-smrti-1e06d2/wiki/_work.card.md).\n\n[^8]: *Viṣṇu Smṛti*, [wiki card](/works/unknown-visnu-smrti-27f0d8/wiki/_work.card.md).\n\n[^9]: E.g., Charles Comte, *Traité de la Propriété: VOL I*, [ch.7](/works/charles-comte-traite-de-la-propriete-vol-i-2c7a99/07-du-territoire-propre-a-chaque-nation/translation/#p-b57864).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "education of children",
+        "limit": 30
+      },
+      "result_summary": "Found 3 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "raising children",
+        "limit": 30
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "upbringing of children",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "children should be",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"children\" education",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "educate children",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "child rearing",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "children upbringing",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"education\" children",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "education young",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "education"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "politics"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "education children",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"young\" education",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "raise children",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "children trained",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "educating children",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "children",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "child",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sons",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "education youth",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2"
+      },
+      "result_summary": "{\"markdown\":\"# Nāradasmṛti\\nNārada · Ancient · sanskrit · prose · 1 chapters · 27,765 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"violence `sāhasam` साहसम्\\\" · \\\"adul"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"teach\" child",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "teach son",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"train\" children",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "discipline child",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "student",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pupil",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmacarin",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "brahmacarya",
+        "limit": 30
+      },
+      "result_summary": "Found 15 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.2\\nverse · 249¶ · 7444w · vocab 1401 (TTR 38%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"tying sacred girdle\\\" · \\\"according rule mn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6",
+        "chapter_number": 1
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Yājñavalkya Smṛti · ch.1\\nverse · 385¶ · 11526w · vocab 2487 (TTR 41%, hapax 66%)\\n\\n## Distinctive trigrams\\n\\\"according his ability\\\" · \\\"acco"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2"
+      },
+      "result_summary": "{\"markdown\":\"# Kātyāyana Smṛti\\nKātyāyana · Ancient · sanskrit · prose · 80 chapters · 29,889 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"incur first amercement\\\" · "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yama-smrti-552f8d"
+      },
+      "result_summary": "{\"markdown\":\"# Yama Smṛti\\nYama · Ancient · sanskrit · verse · 2 chapters · 4,467 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"fined one hundred\\\" · \\\"his sacred fire\\\""
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2,
+        "paragraph_ids": [
+          "p-64fab3",
+          "p-69ef7f"
+        ]
+      },
+      "result_summary": "Returned 2 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-64fab3"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-50308c"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-5ac6c9"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-ca7ef5"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-b57864"
+    }
+  ],
+  "duration_ms": 79472,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 188618,
+    "completion_tokens": 8947,
+    "total_tokens": 197565,
+    "cached_tokens": 138303,
+    "api_calls": 9,
+    "cost_usd": 0.021451650000000003,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 516,
+        "total_tokens": 2417,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0003553
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2770,
+        "completion_tokens": 941,
+        "total_tokens": 3711,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0007416
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 3146,
+        "completion_tokens": 543,
+        "total_tokens": 3689,
+        "cached_tokens": 2765,
+        "cost_usd": 0.00048595
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6764,
+        "completion_tokens": 770,
+        "total_tokens": 7534,
+        "cached_tokens": 3141,
+        "cost_usd": 0.00126665
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 18743,
+        "completion_tokens": 1022,
+        "total_tokens": 19765,
+        "cached_tokens": 6759,
+        "cost_usd": 0.00324575
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "list_chapters"
+        ],
+        "prompt_tokens": 19980,
+        "completion_tokens": 1141,
+        "total_tokens": 21121,
+        "cached_tokens": 18738,
+        "cost_usd": 0.0017558
+      },
+      {
+        "api_call_index": 7,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 31269,
+        "completion_tokens": 807,
+        "total_tokens": 32076,
+        "cached_tokens": 19975,
+        "cost_usd": 0.00366105
+      },
+      {
+        "api_call_index": 8,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 51894,
+        "completion_tokens": 1573,
+        "total_tokens": 53467,
+        "cached_tokens": 31264,
+        "cost_usd": 0.0064757
+      },
+      {
+        "api_call_index": 9,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage"
+        ],
+        "prompt_tokens": 52151,
+        "completion_tokens": 1634,
+        "total_tokens": 53785,
+        "cached_tokens": 51889,
+        "cost_usd": 0.00346385
+      }
+    ]
+  }
+}

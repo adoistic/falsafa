@@ -1,0 +1,235 @@
+{
+  "answer": "Cynewulf embeds his name as a runic acrostic signature at the close of *Elene* and *Juliana* (as well as *Andreas*), a rare explicit self-assertion of authorship in Old English verse.[^1][^2] These signatures appear as a sequence of runes (ᚳᚣᚾᛖᚹᚢᛚᚠ, transliterated as *C Y N E W U L F*) formed by the initial letters of words in a personal, penitential passage. In *Elene*, Cynewulf reflects on his sinful life, weaving his name amid pleas for salvation: \"A was secg oth that cnyssed cearwelmum, / C drusende... Y gnornode / N gefera... enge rune... E fore... W is geswithrad... U was geara... L toglideth... F aghwam bith.\"[^3] Similarly, *Juliana* ends: \"Yeomor hweorfeth C Y ond N, / Chyning bith rethe... synnum fah E W ond U / acle bidath... L F beofath.\"[^4] This pattern personalizes the poems' conclusions, shifting from hagiographic narrative to the poet's *I*-voiced confession of sin (\"Ic was weorcum fah, synnum asaled\"), hope for divine mercy, and craft (\"leothucraft onleac\"). It asserts authorial presence as a flawed individual seeking eternal reward, blending humility with bold inscription.\n\nIn contrast, the Old English elegies in the corpus (*The Wanderer*, *The Seafarer*, *Widsith*, etc.) maintain near-total anonymity, typical of the genre.[^5] No named poet emerges; \"authorial presence\" manifests indirectly through dramatic *I*-speakers who embody archetypal exile (*anhaga*), loss, or wandering (*wraecwthmood* in *The Wanderer*, ch. 11). These voices evoke collective Anglo-Saxon anxieties—transience (*eorla eal gesweacað*, \"all the might of earls decays\")—without personal signatures or biographical intrusion.[^6] The effect is impersonal universality: the speaker is *everyman*, not a historical \"Cynewulf.\" Refrains like \"Thus spoke the wanderer...\" (ch. 11) frame the voice as exemplary, not proprietary.[^7]\n\nCynewulf's runes thus innovate against this anonymous norm, \"relating\" as a deliberate rupture. Elegies prioritize communal lament (e.g., *Maxims I*, ch. 6: gnomic wisdom without ego); Cynewulf claims the text as his artifact (*wordcraftum waf*, \"wove with wordcraft\"), akin to a sculptor's mark. This elevates authorship from submerged tradition to visible individuality, perhaps compensating for oral anonymity or seeking prayers for his soul. Yet both modes share Christian penitence: elegies' speakers yearn for divine consolation (*heofona healm*, \"heaven's protection\"); Cynewulf's signature explicitly ties craft to salvation. The elegies' \"closeness to anonymity\" underscores Cynewulf's exceptionality in a corpus otherwise favoring veiled presence.[^8]\n\n[^1]: *Cynewulf - Elene*, ch. 1 (transliteration), [full chapter](/works/cynewulf-elene-d2d132/01/translation/#p-624562).\n[^2]: *Cynewulf - Juliana*, ch. 1 (transliteration), [full chapter](/works/cynewulf-juliana-9a2157/01/translation/#p-01394b).\n[^3]: *Elene*, ch. 1 [passage](/works/cynewulf-elene-d2d132/01/transliteration/#p-624562) (final ~100 lines).\n[^4]: *Juliana*, ch. 1 [passage](/works/cynewulf-juliana-9a2157/01/transliteration/#p-01394b) (final ~20 lines).\n[^5]: *Old English Elegies* (17 chapters); no authorial names in wiki or texts. See ch. 11 (*The Wanderer*), [full](/works/unknown-old-english-elegies-d5fe9e/11/translation/).\n[^6]: *The Wanderer*, ch. 11 [passage](/works/unknown-old-english-elegies-d5fe9e/11/translation/#p-992aeb) (\"Where has the horse gone? Where the young man?... All earth's kingdom is dreary\").\n[^7]: Ibid., refrain structure noted in wiki card.\n[^8]: Corpus wiki cards flag no signatures in elegies; Cynewulf's are statistically distinctive (e.g., \"enge rune\" unique trigram in *Elene*).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "author": "cynewulf"
+      },
+      "result_summary": "Listed 3 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "elegy"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Cynewulf runic signature"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"runic signature\" Elene Juliana"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Old English elegy anonymous"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573"
+      },
+      "result_summary": "{\"markdown\":\"# Andreas\\nCynewulf · Medieval · old-english · verse · 1 chapters · 12,387 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"andreas gave answer\\\" · \\\"holy one l"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Cynewulf"
+      },
+      "result_summary": "Found 6 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rune"
+      },
+      "result_summary": "Found 22 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "signature"
+      },
+      "result_summary": "Found 11 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-elene-d2d132 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-juliana-9a2157 (transliteration)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "cynewulf-andreas-07b573",
+        "chapter_number": 1,
+        "variant": "transliteration"
+      },
+      "result_summary": "Read ch.1 of cynewulf-andreas-07b573 (transliteration)"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-elene-d2d132"
+      },
+      "result_summary": "{\"markdown\":\"# Elene\\nCynewulf · Medieval · old-english · verse · 1 chapters · 8,573 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"men holy city\\\" · \\\"chosen people learn"
+    },
+    {
+      "name": "read_wiki_full",
+      "args": {
+        "work_slug": "cynewulf-juliana-9a2157"
+      },
+      "result_summary": "{\"markdown\":\"# Juliana\\nCynewulf · Medieval · old-english · verse · 1 chapters · 5,890 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"king hell inhabitants\\\" · \\\"dark powe"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-624562"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-01394b"
+    },
+    {
+      "work_slug": "cynewulf-andreas-07b573",
+      "chapter_number": 1,
+      "paragraph_id": "p-992aeb"
+    }
+  ],
+  "duration_ms": 52469,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 81565,
+    "completion_tokens": 4840,
+    "total_tokens": 86405,
+    "cached_tokens": 13601,
+    "api_calls": 4,
+    "cost_usd": 0.016692850000000002,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1926,
+        "completion_tokens": 687,
+        "total_tokens": 2613,
+        "cached_tokens": 150,
+        "cost_usd": 0.0007062
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 2922,
+        "completion_tokens": 732,
+        "total_tokens": 3654,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009279
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "list_chapters",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 10389,
+        "completion_tokens": 1182,
+        "total_tokens": 11571,
+        "cached_tokens": 2917,
+        "cost_usd": 0.00223125
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki_full",
+          "read_wiki_full"
+        ],
+        "prompt_tokens": 66328,
+        "completion_tokens": 2239,
+        "total_tokens": 68567,
+        "cached_tokens": 10384,
+        "cost_usd": 0.0128275
+      }
+    ]
+  }
+}

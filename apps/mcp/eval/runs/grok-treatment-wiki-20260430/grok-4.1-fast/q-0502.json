@@ -1,0 +1,231 @@
+{
+  "answer": "Several works in the Falsafa corpus engage with the figure of the trader or merchant, primarily in the ancient Indian Smṛti legal and social texts (e.g., as members of guilds, varṇa categories like Vaiśyas or Śūdras, subjects of taxation, partnership rules, sales regulations, or moral/legal admonitions). These discussions often frame merchants in economic, judicial, or ethical contexts. Modern or poetic works reference them more metaphorically or in critiques of commerce (e.g., slave trading). Below is a list of relevant works, grouped by tradition, with key examples.\n\n### Smṛti Texts (Legal/Dharma Literature)\n- **Bṛhaspati Smṛti**: Mentions merchants (alongside Brahmins, Vaiśyas, artisans) in urban planning, tolls, partnerships, arrests, and as potential thieves or cheats.[^1]\n- **Kātyāyana Smṛti**: Discusses merchants attending courts as assessors, forming guilds (*pūga*), partnership shares, and recovery tactics from debtors.[^2]\n- **Manusmṛti**: References merchants in taxation (after assessing profit/loss), interest rates for sea-traders, and social treatment akin to Śūdras.[^3]\n- **Nāradasmṛti**: Extensive engagement, including exemptions for sea-faring merchants, partnership rules, tolls, sales/profits for stationary vs. traveling merchants, and deceit in trade.[^4]\n- **Slokantara**: Identifies merchants/traders as Śūdras born from Brahmā's feet, whose duty is buying/selling/commerce.[^5]\n- **Viṣṇu Smṛti**: Condemns the fraudulent trader as deserving penance (alms for a year).[^6]\n\n### Poetry\n- **Bang-E-Dara Part 2 (Allama Iqbal)**: Uses \"merchant\" metaphorically for the poet who finds \"profit in despair,\" rejecting heavenly rewards.[^7]\n\n### Modern Philosophical Texts\n- **Traité de Législation (Charles Comte, Vols. II–IV)**: Critiques slave traders in discussions of African commerce, feudal parallels, and slavery's social effects.[^8]\n\nNo other works in the corpus (37 total) show substantive engagement based on searches for \"merchant,\" \"trader,\" and related terms.\n\n[^1]: *Bṛhaspati Smṛti*, Chapter 1, [p-193272](/works/unknown-brhaspati-smrti-0fd070/01/translation/#p-193272).\n[^2]: *Kātyāyana Smṛti*, Chapter 5, [p-2d58e7](/works/unknown-katyayana-smrti-1e06d2/05/translation/#p-2d58e7).\n[^3]: *Manusmṛti*, Chapter 8, [p-350ada](/works/unknown-manusmrti-347b76/08/translation/#p-350ada).\n[^4]: *Nāradasmṛti*, Chapter 1, [p-e3f118](/works/unknown-naradasmrti-7650d2/01/translation/#p-e3f118).\n[^5]: *Slokantara*, Chapter 1, [p-605381](/works/unknown-slokantara-d7a628/01/translation/#p-605381).\n[^6]: *Viṣṇu Smṛti*, Chapter 54, [p-63e265](/works/unknown-visnu-smrti-27f0d8/54/translation/#p-63e265).\n[^7]: *Bang-E-Dara Part 2*, Chapter 1, [p-fa96c7](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/01-chamak-teri-ayaan-bijli-mein-aatish-mein-sharare-m/translation/#p-fa96c7).\n[^8]: *Traité de Législation: VOL II*, Chapter 12, [p-b59bcb](/works/charles-comte-traite-de-legislation-vol-ii-20331d/12-du-developpement-intellectuel-acquis-en-afrique-et/translation/#p-b59bcb).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "merchant",
+        "limit": 30
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "trader",
+        "limit": 30
+      },
+      "result_summary": "Found 16 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "trade commerce",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "merchant trader",
+        "limit": 30
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-brhaspati-smrti-0fd070",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-193272"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 5,
+        "paragraph_ids": [
+          "p-2d58e7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-350ada"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-e3f118"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-slokantara-d7a628",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-605381"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 54,
+        "paragraph_ids": [
+          "p-63e265"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-fa96c7"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+        "chapter_number": 12,
+        "paragraph_ids": [
+          "p-b59bcb"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 12,
+      "paragraph_id": "p-193272"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 12,
+      "paragraph_id": "p-2d58e7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 12,
+      "paragraph_id": "p-350ada"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 12,
+      "paragraph_id": "p-e3f118"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 12,
+      "paragraph_id": "p-605381"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 12,
+      "paragraph_id": "p-63e265"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 12,
+      "paragraph_id": "p-fa96c7"
+    },
+    {
+      "work_slug": "charles-comte-traite-de-legislation-vol-ii-20331d",
+      "chapter_number": 12,
+      "paragraph_id": "p-b59bcb"
+    }
+  ],
+  "duration_ms": 31554,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 18346,
+    "completion_tokens": 3978,
+    "total_tokens": 22324,
+    "cached_tokens": 3922,
+    "api_calls": 3,
+    "cost_usd": 0.0050699000000000004,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1901,
+        "completion_tokens": 475,
+        "total_tokens": 2376,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0003348
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 7416,
+        "completion_tokens": 1804,
+        "total_tokens": 9220,
+        "cached_tokens": 1886,
+        "cost_usd": 0.0021023
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 9029,
+        "completion_tokens": 1699,
+        "total_tokens": 10728,
+        "cached_tokens": 150,
+        "cost_usd": 0.0026328
+      }
+    ]
+  }
+}

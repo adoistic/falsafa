@@ -1,0 +1,293 @@
+{
+  "answer": "**'The Wife's Lament'** (ch. 3 of *Old English Elegies*) depicts a speaker—a wife—exiled and confined to a remote, inhospitable location by her lord amid kin feuds, voicing profound isolation and grief.[^1] A representative passage capturing her physical and emotional confinement:\n\n> I was bid to dwell in a wooded grove,  \n> under an oak tree in this earth-cave.  \n> Ancient this earth-hall, I am filled with longing.  \n> The dales are dim, the dunes are high,  \n> bitter the boroughs, with briars overgrown,  \n> a home without joy. Often his going  \n> has gripped me with grief.[^2]\n\n**Manusmṛti** Book 5 (ch. 5) focuses primarily on dietary laws and purification rather than women's roles directly (though it notes impurities from contact with menstruating women). Domestic constraints on women appear prominently in Book 9 (ch. 9), which prescribes lifelong male guardianship and household duties to prevent ruin. A representative passage:\n\n> Her father protects her in childhood, her husband protects her in youth, and her sons protect her in old age; a woman is never fit for independence.[^3]\n\n> Women must be made dependent by their men day and night; and those who are attached to sense-objects must be kept under one's own control.[^4]\n\nThe constraints do not presuppose identical conceptions of womanhood—*The Wife's Lament* (Anglo-Saxon, ~10th c.) portrays a noblewoman enduring punitive isolation amid tribal feuds, emphasizing her loyal suffering and elegiac voice rather than inherent incapacity. Manusmṛti (Indic, ~2nd c. BCE–2nd c. CE) doctrinally frames women as perpetually dependent, sensually fickle, and requiring confinement to household roles for lineage purity and dharma.[^5] Yet both share patriarchal presuppositions: women as vulnerable to external threats (feuds, promiscuity) without male authority, justifying seclusion for protection/order, with deviation risking familial ruin.\n\n[^1]: *Old English Elegies*, ch. 3 (/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/).\n[^2]: *Old English Elegies*, ch. 3 (/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/#p-c1cc32).\n[^3]: *Manusmṛti*, ch. 9 (/works/unknown-manusmrti-347b76/09/translation/#p-233021).\n[^4]: *Manusmṛti*, ch. 9 (/works/unknown-manusmrti-347b76/09/translation/#p-27f62f).\n[^5]: *Manusmṛti*, ch. 9 (/works/unknown-manusmrti-347b76/09/translation/#p-026db5).",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Wife's Lament"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manu book 5 woman"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Manusmriti domestic constraint woman"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "Listed 12 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"wife's lament\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "wife lament confined"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"woman\" duty husband manu"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.3\\nprose · 6¶ · 407w · vocab 165 (TTR 77%, hapax 81%)\\n\\n## Distinctive trigrams\\n\\\"under oak tree\\\" · \\\"oak tree earth-ca"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.5\\nverse · 106¶ · 3213w · vocab 848 (TTR 51%, hapax 72%)\\n\\n## Distinctive trigrams\\n\\\"heron mode life\\\" · \\\"brahmana never eat\\\" ·"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"under tree\" wife OR lament"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "woman husband duty OR obedience manu"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.3 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 5,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.5 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 8
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.8\\nprose · 1¶ · 389w · vocab 144 (TTR 80%, hapax 82%)\\n\\n## Distinctive trigrams\\n\\\"two old days\\\" · \\\"old days often\\\" · "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"woman\" OR \"wife\" OR \"female\" duty OR dependence OR obedience OR constraint OR confined manu",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "variant": "translation"
+      },
+      "result_summary": "Read ch.9 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.9\\nverse · 155¶ · 10149w · vocab 1606 (TTR 34%, hapax 62%)\\n\\n## Distinctive trigrams\\n\\\"son shudra wife\\\" · \\\"established rule mn_"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3,
+        "paragraph_ids": [
+          "p-c1cc32"
+        ]
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 3,
+      "paragraph_id": "p-c1cc32"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 3,
+      "paragraph_id": "p-233021"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 3,
+      "paragraph_id": "p-27f62f"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 3,
+      "paragraph_id": "p-026db5"
+    }
+  ],
+  "duration_ms": 49738,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 102162,
+    "completion_tokens": 5692,
+    "total_tokens": 107854,
+    "cached_tokens": 26153,
+    "api_calls": 6,
+    "cost_usd": 0.019355450000000003,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1933,
+        "completion_tokens": 593,
+        "total_tokens": 2526,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00040095
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 5420,
+        "completion_tokens": 651,
+        "total_tokens": 6071,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00112735
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "list_chapters",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 8581,
+        "completion_tokens": 382,
+        "total_tokens": 8963,
+        "cached_tokens": 150,
+        "cost_usd": 0.0018847
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 13520,
+        "completion_tokens": 860,
+        "total_tokens": 14380,
+        "cached_tokens": 8576,
+        "cost_usd": 0.0018476
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 22583,
+        "completion_tokens": 1491,
+        "total_tokens": 24074,
+        "cached_tokens": 13515,
+        "cost_usd": 0.00323485
+      },
+      {
+        "api_call_index": 6,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "read_chapter",
+          "read_wiki",
+          "get_passage"
+        ],
+        "prompt_tokens": 50125,
+        "completion_tokens": 1715,
+        "total_tokens": 51840,
+        "cached_tokens": 150,
+        "cost_usd": 0.01086
+      }
+    ]
+  }
+}

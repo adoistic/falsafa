@@ -1,0 +1,286 @@
+{
+  "answer": "In the Smṛti corpus, *tīrtha* (तीर्थ; often Anglicized as *tirtha*) primarily denotes a sacred \"ford,\" \"crossing-place,\" or pilgrimage site—typically associated with rivers, confluences, lakes, mountains, or other natural loci—where ritual bathing (*snāna*), ancestral offerings (*śrāddha*), libations (*tarpaṇa*), or other rites confer purification from sins (*pāpa*), especially for ancestors (*pitṛs*).[^1] [^2] It embodies a liminal space for spiritual transition, metaphorically extending to \"moving tīrthas\" like righteous Brāhmaṇas.[^3] A secondary, ritual usage refers to the four \"tīrthas\" (sacred parts) of the hand employed in sipping water (*ācamana*) for purification: *Brahma-tīrtha* (base of thumb), *deva-tīrtha* (fingertips), *pitṛ-tīrtha* (between thumb and forefinger), and *prājāpatya-tīrtha* (palm base).[^4] [^5] Brāhmaṇas must sip using *Brahma*, *deva*, or *kaya-tīrtha*, avoiding *pitṛ-tīrtha*.[^6]\n\n### Key Roles and Merits\n- **Purification and Expiation**: Bathing at a *tīrtha* equals or exceeds penances (*prāyaścitta*, *kṛcchra*). E.g., 100 baths in a great river expiates abandoning ancestral rites; no expiation rivals bathing, especially at sacred fords.[^7] A *tīrtha*-bath equals *Vyāhṛtis* recitation or Vedic rites.[^8]\n- **Ancestral Satisfaction (*Pitṛ-kṛpa*)**: *Śrāddhas* at *tīrthas* are \"imperishable\" (*akṣaya*), granting eternal bliss. E.g., Puṣkara *śrāddha* is *akṣaya*.[^9]\n- **Hierarchy**: Gaṅgā > other rivers > tīrthas; Brāhmaṇas embody all tīrthas/rivers.[^10]\n\n### Prominent Tīrthas Listed\nViṣṇu Smṛti 85 enumerates ~60+ *tīrthas* (many rivers/banks/confluences) where bathing/rites purify \"from all sins,\" esp. for *śrāddha*:[^11]\n- Puṣkara, Gayāśīrṣa (Vaṭa), Amarakaṇṭaka, Varāha mountain, Narmadā/Yamunā/Gaṅgā banks.\n- Kuśāvarta, Binduka, Nīla mountain, Kanakhala, Kubjāmra, Bhṛgutuṅga, Kedāra.\n- Prabhāsa, Sarasvatī, Gaṅgādvāra/Prayāga, Gaṅgā-ocean confluence.\n- Naimiṣa forest, Vārāṇasī, Agastya/Kaṇva hermitages, Kauśikī/Sarayū, Śoṇa-Jyotiṣā.\n- Godāvarī, Gomatī, Vetravatī, Vipāśā, Vitastā, Śatadrū, Candrabhāgā, Irāvatī, Sindhu, Pañcanada, etc.\nParaśara and Aṅgirasa echo river-baths (*snāna*) for expiation; pilgrimage (*tīrtha-yātrā*) equals penances.[^12] [^13]\n\nThe corpus (37 works; Smṛtis like Manu, Viṣṇu, Yājñavalkya, Paraśara, Aṅgirasa, etc.) emphasizes *tīrthas* for Kali Yuga efficacy, but not every text lists them exhaustively—focus is ritual/ethical utility over geography.\n\n[^1]: Paraśara Smṛti, ch.12, [para.](/works/unknown-parasara-smrti-2259be/12/translation/#p-756f13).\n[^2]: Aṅgirasa Smṛti, ch.1, [para.](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-e61dcc).\n[^3]: Paraśara Smṛti, ch.6, [para.](/works/unknown-parasara-smrti-2259be/06/translation/#p-3f3769).\n[^4]: Manu Smṛti, ch.2, [para.](/works/unknown-manusmrti-347b76/02/translation/#p-b0b95e).\n[^5]: Yājñavalkya Smṛti, ch.1, [para.](/works/unknown-yajnavalkya-smrti-cb88d6/01/translation/#p-d918cb).\n[^6]: Viṣṇu Smṛti, ch.62, [para.](/works/unknown-visnu-smrti-27f0d8/62/translation/#p-81316f).\n[^7]: Aṅgirasa Smṛti, ch.1, [para.](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-a96e03).\n[^8]: Ibid., [para.](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-e61dcc).\n[^9]: Viṣṇu Smṛti, ch.85, [para.](/works/unknown-visnu-smrti-27f0d8/85/translation/#p-a49b09).\n[^10]: Paraśara Smṛti, ch.12, [para.](/works/unknown-parasara-smrti-2259be/12/translation/#p-0e2f81); Viṣṇu Smṛti, ch.85, [passage](/works/unknown-visnu-smrti-27f0d8/85/translation/#p-cf3e32).\n[^11]: Viṣṇu Smṛti, ch.85, [passage](/works/unknown-visnu-smrti-27f0d8/85/translation/#p-cf3e32).\n[^12]: Paraśara Smṛti, ch.12, [passage](/works/unknown-parasara-smrti-2259be/12/translation/#p-ce3b1c).\n[^13]: Aṅgirasa Smṛti, ch.1, [para.](/works/unknown-angirasa-smrti-2bf9d1/01/translation/#p-a96e03).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tirtha",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "smriti",
+        "limit": 20
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "smriti"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "pilgrimage"
+      },
+      "result_summary": "Found 21 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tīrtha"
+      },
+      "result_summary": "Found 20 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tirtha"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "ford"
+      },
+      "result_summary": "Found 30 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"holy place\""
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "bathing",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8"
+      },
+      "result_summary": "{\"markdown\":\"# Viṣṇu Smṛti\\nViṣṇu · Ancient · sanskrit · verse · 100 chapters · 49,517 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"highest amercement vi_5\\\" · \\\"vi_9"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-yajnavalkya-smrti-cb88d6"
+      },
+      "result_summary": "{\"markdown\":\"# Yājñavalkya Smṛti\\nYājñavalkya · Ancient · sanskrit · verse · 3 chapters · 27,854 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 6
+      },
+      "result_summary": "Read ch.6 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-parasara-smrti-2259be (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-angirasa-smrti-2bf9d1",
+        "chapter_number": 1
+      },
+      "result_summary": "Read ch.1 of unknown-angirasa-smrti-2bf9d1 (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 85
+      },
+      "result_summary": "Read ch.85 of unknown-visnu-smrti-27f0d8 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-parasara-smrti-2259be"
+      },
+      "result_summary": "{\"markdown\":\"# Parāśara Smṛti\\nParāśara · Ancient · sanskrit · verse · 12 chapters · 19,086 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"*prāyaścitta* प्रायश्चित्त re"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 85
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Viṣṇu Smṛti · ch.85\\nverse · 70¶ · 568w · vocab 130 (TTR 57%, hapax 84%)\\n\\n## Distinctive trigrams\\n\\\"**vishnu smriti 85**\\\" · \\\"smriti 85** *ś"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 2
+      },
+      "result_summary": "Read ch.2 of unknown-manusmrti-347b76 (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-756f13"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-e61dcc"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-3f3769"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-b0b95e"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-d918cb"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-81316f"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-a96e03"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-a49b09"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-0e2f81"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-cf3e32"
+    },
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 2,
+      "paragraph_id": "p-ce3b1c"
+    }
+  ],
+  "duration_ms": 59494,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 150968,
+    "completion_tokens": 5025,
+    "total_tokens": 155993,
+    "cached_tokens": 26784,
+    "api_calls": 4,
+    "cost_usd": 0.0286885,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1908,
+        "completion_tokens": 515,
+        "total_tokens": 2423,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0003565
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 4762,
+        "completion_tokens": 1265,
+        "total_tokens": 6027,
+        "cached_tokens": 1885,
+        "cost_usd": 0.00130215
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki"
+        ],
+        "prompt_tokens": 18263,
+        "completion_tokens": 1236,
+        "total_tokens": 19499,
+        "cached_tokens": 4757,
+        "cost_usd": 0.00355705
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_wiki",
+          "read_wiki",
+          "read_chapter"
+        ],
+        "prompt_tokens": 126035,
+        "completion_tokens": 2009,
+        "total_tokens": 128044,
+        "cached_tokens": 18258,
+        "cost_usd": 0.0234728
+      }
+    ]
+  }
+}

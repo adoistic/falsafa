@@ -1,0 +1,259 @@
+{
+  "answer": "**The corpus contains one work of Old English elegies: *Old English Elegies*, an anthology of 17 short poems.**[^1]\n\nSeveral of these elegies evoke the Anglo-Saxon *comitatus* ideal of loyalty between a man (often a thane or retainer) and his lord (*dryhten*, gold-friend, ring-giver, or treasure-giver), typically through themes of loss, exile (*wræcsith*), and lament after the lord's death or separation. The most explicit examples are:\n\n- **The Wanderer** (ch. 11): The lone wanderer (*anhaga*) mourns his dead \"gold-friend\" (lord), from whom he is exiled after the hall and retainers are destroyed. He recalls embracing his \"liege-lord\" (*hlaford*), longing for past counsel and gifts at the \"gift-throne\" (*giefstol*), and notes how \"hall-warriors\" and \"proud young thanes\" served such lords before *wyrd* (fate) scattered them.[^2][^3]\n  \n- **Deor** (ch. 13): The poet (*scop*) Deor laments his displacement from the \"Heodenings'\" court, where he had been \"dear to my lord\" (*dryhten leof*) with a good following, until a rival took his place and *land-riht* (land-right). The refrain \"That passed over; so may this\" (*Þæs ofereode, þisses swa mæg*) frames sorrows including lost lordship.[^4]\n\nOther elegies allude more obliquely:\n- **The Seafarer** (ch. 5) notes no man has \"a lord so dear\" (*dryhten swa deore*) without anxiety over fate.[^5]\n- **Maxims I** (ch. 6) proverbially describes a queen passing the cup first to \"her lord's hand\" (*hlafordes hand*) amid retainers.[^6]\n- **The Wife's Lament** (ch. 3) depicts a woman's separation from *her* lord due to kinsmen's feuding, but the focus is female.[^7]\n\nNo other Old English works in the corpus (e.g., Cynewulf's *Andreas*, *Elene*, *Juliana*) are elegies or center this theme.[^8]\n\n[^1]: *Old English Elegies*, [work](/works/unknown-old-english-elegies-d5fe9e/).\n[^2]: *Old English Elegies*, ch. 11 (*The Wanderer*), [p-9462cc](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/#p-9462cc).\n[^3]: *Old English Elegies*, ch. 11 (*The Wanderer*), [full chapter](/works/unknown-old-english-elegies-d5fe9e/11-the-wanderer/translation/).\n[^4]: *Old English Elegies*, ch. 13 (*Deor*), [p-6b7e51](/works/unknown-old-english-elegies-d5fe9e/13-welund-him-be-wurman-wraeces-cunnade/translation/#p-6b7e51).\n[^5]: *Old English Elegies*, ch. 5 (*The Seafarer*), [p-549618](/works/unknown-old-english-elegies-d5fe9e/05-maey-ich-be-me-sylfum-soth-yied-wrekan-sithas-seya/translation/#p-549618).\n[^6]: *Old English Elegies*, ch. 6 (*Maxims I*), [p-84cf09](/works/unknown-old-english-elegies-d5fe9e/06-maxims-i/translation/#p-84cf09).\n[^7]: *Old English Elegies*, ch. 3 (*The Wife's Lament*), [full chapter](/works/unknown-old-english-elegies-d5fe9e/03-ik-this-giedd-wreche-bi-me-ful-geomorre/translation/).\n[^8]: Search results across *Andreas*, *Elene*, *Juliana* yielded only incidental \"thane\" mentions, not elegiac man-lord relations.",
+  "tool_calls": [
+    {
+      "name": "list_works",
+      "args": {
+        "language": "old-english"
+      },
+      "result_summary": "Listed 4 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "elegy"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "era": "anglo-saxon"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"his lord\" OR \"my lord\" OR \"fallen lord\" OR \"lord's death\" OR comitatus OR \"man and lord\" OR \"retainer\" OR thane old english",
+        "limit": 20
+      },
+      "result_summary": "Found 13 hits"
+    },
+    {
+      "name": "list_chapters",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "Listed 17 chapters"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e"
+      },
+      "result_summary": "{\"markdown\":\"# Old English Elegies\\nUnknown · Medieval · old-english · prose · 14 chapters · 10,481 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"devour dare come\\\" · \\\"d"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"his lord\" OR \"my lord\" OR \"lord\" OR \"liege lord\" OR \"fallen lord\" OR \"lost lord\" OR dryhten OR \"lord's\" OR comitatus OR \"treasure giver\" OR \"ring giver\" OR \"gold lord\" elegy OR wanderer OR seafarer",
+        "limit": 20
+      },
+      "result_summary": "Found 1 hits"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 11-the-wanderer.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 6
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.6\\nprose · 1¶ · 1955w · vocab 603 (TTR 60%, hapax 70%)\\n\\n## Distinctive trigrams\\n\\\"often she blamed\\\" · \\\"she blamed vic"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.12\\nprose · 1¶ · 650w · vocab 260 (TTR 74%, hapax 83%)\\n\\n## Distinctive trigrams\\n\\\"god own child\\\" · \\\"own child welcome"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 1
+      },
+      "result_summary": "error WIKI_FILE_MISSING: Wiki card missing: 01-fela-bith-on-foldan-forthgesynra-geongra-geofona-t.card.md. Run: bun run scripts/build-wiki.ts --work unknown-old-english-elegies-d5fe9e"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 7
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.7\\nprose · 3¶ · 757w · vocab 347 (TTR 79%, hapax 82%)\\n\\n## Distinctive trigrams\\n\\\"gave life unveiled\\\" · \\\"life unveiled"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 14
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Old English Elegies · ch.14\\nprose · 10¶ · 1137w · vocab 397 (TTR 74%, hapax 80%)\\n\\n## Distinctive trigrams\\n\\\"widsith spoke unlocked\\\" · \\\"spoke "
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"his lord\" OR \"my lord\" OR \"dead lord\" OR \"lost lord\" OR \"fallen lord\" OR \"lord's hall\" OR dryhten OR \"goldlord\" OR \"treasure-giver\" OR \"ring-giver\" \"old english elegies\"",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 11
+      },
+      "result_summary": "Read ch.11 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 5
+      },
+      "result_summary": "Read ch.5 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 3
+      },
+      "result_summary": "Read ch.3 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 13
+      },
+      "result_summary": "Read ch.13 of unknown-old-english-elegies-d5fe9e (translation)"
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-old-english-elegies-d5fe9e",
+        "chapter_number": 16
+      },
+      "result_summary": "Read ch.16 of unknown-old-english-elegies-d5fe9e (translation)"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-9462cc"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-6b7e51"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-549618"
+    },
+    {
+      "work_slug": "unknown-old-english-elegies-d5fe9e",
+      "chapter_number": 16,
+      "paragraph_id": "p-84cf09"
+    }
+  ],
+  "duration_ms": 66985,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 61099,
+    "completion_tokens": 6610,
+    "total_tokens": 67709,
+    "cached_tokens": 29291,
+    "api_calls": 5,
+    "cost_usd": 0.01113115,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 857,
+        "total_tokens": 2761,
+        "cached_tokens": 1882,
+        "cost_usd": 0.000527
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_works",
+          "list_works",
+          "list_works",
+          "search_corpus"
+        ],
+        "prompt_tokens": 4157,
+        "completion_tokens": 808,
+        "total_tokens": 4965,
+        "cached_tokens": 150,
+        "cost_usd": 0.0012129
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "list_chapters",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 6346,
+        "completion_tokens": 1427,
+        "total_tokens": 7773,
+        "cached_tokens": 4152,
+        "cost_usd": 0.0013599
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "read_wiki",
+          "search_corpus"
+        ],
+        "prompt_tokens": 21231,
+        "completion_tokens": 1467,
+        "total_tokens": 22698,
+        "cached_tokens": 1881,
+        "cost_usd": 0.00469755
+      },
+      {
+        "api_call_index": 5,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter",
+          "read_chapter"
+        ],
+        "prompt_tokens": 27461,
+        "completion_tokens": 2051,
+        "total_tokens": 29512,
+        "cached_tokens": 21226,
+        "cost_usd": 0.0033338
+      }
+    ]
+  }
+}

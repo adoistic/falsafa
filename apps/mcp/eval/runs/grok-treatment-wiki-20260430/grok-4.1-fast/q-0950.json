@@ -1,0 +1,186 @@
+{
+  "answer": "In the *Manusmṛti*, the Sanskrit term *guṇa* (गुण) is employed with explicit technical precision drawn from Sāṃkhya philosophy, designating the three fundamental constituents (*sattva*, *rajas*, *tamas*) of the Self (*ātman*) and all manifested reality. These are not mere descriptive \"qualities\" or \"attributes\" in a generic sense (as English translations often render them), but dynamic, pervasive principles that bind the Great One (*mahān*) to beings, determine mental states, ethical propensities, actions (*karma*), and rebirths across cosmic cycles.[^1]\n\n*Sattva* embodies knowledge, purity, tranquility, and virtue—yielding heavenly or divine births; *rajas*, passion, aversion, and worldly striving—leading to human or semi-divine states; *tamas*, ignorance, delusion, and inertia—resulting in subhuman or hellish forms.[^2] Whatever *guṇa* predominates \"makes that embodied being predominantly of that *guṇa*,\" shaping perception, conduct (e.g., *sāttvic* actions like Vedic study promote fame and Dharma; *tāmasic* ones like cruelty lead to bestial wombs), and ultimate soteriological trajectory.[^3]\n\nEnglish terms like \"quality\" or \"attribute\" dilute this by evoking static properties (e.g., color or shape), stripping *guṇa*'s Sāṃkhya specificity: they are the evolutes of *prakṛti* (primordial nature), eternally intermingled yet hierarchically ordered (*sattva* > *rajas* > *tamas*), driving saṃsāra until transcended via knowledge (*jñāna*). The *Manusmṛti* thus warns: fix the mind on Dharma to favor *sattva*, lest *tamas* prevail.[^4]\n\nNo primary Sāṃkhya texts (e.g., *Sāṃkhyakārikā*) are in the corpus, but this integration in *Manusmṛti* 12 illustrates *guṇa*'s doctrinal weight across Dharmaśāstra.\n\n[^1]: *Manusmṛti*, ch. 12, [para. p-074f6e](https://falsafa.corpus/works/unknown-manusmrti-347b76/12/translation/#p-074f6e) (Mn_12.23–25).\n[^2]: *Manusmṛti*, ch. 12, [para. p-074f6e](https://falsafa.corpus/works/unknown-manusmrti-347b76/12/translation/#p-074f6e) (Mn_12.26–29, 31–38).\n[^3]: *Manusmṛti*, ch. 12, [para. p-074f6e](https://falsafa.corpus/works/unknown-manusmrti-347b76/12/translation/#p-074f6e) (Mn_12.24–25, 39–51).\n[^4]: *Manusmṛti*, ch. 12, [whole chapter](https://falsafa.corpus/works/unknown-manusmrti-347b76/12/translation/) (esp. Mn_12.23, 125).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "guna sattva rajas tamas",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Samkhya guna",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"sattva\" \"rajas\" \"tamas\"",
+        "limit": 20
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "genre": "Indian"
+      },
+      "result_summary": "Listed 0 works"
+    },
+    {
+      "name": "list_works",
+      "args": {
+        "language": "Sanskrit"
+      },
+      "result_summary": "Listed 10 works"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "sattva",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "rajas",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "tamas",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "guna",
+        "limit": 10
+      },
+      "result_summary": "Found 10 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "Samkhya"
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "list_works",
+      "args": {},
+      "result_summary": "Listed 37 works"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "{\"markdown\":\"---\\ntextrank_confidence: low\\n---\\n\\n# Manusmṛti · ch.12\\nverse · 175¶ · 11459w · vocab 2094 (TTR 36%, hapax 63%)\\n\\n## Distinctive trigrams\\n\\\"his senses controlled\\\" · \\\"defiler guru "
+    },
+    {
+      "name": "read_chapter",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 12
+      },
+      "result_summary": "Read ch.12 of unknown-manusmrti-347b76 (translation)"
+    },
+    {
+      "name": "read_wiki",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76"
+      },
+      "result_summary": "{\"markdown\":\"# Manusmṛti\\nManu · Ancient · sanskrit · verse · 12 chapters · 80,689 words\\n\\n## Work-level distinctive trigrams (top-12 across all chapters)\\n\\\"according his ability\\\" · \\\"made pay fin"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-manusmrti-347b76",
+      "chapter_number": 12,
+      "paragraph_id": "p-074f6e"
+    }
+  ],
+  "duration_ms": 28577,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 50715,
+    "completion_tokens": 3393,
+    "total_tokens": 54108,
+    "cached_tokens": 16934,
+    "api_calls": 4,
+    "cost_usd": 0.0092994,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1922,
+        "completion_tokens": 498,
+        "total_tokens": 2420,
+        "cached_tokens": 1884,
+        "cost_usd": 0.0003508
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works",
+          "list_works"
+        ],
+        "prompt_tokens": 2929,
+        "completion_tokens": 736,
+        "total_tokens": 3665,
+        "cached_tokens": 150,
+        "cost_usd": 0.0009313
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "list_works"
+        ],
+        "prompt_tokens": 11981,
+        "completion_tokens": 712,
+        "total_tokens": 12693,
+        "cached_tokens": 2924,
+        "cost_usd": 0.0023136
+      },
+      {
+        "api_call_index": 4,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "read_wiki",
+          "read_chapter",
+          "read_wiki"
+        ],
+        "prompt_tokens": 33883,
+        "completion_tokens": 1447,
+        "total_tokens": 35330,
+        "cached_tokens": 11976,
+        "cost_usd": 0.0057037
+      }
+    ]
+  }
+}

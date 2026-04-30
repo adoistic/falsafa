@@ -1,0 +1,258 @@
+{
+  "answer": "The following works in the corpus contain explicit references to a \"procession,\" whether literal (e.g., bridal, funeral, religious, grand/official) or metaphorical (e.g., stars). No royal processions are mentioned. These are all instances; no other works in the corpus use the term.[^1]\n\n- **Bang-E-Dara Part 2** (Allama Iqbal): Metaphorical procession of stars.[^2]\n- **Kātyāyana Smṛti**: Bridal procession as a form of woman's property (*strīdhana* / *adhyāvāhanika*); repeated in context.[^3]\n- **Kunjarakarna Dharmakathana**: Glorious procession of *apsarī* (divine nymph) maidens.[^4]\n- **Manusmṛti**: Bridal procession as a form of woman's property (*strīdhana*); repeated in context.[^5]\n- **Nāradasmṛti**: Bridal procession as a form of woman's property (*strīdhana*); repeated in context.[^6]\n- **Nouveau traité d'économie: VOL I** (Charles Dunoyer): Religious processions to invoke healing.[^7]\n- **Nouveau traité d'économie: VOL II** (Charles Dunoyer): Religious processions to the fields for rain/sun.[^8]\n- **Traité de Législation: VOL IV** (Charles Comte): Grand procession of a mission chief.[^9]\n- **Viṣṇu Smṛti**: Funeral processions and purification rites after following one.[^10]\n\n[^1]: Based on full-corpus search across English translations for \"procession\" (14 total hits), \"royal procession,\" \"religious procession,\" \"cortege,\" and \"processional\" (0 hits each).\n\n[^2]: Allama Iqbal, *Bang-E-Dara Part 2*, [paragraph](/works/allama-iqbal-bang-e-dara-part-2-9bc58c/24-talaash/translation/#p-2ad271).\n\n[^3]: *Kātyāyana Smṛti*, [paragraph](/works/unknown-katyayana-smrti-1e06d2/75/translation/#p-b8596e).\n\n[^4]: *Kunjarakarna Dharmakathana*, [paragraph](/works/unknown-kunjarakarna-dharmakathana-894f4a/01/translation/#p-4de134).\n\n[^5]: *Manusmṛti*, [paragraph](/works/unknown-manusmrti-347b76/09/translation/#p-29f6da).\n\n[^6]: *Nāradasmṛti*, [paragraph](/works/unknown-naradasmrti-7650d2/01/translation/#p-6afbd3).\n\n[^7]: Charles Dunoyer, *Nouveau traité d'économie: VOL I*, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce/08-iii-liberte-compatible-avec-la-maniere-de-vivre-de/translation/#p-031e18).\n\n[^8]: Charles Dunoyer, *Nouveau traité d'économie: VOL II*, [paragraph](/works/charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03/17-vii-de-la-liberte-de-lindustrie-agricole-130/translation/#p-b81c0a).\n\n[^9]: Charles Comte, *Traité de Législation: VOL IV*, [paragraph](/works/charles-comte-traite-de-legislation-vol-iv-bca040/23-de-l-inegalite-des-fortunes-produite-par-l-esclava/translation/#p-33b512).\n\n[^10]: *Viṣṇu Smṛti*, [paragraph](/works/unknown-visnu-smrti-27f0d8/22/translation/#p-e02399).",
+  "tool_calls": [
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "procession",
+        "limit": 50
+      },
+      "result_summary": "Found 14 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"royal procession\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "\"religious procession\"",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "cortege",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "search_corpus",
+      "args": {
+        "query": "processional",
+        "limit": 10
+      },
+      "result_summary": "Found 0 hits"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "allama-iqbal-bang-e-dara-part-2-9bc58c",
+        "chapter_number": 24,
+        "paragraph_ids": [
+          "p-2ad271"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-katyayana-smrti-1e06d2",
+        "chapter_number": 75,
+        "paragraph_ids": [
+          "p-b8596e"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-kunjarakarna-dharmakathana-894f4a",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-4de134"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-manusmrti-347b76",
+        "chapter_number": 9,
+        "paragraph_ids": [
+          "p-29f6da"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-naradasmrti-7650d2",
+        "chapter_number": 1,
+        "paragraph_ids": [
+          "p-6afbd3"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-i-6da8ce",
+        "chapter_number": 8,
+        "paragraph_ids": [
+          "p-031e18"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-dunoyer-nouveau-traite-deconomie-vol-ii-d6ae03",
+        "chapter_number": 17,
+        "paragraph_ids": [
+          "p-b81c0a"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "charles-comte-traite-de-legislation-vol-iv-bca040",
+        "chapter_number": 23,
+        "paragraph_ids": [
+          "p-33b512"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    },
+    {
+      "name": "get_passage",
+      "args": {
+        "work_slug": "unknown-visnu-smrti-27f0d8",
+        "chapter_number": 22,
+        "paragraph_ids": [
+          "p-e02399"
+        ],
+        "variant": "translation"
+      },
+      "result_summary": "Returned 1 passages"
+    }
+  ],
+  "citations": [
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 22,
+      "paragraph_id": "p-2ad271"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 22,
+      "paragraph_id": "p-b8596e"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 22,
+      "paragraph_id": "p-4de134"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 22,
+      "paragraph_id": "p-29f6da"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 22,
+      "paragraph_id": "p-6afbd3"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 22,
+      "paragraph_id": "p-031e18"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 22,
+      "paragraph_id": "p-b81c0a"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 22,
+      "paragraph_id": "p-33b512"
+    },
+    {
+      "work_slug": "unknown-visnu-smrti-27f0d8",
+      "chapter_number": 22,
+      "paragraph_id": "p-e02399"
+    }
+  ],
+  "duration_ms": 25395,
+  "from_run": "grok-treatment-wiki-20260430",
+  "usage": {
+    "prompt_tokens": 20910,
+    "completion_tokens": 4002,
+    "total_tokens": 24912,
+    "cached_tokens": 2188,
+    "api_calls": 3,
+    "cost_usd": 0.0058548,
+    "model": "x-ai/grok-4.1-fast",
+    "usage_per_call": [
+      {
+        "api_call_index": 1,
+        "trigger": "initial",
+        "prompt_tokens": 1904,
+        "completion_tokens": 457,
+        "total_tokens": 2361,
+        "cached_tokens": 150,
+        "cost_usd": 0.0005868
+      },
+      {
+        "api_call_index": 2,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus",
+          "search_corpus"
+        ],
+        "prompt_tokens": 3972,
+        "completion_tokens": 1835,
+        "total_tokens": 5807,
+        "cached_tokens": 1888,
+        "cost_usd": 0.0014287
+      },
+      {
+        "api_call_index": 3,
+        "trigger": "tool-result",
+        "preceded_by": [
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage",
+          "get_passage"
+        ],
+        "prompt_tokens": 15034,
+        "completion_tokens": 1710,
+        "total_tokens": 16744,
+        "cached_tokens": 150,
+        "cost_usd": 0.0038393
+      }
+    ]
+  }
+}
