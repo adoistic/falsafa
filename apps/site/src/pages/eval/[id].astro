@@ -6,6 +6,7 @@ import "../../styles/eval.css";
 import { listChapters } from "../../lib/corpus";
 import { linkifyHtml } from "../../lib/eval-paragraph-link";
 import { passOf } from "../../lib/eval-types";
+import { armOfModelId, isAbMode } from "../../lib/eval-arms";
 import type { EvalJson, EvalCase } from "../../lib/eval-types";
 import type { GetStaticPaths } from "astro";
 import { readFileSync } from "node:fs";
@@ -35,10 +36,13 @@ export const getStaticPaths = (() => {
   const evalJsonPath = resolve(process.cwd(), "public", "eval.json");
   const data = JSON.parse(readFileSync(evalJsonPath, "utf-8")) as EvalJson;
 
-  // Resolve A/B arm ids (or fall back to single-model legacy).
-  const baselineModel = data.models.find((m) => m.id.endsWith("__baseline"));
-  const wikiModel = data.models.find((m) => m.id.endsWith("__wiki"));
-  const abMode = !!(baselineModel && wikiModel);
+  // Resolve A/B arm ids (or fall back to single-model legacy). Use the
+  // canonical `isAbMode` + `armOfModelId` from eval-arms.ts — the spec's
+  // "single canonical predicate" rule (Resolved arm-label convention) so
+  // arm-suffix changes only need to be edited in one place.
+  const baselineModel = data.models.find((m) => armOfModelId(m.id) === "baseline");
+  const wikiModel = data.models.find((m) => armOfModelId(m.id) === "wiki");
+  const abMode = isAbMode(data.models);
   const primaryModelId = data.models[0]?.id;
 
   return data.cases.map((c) => ({

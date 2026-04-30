@@ -195,7 +195,7 @@ first:
 ```
 
 - Default selection: `All`.
-- Hash-syncs as `#diff=flips-pass`, `#diff=flips-fail`, etc., so URLs are
+- Hash-syncs as `#compare=flips-pass`, `#compare=flips-fail`, etc., so URLs are
   shareable.
 - Chip counts are appended live (`Flips → pass (12)`, `Flips → fail (3)`)
   so the magnitude of each comparison story is visible before a click.
@@ -403,7 +403,7 @@ Since the rest is presentation-layer:
 2. Build after wiki finishes. Confirm partial caption disappears.
 3. Filter chips: click `Flips → pass`, confirm only flip-to-pass cases
    render and the count matches. Same for the other chips.
-4. Hash sync: load `/eval/#diff=flips-pass`, confirm chip is selected.
+4. Hash sync: load `/eval/#compare=flips-pass`, confirm chip is selected.
 5. Case detail: load `/eval/q-0405/`, confirm tabs default to Baseline,
    delta strip visible, both arms' numbers correct. Click `Wiki` tab,
    confirm hash updates and content swaps.
