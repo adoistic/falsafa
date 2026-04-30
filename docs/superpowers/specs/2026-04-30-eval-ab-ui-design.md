@@ -29,6 +29,10 @@ at all. The A/B story is silently buried.
 - **Changing the scoring metric.** Substring `mechanical_pass` (with NFKD
   diacritic fold) stays as the headline pass for the deadline. The graded
   3-state score is queued separately in `TODOS.md`.
+- **Anticipating the graded 3-state score in the v1 UI.** v1 stays
+  pass/fail boolean. When the graded rework lands (TODOS.md ⚠ section),
+  pills + filter chips will be redesigned together — accepted v2 cost.
+  (Decision D1 from /plan-eng-review 2026-04-30.)
 - **Cross-model comparison surface.** This design covers a single model
   (Grok 4.1 Fast) split across two arms. Multi-model A/B (e.g. Grok-baseline
   vs Sonnet-baseline) is out of scope.
@@ -41,33 +45,63 @@ at all. The A/B story is silently buried.
 
 ## Architecture overview
 
-Three files change. No data-model changes — `eval.json` and `eval-index.json`
-already carry per-arm data via the `__baseline` / `__wiki` model-label suffix
-introduced in `919df5c`.
+Five files touched (3 modified + 2 new). No data-model changes —
+`eval.json` and `eval-index.json` already carry per-arm data via the
+`__baseline` / `__wiki` model-label suffix introduced in `919df5c`.
+
+### `apps/site/src/lib/eval-arms.ts` (NEW)
+
+Pure helpers used by header, case list, case detail, and tests:
+
+- `armOfModelId(modelId)` → `"baseline" | "wiki" | null`
+- `isAbMode(models)` → boolean (true ⇔ both arms present)
+- `armVerdicts(c, baselineId, wikiId)` →
+  `{ baseline: boolean | null, wiki: boolean | null }` — null when that
+  arm has no result for this case (i.e. "pending"). DRYs the truth-table
+  computation that case-row, filter-pipeline, and chip-counts all need.
+
+### `apps/site/src/lib/__tests__/eval-arms.test.ts` (NEW)
+
+`bun:test` (matches existing convention at
+`apps/site/src/lib/byok-download.test.ts`). Covers the helpers per the
+"Testing" section below.
 
 ### `apps/site/src/islands/eval-explorer/EvalExplorer.tsx`
 
 - **Header:** rebuild from `models.map()` rendering peer pills into a single
-  `EvalHeader` component that detects 1-arm vs 2-arm modes and renders
-  accordingly. 2-arm mode produces the two-column scoreboard described in
-  Section 1 below. 1-arm mode falls back to the existing layout (preserves
-  legacy single-model runs).
+  `EvalHeader` component that calls `isAbMode()` to pick layout. 2-arm
+  mode produces the two-column scoreboard (Section 1). 1-arm mode falls
+  back to the existing layout (preserves legacy single-model runs).
 - **Case list:** `CaseRow` switches from one verdict pill to two
-  (`B` / `W` labeled), pulling each arm's `mechanical_pass` from
-  `c.results[modelLabel]`. New filter chip group above the existing
-  tier/category filters.
+  (`B` / `W` labeled) when in 2-arm mode, pulling each arm's
+  `mechanical_pass` via `armVerdicts()`. Single-arm mode keeps today's
+  one-pill rendering — IRON RULE: a regression test locks this down.
+- **FilterBar:** when `isAbMode()` is true, the existing pass/fail/unjudged
+  chip group is REPLACED (hidden) with a new comparison chip group
+  (Section 2). When false, today's chip group renders unchanged.
+  (Decision D3 from /plan-eng-review 2026-04-30.)
+- **Filter pipeline (`Loaded.filteredCases`):** when comparison filter is
+  active, filters by `armVerdicts()` tuple per the truth table.
 
 ### `apps/site/src/pages/eval/[id].astro`
 
-- Add tab control at the top of the article body.
-- Add the always-visible "delta strip" above the tab content.
-- Tab content is the existing single-model layout, parameterised by which
-  arm is active.
+- View-model reads both arms' results into the page props at build time
+  (both `marked.parse + DOMPurify + linkifyHtml` chains run twice — ~4-5s
+  total build vs today's 3.5s, acceptable).
+- **Tab implementation:** plain `<a href="#wiki">` / `<a href="#baseline">`
+  anchors + a CSS `:target` rule that toggles which content section is
+  visible. Zero JS, zero new island, browser back/forward works for free.
+  (Decision D2 from /plan-eng-review 2026-04-30.)
+- Always-visible "delta strip" rendered above the tab content.
+- Both arms' content sections rendered into the page; the `:target` rule
+  hides the inactive one.
 
 ### `apps/site/src/styles/eval.css`
 
-- New styles for the two-column header, tinted column backgrounds, the
-  two-pill row layout, the filter chip group, and the tab control.
+- New styles for the two-column header, tinted column backgrounds with
+  the `--arm-baseline-bg` / `--arm-wiki-bg` / `--arm-divider` tokens
+  (concrete values in Section 1), the two-pill row layout, the filter
+  chip group, and the `:target`-driven tab control.
 
 ---
 
@@ -333,7 +367,36 @@ baseline-only, wiki-only, both-arms, mixed-with-untagged, empty input.
 
 ## Testing
 
-Manual smoke tests, since this is presentation-layer:
+### CRITICAL: Single-arm fallback regression test (IRON RULE)
+
+The diff modifies an existing path (case list / case detail rendering when
+only one model is in `data.models`). No existing test covers it. Per the
+/plan-eng-review IRON RULE, a regression test is mandatory:
+
+`apps/site/src/islands/eval-explorer/__tests__/single-arm-regression.test.ts`:
+
+- Render `EvalExplorer` with `data.models = [{ id: "grok-4.1-fast" }]`
+  (untagged single-model legacy fixture).
+- Assert: header renders today's layout (single pill row), filter bar
+  shows pass/fail chip group, case rows show one verdict pill.
+- Render with `data.models = [{ id: "grok-4.1-fast__baseline" }]` (one
+  arm tagged but no wiki). Assert same single-arm layout.
+- Locks down that the existing UI is untouched when `isAbMode()` returns
+  false.
+
+### Filter pipeline unit test (D5 decision)
+
+`apps/site/src/islands/eval-explorer/__tests__/filter.test.ts`:
+
+- For each of the 5 comparison chips (`flips-pass`, `flips-fail`,
+  `both-pass`, `both-fail`, `pending-wiki`), assert the case set returned
+  matches the truth table in Section 2.
+- Cover all 6 (baseline, wiki) tuples per chip = ~30 cases. Pure
+  function, runs in <1s via `bun:test`.
+
+### Manual smoke tests
+
+Since the rest is presentation-layer:
 
 1. Build with full baseline (1,120) + partial wiki (e.g. 329). Confirm the
    header shows two columns, partial caption visible on wiki side.
@@ -365,3 +428,47 @@ helpers:
 - `isAbMode([{id:"grok-4.1-fast__wiki"}])` → `false` (wiki only)
 - `isAbMode([{id:"grok-4.1-fast__baseline"},{id:"grok-4.1-fast__wiki"}])` → `true`
 - `isAbMode([{id:"grok-4.1-fast__baseline"},{id:"grok-4.1-fast__wiki"},{id:"sonnet-4.6"}])` → `true` (still A/B even with extra untagged)
+
+## What already exists
+
+Existing components reused verbatim or extended (not replaced):
+
+- `Header()` already iterates `models.map()` — restructured layout, same iteration.
+- `CostRow` per-model already exists and continues working unchanged.
+- `FilterBar` chip-group pattern is the template for the new comparison chips.
+- `passOf()` from `eval-types.ts` continues as the single-arm verdict source — the new helpers compose with it, do not duplicate.
+- `EvalCaseResult.usage` (token + cost fields) already in the data; delta strip reads them as-is.
+
+## Failure modes
+
+For each new codepath:
+
+| Codepath | Failure mode | Test? | Error handling? | User sees? |
+|----------|--------------|-------|-----------------|-----------|
+| `armOfModelId(undefined)` | TypeError | YES (unit) | `null` return guards | Empty `Arm | null` — degrades to single-arm |
+| `isAbMode([])` (no data) | Renders empty header | YES (unit) | Existing "missing" state | "Eval data not yet generated" |
+| `armVerdicts()` w/ unknown modelId | Returns `{baseline:null,wiki:null}` | YES (unit) | Pending pill renders `—` | Greyed pill, filter respects pending |
+| `[id].astro` w/ `#wiki` but no wiki data | Wrong tab targeted | YES (manual smoke #5) | CSS `:target` falls through to `:not(:target)` default | Baseline tab renders, hash silently ignored |
+| Build doubles render time | Slower CI | NO (out of test scope) | None — accepted | None (3.5s → ~4.5s build) |
+| `eval-index.json` partial mid-run | Stale numbers | NO (data state, not code) | "partial · X/Y done" caption | Honest staleness signal |
+
+**No critical gaps** — every failure mode either has a test, has explicit error handling, or is signalled to the user.
+
+## Worktree parallelization strategy
+
+Sequential implementation, no parallelization opportunity. The five files
+form a tight dependency chain: `eval-arms.ts` → `EvalExplorer.tsx` (imports
+helpers) → `[id].astro` (imports same helpers) → `eval.css` (styles all
+above). Worktree-splitting offers no speed up here.
+
+## NOT in scope (deferred work)
+
+| Item | Why deferred |
+|------|--------------|
+| Graded 3-state score (pass/mixed/fail = 1/0.5/0) | Queued in TODOS.md as paper blocker. v1 is binary; v2 redesign when graded lands. (D1) |
+| Side-by-side answer prose on case detail | Tabs are v1; revisit if "memory burden" of flipping becomes painful. |
+| Cost-delta surface ("wiki saves $X / case") | Useful for paper; v2 once both arms finish running. |
+| Per-category × per-arm matrix | Lives in build logs; explorer doesn't need it. |
+| Cross-model A/B (Grok-baseline vs Sonnet-baseline) | Different question (which model is best?), separate UI design. |
+| Automated E2E (Playwright) for visual flows | Manual smoke + unit tests on filter logic + regression test on single-arm. |
+| Showing both answers' diff inline (textual diff highlight) | v2; tabs handle the v1 need. |
