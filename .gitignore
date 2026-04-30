@@ -8,6 +8,10 @@ node_modules/
 # Build outputs
 dist/
 build/
+# Exception: the wiki build pipeline lives at apps/mcp/lib/wiki/build/.
+# It's TypeScript source code, not a build artifact.
+!apps/mcp/lib/wiki/build/
+!apps/mcp/lib/wiki/build/**
 .next/
 .astro/
 .output/
