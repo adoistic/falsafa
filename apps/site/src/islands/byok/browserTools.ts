@@ -365,20 +365,43 @@ function splitIntoParagraphs(
   body: string,
   workSlug: string,
   chapterNumber: number,
-): Array<{ paragraph_id: string; index: number; text: string }> {
-  const blocks = body.split(/\n\s*\n+/g);
-  const out: Array<{ paragraph_id: string; index: number; text: string }> = [];
+): Array<{ paragraph_id: string; index: number; text: string; offset: number }> {
+  // Track byte offset of each block start so the records satisfy the
+  // ParagraphRecord shape. The annotation pass in read_chapter ignores
+  // these synthetic ids (they don't start with `p-`) so the offset is
+  // only meaningful for downstream tooling that knows what to do with it.
+  const out: Array<{ paragraph_id: string; index: number; text: string; offset: number }> = [];
+  let cursor = 0;
   let i = 0;
-  for (const block of blocks) {
+  const re = /\n\s*\n+/g;
+  let lastEnd = 0;
+  let m: RegExpExecArray | null;
+  while ((m = re.exec(body)) !== null) {
+    const block = body.slice(lastEnd, m.index);
     const text = block.trim();
-    if (!text) continue;
+    if (text) {
+      out.push({
+        paragraph_id: `${workSlug}/c${chapterNumber}/p${i}`,
+        index: i,
+        text,
+        offset: lastEnd,
+      });
+      i++;
+    }
+    lastEnd = m.index + m[0].length;
+    cursor = lastEnd;
+  }
+  // Tail block.
+  const tail = body.slice(lastEnd).trim();
+  if (tail) {
     out.push({
       paragraph_id: `${workSlug}/c${chapterNumber}/p${i}`,
       index: i,
-      text,
+      text: tail,
+      offset: lastEnd,
     });
-    i++;
   }
+  void cursor; // suppress unused-var warning if any
   return out;
 }
 
