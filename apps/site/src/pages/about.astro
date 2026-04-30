@@ -37,6 +37,48 @@ const fmt = (n: number) => n.toLocaleString("en-US");
       </p>
     </section>
 
+    <section id="sources">
+      <h2>Sources</h2>
+      <p>
+        The source texts the corpus is built from come from freely
+        available digital archives plus carefully transcribed printed
+        editions. We acknowledge each archive directly:
+      </p>
+      <ul class="about-sources">
+        <li>
+          <strong>Old English works</strong> (Cynewulf's <em>Juliana</em>,
+          <em>Elene</em>, <em>Andreas</em>; the <em>Old English Elegies</em>) —
+          drawn from <a href="https://sacred-texts.com/">sacred-texts.com</a>,
+          a long-standing public-domain archive of religious and
+          classical literature.
+        </li>
+        <li>
+          <strong>Indian texts</strong> (the Sanskrit smṛti corpus —
+          Manusmṛti, Yājñavalkya, Viṣṇu, Nārada, Bṛhaspati, Parāśara,
+          Aṅgirasa, and others) — drawn from
+          <a href="http://gretil.sub.uni-goettingen.de/gretil.html">GRETIL</a>,
+          the Göttingen Register of Electronic Texts in Indian Languages.
+        </li>
+        <li>
+          <strong>Allama Iqbal's poetry</strong> (the three parts of
+          <em>Bāng-i-Darā</em>) — drawn from
+          <a href="http://allamaiqbal.com">allamaiqbal.com</a>, the
+          Iqbal Academy Pakistan archive.
+        </li>
+        <li>
+          <strong>Mirza Ghalib and Sheikh Ibrahim Zauq</strong> (the
+          two Urdu diwans) — transcribed from various printed editions.
+        </li>
+      </ul>
+      <p>
+        Where the source is freely available online and we drew from
+        it, the link above goes directly to the archive. Where we
+        worked from printed books, we acknowledge that here. The
+        translations and transliterations layered on top of these
+        sources are described in the next section.
+      </p>
+    </section>
+
     <section>
       <h2>Thothica</h2>
       <p>
@@ -161,6 +203,18 @@ const fmt = (n: number) => n.toLocaleString("en-US");
     background: rgba(0, 0, 0, 0.05);
     padding: 2px 6px;
     border-radius: 3px;
+  }
+
+  .about-sources {
+    margin: var(--s-4) 0;
+    padding-left: var(--s-5);
+  }
+  .about-sources li {
+    margin-bottom: var(--s-3);
+    line-height: var(--lh-body);
+  }
+  .about-sources li:last-child {
+    margin-bottom: 0;
   }
 
   [data-theme="dark"] code,
