@@ -64,4 +64,27 @@ describe("linkifyHtml", () => {
     // No anchor wrapping inside the code element.
     expect(out).not.toMatch(/<code>[^<]*<a [^>]*>p-92c600<\/a>[^<]*<\/code>/);
   });
+
+  test("does NOT wrap a p-XXXXXX token inside an existing <a href> attribute", () => {
+    // Regression: when marked.parse rendered [paragraph](#p-XXXXXX) as
+    // <a href="...#p-XXXXXX">paragraph</a>, the old linkifyHtml found
+    // p-XXXXXX inside the href attribute and wrapped it in another anchor,
+    // producing nested <a> tags inside an attribute value. Browsers bailed
+    // out of the malformed outer anchor, leaking '">paragraph' as visible
+    // text. Real-world break: caught on /eval/q-0002/.
+    const html = `<p>See <a href="/works/foo/115-x/translation/#p-92c600">paragraph</a> for context.</p>`;
+    const citations: EvalCitation[] = [{
+      work_slug: "mirza-ghalib-diwan-e-ghalib-74ed4c",
+      chapter_number: 115,
+      paragraph_id: "p-92c600",
+    }];
+    const out = linkifyHtml(html, citations, fakeListChapters);
+    // The original anchor is preserved verbatim.
+    expect(out).toContain('<a href="/works/foo/115-x/translation/#p-92c600">paragraph</a>');
+    // Nothing nested inside it.
+    expect(out).not.toMatch(/<a [^>]*>\s*<a /);
+    // The orphan attribute-end pattern '">paragraph' must NOT appear (that
+    // was the visible artifact).
+    expect(out).not.toContain('">paragraph</a>">paragraph');
+  });
 });

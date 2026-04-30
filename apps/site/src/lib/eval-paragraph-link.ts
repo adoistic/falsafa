@@ -24,11 +24,22 @@ type ListChaptersFn = (workSlug: string) => ReadonlyArray<ChapterStub>;
 
 const TOKEN_RE = /\bp-[0-9a-f]{6}\b/g;
 
-// Splits the HTML into "code" segments (inside <pre>...</pre> or <code>...</code>)
+// Splits the HTML into "skip" segments (inside <pre>, <code>, OR <a> elements)
 // and "prose" segments. We only linkify prose. The split is conservative —
-// it doesn't try to be a real HTML parser; it just respects the two element
-// boundaries that matter for not breaking code rendering.
-const CODE_REGION_RE = /<(pre|code)\b[^>]*>[\s\S]*?<\/\1>/gi;
+// it doesn't try to be a real HTML parser; it just respects the element
+// boundaries that matter for not corrupting rendering.
+//
+// Why <a> is in the skip set:
+//   When marked.parse renders a markdown link like [paragraph](#p-XXXXXX),
+//   the result is <a href="...#p-XXXXXX">paragraph</a>. The token p-XXXXXX
+//   appears INSIDE the href attribute. Without skipping <a>, the regex
+//   replace would wrap that attribute-internal token in a nested anchor,
+//   producing <a href="...#<a href="...">p-XXXXXX</a>">paragraph</a> —
+//   invalid HTML that the browser parser bails out of, leaking the partial
+//   '">paragraph' text. linkifyHtml's only legitimate job is wrapping
+//   leaked-into-prose tokens; properly-formed anchors must pass through
+//   verbatim.
+const SKIP_REGION_RE = /<(pre|code|a)\b[^>]*>[\s\S]*?<\/\1>/gi;
 
 export function linkifyHtml(
   html: string,
@@ -44,15 +55,16 @@ export function linkifyHtml(
   // don't flood with repeats when the same missing chapter is cited many times.
   const warnedKeys = new Set<string>();
 
-  // Walk the HTML, copying code regions verbatim and linkifying everything else.
+  // Walk the HTML, copying skip regions (pre/code/a) verbatim and linkifying
+  // everything else.
   let out = "";
   let lastIdx = 0;
-  CODE_REGION_RE.lastIndex = 0;
+  SKIP_REGION_RE.lastIndex = 0;
   let m: RegExpExecArray | null;
-  while ((m = CODE_REGION_RE.exec(html)) !== null) {
+  while ((m = SKIP_REGION_RE.exec(html)) !== null) {
     const prose = html.slice(lastIdx, m.index);
     out += linkifyProse(prose, byPid, listChaptersFn, warnedKeys);
-    out += m[0];                                  // code region verbatim
+    out += m[0];                                  // skip region verbatim
     lastIdx = m.index + m[0].length;
   }
   out += linkifyProse(html.slice(lastIdx), byPid, listChaptersFn, warnedKeys);
