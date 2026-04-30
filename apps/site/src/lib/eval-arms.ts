@@ -9,6 +9,9 @@
  * No DOM, no React, no fetching — pure logic, fully unit-testable.
  */
 
+import type { EvalCase } from "./eval-types";
+import { passOf } from "./eval-types";
+
 export type Arm = "baseline" | "wiki";
 
 /** Extract the A/B arm tag from a model id, or null if untagged. */
@@ -35,4 +38,28 @@ export function isAbMode(models: { id: string }[]): boolean {
     if (hasBaseline && hasWiki) return true;
   }
   return false;
+}
+
+/**
+ * Per-arm verdict pair for a single case. `null` means "this arm has
+ * no result for this case" (i.e. pending — e.g. wiki run is partial).
+ *
+ * Used by:
+ *   - CaseRow rendering (which pill to show per arm)
+ *   - filterByCompare (truth-table membership)
+ *   - chip-count derivation (live counts on each filter chip)
+ *
+ * Caller passes the resolved baseline/wiki model ids (typically derived
+ * via models.find(m => armOfModelId(m.id) === "baseline") at the top
+ * of the explorer); `undefined` means that arm isn't in the models list.
+ */
+export function armVerdicts(
+  c: EvalCase,
+  baselineId: string | undefined,
+  wikiId: string | undefined,
+): { baseline: boolean | null; wiki: boolean | null } {
+  return {
+    baseline: baselineId ? passOf(c.results[baselineId]) : null,
+    wiki: wikiId ? passOf(c.results[wikiId]) : null,
+  };
 }
