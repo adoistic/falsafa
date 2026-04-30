@@ -171,24 +171,73 @@ function foldDiacritics(s: string): string {
   return s.normalize("NFKD").replace(/\p{M}+/gu, "").toLowerCase();
 }
 
-function computeMechanicalPass(answer: string, expectedWorks: string[]): boolean {
-  if (expectedWorks.length === 0) return true; // no expectation = trivially passes
+/**
+ * Citation shape from runner output (apps/mcp/eval/run-openrouter.ts emits
+ * objects with work_slug + paragraph_id; chapter_number is optional).
+ */
+interface ResultCitation {
+  work_slug?: string;
+  paragraph_id?: string;
+  chapter_number?: number;
+}
+
+/**
+ * Citation-based pass: every expected_work must appear as work_slug in at
+ * least one structured citation. This is the honest deterministic check the
+ * corpus design enables — verbatim paragraph IDs cited via the MCP, no
+ * substring guessing. A model that name-drops "Manusmṛti" in prose without
+ * actually citing a paragraph is NOT a pass under this rule.
+ */
+function passByCitations(citations: ResultCitation[], expectedWorks: string[]): boolean {
+  if (expectedWorks.length === 0) return true;
+  const cited = new Set<string>();
+  for (const c of citations) {
+    if (c.work_slug) cited.add(c.work_slug);
+  }
+  for (const slug of expectedWorks) {
+    if (!cited.has(slug)) return false;
+  }
+  return true;
+}
+
+/**
+ * Prose substring fallback for runs without structured citations (~10% of
+ * the current pool). Pass if every expected work-slug (or its longest
+ * meaningful middle token) appears anywhere in the answer text, with
+ * diacritic folding applied to both sides.
+ *
+ * This is strictly weaker than passByCitations — a model can name-check a
+ * work in prose without citing a paragraph in it. We only use this when
+ * citations[] is empty so that older runs are still scored.
+ */
+function passByProse(answer: string, expectedWorks: string[]): boolean {
+  if (expectedWorks.length === 0) return true;
   const lowerFolded = foldDiacritics(answer);
-  // Pass if every expected work-slug (or its last token, e.g. "manusmrti" from
-  // "unknown-manusmrti-347b76") appears in the answer text. Slug match is
-  // strict; token match catches answers that name the work in human prose.
-  // Both sides are NFKD-folded so Sanskrit "Viṣṇu" matches slug token "visnu".
   for (const slug of expectedWorks) {
     const slugFolded = foldDiacritics(slug);
     if (lowerFolded.includes(slugFolded)) continue;
-    // Try a meaningful token from the slug — drop the leading "unknown-" if
-    // present, drop the trailing 6-char hash, take the longest middle token.
     const tokens = slug.replace(/^unknown-/, "").split("-").filter((t) => t.length > 3 && !/^[0-9a-f]{6}$/.test(t));
     const longest = tokens.sort((a, b) => b.length - a.length)[0];
     if (longest && lowerFolded.includes(foldDiacritics(longest))) continue;
     return false;
   }
   return true;
+}
+
+function computeMechanicalPass(
+  answer: string,
+  expectedWorks: string[],
+  citations: ResultCitation[] | undefined,
+): boolean {
+  if (expectedWorks.length === 0) return true;
+  // Primary: structured citation check (the deterministic verifier the
+  // corpus design enables). If the runner emitted citations, score against
+  // them — model claims must be backed by a paragraph_id in the right work.
+  if (citations && citations.length > 0) {
+    return passByCitations(citations, expectedWorks);
+  }
+  // Fallback: prose substring (for runs that predate citation extraction).
+  return passByProse(answer, expectedWorks);
 }
 
 const REPO_ROOT = resolve(import.meta.dir, "..");
@@ -596,11 +645,17 @@ function main() {
         c = { ...seed, results: {} };
         cases.set(id, c);
       }
-      // Stamp mechanical_pass from the case's expected_works. This is the
-      // build-time fallback so the explorer renders honest pass rates before
-      // the Sonnet judge layer fills in the structured verdicts.
+      // Stamp mechanical_pass from the case's expected_works. Recompute only
+      // when loadResults didn't already pin it from `_score-mechanical.json`
+      // (some older orchestrator runs ship explicit per-case scores). When
+      // unpinned, score against the current rules — citations[] preferred,
+      // diacritic-folded prose substring as fallback.
       if (result.mechanical_pass === undefined) {
-        result.mechanical_pass = computeMechanicalPass(result.answer, c.expected_works);
+        result.mechanical_pass = computeMechanicalPass(
+          result.answer,
+          c.expected_works,
+          result.citations,
+        );
       }
       result.from_run = run.runDir;       // stamp before storing
       const existing = c.results[run.modelLabel];
